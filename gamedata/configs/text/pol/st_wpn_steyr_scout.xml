@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<string id="st_wpn_steyr_scout">
+		<text>Steyr Scout 5.56</text>
+	</string>
+	<string id="st_wpn_steyr_scout_descr">
+		<text>Karabin snajperski Steyr Scout to renomowana broń palna znana z wyjątkowej celności i wszechstronności. Strzelający z amunicji kalibru 5,56x45 mm, karabin ten łączy precyzję z przenośnością, co czyni go ulubionym wśród strzelców wyborowych i profesjonalistów wojskowych. Jego kompaktowa budowa i lekka konstrukcja pozwalają na łatwe manewrowanie w różnych scenariuszach taktycznych, a solidna konstrukcja zapewnia trwałość i niezawodność w terenie. Wyposażony w zaawansowaną optykę i przyjazny dla użytkownika interfejs, Steyr Scout oferuje szybkie namierzanie celu i doskonałą wydajność na średnich i długich dystansach. Dzięki nabojowi kalibru 5,56x45 mm zapewnia imponującą siłę rażenia i wyjątkową wydajność balistyczną, co czyni go idealnym wyborem zarówno do operacji miejskich, jak i terenowych. \n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+        %c[d_purple] • %c[ui_gray_2] tłumik: Surefire SOCOM556-MONSTER\n</text>
+	</string>
+
+<string id="st_wpn_steyr_scout_big">
+		<text>Steyr Scout 7.62</text>
+	</string>
+	<string id="st_wpn_steyr_scout_big_descr">
+		<text>Karabin snajperski Steyr Scout to wysoko ceniona broń palna znana ze swojej precyzji i zdolności adaptacyjnych. Strzelający potężną amunicję 7,62x51 mm, karabin ten łączy potężną siłę rażenia z imponującą celnością, co czyni go ulubionym wśród strzelców wyborowych i profesjonalistów wojskowych. Jego ergonomiczny kształt i lekka konstrukcja pozwalają na łatwą obsługę i szybkie namierzanie celu, zapewniając skuteczność w różnych sytuacjach taktycznych. Solidna konstrukcja Steyr Scout gwarantuje trwałość i niezawodność w najtrudniejszych warunkach, co czyni go zaufanym wyborem dla strzelca. Dzięki komorze nabojowej gwintowanej pod amunicję kalibru 7,62x51 mm zapewnia doskonałą wydajność na długich dystansach, dzięki czemu idealnie nadaje się do atakowania celów na dużych odległościach z wysoką dokładnością i śmiertelnym uderzeniem. \n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+        %c[d_purple] • %c[ui_gray_2] tłumik: Daniel Defence Wave QD\n</text>
+	</string>
+
+<string id="st_mag_steyr_556">
+		<text>Magazynek do Steyr Scout kalibru 5.56x45 mm</text>
+	</string>
+	<string id="st_mag_steyr_556_descr">
+		<text>Standardowy magazynek do karabinu Steyr Scout kalibru 5.56x45 mm.\n \n</text>
+	</string>	
+
+<string id="st_mag_steyr_762">
+		<text>Magazynek do Steyr Scout kalibru 7.62x51 mm</text>
+	</string>
+	<string id="st_mag_steyr_762_descr">
+		<text>Standardowy magazynek do karabinu Steyr Scout kalibru 7.62x51 mm.\n \n</text>
+	</string>		
+</string_table>

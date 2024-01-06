@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	
+	<string id="st_use_stove">
+		<text>Skorzystaj z kuchenki</text>
+	</string>
+	
+	<string id="st_prop_laptop_item">
+		<text>Laptop</text>
+	</string>
+	<string id="st_prop_laptop_item_descr">
+		<text>
+			Bardzo wyrafinowany i nowoczesny laptop. Dość zaskakujący widok w Zonie. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n				
+		</text>
+	</string>
+
+	<string id="st_prop_bed_1">
+		<text>Zwijane łóżko</text>
+	</string>
+	<string id="st_prop_bed_1_descr">
+		<text>
+			Prosty materac i koc, lekkie i przenośne. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+			%c[d_orange] • %c[ui_gray_2] można użyć do spania\n		
+		</text>
+	</string>
+
+	<string id="st_prop_bed_2">
+		<text>Metalowe łóżko</text>
+	</string>
+	<string id="st_prop_bed_2_descr">
+		<text>
+			Stare zardzewiałe metalowe łóżko z materacem i kocem. Lepsze to niż spanie na ziemi. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+			%c[d_orange] • %c[ui_gray_2] można użyć do spania\n				
+		</text>
+	</string>
+
+	<string id="st_prop_bed_3">
+		<text>Drewniane łóżko</text>
+	</string>
+	<string id="st_prop_bed_3_descr">
+		<text>
+			Solidne drewniane łóżko. Materac jest miękki i wygodny, a w zestawie znajduje się podwójny zestaw koców zapewniających ciepło podczas zimnych nocy. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+			%c[d_orange] • %c[ui_gray_2] można użyć do spania\n		
+		</text>
+	</string>
+
+	<string id="st_prop_board_map">
+		<text>Mapa Zony</text>
+	</string>
+	<string id="st_prop_board_map_descr">
+		<text>
+			Mapa topograficzna strefy. Dzięki niej możesz zaplanować swój następny rajd w Zonę bez ruszania się z kryjówki. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+		</text>
+	</string>
+
+	<string id="st_prop_cans_tuna">
+		<text>Skrzynka na konserwy</text>
+	</string>
+	<string id="st_prop_cans_tuna_descr">
+		<text>
+			Drewniana skrzynia powszechnie używana przez handlarzy do wystawiania swoich towarów. Nadaje się tylko do żywności w puszkach. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] duża pojemność\n
+			%c[d_blue] • %c[d_red] może przechowywać tylko żywność w puszkach %c[ui_gray_2] \n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n	
+		</text>
+	</string>
+
+	<string id="st_prop_couch_1">
+		<text>Stara sofa</text>
+	</string>
+	<string id="st_prop_couch_1_descr">
+		<text>
+			Stara sofa. W zaskakująco dobrym stanie i wolna od radioaktywnych cząstek. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+		</text>
+	</string>
+
+	<string id="st_prop_counter_1">
+		<text>Drewniana komoda</text>
+	</string>
+	<string id="st_prop_counter_1_descr">
+		<text>
+			Prosta, stara drewniana komoda, która przetrwała trudne warunki panujące w Zonie i wciąż jest w dobrym stanie. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+		</text>
+	</string>
+
+	<string id="st_prop_poster_vertical_item">
+		<text>Plakat (Pionowy)</text>
+	</string>
+	<string id="st_prop_poster_vertical_item_descr">
+		<text>
+			Zwykły kawałek woskowanego papieru z obrazem. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+		</text>
+	</string>
+	
+	<string id="st_prop_table_1">
+		<text>Drewniane biurko</text>
+	</string>
+	<string id="st_prop_table_1_descr">
+		<text>
+			Solidne drewniane biurko, wciąż w dobrym stanie. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+		</text>
+	</string>
+
+	<string id="st_prop_table_2">
+		<text>Drewniany stół</text>
+	</string>
+	<string id="st_prop_table_2_descr">
+		<text>
+			Przeciętny drewniany stół, solidny i wytrzymały. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n		
+		</text>
+	</string>
+
+	<string id="st_prop_bong">
+		<text>Bongo</text>
+	</string>
+	<string id="st_prop_bong_descr">
+		<text>
+			Szisza wodna, znana również jako fajka wodna lub bongo, to jedno lub wieloramienny przyrząd do palenia tytoniu, w którym dym jest chłodzony wodą utrzymywaną w naczyniu. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_case">
+		<text>Obudowa komputera</text>
+	</string>
+	<string id="st_prop_case_descr">
+		<text>
+			Stara obudowa PC, niefunkcjonalna, ale być może możliwa do naprawy. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_chair_descr">
+		<text>Drewniane krzesło</text>
+	</string>
+	<string id="st_prop_chair_descr">
+		<text>
+			Proste i solidne drewniane krzesło z miękkim siedziskiem. Wystarczająco wygodne. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_dish1">
+		<text>Ceramiczny talerz</text>
+	</string>
+	<string id="st_prop_dish1_descr">
+		<text>
+			 Ceramiczny talerz do zastosowań niebojowych. Będzie ci dobrze służył podczas przygód z jedzeniem mięsa z mutantów. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_dish2">
+		<text>Ceramiczna miska</text>
+	</string>
+	<string id="st_prop_dish2_descr">
+		<text>
+			 Ceramiczna miska będzie ci dobrze służyć podczas przygód z jedzeniem mięsa z mutantów. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_fan">
+		<text>Mały wiatrak</text>
+	</string>
+	<string id="st_prop_fan_descr">
+		<text>
+			Mały wiatrak, funkcjonalny. Przydatny w te rzadkie słoneczne dni w Zonie... \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n
+			%c[d_orange] • %c[ui_gray_2] Po włączeniu wytwarza chłodną bryzę\n			
+		</text>
+	</string>
+
+	<string id="st_prop_fridge">
+		<text>Stara lodówka</text>
+	</string>
+	<string id="st_prop_fridge_descr">
+		<text>
+			Duża i ciężka lodówka. Pomaga uchronić mięso z mutantów przed zgniciem. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] duża pojemność\n
+			%c[d_orange] • %c[ui_gray_2] mięso mutantów nie gnije gdy zostanie umieszczone w lodówce %c[ui_gray_2] \n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n
+		</text>
+	</string>
+	
+	<string id="st_prop_keyboard">
+		<text>Klawiatura</text>
+	</string>
+	<string id="st_prop_keyboard_descr">
+		<text>
+			Stara klawiatura. Ma lekko żółty odcień z powodu upływu czasu. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_mice">
+		<text>Myszka</text>
+	</string>
+	<string id="st_prop_mice_descr">
+		<text>
+			Podstawowa, stara mysz komputerowa. Niewygodna, powolna i ciężka. Witamy z powrotem w późnych latach 90-tych! \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_mice_pad">
+		<text>Myszka z podkładką</text>
+	</string>
+	<string id="st_prop_mice_pad_descr">
+		<text>
+			Podstawowa, stara mysz komputerowa. Niewygodna, powolna i ciężka. W zestawie znajduje się kilka zszytych ze sobą materiałów, aby nadać myszy nieco lepszą powierzchnię. Może nie być tak skuteczna, jak jest reklamowana. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_monitor">
+		<text>Monitor</text>
+	</string>
+	<string id="st_prop_monitor_descr">
+		<text>
+			Stary monitor, którego ekran wydaje się być nienaruszony, może potencjalnie działać. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_mug">
+		<text>Kubek</text>
+	</string>
+	<string id="st_prop_mug_descr">
+		<text>
+			Zwykły kubek nieznanego pochodzenia. Jest wystarczająco czysty, ale może nadawać napojom specyficzny smak. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_stove1">
+		<text>Mała kuchenka</text>
+	</string>
+	<string id="st_prop_stove1_descr">
+		<text>
+			Mała kuchenka, funkcjonalna. Została przystosowana przez stalkerów do pracy z każdym paliwem. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+			%c[d_blue] • %c[ui_gray_2] cenna\n
+			%c[d_orange] • %c[ui_gray_2] nadaje się do gotowania posiłków\n
+		</text>
+	</string>
+
+	<string id="st_prop_stove2">
+		<text>Duża kuchenka</text>
+	</string>
+	<string id="st_prop_stove2_descr">
+		<text>
+			Duża kuchenka, funkcjonalna. Została przystosowana przez stalkerów do pracy ze wszystkimi paliwami. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+			%c[d_blue] • %c[ui_gray_2] cenna\n
+			%c[d_blue] • %c[ui_gray_2] duża pojemność (zintegrowana)\n
+			%c[d_orange] • %c[ui_gray_2] nadaje się do gotowania posiłków\n		
+		</text>
+	</string>
+
+	<string id="st_prop_tv">
+		<text>Telewizor</text>
+	</string>
+	<string id="st_prop_tv_descr">
+		<text>
+			Stary telewizor, który dostraja się do jedynego kanału dostępnego w Zonie. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_shelf_1">
+		<text>Drewniana półka</text>
+	</string>
+	<string id="st_prop_shelf_1_descr">
+		<text>
+			Prosta półka wykonana z drewna. Powszechna w Zonie. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_shelf_2">
+		<text>Duża drewniana półka</text>
+	</string>
+	<string id="st_prop_shelf_2_descr">
+		<text>
+			Solidna drewniana półka, dobrze zachowana. Dobry sposób na uporządkowanie łupów. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_green] • %c[ui_gray_2] mebel\n			
+		</text>
+	</string>
+
+	<string id="st_prop_prop_clock_1">
+		<text>Cyfrowy zegar</text>
+	</string>
+	<string id="st_prop_prop_clock_1_descr">
+		<text>
+			Zupełnie nowy cyfrowy zegar. Rzadki widok w Zonie.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_orange] • %c[ui_gray_2] shows time\n
+		</text>
+	</string>
+
+	<string id="st_prop_med_case_1">
+		<text>Walizka na leki</text>
+	</string>
+	<string id="st_prop_med_case_1_descr">
+		<text>
+			Wytrzymała plastikowa walizka z amortyzującą wyściółką w środku. Przeznaczona do przechowywania przedmiotów medycznych. \n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] duża pojemność\n
+			%c[d_orange] • %c[d_red] może przechowywać medykamenty %c[ui_gray_2] \n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n
+		</text>
+	</string>
+
+	<string id="st_prop_lamp1">
+		<text>Mała lampka biurkowa</text>
+	</string>
+	<string id="st_prop_lamp1_descr">
+		<text>
+			Rozświetla noce. \n \n
+			%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] niskie zużycie energii elektrycznej\n
+			%c[d_blue] • %c[ui_gray_2] zasilanie: baterie\n			
+		</text>
+	</string>
+
+	<string id="st_prop_lamp2">
+		<text>Duża lampka biurkowa</text>
+	</string>
+
+	<string id="st_prop_lamp2_descr">
+		<text>
+			Rozświetla noce. \n \n
+			%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] niskie zużycie energii elektrycznej\n
+			%c[d_blue] • %c[ui_gray_2] zasilanie: baterie\n		
+		</text>
+	</string>
+
+	<string id="st_placeable_ammo_box">
+		<text>Skrzynka na amunicję</text>
+	</string>
+	<string id="st_placeable_ammo_box_descr">
+		<text>Przestronna drewniana skrzynia używana do przechowywania amunicji przez wojsko. Zapewnia dużo miejsca na amunicję, ale nie nadaje się do niczego innego.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] duża pojemność\n
+			%c[d_orange] • %c[d_red] może przechowywać tylko amunicję %c[ui_gray_2] \n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n
+		</text>
+	</string>
+	
+</string_table>

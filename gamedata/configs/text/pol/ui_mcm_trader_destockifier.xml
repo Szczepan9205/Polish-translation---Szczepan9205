@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_trader_destockifier_title">
+		<text>Trader Destockifier</text>
+	</string>
+	<string id="ui_mcm_menu_trader_destockifier">
+		<text>Trader Destock</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_enable">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_debug_mode">
+		<text>Tryb debugowania</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_debug_mode_desc">
+		<text>Włącza spam wiadomości w konsoli</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_items_help">
+		<text>
+			Poniżej można zdefiniować maksymalną ilość przedmiotów, jaką każdy handlarz może posiadać po uzupełnieniu zapasów.\n
+			Ustawienie suwaka na 0 spowoduje całkowite usunięcie przedmiotów w grupie.\n
+			Ustawienie suwaka na -1 zignoruje przedmioty w grupie i niczego nie usunie.\n
+		</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_guns">
+		<text>Maksymalna ilość broni dwuręcznych na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_handguns">
+		<text>Maksymalna ilość pistoletów na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_knives">
+		<text>Maksymalna ilość noży na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_outfits">
+		<text>Maksymalna ilość kombinezonów na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_helmets">
+		<text>Maksymalna ilość hełmów na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_weapon_attachments">
+		<text>Maksymalna ilość dodatków do broni na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_backpacks">
+		<text>Maksymalna ilość plecaków na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_explosives">
+		<text>Maksymalna ilość materiałów wybuchowych (granatów, rakiet) na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_ammo_percent">
+		<text>Maksymalny procent amunicji z początkowego zapasu do sprzedania</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_ammo_percent_desc">
+		<text>-10 nie dotknie amunicji</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_sell_only_guns_ammo">
+		<text>Sprzedaż amunicji tylko do broni na stanie</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_food">
+		<text>Maksymalna ilość produktów spożywczych (jedzenie, napoje, papierosy) na stanie.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_food_desc">
+		<text>Handlarze niebędący barmanami będą mieli 50% rzeczy do zaoferowania mniej niż zdefiniowana ilość.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_heal">
+		<text>Maksymalna ilość przedmiotów medycznych na stanie.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_heal_desc">
+		<text>Handlarze nie będący medykami będą mieli na stanie 50% medykamentów mniej niż zdefiniowana ilość</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_repair">
+		<text>Maksymalna ilość zestawów naprawczych na stanie.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_repair_desc">
+		<text>Handlarze nie będący technikami będą mieli na stanie 50% mniej zestawów naprawczych niż zdefiniowana ilość</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize">
+		<text>Losowość</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_desc">
+		<text>Ilość przedmiotów będzie się wahać od zdefiniowanej ilości w MCM</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_deviation">
+		<text>Losowość odchylenia (%)</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_deviation_desc">
+		<text>
+			100% - ilość przedmiotów waha się od 0 do 2x\n
+			50% - ilość przedmiotów waha się od 0,5x do 1,5x kwoty
+		</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_compatibility_help">
+		<text>
+			Poniżej możesz zdefiniować kwotę dla przedmiotów używanych przez niektóre mody\n
+		</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_mags">
+		<text>Maksymalna liczba magazynków na stanie. (mod Mags Redux)</text>
+	</string>
+	
+</string_table>

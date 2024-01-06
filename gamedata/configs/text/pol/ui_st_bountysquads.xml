@@ -1,0 +1,47 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_menu_bountysquads">
+		<text>Rozszerzenie Bounty Squads</text>
+	</string>
+	<string id="ui_mcm_title_bountysquads">
+		<text>Rozszerzenie Bounty Squads</text>
+	</string>
+
+	<string id="ui_mcm_bountysquads_delay">
+		<text>OpóŸnienie miêdzy potencjalnym spawnem</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_desc">
+		<text>Jest to minimalny czas (w godzinach w grze), który musi up³yn¹æ, zanim w ogóle zostanie rozwa¿ony spawn oddzia³u ³owców nagród. To, czy oddzia³ zespawnuje siê, zale¿y od szansy ka¿dej frakcji na spawn oddzia³u.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn">
+		<text>Czas pomiêdzy aktualizacjami spawnu</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn_desc">
+		<text>Jest to czas (w sekundach rzeczywistych) pomiêdzy aktualizacjami frakcji, reputacji i sprawdzeniem spawnu gracza. Czas ten jest liczony po za³adowaniu gry, wiêc gracz musi znajdowaæ siê w zasiêgu wrogiej pozycji przez ten czas, zanim oddzia³ ³owców nagród bêdzie mia³ jak¹kolwiek szansê na spawn.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state">
+		<text>Czas pomiêdzy aktualizacjami lokalizacji gracza</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state_desc">
+		<text>Jest to czas (w rzeczywistych sekundach) pomiêdzy aktualizacjami lokalizacji gracza. Oddzia³y ³owców nagród ponownie namierz¹ aktualn¹ pozycjê gracza po up³ywie tego czasu. Wycofaj¹ siê równie¿, jeœli gracz znajduje siê w "bezpiecznej" lokalizacji z pobliskimi sojusznikami.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance">
+		<text>Podstawowa % szansa na spawn</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance_desc">
+		<text>Jest to podstawowa szansa na spawn: procentowa szansa na spawnu oddzia³u ³owców nagród w danej sesji, gdy gracz nie zabi³ ¿adnych cz³onków tej frakcji. Ca³kowita szansa na spawn oddzia³u ³owców jest obliczana jako (base_spawn_chance * faction_multiplier), gdzie mno¿nik frakcji zale¿y od tego, ilu cz³onków frakcji zginê³o z r¹k gracza. Zaleca siê utrzymywanie tej wartoœci na niskim poziomie, poniewa¿ mno¿nik frakcji zapewni, ¿e prawdopodobieñstwo spawnu oddzia³ów ³owców w koñcu wzroœnie.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment">
+		<text>Przyrost mno¿nika za zabicia</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment_desc">
+		<text>Jeœli gracz jest szczególnie agresywny w stosunku do konkretnej frakcji, bêdzie mia³ wiêksz¹ szansê na wys³anie przez ni¹ oddzia³ów ³owców nagród. Za ka¿dym razem, gdy gracz zabije STALKERA, frakcja ofiary zwiêkszy swój mno¿nik do odrodzenia oddzia³u nagród, faction_multiplier, o tê wartoœæ. Na przyk³ad, jeœli ta wartoœæ jest ustawiona na 0,5, za pierwszym razem, gdy gracz zabije cz³onka frakcji, zwiêkszy mno¿nik do 1,5. Kolejna ofiara zwiêkszy go do 2,0 itd. Wartoœæ ta jest nastêpnie mno¿ona przez bazow¹ szansê odrodzenia za ka¿dym razem, gdy dana frakcja rozwa¿a spawn oddzia³u ³owców.</text>
+	</string>
+
+
+</string_table>

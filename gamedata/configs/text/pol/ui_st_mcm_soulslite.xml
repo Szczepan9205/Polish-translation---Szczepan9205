@@ -1,0 +1,236 @@
+<string_table>
+	<string id="ui_mcm_menu_soulslike">
+		<text>Soulslike</text>
+	</string>
+
+    <!--General-->
+    <string id="ui_mcm_soulslike_general">
+        <text>Ogólne</text>
+    </string>
+    <string id="ui_mcm_soulslike_general_title">
+        <text>Ustawienia Jabbers' Soulslike</text>
+    </string>
+    <string id="ui_mcm_soulslike_general_description">
+        <text>Mod Soulslike wprowadza do Stalkera elementy gier w stylu souls. Po œmierci zostajesz uratowany przez losowego stalkera w Zonie. Sprowadza ciê on z powrotem do ustalonego miejsca ostatniego odrodzenia, gdzie budzisz siê i znajdujesz wiadomoœæ od nich o tym, jak zosta³eœ znaleziony i jak wiele mogli zrobiæ, aby doprowadziæ ciê do bezpiecznego miejsca. Przedmioty, które znajdowa³y siê w twoim ekwipunku, musz¹ zostaæ odzyskane, niektóre mog¹ zostaæ utracone, a ich stan mo¿e ulec pogorszeniu, w zale¿noœci od ustawieñ.</text>
+     </string>
+    <string id="ui_mcm_soulslike_general_disclaimer">
+        <text>ZASTRZE¯ENIE: Przestañ p³akaæ, ten mod ma utrudniaæ grê. Z tego powodu w 100% mo¿liwe jest znalezienie siê w sytuacji, w której nieoczekiwanie stracisz swój ekwipunek. Losowa utrata przedmiotów przy œmierci oznacza, ¿e mo¿esz straciæ broñ lub kombinezon, a œmieræ w œrodku anomalii i niemo¿noœæ odzyskania sprzêtu jest mo¿liwa i oczekiwana. Zawsze miej wiêc zapasowy zestaw, planuj na najgorsze, miej nadziejê na najlepsze.</text>
+    </string>
+
+    <!--Character-->
+    <string id="ui_mcm_soulslike_character">
+        <text>Postaæ</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_title">
+        <text>Ustawienia postaci</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rank_loss_percent">
+        <text>Utrata rangi %</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rank_loss_percent_desc">
+        <text>Ta wartoœæ rangi postaci zostanie utracona podczas odrodzenia.</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rep_loss_percent">
+        <text>Utrata reputacji %</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_rep_loss_percent_desc">
+        <text>Ta iloœæ reputacji postaci zostanie utracona po odrodzeniu. Jest to reputacja osobista, a nie reputacja frakcji.</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_health_loss_on_respawn">
+        <text>Utrata zdrowia w % przy respawnie</text>
+    </string>
+    <string id="ui_mcm_soulslike_character_health_loss_on_respawn_desc">
+        <text>Dodaje to nieco wiêcej trudnoœci do rozgrywki. Jest to iloœæ zdrowia, która zostanie usuniêta po odrodzeniu. Przyk³ad: 25% oznacza, ¿e po odrodzeniu bêdziesz mia³ 75% zdrowia. Koncepcja polega na tym, ¿e nadal bêdziesz lekko ranny i musisz mieæ przy sobie trochê leków, aby siê wyleczyæ, zanim spróbujesz kontynuowaæ i odzyskaæ swoje przedmioty z miejsca, w którym zgin¹³eœ.</text>
+    </string>
+
+    <!--Items-->
+    <string id="ui_mcm_soulslike_items">
+        <text>Przedmioty</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_title">
+        <text>Ustawienia przedmiotów</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_keep_equipped_items_on_death">
+        <text>Zachowaj wyposa¿one przedmioty po œmierci</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_desc">
+        <text>Poni¿sze ustawienia dotycz¹ przedmiotów upuszczanych po œmierci. Ka¿dy z poni¿szych typów przedmiotów ma szansê zostaæ trwale utracony, chyba ¿e zostanie odznaczony.</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_weapon_loss">
+        <text>Zezwól na utratê broni</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_outfit_loss">
+        <text>Zezwól na utratê kombinezonu</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_headgear_loss">
+        <text>Zezwól na utratê he³mu</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_artifact_loss">
+        <text>Zezwól na utratê artefaktów</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_allow_tool_loss">
+        <text>Zezwól na utratê narzêdzi</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_scalar_description">
+        <text>Utrata przedmiotów i kondycji zale¿y od rangi. Po œmierci, im wy¿sza ranga, tym wiêksze prawdopodobieñstwo utraty przedmiotu lub zmniejszenia stanu. Ma to na celu u³atwienie gry na pocz¹tku, ale w miarê postêpów konsekwencje œmierci staj¹ siê coraz powa¿niejsze. Bardziej szczegó³owe objaœnienia znajduj¹ siê w opisie ka¿dego ustawienia.</text>
+     </string>
+    <string id="ui_mcm_soulslike_items_item_loss_scalar">
+        <text>Skalarna strata elementu</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_item_loss_scalar_desc">
+        <text>Przy maksymalnej randze postaæ ma 75% szans na utratê ka¿dego przedmiotu w chwili œmierci. Skalar utraty przedmiotów pozwala zarz¹dzaæ t¹ utrat¹ wed³ug w³asnych upodobañ. Przy domyœlnej wartoœci 0.20 (lub 20%) maksymalna szansa na utratê przedmiotu wynosi 15%. Powinieneœ ustawiæ tê wartoœæ na tak¹, która odpowiada twojemu akceptowalnemu poziomowi utraty przedmiotów. Przyk³ady: 0.10 = 7.5%, 0.20 = 15%, 0.30 = 22%, 0.40 = 30%... rozumiesz ju¿ o co chodzi?</text>
+    </string>
+    
+    <string id="ui_mcm_soulslike_items_item_condition_loss_scalar">
+        <text>Skalar utraty stanu</text>
+    </string>
+    <string id="ui_mcm_soulslike_items_item_condition_loss_scalar_desc">
+        <text>Przy maksymalnej randze postaæ straci 18 kondycji na ka¿dym przedmiocie w momencie œmierci. Skalar utraty kondycji przedmiotów pozwala zarz¹dzaæ t¹ utrat¹ wed³ug w³asnych upodobañ. Przy domyœlnej wartoœci 0,05 (lub 5%) maksymalna utrata kondycji na przedmiot wyniesie 3,7. Powinieneœ ustawiæ tê wartoœæ na tak¹, która odpowiada twojemu akceptowalnemu poziomowi utraty kondycji przedmiotów. Przyk³ady: 0,05 = 3,7, 0,10 = 7,4, 0,15 = 11... ju¿ rozumiesz?</text>
+    </string>
+    
+    <!--Scenarios-->
+    <string id="ui_mcm_soulslike_scenarios">
+        <text>Scenariusze</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_title">
+        <text>Ustawienia scenariuszy</text>
+    </string>
+    <string id="ui_mcm_soulslike_scenarios_description">
+        <text>Scenariusze soulslike s¹ z natury dynamiczne. Zdarzenia odrodzenia zale¿¹ od tego, kto ciê zabi³, jak zosta³eœ zabity, gdzie, jak blisko miejsca odrodzenia by³eœ, gdy zgin¹³eœ, czy jesteœ wewn¹trz czy na zewn¹trz, by wymieniæ tylko kilka. Ustawienia te istniej¹, aby umo¿liwiæ ci dostosowanie sposobów, w jakie chcesz spróbowaæ odzyskaæ swój ekwipunek. Domyœlne scenariusze, które zawsze istniej¹, s¹ takie, ¿e mo¿esz mieæ wszystkie swoje przedmioty przy sobie podczas odrodzenia (ponownie, w oparciu o wydarzenia) lub mo¿esz odkryæ, ¿e twoje przedmioty znajduj¹ siê w plecaku na ziemi, gdzie znaleziono twoje cia³o. Poni¿sze opcje s¹ dodatkowymi i mo¿na je zmieniæ, aby wystêpowa³y czêœciej lub rzadziej.</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight">
+        <text>Wa¿noœæ scenariusza z detektorem RF</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
+        <text>Jako dodatkowy poziom trudnoœci i aby trochê namieszaæ, po u¿yciu tego scenariusza twój wybawca przeniesie wszystkie przedmioty do ukrytego schowka na tej samej lokacji, na której zosta³eœ znaleziony. Poinformuje ciê on te¿ o czêstotliwoœci radiowej, której masz nas³uchiwaæ, aby znaleŸæ sprzêt, a tak¿e zostawi notatkê w ekwipunku jako przypomnienie.</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_hidden_stash_scenario_weight">
+        <text>Wa¿noœæ scenariusza z ukrytym schowkiem</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
+        <text>Jako dodatkowy poziom trudnoœci i aby trochê namieszaæ, podczas korzystania z tego scenariusza twój wybawca przeniesie wszystkie przedmioty do ukrytego schowka i oznaczy ci go na urz¹dzeniu PDA.</text>
+     </string>
+    <string id="ui_mcm_soulslike_scenarios_looter_npcs_marked">
+        <text>Zaznacz pl¹druj¹cych NPC na PDA</text>
+    </string>
+    <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
+        <text>Gdy twój ekwipunek zostanie spl¹drowany przez NPC, ta opcja pozwoli ci œledziæ ich na twoim PDA.</text>
+     </string>
+
+    <!--Ambush-->
+    <string id="ui_mcm_soulslike_ambush">
+        <text>Pu³apka</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_title">
+        <text>Ustawienia pu³apek</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_description">
+        <text>W zale¿noœci od tego, co wydarzy³o siê w scenariuszu i jakie przedmioty znajduj¹ siê w twoim ekwipunku, istnieje szansa na wyst¹pienie zasadzki w miejscu, w którym znaleziono twoje cia³o.</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_mutant_ambush_chance">
+        <text>Szansa na pu³apkê mutantów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_boar_ambush">
+        <text>Zezwól na pu³apki dzików</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_flesh_ambush">
+        <text>Zezwól na pu³apki miêsaczy</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_dogs_ambush">
+        <text>Zezwól na pu³apki psów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_cats_ambush">
+        <text>Zezwól na pu³apki kotów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_snorks_ambush">
+        <text>Zezwól na pu³apki snorków</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_bloodsucker_ambush">
+        <text>Zezwól na pu³apki pijawek</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_burer_ambush">
+        <text>Zezwól na pu³apki buerów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_chimera_ambush">
+        <text>Zezwól na pu³apki chimer</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_controller_ambush">
+        <text>Zezwól na pu³apki kontrolerów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_stalker_ambush_chance">
+        <text>Zezwól na pu³apki stalkerów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_novice_ambush">
+        <text>Zezwól na pu³apki stalkerów nowicjuszy</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_advanced_ambush">
+        <text>Zezwól na pu³apki doœwiadczonych stalkerów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_veteran_ambush">
+        <text>Zezwól na pu³apki stalkerów - mistrzów</text>
+    </string>
+    <string id="ui_mcm_soulslike_ambush_allow_stalker_sniper_ambush">
+        <text>Zezwól na pu³apki stalkerom - snajperom</text>
+    </string>
+
+    <!--Hardcore-->
+    <string id="ui_mcm_soulslike_hardcore">
+        <text>Tryb hardkorowy</text>
+    </string>
+    <string id="ui_mcm_soulslike_hardcore_title">
+        <text>Ustawienia trybu hardkorowego</text>
+    </string>
+    <string id="ui_mcm_soulslike_hardcore_save_description">
+        <text>To ustawienie jest takie jakbyœ waln¹³ kutasem w ksi¹¿kê w twardej ok³adce, hardkorowe zapisy oznaczaj¹, ¿e rêczne, szybkie i zapisy przy ogniskach s¹ wy³¹czone i tylko jeden plik zapisu bêdzie kiedykolwiek istnia³. Hardkorowe zapisy pozwalaj¹ na zapisywanie tylko podczas snu i odradzania siê. Nale¿y pamiêtaæ, ¿e poniewa¿ tylko jeden plik zapisu bêdzie kiedykolwiek istnia³, mo¿liwe jest utkniêcie w sytuacji, w której postêp jest trudny, jeœli stracisz ca³y ekwipunek i nie masz pieniêdzy na leczenie lub jedzenie.</text>
+     </string>
+    <string id="ui_mcm_soulslike_hardcore_is_enabled">
+        <text>W³¹cz hardkorowe zapisy</text>
+    </string>    
+    <string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves">
+        <text>Zezwól na zapisy przy ognisku z hardkorowymi zapisami</text>
+    </string>
+    <string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves_desc">
+        <text>Czasami potrzebujesz tego ciep³ego, rozmytego uczucia komfortu, które uzyskujesz dziêki czêstemu oszczêdzaniu. Pozwala to na zapisywanie przy ogniskach, nawet jeœli w³¹czone jest hardkorowe zapisywanie. Nale¿y pamiêtaæ, ¿e podczas odradzania siê lub snu zapisy przy ognisku bêd¹ nadal usuwane, jeœli w³¹czona jest opcja hardkorowe zapisy.</text>
+    </string>
+
+    <!--Debug-->
+    <string id="ui_mcm_soulslike_debug">
+        <text>Tryb developera</text>
+    </string> 
+    <string id="ui_mcm_soulslike_debug_title">
+        <text>Ustawienia trybu developera</text>
+    </string>    
+    <string id="ui_mcm_soulslike_debug_is_enabled">
+        <text>Tryb debugowania</text>
+    </string>  
+    <string id="ui_mcm_soulslike_debug_enable_tips">
+        <text>Pokazuj wiadomoœci w PDA</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_squad_spawns">
+        <text>Debuguj spawn oddzia³ów</text>
+    </string>	
+    <string id="ui_mcm_soulslike_debug_debug_hidden_stashes">
+        <text>Debuguj ukryte schowki</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_item_loss">
+        <text>Debuguj utratê przedmiotów</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_tarkov_looter">
+        <text>Debuguj szabrowników niczym z Tarkova</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_noloss_scenario">
+        <text>Debuguj scenariusz bez utraty ekwipunku</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_default_scenario">
+        <text>Debuguj domyœlny scenariusz utraty ekwipunku</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_rf_scenario">
+        <text>Debuguj scenariusz z detektorem RF</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_the_hidden_stash_scenario">
+        <text>Debuguj scenariusz z ukrytym schowkiem</text>
+    </string>
+    <string id="ui_mcm_soulslike_debug_debug_always_spawn_ambush">
+        <text>Debuguj scenariusz z pu³apk¹</text>
+    </string>
+</string_table>

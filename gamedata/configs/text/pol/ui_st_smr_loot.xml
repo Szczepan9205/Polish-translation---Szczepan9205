@@ -1,0 +1,137 @@
+<string_table>
+	<string id="ui_mcm_menu_smr_loot">
+		<text>£up</text>
+	</string>
+	<!-- GENERAL -->
+	<string id="ui_mcm_SMR_smr_loot_random_items">
+		<text>Porozrzucane ³upy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_random_items_desc">
+		<text>Zmienia iloœæ przedmiotów znalezionych w œwiecie gry. Bêdzie to mia³o wp³yw tylko podczas rozpoczynania nowej gry.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_general_info">
+		<text>Poni¿sze opcje daj¹ szansê na znalezienie dodatkowych przedmiotów w schowkach i przy martwych postaciach niezale¿nych. Bardzo pomocne, jeœli grasz z podstawowym ustawieniem populacji "Brak".</text>
+	</string>
+	<!-- PDA MESSAGES -->
+	<string id="ui_mcm_SMR_smr_loot_send_message">
+		<text>Poka¿ powiadomienia w PDA</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_send_message_desc">
+		<text>Wyœwietla powiadomienie za ka¿dym razem, gdy gracz znajdzie dodatkowy przedmiot.</text>
+	</string>
+	<string id="st_smr_loot_found_repair">
+		<text>Znaleziono zestaw naprawczy</text>
+	</string>
+	<string id="st_smr_loot_found_ammo">
+		<text>Znaleziono amunicjê</text>
+	</string>
+	<string id="st_smr_loot_found_useful">
+		<text>Znaleziono u¿yteczny przedmiot</text>
+	</string>
+	<string id="st_smr_loot_found_meds">
+		<text>Znaleziono medykamenty</text>
+	</string>
+	<string id="st_smr_loot_found_mags">
+		<text>Znaleziono magazynek pasuj¹cy do twojej broni</text>
+	</string>
+	<string id="st_smr_loot_found_lootbox">
+		<text>Znaleziono skrzyniê z ³upami</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_npc_spawn">
+		<text>Przy NPC-u znaleziono dodatkowe przedmioty</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_npc_chance">
+		<text>Szansa na pojawienie siê przedmiotów przy NPC</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_npc_chance_desc">
+		<text>Szansa na znalezienie dodatkowych przedmiotów u postaci niezale¿nych. Jeœli siê powiedzie, zostanie wykonany drugi rzut przy u¿yciu zwyk³ej szansy na znalezienie przedmiotów w skrytkach.</text>
+	</string>
+	<!-- ITEMS -->
+	<string id="ui_mcm_SMR_smr_loot_items_title">
+		<text>Dodatkowe przedmioty pojawiaj¹ siê w schowkach.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_spawn">
+		<text>Spawn zestawów naprawczych</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_spawn_desc">
+		<text>Dodaje szansê na znalezienie zestawów naprawczych w schowkach.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_parts_spawn">
+		<text>Spawn przedmiotów do naprawy czêœci</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_parts_spawn_desc">
+		<text>W³¹cza/wy³¹cza zestawy do naprawy czêœci jako pomniejsze zestawy naprawcze. Jeœli nie chcesz zawracaæ sobie g³owy napraw¹/wymian¹ czêœci broni i ekwipunku, mo¿esz wy³¹czyæ spawnowanie siê powi¹zanych przedmiotów.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_chance">
+		<text>Szansa na zestaw naprawczy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_chance_desc">
+		<text>Szansa na znalezienie zestawów naprawczych w schowkach.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_minor_spawn">
+		<text>Spawn pomniejszych zestawów naprawczych</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_minor_spawn_desc">
+		<text>Zwiêksza szansê na znalezienie pomniejszych zestawów naprawczych, takich jak tubki kleju i zestawy czêœci w schowkach.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_minor_chance">
+		<text>Ma³a szansa na zestaw naprawczy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_repair_minor_chance_desc">
+		<text>Szansa na pojawienie siê pomniejszych zestawów naprawczych, takich jak tubki kleju i zestawy czêœci.</text>
+	</string>
+	<!-- AMMO -->
+	<string id="ui_mcm_SMR_smr_loot_ammo_spawn">
+		<text>Spawnuj wiêcej amunicji</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_ammo_spawn_desc">
+		<text>Zwiêksza szansê na znalezienie amunicji w schowkach.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_loot_ammo_chance">
+		<text>Szansa na amunicjê</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_ammo_chance_desc">
+		<text>Procentowa szansa na znalezienie amunicji w schowkach.</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_ammo_bad_spawn">
+		<text>Spawnuj star¹ amunicjê</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_ammo_bad_chance">
+		<text>Szansa na star¹ amunicjê</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_ammo_bad_chance_desc">
+		<text>Procentowa szansa, ¿e znaleziona amunicja bêdzie stara.</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_ammo_amount">
+		<text>Iloœæ amunicji</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_ammo_amount_desc">
+		<text>Mno¿nik iloœci znalezionej amunicji.</text>
+	</string>
+    <!-- USEFUL -->
+    <string id="ui_mcm_SMR_smr_loot_useful_spawn">
+		<text>Spawnuj przydatne przedmioty</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_useful_spawn_desc">
+		<text>Zwiêksza szansê na znalezienie przedmiotów, które s¹ trudne do zdobycia bez handlarzy w schowkach. Obejmuje no¿e, plecaki, detektory, czo³ówki i tym podobne.</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_useful_chance">
+		<text>Szansa na przydatny przedmiot</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_useful_chance_desc">
+		<text>Procentowa szansa na znalezienie przydatnych przedmiotów w schowkach.</text>
+	</string>
+	<!-- MEDS -->
+    <string id="ui_mcm_SMR_smr_loot_meds_spawn">
+		<text>Spawnuj przedmioty medyczne</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_meds_spawn_desc">
+		<text>Zwiêksza szansê na znalezienie przedmiotów medycznych w schowkach</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_meds_chance">
+		<text>Szansa na znalezienie przedmiotów medycznych</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_loot_meds_chance_desc">
+		<text>Procentowa szansa na znalezienie przedmiotów medycznych w schowkach.</text>
+	</string>
+</string_table>

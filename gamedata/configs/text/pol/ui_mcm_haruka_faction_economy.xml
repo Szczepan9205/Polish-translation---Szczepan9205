@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="ui_mcm_faction_economy_title">
+		<text>Faction based economy</text>
+	</string>
+	<string id="ui_mcm_menu_faction_economy">
+		<text>Ekonomia frakcyjna</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_faction_discounts">
+		<text>Mnożnik zniżek frakcji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_faction_discounts_desc">
+		<text>Włącza mnożnik oparty na relacjach frakcji.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_goodwill_mul">
+		<text>Mnożnik reputacji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_goodwill_mul_desc">
+		<text>Włącza mnożnik oparty na reputacji. (domyślnie dotyczy tylko twojej frakcji)</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill">
+		<text>Ignoruj frakcję dla mnożnika reputacji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill_desc">
+		<text>Sprawia, że mnożnik reputacji działa dla wszystkich frakcji.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_reputation_mul">
+		<text>Mnożnik reputacji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_reputation_mul_desc">
+		<text>Włącza mnożnik oparty na reputacji gracza.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_north_level_mul">
+		<text>Wyższe ceny na północy</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_north_level_mul_desc">
+		<text>Sprawia, że ceny na północy Zony są wyższe z powodu deficytu.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_chance_for_extra_item">
+		<text>Szansa na dodatkowy przedmiot u handlarza frakcji gracza</text>
+	</string>
+	<string id="ui_mcm_faction_economy_required_supply_level">
+		<text>Wymagany poziom reputacji dla innych frakcji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_required_supply_level_desc">
+		<text>Poziom wartości reputacji, przy którym handlarze z innych frakcji zaczynają sprzedawać sprzęt frakcji.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_goodwill_mul">
+		<text>Mnożnik ceny wartości reputacji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_rep_mul">
+		<text>Współczynnik mnożnika ceny reputacji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_special">
+		<text>Ilość specjalnej amunicji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount">
+		<text>Ilość normalnej amunicji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_special_desc">
+		<text>Ilość specjalnej amunicji (AP, HP, śrutowe, strzałkowe itp.), która pojawi się w magazynie na podstawie broni sprzedanej przez handlarza.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_desc">.
+		<text>Ilość normalnej amunicji, która pojawi się w magazynie na podstawie broni sprzedanej przez handlarza.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_trade_GUI">
+		<text>Włącz dodatkowe informacje w menu handlu</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_special_ammo_spawns">
+		<text>Używaj specjalnych odrodzeń amunicji</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_trade_GUI_desc">
+		<text>Włącza dodatkowe informacje obok portretu handlarza z informacją o aktualnym mnożniku i poziomie zaopatrzenia.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_special_ammo_spawns_desc">
+		<text>Włącza specjalne zasady spawnu amunicji dla handlarzy. Zamiast korzystać z plików handlarzy, amunicja jest spawnowana na podstawie sprzedanej broni.</text>
+	</string>
+	<string id="st_haruka_sulpplies_level">
+		<text>Poziom zaopatrzenia</text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>Mnożnik</text>
+	</string>
+</string_table>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<!-- UNUSED
+
+	<string id="st_wpn_usp_tactical">
+		<text>HK USP45 Tactical</text>
+	</string>
+	<string id="st_wpn_usp_tactical_descr">
+		<text>Uważany za ulepszenie MK23 i USP, w rzeczywistości jest bardziej ulepszeniem samego USP w bardziej kompaktowym formacie. Zawiera wydłużoną, gwintowaną lufę z oringiem, która zwiększa celność i zmniejsza odrzut, a także umożliwia domyślną integrację tłumika, regulowany mikrometryczny celownik tylny z trytowymi celownikami z tyłu i z przodu. Po tych wszystkich ulepszeniach jasne jest, że nie jest to USP Tactical "prosto z produkcji", ponieważ plastik jest raczej zużyty i odlewany, a spust jest manipulowany. Mogą to być modyfikacje wykonane na czarnym rynku, tak czy inaczej, nadal jest to godny, niezawodny pistolet kalibru .45 ACP (lub 9 mm, jeśli zmienisz kaliber). \n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_usp_compact">
+		<text>HK USP45 Compact</text>
+	</string>
+	<string id="st_wpn_usp_compact_descr">
+		<text>Klasyczny ulubieniec każdego weterana Zony, niezależnie od frakcji. Używając kalibru nadającego się do walki na krótkim dystansie, łatwego do ukrycia, bardzo niezawodnego i ledwie ważącego 8 nabojów, można z łatwością używać go zamiast przeciętnego USP. \n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP (po modyfikacji)</text>
+	</string>
+
+	<string id="st_wpn_mk23">
+		<text>HK MK 23</text>
+	</string>
+	<string id="st_wpn_mk23_descr">
+		<text>Opracowany w latach 90-tych w celu zastąpienia 1911A1 w służbie Sił Operacji Specjalnych. Pistolet Mk.23 SOCOM był zwycięzcą testów Offensive Handgun Weapon System, pokonując trafnie nazwany "OHWS" pistolet Colta. Dysponując własnym budżetem, USSOCOM był w stanie sfinansować własne programy przyjmowania broni i dostosował wymagania do swoich oczekiwań. Projekt opierał się na możliwości niezawodnego korzystania z tłumika podczas dłuższych operacji w terenie i używania kalibru .45 ACP. W związku z tym, ze względu na swój rozmiar, został nazwany przez operatorów SOCOM "pistoletem dla załogi". Dzięki testom, które bez cienia wątpliwości dowiodły, że jest on więcej niż wystarczająco dobry dla Sił Operacji Specjalnych, na tym pistolecie można polegać podczas dłuższego użytkowania w Zonie, bez względu na to, co może na ciebie rzucić.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP</text>
+	</string>
+
+-->	
+	
+</string_table>

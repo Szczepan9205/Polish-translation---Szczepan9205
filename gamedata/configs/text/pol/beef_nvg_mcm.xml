@@ -1,0 +1,168 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_beef_nvg_title">
+		<text>Ustawienia Beef's NVG</text>
+	</string>	
+	
+	<string id="ui_mcm_beef_nvg_title_2">
+		<text>Kompatybilnoœæ z Shader Based 2D Scopes</text>
+	</string>	
+	
+	<string id="ui_mcm_menu_beef_nvg">
+		<text>Beef's NVG</text>
+	</string>
+
+
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+		<text>Maksymalne wzmocnienie, które mo¿na zastosowaæ do noktowizji.</text>
+	</string>
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+		<text>Wy¿sze wartoœci pozwalaj¹ uzyskaæ wiêksz¹ "jasnoœæ", choæ w koñcu zostanie ona ograniczona. Zalecamy ustawienie tej wartoœci w oparciu o pogodê cloudy_dark_2 o pó³nocy.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+		<text>Minimalne wzmocnienie, które mo¿na zastosowaæ do noktowizji.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+		<text>Ni¿sze wartoœci pozwalaj¹ bardziej wyciszyæ szum na soczewkach noktowizora - bardzo niskie wartoœci umo¿liwi¹ nawet korzystanie z noktowizji w œwietle dziennym.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+		<text>Przesuniêcie zastosowane do jasnoœci œwiata.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+		<text>Wartoœæ 1.0 pozostawia jasnoœæ œwiata bez zmian, wiêksze wartoœci mno¿¹ jasnoœæ œwiata (ale nie Ÿróde³ œwiat³a).</text>
+	</string>
+
+
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+		<text>Próg zaniku Ÿród³a œwiat³a.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+		<text>Ogólnie zaleca siê utrzymywanie wartoœci 0,1, ale mo¿na j¹ zwiêkszyæ, aby nieznacznie zmniejszyæ rozmycie Ÿróde³ œwiat³a. 
+		Wartoœæ ta skaluje siê ze wzmocnieniem noktowizji, wiêc wy¿sze wzmocnienia maj¹ wiêksze rozmycie, a ni¿sze mniejsze.</text>
+	</string>
+	
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+		<text>Mo¿e u¿ywaæ noktowizji podczas celowania w dó³:</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+		<text>Jeœli to pole jest zaznaczone, mo¿esz mieæ w³¹czon¹ noktowizjê podczas ADS. Jeœli opcja nie jest zaznaczona, postaæ wy³¹czy swoj¹ noktowizjê podczas podnoszenia broni.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+		<text>Noktowizja pozostaje w³¹czona podczas przegl¹dania PDA:</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+		<text>Jeœli to pole nie jest zaznaczone, noktowizja automatycznie wy³¹cza siê podczas patrzenia na PDA.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+		<text>Konfiguracja soczewki Gen 1: (Domyœlnie wyœrodkowana pojedyncza soczewka) A.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+		<text>Wybierz liczbê soczewek dla noktowizji Gen. 1.</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+		<text>Konfiguracja soczewki Gen2: (Domyœlnie wyœrodkowane dwie soczewki)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+		<text>Wybierz liczbê soczewek dla noktowizji Gen.2.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+		<text>Konfiguracja soczewki Gen3: (Domyœlnie wyœrodkowane cztery soczewki)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+		<text>Wybierz liczbê soczewek dla noktowizji Gen.3.</text>
+	</string>
+
+	
+	<string id="ui_mcm_lst_single_centered">
+		<text>Pojedyncza Soczewka, Wyœrodkowana</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_left">
+		<text>Pojedyncza Soczewka, Lewa Strona</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_right">
+		<text>Pojedyncza Soczewka, Prawa Strona</text>
+	</string>
+	
+	<string id="ui_mcm_lst_dual_centered">
+		<text>Podwójna Soczewka, Wyœrodkowana</text>
+	</string>
+	
+	<string id="ui_mcm_lst_quad_centered">
+		<text>Poczwórna Soczewka, Wyœrodkowana</text>
+	</string>
+	
+	
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+		<text>T³o noktowizji Gen.1: (Domyœlnie brak nak³adki)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+		<text>Wybierz nak³adkê t³a, która ci odpowiada</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+		<text>T³o noktowizji Gen.2: (Domyœlnie jest to rozmyte t³o)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+		<text>Wybierz nak³adkê t³a, która ci odpowiada</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+		<text>T³o noktowizji Gen.3: (Domyœlnie jest to rozmyte t³o)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+		<text>Wybierz nak³adkê t³a, która ci odpowiada</text>
+	</string>
+	
+	
+	<string id="ui_mcm_lst_blurred_background">
+		<text>Rozmyte t³o</text>
+	</string>
+	
+	<string id="ui_mcm_lst_black_background">
+		<text>Czarne t³o</text>
+	</string>
+	
+	<string id="ui_mcm_lst_image_overlay">
+		<text>(Nie zaimplementowano) Nak³adanie obrazu</text>
+	</string>
+	
+	<string id="ui_mcm_lst_clear_vision">
+		<text>Brak t³a (wyraŸny obraz)</text>
+	</string>
+	
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat">
+		<text>Jeœli posiadasz Shader Based 2D Scopes, zaznacz to pole.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+		<text>Zasadniczo, ze wzglêdu na magiê cieniowania, jeœli masz Shader Based 2D Scopes, musisz zaznaczyæ to pole. W przeciwnym razie nie zaznaczaj tego pola.</text>
+	</string>
+	
+</string_table>

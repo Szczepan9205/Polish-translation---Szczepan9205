@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<!-- UNUSED
+
+	<string id="st_wpn_fort12">
+		<text>Fort-12</text>
+	</string>
+	
+	<string id="st_wpn_fort12_descr">
+		<text>Fort-12 to próba stworzenia przez niedawno niepodległą Ukrainę (od sierpnia 1991 r.) własnego pistoletu policyjnego, który zastąpiłby radziecki PM Makarow, nadal wykorzystując ten sam kaliber 9x18. Zaprojektowany w 1995 roku i opracowany w 1998 roku przez ukraińskiego projektanta broni palnej RPC Fort, jest to potężny pistolet uważany za ulepszenie samego PM. Chociaż może mieć problemy z niezawodnością, zwłaszcza ze względu na brak funkcji bezpiecznego odryglowywania, rekompensuje to celnością, magazynkiem i ergonomią. Model ten jest wyposażony w gwintowaną lufę, dzięki czemu domyślnie może być wyposażony w tłumik. \n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik 9x19</text>
+	</string>
+	
+	<string id="st_wpn_fort17">
+		<text>Fort-17</text>
+	</string>
+
+	<string id="st_wpn_fort17_descr">
+		<text>Fort-17 jest ulepszeniem Fort-12 poprzez wymianę szkieletu ze stalowego na polimerowy, co zmniejsza wagę, choć odrzut może być nieco gorszy. Domyślnie dostarczany jest z magazynkami na 13 pocisków zamiast 12 lub 13. Ma również zdejmowany tylny pasek chwytu, co może poprawić ergonomię. \n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik 9x19</text>
+	</string>
+	
+	<string id="st_wpn_fort21">
+		<text>Fort-21</text>
+	</string>
+	
+	<string id="st_wpn_fort21_descr">
+		<text>Fort-21.01 jest kopią Jericho 941 produkowanego przez "RPC Fort", wykonaną po zawarciu umowy z "Israel Military Industries" we wrześniu 2009 roku. Biorąc pod uwagę jego stosunkowo "nowy" status, zwłaszcza w Strefie, jest to dość rzadki pistolet, stąd jego cena. Jest on wzorowany na CZ-75, w którym to przypadku oba mogą współdzielić swoje 16-nabojowe magazynki. Używa kalibru 9x19 zamiast 9x18, w przeciwieństwie do swoich starszych braci, Fort-12 i Fort-17. Ten model wydaje się być również dostarczany z niektórymi dodatkowymi celownikami na rynku wtórnym ze skomplikowanym wzorem zielonych i czerwonych kropek trytu. \n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik 9x19</text>
+	</string>
+
+	<string id="st_up_fort21_45acp_name">
+		<text>Zmiana kalibru na .45 ACP</text>
+	</string>
+
+-->
+
+</string_table>

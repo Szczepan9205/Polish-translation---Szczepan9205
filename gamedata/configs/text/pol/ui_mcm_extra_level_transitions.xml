@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_extra_level_transitions_title">
+		<text>Dodatkowe przejścia między lokacjami</text>
+	</string>
+	<string id="ui_mcm_menu_extra_level_transitions">
+		<text>Przejścia</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_enable_time_advance">
+		<text>Włącz upływ czasu</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_enable_time_advance_desc">
+		<text>Czas zostanie wydłużony na przejściach między lokacjami</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_delete_level_transitions">
+		<text>Usuń przejścia między lokacjami</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_delete_level_transitions_desc">
+		<text>Dodatkowe przejścia między lokacjami zostaną usunięte z gry. Opcja jest przeznaczona do bezpiecznego usunięcia moda</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,101 @@
+<string_table>
+	<string id="ui_mcm_menu_dph_loot_cond">
+		<text>Stan ³upu</text>
+	</string>
+	<string id="ui_mcm_menu_outfit">
+		<text>Kombinezony</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit">
+		<text>Kombinezony</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_zombied_header">
+		<text>Zombifikowani</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_zombied_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_zombied_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_novice_header">
+		<text>Nowicjusze</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_novice_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_novice_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_trainee_header">
+		<text>Stalkerzy</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_trainee_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_trainee_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_experienced_header">
+		<text>Doœwiadczeni stalkerzy</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_experienced_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_experienced_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_professional_header">
+		<text>Profesjonalni stalkerzy</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_professional_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_professional_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_veteran_header">
+		<text>Weterani</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_veteran_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_veteran_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_expert_header">
+		<text>Eksperci</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_expert_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_expert_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_master_header">
+		<text>Mistrzowie</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_master_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_master_max">
+		<text>Stan maksymalny</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_outfit_legend_header">
+		<text>Legendy</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_legend_min">
+		<text>Stan minimalny</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_outfit_legend_max">
+		<text>Stan maksymalny</text>
+	</string>
+</string_table>

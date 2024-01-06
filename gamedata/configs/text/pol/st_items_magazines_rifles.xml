@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+ <!-- 5.45 -->
+	<string id="st_mag_ak74_5.45x39">
+		<text>Standardowy magazynek 5.45x39 do AK-74</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_descr">
+		<text>
+		30-nabojowy magazynek bakelitowy będący standardowym wyposażeniem ukraińskiego wojska. Jeden z najpopularniejszych magazynków w Zonie. Oznaczenie "6L20".
+		</text>
+	</string>
+	
+	<string id="st_mag_ak74_5.45x39_extended">
+		<text>60-nabojowy magazynek 5.45x39 do AK-74</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_extended_descr">
+		<text>
+		60-nabojowy poczwórny magazynek do serii AK-74. Niezwykle rzadki do znalezienia w Rosji, ponieważ wyprodukowano tylko niewielkie partie, ale podobno ukraińskie SBU zaczęło produkować własne, aby zaspokoić swoje potrzeby kontrolowania Zony. Oznaczenie "6L31".
+		</text>
+	</string>
+
+	<string id="st_mag_ak74m_5.45x39">
+		<text>Standardowy magazynek 5.45x39 do AK-74M</text>
+	</string>
+	<string id="st_mag_ak74m_5.45x39_descr">
+		<text>
+		30-nabojowy polimerowy magazynek będący standardowym wyposażeniem rosyjskiego wojska, dostarczany wraz z AK-74M. Jeden z najpopularniejszych magazynków w Zonie. Ten magazynek można dostosować do różnych kalibrów. Oznaczenie "6L23".
+		</text>
+	</string>
+
+	<string id="st_mag_ak74_fast_5.45x39">
+		<text>Szybko ładujący magazynek 5.45x39 do AK-74M</text>
+	</string>
+	<string id="st_mag_ak74_fast_5.45x39_descr">
+		<text>
+		Nowoczesny magazynek AK typu PMAG mieszczący 30 nabojów. Jakość wykonania jest bardzo wysoka, a ładowanie nabojów jest dość łatwe. Takie magazynki są zwykle spotykane tylko w jednostkach Black Ops, Specnaz wraz z najnowocześniejszymi Alpha AK.
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk74_5.45x39">
+		<text>Standardowy magazynek 5.45x39 do RPK-74</text>
+	</string>
+	<string id="st_mag_rpk74_5.45x39_descr">
+		<text>
+			Bakelitowy magazynek na 45 naboi, który jest standardowym wyposażeniem RPK-74. Ten magazynek pasuje również do pochodnych AK-74. Oznaczenie "6L18"
+		</text>
+	</string>
+
+	<string id="st_mag_rpk74_5.56x45">
+		<text>Zmodyfikowany magazynek 5.56x45 do RPK-74</text>
+	</string>
+	<string id="st_mag_rpk74_5.56x45_descr">
+		<text>
+			Zmodyfikowany magazynek do RPK pasujący do nabojów 5,56 NATO. Kompatybilny również z eksportowymi magazynkami AK-101 i AK-102.
+		</text>
+	</string>
+
+	<string id="st_mag_ak_7.62x39">
+		<text>Standardowy magazynek 7.62x39 do AKM</text>
+	</string>
+	<string id="st_mag_ak_7.62x39_descr">
+		<text>
+		30-nabojowy stalowy magazynek 7.62x39 do AKM. Magazynki tego typu są dość stare, ale nadal działają stosunkowo dobrze. 
+		</text>
+	</string>
+
+	<string id="st_mag_ak103_7.62x39">
+		<text>Standardowy magazynek 7.62x39 do AK-103</text>
+	</string>
+	<string id="st_mag_ak103_7.62x39_descr">
+		<text>
+		30 nabojowy magazynek do AK-103 w kalibrze 7,62x39. Nowoczesne materiały i konstrukcja sprawiły, że magazynek jest znacznie lżejszy niż jego stalowe odpowiedniki. Ponadto, magazynek ten może być modyfikowany w celu dostosowania do innych kalibrów.
+		</text>
+	</string>
+	
+	<string id="st_mag_ak103_fast_7.62x39">
+		<text>Szybki magazynek 7.62x39 do AK-103</text>
+	</string>
+	<string id="st_mag_ak103_fast_7.62x39_descr">
+		<text>
+		Wykonany z polimeru magazynek 7.62x39 typu PMAG. Jakość wykonania i konstrukcja pozwalają na szybkie ładowanie nabojów. Taki sprzęt to niecodzienny widok w Zonie.
+		</text>
+	</string>
+
+	<string id="st_mag_rpd_7.62x39">
+		<text>Standardowy bęben 7.62x39 do RPD</text>
+	</string>
+	<string id="st_mag_rpd_7.62x39_descr">
+		<text>
+			Magazynek bębnowy z pasem do RPD. Pudełko mieści 100 nabojów w pasie. Choć RPD został ostatecznie wyparty przez bardziej celny i elastyczny RPK, możliwość wystrzelenia 100 nabojów nie jest niczym nadzwyczajnym. 
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk_7.62x39">
+		<text>Standardowy magazynek 7.62x39 do RPK</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_descr">
+		<text>
+		Stalowy 40-nabojowy magazynek RPK. Jest również kompatybilny z AKM i innymi karabinami AK kalibru 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk_7.62x39_drum">
+		<text>95-nabojowy magazynek bębnowy do RPK</text>
+	</string>
+	<string id="st_mag_rpk_7.62x39_drum_descr">
+		<text>
+		Magazynek bębnowy na 95 nabojów do RPK.
+		</text>
+	</string>
+	
+	
+	<!-- 5.56 -->
+	
+	<string id="st_mag_ace21_5.56x45">
+		<text>Standardowy magazynek 5.56x45 do Galil ACE-21</text>
+	</string>
+	<string id="st_mag_ace21_5.56x45_descr">
+		<text>
+		Zastrzeżony znakiem towarowym magazynek do ACE-21 mieszczący 35 nabojów. Przestarzały model znaleziony w Zonie wymaga zastrzeżonych magazynków Galil, co czyni tę broń bardziej fantazyjną nowością niż czymkolwiek innym.
+		</text>
+	</string>
+
+	<string id="st_mag_ak101_5.56x45">
+		<text>Standardowy magazynek 5.56x45 do AK-101</text>
+	</string>
+	<string id="st_mag_ak101_5.56x45_descr">
+		<text>
+		30-nabojowy magazynek do eksportowych AK101 i AK102. Ten magazynek można dostosować do różnych kalibrów.
+		</text>
+	</string>
+	<string id="st_mag_aug_5.56x45">
+		<text>Standardowy magazynek 5.56x45 do AUG</text>
+	</string>
+	<string id="st_mag_aug_5.56x45_descr">
+		<text>
+			Zastrzeżony znakiem towarowym 30-nabojowy magazynek dla pierwszej generacji karabinów AUG. Późniejsze warianty mają magazynek, który dostosowuje je do standardowego wzoru STANAG.
+		</text>
+	</string>
+	
+	<string id="st_mag_g36_5.56x45">
+		<text>Standardowy magazynek 5.56x45 do G36</text>
+	</string>
+	<string id="st_mag_g36_5.56x45_descr">
+		<text>
+		Standardowy półprzezroczysty magazynek do G36 o pojemności 30 nabojów amunicji 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_stanag">
+		<text>Standardowy magazynek 5.56x45 do STANAG</text>
+	</string>
+	<string id="st_mag_stanag_descr">
+		<text>
+		30-nabojowy magazynek HK STANAG używany przez większość karabinów szturmowych NATO, w tym karabinki M4, M16, LR-300, L85 i FN F2000. Krążą pogłoski, że jest potajemnie dostarczany Wolności przez NATO lub inne zachodnie mocarstwo, co wyjaśnia dziwną obfitość tego magazynka w Zonie.
+		</text>
+	</string>
+
+
+	<string id="st_mag_nato_5.45x39">
+		<text>Zmodyfikowany magazynek 5.45x39 STANAG</text>
+	</string>
+	<string id="st_mag_nato_5.45x39_descr">
+		<text>
+			30-nabojowy magazynek STANAG zmodyfikowany do zasilania nabojami 5.45x39. Dlaczego ktokolwiek miałby modyfikować karabin w ten sposób? Tego nie wie nikt.
+		</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_fast">
+		<text>Magazynek 5.56x45 STANAG z możliwością szybkiego ładowania</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_fast_descr">
+		<text>
+		Nowoczesny magazynek typu PMAG mieszczący 30 nabojów. Znacznie lżejszy niż jego stalowy odpowiednik, ergonomiczna konstrukcja ułatwia szybkie ładowanie nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_nato_5.56x45_extended">
+		<text>Rozszerzony magazynek 5.56x45 STANAG</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_extended_descr">
+		<text>
+			Rozszerzony 40-nabojowy magazynek polimerowy kompatybilny z większością karabinów NATO. 
+		</text>
+	</string>
+
+	<string id="st_mag_nato_5.56x45_casket">
+		<text>60 nabojowy magazynek 5.56x45 STANAG</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_casket_descr">
+		<text>
+			60-nabojowy magazynek typu quad-stack kompatybilny z karabinami NATO. Oferuje dużą siłę ognia, ale jest niezwykle ciężki, a poczwórny magazynek utrudnia szybkie ładowanie nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_sig550_5.56x45">
+		<text>Standardowy magazynek 5.56x45 do SG550</text>
+	</string>
+	<string id="st_mag_sig550_5.56x45_descr">
+		<text>
+		Szwajcarski magazynek do SG550 mieszczący 30 nabojów. Kompatybilny z pistoletami SIG SG550, SG552 i SG550-1 Sniper.
+		</text>
+	</string>
+
+	<string id="st_mag_sig550_sniper_5.56x45">
+		<text>20-nabojowy magazynek 5.56x45 do SG550-1</text>
+	</string>
+	<string id="st_mag_sig550_sniper_5.56x45_descr">
+		<text>
+		Szwajcarski magazynek SG550-1 mieszczący 20 nabojów. Używany w wariancie SG550-1 Sniper, ale jest kompatybilny z innymi karabinami z tej samej rodziny.
+		</text>
+	</string>
+	<string id="st_mag_m249_5.56x45">
+		<text>Standardowe pudełko z amunicją 5.56x45 do M249</text>
+	</string>
+	<string id="st_mag_m249_5.56x45_descr">
+		<text>
+			Pudełko zawierające pas o pojemności 100 nabojów 5.56x45. M249 to częsty widok na posterunkach Wolności, zapewniający dużą siłę ognia tłumiącego przeciwko napastnikom Monolitu.
+		</text>
+	</string>
+	
+	<string id="st_mag_xm8_5.56x45">
+		<text>Standardowy magazynek 5.56x45 do XM8</text>
+	</string>
+	<string id="st_mag_xm8_5.56x45_descr">
+		<text>
+		Standardowy magazynek do XM8 - kaliber 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_type63_7.62x39">
+		<text>Standardowy magazynek 7.62x39 do Typ 63</text>
+	</string>
+	<string id="st_mag_type63_7.62x39_descr">
+		<text>
+		20-nabojowy magazynek do karabinu Type 63 wykonany z tłoczonej stali. Większość karabinów Type 63 znalezionych w Zonie ma usunięte urządzenie przytrzymujące rygiel, dzięki czemu mogą pasować do bardziej popularnych magazynków AKM. Ten magazynek pasuje również do karabinów w stylu AK.
+		</text>
+	</string>
+	
+	<string id="st_mag_type63_7.62x54">
+		<text>Zmodyfikowany magazynek 7.62x54 do Typ 63</text>
+	</string>
+	<string id="st_mag_type63_7.62x54_descr">
+		<text>
+			Magazynek typu 63 zmodyfikowany tak, aby pasował do dużych nabojów 7,62x54R. Typ 63 jest ulubieńcem klanów bandyckich; konwersja na pełnowymiarowy nabój karabinowy jest specjalnością technika bandytów - Czystego.
+		</text>
+	</string>
+	<!-- 9x39 -->
+	<string id="st_mag_val_9x39_pab9">
+		<text>20-nabojowy magazynek 9x39 do AS Wał</text>
+	</string>
+	<string id="st_mag_val_9x39_pab9_descr">
+		<text>
+			Standardowy 20-nabojowy magazynek do AS Wał, kompatybilny również z karabinami SR-3M i VSS. Oznaczenie "6L25". 
+		</text>
+	</string>
+
+	<string id="st_mag_vihr_9x39_pab9">
+		<text>30-nabojowy magazynek 9x39 do SR-3M</text>
+	</string>
+	<string id="st_mag_vihr_9x39_pab9_descr">
+		<text>
+		30-nabojowy magazynek 9x39 dostarczany standardowo z karabinem SR-3M "Wichr". Kompatybilny również z karabinami WSS i AS Wał. Oznaczenie "SR3M.130"
+		</text>
+	</string>
+	
+	<string id="st_mag_vintorez_9x39_pab9">
+		<text>10-nabojowy magazynek 9x39 do WSS</text>
+	</string>
+	<string id="st_mag_vintorez_9x39_pab9_descr">
+		<text>
+		Standardowy 10-nabojowy magazynek do WSS, kompatybilny również z karabinami AS Wał i SR3M. Oznaczenie "6L24".
+		</text>
+	</string>
+	
+	<string id="st_mag_vsk94_9x39_pab9">
+		<text>Standardowy magazynek pudełkowy 9x39</text>
+	</string>
+	<string id="st_mag_vsk94_9x39_pab9_descr">
+		<text>
+			20-nabojowy magazynek pudełkowy używany w karabinach 9A-91 i WSK-94.
+		</text>
+	</string>
+	
+	<string id="st_mag_groza_9x39_pab9">
+		<text>20-nabojowy magazynek 9x39 do OC-14 Groza</text>
+	</string>
+	<string id="st_mag_groza_9x39_pab9_descr">
+		<text>
+			20-nabojowy magazynek 9x39 dostarczany standardowo z karabinem szturmowym OC-14 Groza. Konstrukcja jest podobna do magazynków w stylu AK.
+		</text>
+	</string>
+	
+
+<!--
+sniper rifles / full size rifles
+-->
+	
+		
+	<string id="st_mag_g43_7.92x33">
+		<text>Standardowy magazynek 7.92x57 do G43</text>
+	</string>
+	<string id="st_mag_g43_7.92x33_descr">
+		<text>
+			Standardowy 10-nabojowy magazynek pudełkowy do Gewehr 43.
+		</text>
+	</string>
+
+	<string id="st_mag_galil_7.62x51">
+		<text>Standardowy magazynek 7.62x51 do IMI Galil</text>
+	</string>
+	<string id="st_mag_galil_7.62x51_descr">
+		<text>
+		Standardowy 25-nabojowy magazynek pudełkowy do izraelskiego karabinu bojowego Galil.
+		</text>
+	</string>
+	
+	<string id="st_mag_stanag_7.62x51">
+		<text>Standardowy magazynek 7.62x51 STANAG</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_descr">
+		<text>
+			Standardowy magazynek typu STANAG na naboje 7,62x51 NATO. Używany w HK417, SCAR i SR-25. Mieści 20 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_stanag_7.62x51_ext">
+		<text>Rozszerzony magazynek 7.62x51 STANAG</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_ext_descr">
+		<text>
+			Rozszerzony magazynek typu STANAG na naboje 7,62x51 NATO. Używany w HK417, SCAR i SR-25. Mieści 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_stanag_fast_7.62x51">
+		<text>Magazynek 7.62x51 STANAG z możliwością szybkiego ładowania</text>
+	</string>
+	<string id="st_mag_stanag_fast_7.62x51_descr">
+		<text>
+			Zmodernizowany magazynek typu PMAG na naboje 7,62x51 NATO. Używany w HK417, SCAR i SR-25. Mieści 20 nabojów.
+		</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_short">
+		<text>10 nabojowy magazynek 7.62x51 STANAG</text>
+	</string>
+	<string id="st_mag_stanag_7.62x51_short_descr">
+		<text>
+			Kompaktowy magazynek STANAG na 10 nabojów 7,62x51 NATO. Dostarczany domyślnie z KAC SR-25, ale może pasować do HK417 i SCAR Mk. 17.
+		</text>
+	</string>
+
+	<string id="st_mag_hinge_7.62x51">
+		<text>Standardowy magazynek 7.62x51</text>
+	</string>
+	<string id="st_mag_hinge_7.62x51_descr">
+		<text>
+		Standardowy 20-nabojowy magazynek 7.62x51 używany w karabinach bojowych z zawiasowym mechanizmem blokującym magazynek. Wszelkie drobne różnice w kompatybilności broni i magazynków tego typu zostały "dopracowane" przez techników Zony. Używany w karabinach FN FAL, Mk. 14 EBR i G3.
+		</text>
+	</string>
+
+	<string id="st_mag_hinge_ext_7.62x51">
+		<text>Rozszerzony magazynek 7.62x51</text>
+	</string>
+	<string id="st_mag_hinge_ext_7.62x51_descr">
+		<text>
+		Przedłużony 30 nabojowy magazynek 7.62x51 używany w karabinach bojowych z zawiasowym mechanizmem blokującym magazynek. Używany w karabinach FN FAL, Mk. 14 EBR i G3.
+		</text>
+	</string>
+	
+	<string id="st_mag_l96a1_7.62x51">
+		<text>10-nabojowy magazynek 7.62x51 do L96A1</text>
+	</string>
+	<string id="st_mag_l96a1_7.62x51_descr">
+		<text>
+		Standardowy 10-nabojowy magazynek do karabinu L96A1. L96 jest ulubioną bronią zachodnich najemników i sił Monolitu. 
+		</text>
+	</string>
+
+	<string id="st_mag_remington700_7.62x51">
+		<text>Standardowy magazynek 7.62x51 do Remingtona 700</text>
+	</string>
+	<string id="st_mag_remington700_7.62x51_descr">
+		<text>
+		Standardowy 5-nabojowy magazynek do karabinu Remington 700. Remington 700 to popularny karabin myśliwski, który dość dobrze radzi sobie w warunkach Zony.
+		</text>
+	</string>
+
+	<string id="st_mag_wa2000_7.62x51">
+		<text>Standardowy magazynek 7.62x51 do Walther WA 2000</text>
+	</string>
+	<string id="st_mag_wa2000_7.62x51_descr">
+		<text>
+		Standardowy magazynek do Walthera WA 2000 - kaliber 7.62x51.
+		</text>
+	</string>
+
+
+	<string id="st_mag_pkm_pkm">
+		<text>100 nabojowy magazynek pudełkowy do 7.62x54 PKM</text>
+	</string>
+	<string id="st_mag_pkm_pkm_descr">
+		<text>
+			Ciężkie pudełko mieszczące 100 sztuk amunicji 7.62x54R w pasie, do użytku z PKM. Zaleca się zabranie kilku sztuk, jeśli planujesz polować na nibyolbrzymy lub chimery.
+		</text>
+	</string>
+
+	<string id="st_mag_l96a1_pkm">
+		<text>Zmodyfikowany 10-nabojowy magazynek 7.62x54 do L96A1</text>
+	</string>
+	<string id="st_mag_l96a1_pkm_descr">
+		<text>
+		Zmodyfikowany magazynek do L96A1 - kaliber 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_sv98_7.62x54">
+		<text>Standardowy magazynek 7.62x54 do SW-98</text>
+	</string>
+	<string id="st_mag_sv98_7.62x54_descr">
+		<text>
+			Standardowy 10-nabojowy polimerowy magazynek do karabinu snajperskiego SW-98. SW-98 jest używany głównie przez rosyjskie organy ścigania; ograniczone ilości trafiły w ręce frakcji Powinności tajnymi kanałami.
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_7.62x54">
+		<text>Standardowy magazynek 7.62x54 do SWD</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_descr">
+		<text>
+			Standardowy 10-nabojowy magazynek do SWD i karabinu snajperskiego SWU. SWD jest popularne wśród członków wszystkich frakcji, jeśli uda im się zdobyć taki karabin. 
+		</text>
+	</string>
+
+	<string id="st_mag_svd_7.62x54_extended">
+		<text>20 nabojowy magazynek 7.62x54 do SWD</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_extended_descr">
+		<text>
+			Rozszerzony 20-nabojowy magazynek do SWD i karabinu snajperskiego SWU. Powszechnie używany z karabinem SWU-A, aby umożliwić mu tymczasowe pełnienie roli LMG w starciach w zwarciu.
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x54">
+		<text>Standardowy magazynek 7.62x54 do SWT-40</text>
+	</string>
+	<string id="st_mag_svt40_7.62x54_descr">
+		<text>
+			Standardowy 10-nabojowy magazynek używany z karabinem SWT-40. SWT-40 to klasyczny karabin z czasów Wielkiej Wojny, który jest popularny wśród wielu stalkerów, zwłaszcza samotników.
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_pkm">
+		<text>Standardowy magazynek 7.62x54 do SVT-40</text>
+	</string>
+	<string id="st_mag_svt40_pkm_descr">
+		<text>
+			Standardowy 10-nabojowy magazynek używany z karabinem SWT-40. SWT-40 to klasyczny karabin z czasów Wielkiej Wojny, który jest popularny wśród wielu stalkerów, zwłaszcza samotników. Ten wariant został nieznacznie zmodyfikowany, aby umożliwić ładowanie nabojów do karabinu maszynowego 7,62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x39">
+		<text>Zmodyfikowany magazynek 7.62x39 do SWT-40</text>
+	</string>
+	<string id="st_mag_svt40_7.62x39_descr">
+		<text>
+			Zmodyfikowany magazynek SWT-40 do ładowania pośredniego naboju 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_trg_magnum_300">
+		<text>Standardowy magazynek .338 LM</text>
+	</string>
+	<string id="st_mag_trg_magnum_300_descr">
+		<text>
+			5-nabojowy magazynek do karabinów Sako TRG-42, L96 AWM i M24 SWS. Ten magazynek został pierwotnie zaprojektowany dla Sako, jednak został nieco "zmodyfikowany", aby pasował do różnych karabinów. Działa dobrze w większości karabinów, o ile pamięta się o stukaniu w magazynek od czasu do czasu.
+		</text>
+	</string>
+
+	<string id="st_mag_l96a1m_magnum_300">
+		<text>10-nabojowy magazynek .338 LM do L96A1</text>
+	</string>
+	<string id="st_mag_l96a1m_magnum_300_descr">
+		<text>
+			Standardowy 10-nabojowy magazynek do L96A1, który pasuje do nieco większego i znacznie mocniejszego .338 Lapua Magnum. L96 jest ulubionym modelem zachodnich najemników i sił Monolitu.
+		</text>
+	</string>
+	
+	<string id="st_mag_m98b_magnum_300">
+		<text>Standardowy magazynek .338 do LM M98B</text>
+	</string>
+	<string id="st_mag_m98b_magnum_300_descr">
+		<text>
+			10-nabojowy magazynek kompatybilny z Barrett M98B.
+		</text>
+	</string>
+	
+	
+	<string id="st_mag_vssk_12.7x55">
+		<text>Standardowy magazynek 12,7x55 do WSSK</text>
+	</string>
+	<string id="st_mag_vssk_12.7x55_descr">
+		<text>
+		Standardowy 5-nabojowy magazynek używany w karabinie snajperskim WSSK.
+		</text>
+	</string>
+
+	<string id="st_mag_ash12_12.7x55">
+		<text>Standardowy magazynek 12.7x55 do ASh-12</text>
+	</string>
+	<string id="st_mag_ash12_12.7x55_descr">
+		<text>
+		Standardowy magazynek do ASh-12 o pojemności 10 nabojów. Jest mało prawdopodobne, by więcej niż 10 naboi było kiedykolwiek potrzebnych do strzelania do ludzkich celów.
+		</text>
+	</string>
+
+	<string id="st_mag_ash12_ext_12.7x55">
+		<text>Rozszerzony magazynek 12.7x55 do ASh-12</text>
+	</string>
+	<string id="st_mag_ash12_ext_12.7x55_descr">
+		<text>
+		Rozszerzony magazynek do ASh-12 o pojemności 20 nabojów. Na wypadek konieczności pokonania gigantycznych mutantów.
+		</text>
+	</string>
+
+	<string id="st_mag_m82_12.7x55">
+		<text>10-nabojowy magazynek 12,7x55 do M82</text>
+	</string>
+	<string id="st_mag_m82_12.7x55_descr">
+		<text>
+			10-nabojowy magazynek do karabinu Barrett M82, zmodyfikowany tak, by pasował do nabojów 12,7x55 STs. Pierwszy stalker, który przyniósł takiego potwora, wyrzucił go, gdy skończyła mu się amunicja; przedsiębiorczy technicy zmodernizowali tę broń, aby strzelała bardziej powszechnymi nabojami bez konieczności wymiany bardzo ciężkiej lufy.
+		</text>
+	</string>
+	
+	
+	<string id="st_mag_saiga12s_12x70">
+		<text>Standardowy magazynek 12x70 do Saiga-12S</text>
+	</string>
+	<string id="st_mag_saiga12s_12x70_descr">
+		<text>
+		Standardowy magazynek do Saiga-12S o pojemności 8 nabojów śrutowych. Saiga to dobrej jakości strzelba, która jest popularna wśród strzelców wyborowych.
+		</text>
+	</string>
+
+	<string id="st_mag_saiga12s_ext_12x70">
+		<text>Rozszerzony magazynek 12x70 do Saiga-12S</text>
+	</string>
+	<string id="st_mag_saiga12s_ext_12x70_descr">
+		<text>
+		Rozszerzony magazynek Saiga-12S o pojemności 12 pocisków. Więcej pocisków oznacza więcej mutantów, które można zabić w każdym magazynku.
+		</text>
+	</string>
+	
+	<string id="st_mag_usas12_12x70">
+		<text>Standardowy magazynek bębnowy 12x70 do USAS-12</text>
+	</string>
+	<string id="st_mag_usas12_12x70_descr">
+		<text>
+		Bęben na 20 nabojów do strzelby automatycznej USAS-12. Siła ognia oferowana przez USAS-12 jest bezkonkurencyjna na krótkim dystansie, choć waga i pojemność magazynka sprawiają, że jest niepraktyczna do noszenia przy sobie.
+		</text>
+	</string>
+
+	<string id="st_mag_vepr_12x70">
+		<text>Standardowy magazynek 12x70 do Wepr-12</text>
+	</string>
+	<string id="st_mag_vepr_12x70_descr">
+		<text>
+			Standardowy magazynek na 10 nabojów do pistoletu Wepr-12. Pomimo podobieństw, Wepr nie może dzielić magazynków z Saigą.
+		</text>
+	</string>
+
+	<string id="st_mag_vepr_compact_12x70">
+		<text>Kompaktowy magazynek 12x70 do Wepr-12</text>
+	</string>
+	<string id="st_mag_vepr_compact_12x70_descr">
+		<text>
+			Mały magazynek do Wepr-12 o pojemności zaledwie pięciu nabojów. Nie daj się zwieść - magazynek mieści się w kieszeni i jest niezwykle łatwy do załadowania.
+		</text>
+	</string>
+
+</string_table>

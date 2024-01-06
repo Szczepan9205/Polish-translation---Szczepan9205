@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_fn2000e_descr">
+		<text>Od końca lat 80. do początku lat 90. firma FN Herstal pracowała nad nowym karabinem. Celem było wyprodukowanie nowoczesnej i modułowej broni, w wyniku czego powstał karabin FN F2000, po raz pierwszy zaprezentowany publicznie w 2001 roku. F2000 oferuje wszystkie popularne cechy nowoczesnego karabinu szturmowego, takie jak kompaktowy układ bullpup, oburęczna obsługa i modułowa konstrukcja z wieloma dostępnymi opcjami i dodatkami. Jak dotąd karabin FN F2000 znalazł tylko kilku nabywców, w tym Siły Zbrojne Słowenii i Belgijskie Siły Operacji Specjalnych.\n \n
+		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
+		%c[d_purple] • %c[d_green] %c[0,250,250,0] zintegrowany celownik\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[d_green] tłumik: %c[d_orange]NATO\n
+		%c[d_purple] • %c[d_green] granatnik podlufowy: %c[d_cyan]granatnik "FN GL1"%c[d_red](M203)\n
+		</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble">
+		<text>FN F2000 "Konkurent"</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble_descr">
+		<text>Od końca lat 80. do początku lat 90. firma FN Herstal pracowała nad nowym karabinem. Celem było wyprodukowanie nowoczesnej i modułowej broni, w wyniku czego powstał karabin FN F2000, po raz pierwszy zaprezentowany publicznie w 2001 roku. F2000 oferuje wszystkie popularne cechy nowoczesnego karabinu szturmowego, takie jak kompaktowy układ bullpup, oburęczna obsługa i modułowa konstrukcja z wieloma dostępnymi opcjami i dodatkami. Jak dotąd karabin FN F2000 znalazł tylko kilku nabywców, w tym Siły Zbrojne Słowenii i Belgijskie Siły Operacji Specjalnych. Ten model ma zintegrowany celownik EOTech, co skutkuje nieco niższą celnością, ale ponieważ ten model był przeznaczony do CQC (Close Quarter Combat), szybkostrzelność została odpowiednio zwiększona.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[d_green] celowniki: %c[0,250,250,0]niektóre celowniki na szynę Piccatiny\n
+		%c[d_purple] • %c[d_green] tłumik: %c[d_orange]NATO\n
+		%c[d_purple] • %c[d_green] granatnik podlufowy: %c[d_cyan]granatnik "FN GL1"%c[d_red](M203)\n
+		</text>
+	</string>
+
+</string_table>

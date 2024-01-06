@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="ui_mcm_eft_jump_sounds_title">
+		<text>Dźwięki z EFT</text>
+	</string>
+	<string id="ui_mcm_menu_eft_jump_sounds">
+		<text>Dźwięki z EFT</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume">
+		<text>Głośność</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume_desc">
+		<text>Głośność skoku/lądowania</text>
+	</string>
+</string_table>

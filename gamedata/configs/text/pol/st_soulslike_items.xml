@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<string id="st_soulslike_rescuers_radio_frequency_note_name">
+		<text>Notatka od wybawcy</text>
+	</string>
+    
+	<string id="st_soulslike_rescuers_radio_frequency_note_desc">
+		<text>Notatka napisana przez jednego ze stalkerów, którzy cię uratowali.</text>
+	</string>
+
+	<string id="st_soulslike_rescuers_radio_frequency_note_message">
+		<text>Notatka zawiera informacje o tym, gdzie znajdują się przedmioty. Mówi, aby użyć odbiornika RF na częstotliwości %s w %s</text>
+	</string>
+
+</string_table>

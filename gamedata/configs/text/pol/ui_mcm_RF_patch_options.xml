@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_mcm_RF_package_patch_title">
+		<text>Opcje paczki odbiornika RF</text>
+	</string>
+	
+	<string id="ui_mcm_menu_RF_package_patch">
+		<text>Paczki RF</text>
+	</string>
+	
+	<string id="ui_mcm_RF_package_patch_reminders">
+		<text>Przypomnienie po:</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_transition">
+		<text>Każdym przejściu na zewnątrz</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_local">
+		<text>Przejście do obszaru z paczką</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_never">
+		<text>Brak przypomnień</text>
+	</string>
+	
+	<string id="ui_mcm_RF_package_patch_upgrades">
+		<text>Ulepszenia jako nagroda</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_vanilla">
+		<text>Vanillowe ulepszenia jako nagroda</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_streamlined">
+		<text>Ulepszone przedmioty ulepszeń by Arti</text>
+	</string>
+	
+	<string id="ui_mcm_RF_package_patch_unpacking">
+		<text>Tryb otwierania paczki:</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_manual_unpack">
+		<text>Opcja ręcznego rozpakowywania po kliknięciu prawym przyciskiem myszy</text>
+	</string>
+	
+	<string id="ui_mcm_lst_switch_mode_auto_unpack">
+		<text>Rozpakowywanie automatycznie przy podniesieniu paczki</text>
+	</string>
+	
+</string_table>

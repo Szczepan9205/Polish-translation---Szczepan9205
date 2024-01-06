@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<string_table>
+
+	<string id="ui_inv_wrange">
+		<text>Maks. zasięg</text>
+	</string>
+	<string id="ui_inv_bspeed">
+		<text>Prędkość wylotowa</text>
+	</string>
+	<string id="ui_inv_drag">
+		<text>Opór powietrza</text>
+	</string>
+	<string id="ui_inv_reli">
+		<text>Niezawodność</text>
+	</string>
+	<string id="ui_inv_recoil">
+		<text>Kontrola odrzutu</text>
+	</string>
+	
+	<string id="st_stat_meters">
+		<text>metrów</text>
+	</string>
+	<string id="st_stat_speed">
+		<text>m/s</text>
+	</string>
+	
+</string_table>

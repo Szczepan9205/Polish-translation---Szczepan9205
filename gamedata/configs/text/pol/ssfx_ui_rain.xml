@@ -1,0 +1,100 @@
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 17
+- @ Description: Rain - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<!-- Rain Title -->
+	<string id="ui_mcm_ssfx_module_rain_title">
+		<text>Deszcz - Ustawienia</text>
+	</string>
+
+	<!-- Rain Settings -->
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_quality_mcm">
+		<text>Jakość renderowania</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_quality_mcm_desc">
+		<text>Niska : Podstawowy rendering refrakcji. - Średnia: podstawowe renderowanie plus odrzucenie nieprawidłowego załamania. - Wysoka: Pełne załamanie z dodatkową próbką odbicia.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_speed_mcm">
+		<text>Szybkość deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_speed_mcm_desc">
+		<text>Prędkość spadania kropli deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_len_mcm">
+		<text>Długość deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_len_mcm_desc">
+		<text>Długość kropli deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_width_mcm">
+		<text>Szerokość deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_width_mcm_desc">
+		<text>Szerokość kropli deszczu.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_alpha_mcm">
+		<text>Przezroczystość deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_alpha_mcm_desc">
+		<text>Przezroczystość ogólnego efektu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_brightness_mcm">
+		<text>Jasność deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_brightness_mcm_desc">
+		<text>Jak jasny jest podstawowy kolor kropli deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_refraction_mcm">
+		<text>Refrakcja kropli deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_refraction_mcm_desc">
+		<text>Intensywność efektu refrakcji.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_reflection_mcm">
+		<text>Odbicia deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_reflection_mcm_desc">
+		<text>Przezroczystość efektu odbicia.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_alpha_mcm">
+		<text>Przezroczystość rozprysku</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_alpha_mcm_desc">
+		<text>Przezroczystość rozprysków deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_refraction_mcm">
+		<text>Refrakcja rozprysków</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_splash_refraction_mcm_desc">
+		<text>Intensywność załamania rozprysków deszczu.</text>
+	</string>
+
+</string_table>

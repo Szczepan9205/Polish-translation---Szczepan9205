@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 18
+- @ Description: Gloss - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<string_table>
+
+	<!-- Gloss Title -->
+	<string id="ui_mcm_ssfx_module_gloss_title">
+		<text>Połysk - Ustawienia</text>
+	</string>
+
+	<!-- Gloss Settings -->
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm">
+		<text>Min. połysk</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_min_gloss_mcm_desc">
+		<text>Wartość bazowa połysku. Jeśli opcja "Auto - połysk" jest wyłączona, wartość ta określa połysk.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm">
+		<text>Maks. połysk</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_max_gloss_mcm_desc">
+		<text>Gdy włączona jest opcja "Auto - połysk", wartość ta będzie maksymalną wartością połysku, gdy wilgotność wynosi 100%.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm">
+		<text>Auto - połysk</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_mcm_desc">
+		<text>Włączenie/wyłączenie automatycznej regulacji połysku na podstawie wilgotności. Jeśli chcesz ręcznie ustawić stałą wartość połysku, wyłącz tę opcję i użyj opcji "Min. połysk", aby zdefiniować połysk.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm">
+		<text>Procent Auto - połysku</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_auto_gloss_max_mcm_desc">
+		<text>Wartość ta służy do kontrolowania maksymalnej wartości połysku po osiągnięciu pełnej wilgotności. ( 0 = 0% | 1 = 100% )</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm">
+		<text>Intensywność specular</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_int_mcm_desc">
+		<text>Ustawia intensywność oświetlenia specular.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm">
+		<text>Kolor specular</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_gloss_specular_color_mcm_desc">
+		<text>Procent koloru specular. ( 0 = 0% | 1 = 100% )</text>
+	</string>
+
+
+</string_table>

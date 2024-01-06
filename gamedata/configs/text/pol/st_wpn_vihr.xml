@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_wpn_vihrn">
+		<text>SR-3M Wichr</text>
+	</string>
+	<string id="st_wpn_vihrn_descr">
+		<text>Kompaktowy karabin szturmowy SR-3 "Wichr" został opracowany w CNIIToczMasz i wyprodukowany przez Fabrykę broni w Tula. Początkowo znany jako "MA" (Malogabaritnyj Automat - małogabarytowy karabin szturmowy), bazował na wytłumionym karabinie szturmowym 9x39mm AS Wał i był przeznaczony do ukrytego noszenia przez specjalne zespoły ochrony VIP-ów i funkcjonariuszy bezpieczeństwa państwowego, SR-3M Wichr jest wynikiem połączenia cech SR-3, AS Wał i WSS Wintorez. SR-3M ma również większą pojemność 30 nabojów, co zapewnia bardziej niezawodne podawanie podczas ognia automatycznego.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[d_green]celowniki: %c[0,250,250,0]niektóre celowniki pasujące na szynę "Jaskółczy ogon"\n
+		%c[d_purple] • %c[d_green]tłumik: %c[d_orange] do SR-3M\n</text>
+	</string>
+</string_table>

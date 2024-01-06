@@ -1,0 +1,96 @@
+<?xml version = "1.0" encoding = "windows-1250"?>
+<string_table>
+
+<!-- General -->
+	<string id = "story_line_dialog_1">
+		<text>Oto wspó³rzêdne anomalii. SprawdŸ je za pomoc¹ detektora. Powinny tam byæ próbki, które mnie interesuj¹.</text>
+	</string>
+	<string id = "story_line_answer_1">
+		<text>Rozumiem.</text>
+	</string>	
+	<string id = "story_line_dialog_2">
+		<text>Jak zapewne ju¿ siê domyœli³eœ, pracujê w grupie naukowej Instytutu Badañ Anomalnej Strefy Czarnobylskiej. Artefakty s¹ niewidoczne dla ludzkiego oka, ale emitowana przez nie czêstotliwoœæ mo¿e zostaæ wykryta przez detektory.</text>
+	</string>
+	<string id = "story_line_answer_2">
+		<text>No có¿, dla mnie ta informacja to ¿adna nowoœæ.</text>
+	</string>	
+	<string id = "story_line_dialog_3">
+		<text>Ka¿dy artefakt emituje energiê z w³asn¹ czêstotliwoœci¹. To jak odcisk lub podpis autora na dziele sztuki. Im szerszy zakres skanowania detektora, tym wiêcej artefaktów mo¿e on znaleŸæ. Z regu³y stalkerzy szukaj¹ artefaktów o wyj¹tkowych w³aœciwoœciach. Tymczasem wszelkie próbki z anomalii s¹ interesuj¹ce dla nauki.</text>
+	</string>
+	<string id = "story_line_answer_3">
+		<text>Bardzo interesuj¹ce...</text>
+	</string>	
+	<string id = "story_line_dialog_4">
+		<text>Jak wiesz, Strie³ok zdo³a³ rozwik³aæ tajemnicê pochodzenia Zony. Informacje te s¹ teraz dostêpne dla wielu naukowców co znacznie pomog³o nam w zrozumieniu niesamowitej natury anomalii, tego, jak wp³ywaj¹ one na otaczaj¹cy nas œwiat i ¿ywe organizmy. Teraz zbieramy bazê praktycznych obserwacji i pomiarów na ziemi. Tej pracy nie mo¿na nazwaæ prost¹. Dlatego szukamy pomocników wœród wolnych stalkerów. </text>
+	</string>
+	<string id = "story_line_answer_4">
+		<text>Oczywiœcie za godziw¹ zap³at¹.</text>
+	</string>	
+	<string id = "story_line_dialog_5">
+		<text>Rozerwanie noosfery, które wszyscy znaj¹ jako drug¹ eksplozjê, spowodowa³o powstanie anomalnej Zony. Linie si³ pól psionicznych, niczym macki, oplataj¹ to terytorium. Ka¿dy obiekt, który znajduje siê w Zonie, jest pod ich wp³ywem. Nawet ty jesteœ ju¿ naznaczony Zon¹. Co mo¿emy powiedzieæ o artefaktach, które rodz¹ siê w jej ³onie? To niesamowity dar, który nie ka¿dy potrafi doceniæ. I nie chodzi o pieni¹dze, które kosztuj¹. Artefakty s¹ pos³añcami Zony, za poœrednictwem których komunikuje siê ona z nami. Dlatego tak bardzo ich potrzebujemy. </text>
+	</string>
+	<string id = "story_line_answer_5">
+		<text>Owszem, ale artefaktami chleba nie posmarujesz...</text>
+	</string>	
+	<string id = "story_line_dialog_6">
+		<text>Ka¿dy artefakt ma unikaln¹ modulacjê, nawet jeœli s¹ tego samego rodzaju. Taki artefakt nam wiele powiedzieæ o tak tajemniczej rzeczy jak noosfera. Najg³upsz¹ rzecz¹, jak¹ mo¿na zrobiæ, to przyczepiæ je do pasów i mieæ nadziejê, ¿e uratuje nas przed kulami lub anomaliami. Teraz kiedy dopiero zbli¿amy siê do odpowiedzi, planujemy skompilowaæ pe³ny spektrogram Zony, a w tym celu bêdziemy musieli omin¹æ du¿¹ liczbê terytoriów. </text>
+	</string>
+	<string id = "story_line_answer_6">
+		<text>Co ja robiê? Ju¿ raz zosta³em przez jedn¹ tak¹ próbkê powalony.</text>
+	</string>	
+	<string id = "story_line_dialog_7">
+		<text>Zastanawia³eœ siê kiedyœ, z czego zrobione s¹ artefakty? Najczêœciej s¹ to szcz¹tki ¿ywych istot uwiêzionych w anomaliach. Wiêc nastêpnym razem, gdy zdecydujesz siê pochwaliæ rzadkim znaleziskiem, pamiêtaj, ¿e mog¹ to byæ szcz¹tki jakiegoœ stalkera. Albo dzika, kto wie...</text>
+	</string>
+	<string id = "story_line_answer_7">
+		<text>Staram siê nie chwaliæ takimi rzeczami.</text>
+	</string>	
+	<string id = "story_line_dialog_8">
+		<text>Uwa¿a siê, ¿e anomalie to pewnego rodzaju przerwy w czasoprzestrzeni, w których fizyczne prawa naszego œwiata przestaj¹ dzia³aæ. Istnieje jednak inny punkt widzenia, ¿e jest to potê¿ne Ÿród³o sygna³u, którego po prostu nie mo¿emy odebraæ. Kto je przesy³a i dlaczego? A mo¿e to tylko pokrywka rondla, która grzechocze nad gotuj¹cym siê roso³em?</text>
+	</string>	
+	<string id = "story_line_answer_8">
+		<text>Najwa¿niejsze jest to, aby nie ?sapaæ? ponownie. </text>
+	</string>	
+	<string id = "story_line_dialog_9">
+		<text>Anomalia najczêœciej wybiera próbki organiczne jako odbiornik informacji. Na przyk³ad dzikie zwierzêta lub zombie, które czêsto w nich gin¹. W ten sposób pojawiaj¹ siê artefakty. Znaj¹c dok³adne miejsce pochodzenia artefaktu, mo¿na odczytaæ go jak ksi¹¿kê lub fleszkê.</text>
+	</string>
+	<string id = "story_line_answer_9">
+		<text>Mam nadziejê, ¿e nie myœla³eœ jeszcze o rzucaniu czymkolwiek w anomalie? </text>
+	</string>	
+	<string id = "story_line_dialog_10">
+		<text>Nie kupujemy artefaktów od stalkerów czy bandytów. Bez znajomoœci dok³adnego miejsca pochodzenia s¹ one dla nas bezu¿yteczne. Naszym zadaniem jest zebranie próbek z ka¿dego zak¹tka Zony.</text>
+	</string>	
+	<string id = "story_line_answer_10">
+		<text>Rozumiem.</text>
+	</string>	
+	<string id = "story_line_dialog_11">
+		<text>Ka¿dy artefakt, nawet tego samego rodzaju, ma unikalne promieniowanie w zale¿noœci od miejsca, w którym zosta³ znaleziony. Zona pozostawi³a na ka¿dym z nich unikalny odcisk, którego nie mo¿na pomyliæ z niczym innym. Znaj¹c pe³ne spektrum promieniowania, mo¿emy stworzyæ psioniczn¹ mapê Zony i zrozumieæ pochodzenie tych zak³óceñ, które spowodowa³y Zony. A mo¿e i zarz¹dzaæ nimi. </text>
+	</string>	
+	<string id = "story_line_answer_11">			
+		<text>Ambitne plany...</text>
+	</string>	
+	<string id = "story_line_dialog_12">
+		<text>Dziêki tobie nasz klaster obliczeniowy jest zajêty obliczeniami przez ca³¹ dobê. To informacje do analizy na lata! Mimo wszystko by³a to s³uszna decyzja, pomimo ryzyka, zespó³ zostanie wys³any na ca³e terytorium Zony. Nasz tutejszy lider, akademik Skabiñski, dzia³a³ dalekowzrocznie. Jedna osoba nie jest w stanie ogarn¹æ ca³oœciowo tak du¿ej struktury. Tylko ³¹cz¹c nasze zdolnoœci myœlenia mogliœmy osi¹gn¹æ sukces.</text>
+	</string>	
+	<string id = "story_line_answer_12">
+		<text>Cieszê siê waszym szczêœciem...</text>
+	</string>	
+	<string id = "story_line_dialog_13">			
+		<text>Dziêkujemy za bycie z nami. Zazwyczaj stalkerzy, którzy nam pomagaj¹, ci¹gle znikaj¹. Wstêpna analiza spektrogramu jest pe³na niespodzianek, wygl¹da na to, ¿e centrum Zony by³o pod naszym nosem przez ca³y ten czas. Nasz kolega nie czeka³ na ostateczne obliczenia i ju¿ siê tam przeniós³. Ale wci¹¿ jestem sk³onny dokoñczyæ tworzenie mapy. Potrzeba nam jeszcze kilku próbek.</text>
+	</string>	
+	<string id = "story_line_answer_13">
+		<text>To siê chyba nigdy nie skoñczy...</text>
+	</string>	
+	<string id = "story_line_dialog_14">
+		<text>Nasza dzia³alnoœæ dobiega koñca. Wkrótce udowodnimy, ¿e zas³ugujemy na nasze miejsce... Wiesz, ¿e w centrum Zony znajduje siê gigantyczna anomalia, w której przecinaj¹ siê wszystkie linie promieniowania psionicznego? Artefakt, który narodzi siê w tym wyj¹tkowym miejscu, bêdzie mia³ unikalne w³aœciwoœci. Zona w koñcu do nas przemówi...</text>
+	</string>	
+	<string id = "story_line_answer_14">
+		<text>Do nas?</text>
+	</string>	
+	<string id = "story_line_dialog_15">
+		<text>Mam smutn¹ wiadomoœæ. Jeden z naszych ludzi przerwa³ komunikacjê. Nie ma powodu, by mieæ nadziejê na najlepsze, wiêc najprawdopodobniej zgin¹³. W centrum Zony znajduje siê gigantyczna anomalia, a przejœcie przez ni¹ jest prawie niemo¿liwe. Zastanowimy siê jeszcze, jak rozwi¹zaæ ten problem - byæ mo¿e warto doprecyzowaæ obliczenia?</text>
+	</string>	
+	<string id = "story_line_answer_15">
+		<text>W Zonie zawsze trzeba najpierw myœleæ, a potem dzia³aæ.</text>
+	</string>	
+	
+</string_table>

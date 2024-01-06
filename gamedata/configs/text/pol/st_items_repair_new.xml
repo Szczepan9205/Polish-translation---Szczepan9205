@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Repair Kits
+-->
+
+<string_table>
+	<string id="st_cleaning_kit_p_new">
+		<text>Zestaw do czyszczenia broni typu A</text>
+	</string>
+	<string id="st_cleaning_kit_p_new_descr">
+		<text>Zestaw specjalistycznych szczotek, które mogą być używane do czyszczenia lufy i innych części broni palnej z brudu, piasku, wilgoci, pozostałości smaru i innych obcych materiałów, które nagromadziły się podczas użytkowania. Takie zestawy są dość powszechnie stosowane w Zonie, aby utrzymać broń palną w dobrym stanie przez cały czas. Możliwe jest wykorzystanie zwykłych narzędzi, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni lub alkoholu, aby łatwiej rozpuścić pozostałości oleju. Może być również stosowany do lepszego rozprowadzania oleju do czyszczenia broni, jednak bardziej opłacalną metodą stosowaną przez większość doświadczonych stalkerów jest nakładanie tłuszczu zwierzęcego na szczotki jako alternatywnego smaru. Ten konkretny zestaw pasuje do typowych kalibrów broni ręcznej.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do czyszczenia zabrudzonych części w broni (stan powyżej 60%)\n
+		%c[d_orange] • Kliknij PPM na broń typu A > konserwacja części > wyczyść część\n
+		%c[0,255,255,255]KOMPATYBILNOŚĆ:\n
+		%c[d_orange] • %c[ui_gray_2]Głównie z bronią małego kalibru\n
+		</text>
+	</string>
+    
+	<string id="st_cleaning_kit_s_new">
+		<text>Zestaw do czyszczenia broni typu B</text>
+	</string>
+	<string id="st_cleaning_kit_s_new_descr">
+		<text>Zestaw specjalistycznych szczotek, które mogą być używane do czyszczenia lufy i innych części broni palnej z brudu, piasku, wilgoci, pozostałości smaru i innych obcych materiałów, które nagromadziły się podczas użytkowania. Możliwe jest użycie zwykłych narzędzi, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni lub alkoholu, aby łatwiej rozpuścić pozostałości oleju. Ten konkretny zestaw nadaje się do stosowania w broni myśliwskiej i broni historycznej, takiej jak karabiny powtarzalne i większość ręcznie obsługiwanych strzelb. Zestaw "Aurora" zawiera trzy specjalistyczne rodzaje szczotek, po jednej do czyszczenia po wystrzale, rozprowadzania smaru i usuwania rdzy. Utrzymuje ulubioną strzelbę w dobrym stanie przez cały czas.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do czyszczenia zabrudzonych części w broni (stan powyżej 60)\n
+		%c[d_orange] • Kliknij PPM na broń typu B > konserwacja części > wyczyść część\n
+		%c[0,255,255,255]KOMPATYBILNOŚĆ:\n
+		%c[d_orange] • %c[ui_gray_2] Głównie ze strzelbami i prostymi karabinami\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r5_new">
+		<text>Zestaw do czyszczenia broni typu C</text>
+	</string>
+	<string id="st_cleaning_kit_r5_new_descr">
+		<text>Zestaw specjalistycznych szczotek, które mogą być używane do czyszczenia lufy i innych części broni palnej z brudu, piasku, wilgoci, pozostałości smaru i innych obcych materiałów, które nagromadziły się podczas użytkowania. Takie zestawy są dość powszechnie stosowane w Zonie, aby utrzymać broń palną w dobrym stanie przez cały czas. Możliwe jest wykorzystanie zwykłych narzędzi, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni lub alkoholu, aby łatwiej rozpuścić pozostałości oleju. Może być również stosowany do lepszego rozprowadzania oleju do broni, jednak bardziej opłacalną metodą stosowaną przez większość doświadczonych stalkerów jest nakładanie tłuszczu zwierzęcego na szczotki jako alternatywnego smaru. To konkretne opakowanie jest standardowym wyposażeniem ukraińskich sił zbrojnych i jest dostarczane w twardym plastikowym pojemniku wielokrotnego użytku.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do czyszczenia zabrudzonych części (stan powyżej 60%) w broni\n 
+		%c[d_orange] • Kliknij PPM na broń typu C > konserwacja części > wyczyść część\n
+		%c[0,255,255,255]KOMPATYBILNOŚĆ:\n
+		%c[d_orange] • %c[ui_gray_2] Głównie z standardową bronią wojskową i konkretnymi pistoletami maszynowymi\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r7_new">
+		<text>Zestaw do czyszczenia broni typu D</text>
+	</string>
+	<string id="st_cleaning_kit_r7_new_descr">
+		<text>Zestaw specjalistycznych szczotek, które mogą być używane do czyszczenia lufy i innych części broni palnej z brudu, piasku, wilgoci, pozostałości smaru i innych obcych materiałów, które nagromadziły się podczas użytkowania. Takie zestawy są dość powszechnie stosowane w Zonie, aby utrzymać broń palną w dobrym stanie przez cały czas. Możliwe jest wykorzystanie zwykłych narzędzi, aby uzyskać lepszy dostęp do wewnętrznych mechanizmów broni lub alkoholu, aby łatwiej rozpuścić pozostałości oleju. Może być również stosowany do lepszego rozprowadzania oleju do broni, jednak bardziej opłacalną metodą stosowaną przez większość doświadczonych stalkerów jest nakładanie tłuszczu zwierzęcego na szczotki jako alternatywnego smaru. Ten konkretny zestaw zawiera pewne głęboko penetrujące rozpuszczalniki i specjalnie ukształtowane szczotki, które pozwalają użytkownikowi na czyszczenie bardzo skomplikowanej wewnętrznie broni, a także czyszczenie precyzyjnych karabinów bez wpływu na ich celność. Producent nieznany, ale jego prosty design i konstrukcja, a także bardzo wysokiej jakości użyte materiały sugerują wojskowe, prawdopodobnie specjalne pochodzenie.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do czyszczenia zabrudzonych części (stan powyżej 60%) w broni\n 
+		%c[d_orange] • Kliknij PPM na broń typu D > konserwacja części > wyczyść część\n
+		%c[0,255,255,255]KOMPATYBILNOŚĆ:\n
+		%c[d_orange] • %c[ui_gray_2] Głównie dla broni dużego kalibru i/lub bardziej skomplikowanej broni\n
+		</text>
+	</string>
+
+    <string id="st_toolkit_p_new">
+        <text>Zestaw naprawczy do broni typu A</text>
+    </string>
+    <string id="st_toolkit_p_new_descr">
+        <text>Zestaw ten zawiera oleje, rozpuszczalniki, podstawowy sprzęt czyszczący oraz specjalistyczne narzędzia służące do demontażu i konserwacji mechanizmów broni. Standardowo zawiera również zestaw podstawowych części zamiennych do broni palnej. Zestaw jest dość ciężki, ale niezastąpiony podczas wypraw w głąb Zony, ponieważ może być użyty w sytuacjach życia lub śmierci, aby przywrócić broń palną do stanu używalności. Ze względu na różnice w konstrukcji broni, ten konkretny zestaw może być używany tylko do demontażu i naprawy broni o kalibrach pistoletowych. Możliwe jest również dodatkowe zwiększenie skuteczności zestawu poprzez pożyczanie niektórych materiałów z innych zestawów lub łączenie ich z innymi zestawami podczas jednej sesji konserwacji.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do zastępowania części w pistolecie częściami z zestawu\n 
+		%c[d_orange] • Kliknij PPM na broń typu A > konserwacja części > wymień żądaną część\n
+        %c[0,255,255,255]KOMPATYBILNOŚĆ:\n
+        %c[d_orange] • %c[ui_gray_2] Głównie z bronią małego kalibru\n
+        </text>
+    </string>
+
+    <string id="st_toolkit_s_new">
+        <text>Zestaw naprawczy do broni typu B</text>
+    </string>
+    <string id="st_toolkit_s_new_descr">
+        <text>Zestaw ten zawiera oleje, rozpuszczalniki, podstawowy sprzęt czyszczący oraz specjalistyczne narzędzia służące do demontażu i konserwacji mechanizmów broni. Standardowo zawiera również zestaw podstawowych części zamiennych do broni palnej. Zestaw jest dość ciężki, ale niezastąpiony podczas wypraw w głąb Zony, ponieważ może być użyty w sytuacjach życia lub śmierci, aby przywrócić broń palną do stanu używalności. Jest to dość powszechny zestaw z narzędziami i komponentami odpowiednimi dla większości strzelb i historycznej broni z czasów Wielkiej Wojny. Tego typu zestawy można często znaleźć u myśliwych i rusznikarzy, którzy przybywają do Zony, aby wykonywać swój zawód. Możliwe jest również dodatkowe zwiększenie skuteczności zestawu poprzez pożyczenie pewnych materiałów z innych zestawów lub połączenie ich z innymi zestawami podczas pojedynczej sesji konserwacji.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do zastępowania części w pistolecie częściami z zestawu\n
+		%c[d_orange] • Kliknij PPM na broń typu B > konserwacja części > wymień żądaną część\n
+        %c[0,255,255,255]KOMPATYBILNY Z:\n
+        %c[d_orange] • %c[ui_gray_2] Głównie ze strzelbami i prostymi karabinami\n
+        </text>
+    </string>
+
+    <string id="st_toolkit_r5_new">
+        <text>Zestaw naprawczy do broni typu C</text>
+    </string>
+    <string id="st_toolkit_r5_new_descr">
+        <text>Zestaw ten zawiera oleje, rozpuszczalniki, podstawowy sprzęt czyszczący oraz specjalistyczne narzędzia służące do demontażu i konserwacji mechanizmów broni. Standardowo zawiera również zestaw podstawowych części zamiennych do broni palnej. Zestaw jest dość ciężki, ale niezastąpiony podczas wypraw w głąb Zony, ponieważ może być użyty w sytuacjach życia lub śmierci, aby przywrócić broń palną do stanu używalności. Są to standardowe zestawy naprawcze ukraińskiej armii używane do konserwacji standardowej broni - Powinność ma umowę handlową z wojskiem na te zestawy, ale zazwyczaj pozbawiony skrupułów żołnierz jest skłonny wymienić jeden z nich na artefakt lub skrzynkę wódki. Możliwe jest również dodatkowe zwiększenie skuteczności zestawu poprzez pożyczenie pewnych materiałów z innych zestawów lub połączenie ich z innymi zestawami podczas pojedynczej sesji konserwacji.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do zastępowania części w pistolecie częściami z zestawu\n 
+		%c[d_orange] • Kliknij PPM na broń typu C > konserwacja części > wymień żądaną część\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_orange] • %c[ui_gray_2] Głównie z standardową bronią wojskową i konkretnymi pistoletami maszynowymi\n
+        </text>
+    </string>
+
+    <string id="st_toolkit_r7_new">
+        <text>Zestaw naprawczy do broni typu D</text>
+    </string>
+    <string id="st_toolkit_r7_new_descr">
+        <text>Zestaw ten zawiera oleje, rozpuszczalniki, podstawowy sprzęt czyszczący oraz specjalistyczne narzędzia służące do demontażu i konserwacji mechanizmów broni. Standardowo zawiera również zestaw podstawowych części zamiennych do broni palnej. Zestaw jest dość ciężki, ale niezastąpiony podczas wypraw w głąb Zony, ponieważ może być użyty w sytuacjach życia lub śmierci, aby przywrócić broń palną do stanu używalności. Jest to specjalistyczny zestaw używany do konserwacji precyzyjnych broni, takich jak karabiny snajperskie i karabiny bojowe, a także niektórych broni o złożonych mechanizmach wewnętrznych, takich jak lekkie karabiny maszynowe i niektóre karabiny szturmowe. Takie zestawy są dość rzadkie i zwykle można je znaleźć w ograniczonych ilościach wśród nawet najlepiej uzbrojonych frakcji Zony. Możliwe jest również dodatkowe zwiększenie skuteczności zestawu poprzez pożyczenie pewnych materiałów z innych zestawów lub połączenie ich z innymi zestawami podczas pojedynczej sesji konserwacji.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • Może być używany do zastępowania części w pistolecie częściami z zestawu\n
+		%c[d_orange] • Kliknij PPM na broń typu D > konserwacja części > wymień żądaną część\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+        %c[d_orange] • %c[ui_gray_2] Głównie dla broni dużego kalibru i/lub bardziej skomplikowanej broni\n
+        </text>
+    </string>
+</string_table>

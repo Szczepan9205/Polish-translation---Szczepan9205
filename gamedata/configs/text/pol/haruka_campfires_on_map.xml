@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+    <string id="ui_mcm_menu_campfires_on_map">
+		<text>Ogniska na mapie</text>
+	</string>
+
+	<string id="ui_mcm_campfires_on_map_show_campfires">
+		<text>Pokazuj ogniska</text>
+	</string>
+
+	<string id="ui_mcm_campfires_on_map_show_only_visited">
+		<text>Pokazuj tylko odwiedzone</text>
+	</string>
+	<string id="ui_mcm_campfires_on_map_show_only_visited_desc">
+		<text>Sprawia, że tylko ogniska, z którymi gracz wchodził w interakcję, są wyświetlane na mapie.</text>
+	</string>
+
+    <string id="st_campfire">
+		<text>Ognisko</text>
+	</string>
+      <string id="st_campfire_visited">
+		<text>%c[ui_white]Ognisko (%c[d_orange]Odwiedzone%c[ui_white])</text>
+	</string>
+</string_table>

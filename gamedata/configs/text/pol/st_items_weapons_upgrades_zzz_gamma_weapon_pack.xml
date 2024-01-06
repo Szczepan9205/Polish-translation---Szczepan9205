@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons upgrades
+-->
+
+<string_table>
+
+	<string id="st_prop_binoc_gamma_nightvision">
+		<text>Noktowizja</text>
+	</string>	
+	<string id="st_prop_binoc_gamma_nightvision_0">
+		<text>Noktowizja</text>
+	</string>
+	<string id="st_prop_binoc_gamma_nightvision_1">
+		<text>Noktowizja Gen. 1</text>
+	</string>
+	<string id="st_prop_binoc_gamma_nightvision_2">
+		<text>Noktowizja Gen.2</text>
+	</string>
+	<string id="st_prop_binoc_gamma_nightvision_3">
+		<text>Noktowizja Gen.3</text>
+	</string>
+	
+	<string id="st_up_binoc_b1_gamma_name">
+		<text>Noktowizor pierwszej generacji</text>
+	</string>
+	<string id="st_up_binoc_b1_gamma_descr">
+		<text>Instalacja technologii noktowizyjnej w warunkach słabego oświetlenia, która opiera się na przydatnych w nocy technikach zakresu widmowego i intensywności w celu wykrywania promieniowania niewidocznego dla ludzkiego obserwatora.</text>
+	</string>
+	<string id="st_up_binoc_b2_gamma_name">
+		<text>Noktowizor drugiej generacji</text>
+	</string>
+	<string id="st_up_binoc_b2_gamma_descr">
+		<text>Ulepszenie technologii noktowizyjnej, które wprowadza lepsze wzmocnienie światła systemu, rozdzielczość systemu i światłoczułość w celu zwiększenia jakości obrazu.</text>
+	</string>
+	<string id="st_up_binoc_b3_gamma_name">
+		<text>Noktowizor trzeciej generacji</text>
+	</string>
+	<string id="st_up_binoc_b3_gamma_descr">
+		<text>Udoskonalenie technologii noktowizyjnej, które wprowadza lepsze wzmocnienie światła systemowego, rozdzielczość systemu i światłoczułość w celu zwiększenia jakości obrazu, a także wyświetlacz z białym luminoforem dla lepszej ostrości i zmniejszenia wad wzroku.</text>
+	</string>
+
+</string_table>
+
+

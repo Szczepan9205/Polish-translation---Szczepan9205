@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 18
+- @ Description: Wet Surfaces - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<string_table>
+
+	<!-- Gloss Title -->
+	<string id="ui_mcm_ssfx_module_wet_surf_title">
+		<text>Mokre powierzchnie - ustawienia</text>
+	</string>
+
+	<!-- Gloss Settings -->
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_buildup_speed_mcm">
+		<text>Mokrość - szybkość namakania</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_buildup_speed_mcm_desc">
+		<text>Szybkość namakania powierzchni. Im wyższa wartość, tym szybsze namakanie. ( Kałuże i mokre powierzchnie )</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_dry_speed_mcm">
+		<text>Mokrość - szybkość wysychania</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_dry_speed_mcm_desc">
+		<text>Czas wysychania powierzchni. Im wyższa wartość, tym szybsze wysychanie kałuż. ( Kałuże i mokre powierzchnie )</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_size_mcm">
+		<text>Skala kropli deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_size_mcm_desc">
+		<text>Skala kropli deszczu. Im wyższa wartość, tym większy rozmiar fali deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_speed_mcm">
+		<text>Szybkość kropli deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_speed_mcm_desc">
+		<text>Ustaw prędkość animacji kropli deszczu. (Intensywność deszczu definiuje prędkość podstawową)</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_min_speed_mcm">
+		<text>Prędkość min. kropli deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_min_speed_mcm_desc">
+		<text>Ustawia minimalną prędkość animacji kropli deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_intensity_mcm">
+		<text>Intensywność kropli deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_ripples_intensity_mcm_desc">
+		<text>Ustawia intensywność efektu kropli deszczu.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_size_mcm">
+		<text>Skala opadów</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_size_mcm_desc">
+		<text>Skala efektu opadów. Im wyższa wartość, tym większy rozmiar.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_speed_mcm">
+		<text>Szybkość opadów</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_speed_mcm_desc">
+		<text>Ustawia prędkość opadów. (Intensywność deszczu określa prędkość podstawową)</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_min_speed_mcm">
+		<text>Min. prędkość opadów</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_min_speed_mcm_desc">
+		<text>Ustawia minimalną prędkość opadów.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_intensity_mcm">
+		<text>Intensywność opadów</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_waterfall_intensity_mcm_desc">
+		<text>Zdefiniuj intensywność efektu opadów.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_res_mcm">
+		<text>Rozdzielczość opadów</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_res_mcm_desc">
+		<text>Rozdzielczość renderowania opadów. Wyższe wartości generują ostrzejsze osłony kosztem wydajności.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_distance_mcm">
+		<text>Odległość opadów</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_wetness_ssfx_wet_surf_cover_distance_mcm_desc">
+		<text>Odległość renderowania opadów. Wyższe wartości oznaczają wyższą wydajność.</text>
+	</string>
+
+	<!-- Resolution Combobox -->
+	<string id="ui_mcm_lst_ssfx_cover_64">
+		<text>64</text>
+	</string>
+
+	<string id="ui_mcm_lst_ssfx_cover_128">
+		<text>128 ( Zalecana )</text>
+	</string>
+
+	<string id="ui_mcm_lst_ssfx_cover_256">
+		<text>256</text>
+	</string>
+
+	<string id="ui_mcm_lst_ssfx_cover_512">
+		<text>512</text>
+	</string>
+
+	<string id="ui_mcm_lst_ssfx_cover_1024">
+		<text>1024</text>
+	</string>
+
+	<string id="ui_mcm_lst_ssfx_cover_2048">
+		<text>2048</text>
+	</string>
+
+</string_table>

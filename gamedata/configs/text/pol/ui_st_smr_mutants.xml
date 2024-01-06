@@ -1,0 +1,154 @@
+<string_table>
+	<string id="ui_mcm_menu_smr_mutants">
+		<text>Mutanty</text>
+	</string>
+    <string id="ui_mcm_smr_mutants_types_title">
+		<text>Typy mutantów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_squad_size">
+		<text>Rozmiar stad mutantów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_squad_size_variance">
+		<text>Wariancja wielkoœci stada</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_squad_size_variance_desc">
+		<text>Im wy¿sza wartoœæ, tym bardziej losowy bêdzie rozmiar stad mutantów.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_random_mutants">
+		<text>Spawnuj losowe stada mutantów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_random_mutants_desc">
+		<text>Zastêpuje domyœlne stada mutantów innymi, losowymi stadami. Oznacza to, ¿e mo¿esz znaleŸæ pewne mutanty tam, gdzie wczeœniej siê ich nie spodziewa³eœ.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_random_mutants_chance">
+		<text>Szansa na losowe stado mutantów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_balanced_mutants">
+		<text>Zbalansowany spawn mutantów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_balanced_mutants_desc">
+		<text>Czyli mniej silnych mutantów w zewnêtrznych lokalizacjach i odwrotnie.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_types_info">
+		<text>Poni¿ej mo¿esz w³¹czyæ lub wy³¹czyæ typy mutantów. Wy³¹czone mutanty nie pojawi¹ siê w Zonie.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_types_replace_squads">
+		<text>Zast¹p usuniête stada</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_types_replace_squads_desc">
+		<text>Zastêpuje stada zawieraj¹ce tylko wy³¹czone mutanty stadami zawieraj¹cymi te w³¹czone.</text>
+	</string>
+	<!-- TYPES -->
+	<string id="ui_mcm_SMR_smr_mutants_dogp">
+		<text>Psy</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_psydogp">
+		<text>Nibypsy</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_tushkanop">
+		<text>Tuszkany</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_fracturep">
+		<text>Po³amañce</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_catp">
+		<text>Koty</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_fleshp">
+		<text>Miêsacze</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_boarp">
+		<text>Dziki</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_snorkp">
+		<text>Snorki</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_psysuckerp">
+		<text>Pijawki psioniczne</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_bloodsuckerp">
+		<text>Pijawki</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_lurkerp">
+		<text>Lurkery</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_karlikp">
+		<text>Kar³y</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_burerp">
+		<text>Burery</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_poltergeistp">
+		<text>Poltergeisty</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_controllerp">
+		<text>Kontrolerzy</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_chimerap">
+		<text>Chimery</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_mutants_gigantp">
+		<text>Nibyolbrzymy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_ratp">
+		<text>Szczury</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombiep">
+		<text>Zombie</text>
+	</string>
+	<!-- UNUSED -->
+	<string id="ui_mcm_smr_mutants_unused_title">
+		<text>Nieu¿ywane mutanty</text>
+	</string>
+	<string id="ui_mcm_smr_mutants_unused_info">
+		<text>Poni¿ej mo¿esz w³¹czyæ mutanty, które s¹ obecne w plikach gry, ale nie s¹ u¿ywane. Pojawi¹ siê one w Zonie jako losowe stada mutantów.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_bibliotekarp">
+		<text>Bibliotekarze</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_boryap">
+		<text>Borja</text>
+	</string>
+	<string id="ui_mcm_smr_mutants_unused_types_info">
+		<text>Poni¿ej mo¿esz w³¹czyæ warianty mutantów, które s¹ obecne w plikach gry, ale nie s¹ u¿ywane. Bêd¹ one odradzaæ siê razem z u¿ywanymi wariantami.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_unused_types_chance">
+		<text>Szansa na typ nie u¿ywanego mutanta</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_unused_types_chance_desc">
+		<text>Jest to procentowa szansa, ¿e normalne odmiany mutanta zostan¹ zast¹pione tymi nieu¿ywanymi przez grê.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_bloodsucker_strong_bigp">
+		<text>Du¿e pijawki</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_burer_electrap">
+		<text>Elektro burery</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_burer_firerp">
+		<text>Ogniste burery</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_flesh_bolotp">
+		<text>Miêsacze bagienne</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_gigant_jumperp">
+		<text>Skacz¹ce nibyolbrzymy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_snork_no_maskp">
+		<text>Snorki (bez masek)</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_babkap">
+		<text>¯eñskie zombie</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_gholp">
+		<text>Zombie ghule</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_ghostp">
+		<text>Zombie duchy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_tetap">
+		<text>Zombie teta</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_mutants_zombie_wichp">
+		<text>Zombie wiedŸmy</text>
+	</string>
+</string_table>

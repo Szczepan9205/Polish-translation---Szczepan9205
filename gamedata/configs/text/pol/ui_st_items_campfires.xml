@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_campfire_placeable_title">
+		<text>Rozpalanie ognisk</text>
+	</string>
+	<string id="ui_mcm_menu_campfire_placeable">
+		<text>Ogniska</text>
+	</string>
+
+	<string id="ui_mcm_campfire_placeable_place_radius">
+		<text>Promień instalacji ogniska</text>
+	</string>
+	<string id="ui_mcm_campfire_placeable_place_radius_desc">
+		<text>Promień powierzchni wokół gracza, który powinien być mniej więcej płaski, aby możliwe było rozpalenie ogniska. \n
+					\n Domyślnie: 3.0</text>
+	</string>
+
+	<string id="ui_mcm_campfire_placeable_dot_dist_diff">
+		<text>Kontrola powierzchni</text>
+	</string>
+	<string id="ui_mcm_campfire_placeable_dot_dist_diff_desc">
+		<text>Limit różnicy w odległości między promieniami rzucanymi na powierzchnię, używany do określenia, czy powierzchnia jest płaska. Zwiększ suwak, jeśli chcesz móc umieszczać ogniska na bardziej nierównych powierzchniach. \n
+					\n Domyślnie: 0.4</text>
+	</string>
+
+	<string id="ui_mcm_campfire_placeable_transition_delete_items">
+		<text>Usuń umieszczone ogniska przy zmianie lokacji</text>
+	</string>
+	<string id="ui_mcm_campfire_placeable_transition_delete_items_desc">
+		<text>Usuwa umieszczone ogniska przy każdej zmianie lokacji. \n
+					\n Domyślnie: Wł.</text>
+	</string>
+
+	<string id="ui_mcm_campfire_placeable_delete_items">
+		<text>USUŃ NOWE OBIEKTY (usunięcie dodatku)</text>
+	</string>
+	<string id="ui_mcm_campfire_placeable_delete_items_desc">
+		<text>Aby zapobiec uszkodzeniu pliku zapisu, opcja ta usunie wszystkie nowe elementy dodane przez ten dodatek przy następnym ładowaniu lokacji lub gry.) \n 
+				\n Tak więc, jeśli chcesz usunąć dodatek: \n
+				\n 1) Włącz tę opcję; \n
+				\n 2) Zapisz, załaduj, zapisz ponownie; \n
+				\n 3) Zamknij grę i wyłącz dodatek.</text>
+	</string>
+
+</string_table>

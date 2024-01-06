@@ -1,0 +1,85 @@
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	
+	<string id="ui_mcm_menu_smr_amain">
+		<text>G³ówne</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_persist_info_mm">
+		<text>Nie jesteœ w grze. Wszelkie zmiany wprowadzone teraz zostan¹ zastosowane podczas rozpoczynania nowej gry, ale zostan¹ nadpisane, jeœli wczytany plik zapisu zawiera zapisan¹ konfiguracjê.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_persist_info_level">
+		<text>Jesteœ w grze. Wszelkie wprowadzone zmiany zostan¹ zapisane i wczytane wraz z plikiem zapisu.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_tooltip_info">
+		<text>Wiêkszoœæ opcji posiada podpowiedzi. Jeœli nie masz pewnoœci, co robi dana opcja, najedŸ kursorem myszy na jej nazwê, aby uzyskaæ opis.</text>
+	</string>
+	<!-- GENERAL -->
+	<string id="st_smr_glitched_pda_text">
+		<text>B£¥D KRYTYCZNY: WYKRYTO USZKODZENIE PAMIÊCI WEWNÊTRZNEJ</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_enabled">
+		<text>W³¹cz ZCP</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_debug_log">
+		<text>Rejestrowanie debugowania</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_debug_log_desc">
+		<text>W³¹cza rejestrowanie debugowania. OSTRZE¯ENIE: Spowoduje to bardzo szybkie zawy¿enie pliku dziennika, a tak¿e oddzielnego pliku dziennika "dph_zcp.log".</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_persist_override">
+		<text>Nie ³aduj konfiguracji z pliku zapisu</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_smr_persist_override_desc">
+		<text>Zastêpuje ³adowanie konfiguracji z pliku zapisu. Przydatne, jeœli podejrzewasz, ¿e zapisane dane s¹ uszkodzone lub w inny sposób nieprawid³owe.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_respawn_idle">
+		<text>Czas odradzania</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_10800">
+		<text>3 Godziny</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_21600">
+		<text>6 Godzin</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_43200">
+		<text>12 Godzin</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_86400">
+		<text>1 Dzieñ (domyœlnie)</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_172800">
+		<text>2 Dni</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_345600">
+		<text>4 Dni</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_604800">
+		<text>1 Tydzieñ</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_1209600">
+		<text>2 Tygodnie</text>
+	</string>
+	<string id="ui_mcm_lst_smr_amain_respawn_idle_1">
+		<text>Nigdy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_pop_factor_info">
+		<text>Te ustawienia wspó³czynnika populacji zast¹pi¹ wbudowane ustawienia Anomaly za ka¿dym razem, gdy w³¹czony jest ZCP.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_monster_pop_factor">
+		<text>Wspó³czynnik populacji mutantów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_stalker_pop_factor">
+		<text>Wspó³czynnik populacji stalkerów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_respawn_idle_desc">
+		<text>Zmieniono czas odradzania siê wszystkich przeœladowców, mutantów i zombie.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_glitched_pda">
+		<text>Zepsute PDA</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_amain_glitched_pda_desc">
+		<text>Zmienia twoje bardzo pomocne PDA w przycisk do papieru, wraz z piêknym komunikatem o b³êdzie.</text>
+	</string>
+</string_table>

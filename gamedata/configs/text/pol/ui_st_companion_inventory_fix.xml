@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_companion_inv">
+        <text>Odblokowanie ekwipunku kompanów</text>
+    </string>
+
+	<string id="ui_mcm_companion_inv_show_all">
+		<text>Pokazuje wszystkie przedmioty w ekwipunku towarzyszy.</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_all_desc">
+		<text>[Cheat] Ta opcja pokaże każdy element, nawet elementy techniczne i animacje, których nie powinno się tykać. Ta opcja koloruje elementy, które podświetla na czerwono.</text>
+	</string>
+	<string id="ui_mcm_companion_inv_show_klep">
+		<text>Pokazuje przedmioty zdobyte przez towarzysza podczas przemierzania z tobą Zony.</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_klep_desc">
+		<text>Opcja ta pokazuje wszystkie przedmioty z wyjątkiem tych, z którymi towarzysz zaczynał. Wszystko, co podniósł/podnieśli, a co w innym przypadku byłoby ukryte, zostanie pokazane w ekwipunku. Ta opcja koloruje przedmioty, które podświetla złotym kolorem.</text>
+	</string>
+
+
+
+
+</string_table>

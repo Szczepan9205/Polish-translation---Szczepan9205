@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<string id="zone_mine_radar_section_name">
+		<text>Radar</text>
+	</string>
+	
+	<string id="zone_mine_darkness_section_name">
+		<text>Ciemność</text>
+	</string>
+	
+	<string id="zone_mine_flash_section_name">
+		<text>Błysk</text>
+	</string>
+	
+	<string id="zone_mine_ghost_section_name">
+		<text>Duch</text>
+	</string>
+	
+	<string id="zone_mine_gold_section_name">
+		<text>Płynne Złoto</text>
+	</string>
+	
+	<string id="zone_mine_green_dragon_section_name">
+		<text>Zielony Smok</text>
+	</string>
+	
+	<string id="zone_mine_mefistotel_section_name">
+		<text>Mefistofeles</text>
+	</string>
+	
+	<string id="zone_mine_net_section_name">
+		<text>Sieć</text>
+	</string>
+	
+	<string id="zone_mine_point_section_name">
+		<text>Piorun Kulisty</text>
+	</string>
+	
+	<string id="zone_mine_sphere_section_name">
+		<text>Odskocznia</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_radar">
+		<text>Radar</text>
+	</string>
+	<string id="encyclopedia_anomalies_radar_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Radar\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Psioniczna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Zlokalizowana wyrwa w Noosferze. Emituje słabą aurę psioniczną, poważnie szkodząc zdrowiu psychicznemu każdego, kto znajdzie się w jej pobliżu, poprzez zakłócenie częstotliwości fal mózgowych. W przeciwieństwie do zwykłych pól psionicznych, stalkerzy mają tendencję do całkowitego unikania tych anomalii, ponieważ ich wpływ omija wszelkie konwencjonalne środki ochrony psionicznej, wpływając bezpośrednio na umysł ofiary.\n 
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_darkness">
+		<text>Ciemność</text>
+	</string>
+	<string id="encyclopedia_anomalies_darkness_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Ciemność\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Psioniczna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Przerażająca i śmiertelnie niebezpieczna anomalna formacja nieznanego pochodzenia, oddziałująca na umysł każdej czującej istoty znajdującej się w jej pobliżu. Przypomina skupisko poruszających się cieni. Krążą pogłoski, że anomalia pełni również funkcję schronienia dla poltergeistów. Jedna z najgroźniejszych anomalii, jakie kiedykolwiek odnotowano w Zonie.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_flash">
+		<text>Błysk</text>
+	</string>
+	<string id="encyclopedia_anomalies_flash_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Błysk\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Przestrzenna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Wyrwa w kontinuum czasoprzestrzennym. Każda istota złapana w te anomalie doświadcza szybkiej podróży w czasie o nieznanym zasięgu czasowym. Pomimo ich pozornie niebezpiecznej natury, niektórzy stalkerzy sprytnie wykorzystują te szczeliny do własnych celów, takich jak ucieczka przed pościgiem lub czekanie na najlepszy moment do zdobycia artefaktu.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_ghost">
+		<text>Duch</text>
+	</string>
+	<string id="encyclopedia_anomalies_ghost_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Duch\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Elektryczna/Chemiczna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Sferyczna, elektrochemiczna anomalia. Jej najbardziej charakterystyczną cechą jest to, że porusza się po ustalonej ścieżce w obrębie pewnego obszaru, jakby świadoma otoczenia i w poszukiwaniu ofiary. Ten wzór zachowania dał początek wielu metafizycznym teoriom, sugerującym, że anomalia ta może być w rzeczywistości czującą istotą, a nie naturalną anomalią.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_gold">
+		<text>Płynne Złoto</text>
+	</string>
+	<string id="encyclopedia_anomalies_gold_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Płynne Złoto\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Chemiczna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Uważana za siostrę bliźniaczkę anomalii "Galareta", "Płynne Złoto" emituje chmurę pomarańczowo-złotej toksycznej substancji chemicznej. Substancja ta podnosi temperaturę ciała ofiary do poziomu przekraczającego gorączkę i to w niezwykle szybkim tempie, wywołując szeroki zakres objawów w zależności od siły anomalii: od poważnego odwodnienia do natychmiastowej śmierci spowodowanej osiągnięciem przez krew ofiary temperatury wrzenia.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_green_dragon">
+		<text>Zielony Smok</text>
+	</string>
+	<string id="encyclopedia_anomalies_green_dragon_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Zielony Smok\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Chemiczna
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Anomalna chmura o nieznanym składzie chemicznym. Chmura ta - sklasyfikowana jako trująca - niekorzystnie wpływa na funkcje biologiczne każdego uwięzionego organizmu, znacznie utrudniając jego zdolności motoryczne. Czynności fizyczne wymagające szybkiego poruszania się, jak bieganie czy skakanie, są bardzo trudne do wykonania w jej pobliżu.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_mefistotel">
+		<text>Mefistofeles</text>
+	</string>
+	<string id="encyclopedia_anomalies_mefistotel_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Mefistofeles\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Elektryczna/Chemiczna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Ta dziwna, przypominająca kwiat formacja, której nazwa pochodzi od podstępnego demona ze średniowiecznego folkloru, wydaje niesamowity dźwięk, gdy zbliża się do niej jakakolwiek żywa istota. Ofiary, które znajdą się w jej aktywnym promieniu, są natychmiast przyciągane do jej środka i rozrywane na kawałki. Piękna, ale niezwykle niebezpieczna anomalia.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_net">
+		<text>Sieć</text>
+	</string>
+	<string id="encyclopedia_anomalies_net_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Sieć\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Grawitacyjna/Elektryczna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Formacja ta jest strumieniem naładowanych cząstek, dodatkowo przyspieszanych przez siły grawitacyjne. Każdy obiekt w zasięgu anomalii zostaje szybko opleciony przez te cząstki, zupełnie jakby wpadł w sieci, stąd wzięła się jej nazwa.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_point">
+		<text>Piorun Kulisty</text>
+	</string>
+	<string id="encyclopedia_anomalies_point_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Piorun Kulisty\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Elektryczna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Anomalia natury elektrycznej, przypominająca słynne i do tej pory niewyjaśnione zjawisko naturalne. Ma niepotwierdzoną interakcję z obiektami elektrycznymi, zwłaszcza z bateriami i kondensatorami, rzekomo ładując je energią elektryczną. Niemniej jednak, o ile nie jest się mocno zabezpieczonym, zdecydowanie odradza się zbliżanie do anomalii.\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_anomalies_sphere">
+		<text>Odskocznia</text>
+	</string>
+	<string id="encyclopedia_anomalies_sphere_text">
+		<text>
+		%c[0,255,255,255]Nazwa: %c[ui_gray_2]Odskocznia\n
+		%c[0,255,255,255]Typ: %c[ui_gray_2]Grawitacyjna\n
+		%c[0,255,255,255]Informacje:\n
+		%c[ui_gray_2]Ta anomalia grawitacyjna jest gęstą koncentracją wielu fal grawitacyjnych, tworzących pewnego rodzaju dysk prostopadły do podłoża. Dysk może działać jako niekonwencjonalna tarcza lub osłona, która odpycha lub zmniejsza prędkość szybko poruszających się obiektów, takich jak kule lub inne pociski. Niektórzy bardziej doświadczeni stalkerzy byli świadkami używania "Odskoczni" na swoją korzyść w sytuacjach bojowych.\n
+		</text>
+	</string>
+
+</string_table>

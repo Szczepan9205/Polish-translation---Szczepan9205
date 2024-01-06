@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_pba_sacrifice">
+		<text>poświęć</text>
+	</string>
+
+	<string id="st_pba_transmutate">
+		<text>transmutuj</text>
+	</string>
+
+	<string id="st_af_lucifer_name">
+		<text>Lucyfer</text>
+	</string>
+
+	<string id="st_af_lucifer_descr">
+		<text>
+			Podpisałeś pakt z Zoną. Zostałeś nagrodzony niesamowitymi zdolnościami w zamian za swoją siłę życiową. Aby zapobiec swojej śmierci i przedłużyć swoje istnienie, masz szansę poświęcić inne bogactwa Zony. Jakość ofiary ma znaczenie, ponieważ zostaniesz odpowiednio wynagrodzony. Nie ociągaj się i pamiętaj - zegar tyka.\n \n
+			%c[0,209,172,56]Atut: %c[d_orange]Efekt Lucyfera\n 
+			%c[0,81,63,22]  • %c[0,209,172,56]Lucyfer obdarza cię ogromną siłą i zdolnościami, czyniąc cię półbogiem\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Przy maksymalnym stanie otrzymujesz:\n
+			%c[0,192,71,221] -   50%%c[ui_gray_3] redukcję wszelkich obrażeń\n
+			%c[0,192,71,221] -   35%%c[ui_gray_3] wzrost prędkości poruszania się\n
+			%c[0,192,71,221] -   1%/sec%c[ui_gray_3] regenerację zdrowia\n
+			%c[0,192,71,221] -   3%/sec%c[ui_gray_3] regenerację zdrowia psi\n
+			%c[0,192,71,221] -   +50kg%c[ui_gray_3] do udźwigu\n \n
+			%c[0,81,63,22]  • %c[0,209,172,56]Lucyfer będzie zawsze działał, nawet z plecaka \n
+			%c[0,81,63,22]  • %c[0,209,172,56]Jednak twoje moce są bardzo krótkotrwałe (około 4 dni) i wyczerpują energię artefaktu\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Z każdym % utraty energii artefaktu twoje moce będą słabsze\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Przy 50% energii artefaktu nie będziesz mieć żadnych mocy\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Poniżej 50% artefakt zacznie zużywać twoją duszę, powodując początkowo niewielką utratę wytrzymałości\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Poniżej 40% twoje zdrowie zacznie zanikać, najpierw powoli, a następnie coraz bardziej wraz ze spadkiem kondycji\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Możesz poświęcić zwykłe artefakty, aby częściowo przywrócić kondycję Lucyfera\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefakty poziomu 1 przywracają 3-5%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefakty poziomu 2 przywracają 6-9%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefakty poziomu 3 przywracają 10-13%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefakty "Śmieciowe" przywracają 20-30%\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Serafin nie może zostać złożony w ofierze\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Lampa Śmierci przeładuje artefakt, przywracając go do 100% i tymczasowo wzmacniając go jeszcze bardziej\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Istnieje niewielka szansa, że przeładowanie przez Lampę Śmierci rozerwie cię na strzępy\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Artefaktu nie można pozbyć się w żaden sposób\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Lucyfer ma nieznany wpływ na inne artefakty, wzmacniając ich efekty na różne sposoby\n
+			%c[0,81,63,22]  • %c[0,209,172,56]Znajdź więcej artefaktów, aby przywrócić stan Lucyfera lub staw czoła konsekwencjom
+		</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<!--
+Overwrites
+desert_eagle_custom,
+desert_eagle_modern
+desert_eagle_nimble
+desert_eagle_steppe
+-->
+	<string id="st_wpn_steppe_eagle">
+		<text>Orzeł Stepowy</text>
+	</string>
+	<string id="st_wpn_steppe_eagle_descr">
+		<text>Opracowany przez amerykańską firmę Magnum Research, Desert Eagle wykorzystuje mechanizm gazowy powszechnie spotykany w karabinach. Dzięki temu pistolet może używać pocisków o znacznie większym kalibrze niż tradycyjne pistolety półautomatyczne. Wadami tej broni są znaczne rozmiary i waga. W tej broni wszystkie komponenty są idealnie dostrojone, aby osiągnąć najwyższą celność dla pistoletów tego typu, dzięki zintegrowanemu kompensatorowi wylotowemu udało się znacznie zmniejszyć odrzut. Posiada mocno przeprojektowaną szynę Picatinny, dzięki której można zamontować szeroką gamę celowników. Broń ta została sprowadzona do Zony przez stalkera pod przykrywką dziennikarza-fotografa, któremu udało się samotnie dotrzeć do centrum Prypeci. Obecnie jego los jest nieznany, ale krążą plotki, że pracuje jako informator dla wielu tajnych departamentów w Strefie Wykluczenia.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[0,93,0,116] • %c[0,140,140,140] celowniki: March Tactical 3-24x42 FFP, PN-23, ELCAN SpecterDR, OKP-2, AC10632, ACOG, Aimpoint Micro T1 (na niskiej szynie), Aimpoint Micro T1 (na wysokiej szynie), C-MORE, Aimpoint CompM4s, Docter Sight III, Deltapoint PRO, EOTech XPS3-0, Kobra EKP-8-18, Firefield Kemper XL-M, Meprolight M21, OPK-77, Aimpoint PRO, 1P76 "Rakurs-A", Trijicon RMR\n</text>
+	</string>
+
+<!--
+Overwrites
+desert_eagle
+-->
+	<string id="st_wpn_deagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="st_wpn_deagle_descr">
+		<text>Opracowany przez amerykańską firmę Magnum Research, Desert Eagle wykorzystuje mechanizm gazowy powszechnie spotykany w karabinach. Dzięki temu pistolet może używać pocisków o znacznie większym kalibrze niż tradycyjne pistolety półautomatyczne. Wadami tej broni są znaczne rozmiary i waga.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[0,93,0,116] • %c[0,140,140,140] celowniki: Docter Sight, Aimpoint T1 na niskiej szynie, Trijicon RMR, Leupold DeltaPoint PRO\n</text>
+	</string>
+
+</string_table>

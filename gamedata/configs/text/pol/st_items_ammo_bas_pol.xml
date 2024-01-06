@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+	
+	<string id="ammo_23x75_shrapnel">
+		<text>"Szrapnel-25" 23x75mm</text>
+	</string>
+	<string id="ammo_23x75_shrapnel_descr">
+		<text>Loftka ze śrutem. Zakres zastosowania do 25 metrów. Służy do strzelania z KS-23. Ze względu na to, że lufa posiada gwint w tym karabinku, śrut pokonuje duży dystans, co pozwala strzelać z ręki, praktycznie bez celowania.
+		\n%c[ui_gray_2] - %c[ui_gray_2] Siła przebicia pancerza: %c[ui_gray_1]BR3 (6 x 6)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obrażeń zadawanych tkance: %c[ui_gray_1]285 (47.5 x 6)</text>
+	</string>
+	
+	<string id="ammo_23x75_barrikada">
+		<text>"Barykada" 23x75mm</text>
+	</string>
+	<string id="ammo_23x75_barrikada_descr">
+		<text>Nabój ze stalowym, spiczastym pociskiem. Służy do przymusowego zatrzymywania pojazdów poprzez ich uszkodzenie. Zasięg strzału to ok. 100 metrów. Służy do strzelania z karabinka KS-23.
+		\n%c[ui_gray_2] - %c[ui_gray_2] Siła przebicia pancerza: %c[ui_gray_1]BR5 (51)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obrażeń zadawanych tkance: %c[ui_gray_1]133</text>
+	</string>
+
+		<string id="ammo_9x21_sp10">
+		<text>Naboje 9x21 mm SP10</text>
+	</string>
+	<string id="ammo_9x21_sp10_descr">
+		<text>Nabój pistoletowy o zwiększonej sile penetracji. Zaprojektowany do niszczenia sił lądowych wyposażonych środki ochrony osobistej. Część przednia rdzenia stalowego, wzmacnianego termicznie, wystaje z łuski, dzięki czemu uzyskuje się wysoki efekt penetracji pocisku.\n \n%c[ui_gray_2] - %c[ui_gray_2] Umożliwia przebicie pancerza klasy: %c[ui_gray_1]BR4\n%c[ui_gray_2] - %c[ui_gray_2] Obrażenia zadawane miękkiej tkance: %c[ui_gray_1]średnie
+		\n%c[ui_gray_2] - %c[ui_gray_2] Siła przebicia pancerza: %c[ui_gray_1]BR3 (32)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obrażeń zadawanych tkance: %c[ui_gray_1]24</text>
+	</string>
+
+	<string id="ammo_20x70_buck">
+		<text>Naboje śrutowe 20x70 </text>
+	</string>
+	<string id="ammo_20x70_buck_descr">
+		<text>Standardowy nabój kalibru 20, wypełniony śrutem 6 mm. Bardzo zabójczy z bliskiej odległości. Nadaje się tylko do użytku z bronią gładkolufową.\n \n%c[d_purple] • %c[ui_gray_2] Umożliwia przebicie pancerza klasy: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] Obrażenia zadawane miękkiej tkance: %c[ui_gray_1]średnie - wysokie\n \n%c[ui_gray_1]SPECYFIKA:\n \n%c[d_purple] • %c[ui_gray_2] tworzy rój śrucin skutecznych na krótkim zasięgu
+		\n%c[ui_gray_2] - %c[ui_gray_2] Siła przebicia pancerza: %c[ui_gray_1]brak (3 x 9)
+		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obrażeń zadawanych tkance: %c[ui_gray_1]143 (16 x 9)</text>
+	</string>
+	<string id="ammo_20x70_buck_s">
+		<text>Śrut 20x70</text>
+	</string>
+
+	<string id="ammo_23_eco">
+		<text>Naboje Ekolog-23 </text>
+	</string>
+	<string id="ammo_23_eco_descr">
+		<text>Specjalny nabój zaprojektowany na potrzeby kadry naukowej znajdującej się w Zonie. W zależności od zadania wypełniony jest różnego rodzaju ładunkami. Wymaga bardzo ostrożnego obchodzenia się. Sposób użycia: ładować bardzo powoli.\n \n%c[d_purple] • %c[ui_gray_2] Umożliwia przebicie pancerza klasy: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] Obrażenia zadawane miękkiej tkance: %c[ui_gray_1]brak\n \n%c[ui_gray_1]SPECYFIKA:\n \n%c[d_purple] • %c[ui_gray_2] Za pomocą cienkiej igły z wolframu przebija skórę mutantów, aby wstrzyknąć roztwór.</text>
+	</string>
+	<string id="ammo_23_eco_s">
+		<text>Ekolog-23</text>
+	</string>
+
+	<string id="ammo_vog_30">
+		<text>Pocisk granatnikowy WOG-30 </text>
+	</string>
+	<string id="ammo_vog_30_descr">
+		<text>Odłamkowy pocisk granatnikowy WOG-30 jest przeznaczony do niszczenia sił lądowych wroga na otwartym terenie. Ulepszona wersja w porównaniu z poprzednią, opracowaną jeszcze w latach 80., ma silniejszy efekt fragmentacji, a także autonomiczne uszczelnienie ładunku miotającego.\n </text>
+	</string>
+	<string id="ammo_vog_30_s">
+		<text>WOG-30</text>
+	</string>
+
+	<string id="ammo_338_federal">
+		<text>Naboje .338 Federal</text>
+	</string>
+	<string id="ammo_338_federal_descr">
+		<text>.338 Federal to nabój karabinowy oparty na łusce .308 Winchester z szyjką do kalibru .33. Został stworzony przez Federal Cartridge i Sako w 2006 roku. Nabój jest przeznaczony dla lekkich karabinków i stanowi połączenie dużego kalibru ze stosunkowo niewielkim odrzutem.\n \n%c[d_purple] • %c[ui_gray_2] Umożliwia przebicie pancerza klasy: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Obrażenia zadawane miękkiej tkance: %c[ui_gray_1]bardzo wysokie
+		\n%c[d_purple] • %c[ui_gray_2] Najwyższa klasa przebijanego pancerza: %c[ui_gray_1]BR6 (75)
+		\n%c[d_purple] • %c[ui_gray_2] Stopień uszkodzenia tkanek: %c[ui_gray_1]56</text>
+	</string>
+	<string id="ammo_338_federal_s">
+		<text>.338 Federal</text>
+	</string>
+	
+</string_table>

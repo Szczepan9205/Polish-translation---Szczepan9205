@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_aol_hf">
+        <text>Wyposażenie kryjówki</text>
+    </string>
+
+	<!-- Controls -->
+	<string id="ui_mcm_menu_controls">
+		<text>Sterowanie</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_controls_bind_collision">
+		<text>Przełącz sprawdzanie kolizji</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_controls_bind_alignment">
+		<text>Przełączanie między trybami wyrównania: Gracz i Powierzchnia</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_controls_bind_place_mode">
+		<text>Przełączanie między trybami umieszczania: Normalny, Zaawansowany i Podgląd</text>
+	</string>
+
+	<!-- Gameplay -->
+	<string id="ui_mcm_menu_gameplay">
+		<text>Gra</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_gameplay_uniform_trade_profiles">
+		<text>Używaj jednolitych profili handlowych</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_gameplay_use_ingame_time">
+		<text>Światła pokazują czas w grze</text>
+	</string>
+
+	<!-- World Objects -->
+	<string id="ui_mcm_menu_world_obj">
+		<text>Obiekty świata</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_world_obj_flag_record_on_place">
+		<text>Włącz nagrywanie obiektów podczas umieszczania</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_world_obj_flag_record_on_keypress">
+		<text>Włączanie nagrywanie obiektów przez naciśnięcie klawisza</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_world_obj_bind_record">
+		<text>Nagraj obiekt</text>
+	</string>
+
+	<!-- Debug -->
+	<string id="ui_mcm_menu_debug">
+		<text>Debugowanie</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_debug_bind_creative_mode">
+		<text>Tryb kreatywny</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_debug_location_offset">
+		<text>Przesunięcie położenia</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_update_mcm">
+		<text>Zaktualizuj MCM, aby ustawić powiązania klawiszy. Domyślnie TAB dla przełączania kolizji i CAPS LOCK dla przełączania wyrównania.</text>
+	</string>
+</string_table>

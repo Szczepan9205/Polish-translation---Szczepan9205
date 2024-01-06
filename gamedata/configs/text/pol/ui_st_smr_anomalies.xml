@@ -1,0 +1,42 @@
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	
+	<string id="ui_mcm_menu_smr_anomalies">
+		<text>Anomalie</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance">
+		<text>Iloœæ dynamicznych anomalii</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance_desc">
+      <text>Jeœli w³¹czone s¹ dynamiczne anomalie, zwiêkszy/zmniejszy to szansê na ich pojawienie siê. Bez ZCP gra zawsze u¿ywa wartoœci 35%.</text>
+    </string>
+	<string id="ui_mcm_SMR_smr_anomalies_pulse">
+		<text>W³¹cz anomaliê "Puls"</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_pulse_desc">
+		<text>"Puls" to anomalia, która czasami pojawia siê jako œwiat³o nad tob¹ i powoduje grzmot i b³yskawicê uderzaj¹c¹ w ziemiê.</text>
+	</string>
+    <string id="ui_mcm_smr_anomalies_anomalies_types_title">
+		<text>Typy anomalii</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_anomalies_types_info">
+		<text>Poni¿ej mo¿esz kontrolowaæ, które typy anomalii dynamicznych bêd¹ siê pojawiaæ.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_electric">
+		<text>Elektryczne</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_chemical">
+		<text>Chemiczne</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_thermal">
+		<text>Termalne</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_gravitational">
+		<text>Grawitacyjne</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_anomalies_radioactive">
+		<text>Radioaktywne</text>
+	</string>
+  </string_table>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_ppp_1911_357_fmj">
+		<text>Magazynek .357 do Colt 1911 Coonan</text>
+	</string>
+	<string id="st_mag_ppp_1911_357_fmj_descr">
+		<text>
+            Wariant magazynka Colta 1911 zmodyfikowany w celu dostosowania do znacznie dłuższego naboju .357 Magnum. Działa tylko z pistoletem Coonan .357, który zapewnia całą siłę obalającą naboju .357 Magnum w kompaktowej obudowie.
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_svi_45">
+		<text>Standardowy 15-nabojowy magazynek do Strayer-Voight</text>
+	</string>
+	<string id="st_mag_ppp_svi_45_descr">
+		<text>
+            Standardowy magazynek dostarczany z pistoletem Strayer-Voight Infinity Competition. Wydłużony, 15-nabojowy magazynek został zaprojektowany tak, aby był szybko dostępny i ułatwiał szybką wymianę magazynka: na spodzie znajduje się mała czarna płytka szybkiego dostępu z wytłoczonym logo SVI Diamond. Za jeden taki magazynek w świecie zewnętrznym można kupić około pięciu Makarovów PM - jednak wartość w Zonie jest określana wyłącznie przez użyteczność, a zatem ten magazynek nie ma żadnego wyróżnika poza tym, że jest niezwykle rzadki.
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_px4_9x19_fmj">
+		<text>Standardowy 17-nabojowy magazynek 9x19mm do Beretty PX4</text>
+	</string>
+	<string id="st_mag_ppp_px4_9x19_fmj_descr">
+		<text>
+            Standardowy magazynek PX4 Storm. Chociaż bardzo podobny do Beretty 92F, magazynki mają nieco inną konstrukcję wargi podającej, co czyni je niekompatybilnymi z 92F. Dość rzadki w Zonie, podobnie jak w przypadku jego macierzystego pistoletu.
+		</text>
+	</string>
+    
+	<string id="st_mag_ppp_px4_45">
+		<text>Standardowy 10-nabojowy magazynek .45 do Beretty PX4</text>
+	</string>
+	<string id="st_mag_ppp_px4_45_descr">
+		<text>
+            Standardowy magazynek PX4 Storm w kalibrze .45 ACP. Chociaż bardzo podobny do Beretty 92F, magazynki mają nieco inną konstrukcję wargi podającej, co czyni je niekompatybilnymi z 92F. Dość rzadki w Zonie, podobnie jak w przypadku jego macierzystego pistoletu.
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_sig_9x19_fmj">
+		<text>Standardowy magazynek 9x19mm do SIG P229</text>
+	</string>
+	<string id="st_mag_ppp_sig_9x19_fmj_descr">
+		<text>
+            Kompaktowy magazynek przeznaczony do pistoletu SIG P229. P229 jest bardzo rzadkim widokiem w Zonie, będąc niezwykle nowoczesnym pistoletem. Bardziej rozsądni stalkerzy noszą pistolety, które są równie skuteczne, a nie tak błyszczące, ponieważ minimalizowanie uwagi jest kluczowe bez względu na to, kim jesteś.
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_signimble_9x19_fmj">
+		<text>Magazynek 9x19mm do SIG P320</text>
+	</string>
+	<string id="st_mag_ppp_signimble_9x19_fmj_descr">
+		<text>
+            Standardowy magazynek przeznaczony do pistoletu SIG 320. P320 to pistolet samopowtarzalny, taki jak Glock i Five-Seven, a ostatnio został zaadaptowany przez armię amerykańską jako standardowy pistolet służbowy o oznaczeniu M17. Ograniczone ilości wariantu RXP zostały przemycone przez Żwawego po tym, jak dowiedział się, że niektórzy amerykańscy klienci przedostają się do Zony.
+		</text>
+	</string>
+    
+	<string id="st_mag_ppp_signimble_45_fmj">
+		<text>Magazynek .45 ACP do SIG P320</text>
+	</string>
+	<string id="st_mag_ppp_signimble_45_fmj_descr">
+		<text>
+            Standardowy magazynek pasujący do pistoletu SIG P320. P320 to pistolet samopowtarzalny, taki jak Glock i Five-Seven, a ostatnio został zaadaptowany przez armię amerykańską jako standardowy pistolet służbowy o oznaczeniu M17. Ograniczone ilości wariantu RXP zostały przemycone przez Żwawego  po usłyszeniu, że niektórzy amerykańscy klienci przedostają się do Zony. Ten wariant magazynka pasuje do naboju .45 ACP.
+		</text>
+	</string>
+
+	<string id="st_mag_ppp_mk23_45">
+		<text>Magazynek .45 ACP do Mark 23</text>
+	</string>
+	<string id="st_mag_ppp_mk23_45_descr">
+		<text>
+            Ponadgabarytowy magazynek z równie potężnego pistoletu Mark 23-SOCOM. Zaprojektowany jako broń podstawowa, Mark-23 jest bardzo celny i stabilny, ale niezwykle ciężki, nieporęczny i niepraktyczny jako broń boczna, dzięki czemu zyskał miano pierwszego na świecie pistoletu służącego załodze. Wygląda na to, że apetyt bogatego stalkera na rzadką broń przewyższa jego apetyt na artefakty.
+		</text>
+	</string>
+
+
+	<string id="st_ppp_colt1911_762x25_fmj">
+		<text>Zmodyfikowany magazynek do Colta 7.62x25mm</text>
+	</string>
+	<string id="st_ppp_colt1911_762x25_fmj_descr">
+		<text>
+            Prawdziwa osobliwość, jest to magazynek do Colta 1911 zmodyfikowany tak, by pomieścić znacznie chudszy nabój 7,62x25 Tokarew. Tylko rosyjskie warianty 1911 popularne wśród Powinności są w stanie zaakceptować taką modyfikację. Zwolennicy modyfikacji twierdzą, że lepsza kontrola nad mniejszym nabojem w połączeniu z powszechnością amunicji sprawiają, że broń boczna jest znacznie bardziej niezawodna, zwłaszcza przy solidnej konstrukcji 1911. Krytycy twierdzą, że jest to niepotrzebny i patriotycznie motywowany luksus, zwłaszcza gdy istnieją tańsze opcje, takie jak pistolet CZ 52.
+		</text>
+	</string>
+    
+	<string id="st_ppp_sw_45_fmj">
+		<text>Standardowy magazynek .45 ACP do SW 645</text>
+	</string>
+	<string id="st_ppp_sw_45_fmj_descr">
+		<text>
+            Standardowy magazynek do pistoletu Smith and Wesson serii 645. Model 645 jest popularny jako prywatna broń służbowa dla amerykańskich detektywów i policjantów. 
+		</text>
+	</string>
+
+	<string id="st_ppp_sw_919_fmj">
+		<text>Standardowy magazynek 9x19mm do SW 659</text>
+	</string>
+	<string id="st_ppp_sw_919_fmj_descr">
+		<text>
+            Standardowy magazynek do pistoletu Smith and Wesson 659. Model 659 jest w rzeczywistości 9-milimetrowym wariantem pistoletu 645, w związku z czym magazynki są w większości identyczne.
+		</text>
+	</string>
+
+	<string id="st_ppp_xd9_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do XD9</text>
+	</string>
+	<string id="st_ppp_xd9_9x19_fmj_descr">
+		<text>
+            Standardowy 9-nabojowy magazynek do pistoletu XD9. XD9 nie jest wyjątkowym pistoletem pod żadnym względem, z wyjątkiem być może efektywności kosztowej.
+		</text>
+	</string>
+    
+	<string id="st_ppp_glock_45_fmj">
+		<text>Standardowy magazynek .45 do Glock 21</text>
+	</string>
+	<string id="st_ppp_glock_45_fmj_descr">
+		<text>
+            Standardowy 13-nabojowy magazynek polimerowy do pistoletu Glock 21. Ze względu na jednolity standard magazynków Glock, magazynek ten pasuje również do pistoletów Glock 17 zmodyfikowanych do obsługi .45 ACP. Jak udało się przerobić ten magazynek ze standardowego magazynka Glock? Cóż, Zona skrywa wiele tajemnic.
+		</text>
+	</string>
+
+    
+</string_table>

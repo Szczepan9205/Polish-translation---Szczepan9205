@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+    Ledge Grabbing
+    Generated with AnomalyModCreator
+-->
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_ledge_grabbing_title">
+		<text>Ledge Grabbing</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_ledge_grabbing">
+		<text>Ledge Grabbing</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_enable">
+		<text>Włącz</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection">
+		<text>Alternatywne wykrywanie wspinaczki</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection_desc">
+		<text>Alternatywna metoda będzie raycastować na półki znajdujące się bliżej celownika gracza. Standardowa metoda będzie emitować promień ze stałej wysokości.</text>
+	</string>
+	
+	<string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck">
+		<text>Sprawdzanie granic gracza</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck_desc">
+		<text>Jeśli włączona, wykona dodatkowy raycast, aby sprawdzić, czy gracz zmieści się w miejscu, na które chce się wspiąć. Może ograniczyć to możliwe miejsca do wspinaczki.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode">
+		<text>Tryb hardcore</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode_desc">
+		<text>Po włączeniu dodaje dodatkowe ograniczenia dotyczące wspinaczki: \n 1. Zakaz wspinaczki, gdy waga gracza przekracza 90 kg. \n 2. Zakaz wspinaczki, gdy zdrowie gracza jest mniejsze niż 60%. \n 3. Zwiększone zużycie wytrzymałości</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_BHSMode">
+		<text>Integracja z BHS</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_BHSMode_desc">
+		<text>Po włączeniu tej opcji, jeśli korzystasz z Body Health System, a jedno z ramion gracza jest złamane, wspinaczka nie będzie możliwa.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_throttleCheck">
+		<text>Opóźnienie sprawdzenia wspinaczki</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_throttleCheck_desc">
+		<text>Czas między sprawdzaniem w milisekundach. Zwiększa wydajność kosztem dokładności.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance">
+		<text>Dystans inicjowania chwytu</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_climbTriggerDistance_desc">
+		<text>Maksymalna odległość do zainicjowania chwytu za krawędź.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_raySteps">
+		<text>Dokładność chwytania krawędzi</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_raySteps_desc">
+		<text>Im wyższa wartość tym lepsze będą wykrywanie i pozycja do chwytania kosztem niewielkiego spadku wytrzymałości.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime">
+		<text>Czas przytrzymania klawisza skoku do zainicjowania chwytu</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_jumpTriggerTime_desc">
+		<text>Jeśli przytrzymasz klawisz skoku dłużej niż ta wartość, chwytanie się krawędzi zostanie aktywowane.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_soundVolume">
+		<text>Głośność dźwięków</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_gruntVolume">
+		<text>Głośność stęknięć</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_gruntProbability">
+		<text>Prawdopodobieństwo stękania</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_staminaDrain">
+		<text>Spadek wytrzymałości</text>
+	</string>
+	
+	<string id="ui_mcm_demonized_ledge_grabbing_inputMethod">
+		<text>Metoda wprowadzania</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_keybind">
+		<text>Przypisany klawisz</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_jumpHold">
+		<text>Przytrzymanie klawisza</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_buttonPress">
+		<text>Naciśnięcie przycisku</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_ledge_grabbing_inputMethod_both">
+		<text>Obie</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_animationRandomization">
+		<text>Losowość animacji</text>
+	</string>
+	<string id="ui_mcm_demonized_ledge_grabbing_animationRandomization_desc">
+		<text>Losowo zmienia ruchy kamery.</text>
+	</string>
+
+</string_table>
+                        

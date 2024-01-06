@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_sks_7.62x39">
+		<text>Standardowy magazynek do SKS kalibru 7.62x39 mm</text>
+	</string>
+	<string id="st_mag_sks_7.62x39_descr">
+		<text>Standardowy magazynek do SKS o pojemności 20 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_toz106_20x70_fmj">
+		<text>Standardowy magazynek 20x70 do TOZ 106</text>
+	</string>
+	<string id="st_mag_toz106_20x70_descr">
+		<text>Standardowy magazynek do TOZ 106 o pojemności 2 pocisków.
+		</text>
+	</string>
+	
+	<string id="st_mag_etoz106_20x70_fmj">
+		<text>Rozszerzony magazynek 20x70 do TOZ 106</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_descr">
+		<text>Rozszerzony magazynek do TOZ 106 o pojemności 4 pocisków.
+		</text>
+	</string>
+	
+	<string id="st_mag_toz106_20x70_zhekan_fmj">
+		<text>Standardowy magazynek 20x70 do TOZ 106</text>
+	</string>
+	<string id="st_mag_toz106_20x70_zhekan_descr">
+		<text>Standardowy magazynek do TOZ 106 o pojemności 2 pocisków kulowych.
+		</text>
+	</string>
+	
+	<string id="st_mag_etoz106_20x70_zhekan_fmj">
+		<text>Rozszerzony magazynek 20x70 TOZ 106</text>
+	</string>
+	<string id="st_mag_etoz106_20x70_zhekan_descr">
+		<text>Rozszerzony magazynek TOZ 106 o pojemności 4 pocisków kulowych.
+		</text>
+	</string>
+	
+	<string id="st_mag_dvl_7.62x51">
+		<text>Standardowy magazynek 7.62x51 mm do DVL10</text>
+	</string>
+	<string id="st_mag_dvl_7.62x51_descr">
+		<text>Standardowy magazynek do DVL10 o pojemności 10 nabojów.
+		</text>
+	</string>
+		
+	<string id="st_mag_basremington700_7.62x51_descr">
+		<text>Rozszerzony magazynek 7.62x51 do Remington 700</text>
+	</string>
+	<string id="st_mag_basremington700_7.62x51">
+		<text>Rozszerzony magazynek do Remington 700 o pojemności 12 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_remingtonarchangel_7.62x51">
+		<text>Rozszerzony magazynek 7.62x51 do Remington Archangel Kit</text>
+	</string>
+	<string id="st_mag_remingtonarchangel_7.62x51_descr">
+		<text>Rozszerzony magazynek do Remington Archangel Kit o pojemności 20 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_remingtonla_300_descr">
+		<text>Standardowy magazynek .300 do Remington 700</text>
+	</string>
+	<string id="st_mag_remingtonla_300">
+		<text>Standardowy magazynek do Remington 700 o pojemności 5 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_k98_7.92x33">
+		<text>Standardowy magazynek 7.92x33 do Kar 98</text>
+	</string>
+	<string id="st_mag_k98_7.92x33_descr">
+		<text>Standardowy magazynek do Kar 98 o pojemności 5 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_valbas_9x39_pab9">
+		<text>Rozszerzony magazynek 9x39 do AS Wał</text>
+	</string>
+	<string id="st_mag_valbas_9x39_pab9_descr">
+		<text>Rozszerzony magazynek 9x39mm do AS Wał o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_basvintorez_9x39_pab9">
+		<text>Rozszerzony magazynek 9x39 do WSS Wintorez</text>
+	</string>
+	<string id="st_mag_basvintorez_9x39_pab9_descr">
+		<text>Rozszerzony magazynek 9x39mm do WSS Wintorez o pojemności 20 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_basextvintorez_9x39_pab9">
+		<text>Rozszerzony magazynek 9x39 do WSS Wintorez</text>
+	</string>
+	<string id="st_mag_basextvintorez_9x39_pab9_descr">
+		<text>Rozszerzony magazynek 9x39mm do WSS Wintorez o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_5.56">
+		<text>Standardowy magazynek 5.56x45 do SWD</text>
+	</string>
+	<string id="st_mag_svd_5.56_descr">
+		<text>Standardowy magazynek do SWD 5.56x45mm o pojemności 10 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_5.56_extended">
+		<text>Rozszerzony magazynek 5.56x45 do SWD</text>
+	</string>
+	<string id="st_mag_svd_5.56_extended_descr">
+		<text>Rozszerzony magazynek 5.56x45mm do SWD o pojemności 20 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_sksext_7.62x39">
+		<text>Rozszerzony magazynek do SKS kalibru 7.62x39</text>
+	</string>
+	<string id="st_mag_sksext_7.62x39_descr">
+		<text>Rozszerzony magazynek do SKS kalibru 7.62x39mm o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_sks_7.62x54ext">
+		<text>Rozszerzony magazynek do SKS kalibru 7.62x54</text>
+	</string>
+	<string id="st_mag_sks_7.62x54ext_descr">
+		<text>Rozszerzony magazynek do SKS kalibru 7.62x54mm o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_sks_7.62x54">
+		<text>Standardowy magazynek do SKS kalibru 7.62x54</text>
+	</string>
+	<string id="st_mag_sks_7.62x54_descr">
+		<text>Standardowy magazynek do SKS kalibru 7.62x54mm o pojemności 20 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_dvl_338">
+		<text>Standardowy magazynek .338 do Federal DVL10</text>
+	</string>
+	<string id="st_mag_dvl_338fed_descr">
+		<text>Standardowy magazynek .338 do Federal DVL10 o pojemności 10 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_akalfa_7.62x39_bas">
+		<text>Standardowy magazynek 7.62x39 do AK Alfa</text>
+	</string>
+	<string id="st_mag_akalfa_7.62x39_bas_descr">
+		<text>Standardowy magazynek 7.62x39mm do AK Alfa o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_akalfa_5.56x45_bas">
+		<text>Standardowy magazynek 5.56x45 do AK Alfa</text>
+	</string>
+	<string id="st_mag_akalfa_5.56x45_bas_descr">
+		<text>Standardowy magazynek 5.56x45mm do AK Alfa o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_sr2m_9x21_veresk">
+		<text>Standardowy magazynek 9x21 do SR-2M Veresk</text>
+	</string>
+	<string id="st_mag_sr2m_9x21_veresk_descr">
+		<text>Standardowy magazynek 9x21mm do SR-2M Veresk o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="st_mag_sr2m_9x18_veresk">
+		<text>Standardowy magazynek 9x18 mm do SR-2M Veresk</text>
+	</string>
+	<string id="st_mag_sr2m_9x18_veresk_descr">
+		<text>Standardowy magazynek 9x18mm do SR-2M Veresk o pojemności 30 nabojów.
+		</text>
+	</string>
+
+</string_table>

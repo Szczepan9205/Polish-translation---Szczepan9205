@@ -1,0 +1,45 @@
+	<string id="ui_mcm_menu_EA_settings">
+		<text>Ustawienia FDDA</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_animations">
+		<text>W³¹cz animacje FDDA</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_backpack_addon">
+		<text>W³¹cz animacjê plecaka</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_crouch_toggle_backpack_addon">
+		<text>W³¹cz animacjê plecaka podczas klêczenia</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot">
+		<text>W³¹cz animacjê skórowania mutantów</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_item_anim">
+		<text>W³¹cz animacjê podnoszenia przedmiotów</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot_desc">
+		<text>uwaga: automatycznie siê wy³¹cza \n
+		\n jeœli animacje FDDA s¹ wy³¹czone</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist">
+		<text>Zasiêg animacji podnoszenia przedmiotów</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist_desc">
+		<text>Domyœlny - 0.12, zalecana wartoœæ do poprawki \n
+		 b³¹d dodatku na magazynki - 0.3-0.5</text>
+	</string>
+	
+	<string id="st_EA_ladder_item_not_allowed">
+      <text>Aktualnie masz zajête rêce</text>
+    </string>
+
+	<string id="ui_mcm_EA_settings_ea_debug">
+      <text>W³¹cz debugowanie</text>
+    </string>

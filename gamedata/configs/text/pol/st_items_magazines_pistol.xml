@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+    
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_aps_9x18_fmj">
+		<text>Standardowy magazynek 9x18 do APS</text>
+	</string>
+	<string id="st_mag_aps_9x18_fmj_descr">
+		<text>
+		Standardowy magazynek 9x18 do APS o pojemności 20 nabojów. APS miał ograniczone zastosowanie jako broń do obrony osobistej, wyparty przez AKS-74U, a później OC-33.
+		</text>
+	</string>
+
+	<string id="st_mag_aps_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do APS</text>
+	</string>
+	<string id="st_mag_aps_9x19_fmj_descr">
+		<text>
+		Magazynek do APS zmodyfikowany przez przedsiębiorczego technika do przechowywania nabojów 9x19 Parabellum.
+		</text>
+	</string>
+
+	<string id="st_mag_beretta_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do Beretty 92F</text>
+	</string>
+	<string id="st_mag_beretta_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek do Beretty 92F mieszczący 15 nabojów. Beretta pozostaje odwiecznym ulubieńcem gangsterów i gwiazd kina akcji z Hongkongu.
+		</text>
+	</string>
+
+	<string id="st_mag_beretta_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do Beretty 92F</text>
+	</string>
+	<string id="st_mag_beretta_9x18_fmj_descr">
+		<text>
+		Zmodyfikowany magazynek do Beretty pasujący do bardziej popularnego naboju 9x18 Makarow.
+		</text>
+	</string>
+
+
+	<string id="st_mag_colt1911_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do Colta 1911</text>
+	</string>
+	<string id="st_mag_colt1911_11.43x23_fmj_descr">
+		<text>
+		Standardowy magazynek do Colta 1911 mieszczący 7 nabojów. Choć 1911 ma dość małą pojemność, co czyni go przestarzałym w porównaniu z innymi, bardziej nowoczesnymi pistoletami .45, jest tańszy i znacznie łatwiejszy do zdobycia.
+		</text>
+	</string>
+
+	<string id="st_mag_colt_kimber_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do Colta Kimber</text>
+	</string>
+	<string id="st_mag_colt_kimber_11.43x23_fmj_descr">
+		<text>
+		Standardowy magazynek do Colta Kimber mieszczący 7 nabojów. Wyższa jakość niż w standardowym magazynku 1911, niemniej jednak cierpi na tę samą anemiczną pojemność amunicji.
+		</text>
+	</string>
+
+	<string id="st_mag_cz52_7.62x25_p">
+		<text>Standardowy magazynek 7.62x25 do CZ-52</text>
+	</string>
+	<string id="st_mag_cz52_7.62x25_p_descr">
+		<text>
+		Standardowy 8-nabojowy magazynek do CZ-52. Ten historyczny rosyjski nabój wciąż ma swoich wielbicieli.
+		</text>
+	</string>
+
+	<string id="st_mag_cz75_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do CZ-75</text>
+	</string>
+	<string id="st_mag_cz75_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek do CZ-75 o pojemności 16 nabojów.
+		</text>
+	</string>
+
+	<string id="st_mag_cz75_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do CZ-75</text>
+	</string>
+	<string id="st_mag_cz75_9x18_fmj_descr">
+		<text>
+         Magazynek CZ-75 zmodyfikowany do podawania nabojów 9x18. Częsty widok w Zonie, biorąc pod uwagę wszechobecność nabojów 9x18 Makarow.
+		</text>
+	</string>
+
+	<string id="st_mag_desert_eagle_357_hp">
+		<text>Standardowy magazynek .357 do Desert Eagle</text>
+	</string>
+	<string id="st_mag_desert_eagle_357_hp_descr">
+		<text>
+		Standardowy magazynek do Desert Eagle .357 mieszczący 9 nabojów. Nawet magazynek jest masywny.
+		</text>
+	</string>
+
+	<string id="st_mag_fn57_5.7x28_ss190">
+		<text>Standardowy magazynek 5.7x28 do Five-seveN</text>
+	</string>
+	<string id="st_mag_fn57_5.7x28_ss190_descr">
+		<text>
+		Standardowy magazynek do Five-seveN mieszczący 20 nabojów. Niezwykle dobrze wykonany magazynek do bardzo skutecznej broni bocznej, jednak amunicja jest dość rzadka.
+		</text>
+	</string>
+
+	<string id="st_mag_fnp45_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do FNP-45</text>
+	</string>
+	<string id="st_mag_fnp45_11.43x23_fmj_descr">
+		<text>
+		Standardowy magazynek do FNP-45 mieszczący 15 nabojów. Bardzo powszechne wyposażenie wśród zachodnich operatorów i stalkerów Monolitu. Pasuje również do pistoletu FNX-45.
+		</text>
+	</string>
+
+	<string id="st_mag_fnx45_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do FNX-45</text>
+	</string>
+	<string id="st_mag_fnx45_11.43x23_fmj_descr">
+		<text>
+            Standardowy magazynek do FNX-45 mieszczący 15 nabojów. Nowsze pistolety FNX są bardziej powszechne wśród najemników, choć stanowią rzadkie trofea zdobywane przez żołnierzy Monolitu. Pasuje również do pistoletu FNP-45.
+		</text>
+	</string>
+
+	<string id="st_mag_fort_9x18_fmj">
+		<text>Standardowy magazynek 9x18 do Fort-17</text>
+	</string>
+	<string id="st_mag_fort_9x18_fmj_descr">
+		<text>
+		Standardowy 12-nabojowy magazynek do pistoletu Fort-17. Często spotykany w Zonie jako broń boczna ukraińskich oddziałów wojskowych lub stalkerów z przeszłością policyjną.
+		</text>
+	</string>
+
+	<string id="st_mag_fort_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do Fort-17</text>
+	</string>
+	<string id="st_mag_fort_9x19_fmj_descr">
+		<text>
+		Magazynek do Forta-17 zmodyfikowany do przyjmowania nabojów 9x19 Parabellum.
+		</text>
+	</string>
+
+	<string id="st_mag_glock_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do Glocka</text>
+	</string>
+	<string id="st_mag_glock_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek do Glocka mieszczący 17 nabojów. Odwieczny ulubieniec amerykańskich policjantów i gangsterów.
+		</text>
+	</string>
+
+	<string id="st_mag_glock_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do Glocka</text>
+	</string>
+	<string id="st_mag_glock_9x18_fmj_descr">
+		<text>
+		Magazynek do Glocka zmodyfikowany do bardziej popularnego naboju 9x18 Makarow.
+		</text>
+	</string>
+
+	<string id="st_mag_gsh18_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do GSz-18</text>
+	</string>
+	<string id="st_mag_gsh18_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek do GSz-18 mieszczący 18 nabojów. GSz-18 jest jedną z nowoczesnych broni bocznych używanych przez rosyjskie wojsko i organy ścigania.
+		</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do Browninga Hi-Power</text>
+	</string>
+	<string id="st_mag_hpsa_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek do Browninga Hi-Power mieszczący 13 nabojów. Hi-Power to niezawodna i niedroga broń boczna preferowana przez wielu stalkerów.
+		</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do Browninga Hi-Power</text>
+	</string>
+	<string id="st_mag_hpsa_9x18_fmj_descr">
+		<text>
+		Magazynek do Browninga Hi-Power zmodyfikowany pod nabój 9x18 Makarow.
+		</text>
+	</string>
+
+	<string id="st_mag_mp443_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do MP-443</text>
+	</string>
+	<string id="st_mag_mp443_9x19_fmj_descr">
+		<text>
+		Standardowy 18-nabojowy magazynek do pistoletu MP-443. Jedna z podstawowych broni bocznych rosyjskich jednostek wojskowych i organów ścigania.
+		</text>
+	</string>
+
+	<string id="st_mag_mp443_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do MP-443</text>
+	</string>
+	<string id="st_mag_mp443_9x18_fmj_descr">
+		<text>
+		Zmodyfikowany magazynek do MP-443 przystosowany do naboju 9x18 Makarow.
+		</text>
+	</string>
+
+	<string id="st_mag_oc33_9x18_fmj">
+		<text>Standardowy magazynek 9x18 do OC-33 Pernacz</text>
+	</string>
+	<string id="st_mag_oc33_9x18_fmj_descr">
+		<text>
+		Standardowy magazynek do OC-33 Pernacz mieszczący 27 nabojów. Pernacz zastąpił APS jako automatyczny pistolet maszynowy, przewyższając go niemal pod każdym względem z wyjątkiem stylu.
+		</text>
+	</string>
+
+	<string id="st_mag_oc33_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do OC-33 Pernacz</text>
+	</string>
+	<string id="st_mag_oc33_9x19_fmj_descr">
+		<text>
+			Magazynek do OC-33 Pernacz zmodyfikowany do ładowania nabojów 9x19 Parabellum.
+		</text>
+	</string>
+
+
+	<string id="st_mag_pm_9x18_fmj">
+		<text>Standardowy magazynek 9x18 do PM</text>
+	</string>
+	<string id="st_mag_pm_9x18_fmj_descr">
+		<text>
+		Standardowy magazynek do PM mieszczący 8 nabojów. PM-owi brakuje zarówno siły rażenia, jak i pojemności magazynka, a jego jedyną zaletą jest powszechność.
+		</text>
+	</string>
+
+	<string id="st_mag_pm_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do PM</text>
+	</string>
+	<string id="st_mag_pm_9x19_fmj_descr">
+		<text>
+			Magazynek do PM zmodyfikowany do przyjmowania nabojów 9x19 Parabellum. Większy nabój zapewnia niewielki wzrost mocy.
+		</text>
+	</string>
+
+	<string id="st_mag_pmm_9x18_fmj">
+		<text>Standardowy magazynek 9x18 do PMM</text>
+	</string>
+	<string id="st_mag_pmm_9x18_fmj_descr">
+		<text>
+			Standardowy magazynek do PMM mieszczący 12 nabojów. Zauważalna poprawa w stosunku do PM.
+		</text>
+	</string>
+
+	<string id="st_mag_pmm_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do PMM</text>
+	</string>
+	<string id="st_mag_pmm_9x19_fmj_descr">
+		<text>
+			Magazynek do PMM zmodyfikowany do przyjmowania nabojów 9x19 Parabellum.
+		</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do PP-2000</text>
+	</string>
+	<string id="st_mag_pp2000_9x19_fmj_descr">
+		<text>
+		Standardowy do magazynek do PP-2000 o pojemności 30 nabojów.
+		</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x18_fmj">
+		<text> Zmodyfikowany magazynek 9x18 do PP-2000</text>
+	</string>
+	<string id="st_mag_pp2000_9x18_fmj_descr">
+		<text>
+			Magazynek do PP-2000 zmodyfikowany do naboju 9x18 Makarow.
+		</text>
+	</string>
+
+	<string id="st_mag_sig220_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do SIG Sauer P220</text>
+	</string>
+	<string id="st_mag_sig220_11.43x23_fmj_descr">
+		<text>
+			7-nabojowy magazynek .45 ACP do pistoletu SIG P220. P220 jest popularny wśród ochroniarzy i funkcjonariuszy służb bezpieczeństwa, a w Zonie spisuje się przyzwoicie.
+		</text>
+	</string>
+
+	<string id="st_mag_tt33_7.62x25_p">
+		<text>Standardowy magazynek 7.62x25 do TT-33</text>
+	</string>
+	<string id="st_mag_tt33_7.62x25_p_descr">
+		<text>
+		8 nabojowy magazynek do TT-33 7,62x25. Ten klasyk z czasów Wielkiej Wojny wciąż ma swoich wielbicieli w Zonie.
+		</text>
+	</string>
+
+
+	<string id="st_mag_usp_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do USP</text>
+	</string>
+	<string id="st_mag_usp_11.43x23_fmj_descr">
+		<text>
+			Standardowy 12-nabojowy magazynek do USP w wersji .45 ACP.
+		</text>
+	</string>
+
+	<string id="st_mag_usp_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do USP</text>
+	</string>
+	<string id="st_mag_usp_9x19_fmj_descr">
+		<text>
+			Standardowy 15-nabojowy magazynek do USP w wersji 9 mm "Match".
+		</text>
+	</string>
+
+
+	<string id="st_mag_walther_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do Walther P99</text>
+	</string>
+	<string id="st_mag_walther_9x19_fmj_descr">
+		<text>
+		16-nabojowy standardowy magazynek do pistoletu Walther P99 9x19 Parabellum.
+		</text>
+	</string>
+
+	<!-- begin smgs -->
+
+	<string id="st_mag_bizon_9x18_fmj">
+		<text>Standardowy magazynek 9x18 do PP-19</text>
+	</string>
+	<string id="st_mag_bizon_9x18_fmj_descr">
+		<text>
+		Standardowy 64-nabojowy magazynek spiralny do pistoletu maszynowego PP-19 Bizon. Duża pojemność jest równoważona przez jego nieodłączną zawodność w podawaniu nabojów.
+		</text>
+	</string>
+
+	<string id="st_mag_bizon_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do PP-19</text>
+	</string>
+	<string id="st_mag_bizon_9x19_fmj_descr">
+		<text>
+		Zmodyfikowany magazynek PP-19 przystosowany do naboju 9x19 Tokarew. Najwyraźniej praca czarodzieja, biorąc pod uwagę złożoność spiralnego magazynka Bizona.
+		</text>
+	</string>
+
+	<string id="st_mag_bizon_7.62x25_p">
+		<text>Zmodyfikowany magazynek 7.62x25 do PP-19</text>
+	</string>
+	<string id="st_mag_bizon_7.62x25_p_descr">
+		<text>
+		Zmodyfikowany magazynek PP-19 przystosowany do naboju 7.62x25 Tokarew. Najwyraźniej praca czarodzieja, biorąc pod uwagę złożoność spiralnego magazynka Bizona.
+		</text>
+	</string>
+
+	<string id="st_mag_kiparis_9x18_fmj">
+		<text>Standardowy magazynek 9x18 do Kiparisa</text>
+	</string>
+	<string id="st_mag_kiparis_9x18_fmj_descr">
+		<text>
+		Standardowy 30-nabojowy magazynek Kiparis. Kiparis to tani pistolet maszynowy, który ma swoich wielbicieli wśród bandytów i renegatów.
+		</text>
+	</string>
+
+	<string id="st_mag_kiparis_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do Kiparisa</text>
+	</string>
+	<string id="st_mag_kiparis_9x19_fmj_descr">
+		<text>
+		Zmodyfikowany 30-nabojowy magazynek Kiparis przystosowany do naboju 9x19 Parabellum. Kiparis to tani pistolet maszynowy, który ma swoich wielbicieli wśród bandytów i renegatów.
+		</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do Witiaź-SN</text>
+	</string>
+	<string id="st_mag_vityaz_9x19_fmj_descr">
+		<text>
+			Standardowy 30-nabojowy magazynek 9x19 do pistoletu Witiaź-SN. Nietypowa broń w Zonie, ponieważ ukraińskie wojsko nie używa tej broni.
+		</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do Witiaź-SN</text>
+	</string>
+	<string id="st_mag_vityaz_9x18_fmj_descr">
+		<text>
+		Zmodyfikowany magazynek do Witiaź-SN na naboje 9x18 Makarow.
+		</text>
+	</string>
+
+	<string id="st_mag_vz61_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do vz.68</text>
+	</string>
+	<string id="st_mag_vz61_9x19_fmj_descr">
+		<text>
+		Standardowy magazynek do pistoletu Vz.68 o pojemności 20 nabojów. Niezawodna broń, która cieszy się ogromną popularnością wśród przestępczego podziemia.
+		</text>
+	</string>
+
+	<string id="st_mag_vz61_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do vz.68</text>
+	</string>
+	<string id="st_mag_vz61_9x18_fmj_descr">
+		<text>
+			20-nabojowy magazynek do pistoletu Vz.68 zmodyfikowany nieznacznie do zasilania nabojami 9x18 Makarow.
+		</text>
+	</string>
+	
+	<string id="st_mag_p90_5.7x28_ss190">
+		<text>Standardowy magazynek 5.7x28 do P90</text>
+	</string>
+	<string id="st_mag_p90_5.7x28_ss190_descr">
+		<text>
+			Standardowy 50-nabojowy magazynek spiralny używany w P90. Jakże futurystycznie!
+		</text>
+	</string>
+	
+	<string id="st_mag_ppsh41_7.62x25_p">
+		<text>Standardowy magazynek bębnowy 7.62x25 do PPSh41</text>
+	</string>
+	<string id="st_mag_ppsh41_7.62x25_p_descr">
+		<text>
+		Standardowy magazynek bębnowy do PPSh41 7.62x25.
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_9x19_fmj">
+		<text>Standardowy magazynek 9x19 do MP5</text>
+	</string>
+	<string id="st_mag_mp5_9x19_fmj_descr">
+		<text>
+            30-nabojowy magazynek do popularnego i wszechobecnego MP5. MP5 to ulubiony model stalkerów z różnych środowisk, zapewniający wystarczającą siłę ognia do odpierania ataków psów i bandytów.
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do MP5</text>
+	</string>
+	<string id="st_mag_mp5_9x18_fmj_descr">
+		<text>
+            Magazynek MP5 zmodyfikowany do nabojów 9x18 Makarow. Konwersje na 9x18 są dość powszechne w przypadku MP5, biorąc pod uwagę jego popularność i znajomość przez wielu techników Zony.
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_9x19_fmj">
+		<text>Zmodyfikowany magazynek 9x19 do MP7</text>
+	</string>
+	<string id="st_mag_mp7_9x19_fmj_descr">
+		<text>
+            Rozszerzony magazynek MP7 o pojemności 40 nabojów, zmodyfikowany do obsługi nabojów 9x19 Parabellum. Ze względu na dość rzadki charakter nabojów 4,6x30, niektórzy oszczędni technicy byli w stanie zmodernizować MP7 tak, by strzelał bardziej powszechnymi nabojami pistoletowymi 9 mm.
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_9x18_fmj">
+		<text>Zmodyfikowany magazynek 9x18 do MP7</text>
+	</string>
+	<string id="st_mag_mp7_9x18_fmj_descr">
+		<text>
+		Rozszerzony magazynek MP7 na 40 naboi, zmodyfikowany po raz kolejny do obsługi nabojów 9x18 Parabellum. Niestandardowa modyfikacja na niestandardowej modyfikacji ma tendencję do powodowania problemów z niezawodnością broni.
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_11.43x23_fmj">
+		<text>Magazynek .45 ACP do MP5 "Frasier"</text>
+	</string>
+	<string id="st_mag_mp5_11.43x23_fmj_descr">
+		<text>
+            Wykonany na zamówienie magazynek do pistoletu MP5 "Frasier". Mieści 30 sztuk amunicji .45 ACP. Podobno na zamówienie nieznanego ekscentrycznego powinnościowca.
+		</text>
+	</string>
+
+	<string id="st_mag_ump45_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do UMP</text>
+	</string>
+	<string id="st_mag_ump45_11.43x23_fmj_descr">
+		<text>
+			Standardowy 25-nabojowy magazynek do pistoletu UMP w kalibrze .45 ACP. UMP jest rzadką, ale bardzo poszukiwaną bronią w Zonie ze względu na doskonałą obsługę i dużą siłę hamowania.
+		</text>
+	</string>
+	
+</string_table>

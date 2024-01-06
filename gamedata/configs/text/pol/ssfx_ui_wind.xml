@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 19
+- @ Description: Wind - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+	<!-- Rain Title -->
+	<string id="ui_mcm_ssfx_module_wind_title">
+		<text>Wiatr - Ustawienia</text>
+	</string>
+
+	<!-- Button -->
+	<string id="ui_mcm_ssfx_module_wind">
+		<text>Wiatr</text>
+	</string>
+
+	<!-- Rain Settings -->
+	<string id="ui_mcm_ssfx_module_wind_min_speed_mcm">
+		<text>Minimalna prędkość wiatru</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_min_speed_mcm_desc">
+		<text>Użyj tej wartości, aby ustawić limit najwolniejszej możliwej prędkości wiatru.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_speed_mcm">
+		<text>Prędkość animacji trawy</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_speed_mcm_desc">
+		<text>Ustaw maksymalną prędkość animacji trawy.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_turbulence_mcm">
+		<text>Turbulencje trawy</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_turbulence_mcm_desc">
+		<text>Intensywność turbulencji trawy. ( Kołysanie trawy )</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_push_mcm">
+		<text>Wyginanie się trawy</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_push_mcm_desc">
+		<text>Intensywność wyginania trawy.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_wave_mcm">
+		<text>Falowanie trawy</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_grass_wave_mcm_desc">
+		<text>Intensywność falowania trawy.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_wind_trees_speed_mcm">
+		<text>Prędkość poruszania się gałęzi drzew</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_trees_speed_mcm_desc">
+		<text>Ustaw prędkość animacji dla gałęzi i krzewów.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_trees_trunk_mcm">
+		<text>Prędkość kołysania się drzew</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_trees_trunk_mcm_desc">
+		<text>Ustaw prędkość animacji kołysania się drzew.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_trees_bend_mcm">
+		<text>Kołysanie się drzew</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_wind_trees_bend_mcm_desc">
+		<text>Maksymalne przesunięcie animacji kołysania.</text>
+	</string>
+
+</string_table>

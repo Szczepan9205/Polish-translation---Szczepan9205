@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="kb_grp_mods">
+		<text>Przypisanie klawiszy</text>
+	</string>
+
+	<string id="kb_quickmeele">
+		<text>Szybki cios nożem</text>
+	</string>
+
+	<string id="kb_tp_companion">
+		<text>Teleportuj towarzysza</text>
+	</string>	
+</string_table>

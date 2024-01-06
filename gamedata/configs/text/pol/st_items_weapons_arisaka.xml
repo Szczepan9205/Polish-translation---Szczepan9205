@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_wpn_arisaka">
+		<text>Arisaka Type 38</text>
+	</string>
+	<string id="st_wpn_arisaka_descr">
+		<text>Standardowy karabin bolt-action piechoty Cesarskiej Armii Japońskiej od 1905 roku do końca II wojny światowej. Pomimo trudnych początków, Arisaka została znacznie ulepszona na przestrzeni lat i okazała się niezwykle celna i niezawodna nawet w niesprzyjających warunkach. Obecnie jest to długo poszukiwany relikt przeszłości.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Cesarstwo Japonii\n
+		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Cesarstwo Japonii\n
+		</text>
+	</string>
+	
+	<string id="st_up_add_arisaka_name">
+		<text>Zmiana kalibru nad 7.92x57 mm</text>
+	</string>
+	
+</string_table>

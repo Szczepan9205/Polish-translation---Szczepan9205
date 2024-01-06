@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+    Storyline: Hidden Threat
+	Version:   1.0
+    Autor:     Longreed
+	Last Edit: 29/10/2021
+-->
+<string_table>
+    <string id="st_hidden_threat_ser_gorobez_name">
+		<text>Sierżant Gorobecki</text>
+	</string>
+	<string id="st_hidden_threat_isg_leader_name">
+		<text>Major Hernandez</text>
+	</string>
+	<string id="st_hidden_threat_isg_agent_name">
+		<text>Porucznik Godunow</text>
+	</string>
+	<string id="st_hidden_threat_spirit_name">
+		<text>(Głośne myśli):</text>
+	</string>
+	<string id="st_hidden_threat_strelok_name">
+		<text>Striełok</text>
+	</string>
+	<string id="st_hidden_threat_degtyarev_name">
+		<text>Pułkownik Diegtiariow</text>
+	</string>
+	<string id="st_agr_1_6_ht_vereshagin_name">
+		<text>Major Wereszczagin</text>
+	</string>
+</string_table>

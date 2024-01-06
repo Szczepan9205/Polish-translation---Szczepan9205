@@ -1,0 +1,1501 @@
+<!-- ====================================================================
+	Personal Adjustable Waypoint
+    Author: Catspaw
+    Source: https://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma
+
+    Permission granted to freely translate into any language.
+===================================================================== -->
+
+<string_table>
+	<string id="st_paw_waypoint_set">
+		<text>Tutaj ustaw punkt trasy</text>
+	</string>
+
+	<string id="st_paw_waypoint_mov">
+		<text>Przenieú tutaj punkt trasy</text>
+	</string>
+
+	<string id="st_paw_waypoint_del">
+		<text>UsuÒ obecny punkt trasy</text>
+	</string>
+
+	<string id="st_paw_placed_waypoint">
+		<text>Umieszczono punkt trasy</text>
+	</string>
+
+	<string id="st_paw_proceed">
+		<text>Idü do wybranego punktu trasy</text>
+	</string>
+
+<!-- Added in 1.2 -->
+	<string id="st_paw_missing_waypoint_error">
+		<text>W bieøπcym zapisie brakowa≥o umieszczonego punktu trasy, wiÍc zadanie zosta≥o anulowane, aby uniknπÊ wylotu do pulpitu. Jest to b≥πd bezpieczeÒstwa i nie powinien siÍ powtÛrzyÊ po nastÍpnym zapisie.</text>
+	</string>
+
+<!-- Added in 1.3 -->
+	<string id ="ui_mcm_menu_pawsys">
+		<text>PAW</text>
+	</string>
+
+	<string id ="ui_mcm_menu_pawgen">
+		<text>Ustawienia ogÛlne</text>
+	</string>
+
+	<string id ="ui_mcm_menu_pawpins">
+		<text>Pinezki do mapy</text>
+	</string>
+
+	<string id ="ui_mcm_menu_pawmenu">
+		<text>Menu kontekstowe</text>
+	</string>
+
+	<string id ="ui_mcm_menu_pawbinds">
+		<text>Klawiszologia / Mysz</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_enabled">
+		<text>W≥πcz system osobistego dostosowywania punktÛw trasy</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_uninstall_desc">
+		<text>W≥πczenie tej opcji spowoduje wyczyszczenie wszystkich bieøπcych danych punktÛw trasy, usuniÍcie wszystkich znacznikÛw mapy punktÛw trasy i anulowanie kaødego aktywnego zadania punktu trasy.</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_milpda">
+		<text>Integracja z dodatkiem Milspec PDA</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_milpda_desc">
+		<text>Umoøliwia integracjÍ/kompatybilnoúÊ z dodatkiem Milspec PDA. \n\nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_debuglogs">
+		<text>W≥πcz logowanie debugowania</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_debuglogs_desc">
+		<text>Do rozwiπzywania problemÛw. Jeúli wystπpi awaria lub inny problem z PAW, naleøy:\n1. W≥πczyÊ tÍ opcjÍ\n2. OdtworzyÊ problem\n3. Przeúlij kopiÍ dziennika do sprawdzenia\n\nBez rejestrowania debugowania jest ma≥o prawdopodobne, øe dziennik pokaøe cokolwiek uøytecznego.</text>
+	</string>
+
+	<string id="st_paw_pin_add">
+		<text>Dodaj tutaj pinezkÍ do mapy</text>
+	</string>
+
+	<string id="st_paw_pin_del">
+		<text>UsuÒ tÍ pinezkÍ</text>
+	</string>
+
+	<string id="st_paw_pin_ren">
+		<text>ZmieÒ nazwÍ tej pinezki</text>
+	</string>
+
+	<string id="st_paw_pin_dbg">
+		<text>UsuÒ wszystkie ikony mapy z tego miejsca</text>
+	</string>
+
+	<string id="st_paw_pin_clr">
+		<text>WyczyúÊ WSZYSTKIE pinezki - nie moøna cofnπÊ</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys_pawbinds_bind_wptoggle">
+		<text>Naciúnij, aby prze≥πczyÊ bieøπcy aktywny punkt trasy</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys_pawbinds_bind_wptoggle_desc">
+		<text>Po naciúniÍciu ten klawisz wy≥πczy bieøπcy punkt trasy (jeúli jest aktywny) lub ponownie aktywuje ostatni punkt trasy, jeúli øaden nie jest obecnie aktywny. Nie ma øadnego efektu, jeúli nie ustawi≥eú punktu trasy.</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys_pawbinds_bind_quickpin">
+		<text>Naciúnij klawisz, aby upuúciÊ Szybkπ PinezkÍ</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys_pawbinds_bind_quickpin_desc">
+		<text>Po naciúniÍciu tego klawisza Szybka Pinezka zostanie umieszczona w najbliøszym prawid≥owym smart_terrainie w stosunku do bieøπcej lokalizacji gracza.</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys_pawbinds_bind_cartmode">
+		<text>Powiπzanie klawiszy dla trybu kartografii</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys_pawbinds_bind_cartmode_desc">
+		<text>Podczas przytrzymania ten klawisz w≥πcza tryb kartografii, ktÛry wyúwietla wszystkie prawid≥owe inteligentne punkty terenowe i inne narzÍdzia pozwalajπce graczowi ustawiaÊ i zarzπdzaÊ swoimi pinami. Domyúlne przytrzymanie moøna zmieniÊ na prze≥πcznik.</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_use_custom_pin_icon">
+		<text>Uøyj niestandardowej ikony mapspot dla pinezek mapy</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_use_custom_pin_icon_desc">
+		<text>Jeúli w≥πczone, PAW sprÛbuje uøyÊ okreúlonego identyfikatora mapspotu dla ikon pinezek. Prawid≥owe mapspoty znajdujπ siÍ w pliku map_spots.xml lub jego za≥πcznikach. Jeúli umieúcisz tutaj coú nieprawid≥owego, prawdopodobnie spowoduje to awariÍ gry. Uøywaj na w≥asne ryzyko.</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_custom_pin_icon">
+		<text>Niestandardowy identyfikator mapspota do uøycia</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_custom_pin_icon_desc">
+		<text>Jeúli znasz nazwÍ prawid≥owego identyfikatora mapspotu z plikÛw mapspotÛw, wprowadü go tutaj. OSTRZEØENIE: nieprawid≥owe wartoúci najprawdopodobniej spowodujπ awariÍ gry. Zresetuj go do "user_defined", jeúli nic innego nie dzia≥a; jest to proste i ≥atwe do zapamiÍtania.</text>
+	</string>
+
+	<string id ="st_paw_pin_default_name">
+		<text>Lokalizacja przypiÍtej mapy</text>
+	</string>
+
+	<string id ="st_paw_pin_quick_name">
+		<text>Szybka pinezka</text>
+	</string>
+
+	<string id ="st_paw_pin_dropped">
+		<text>Szybka pinezka upuszczona w bieøπcej lokalizacji</text>
+	</string>
+
+	<string id ="st_paw_pin_already">
+		<text>Masz juø pinezkÍ w najbliøszym smart_terrain %s</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_1">
+		<text>W≥πcz funkcjÍ punktu trasy i pinezki na urzπdzeniu PDA 1.0</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_1_desc">
+		<text>Jeúli w≥πczone, PDA 1.0 bÍdzie mÛg≥ uøywaÊ wszystkich funkcji PunktÛw trasy i Pinezek. Jeúli wy≥πczone, istniejπce Pinezki zostanπ zachowane, ale nie bÍdπ mog≥y byÊ wyúwietlane, dopÛki kompatybilne urzπdzenie nie zostanie wyposaøone.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_2">
+		<text>W≥πczenie funkcji punktu trasy i pinezki na urzπdzeniu PDA 2.0</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_2_desc">
+		<text>Jeúli w≥πczone, PDA 2.0 bÍdzie mÛg≥ korzystaÊ ze wszystkich funkcji PunktÛw trasy i Pinezek.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_3">
+		<text>W≥πcz funkcjonalnoúÊ PunktÛw trasy i Pinezek na PDA 3.1</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_3_desc">
+		<text>Jeúli w≥πczone, PDA 3.1 bÍdzie mÛg≥ uøywaÊ wszystkich funkcji PunktÛw trasy i Pinezek. </text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec">
+		<text>W≥πcz funkcjonalnoúÊ PunktÛw trasy i Pinezek na Milspec PDA</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec_desc">
+		<text>Jeúli w≥πczone, Milspec PDA (jeúli jest zainstalowany i dostÍpny) bÍdzie mÛg≥ korzystaÊ ze wszystkich funkcji PunktÛw trasy i Pinezek.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_pins">
+		<text>Domyúlna ikona dla pinezek</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_pins_desc">
+		<text>Gdy zestaw ikon pinezek jest aktywny, ta opcja okreúla, ktÛra ikona jest przypisana do pinezki mapy w momencie jej tworzenia. Kaøda pinezka mapy moøe mieÊ innπ ikonÍ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_patches">
+		<text>Domyúlna ikona dla ≥atek frakcji</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_patches_desc">
+		<text>Gdy zestaw ikon ≥atek frakcji jest aktywny, ta opcja okreúla, ktÛra ikona jest przypisana do pinezki mapy w momencie jej tworzenia. Kaøda pinezka mapy moøe mieÊ innπ ikonÍ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr">
+		<text>Domyúlna ikona dla punktÛw POI BW Hi-res</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr_desc">
+		<text>Gdy aktywny jest zestaw ikon punktÛw POI BW Hi-res, ta opcja okreúla, ktÛra ikona jest przypisana do pinezki mapy w momencie jej tworzenia. Kaøda pinezka mapy moøe mieÊ innπ ikonÍ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_faves">
+		<text>Domyúlna ikona dla Ulubionych (dostosuj w icon_set_favorites.ltx)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_faves_desc">
+		<text>Gdy zestaw ikon Ulubionych jest aktywny, ta opcja okreúla, ktÛra ikona jest przypisana do pinezki mapy w momencie jej tworzenia. Kaøda pinezka mapy moøe mieÊ innπ ikonÍ.\n\nUwaga: moøesz dostosowaÊ Ulubione lub dowolny inny zestaw ikon, edytujπc configs\scripts\paw\icon_set_*.ltx</text>.
+	</string>
+
+	<string id="ui_mcm_lst_pawsys_pg_faves">
+		<text>Ulubione</text>
+	</string>
+
+	<string id="st_paw_no_last_wp">
+		<text>Nie ma poprzedniego lub aktywnego punktu trasy do prze≥πczenia</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_pin_redround32">
+		<text>Czerwona okrπg≥a pinezka</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_pin_stalker32">
+		<text>Pinezka w stylu kursora gry</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_pin_redmodern32">
+		<text>Pinezka w stylu nowoczesnej mapy GMaps</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_pin_redpush32">
+		<text>Czerwona pinezka</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_pin_yelpush32">
+		<text>ØÛ≥ta pinezka</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_pin_whtsimple32">
+		<text>Bia≥y minimalistyczny</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_badge_stalker">
+		<text>Samotnik</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_army">
+		<text>Wojskowy</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_bandit">
+		<text>Bandyta</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_csky">
+		<text>Czyste Niebo</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_dolg">
+		<text>PowinnoúÊ</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_ecolog">
+		<text>Naukowiec</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_freedom">
+		<text>WolnoúÊ</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_killer">
+		<text>Najemnik</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_monolith">
+		<text>Monolit</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_greh">
+		<text>Grzech</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_renegade">
+		<text>Renegat</text>
+	</string>
+	<string id="ui_mcm_lst_pawsys_cmenu_cart">
+		<text>Tylko w trybie kartografa</text>
+	</string>
+	<string id="ui_mcm_lst_pawsys_cmenu_norm">
+		<text>Tylko normalne</text>
+	</string>
+	<string id="ui_mcm_lst_pawsys_cmenu_all">
+		<text>Zawsze</text>
+	</string>
+	<string id="ui_mcm_lst_pawsys_cmenu_off">
+		<text>Wy≥πczone</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_pin_icon_group">
+		<text>Aktywny zestaw ikon pinezek</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_pin_icon_group_desc">
+		<text>Kaødy poniøszy zestaw ikon (np. Pinezki, Naszywki) ma ikonÍ, ktÛra jest aktualnie wybrana na liúcie rozwijanej. Ten przycisk radiowy okreúla, ktÛre ikony z tych zestawÛw bÍdπ uøywane podczas umieszczania kaødej nowej pinezki.\n\Zestaw Ulubionych zawsze bÍdzie umieszczany na gÛrze listy, a ikony, ktÛre zawiera, moøna dowolnie edytowaÊ w:\n configs\scripts\paw\icon_set_faves.ltx.</text>.
+	</string>
+
+	<string id="ui_mcm_lst_pawsys_pg_pins">
+		<text>Ikony w stylu pinezek</text>
+	</string>
+
+	<string id="ui_mcm_lst_pawsys_pg_patches">
+		<text>Ikony naszywek frakcji</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_headertxt">
+		<text>To menu pozwala dostosowaÊ menu kontekstowe PAW w grze. Moøesz wy≥πczyÊ kaødπ z poniøszych opcji, aby uporzπdkowaÊ menu, lub wybraÊ, czy kaøda z nich ma byÊ wyúwietlana zawsze, tylko wtedy, gdy aktywny jest tryb kartografii, czy tylko wtedy, gdy nie jest on aktywny (normalny widok PDA).</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_wp_set">
+		<text>Ustaw punkt trasy</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_wp_mov">
+		<text>PrzesuÒ punkt trasy</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_wp_del">
+		<text>UsuÒ punkt trasy</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_pn_add">
+		<text>Dodaj pinezkÍ</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_pn_del">
+		<text>UsuÒ pinezkÍ</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_pn_ren">
+		<text>ZmieÒ nazwÍ pinezki</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_pn_clr">
+		<text>WyczyúÊ wszystkie pinezki</text>
+	</string>
+	<string id="ui_mcm_pawsys_pawmenu_pn_spt">
+		<text>WyczyúÊ wszystko w tym miejscu</text>
+	</string>
+
+
+<!-- Added in 1.4 -->
+	<string id="ui_mcm_lst_pawsys_pg_bwhr">
+		<text>BW Hi-res POIs</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_info">
+		<text>Informacje BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_signal">
+		<text>èrÛd≥o sygna≥u BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_loot">
+		<text>£upy/Wartoúci BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_death">
+		<text>NiebezpieczeÒstwo BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_ak">
+		<text>BroÒ BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_ammo">
+		<text>Amunicja BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_bio">
+		<text>Zagroøenie biologiczne BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_rad">
+		<text>Radiacja BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_warn">
+		<text>Ostrzeøenie BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_magn">
+		<text>Szk≥o powiÍkszajπce BWHR</text>
+	</string>
+
+<!-- Added in 1.5 -->
+
+	<string id="ui_mcm_lst_paw_badge_hr_stalker">
+		<text>HR Samotnik</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_army">
+		<text>HR Wojskowy</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_bandit">
+		<text>HR Bandyta</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_csky">
+		<text>HR Czyste Niebo</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_dolg">
+		<text>HR PowinnoúÊ</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_ecolog">
+		<text>HR Naukowiec</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_freedom">
+		<text>HR WolnoúÊ</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_killer">
+		<text>HR Najemnik</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_monolith">
+		<text>HR Monolit</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_greh">
+		<text>HR Grzech</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_isg">
+		<text>HR UNISG</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_hr_renegade">
+		<text>HR Renegat</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_badge_uhr_stalker">
+		<text>UHR Samotnik</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_army">
+		<text>UHR Wojskowy</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_bandit">
+		<text>UHR Bandyta</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_csky">
+		<text>UHR Czyste Niebo</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_dolg">
+		<text>UHR PowinnoúÊ</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_ecolog">
+		<text>UHR Naukowiec</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_freedom">
+		<text>UHR WolnoúÊ</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_killer">
+		<text>UHR Najemnik</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_monolith">
+		<text>UHR Monolit</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_greh">
+		<text>UHR Grzech</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_isg">
+		<text>UHR UNISG</text>
+	</string>
+	<string id="ui_mcm_lst_paw_badge_uhr_renegade">
+		<text>UHR Renegat</text>
+	</string>
+
+	<string id ="st_paw_pingspot">
+		<text>Map Ping - Kliknij prawym przyciskiem myszy, aby ustawiÊ punkt trasy lub pinezkÍ</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawmenu_mping">
+		<text>Pingowanie mapy</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_pingsound">
+		<text>OdtwÛrz efekt düwiÍkowy podczas pingowania mapy</text>
+	</string>
+
+<!-- Added in 1.6 -->
+
+	<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon">
+		<text>Dostosuj ikonÍ uøywanπ przez Milspec PDA</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon_desc">
+		<text>Ta opcjonalna funkcja pozwala skonfigurowaÊ ikonÍ znacznika cia≥a uøywanπ przez funkcjÍ Kill Tracker Milspec PDA, jeúli ten dodatek jest zainstalowany: MilPDA dzia≥a normalnie\n\nNaszywka frakcji ofiary: martwi stalkerzy bÍdπ mieli naszywkÍ frakcji dla swojego znacznika cia≥a, wszyscy inni uøywajπ domyúlnego z zestawu Body Markers\n\nZnaczniki cia≥: MilPDA uøyje bieøπcej domyúlnej ikony z zestawu znacznikÛw cia≥a dla wszystkich cia≥</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_get_milpda">
+		<text>Wymaga Milspec PDA 1.7.3 lub nowszego:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma</text>
+	</string>
+
+	<string id ="ui_mcm_lst_pawsys_pg_bodies">
+		<text>Znaczniki cia≥</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_poi_icon_bodies">
+		<text>Domyúlna ikona dla znacznikÛw cia≥a</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_patch_res">
+		<text>RozdzielczoúÊ uøywana dla naszywek frakcji</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_patch_res_desc">
+		<text>Ta opcja okreúla jakoúÊ ikon uøywanych w naszywkach frakcji: ikony ekwipunku wanilii w niskiej rozdzielczoúci, ≥atki PAW w wysokiej rozdzielczoúci 64x64 lub wersje 128x128 z bia≥ym obrysem. Mapspoty w niskiej i wysokiej rozdzielczoúci majπ ten sam rozmiar. Wersje UHR sπ o oko≥o 25% wiÍksze.</text>
+	</string>
+
+	<string id ="ui_mcm_lst_pawsys_cfg_badge_res">
+		<text>Low-Res (wanillowa ikona ekwipunku)</text>
+	</string>
+
+	<string id ="ui_mcm_lst_pawsys_cfg_badge_hr_res">
+		<text>Hi-Res (z czystego wzorca)</text>
+	</string>
+
+	<string id ="ui_mcm_lst_pawsys_cfg_badge_uhr_res">
+		<text>Ultra Hi-Res (z bia≥ym obrysem)</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon">
+		<text>Dostosuj ikonÍ cia≥a uøywanπ przez Milspec PDA</text>
+	</string>
+
+	<string id ="ui_mcm_lst_pawsys_cfg_bodyoff">
+		<text>Wy≥πczone</text>
+	</string>
+
+	<string id ="ui_mcm_lst_pawsys_cfg_bodyfac">
+		<text>Naszywka frakcji ofiary</text>
+	</string>
+
+	<string id ="ui_mcm_lst_pawsys_cfg_bodyset">
+		<text>Zestaw znacznikÛw cia≥a</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawmenu_waypoint_rename">
+		<text>ZmieÒ nazwÍ punktu trasy</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawmenu_waypoint_redesc">
+		<text>ZmieÒ opis punktu trasy</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_death_small">
+		<text>Ma≥a úmierÊ BWHR</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_blue_circle">
+		<text>Niebieski okrπg</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_crosshair_white">
+		<text>Bia≥e celowniki</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_crosshair_red">
+		<text>Czerwone celowniki</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_crosshair_green">
+		<text>Zielone celowniki</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_crosshair_green">
+		<text>Zielone celowniki</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_stash_green">
+		<text>Zielona ikona schowka</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_stash_white">
+		<text>Bia≥a ikona schowka</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_stash_purple">
+		<text>Fioletowa ikona schowka</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_stash_red">
+		<text>Czerwona ikona schowka</text>
+	</string>
+
+<!-- Added in 1.6.1 -->
+
+	<string id ="ui_mcm_pawsys_pawgen_wipe_all">
+		<text>Skasuj wszystkie dane pinezek</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_wipe_all_desc">
+		<text>Usuwa wszystkie pinezki z mapy i czyúci bazÍ danych pinezek. Nie moøna tego cofnπÊ.</text>
+	</string>
+
+	<string id="ui_mcm_lst_deadbody_location_sdot">
+		<text>[MPDA] Ma≥a niebieska kropka</text>
+	</string>
+
+	<string id="ui_mcm_lst_deadbody_location_mdot">
+		<text>[MPDA] årednia niebieska kropka</text>
+	</string>
+
+	<string id="ui_mcm_lst_deadbody_location_ldot">
+		<text>[MPDA] Duøa niebieska kropka</text>
+	</string>
+
+	<string id="ui_mcm_lst_deadbody_location_whtx">
+		<text>[MPDA] Bia≥y znak X</text>
+	</string>
+
+	<string id="ui_mcm_lst_deadbody_location_skul">
+		<text>[MPDA] Ma≥a g≥adka czaszka</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_togglehold">
+		<text>Zachowanie powiπzania klawiszy trybu kartografii</text>
+	</string>
+
+	<string id="ui_mcm_lst_pawsys_toggle">
+		<text>Prze≥πcz</text>
+	</string>
+
+	<string id="ui_mcm_lst_pawsys_hold">
+		<text>Przytrzymaj</text>
+	</string>
+
+<!-- Added in 1.7 -->
+
+	<string id="ui_mcm_pawsys_pawbinds_mwheel_enabled">
+		<text>Obs≥uga kÛ≥ka myszy (wymaga zmodyfikowanych plikÛw binarnych)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_mwheel_enabled_desc">
+		<text>Po w≥πczeniu tej funkcji kÛ≥ko myszy moøna przewijaÊ w gÛrÍ i w dÛ≥, aby prze≥πczaÊ siÍ miÍdzy aktywnymi ikonami lub zestawami.\n
+		Ta funkcja wymaga zmodyfikowanych plikÛw binarnych w wersji 20230701 lub nowszej.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_mwheel_notify">
+		<text>Wyúwietla komunikat przy zmianie trybu kÛ≥ka myszy</text>
+	</string>
+
+	<string id="ui_mcm_paw_modded_binaries">
+		<text>Modded binaries by demonized (wymagane do obs≥ugi kÛ≥ka myszy):\n https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/
+		</text>
+	</string>
+
+	<string id="st_paw_change_set">
+		<text>Aktywny zestaw zmieniony na %s.\n
+		</text>
+	</string>
+
+	<string id="st_paw_change_icon">
+		<text>Aktywna ikona to teraz</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_set_next">
+		<text>Cykl do nastÍpnego zestawu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_set_next_desc">
+		<text>Opcjonalne powiπzanie klawiszy, aby przejúÊ do nastÍpnego zestawu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_set_prev">
+		<text>Cykl do poprzedniego zestawu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_set_prev_desc">
+		<text>Opcjonalne powiπzanie klawiszy, aby przejúÊ do poprzedniego zestawu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_ico_next">
+		<text>Przejúcie do nastÍpnej ikony w aktywnym zestawie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_ico_next_desc">
+		<text>Opcjonalne powiπzanie klawiszy umoøliwiajπce przejúcie do nastÍpnej ikony w aktywnym zestawie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_ico_prev">
+		<text>Przejúcie do poprzedniej ikony w aktywnym zestawie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_ico_prev_desc">
+		<text>Opcjonalne powiπzanie klawiszy umoøliwiajπce przejúcie do poprzedniej ikony w aktywnym zestawie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll">
+		<text>Przytrzymaj, aby zmieniaÊ zestawy za pomocπ kÛ≥ka myszy</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll_desc">
+		<text>Gdy ten klawisz jest przytrzymany, przewijanie kÛ≥kiem myszy bÍdzie cyklicznie prze≥πczaÊ listÍ zestawÛw, jeúli przewijanie myszπ jest w≥πczone.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll">
+		<text>Przytrzymaj, aby zmieniÊ ikony za pomocπ kÛ≥ka myszy</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll_desc">
+		<text>Gdy ten klawisz jest przytrzymany, przewijanie kÛ≥kiem myszy bÍdzie cyklicznie zmieniaÊ ikony w aktywnym zestawie, jeúli tryb przewijania jest ustawiony na Przytrzymaj dla obu. </text>
+	</string>
+
+	<string id="st_paw_cycling_sets">
+		<text>KÛ≥ko myszy prze≥πcza teraz zestawy</text>
+	</string>
+
+	<string id="st_paw_cycling_icons">
+		<text>KÛ≥ko myszy przesuwa teraz ikony</text>
+	</string>
+
+	<string id="st_paw_mwheel_normal">
+		<text>KÛ≥ko myszy powrÛci≥o do domyúlnego zachowania</text>
+	</string>
+
+	<string id="ui_mcm_menu_pawhud">
+		<text>Widøety HUD-u</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_widget_enable">
+		<text>W≥πcz widøet HUD-u</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_autohide">
+		<text>OpÛünienie automatycznego ukrywania w sekundach (0 nigdy nie ukrywa)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_hudsound">
+		<text>Odtwarzanie efektu düwiÍkowego dla zmian ikony/zestawu </text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_pingsound">
+		<text>OdtwÛrz efekt düwiÍkowy podczas pingowania mapy</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_active_theme">
+		<text>Motyw wizualny widøetu (opis poniøej)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_custompos">
+		<text>Uøyj niestandardowej pozycji poniøej zamiast domyúlnej pozycji motywu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_widgetinfo">
+		<text>Widøet HUD wyúwietla bieøπcπ aktywnπ ikonÍ i, w zaleønoúci od motywu, moøe rÛwnieø wyúwietlaÊ inne informacje.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_pos_x_desc">
+		<text>Ustawia wspÛ≥rzÍdnπ X (poziomπ) lewego gÛrnego rogu widøetu. 0,0 to lewy gÛrny rÛg ekranu, 1024,768 to prawy dolny rÛg. Gra konwertuje to do rozdzielczoúci wyúwietlacza.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_pos_y_desc">
+		<text>Ustawia wspÛ≥rzÍdnπ Y (pionowπ) lewego gÛrnego rogu widøetu. 0,0 to lewy gÛrny rÛg ekranu, 1024,768 to prawy dolny rÛg. Gra konwertuje to do rozdzielczoúci wyúwietlacza.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_pos_x">
+		<text>WspÛ≥rzÍdna X (pozioma, od lewej do prawej)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_pos_y">
+		<text>WspÛ≥rzÍdna Y (pionowa, od gÛry do do≥u)</text>
+	</string>
+
+	<string id="ui_mcm_themes_list">
+		<text>Moøesz przeczytaÊ pe≥ny opis kaødego dostÍpnego motywu poniøej.\n</text>
+	</string>
+
+	<string id="ui_mcm_themes_classicauto">
+		<text>
+			Classic Stalker, automatyczne prze≥πczanie: 138x75 (domyúlnie 890,620)\n
+			Ikona i ustawiony tekst, ikony NastÍpny/Obecny/Poprzedni\n
+			Automatyczne prze≥πczanie na klasyczny pionowy prawy po otwarciu PDA\n
+			Wybierz motyw "Klasyczny", jeúli nie chcesz automatycznego prze≥πczania\n
+			Zalecane ustawienie domyúlne
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_classic">
+		<text>
+			Klasyczny Stalker, poziomy: 138x75 (domyúlnie 890,620)\n
+			Ikona i ustawiony tekst, ikony NastÍpny/Obecny/Poprzedni\n
+			Nie prze≥πcza siÍ automatycznie, ale jest blokowany przez PDA w domyúlnej pozycji.
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_vertright">
+		<text>
+			Klasyczny pionowy, wyrÛwnany do prawej: 100x154 (domyúlnie 922 440)\n
+			Tekst ikony, ikony NastÍpny/Bieøπcy/Poprzedni\n
+			Tryb PDA dla Classic Stalker Auto-Switch, ale moøe byÊ uøywany samodzielnie.
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_vertleft">
+		<text>
+			Klasyczny pionowy, wyrÛwnany do lewej: 100x154 (domyúlnie 4,570)\n
+			Tekst ikony, ikony NastÍpny/Bieøπcy/Poprzedni\n
+			Moøe blokowaÊ wiadomoúci w domyúlnej pozycji\n
+			Zalecana pozycja niestandardowa
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_gamma_right">
+		<text>
+			Styl GAMMA, wyrÛwnanie do prawej: 136x150 (domyúlnie 888,440)\n
+			Ikona i ustawiony tekst, ikony NastÍpny/Obecny/Poprzedni\n
+			Widoczne zarÛwno z otwartym PDA, jak i bez niego
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_gamma_left">
+		<text>
+			Styl GAMMA, wyrÛwnanie do lewej: 136x150 (domyúlnie 4 440)\n
+			Ikona i ustawiony tekst, ikony NastÍpny/Obecny/Poprzedni\n
+			Moøe blokowaÊ wiadomoúci w domyúlnej pozycji\n
+			Zalecana pozycja niestandardowa
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_minimal_h">
+		<text>
+			Minimalistyczny, poziomy: 94x52 (domyúlna pozycja 924,645)\n
+			Tekst ikony, ikony NastÍpny/Bieøπcy/Poprzedni na cieniu\n
+			Blokowane przez PDA w domyúlnej pozycji\n
+			Zalecana pozycja niestandardowa
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_minimal_v">
+		<text>
+			Minimalistyczny, pionowy: 92x112 (domyúlna pozycja 924,440)\n
+			Tekst ikony, ikony NastÍpny/Bieøπcy/Poprzedni z cieniem\n
+			Brak wersji z wyrÛwnaniem do lewej
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_minicom">
+		<text>
+			Minimalistyczny, kompaktowy: 38x38 (domyúlna pozycja 890,440)\n
+			Wyúwietla tylko bieøπcπ ikonÍ, z cieniem\n
+			blokowany przez PDA w domyúlnej pozycji
+		</text>
+	</string>
+
+	<string id="ui_mcm_themes_compact_noui">
+		<text>
+			Kompaktowy, bez ramki interfejsu uøytkownika: 32x32 (domyúlnie 890 440)\n
+			Wyúwietla tylko bieøπcπ ikonÍ, bez innych elementÛw UI lub t≥a\n
+			Nadaje siÍ do pozycjonowania niemal wszÍdzie, ≥atwa integracja z niestandardowymi HUDami
+		</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_classicauto">
+		<text>Klasyczny Stalker, auto w≥πcznik pion./poziom.</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_classic">
+		<text>Klasyczny Stalker, poziomy (890,620)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_vertright">
+		<text>Klasyczny, pionowy, wyrÛwnany do prawej (922 440)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_vertleft">
+		<text>Klasyczny, Pionowy, wyrÛwnany do lewej (4,570)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_gamma_right">
+		<text>Styl Gamma, wyrÛwnanie do prawej (888 440)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_gamma_left">
+		<text>Styl Gamma, wyrÛwnany do lewej (4,574)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_minimal_h">
+		<text>Minimalistyczny, Poziomy (890,650)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_minimal_v">
+		<text>Minimalistyczny, Pionowy (890,440)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_minicom">
+		<text>Minimalistyczny, kompaktowy (820,725)</text>
+	</string>
+
+	<string id="ui_mcm_lst_theme_compact_noui">
+		<text>Kompaktowy, bez ramki interfejsu uøytkownika (820,725)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_enabled">
+		<text>W≥πczone</text>
+	</string>
+
+<!-- Added in 1.7.1 -->
+
+	<string id="st_paw_waypoint_cleared">
+		<text>Bieøπcy punkt trasy wyczyszczony</text>
+	</string>
+
+<!-- Added in 1.7.2 -->
+
+	<string id="ui_mcm_paw_moddb_link">
+		<text>PAW: https://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma
+		</text>
+	</string>
+
+	<string id="ui_mcm_paw_milpda_link">
+		<text>Milspec PDA: https://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma
+		</text>
+	</string>
+
+<!-- Added in 1.7.3 -->
+
+	<string id="ui_mcm_pawsys_pawgen_disable_mcmups">
+		<text>Wy≥πcz natychmiastowe aktualizacje MCM</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_disable_mcmups_desc">
+		<text>Gdy zmienisz bieøπcπ ikonÍ/ustawienie podczas rozgrywki, PAW zaktualizuje to samo ustawienie w MCM. Ma to na celu zapisanie zmian, nawet jeúli gra siÍ zawiesi, ale moøe to mieÊ wp≥yw na wydajnoúÊ na niektÛrych komputerach. W≥πczenie tego ustawienia wy≥πczy tÍ funkcjÍ, ale ustawienia bÍdπ nadal zapisywane podczas zapisywania gry. Zmiany nie zostanπ jednak odzwierciedlone w MCM, jeúli wejdziesz do jego menu przed zapisaniem gry.</text>
+	</string>
+
+<!-- Added in 1.7.4 -->
+
+	<string id="ui_mcm_pawsys_pawmenu_show_all_pins">
+		<text>Pokaø wszystkie pinezki</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_hide_all_pins">
+		<text>Ukryj wszystkie pinezki</text>
+	</string>
+
+<!-- Added in 1.8 -->
+
+	<string id="ui_mcm_pawsys_pawgen_wp_clear_dist">
+		<text>Odleg≥oúÊ punktu trasy (w metrach)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_hud_icon_enabled">
+		<text>Pokaø znacznik punktu trasy na HUD-zie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_welcome_msg_shown">
+		<text>Nie pokazuj wiadomoúci powitalnej PAW przy ≥adowaniu zapisu</text>
+	</string>
+
+	<string id="st_pawsys_welcome_msg">
+		<text>$clr_prp[ Zainicjowano system osobistych punktÛw trasy ]$clr_wht \n \n
+ï Kliknij PPM na dowolnπ widocznπ ikonÍ na mapie, aby ustawiÊ niestandardowy znacznik zadania. ($clr_lblwaypoint$clr_wht) lub umieúciÊ i opisaÊ znaczniki na mapie o nazwie $clr_lblpins$clr_wht.\n
+ï Kliknij $clr_yel%s$clr_wht ,aby w≥πczyÊ lub wy≥πczyÊ punkt trasy w dowolnym momencie. Jeúli nie chcesz, aby znacznik HUD by≥ widoczny, moøesz go wy≥πczyÊ w MCM.\n
+ï Kliknij $clr_yel%s$clr_wht ,aby oznaczyÊ mapÍ za pomocπ $clr_lblQuick Pin$clr_wht w bieøπcej lokalizacji.\n
+ï Przytrzymaj $clr_yel%s$clr_wht by wejúÊ w $clr_lblTryb kartografa$clr_wht dla wiÍkszej liczby funkcji mapy, takich jak $clr_lblpinging$clr_wht mapy, aby wyúwietliÊ tymczasowe znaczniki do precyzyjnego umieszczania pinezek i punktÛw trasy.\n
+\n
+Wszystko to i wiele wiÍcej znajdziesz w MCM pod zak≥adkπ $clr_lblRegulowany punkt trasy$clr_wht.\n
+\n
+Ta wiadomoúÊ nie bÍdzie ciÍ wiÍcej niepokoiÊ. Udanych ≥owÛw, %s.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_hud_vis_on">
+		<text>Pokaø pinezkÍ na HUD-zie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_hud_vis_off">
+		<text>Ukryj pinezkÍ na HUD-zie</text>
+	</string>
+
+	<string id="st_paw_system_disabled">
+		<text>System PAW jest wy≥πczony</text>
+	</string>
+
+
+<!-- Added in 1.10 -->
+
+
+	<string id="ui_mcm_paw_current_active_pin">
+		<text>Aktywna pinezka:</text>
+	</string>
+
+	<string id="ui_mcm_paw_pinmenu_header">
+		<text>Po umieszczeniu pinezki uøywa ona domyúlnej ikony z bieøπcego aktywnego zestawu. Moøesz je zmieniÊ tutaj lub prze≥πczaÊ siÍ miÍdzy pinezkami i zestawami w grze za pomocπ wybranych przez siebie skrÛtÛw klawiszowych.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_cartmode_toggle">
+		<text>Tryb kartografia to prze≥πcznik</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_cartmode_toggle_desc">
+		<text>Domyúlnie tryb kartografa wymaga przytrzymania klawisza. Jeúli ta opcja jest w≥πczona, zamiast tego dzia≥a jako prze≥πcznik.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts">
+		<text>Tryb kartografa pokazuje inteligentne tereny</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts_desc">
+		<text>Domyúlnie tryb kartografa pokazuje ikonÍ (bia≥a mapa z lupπ), aby wskazaÊ inteligentne smart terrains. Jeúli nie potrzebujesz lub nie chcesz ich widzieÊ z jakiegokolwiek powodu, moøesz je wy≥πczyÊ za pomocπ tej opcji.</text>
+	</string>
+
+<!-- Added in 1.11 -->
+
+	<string id="st_paw_meters_abbr">
+		<text>m</text>
+	</string>
+
+	<string id="st_paw_unknown">
+		<text>Nieznany</text>
+	</string>
+
+	<string id="st_paw_stash">
+		<text>schowek</text>
+	</string>
+
+	<string id="st_paw_squad">
+		<text>oddzia≥</text>
+	</string>
+
+	<string id="st_paw_npc_pda_equipped">
+		<text>Uøywasz obecnie skradzionego PDA postaci niezaleønej, a nie w≥asnego. Wyposaø PDA gracza, aby korzystaÊ z punktÛw orientacyjnych, pinezek mapy lub innych funkcji systemu PAW.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_show_dist_wp">
+		<text>Wyúwietlanie odleg≥oúci na znaczniku HUD punktu trasy</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_show_dist_wp_desc">
+		<text>Pozwala wybraÊ, kiedy znacznik HUD punktu trasy ma wyúwietlaÊ wskaünik odleg≥oúci: nigdy, zawsze, tylko wtedy, gdy aktywny jest tryb kartografa, lub tylko wtedy, gdy nie jest aktywny (normalny widok PDA). Nie ma wp≥ywu, gdy znacznik HUD nie jest w≥πczony.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_show_dist_pins">
+		<text>Wyúwietlanie odleg≥oúci na pinezkach HUD-u</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_show_dist_pins_desc">
+		<text>Okreúla, kiedy znaczniki pinezek na wyúwietlaczu HUD powinny wyúwietlaÊ wskaünik odleg≥oúci: nigdy, zawsze, tylko wtedy, gdy aktywny jest tryb kartografa, lub tylko wtedy, gdy nie jest on aktywny (normalny widok PDA). Nie ma wp≥ywu bez ustawionych pinezek widocznych na wyúwietlaczu HUD.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_show_hint_pins">
+		<text>Pokaø etykietÍ na znacznikach pinezkach HUD-u</text>
+	</string>
+	
+	<string id="ui_mcm_pawsys_pawgen_show_hint_pins_desc">
+		<text>Okreúla, kiedy znaczniki pinezek na wyúwietlaczu HUD powinny wyúwietlaÊ swojπ etykietÍ tekstowπ nad ikonπ: nigdy, zawsze, tylko wtedy, gdy aktywny jest tryb kartografa, lub tylko wtedy, gdy nie jest on aktywny (normalny widok PDA). Nie ma wp≥ywu bez ustawionych pinezek widocznych na wyúwietlaczu HUD.</text>
+	</string>
+
+<!-- Added in 1.12 -->
+
+	<string id="ui_mcm_lst_pawsys_pg_npcs">
+		<text>NPC i Us≥ugi</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_npcs">
+		<text>Domyúlna ikona dla NPC i Us≥ug</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_diamond_friendly">
+		<text>Przyjacielsko nastawieni (styl diamentowy)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_diamond_neutral">
+		<text>Neutralni (styl diamentowy)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_diamond_enemy">
+		<text>Wrogo nastawieni (styl diamentowy)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_chevron_friendly">
+		<text>Przyjacielsko nastawieni (styl szewronu)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_chevron_neutral">
+		<text>Neutralni (styl szewronu)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_chevron_enemy">
+		<text>Wrogo nastawieni (styl szewronu)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_flag_friendly">
+		<text>Przyjacielsko nastawieni (styl flagi)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_flag_neutral">
+		<text>Neutralni (styl flagi)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_flag_enemy">
+		<text>Wrogo nastawieni (styl flagi)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_npc_mechanic">
+		<text>Technik NPC</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_npc_trader">
+		<text>Handlarz NPC</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_npc_guide">
+		<text>Przewodnik NPC</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_npc_food_trader">
+		<text>Handlarz jedzeniem NPC</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_npc_medic">
+		<text>Medyk NPC</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_sleep_zone">
+		<text>Miejsce snu</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_obj_briefcase">
+		<text>Obiekt - walizka</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_obj_lock">
+		<text>ZamkniÍty obiekt</text>
+	</string>
+
+	<string id="ui_mcm_paw_cartmode_head">
+		<text>Tryb kartografa</text>
+	</string>
+
+	<string id="ui_mcm_paw_cartmode_desc">
+		<text>Tryb kartografa umoøliwia korzystanie z dodatkowych funkcji mapowania bez zaúmiecania interfejsu HUD lub menu podczas normalnej gry. Funkcje wyúwietlane w tym trybie (lub w normalnym trybie PDA) moøna skonfigurowaÊ w menu kontekstowych tego dodatku.</text>
+	</string>
+
+	<string id="ui_mcm_paw_mousewheel_head">
+		<text>Obs≥uga rolki myszy</text>
+	</string>
+
+	<string id="ui_mcm_paw_crosshair_target_head">
+		<text>Wyznaczanie trasy i pinezki - celowanie celownikiem</text>
+	</string>
+
+	<string id="ui_mcm_paw_crosshair_target_head">
+		<text>Wyznaczanie trasy i pinezki - celowanie celownikiem</text>
+	</string>
+
+	<string id="ui_mcm_paw_crosshair_target_desc">
+		<text>Pierwsze dwa skrÛty klawiszowe pozwalajπ uøywaÊ punktÛw orientacyjnych i pinezek na dowolnym obiekcie znajdujπcym siÍ aktualnie pod celownikiem. Aby gra to zarejestrowa≥a, obiekt musi znajdowaÊ siÍ dok≥adnie pod úrodkiem celownika. W przypadku stalkera oznacza to, øe jest on wystarczajπco wyúrodkowany, aby aktywowaÊ identyfikacjÍ celownika.</text>
+	</string>
+
+	<string id="ui_mcm_paw_generalbinds_head">
+		<text>Punkty trasy i pinezki - OgÛlne skrÛty klawiszowe</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj">
+		<text>NaciúniÍcie klawisza ustawia punkt trasy na obiekcie docelowym</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj_desc">
+		<text>Po naciúniÍciu tego klawisza punkt trasy zostanie ustawiony - lub przeniesiony - na obiekt znajdujπcy siÍ pod celownikiem gracza. Jeúli zosta≥ juø ustawiony na obiekt docelowy, zostanie wy≥πczony.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj">
+		<text>Naciúnij klawisz, aby ustawiÊ pinezkÍ na obiekcie docelowym</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj_desc">
+		<text>Po naciúniÍciu tego klawisza pinezka zostanie umieszczona na obiekcie pod celownikiem gracza, jeúli jeszcze jej nie ma, przy uøyciu bieøπcej aktywnej ikony. Jeúli dla celu istnieje juø pinezka, zostanie ona usuniÍta.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_pin_auto_visible">
+		<text>Pinezki utworzone w ten sposÛb sπ domyúlnie widoczne na interfejsie HUD</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_pin_auto_visible_desc">
+		<text>Jeúli pinezka zosta≥a utworzona przez namierzenie obiektu za pomocπ powyøszego powiπzania klawiszy, zostanie ona automatycznie wyúwietlona na wyúwietlaczu HUD. Piny moøna wyúwietlaÊ lub ukrywaÊ na HUD w dowolnym momencie za pomocπ urzπdzenia PDA.</text>
+	</string>
+
+
+	<string id="st_paw_pin_removed_from_target">
+		<text>Pinezka $clr_yel%s$clr_wht zosta≥a usuniÍta z $clr_lbl%s$clr_wht.</text>
+	</string>
+
+	<string id="st_paw_pin_added_to_target">
+		<text>Pinezka zosta≥a dodana do $clr_lbl%s$clr_wht przy uøyciu bieøπcej aktywnej ikony: $clr_lbl%s$clr_wht.\n
+		Bieøπcπ aktywnπ ikonÍ moøna zmieniÊ za pomocπ $clr_yel%s$clr_wht/$clr_yel%s$clr_wht.</text>
+	</string>
+
+	<string id="ui_mcm_paw_pin_target_desc">
+		<text>Pinezka $clr_yel%s$clr_wht zosta≥a usuniÍta z $clr_lbl%s$clr_wht.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_tip_on_icoset_change">
+		<text>Wyúwietlanie podpowiedzi podczas zmiany ikon lub zestawÛw za pomocπ skrÛtÛw klawiszowych</text>
+	</string>
+
+<!-- Added in 1.13 -->
+
+	<string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist">
+		<text>Odleg≥oúÊ zanikania pinezki (w metrach)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist_desc">
+		<text>Gdy gracz znajdzie siÍ tak blisko w odleg≥oúci od pinezki, zacznie ona zanikaÊ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist">
+		<text>Odleg≥oúÊ zanikania pinezki (w metrach)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist_desc">
+		<text>Gdy gracz znajdzie siÍ tak daleko w odleg≥oúci od pinezki, zacznie ona zanikaÊ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist">
+		<text>Odleg≥oúÊ zanikania pinezki (w metrach)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist_desc">
+		<text>Jeúli gracz znajdzie siÍ w odleg≥oúci wiÍkszej niø ta, od ktÛrej zaczyna siÍ zanikanie, pinezka zniknie ca≥kowicie.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_cartmode_unfade">
+		<text>Pinezki na wyúwietlaczu HUD nigdy nie gasnπ w trybie kartografa.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawbinds_cartmode_unfade_desc">
+		<text>Jeúli na interfejsie HUD znajdujπ siÍ jakieú pinezki, ktÛre normalnie sπ ustawione na wygaszanie, to nie bÍdπ one wygaszane, gdy aktywny jest tryb kartografa.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_lock_pin">
+		<text>Zablokuj pinezkÍ</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_unlock_pin">
+		<text>Odblokuj pinezkÍ</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_reticle_mode">
+		<text>Wyúwietla subtelny celownik, gdy namierzany jest prawid≥owy obiekt.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_reticle_mode_desc">
+		<text>Jeúli celownik jest aktualnie wyúrodkowany na prawid≥owym obiekcie, zostanie wyúwietlony dyskretny celownik wskazujπcy, øe moøna tam umieúciÊ punkty trasy i pinezki. PrzezroczystoúÊ moøna kontrolowaÊ poniøej.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_reticle_alpha">
+		<text>PrzezroczystoúÊ celownika</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_reticle_alpha_desc">
+		<text>WartoúÊ alfa (przezroczystoúci) celownika, gdzie 0 oznacza pe≥nπ przezroczystoúÊ, a 255 brak przezroczystoúci.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time">
+		<text>Czas pojawiania siÍ celownika</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time_desc">
+		<text>Czas, w milisekundach, potrzebny do zakoÒczenia zanikania celownika podczas namierzania prawid≥owego obiektu.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time">
+		<text>Czas zanikania celownika</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time_desc">
+		<text>Czas w milisekundach potrzebny do zakoÒczenia znikniÍcia celownika, gdy celownik nie ma juø celu.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_preview_aspect">
+		<text>Proporcje ekranu dla podglπdu poniøej</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_aspect_4_3">
+		<text>4:3 (Standard Definition)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_aspect_16_10">
+		<text>16:10 (1920◊1200, 2560x1600)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_aspect_16_9">
+		<text>16:9 (1080p, 1440p, 2160p)</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_aspect_21_9">
+		<text>21:9 (Ultrawide)</text>
+	</string>
+
+<!-- Added in 1.14 -->
+
+	<string id="ui_mcm_paw_resolutions">
+		<text>Przyk≥adowe rozdzielczoúci w tym wspÛ≥czynniku proporcji:\n</text>
+	</string>
+
+	<string id="ui_mcm_paw_resolutions_4_3">
+		<text>\n1024x768\n1600x1200</text>
+	</string>
+
+	<string id="ui_mcm_paw_resolutions_16_9">
+		<text>\n1920x1080\n1280x720\n1600x900\n2560x1440\n3840x2160</text>
+	</string>
+
+	<string id="ui_mcm_paw_resolutions_16_10">
+		<text>\n1280x800\n1920x1200\n2560x1600\n3840x2400</text>
+	</string>
+
+	<string id="ui_mcm_paw_resolutions_21_9">
+		<text>\n2560x1080\n3440x1440\n3840x1600</text>
+	</string>
+	
+<!-- Added in 1.16 -->
+
+	<string id="ui_mcm_menu_pawret">
+		<text>Siatka/auto. znacznik</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_enable_autotag">
+		<text>W≥πcz automatyczne inteligentne oznaczanie na podstawie ID</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_enable_autotag_desc">
+		<text>Gdy ta funkcja jest w≥πczona, celownik HUD PAW automatycznie "oznaczy" waøne obiekty docelowe odpowiedniπ pinezkπ po ich zidentyfikowaniu, zgodnie z poniøszπ konfiguracjπ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_reticle_info1">
+		<text>Uøywaj pinezek i punktÛw orientacyjnych na dowolnym prawid≥owym obiekcie pod celownikiem za pomocπ konfigurowalnych skrÛtÛw klawiszowych. Domyúlnie celownik przyciemnia siÍ i gaúnie, wskazujπc, kiedy celujesz w prawid≥owy obiekt.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_reticle_info2">
+		<text>Aby zamiast tego automatycznie oznaczaÊ obiekty docelowe, zobacz ustawienie "Automatyczne oznaczanie" poniøej.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_autotag_info">
+		<text>Automatyczny znacznik automatycznie oznaczy okreúlone typy obiektÛw za pomocπ wstÍpnie zdefiniowanych pinezek, gdy zostanπ one pozytywnie zidentyfikowane. Pozwala to na zwolnienie klawiszy i skupienie siÍ na Zonie zamiast na PDA lub menu.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawhud_autotag_facid">
+		<text>Dzia≥a podobnie do dodatku Identyfikacja frakcji, odczytujπc jego ustawienia MCM, dziÍki czemu PAW i Identyfikacja frakcji mogπ ze sobπ wspÛ≥pracowaÊ. Zmiany wprowadzone w menu MCM Identyfikacji frakcji bÍdπ respektowane przez PAW.</text>
+	</string>
+
+	<string id="ui_mcm_lst_pawsys_pg_smartpins">
+		<text>Inteligentne pinezki</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawpins_poi_icon_smartpins">
+		<text>Domyúlna ikona inteligentnych pinezek</text>
+	</string>
+
+
+	<string id="ui_mcm_pawsys_pawret_human_f_enable">
+		<text>W≥πcz automatyczne oznaczanie dla przyjaznych stalkerÛw</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_human_f">
+		<text>Ikona cz≥owieka (przyjaünie nastawionego)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_human_f_desc">
+		<text>Automatyczne oznaczanie przypisze tÍ ikonÍ przyjaznym stalkerom.</text>
+	</string>
+
+
+	<string id="ui_mcm_pawsys_pawret_human_n_enable">
+		<text>W≥πcz automatyczne oznaczanie dla neutralnych stalkerÛw</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_human_n">
+		<text>Ikona cz≥owieka (neutralnego)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_human_n_desc">
+		<text>Automatyczne oznaczanie przypisze tÍ ikonÍ neutralnym stalkerom.</text>
+	</string>
+
+
+	<string id="ui_mcm_pawsys_pawret_human_e_enable">
+		<text>W≥πcz automatyczne oznaczanie dla wrogich stalkerÛw</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_human_e">
+		<text>Ikona cz≥owieka (wrogiego)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_human_e_desc">
+		<text>Automatyczne oznaczanie przypisze tÍ ikonÍ wrogim stalkerom.</text>
+	</string>
+
+
+	<string id="ui_mcm_pawsys_pawret_monster_enable">
+		<text>W≥πcz automatyczne oznaczanie dla mutantÛw</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_monster">
+		<text>Mutanty</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_monster_desc">
+		<text>Automatyczne oznaczanie przypisze tÍ ikonÍ do mutantÛw, potworÛw i innych nieludzkich stworzeÒ.</text>
+	</string>
+
+
+	<string id="ui_mcm_pawsys_pawret_stash_enable">
+		<text>W≥πcz automatyczne oznaczanie dla schowkÛw</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_stash">
+		<text>Ikona schowka</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_stash_desc">
+		<text>Automatyczne oznaczanie przypisze tÍ ikonÍ do schowkÛw i innych pojemnikÛw na przedmioty.</text>
+	</string>
+
+
+	<string id="ui_mcm_pawsys_pawret_reticle_mustzoom">
+		<text>Aktywne tylko podczas korzystania z celownika/lornetki</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_reticle_mustzoom_desc">
+		<text>Jeúli ta opcja jest w≥πczona, celownik (i jego funkcja oznaczania) bÍdzie w≥πczony tylko podczas powiÍkszania za pomocπ lornetki lub broni z lunetπ. Jest to zalecane, aby znaczniki nie by≥y tworzone tylko przez podchodzenie lub rozmowÍ z postaciπ niezaleønπ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_manual_smart_pins">
+		<text>Manualnie umieszczone pinezki rÛwnieø sπ inteligentne</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_manual_smart_pins_desc">
+		<text>Jeúli ta opcja jest w≥πczona, pinezki utworzone przez rÍczne wywo≥anie przypisanego do akcji klawisza bÍdπ rÛwnieø korzystaÊ z poniøszych ustawieÒ automatycznego przypisywania, przypisujπc wybranπ ikonÍ do docelowego obiektu zamiast bieøπcej aktywnej ikony.</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_pin_redskull">
+		<text>Czaszka czerwonej bestii</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_crosshair_gradient">
+		<text>Celowniki gradientowe</text>
+	</string>
+	
+<!-- Added in 1.16.3 -->
+
+	<string id="st_paw_texture_load_error_tip">
+		<text>Dodatek $clr_yelPersonal Adjustable Waypoint$clr_wht $clr_rednie by≥ w stanie wczytaÊ tekstur data$clr_wht, i dezaktywowa≥ siÍ, aby chroniÊ twojπ grÍ przed wylotami do pulpitu. \n \n
+		Sprawdü dziennik gry pod kπtem b≥ÍdÛw i upewnij siÍ, øe nic nie ≥aduje siÍ po PAW, ktÛry modyfikuje plik $clr_yelmap_spots_relations.xml$clr_wht. \n \n
+		Wymaga to jedynie zmiany kolejnoúci ≥adowania i zwykle jest ≥atwe do rozwiπzania. Jeúli jednak nigdy nie zamierzasz korzystaÊ z funkcji PAW i nie obchodzi ciÍ, øe coú innego je psuje, moøesz wy≥πczyÊ ten komunikat o b≥Ídzie w sekcji menu MCM -> $clr_yelAdjustable Waypoint$clr_wht.</text>
+	</string>
+
+	<string id="st_paw_texture_load_error_mcmhead1">
+		<text>UWAGA: brak danych tekstury mapspot</text>
+	</string>
+
+	<string id="st_paw_texture_load_error_mcmhead2">
+		<text>Aby uniknπÊ awarii, zarÛwno PAW, jak i wiele czÍúci menu MCM zosta≥o wy≥πczonych do czasu rozwiπzania tego problemu.</text>
+	</string>
+
+	<string id="st_paw_texture_load_error1">
+		<text>PAW nie mÛg≥ za≥adowaÊ danych tekstur z map_spots_relations.xml. Jest to prawie ZAWSZE spowodowane za≥adowaniem innego dodatku po PAW, ktÛry modyfikuje ten plik. Przyk≥ady obejmujπ (ale nie ograniczajπ siÍ do) Kill Tracker lub Milspec PDA.</text>
+	</string>
+
+	<string id="st_paw_texture_load_error2">
+		<text>Jeúli korzystasz z Mod Organizer 2 (lub pakietu modÛw, takiego jak GAMMA, ktÛry go uøywa), dostosuj kolejnoúÊ ≥adowania, aby PAW ≥adowa≥ siÍ po (poniøej) wszystkich dodatkach, ktÛre modyfikujπ map_spots_relations.xml. Jeúli nie korzystasz z MO2, powinieneú to zrobiÊ.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_disable_load_warning">
+		<text>Wy≥πcz ostrzeøenie w grze dla tego b≥Ídu (NIEZALECANE)</text>
+	</string>
+
+<!-- Added in 1.17 -->
+
+	<string id="ui_mcm_pawsys_pawret_autotag_persistence">
+		<text>Pinezki autotagÛw sπ trwa≥e</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_autotag_persistence_desc">
+		<text>Jeúli opcja ta nie jest w≥πczona, wszystkie pinezki dodane przez autotagowanie bÍdπ tymczasowe - to znaczy, øe automatycznie zniknπ przy nastÍpnej zmianie mapy lub wczytaniu zapisu, lub gdy up≥ynie podana poniøej liczba sekund.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_autotag_lifetime">
+		<text>Czas wygaúniÍcia autotagu (w sekundach)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_autotag_lifetime_desc">
+		<text>Jeúli funkcja automatycznego utrzymywania znacznikÛw nie jest w≥πczona, znaczniki zostanπ automatycznie wyczyszczone po tylu sekundach. Ustawienie tej wartoúci na zero wy≥πczy limit czasu, ale tymczasowe znaczniki bÍdπ nadal usuwane przy nastÍpnej zmianie mapy lub wczytaniu gry.</text>
+	</string>
+
+<!-- Added in 2.0 -->
+
+	<string id="ui_mcm_pawsys_pawgen_headertxt">
+		<text>
+		$clr_yelPAW$clr_wht to nie tylko znacznik punktu trasy - to zestaw narzÍdzi do mapowania i nawigacji, ktÛre zapewniajπ wiÍkszπ kontrolÍ nad mapπ i HUD-em, pozwalajπc wyznaczyÊ w≥asnπ úcieøkÍ przez ZonÍ. $clr_yelWszystkie te funkcje sπ opcjonalne i moøna je dostosowaÊ do w≥asnych upodobaÒ.$clr_wht \n \n
+		ï$clr_lbl Ustaw w≥asny znacznik zadaÒ w dowolnym miejscu i czasie oraz dostosuj jego tekst$clr_wht \n 
+		ï$clr_lbl Umieszczaj, zmieniaj nazwy i usuwaj znaczniki mapy ("pinezki") w dowolnym miejscu na mapie za pomocπ wybranej ikony$clr_wht \n 
+		ï$clr_lbl Automatycznie oznaczaj znane cele wybranπ ikonπ i wyúwietlaj je na wyúwietlaczu HUD$clr_wht \n \n
+		$clr_yelNie pozwÛl, by postacie niezaleøne mÛwi≥y ci, dokπd iúÊ - wy≥πcz PAW i uczyÒ ca≥π mapÍ swojπ.$clr_wht
+		</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_clear_dist_desc">
+		<text>Gdy gracz znajdzie siÍ w tej odleg≥oúci od znacznika punktu trasy, zostanie on automatycznie wyczyszczony. Ustawienie tej wartoúci na zero spowoduje ca≥kowite wy≥πczenie automatycznego usuwania.</text>
+	</string>
+
+</string_table>

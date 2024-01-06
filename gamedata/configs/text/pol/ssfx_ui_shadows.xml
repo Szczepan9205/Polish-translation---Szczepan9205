@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 19
+- @ Description: Shadows - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+	<!-- Button -->
+	<string id="ui_mcm_ssfx_module_shadows">
+		<text>Cienie i Światło</text>
+	</string>
+
+
+	<string id="ui_mcm_lst_shadows_128">
+		<text>128</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shadows_256">
+		<text>256</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shadows_512">
+		<text>512</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_768">
+		<text>768</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_768_V">
+		<text>768 ( Vanilla )</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_1536">
+		<text>1536</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_1536_V">
+		<text>1536 ( Vanilla )</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_2048">
+		<text>2048</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_2560">
+		<text>2560</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_3072">
+		<text>3072</text>
+	</string>
+
+	<string id="ui_mcm_lst_shadows_4096">
+		<text>4096</text>
+	</string>
+
+	<!-- Shadow Cascades Settings -->
+	<string id="ui_mcm_ssfx_module_shadows_title">
+		<text>Ustawienia cieni i światła</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm">
+		<text>LOD cieni</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_lod_quality_mcm_desc">
+		<text>Podstawowa jakość mapy cieni. Im wyższa wartość, tym wyższa bazowa rozdzielczość cieni i rozdzielczość poprzez odległość.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_lod_min_mcm">
+		<text>Minimalna rozdzielczość cieni</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_lod_min_mcm_desc">
+		<text>Minimalna rozdzielczość mapy cieni. Gdy światła znajdują się z dala od gracza, rozdzielczość cieni spada w celu poprawy wydajności (kosztem jakości obrazu).</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_lod_max_mcm">
+		<text>Maksymalna rozdzielczość cieni</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_lod_max_mcm_desc">
+		<text>Maksymalna rozdzielczość mapy cieni. Gdy światła są bliżej, rozdzielczość wzrasta, aby poprawić jakość obrazu cieni (kosztem wydajności).</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm">
+		<text>Wymuś wolumetrykę (wymagane przeładowanie lokacji)</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm_desc">
+		<text>Wymusza efekt wolumetryczny na wszystkich niekierunkowych światłach. Musisz przeładować mapę, aby zastosować to ustawienie.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm">
+		<text>Intensywność wolumetryki</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm_desc">
+		<text>Ustawia intensywność efektu wolumetrycznego.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm">
+		<text>Jakość wolumetryki</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_quality_mcm_desc">
+		<text>Ustawia jakość efektu wolumetrycznego kosztem wydajności.</text>
+	</string>
+
+
+
+</string_table>

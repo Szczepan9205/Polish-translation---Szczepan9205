@@ -1,0 +1,33 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_crp_title">
+		<text>I.N.E.R.T.I.A.</text>
+	</string>
+	<string id="ui_mcm_menu_crpmcm">
+		<text>Camera Reanimation</text>
+	</string>
+	<string id="ui_mcm_crpmcm_jump_land">
+		<text>Efekty podczas skoku i l¹dowania</text>
+	</string>
+	<string id="ui_mcm_crpmcm_leaning">
+		<text>Efekty podczas pochylania siê na boki</text>
+	</string>
+	<string id="ui_mcm_crpmcm_wpn_ads">
+		<text>Efekty ADS broni</text>
+	</string>
+	<string id="ui_mcm_crpmcm_moving">
+		<text>Efekty podczas biegania/chodzenia</text>
+	</string>
+	<string id="ui_mcm_crpmcm_crouch">
+		<text>Efekty podczas kucania</text>
+	</string>
+	<string id="ui_mcm_crpmcm_fire_mode">
+		<text>Efekty podczas prze³¹czania trybu strza³u</text>
+	</string>
+
+</string_table>

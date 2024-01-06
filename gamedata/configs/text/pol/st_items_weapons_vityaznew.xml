@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_wpn_vityaznew">
+		<text>PP-19 Witiaź</text>
+	</string>
+
+	<string id="st_wpn_vityaznew_descr">
+		<text>Pistolet maszynowy 9x19 mm Parabellum opracowany na podstawie PP-19 Bizon, wyprodukowany w 2004 roku przez rosyjskiego producenta broni strzeleckiej Iżmasz. Oparty na AK-74, a nawet dzielący większość jego części, jest uważany za "MP5 Federacji Rosyjskiej" i słusznie, ponieważ jest używany przez jednostki Spetsnaz Ministerstwa Spraw Wewnętrznych, Federalnej Służby Bezpieczeństwa i Federalnej Służby Gwardii.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] tłumik: PBS-1\n \n</text>
+	</string>
+
+</string_table>

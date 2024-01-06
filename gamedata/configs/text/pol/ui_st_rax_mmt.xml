@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_rax_mmt">
+        <text>Przełącznik Mini Mapy</text>
+    </string>
+
+	<string id="ui_mcm_rax_mmt_keybind">
+		<text>Klawisz przełącznika Mini Mapy.</text>
+	</string>
+
+	<string id="ui_mcm_rax_mmt_keybind_desc">
+		<text>Przypisanie klawiszy można skonfigurować tak, aby wymagało dodatkowych klawiszy modyfikujących w celu złagodzenia konfliktów z innymi czynnościami przypisanymi do tego samego klawisza.</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_mmt_update_mcm">
+		<text>Zaktualizuj MCM, aby zobaczyć tę funkcję. Domyślny klawisz to ukośnik [/]</text>
+	</string>
+
+
+</string_table>

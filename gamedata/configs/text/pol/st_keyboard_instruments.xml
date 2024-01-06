@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+    <string id="st_electric_piano_name">
+		<text>Pianino elektryczne</text>
+	</string>
+    <string id="st_flute_name">
+		<text>Flet</text>
+	</string>
+    <string id="st_piano_name">
+		<text>Pianino</text>
+	</string>
+    <string id="st_saxophone_name">
+		<text>Saksofon</text>
+	</string>
+    <string id="st_strings_name">
+		<text>Smyczki</text>
+	</string>
+</string_table>

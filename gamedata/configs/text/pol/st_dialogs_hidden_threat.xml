@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<!--
+    Linia fabularna: Ukryte Zagrożenie
+	Wersja:   1.0
+    Autor:     Longreed
+	Ostatnia edycja: 07/07/2023 - spolszczenie by Szczepan9205
+-->
+<string_table>
+
+	<!-- D1 -->
+    <string id="st_sl_hidden_threat_dialog_kuznetsov_d1_first_1">
+        <text>Pozdrowienia, towarzyszu pułkowniku! Stalker %s melduje się na wezwanie!</text>
+    </string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_1_0">
+	    <text>Spocznijcie, żołnierzu.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_1_1">
+        <text>Słuchajcie uważnie, otrzymaliśmy informację od naszego informatora w szeregach najemników. Do bazy w Martwym Mieście przybył dziwny gość. Dziwny w tym sensie, że informator nie potrafił zidentyfikować frakcji przybysza. Z pozoru dobrze wyposażony, ale informator twierdzi, że nie jest najemnikiem. Wziął jakąś walizkę od Duszmana i odszedł, unikając kontaktu z osobami postronnymi. Waszym zadaniem jest dowiedzieć się, kim jest ten gość i co robi w Zonie. Czy to jasne?</text>
+    </string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_2_1">
+	    <text>Mam pytania dotyczące dowódcy misji.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_4_1">
+	    <text>Jakieś zalecenia, gdzie zacząć szukać?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_5_1">
+	    <text>Dlaczego to my się tym zajmujemy, a nie SBU?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_6_1">
+	    <text>Jakiś pomysł, kim jest ten gość?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_7_1">
+	    <text>Chyba coś przegapiłem, czy mogę jeszcze raz usłyszeć odprawę?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_8_1">
+	    <text>Kilka dni temu zgłoszono atak na obóz stalkerów w Mrocznym Parowie - tylko jeden przeżył. Przebywa na farmie na Kordonie. Nie było wzmianki o napastnikach. Napastnikami mógł być każdy, bandyci, najemnicy i inne szumowiny lub ktoś związany z naszą sprawą. Znajdź sposób, aby porozmawiać z ocalałym stalkerem i dowiedzieć się więcej o ataku. To nic wielkiego, zwykłe wydarzenie w Zonie, ale to wszystko, co mamy.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_9_1">
+	    <text>Wysłałem raport do centrali i załączyłem wszystkie informacje podane przez informatora. Sprowadzenie agenta SBU do Zony może zająć tygodnie. Mam złe przeczucie, żołnierzu, że kończy nam się czas. Coś się dzieje i coś próbuje ukryć się przed naszymi oczami. Dlatego będziemy działać na własną rękę - na moją odpowiedzialność. Jesteś jednym z naszych najbardziej doświadczonych oficerów wojskowych, nie ma nikogo innego, komu mógłbym powierzyć to zadanie.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_10_1">
+	    <text>A pułkownik Diegtiariow, on jest z SBU?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_11_1">
+	    <text>Pewnego dnia pułkownik Diegtiariow zebrał swoich orłów i udał się gdzieś na północ Zony. Nie wiem gdzie dokładnie, ale sam wiesz, że SBU nam nie podlega, mają swoje tajemnice. Słyszałem coś o Obrzeżach Prypeci. Nie nawiązał jeszcze kontaktu i nie wiadomo, kiedy go nawiąże, więc musimy działać teraz.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_12_1">
+	    <text>Mam swoje przemyślenia na ten temat, ale na razie zachowam je dla siebie. Jeśli informacje, które znalazłeś, potwierdzą moje przypuszczenia, porozmawiamy o tym dokładnie.</text>
+	</string>	
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_13_1">
+	    <text>Zrozumiałem, dowódco.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_13_2">
+	    <text>Zrozumiałem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_13_3">
+	    <text>Zrozumiałem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_13_4">
+	    <text>Przyjąłem, pułkowniku.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d1_14_1">
+	    <text>Nie mam więcej pytań.</text>
+	</string>
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d2_first_1">
+	    <text>Raportuję - stalker nie żyje, nie udało mi się uzyskać żadnych informacji.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d2_1_1">
+	    <text>Żołnierzu! Jeszcze jedna porażka, a przydzielę tę misję komuś bardziej odpowiedzialnemu, pamiętaj o tym! Idź do Tartaku i rozejrzyj się w poszukiwaniu przydatnych informacji. Do dzieła.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d2_2_1">
+	    <text>Tak, towarzyszu pułkowniku! Przyjąłem...</text>
+	</string>
+	<!-- D3 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_first_1">
+	    <text>Dowódco, sprawdziłem tartak w Parowie, to dziwne...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_1_1">
+	    <text>Mów dalej...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_2_1">
+	    <text>Napastnicy używali broni NATO. Według wszystkich relacji, są to najemnicy. Zakładam, że stalkerzy zostali wyparci z Tartaku, ponieważ napastnicy potrzebowali Tartaku jako bazy. Opuścili ją niedługo przed moim przybyciem. Nie rozumiem tylko, po co najemnikom baza w tym zapomnianym przez Boga miejscu?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_3_1">
+	    <text>Hmmm... Niech pomyślę... Nie ma w tym nic dziwnego, jeśli to jednak nie najemnicy. Baza w Tartaku to idealna kryjówka, by pozostać w ukryciu. Z wyjątkiem ocalałego stalkera, który zepsuł im plany. W porządku, zostawmy to... Poczekamy na więcej informacji bo na razie możemy tylko zagadywać. Dam ci znać, kiedy będę cię potrzebował. Teraz tak, stalkerze - idź do sierżanta Łożkina. Rozkazałem wydać ci nowy sprzęt.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d3_4_1">
+	    <text>Dziękuję, towarzyszu pułkowniku.</text>
+	</string>
+	<!-- D4 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_first_1">
+	    <text>Towarzyszu pułkowniku! Zadanie zostało wykonane.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_first_2">
+	    <text>Pułkowniku, jakieś wieści w naszej sprawie?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_1_1">
+	    <text>Weźcie to, żołnierzu, zasłużyliście na to. W międzyczasie wydarzyło się natomiast coś, co wymaga natychmiastowej interwencji.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_2_1">
+	    <text>Mam coś, co wymaga natychmiastowej interwencji.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_3_1">
+	    <text>Słucham.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_4_1">
+	    <text>Przed wyruszeniem na północ Zony, Diegtiariow wziął ode mnie jeden oddział. Nie powiedział mi, dokąd wyruszają i jaka jest ich misja. Rozkazano im zachować milczenie. Dzisiaj otrzymałem sygnał "SOS" od tego oddziału. Wiadomość głosiła, że znajdują się na terytorium fabryki "Jupiter" i zostali zaatakowani przez nieznanych ludzi. Na razie się trzymają, ale pilnie potrzebują pomocy.n\Twoim zadaniem jest pomóc naszym ludziom. Dowiedz się też, kim są ci "nieznani". Mogą to być ci ludzie, których szukamy. Jakieś pytania?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d4_5_1">
+	    <text>Brak, towarzyszu, już się tym zajmuję!</text>
+	</string>
+	<!-- D5 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_first_1">
+	    <text>Żołnierze nie żyją, spóźniłem się z pomocą... Ale złapałem ludzi, którzy ich wyeliminowali.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_1_1">
+	    <text>Fabryka Jupiter nie jest daleko, nie było prawie żadnych szans na ich uratowanie. Dowiedzieliście się czegoś o tych ludziach, którzy zaatakowali naszych?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_2_1">
+	    <text>Nieznajomi stalkerzy okopali się na miejscu, zablokowali wejścia i przygotowali się do obrony. Wygląda na to, że szukali czegoś na tym terenie. Nie jest jeszcze dla mnie jasne, kim byli, ale wyposażenie mieli doskonałe. Działali profesjonalnie. Zdobyłem naszywkę jednego z nich, ale te insygnia są mi nieznane.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_3_1">
+	    <text>Hmm... Za to dla mnie są znajome... Więc moje przeczucie się potwierdziło... Słuchajcie uważnie, żołnierzu. Obecnie w Zonie działa Międzynarodowa Grupa Badawcza, w skrócie ISG. Stworzona i istniejąca pod auspicjami ONZ, ale de facto w dużej mierze kontrolowana przez Stany Zjednoczone. Działają w Zonie całkiem oficjalnie, ale jeśli mówimy o jajogłowych. Więc, powiedzcie mi żołnierzu, czy ci stalkerzy wyglądają wam jak jajogłowi? No właśnie... Są bojowym skrzydłem ISG i przebywają w Zonie nielegalnie. Nielegalnie, bo Ukraina nie zezwoliła organizacjom międzynarodowym na obecność zmilitaryzowanych grup na swoim terytorium. Najemnicy ISG, którzy węszyli w fabryce "Jupiter" i wpadli na naszych, najprawdopodobniej było to przypadkowe spotkanie i zostali zdemaskowani. Teraz wiemy, z kim mamy do czynienia, pozostaje dowiedzieć się, czego szukają w Zonie. Póki co jesteście wolni żołnierzu, dobra robota. Dam wam znać, gdy będę was potrzebował.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d5_4_1">
+	    <text>Przyjąłem, towarzyszu pułkowniku!</text>
+	</string>
+	<!-- D6 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_first_1">
+	    <text>Towarzyszu pułkowniku, mam coś!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_1_1">
+	    <text>No to krótko, co na niej jest i skąd ją masz? </text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_2_1">
+	    <text>Na rozkaz Kiryłowa byłem w placówce, której pilnujemy - w fabryce nad X-18. W czasie mojej obecności obiekt został zaatakowany przez ISG, atak został odparty, a przy jednym z ich ludzi znalazłem PDA, na fleszce jest część informacji z tego PDA.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_3_1">
+	    <text>Mówcie dalej...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_4_1">
+	    <text>Fleszka zawiera mapy Zony. Skąd je mają, nie mam pojęcia... Na mapach są zaznaczone różne obiekty i zaszyfrowane komentarze do oznaczeń. Dwa obiekty rozpoznałem bo to tam natknąłem się na oddziały ISG, to fabryka "Jupiter" i wejście do laboratorium "X-18". ISG szuka czegoś w różnych miejscach w Zonie.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_5_1">
+	    <text>Zrozumiałem, żołnierzu. ISG prawdopodobnie kupiło mapy i wszystkie informacje potrzebne do ich misji od Duszmana. Pamiętasz tego gościa? Dla zachowania tajemnicy, dane zostały zabrane na fizyczne nośniki w Martwym Mieście w obawie przed przechwyceniem transmisji.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_6_1">
+	    <text>Jaki jest nasz następny ruch, dowódco? Chciałbym, żebyśmy znaleźli ich centrum operacyjne, wtedy nie mogliby się ukryć...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_7_1">
+	    <text>Musimy wzmocnić ochronę obiektów i uważnie nasłuchiwać. Dostałem wskazówki z Wielkiej Ziemi, że nie powinniśmy ingerować w działania SBU, oni są świadomi aktywności ISG. Żołnierzu... Słuchajcie, tutaj toczy się jakaś wielka gra, a my nie jesteśmy w niej mile widziani. Więc póki co odpocznijcie, odwaliliście kawał dobrej roboty. Przekażę wasze informacje do SBU.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d6_8_1">.
+	    <text>Przyjąłem, pułkowniku.</text>
+	</string>
+	<!-- D7 -->
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d7_first_1">
+	    <text>Raportuję zgodnie z rozkazem!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d7_1_1">
+	    <text>Stoi przede mną major SBU, jego tożsamość została potwierdzona. Co więcej, skontaktowałem się z Diegtiariowem, był bardzo zaskoczony i zaniepokojony pojawieniem się tego majora w bazie. Major przekazał pułkownikowi tylko dwa słowa, kod: "red 2" - nie wiem co to oznacza, ale po tym otrzymałem bezprecedensowy rozkaz od Diegtiariowa, aby w pełni wykonywać polecenia majora SBU. Szykuje się duża operacja, a o jej szczegółach dowiesz się od majora.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kuznetsov_d7_2_1">
+	    <text>Zrozumiałem. Znam tego majora, uratował mi życie w szpitalu w Prypeci.</text>
+	</string>
+	<!--------------- Stalker, który przeżył (Kordon) ------------------->
+	<string id="st_sl_hidden_threat_dialog_survived_first_1">
+	    <text>Eh... jak to... Co ja mam teraz zrobić? </text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_1_1">
+	    <text>Witaj, stalkerze. Musimy porozmawiać.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_2_1">
+	    <text>Jaki miałby być rodzaj tej rozmowy?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_2_2">
+	    <text>Wojsko! Taa... Sidorowicz mnie ostrzegał. Nie mam o czym rozmawiać z wojskiem!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_3_1">
+	    <text>Muszę wiedzieć, kto zaatakował twoją jednostkę w Tartaku?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_3_2">
+	    <text>Albo rozmawiam z ludźmi, albo do nich strzelam! Mam wybierać? Muszę wiedzieć, kto zaatakował twoją jednostkę w Tartaku? Szukam kogoś, prawdopodobnie kogoś, kto was zaatakował i póki co jest jeszcze daleko od moich przyjaciół.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_4_1">
+	    <text>Och... Słuchaj, nie wiem kto nas zaatakował. Mój przełożony wysłał mnie do Kordonu po prowiant. Po drodze musiałem się odlać. Kiedy siedziałem w krzakach, usłyszałem strzały w Tartaku. Wszystko szybko ucichło, próbowałem skontaktować się z moimi przez PDA... Cisza. Przestraszyłem się... Uciekłem stamtąd, wskoczyłem w krzaki, a potem udałem się na Kordon.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_survived_5_1">
+	    <text>Taa, to niewiele, ale cóż, dzięki i za to. Na razie, stalkerze.</text>
+	</string>
+	<!--------------- Sierżant Łożkin (Agroprom) ------------------->
+	<!-- D1 -->
+    <string id="st_sl_hidden_threat_dialog_spooner_d1_first_1">
+	    <text>Słuchaj, słyszałem plotki, że wyruszasz do Kordonu. Muszę cię poprosić o przysługę. Zanieś te raporty księgowe majorowi Żurowowi na południowy posterunek, jeśli będziesz miał po drodze. Co ty na to, major nie pozostanie ci dłużny.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d1_1_1">
+	    <text>W porządku, daj mi te swoje raporty.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d1_2_1">
+	    <text>Nie mam teraz na to czasu, znajdź kogoś innego.</text>
+	</string>
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_first_1">
+	    <text>Sierżancie, przyszedłem po swój sprzęt.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_first_2">
+	    <text>Sierżancie, potrzebujesz jakiejś pomocy?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_1_1">
+	    <text>Chwileczkę. No cóż... Stalkerze %s, jesteś na liście, zostałeś zatwierdzony przez pułkownika... Podpisz tutaj... W porządku, to dla ciebie:</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_2_1">
+	    <text>Dziękuję, sierżancie. No nic, w takim razie do widzenia.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_3_1">
+	    <text>Chwileczkę, żołnierzu! Chciałbyś zarobić trochę dodatkowych pieniędzy? Idzie do mnie kurier. Powiedział, że jest w Agropromie i niedługo tu będzie. Minęły dwie godziny, a jego wciąż nie ma. Dowiedz się, co się z nim stało. Bardziej interesuje mnie paczka, którą niósł. Powinien przybyć od strony Wysypiska, więc idź drogą w tamtą stronę i rozejrzyj się po drodze.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_4_1">
+	    <text>W porządku, zrobię to.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d2_5_1">
+	    <text>Nie mam na to czasu.</text>
+	</string>
+	<!-- D3 -->
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_first_1">
+	    <text>Kurier nie żyje, zabity przez mutanty. Oto twoja paczka.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_first_2">.
+	    <text>Sierżancie, czy potrzebujecie czegoś jeszcze? </text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_1_1">
+	    <text>Dziękuję za paczkę. Oto twoja nagroda. Ach... Szkoda, że straciłem moje ostatnie źródło zaopatrzenia...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_2_1">
+	    <text>Źródło zaopatrzenia, powiadasz? Zastanawiam się, czy mogę ci jakoś pomóc?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_3_1">
+	    <text>Od czasu do czasu przybywa tutaj strażnik bunkra naukowców z Jantaru, by uzupełnić zapasy. Dobrze płaci, nie jest skąpy. Niektórzy z jego ludzi mają broń NATO i są zainteresowani amunicją do niej. Jak rozumiesz, prawie nie mamy jej w magazynie, nie pochodzi ona z naszej ziemi, więc radzimy sobie z tym, co mamy. Słuchaj, moja propozycja jest taka: przynieś mi natowską amunicję, a ja dam ci taką samą ilość naszej, tego samego typu. Nie interesują mnie pojedyncze naboje, wymienię się tylko za całe paczki, a dokładniej minimum 20 paczek (280-300 sztuk) na naboje i 3 na granaty do granatnika: \n1. Za 300 sztuk amunicji 9x19 i dam ci w zamian 320 sztuk amunicji 9x18. \n2. Za 300 sztuk amunicji 5,56x45 i oddam ci taką samą ilość amunicji 5,45x39. \n3. Za 280 sztuk amunicji .45 i dam ci 90 sztuk amunicji 9x39. \n4. Za 300 sztuk amunicji 7,62x51 i dam ci taką samą ilość amunicji 7,62x54. \n5. Za trzy granaty M209, w zamian dam taką samą ilość WOG-25.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d3_4_1">
+	    <text>W porządku, będę o tym pamiętał.</text>
+	</string>
+	<!-- D4 -->
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_first_1">
+	    <text>Chciałbym pohandlować amunicją.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_1_1">
+	    <text>Co tam masz?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_2_1">
+	    <text>Amunicję 9x19mm FMJ.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_3_1">
+	    <text>Amunicję 9x19mm Dum-dum.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_4_1">
+	    <text>Amunicję 9x19mm BP.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_5_1">
+	    <text>Oto amunicja 5.56x45mm FMJ.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_6_1">
+	    <text>Oto naboje 5.56x45mm EP.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_7_1">
+	    <text>Oto naboje 5.56x45mm EPR.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_8_1">
+	    <text>Oto naboje .45 ACP.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_9_1">
+	    <text>Oto naboje .45 Hydra-shok.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_10_1">
+	    <text>Oto naboje 7.62x51mm NATO FMJ.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_11_1">
+	    <text>Oto naboje 7,62x51mm NATO AP.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_12_1">
+	    <text>Oto granaty do granatnika M209.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spooner_d4_13_1">
+	    <text>Zmieniłem zdanie.</text>
+	</string>
+	<!----------------- Major Żurow (Kordon) ---------------------->
+	<string id="st_sl_hidden_threat_dialog_jurov_first_1">
+	    <text>Towarzyszu majorze! Przyniosłem dokumenty z Agropromu.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_1_1">
+	    <text>Taak... Raport księgowy sierżanta Łożkina. Dziękuję, żołnierzu. Czego chcecie za tą przysługę?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_1_2">
+	    <text>Taa... Raport księgowy sierżanta Łożkina. Dziękuję, wojskowy stalkerze. Oto twoja nagroda, odejdźcie i nie zawracajcie mi głowy.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_2_1">
+	    <text>Mam na farmie stalkera, z którym muszę porozmawiać, a nie chciałbym zarobić kilku nowych dziur po kulach. Możecie zaaranżować rozejm z tymi darmozjadami?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_3_1">
+	    <text>Przydadzą mi się pieniądze.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_4_1">
+	    <text>Za tą przysługę mogę załatwić ci wyłączny rozejm dla twojej osoby na dwie godziny. Stalkerzy pozwolą ci się zbliżyć i wejść do ich baz, ale jeśli zaczniesz do nich strzelać, rozejm się skończy. To wszystko, możesz odejść.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jurov_5_1">.
+	    <text>Dziękuję, towarzyszu majorze.</text>
+	</string>
+	<!----------- St.Porucznik Kiryłow (Agroprom) ---------------->
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_kirillov_d1_first_1">
+	    <text>Żołnierzu, mam do ciebie osobistą prośbę. Jedna z radiostacji w naszej jednostce strzegącej obiektu w Dolinie Mroku jest niesprawna. Poproszono mnie o przekazanie im nowej. Potrzebuję kuriera. Mógłbyś się tym zająć?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d1_1_1">
+	    <text>Zapakujcie ją i zawiążcie na kokardę, dostarczę ją w najszybszy możliwy sposób.</text>
+	</string>
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_kirillov_d2_first_1">
+	    <text>Słuchaj Kiryłow, podobno jesteś dobrym technikiem. Mam tu PDA, prawdopodobnie z cennymi informacjami. Czy możesz mi je odblokować?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d2_1_1">
+	    <text>Zobaczymy, daj je tutaj. Tylko nie licz na to, że szybko się z tym uporam, może to zająć 24 godziny, może więcej. Dam ci znać, kiedy skończę.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d2_2_1">
+	    <text>No cóż, nie obym nie musiał czekać zbyt długo.</text>
+	</string>
+	<!-- D3 -->
+	<string id="st_sl_hidden_threat_dialog_kirillov_d3_first_1">
+	    <text>Co tam z PDA?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d3_1_1">
+	    <text>Nie było, hmm... łatwo. Miało specjalny dodatkowy moduł bezpieczeństwa z niewielką ilością materiałów wybuchowych. Próbowałem to rozgryźć, ale zrobiłem coś nie tak i coś się spieprzyło... Udało mi się wyjąć tylko dysk zewnętrzny, ale był pełen informacji. Wszystkie informacje są oznaczone.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_kirillov_d3_2_1">
+	    <text>Oznaczone informacje, co? Pieprzyć to PDA, nie przejmuj się nim. Idę zobaczyć się z pułkownikiem. Do widzenia i dziękuję.</text>
+	</string>
+	<!-------- Losowy dowódca oddziału (Dolina Mroku) ---------->
+	<string id="st_sl_hidden_threat_dialog_val_leader_squad_first_1">
+	    <text>Pozdrowienia dla wojskowego stalkera, w jakiej sprawie tu przyszedłeś?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_val_leader_squad_1_1">
+	    <text>Załatwiłem wam połączenie z centralą, trzymaj nową radiostację.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_val_leader_squad_2_1">
+	    <text>Dziękuję za to, stalkerze!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_val_leader_squad_3_1">
+	    <text>To nie mnie należą się podziękowania.</text>
+	</string>
+	<!---------- Sierżant Gorobec (Obrzeża Prypeci) ---------------->
+	<string id="st_sl_hidden_threat_dialog_gorobez_pierwszy_1">
+	    <text>Miałem nadzieję, że jednak nie przyjdziesz... Wybacz...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_gorobez_1_1">
+	    <text>O czym ty mówisz?</text>
+	</string>
+	<!----------- Major Hernandez (Obrzeża Prypeci) ---------------->
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d1_first_1">
+	    <text>Sabotowałeś dwie nasze operacje, wydajesz się być doświadczonym facetem, a my potrzebujemy takiego gościa. Więc tak... Pracujesz dla nas - zapewniamy ci bezpieczeństwo, ewakuację z Zony, porządną sumkę na koncie w dowolnym kraju na świecie, albo dostajesz kulkę w łeb... Nie masz wielkiego wyboru, są tylko dwie opcje.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d1_1_1">
+	    <text>Jaka jest druga opcja? </text>
+	</string>
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_first_1">
+	    <text>Masz jeszcze jakieś pytania? </text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_1_1">
+	    <text>Myślę, że się powstrzymam.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_2_1">
+	    <text>Nie mam zbyt wiele czasu, więc nie mam zamiaru zawracać sobie tobą głowy.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_3_1">
+	    <text>(cisza...)</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_4_1">
+	    <text>W porządku, nie mam tak szczerze zamiaru z tobą rozmawiać. Dam ci 30 minut do namysłu. Porozmawiamy później. Może z trochę większą pasją - to zależy od ciebie.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_leader_d2_5_1">
+	    <text>(cisza...)</text>
+	</string>
+	<!----------- Porucznik Godunow (Obrzeża Prypeci) ------------->
+	<string id="st_sl_hidden_threat_dialog_isg_agent_d1_first_1">
+	    <text>Słuchaj! Jestem agentem SBU. Normalnie nie kiwnąłbym palcem, by uratować ci skórę i ryzykować moją przykrywkę w ISG. Ale wygląda na to, że dziś jest twój dzień. Cała nasza operacja poszła w diabły... ISG w jakiś sposób dowiedziało się o stalkerze, o którym nie mieli wiedzieć. A także o spotkaniu Diegtiariowa z tym stalkerem. Wysłali specjalną grupę do wyeliminowania Diegtiariowa i schwytania stalkera. Spotkanie odbędzie się w hotelu. Grupa specjalna planuje wejść tylnym wejściem i wyprzeć Diegtiariowa i jego ludzi, na otwartą pozycję dla snajpera na dziedzińcu. Snajper będzie czekał w domu naprzeciwko. Jesteś mi winien życie! Twoim zadaniem jest ostrzec pułkownika o pułapce. Zapamiętaj zdanie: "Śmierć nie czeka, życie też nie powinno czekać". Bez tego hasła Diegtiariow może na wszelki wypadek wpakować ci kulkę w czoło. Aha, mam też informacje o szczególnym znaczeniu, przesłanie ich radiowo nie wchodzi w grę, ISG podsłuchuje wszystkie częstotliwości. Ukryłem walizkę w Domu Towarowym i czekałem na odpowiednią okazję, a ty jesteś moją okazją. Przekażesz Diegtiariowowi informacje o walizce w domu towarowym. Zrozumiano?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_isg_agent_d1_1">
+	    <text>Tak, zrobię to wszystko. I ... Dziękuję.</text>
+	</string>
+	<!---------- Pułkownik Diegtiariow(Obrzeża Prypeci) ------------->
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_first_1">
+	    <text>Musisz mi powiedzieć coś, co wyjaśni, dlaczego tu jesteś. Wlazłeś tam, gdzie nie powinieneś być?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_1">
+	    <text>Trzymajcie pułkowniku, mam dla was list miłosny od waszego przyjaciela, "Śmierć nie czeka, ani życie też nie powinno czekać."</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_2_1">
+	    <text>Dobra, teraz ufam ci trochę bardziej i wygląda na to, że uratowałeś nam skórę. I bardzo ci za to dziękuję. W jakich okolicznościach nauczyłeś się tego hasła i jakie masz dla mnie informacje?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_3_1">
+	    <text>W szpitalu zostałem schwytany przez ISG. Oficer ISG, niespodziewanie zastrzelił moich strażników, oddał mi moje rzeczy i broń. Nazywał siebie majorem SBU. Dał mi zadanie ostrzeżenia pana, pułkowniku, o pułapce przygotowywanej przez ISG i podał mi hasło. Pobiegłem tak szybko, jak mogłem, ale nie zdążyłem na czas i podjąłem niezależną decyzję o wyeliminowaniu głównego zagrożenia, snajpera na waszych tyłach. Jeszcze jedno, "oficer ISG" kazał mi powiedzieć ci o walizce, którą ukrył w Domu Towarowym, według niego zawiera ona informacje o szczególnym znaczeniu dla działań ISG.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_4_1">
+	    <text>Rozumiem, wygląda na to, że agent miał rację ryzykując swoją przykrywkę. Ponieważ nie mam tu ludzi, będziesz musiał przejąć tę walizkę. Spotkamy się w bazie Agropromu. Do dzieła, żołnierzu.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d1_5_1">
+	    <text>Tak jest, towarzyszu pułkowniku!</text>
+	</string>
+	<!-------------- Pułkownik Diegtiariow (Agroprom) ---------------->
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d2_first_1">
+	    <text>Masz walizkę?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d2_1_1">
+	    <text>Tak, oto ona.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d2_2_1">
+	    <text>Dobrze, to za twoją pomoc. Jesteś porządnym żołnierzem, dlatego właśnie postanowiłem umieścić cię w mojej specjalnej grupie. Będziesz podlegał bezpośrednio mnie. Kuzniecow załatwi ci papiery dotyczące przeniesienia. A co do mnie to skontaktuję się z tobą później.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d2_3_1">
+	    <text>Tak jest, towarzyszu pułkowniku!</text>
+	</string>
+	<!-- D3 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_first_1">
+	    <text>Chciałem o coś zapytać...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_2_1">
+	    <text>Dzięki agentowi wiemy, gdzie znajduje się centrum operacyjne ISG, dlaczego po prostu ich nie wykończymy?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_3_1">
+	    <text>Dowiedziałem się, że ISG sprawdza różne obiekty w Zonie i czegoś w nich szukają. Co wiemy o głównym celu ISG w Zonie?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_4_1">
+	    <text>Ten stalker w Prypeci, rozpoznałem go - to był Striełok! Dlaczego jest tak ważny dla ISG?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_5_1">
+	    <text>Zniszczenie bazy tylko opóźni problem, a nie go rozwiąże. ISG wyśle nową grupę, która może być bardziej skuteczna. Pomimo faktu, że paramilitarna grupa ISG jest w Zonie nielegalnie, zlikwidowanie ich wywołałoby międzynarodowy skandal. Naszym zadaniem jest zdobycie wszelkich informacji dla dyplomatów, które ogólnie zdyskredytują działania ISG w Zonie. Potem odejdą sami lub my im pomożemy, ale nikt nie powie na nasz temat, złego słowa w ONZ.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_6_1">
+	    <text>Analitycy SBU znają swój cel od czasu przybycia ISG. ISG szuka wszelkich informacji, które dałyby choćby wskazówkę, że Zona jest wynikiem rozwoju broni masowego rażenia i stanowi zagrożenie dla bezpieczeństwa międzynarodowego. Nie musi to być prawda. Ważne jest, aby ISG wszczęła międzynarodowe dochodzenie w sprawie Zony i pod ciężarem uzyskanych materiałów zmusiła Ukrainę do zapewnienia pełnego dostępu do Zony organizacjom międzynarodowym w celu przeprowadzenia dochodzenia. To skutecznie pozbawiłoby Ukrainę monopolistycznego prawa do Zony, a kontrola przeszłaby w ręce ONZ. ISG z kolei otrzymałoby carte blanche na prowadzenie tutaj wszelkich swoich operacji. Prawdopodobnie zostanie nam zdecydowanie zalecone opuszczenie Zony do czasu zakończenia śledztwa.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d3_7_1">
+	    <text>Jeśli trafi w ręce ISG, będzie to totalna katastrofa i porażka całej operacji. Ale to nie twoje zmartwienie. Moja rada dla ciebie: zapomnij o tym stalkerze i wszystkim, co z nim związane. Dzięki temu dłużej pożyjesz.</text>
+	</string>
+    <!-- D4 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_first_1">
+	    <text>Stalker %s melduje się na rozkaz.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_1_1">
+	    <text>Spokojnie! Skończmy z formalnościami. Mamy dla ciebie misję. Nasz agent przekazał nam mnóstwo informacji na temat działalności ISG. Teraz interesuje mnie jedna z grup, ale agent nie mógł poznać celu ich misji, jest on utrzymywany w tajemnicy przed innymi członkami ISG. Według jego obserwacji, grupa ta okresowo co 2 dni opuszcza bazę i wraca po 24 godzinach. Twoim zadaniem jest dowiedzieć się, jaki jest ich cel.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_2_1">
+	    <text>To trochę za mało informacji, pułkowniku!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_3_1">
+	    <text>To nie wszystko. Wcześniej informator najemników powiedział nam o grupie ISG, która okresowo pojawia się w Martwym Mieście. Duszman ostrzegł nas, byśmy zbliżyli się do samotnego domu w południowo-zachodniej części Martwego Miasta i nawiązali z nimi kontakt. Wcześniej nie zwracałem większej uwagi na te informacje, zakładając, że ISG się tam zaopatruje. Wygląda jednak na to, że istnieje powiązanie. Dopóki jest czas, sprawdź to miejsce po cichu i zostaw tam pluskwę, dyktafon. Dokładnie za dwa dni zabierz go stamtąd i przynieś do mnie. Może coś z tego wyniknie. Jakieś pytania?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_3_2">
+	    <text>Macie jeszcze jakieś inne pytania?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_4_1">
+	    <text>Wszelkie pytania dotyczące zadania.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_5_1">
+	    <text>Brak pytań, zajmę się tym.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_7_1">
+	    <text>Dlaczego dyktafon, pułkowniku? Jesteśmy aż tak biedni? Nie mamy bardziej zaawansowanych nadajników radiowych?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d4_8_1">
+	    <text>Pracujemy przeciwko organizacji, która jest wyposażona znacznie lepiej niż SBU. Wykryją każdą pluskwę radiową za pomocą detektora. Wystarczy, że ich wystraszymy, a zmienią lokalizację. Kiryłow zbudował specjalnie na potrzeby tej misji rejestrator, który odbiera dźwięk i rozpoczyna nagrywanie. Nie emituje on żadnych fal radiowych, więc jest praktycznie niemożliwy do wykrycia.</text>
+	</string>
+	<!-- D5 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d5_first_1">
+	    <text>Misja wykonana.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d5_1_1">
+	    <text>Dobra robota. Poza tobą zostawiłem na miejscu obserwatorów, którzy nagrywali to, co się działo. Teraz potrzebuję czasu, aby przeanalizować cały materiał audio i wideo z technikiem. ISG jest małe, ale wspierane przez najemników, którzy są dobrze opłacani. Dochodzą do nas niepokojące informacje, ISG i najemnicy koncentrują się w Limańsku. Prawdopodobnie wiemy dlaczego - ich celem jest CEA. A to może zagrozić całej naszej operacji. Dzięki temu, że wyłączyłeś Zwęglacz, wysłałem oddział naszych bojowników na CEA. Mają tam na ciebie czekać, a następnie towarzyszyć ci i wykonywać twoje rozkazy. Waszym zadaniem jest uniemożliwienie ISG dotarcia do Sarkofagu. Głównym celem jest wyeliminowanie grupy ISG, reszta mnie nie interesuje.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d5_2_1">
+	    <text>Tak jest, towarzyszu pułkowniku.</text>
+	</string>
+	<!-- D6 -->
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d6_first_1">
+	    <text>ISG zostało wyeliminowane.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d6_1_1">
+	    <text>Dobra robota. Zakończyliśmy analizę materiałów. ISG utworzyło czarny kanał dystrybucji i zaopatrzenia poprzez najemników. W domu, w którym zostawiłeś rejestrator, handlowali bronią i amunicją za artefakty. Cóż... ONZ nie podoba się, że ich organizacja "ręka w rękę" jest pierścieniem przemytniczym. Wygląda na to, że mamy wystarczająco dużo informacji i nadszedł czas, aby nasz korpus dyplomatyczny zabrał się do pracy. Lecę na Wielką Ziemię, a ty jesteś tymczasowo do dyspozycji Kuzniecowa, dopóki nie wrócę.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_degtyarev_d6_2_1">
+	    <text>Zgotujcie im piekło, pułkowniku.</text>
+	</string>
+	<!--------------- Major Wereszczagin (Agroprom) ------------------>
+	<!-- D1 -->
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d1_first_1">
+	    <text>Przedstawię wam sytuację. Trochę sraliście po gaciach, więc musiałem wkroczyć do akcji. Podczas gdy ty bawiłeś się z grupą na CEA, która była również przykrywką, główny oddział, wraz ze swoimi jajogłowymi, dostał się do X-8 i najwyraźniej znalazł coś, czego nie potrzebował. Hernandez, szef misji bojowej ISG w Zonie, zarządził więc zwinięcie się i przygotowanie do ewakuacji. Rozumiecie to, żołnierzu?! Wyczuwam coś grubego. Szef SBU, w komunikacji operacyjnej, dał nam zielone światło do likwidacji kwatery głównej ISG i nie pozwolił, aby informacje, które zdobywali przez cały ten czas, wydostały się z Zony. Ukraina poniosła by po tym konsekwencje dyplomatyczne, ale jest to o wiele mniej ważne niż informacje, które ISG może mieć i jeśli wydostaną się one do ONZ. ISG wybrało na swoją bazę świetne miejsce do ukrycia się, ale obrzydliwe pod względem strategii. Zablokowaliśmy ich po stronie Prypeci i po stronie Jupitera - nie było to zbyt trudne i teraz nawet mysz się nie prześlizgnie. Teraz przed nami najtrudniejsza część, czyli to, co musisz zrobić ty. Poprowadź drużynę szturmową złożoną z doświadczonych żołnierzy i oczyść to szczurze gniazdo. Wejdziecie tam, a każdy, kto otworzy do was ogień, musi zostać wyeliminowany. Czy może powinienem powierzyć dowodzenie komuś innemu, a ty chcesz wrócić do mamusi?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d1_1_1">
+	    <text>Spróbujcie mnie powstrzymać, towarzyszu majorze!</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d1_2_1">
+	    <text>Dobra postawa, żołnierzu, popieram ją. A więc do dzieła, czas ucieka.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d1_3_1">.
+	    <text>Tak jest!</text>
+	</string>
+	<!-- D2 -->
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d2_first_1">
+	    <text>Towarzyszu majorze...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d2_1_1">
+	    <text>Zostałem już poinformowany przez radio, że centrum operacyjne ISG zostało zniszczone. Wysłałem ekipę "sprzątającą" i agentów SBU - zabiorą stamtąd wszystko, co wartościowe. Niektóre rozproszone jednostki ISG prawdopodobnie nadal pozostają w Zonie, ale bez jednolitego centrum koordynacji i zaopatrzenia nie stanowią zagrożenia, a z czasem wtopią się w inne grupy lub spróbują ewakuować się na własną rękę. Dobrze się spisaliście, żołnierzu. W zasadzie to wszyscy wykonaliśmy dobrą robotę. Nasza operacja dobiegła końca. Szczegóły operacji zostały objęte tajemnicą państwową, więc trzymajcie gębę na kłódkę, jeśli nie chcecie stracić swojego stanowiska. Jeśli zaczniecie gadać, SBU się wami zainteresuje. A to ode mnie, taki osobisty prezent:</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_vereshagin_d2_2_1">
+	    <text>Dziękuję, towarzyszu majorze!</text>
+	</string>
+	<!------------ Losowy dowódca oddziału (CEA) --------------->
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_first_1">
+	    <text>Raportuję! Przeprowadziliśmy rekonesans, obserwatorzy donoszą, że monolitowcy utrzymują główne wejście, najemnicy zbliżają się do nich. Walka toczy się z różnym skutkiem, ale Monolit zbiera siły i wkrótce najemnicy zostaną rozbici.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_1_1">
+	    <text>Mhm... A gdzie jest grupa ISG?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_2_1">
+	    <text>Nie jestem w stanie powiedzieć. Zwiadowcy ich jeszcze nie zlokalizowali.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_3_1">
+	    <text>Coś tu jest nie tak...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_4_1">
+	    <text>Jeden z naszych zwiadowców przestał się komunikować. Jego zadaniem było kontrolowanie drogi ze Szpitala na CEA. Ostatni raz kontaktował się z nami godzinę temu i do tej pory nie odpowiedział.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_aes_leader_squad_5_1">.
+	    <text>Nie mamy dużo czasu, nie ma czasu na sprawdzanie, więc będziemy musieli zaryzykować i iść na ślepo. I tak nie mamy tu nic do roboty, więc lepiej pozwólmy środkom dalej zabawiać monochromatycznych. Wstawać chłopcy, ruszamy!</text>
+	</string>
+	<!-------------- Losowy agent SBU (Jupiter) ----------------->
+	<string id="st_sl_hidden_threat_dialog_jup_agent_d1_first_1">
+	    <text>Zespół szturmowy w pogotowiu. Rozpoczynamy atak?</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jup_agent_d1_1">
+	    <text>Ruszamy.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_jup_agent_d1_2_1">
+	    <text>Jeszcze nie.</text>
+	</string>
+	<!--------------- Esencja (Mroczny Parów) -------------------->
+	<string id="st_sl_hidden_threat_dialog_spirit_d1_first_1">
+	    <text>Co tu mamy? Ślady krwi na zewnątrz budynku. Brak łusek oznacza, że wartownik został zaskoczony i nie odpowiedział ogniem. Zobaczmy, co będzie dalej...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spirit_d1_1_1">
+	    <text>Kontynuujcie...</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_spirit_d2_first_1">
+	    <text>Stalkerzy wewnątrz budynku nie od razu zorientowali się, co się dzieje i zostali zaatakowani z dwóch wejść, prawie bez oporu. Leżą tu łuski 5.56x45 NATO... wygląda to na robotę najemników. Hmm... atak miał miejsce dwa dni temu, a węgiel w ognisku jest wciąż ciepły. Napastnicy rozbili tu obóz i przez tu odpoczywali. Ktokolwiek to był, już ich tu nie ma, więc czas wracać do Kuzniecowa.</text>
+	</string>
+	<!------------------- Dialogi ogólne -------------------------->
+	<string id="st_sl_hidden_threat_dialog_all_1_1">
+	    <text>Zrozumiałem, dowódco.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_all_1_2">
+	    <text>Przyjąłem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_all_1_3">
+	    <text>Zrozumiano.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_all_1_4">
+	    <text>Przyjąłem, pułkowniku.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_all_2_1">
+	    <text>Śmiało.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_all_2_2">
+	    <text>Kontynuuj.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_all_2_3">
+	    <text>Mów dalej.</text>
+	</string>
+	<string id="st_sl_hidden_threat_dialog_all_3_1">
+	    <text>Zmieniłem zdanie.</text>
+	</string>
+	<!----------------------- Notes ------------------------------>
+	<string id="encyclopedia__notes_note_from_spooner">
+		<text>Notatka od sierżanta Łożkina.</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_spooner_text">
+		<text>Łożkin proponuje mi taką wymianę: za 300 sztuk amunicji 9x19, dostanę  320 sztuk amunicji 9x18; za 300 sztuk amunicji 5,56x45,  dostanę taką samą ilość amunicji 5,45x39; za 280 sztuk amunicji kalibru .45 w zamian otrzymam 90 sztuk amunicji 9x39; \n - za 300 sztuk amunicji 7,62x51, w zamian otrzymam taką samą ilość amunicji 7,62x54,\n- a za 5 granatów M209, w zamian otrzymam taką samą ilość granatów WOG-25.</text>
+	</string>
+</string_table>

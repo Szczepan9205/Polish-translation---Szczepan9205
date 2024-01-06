@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_ace52">
+		<text>IWI ACE 52</text>
+	</string>
+	<string id="st_wpn_ace52_descr">
+		<text>
+		Wariant 7,62x51 serii karabinów opracowanych przez IWI (Israel Weapon Industries). Choć bazują one na dawnych IMI Galilach, nowe warianty ACE cechują się lepszą ergonomią i celnością dzięki połączeniu stali z polimerem, a nie zastosowaniu obrabianego maszynowo pocisku z litej stali.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki i kolimatory, które pasują na szynę montażową Picatinny\n \n
+		%c[0,255,255,255]INFORMACJE DODATKOWE:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Izrael\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Israel Weapon Industries\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2008\n
+		</text>
+	</string>
+
+	<string id="st_up_ace52_a5_name">
+		<text>Instalacja cięższej lufy</text>
+	</string>
+	<string id="st_up_ace52_a5_descr">
+		<text>Instalacja cięższej lufy w celu dalszej poprawy odrzutu</text>
+	</string>
+	<string id="st_up_ace52_b1_name">
+		<text>Instalacja elementu policzkowego</text>
+	</string>
+	<string id="st_up_ace52_b1_descr">
+		<text>Instalacja elementu policzkowego na kolbie dla wygodniejszego celowania. Może to znacznie zmniejszyć odrzut podczas celowania.</text>
+	</string>
+	<string id="st_up_ace52_c1_name">
+		<text>Konwersja na kaliber 7.62x54</text>
+	</string>
+	<string id="st_up_ace52_c1_descr">
+		<text>Zmienia kaliber broni na ten bardziej powszechny w Zonie czyli 7.62x54 mm.</text>
+	</string>
+</string_table>

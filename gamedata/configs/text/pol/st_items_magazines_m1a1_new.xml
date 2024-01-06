@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+    
+<!--
+M1A1
+-->
+
+	<string id="st_mag_m1a1_11.43x23_fmj">
+		<text>Standardowy magazynek kalibru .45 ACP do M1A1</text>
+	</string>
+	<string id="st_mag_m1a1_11.43x23_fmj_descr">
+		<text>
+            30-nabojowy magazynek do M1A1.\n\n
+			%c[d_purple] • %c[ui_gray_2] Pasuje również do modelu 1921.
+		</text>
+	</string>
+
+	
+	<string id="st_mag_1921_11.43x23_fmj">
+		<text>Standardowy magazynek bębnowy kalibru .45 ACP 1921</text>
+	</string>
+	<string id="st_mag_1921_11.43x23_fmj_descr">
+		<text>
+            50-nabojowy magazynek bębnowy używany w Thompsonie model 1921. \n\n
+			%c[d_purple] • %c[ui_gray_2] Nie pasuje jednak do wariantu M1A1, ponieważ jego magazynek jest inny.
+		</text>
+	</string>
+	
+</string_table>

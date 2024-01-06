@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_ui_no_save_campfire_baby">
+		<text>Możesz %s tylko w pobliżu ognisk, dzieciaczku.</text>
+	</string>
+	<string id="st_ui_no_save_campfire_base">
+		<text>Możesz używać % tylko w pobliżu ognisk i w przyjaznych obozach.</text>
+	</string>
+	<string id="st_ui_no_save_campfire_unlit">
+		<text>Ognisko musi zostać rozpalone przed rozpoczęciem %s.</text>
+	</string>
+	<string id="ui_mcm_menu_yasc">
+		<text>YACS</text>
+	</string>
+	<string id="ui_mcm_lst_Sanctuaries_None">
+		<text>Nie</text>
+	</string>
+	<string id="ui_mcm_lst_Sanctuaries_Friendly">
+		<text>Tylko przyjazne</text>
+	</string>
+	<string id="ui_mcm_lst_Sanctuaries_Neutral">
+		<text>Przyjazne i neutralne</text>
+	</string>
+	<string id="ui_mcm_yacs_title">
+		<text>Yet Another Campfire Saving</text>
+	</string>
+	<string id="ui_mcm_yasc_enableCampfireSaving">
+		<text>Włącz zapisywanie przy ognisku</text>
+	</string>
+	<string id="ui_mcm_yasc_enableCampfireSaving_desc">
+		<text>Zapisywanie będzie możliwe tylko w pobliżu rozpalonych ognisk i w obrębie przyjaznych baz/obozów.</text>
+	</string>
+	<string id="ui_mcm_yasc_allowNeutralBases">
+		<text>Włącz bazy neutralne</text>
+	</string>
+	<string id="ui_mcm_yasc_allowNeutralBases_desc">
+		<text>Inne frakcje pozwolą ci zapisywać grę w swoich bazach w zależności od twojej dobrej woli.</text>
+	</string>
+	<string id="ui_mcm_yasc_allowSanctuaries">
+		<text>Włącz "sanktuaria"</text>
+	</string>
+	<string id="ui_mcm_yasc_allowSanctuaries_desc">
+		<text>Niektóre wpływowe osoby pozwolą ci na zapisywanie w ich domach, jeśli jesteś w dobrych stosunkach.</text>
+	</string>
+	<string id="ui_mcm_yasc_enableNotifications">
+		<text>Włącz powiadomienia o tokenach</text>
+	</string>
+	<string id="ui_mcm_yasc_enableNotifications_desc">
+		<text>Zostaniesz powiadomiony o pozostałym czasie do przyznania darmowego tokena zapisu.</text>
+	</string>
+	<string id="ui_mcm_yasc_isNotMommy">
+		<text>Nie jestem mamusią</text>
+	</string>
+	<string id="ui_mcm_yasc_isNotMommy_desc">
+		<text>Identyfikujesz się jako tatuś.</text>
+	</string>
+	<string id="mommy_true">
+		<text>Mamusia</text>
+	</string>
+	<string id="mommy_false">
+		<text>Tatuś</text>
+	</string>
+	<string id="token_pending">
+		<text>Otrzymasz Token za %s %i sekund.</text>
+	</string>
+	<string id="token_granted">
+		<text>Otrzymałeś token %s. Naciśnij SHIFT-F5, aby go otrzymać.</text>
+	</string>
+</string_table>
+

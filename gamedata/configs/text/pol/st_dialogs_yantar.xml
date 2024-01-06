@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<!-- (Military Mechanic) -->
+	<string id="army_yan_mec_about_tool_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="army_yan_mec_about_tool_1">
+		<text>Żołnierzem. Kryptonim Sokół. Mamy tu oddział zaopatrzenia wojskowego. W wolnych chwilach jestem tu mechanikiem i naprawiam wszystko, co padnie.</text>
+	</string>
+	<string id="army_yan_mec_about_tool_2">
+		<text>I jak wygląda sytuacja?</text>
+	</string>
+	<string id="army_yan_mec_about_tool_3">
+		<text>Ech, lepsze to niż tkwienie w centrali, posiadanie wściekłego dowódcy patrzącego ci na ręce przez cały czas lub chodzenie na patrole ze stałym rozkazem strzelania zdesperowanym ludziom w twarz.\n \nAle szczerze mówiąc, tu i tak wciąż dzieje się niezłe gówno. Dzięki niezwykłemu poświęceniu naszego Korpusu Zaopatrzenia, muszę kłócić się do upadłego, by utrzymać to, co obecnie mamy. Ezoteryczny sprzęt, który trzymają tu naukowcy, nie jest łatwy do utrzymania z tego, co jest dostępne, nie mówiąc już o modernizacji lub dostosowaniu do stale zmieniających się warunków w Zonie. Próbowałem naprawić stary odbiornik, ale jedyne, co robi, to wypluwa z siebie jakiś dziwny bełkot. Nasi ludzie z Magazynów Wojskowych odeszli siedem lat temu, ale ta cholerna maszyna wciąż myśli, że słyszy ich głosy.</text>
+	</string>
+	<string id="army_yan_mec_about_tool_4">
+		<text>Cóż, to Zona. Nigdy nie wiesz, co tym razem w rękach wybuchnie. Tak czy owak - z najlepszymi i powodzenia.</text>
+	</string>
+
+	
+<!-- (Military Cooker) -->
+	<string id="meet_povar_army_0">
+		<text>Coś ty za jeden?</text>
+	</string>
+	<string id="meet_povar_army_1">
+		<text>Mniemam, że tutejszy parzygnat. Formalnie i regulaminowo: asystent terenowy pracowników naukowych. W praktyce "podziękowali" mi za współpracę kilka miesięcy temu. To teraz i tak nieważne, bo wygląda na to, że jeszcze parę miesięcy tu pokibluję, także tego, no... Aha, zwą mnie Spiryt.</text>
+	</string>
+	<string id="meet_povar_army_2">
+		<text>A dlaczego tak tu tkwisz jak kołek?</text>
+	</string>
+	<string id="meet_povar_army_3">
+		<text>Wynikło małe nieporozumienie. Wszyscy tutaj mają mnie za nałogową moczymordę. No kurde blaszka, serio nie ma powodów, pytam ja się? Każdy zdrowy facet zacznie chlać prosto z wiadra, gdy Monolit znów się uaktywnił, a jego kumple akurat utknęli w Jupiterze. Wiem, że przypuszczalnie są cali i zdrowi - ale i tak się martwię. Zmieniając zaś temat, to mam dla ciebie interes: jak wpadnie ci w łapki jakaś lepsza butelczyna, to mogę ci skołować coś fajnego.
+		\n \nCo powiesz na to: daję 4 magazynki 9x18, dwa 5.45x39 mm, dwa 5.56x45 mm lub również dwa, ale amunicji kalibru 9x39 mm za pięć kolejek Nemiroffa.
+		\n \nZa dziesięć kolejek dam ci magazynek 7.62 mm 7N1 albo trzy pudełka amunicji 12x70 do śrutówki, cztery magazynki 5.45x39 mm, cztery magazynki 5.56x45 mm lub cztery magazynki amunicji kalibru 9x39 mm - twój wybór.
+		\n \nZa piętnaście kolejek, znaczy: za niemal 5 pełnych butelek plus 7.000 RU dostaniesz dziewięćdziesiąt nabojów przeciwpancernych 7.62x54 mm PP. Wiesz, że takie pestki to droga sprawa...
+		\n \nNa końcu towar flagowy: za dwadzieścia kolejek mogę ci odpalić zestaw narzędzi podstawowych. Nie patrz na mnie tak spode łba, nie jestem takim zdziercą, jak myślisz - nie ukradłem ich, po prostu leżały w namiocie niedaleko Kordonu jakiś czas temu. Zachowałem je od tamtego dnia. W każdym razie, nie myśl, że robię to wszystko dla siebie. Staram się wysyłać większość butelek do Janowa dla chłopaków. Rozmawiasz po prostu ze skromnym detalistą.</text>
+	</string>
+	<string id="meet_povar_army_4">
+		<text>Rozważę to. Dzięki na razie.</text>
+	</string>
+
+	<string id="barter_povar_army_0">
+		<text>Przyniosłem trochę szkła.</text>
+	</string>
+	<string id="barter_povar_army_1">
+		<text>No i bardzo dobrze zrobiłeś! To jak, chcesz coś konkretnego?</text>
+	</string>
+	<string id="barter_povar_army_2">
+		<text>Cztery magazynki 9x18.</text>
+	</string>
+	<string id="barter_povar_army_3">
+		<text>Dwa magazynki 5.45x39 mm.</text>
+	</string>
+	<string id="barter_povar_army_3_2">
+		<text>Dwa magazynki 5.56x45 mm.</text>
+	</string>
+	<string id="barter_povar_army_3_3">
+		<text>Dwa magazynki 9x39 mm.</text>
+	</string>
+	<string id="barter_povar_army_4">
+		<text>Cztery magazynki 5.45x39 mm.</text>
+	</string>
+	<string id="barter_povar_army_4_2">
+		<text>Cztery magazynki 5.56x45 mm.</text>
+	</string>
+	<string id="barter_povar_army_4_3">
+		<text>Cztery magazynki 9x39 mm.</text>
+	</string>
+	<string id="barter_povar_army_5">
+		<text>Trzy pudełka 12x70 śrutowych.</text>
+	</string>
+	<string id="barter_povar_army_6">
+		<text>Magazynek amunicji 7.62 mm 7N1.</text>
+	</string>
+	<string id="barter_povar_army_7">
+		<text>Trzy magazynki przeciwpancernych do PKP.</text>
+	</string>
+	<string id="barter_povar_army_8">
+		<text>Narzędzia podstawowe.</text>
+	</string>
+	<string id="barter_povar_army_10">
+		<text>Proszę bardzo, trzymaj.</text>
+	</string>
+	<string id="barter_povar_army_11">
+		<text>Doooobrze... O, mam, proszę.</text>
+	</string>
+	<string id="barter_povar_army_12">
+		<text>Hmmm, nieźle. Oto twój towar.</text>
+	</string>
+	<string id="barter_povar_army_13">
+		<text>Pomyślnych łowów, stalkerze!</text>
+	</string>
+	<string id="barter_povar_army_14">
+		<text>No, niezły wybór..</text>
+	</string>
+	<string id="barter_povar_army_15">
+		<text>Nie mogę się doczekać, aby usłyszeć słodką muzykę, którą twoja broń będzie grać z nimi w magazynku.</text>
+	</string>
+	<string id="barter_povar_army_16">
+		<text>Trzymaj.</text>
+	</string>
+	<string id="barter_povar_army_9">
+		<text>Baw się dobrze z tą wódką. Ja na pewno będę się dobrze bawić z prezentami od ciebie!</text>
+	</string>
+
+	<string id="remember_dyx_barter_0">
+		<text>Przypomnij mi, co tam masz dobrego?</text>
+	</string>
+	<string id="remember_dyx_barter_1">
+		<text>Oto co mam: cztery magazynki 9x18 mm za pięć kolejek Nemiroffa, dwa magazynki 5.45x39 mm za pięć kolejek, dwa magazynki 5.56x45 mm za pięć kolejek, dwa magazynki 9x39 mm za pięć kolejek. Dalej - cztery magazynki 5.45x39 mm za dziesięć kolejek, cztery magazynki 5.56x45 mm za dziesięć kolejek, również cztery magazynki amunicji 9x39 mm za dziesięć kolejek, trzy paczki śrutowych 12x70 za dziesięć kolejek lub jeden magazynek 7.62x54 7N1 za dziesięć kolejek. Za 5 pełnych flaszek Nemiroffa i 7.000 RU daję trzy magazynki przeciwpancernych do PKP.\nGdy zgromadzisz 20 kolejek czyli około siedmiu pełnych flaszek - daję ci narzędzia podstawowe. Nie patrz na mnie tak spode łba, nie jestem takim zdziercą, jak myślisz - nie ukradłem ich, po prostu leżały w namiocie niedaleko Kordonu jakiś czas temu. Zachowałem je od tamtego dnia. Wiem, że przydadzą się komuś takiemu jak ty!</text>
+	</string>
+
+
+<!-- Kruglov -->
+	<string id="yan_ecolog_kruglov_start_dialog_1">
+		<text>Witaj, stalkerze.</text>
+	</string>
+
+	<!-- yan_ecolog_semenov -->
+	<string id="yan_ecolog_semenov_start_dialog_1">
+		<text>A, stalker. Czego chcesz?</text>
+	</string>
+	<string id="yan_ecolog_semenov_start_dialog_yan_ecolog_semenov_task_1">
+		<text>Nadal mam niekompletne dane. Chodźmy, polowanie na mutanty czeka.</text>
+	</string>
+
+	<!-- yan_ecolog_vasilyev -->
+	<string id="yan_ecolog_vasilyev_start_dialog_1">
+		<text>Witaj stalkerze.</text>
+	</string>
+	
+
+<!-- Sakharov -->
+	<string id="st_yan_saharov_message_free_upgrade">
+		<text>Uratowałeś nas wszystkich, stalkerze! Gdyby nie twoja pomoc, to kto wie, co by się stało z całym bunkrem, kto wie... Jako wyraz wdzięczności przyjmij darmową modyfikację twojego hełmu psionicznego!</text>
+	</string>
+	<string id="yan_stalker_sakharov_start_1">
+		<text>Witaj, stalkerze. Co cię do nas sprowadza?</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_brain_scorcher">
+		<text>Co możecie mi opowiedzieć o Mózgozwęglaczu i Machinie Cudów, profesorze?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_brain_scorcher">
+		<text>Hmm, cóż... wciąż musimy się wiele nauczyć, ale przypuszczam, że nie zaszkodzi mi podzielić się z wami tym, co wiemy. Mózgozwęglacz wydaje się emitować inwazyjną częstotliwość, która wpływa na umysł każdego, kto znajdzie się zbyt blisko centrum Prypeci, CEA lub z niewłaściwej strony Czerwonego Lasu, a nawet Limańska. Objawy obejmują migrenę, halucynacje, widzenie tunelowe i, nie brzmiąc nieprofesjonalnie, zombifikację. Gdybym miał dokonać naukowej oceny, zidentyfikowałbym Mózgozwęglacz jako zdalny przekaźnik psioniczny, choć musiałbym przeprowadzić bardziej inwazyjne badania, zanim sformułuję pełną konkluzję. Machina Cudów lub "Laboratorium z mózgiem" ma natomiast bardzo podobne cechy i emituje fale psioniczne, jednak ich natura wydaje się bardziej zbliżona do biologicznie emitowanych fal psi, takich jak te, które mogą wykazywać niektóre mutanty.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_psi_helmet">
+		<text>Profesorze, potrzebuję hełmu psionicznego. Moje sprawy wymagają przejścia przez obszary działania Mózgozwęglacza i Machiny Cudów, a bez hełmu nie dam rady tego zrobić.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet">
+		<text>Zakładam, że rozumiesz, z jakim ryzykiem wiąże się wejście na taki niestabilny psionicznie obszar? Hmm, w zasadzie, skoro pytasz o hełm, to mniemam, że chyba rozumiesz.\n \nCóż, mam tu model hełmu psionicznego, nad którym solidnie się napracowałem... W każdym razie na papierze wszystko powinno działać i został on odpowiednio skalibrowany pod kątem emisji psionicznych Machiny Cudów i Mózgozwęglacza. Nikt jednak nie był jednak jeszcze na tyle szalony, by przetestować go w terenie... No... był jeden asystent, który wypróbował wczesny, nieskalibrowany model... ale to już historia na kiedy indziej.\n\nMógłbym oddać ci ten hełm psioniczny już teraz za skromną sumę 30 000 rubli.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet_free">
+		<text>Zakładam, że rozumiesz, z jakim ryzykiem wiąże się wejście na taki niestabilny psionicznie obszar? Hmmm, w zasadzie, skoro pytasz o hełm, to mniemam, że chyba rozumiesz.\n \nCóż, mam tu model hełmu psionicznego, nad którym solidnie się napracowałem. Problem w tym, że do dopracowania brakuje końcowych kalibracji.\n \nPowinien chronić cię przed emisjami psionicznymi otoczenia, ale chciałbym to wystarczająco podkreślić: ryzykowałbyś życie, korzystając z nieskalibrowanego sprzętu.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_1">
+		<text>Spieszę się, wezmę prototyp.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_1">
+		<text>Skoro nalegasz... ale obawiam się, że twoje zadania mogą okazać się zbyt niebezpieczne dla sprzętu, który nie jest w idealnym stanie operacyjnym.... A, byłbym zapomniał - gdybyś się jednak zdecydował na końcowe kalibracje hełmu - zawsze możesz go nam dostarczyć. Gdybyś miał wrażenie, że coś jest z nim nie tak, kieruj się prosto do naszego bunkra. Pola psioniczne bywają zdradliwe i czuł bym się źle na sumieniu, gdybym usłyszał, że zginąłeś w jednym z takich pól, a to przez moją niedokończoną pracę.\n \nW każdym razie jeżeli nie chcesz, żebym kończył kalibrację to za hełm poproszę 20.000 RU.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_2">
+		<text>Oto pieniądze. Dziękuję panu, profesorze.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_2">
+		<text>Drobiazg. Wolałbym chyba jednak, abyś go najpierw sobie przetestował. Mam pomysł! Mógłbyś go sprawdzić, wyłączając emiter psioniczny w laboratorium leżącym na północ stąd. Miejmy nadzieję, że hełm wystarczająco ochroni twoją głowę...</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_3">
+		<text>Myślę, że lepiej będzie, jak skończycie pracę. Skalibrujcie, proszę, ten hełm do końca.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_3">
+		<text>Mądra decyzja. Nawet nie wiesz, jaka to ulga dla mnie i moich kolegów. znacznie zmniejszy ryzyko wystąpienia u ciebie psychozy, amnezji lub ogólnego szaleństwa podczas badania zjawisk psionicznych w Zonie.\n \nSkoro już zapewniłeś finansowe wsparcie naszym badaniom - końcowa kalibracja będzie cię kosztować 10.000 RU i będziesz musiał zaczekać do dwóch dni.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_1">
+		<text>Lepiej, żeby działał, bo inaczej zjem was żywcem, gdy tylko zostanę zombifikowany profesorze, przysięgam...</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1">
+		<text>Z całą pewnością będzie! Nosząc to urządzenie świetlne, będziesz mógł wędrować po terenie zagarniętym przez Machinę Cudów i Mózgozwęglacz bez narażania się na degradację psychiczną spowodowaną ich emisjami. Nie jestem jednak pewien, czy jest ono w stanie pomóc ci w pokonaniu bariery psionicznej zarówno Mózgozwęglacza, jak i wcześniej wymienionej Machiny Cudów, które oddziałują na teren Czerwonego Lasu i dalej na północ. Pamiętaj, że z naszych najnowszych pomiarów wynika, że urządzenie nie ochroni cię przed innymi falami psionicznymi, takimi jak te emitowane przez fantomy, które można napotkać w pobliżu Machiny Cudów, zgodnie z tym, co zgłosili moi asystenci. Ich częstotliwości są zbyt zróżnicowane, by takie urządzenie mogło im przeciwdziałać, jedynym sposobem wydają się artefakty... lub niezdrowe ilości otępiających umysł narkotyków. Może Wolnościowcy pomogą ci z tym drugim?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1_free">
+		<text>Z całą pewnością będzie! Gdy tylko dokończę prace nad tym hełmem, będziesz mógł przemierzać Zonę bez przeszkód, bez ryzyka urazów mentalnych, ponieważ twój hełm psioniczny będzie naprawdę dopracowany.\n \nSłuchaj, stalkerze, normalnie ten hełm kosztował by cię 30.000 RU, ale gdy byliśmy w tarapatach, ty pomogłeś nam z własnej woli i bez zbędnych pytań... Zatem bez wahania mogę przekazać ci ten hełm jako dar od nas. Niech ci dobrze służy.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_2">
+		<text>W porządku, oto pieniądze profesorze. Co do narkotyków i artefaktów, będę o tym pamiętał, wielkie dzięki.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_2">
+		<text>Dziękuję, stalkerze. Oto urządzenie i... powodzenia. Twoja pomoc w wyłączeniu Machiny Cudów i Mózgozwęglacza była bardzo cenna i bardzo pomoże nam w naszych badaniach.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_3">
+		<text>Czy hełm jest już gotowy?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3">
+		<text>Tak, oto i on! Proszę. Wolałbym chyba jednak, abyś go najpierw sobie przetestował. Mam pomysł! Mógłbyś go sprawdzić, wyłączając emiter psioniczny w laboratorium leżącym na północ stąd. Mogę z całą pewnością powiedzieć, że moja praca będzie dobrze strzegła twojej świadomości.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3_1">
+		<text>Jeszcze nad nim pracuję. Proszę, przyjdź później.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_3_1">
+		<text>Muszę się nad tym zastanowić.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_3_1">
+		<text>Dobrze. Bez obaw. Zatrzymamy hełm psioniczny na później.</text>
+	</string>
+	
+	<string id="st_yan_stalker_sakharov_life_ask">
+		<text>Jakieś interesujące nowości w świecie nauki?</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_1">
+		<text>Oczywiście! Artefakt Gwiazda wieczorna, niezależnie od swoich właściwości, gdy znajduje się "na wolności", zaczyna nabierać ciekawych cech antybalistycznych, gdy jest wystawiony na działanie odpowiednich warunków laboratoryjnych. Za kilka lat możemy być świadkami spektakularnych postępów w technologiach takich jak pancerze czy kevlarowe płyty.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_2">
+		<text>Oj tak! Badanie próbek tkanek różnych humanoidalnych mutantów było pouczającą praktyką. Społeczność naukowa wciąż nie jest pewna, co spowodowało, że pijawki stają się niewidzialne, a snorki rozwinęły swoją słynną elastyczność. Im więcej dowiemy się o przyczynach i naturze tych mutacji, tym dokładniej będziemy w stanie przewidzieć ścieżkę ewolucji ludzkości! Czyż to nie ekscytujące?</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_3">
+		<text>Ostatnio przeprowadziliśmy fascynującą serię eksperymentów na pijawkach, które ujawniły, że... Właściwie, po szybkim namyśle, to chyba lepiej, żebyś nie wiedział...</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_4">
+		<text>Jako intelektualista na pewno to docenisz: nasze badania odkryły, że tak zwane "oko" mięsacza jest wyposażone nie tylko w fotoreceptory... ale także w receptory węchowe!\n \nOne nie tylko widzą oczami - one także nimi wąchają!\n \nKto by pomyślał, że zwykła świnia pewnego dnia zmutuje w istotę wyposażoną w najbardziej niezwykłą formę synestezji? Taką, która jest spowodowana nie tylko przez okablowanie krzyżowe w mózgu, ale także przez zmiany w narządach zmysłów!</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_5">
+		<text>Oczywiście! Po latach badań nad różnymi częściami mutantów, jesteśmy coraz bliżej komercjalizacji organów i tkanek, takich jak oczy mięsaczy, ścięgna snorków czy włókna mięśniowe nibyolbrzymów do bardziej kontrowersyjnych celów. Widziałeś najnowszą partię próbek? Przeszczepiamy chirurgicznie tak wiele, jak tylko możemy, wszystkim naszym ochotniczym asystentom. Wraz z dalszym rozwojem, moglibyśmy zapoczątkować coś szalonego!</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_6">
+		<text>Stwierdzenie, że Zona pomogła w moich badaniach byłoby niedopowiedzeniem.  Dokonane przez nas odkrycia znacznie zwiększyły moją wiarygodność jako naukowca. Być może jednym z moich największych osiągnięć był wspólny wysiłek: wraz z moimi kolegami z powodzeniem zsyntetyzowaliśmy rzadki artefakt Błona w kontrolowanych warunkach laboratoryjnych - to przełom zasługujący na Nagrodę Nobla!\n \nNiestety, natura artefaktów ewoluowała niezależnie od tego czasu, jakby opierając się naszym badaniom. Pomimo naszego wielkiego osiągnięcia, minie jeszcze sporo czasu, zanim będziemy w stanie ponownie skutecznie syntetyzować potężniejsze artefakty.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_7">
+		<text>Jest taki jeden mój kolega - profesor Brenter - który dość intensywnie bada wpływ zmutowanych białek na ludzkie ciało. Badając stalkerów, którzy zjedli zmutowane mięso - takich jak klienci baru 100 Radów  i dokumentując to, co robią, aby zapobiec najgorszym skutkom, nasz wgląd w przeciwdziałanie szkodom, jakie promieniowanie pozostawia w ciele, wzrasta.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_8">
+		<text>Ach tak! Czy słyszałeś o artefakcie Jeżowiec? Początkowo sądziliśmy, że odtworzenie takiego cudu w warunkach laboratoryjnych będzie nierealne do co najmniej 2022 roku, ze względu na jego krytyczną stabilność. Być może jednak uda nam się złamać tajemnicę przed terminem.\n \nTeraz mamy chyba na to najlepszy moment: coraz trudniej jest je znaleźć naturalnie w Zonie, a każdy z nich jest niezbędny do tworzenia silnych kombinezonów antyradiacyjnych i leków.\n \nPrawdopodobnie wielokrotnie korzystałeś z wyników naszych eksperymentów z Jeżowcami, jeśli się nad tym zastanowić. Trudno wyobrazić sobie profesjonalnego eksploratora Zony, który w pewnym momencie swojego życia nie korzystał z naszych zaawansowanych kombinezonów i serum chroniących przed promieniowaniem.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_9">
+		<text>Co? Przykro mi, ale nie chcę dziś dalej dyskutować o cudach Zony. Moje nerwy są zszargane przez te wszystkie ujadania i pazury, które słyszałem na zewnątrz bunkra zeszłej nocy i ledwo mogę się skoncentrować. Może byłbyś zainteresowany zakupem sprzętu naukowego albo sprawdzeniem, czy któryś z moich kolegów nie potrzebuje pomocy?</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_10">
+		<text>Wiele lat temu nasze zrozumienie grawitacji było na tyle duże, że byliśmy w stanie rozpocząć prace nad pierwszymi napędami repulsorowymi i jonowymi.\n \nJednak bez stałego napływu artefaktów, które stalkerzy przynosili z anomalii grawitacyjnych, takie odkrycia nigdy nie byłyby możliwe za naszego życia. Minie jeszcze wiele lat, zanim nasze odkrycia staną się publicznie dostępne, ale nie można zaprzeczyć, że stalkerzy pomogli nauce utorować sobie drogę powrotną do gwiazd!\n \nŚmiem nawet stwierdzić, że skoro niektóre anomalie grawitacyjne - takie jak Wir - są znane społeczności naukowej jako ściskające samą przestrzeń kosmiczną, to być może z czasem teleportacja również przestanie być fantazją! Ach, ale się zapędziłem...</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_11">
+		<text>Dziedzina energetyki znacznie skorzystała na naszych badaniach w Zonie. Zaczęliśmy dyskretnie wprowadzać artefakty Blask księżyca - a także wyspecjalizowane urządzenia zaprojektowane w celu bezpiecznego wykorzystania anomalnej energii - do wybranych elektrowni w całym kraju. Po dalszym udoskonaleniu mogłyby one potencjalnie całkowicie zastąpić paliwa kopalne dla przyszłych pokoleń.\n \nZ czasem możemy spróbować tego samego ze znacznie potężniejszymi artefaktami na przykład z Baterią. Moi koledzy szacują, że nawet pojedyncza Bateria jest w stanie wytworzyć moc przekraczającą moc trzech reaktorów jądrowych! Oczywiście, mając do czynienia z tak niesamowitą mocą, musimy być powolni i ostrożni w naszych eksperymentach.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_end">
+		<text>Ostatnio nie wydarzyło się w tym świecie nic szczególnie interesującego.</text>
+	</string>
+
+	<!-- yan_merc_guards -->
+	<string id="yan_merc_guards_start_2">
+		<text>Nie teraz, jestem na służbie. Porozmawiaj raczej z Sokołem lub jednym z jajogłowych, jeśli czegoś potrzebujesz.</text>
+	</string>
+	<string id="yan_merc_guards_start_3">
+		<text>Lepiej mów szybko o co chodzi. Nie chciałbym, żeby snorki przyłapały nas na pogawędce.</text>
+	</string>
+	<string id="yan_merc_guards_start_4">
+		<text>Te szepty z kompleksu na północy sprawiają, że aż bolą mnie zęby. Szkoda, że ten cholerny kucharz wypija cały zapas cholernego alkoholu...</text>
+	</string>
+</string_table>

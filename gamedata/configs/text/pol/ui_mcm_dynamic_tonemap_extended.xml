@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="ui_mcm_dynamic_tonemap_extended_title">
+		<text>Rozszerzone Dynamiczne bazowane czasowo Tonemapy</text>
+	</string>
+	<string id="ui_mcm_menu_dynamic_tonemap_extended">
+		<text>Tonemapy</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_enable_dynamic_tonemap">
+		<text>Włącz Dynamiczne Tonemapy</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_adaptation">
+		<text>Adaptacja Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_amount">
+		<text>Ilość współczynnika zmian Tonemapy</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_amount">
+		<text>Minimalna ilość dozwolonych Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_amount">
+		<text>Maksymalna dozwolona ilość Tonemap</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amount_addition">
+		<text>Ilość dodatkowego deszczu</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amount_addition_desc">
+		<text>Ilość wyników może wykraczać poza maksymalną dozwoloną tonemap, ale nigdy nie może być większa niż 1.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amount_addition">
+		<text>Ilość dodatków podczas burzy</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amount_addition_desc">
+		<text>Kwota wyniku może przekroczyć maksymalną dozwoloną wartość tonemap, ale nigdy nie może być większa niż 1.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lowlum">
+		<text>Wskaźnik zmian Tonemap Lowlum</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_clear_lowlum">
+		<text>Minimalna dozwolona ilość Tonemap Lowlum przy dobrej pogodzie</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_not_clear_lowlum">
+		<text>Minimalna dozwolona ilość Lowlum przy złej pogodzie</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_lowlum">
+		<text>Maksymalna ilość dozwolonych Tonemap Lowlum</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_lowlum_reduction_coeff">
+		<text>Minimalna ilość dozwolonych współczynników redukcji przy deszczu Tonemap Lowlum</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_lowlum_reduction_coeff_desc">
+		<text>Rezultatem lowlum będzie min_not_clear_lowlum * rain_lowlum_reduction_coeff</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_lowlum_reduction_coeff">
+		<text>Minimalny współczynnik redukcji Tonemap Lowlum podczas burzy</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_lowlum_reduction_coeff_desc">
+		<text>Rezultat lowlum będzie min_not_clear_lowlum * storm_lowlum_reduction_coeff</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_middle">
+		<text>Współczynnik zmiany Tonemap Middlegray</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_middle_gray">
+		<text>Minimalna dozwolona ilość Tonemap Middlegray</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_middle_gray">
+		<text>Maksymalna dozwolona ilość Tonemap Middlegray</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_amb">
+		<text>Współczynnik zmian Lumscale Ambient</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_amb_addition">
+		<text>Dodatkowy współczynnik Lumscale Ambient</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_amb_addition_desc">
+		<text>Dodatkowy współczynnik jest stosowany między godziną 9, a 13 dla wzrostu i 19, a 24 dla spadku.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_lumscale_amb">
+		<text>Minimalny dozwolony Lumscale Ambient</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_lumscale_amb">
+		<text>Maksymalny dozwolony Lumscale Ambient</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_amb_reduction_coeff">
+		<text>Modyfikator ambientu przy bezchmurnej pogodzie</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_amb_reduction_coeff_desc">
+		<text>Rezultatem będzie lumscale_amb * not_clear_amb_reduction_coeff</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amb_reduction_coeff">
+		<text>Modyfikator ambientu podczas deszczu</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_amb_reduction_coeff_desc">
+		<text>Rezultatem będzie lumscale_amb * rain_amb_reduction_coeff</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amb_reduction_coeff">
+		<text>Modyfikator ambientu podczas burzy</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_amb_reduction_coeff_desc">
+		<text>Rezultatem będzie lumscale_amb * storm_amb_reduction_coeff</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_hemi">
+		<text>Współczynnik zmian Lumscale Hemi</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_hemi_addition">
+		<text>Dodatkowy współczynnik Lumscale Hemi</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_k_lumscale_hemi_addition_desc">
+		<text>Dodatkowy współczynnik jest stosowany po godzinie 19 w celu kompensacji nadmiernego zaciemnienia wieczorami.</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_min_lumscale_hemi">
+		<text>Minimalny dozwolony Lumscale Hemi</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_max_lumscale_hemi">
+		<text>Maksymalny dozwolony Lumscale Hemi</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_hemi_reduction_coeff">
+		<text>Modyfikator Hemi przy złej pogodzie</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_not_clear_hemi_reduction_coeff_desc">
+		<text>Rezultatem będzie lumscale_hemi * not_clear_hemi_reduction_coeff</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_hemi_reduction_coeff">
+		<text>Modyfikator Hemi podczas deszczu</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_rain_hemi_reduction_coeff_desc">
+		<text>Rezultatem będzie lumscale_hemi * rain_hemi_reduction_coeff</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_hemi_reduction_coeff">
+		<text>Modyfikator Hemi Modifier podczas burzy</text>
+	</string>
+	<string id="ui_mcm_dynamic_tonemap_extended_storm_hemi_reduction_coeff_desc">
+		<text>Rezultatem będzie lumscale_hemi * storm_hemi_reduction_coeff</text>
+	</string>
+</string_table>

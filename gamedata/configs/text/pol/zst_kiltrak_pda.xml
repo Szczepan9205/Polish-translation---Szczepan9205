@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="st_pda_3_name">
+		<text>PDA (Wersja 3.1) z aplikacją KilTrak™</text>
+	</string>
+	<string id="st_pda_3_descr">
+		<text>Kieszonkowe urządzenie elektroniczne obejmujące podstawowe i najważniejsze funkcje komputera. PDA jest niezbędne do codziennej wymiany informacji. Jest dostarczany z pre-instalowanym modułem GPS, aby zapewnić użytkownikowi informacje o geolokalizacji i czasie. Moduł w tej wersji został znacznie ulepszony, aby pobierać i przetwarzać pozycję innych modułów podłączonych do sieci, co czyni ten model PDA atrakcyjnym wśród stalkerów. W przeciwieństwie do zwykłych modułów GPS, ten opiera się na zestawach kodów, które pozwalają modułowi uzyskać specjalne uprawnienia na podłączonym kanale, aby uzyskać więcej informacji.\n \nTo konkretne urządzenie jest również w stanie zlokalizować martwe ciała celów wyeliminowanych przez właściciela, ponieważ ktoś zhakował je i zainstalował piracką wersję oprogramowania IMI KilTrak.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] Urządzenie technologiczne\n
+		%c[d_blue] • %c[ui_gray_2] Niskie zużycie energii elektrycznej\n
+		%c[d_purple] • %c[ui_gray_2] Pokazuje lokalizację pobliskich oddziałów neutralnych i zneutralizowanych celów.\n
+		</text>
+	</string>
+</string_table>

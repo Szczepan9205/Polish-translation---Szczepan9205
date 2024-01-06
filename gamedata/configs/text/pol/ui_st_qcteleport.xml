@@ -1,0 +1,11 @@
+<string_table>
+	<string id="ui_mcm_qcteleport_title">
+		<text>Szybki teleport towarzysza</text>
+	</string>
+	<string id="ui_mcm_menu_qcteleport">
+	<text>Teleport towarzysza</text>
+	</string>
+		<string id="ui_mcm_qcteleport_qcteleportkeybind">
+	<text>Klawisz teleportu</text>
+	</string>
+</string_table>

@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+    <string id="ah_ecolog">
+        <text>Badacze</text>
+    </string>
+
+    <string id="Quest1_desc">
+        <text>Opis zadania</text>
+    </string>
+    <string id="Quest1_title">
+        <text>Tytuł pierwszego zadania</text>
+    </string>
+    
+    <string id="ah_redirect_to_kovalev_quest_title">
+        <text>Badacze: znajdź Profesora Kowalewa na Wielkich Bagnach</text>
+    </string>
+    <string id="ah_redirect_to_kovalev_quest_desc">
+        <text>Otrzymałem informację, że profesor Kowalew potrzebuje pomocy w swoich badaniach na Wielkich Bagnach. Powinienem go szukać w Starej Cerkwi na południu bagien.</text>
+    </string>
+
+    <string id="ah_redirect_to_markov_quest_title">
+        <text>Badacze: znajdź profesora Markowa na Jantarze</text>
+    </string>
+    <string id="ah_redirect_to_markov_quest_desc">
+        <text>Teraz powinienem znaleźć profesora Markowa. Powinien być gdzieś w pobliżu bunkra naukowców w Jantarze.</text>
+    </string>
+
+	<string id="ah_redirect_to_pirogov_quest_title">
+        <text>Badacze: znajdź doktora Pirogowa</text>
+    </string>
+    <string id="ah_redirect_to_pirogov_quest_desc">
+        <text>Doktor Pirogow otrzymał zadanie zbadania Doliny Mroku. Powinienem sprawdzić, czy wciąż żyje.</text>
+    </string>
+
+    <string id="ah_redirect_to_chernov_quest_title">
+        <text>Badacze: znajdź profesora Czernowa</text>
+    </string>
+    <string id="ah_redirect_to_chernov_quest_desc">
+        <text>Teraz muszę odnaleźć starszego profesora Czernowa, którego ostatni raz widziano w opuszczonej ruderze na północy Magazynów Wojskowych.</text>
+    </string>
+
+    <string id="ah_redirect_to_juk_quest_title">
+        <text>Badacze: znajdź profesora Żuka</text>
+    </string>
+    <string id="ah_redirect_to_juk_quest_desc">
+        <text>Aby otrzymać kolejne zadanie, powinienem porozmawiać z profesorem Żukiem. Znajdę go gdzieś w pobliżu stacji kolejowej Janów na Jupiterze. </text>
+    </string>   
+
+    <string id="ah_redirect_to_vorobushkin_quest_title">
+        <text>Badacze: znajdź profesora Worobuszkina</text>
+    </string>
+    <string id="ah_redirect_to_vorobushkin_quest_desc">
+        <text>Profesor Worobuszkin stacjonuje w Leśniczówce. Muszę go odnaleźć, aby móc dalej pomagać zespołowi badawczemu.</text>
+    </string>   
+
+    <string id="ah_redirect_to_skabinsky_quest_title">
+        <text>Badacze: znajdź profesora Skabińskiego</text>
+    </string>
+    <string id="ah_redirect_to_skabinsky_quest_desc">
+        <text>Profesor Worobuszkin powiedział mi, że szef operacji, profesor Skabiński, wyruszył już dalej i obecnie znajduje się gdzieś w północnej części CEA. Nie wiem, jak udało mu się tam dostać, ale muszę go szybko znaleźć.</text>
+    </string>       
+
+    <string id="ah_fail_skabinsky_quest_title">
+        <text>Badacze: znajdź profesora Skabińskiego</text>
+    </string>
+    <string id="ah_fail_skabinsky_quest_desc">
+        <text>Obliczenia profesora Worobuszkina są wciąż nie są pełne, choć wydają się wskazywać na anomalię Popielisko. Muszę znaleźć profesora Skabińskiego, który już wyruszył naprzód i czeka tam na mnie.</text>
+    </string>   
+    
+    <string id="ah_kovalev_quest1_title">
+        <text>Badacze: przynieś profesorowi Kowalewowi trzy anomalne próbki</text>
+    </string>
+    <string id="ah_kovalev_quest1_desc">
+        <text>Zespół badawczy na Bagnach poszukuje obecnie próbek z niektórych anomalnych pól. Profesor Kowalew poprosił mnie o przyniesienie trzech z nich.</text>
+    </string>   
+    <string id="ah_bol_o1_title">
+        <text>Badacze: znajdź próbkę w anomalii Fermi</text>
+    </string>
+    <string id="ah_bol_o1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Fermi.</text>
+    </string>       
+    <string id="ah_bol_o2_title">
+        <text>Badacze: znajdź próbkę w anomalii Bagienny wąwóz</text>
+    </string>
+    <string id="ah_bol_o2_desc">
+        <text>Jedna z próbek znajduje się w anomalii Bagienny Wąwóz.</text>
+    </string>       
+    <string id="ah_bol_g1_title">
+        <text>Badacze: znajdź próbkę w anomalii Błotna Dama</text>
+    </string>
+    <string id="ah_bol_g1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Błotna Dama.</text>
+    </string>       
+    
+    <string id="ah_bol_e1_title">
+        <text>Badacze: znajdź próbkę w anomalii Gromowisko</text>
+    </string>
+    <string id="ah_bol_e1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Gromowisko.</text>
+    </string>  
+
+    <string id="ah_kovalev_quest2_title">
+        <text>Badacze: przynieś profesorowi Kowalewowi jego laptopa i trzy anomalne próbki</text>
+    </string>
+    <string id="ah_kovalev_quest2_desc">
+        <text>Profesor Kowalew prowadził badania terenowe w Agropromie, ale jego zespół wpadł w zasadzkę podczas pracy. Muszę znaleźć laptop, który zostawił w miejscu ataku i sprawdzić znajdujące się na nim dane. Powinno mi to powiedzieć, które anomalie powinienem przeskanować w poszukiwaniu próbek.</text>
+    </string>   
+    <string id="ah_agr_pda_title">
+        <text>Badacze: znajdź laptop Kowalew a w pobliżu anomalii Nerwojeb</text>
+    </string>
+    <string id="ah_agr_pda_desc">
+        <text>Laptop powinien znajdować się na drugim piętrze budynku, w którym zaatakowano naukowców. Aby go zdobyć, będę musiał przebrnąć przez anomalie elektryczne i pole psioniczne.</text>
+    </string>   
+    <string id="ah_agr_none_title">
+        <text>Badacze: znajdź próbkę. Lokalizacja nieznana.</text>
+    </string>
+    <string id="ah_agr_none_desc">
+        <text>Dokładną lokalizację można znaleźć na laptopie Kowalewa.</text>
+    </string>       
+    <string id="ah_agr_g1_title">
+        <text>Badacze: znajdź próbkę w anomalii Skalne Szpony</text>
+    </string>
+    <string id="ah_agr_g1_desc">
+        <text>Dziwna anomalia grawitacyjna. Wygląda na to, że można się na nią wspiąć.</text>
+    </string>       
+    <string id="ah_agr_g2_title">
+        <text>Badacze: znajdź próbkę w anomalii Trzęsitrawa</text>
+    </string>
+    <string id="ah_agr_g2_desc">
+        <text>Jedna z próbek znajduje się w anomalii Trzęsitrawa.</text>
+    </string>   
+    <string id="ah_agr_h1_title">
+        <text>Badacze: znajdź próbkę w anomalii Kojec</text>
+    </string>
+    <string id="ah_agr_h1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Kojec.</text>
+    </string>   
+
+    <string id="ah_markov_quest1_title">
+        <text>Badacze: przynieś profesorowi Markowowi trzy anomalne próbki.</text>
+    </string>
+    <string id="ah_markov_quest1_desc">
+        <text>Profesor Markow znajdujący się na Jantarze poprosił mnie o przeskanowanie trzech anomalii moim skanerem i zwrócenie uwagi na wszelkie nietypowe artefakty, które mogę znaleźć.</text>
+    </string>   
+    <string id="ah_yan_o1_title">
+        <text>Badacze: znajdź próbkę w anomalii Ognisko</text>
+    </string>
+    <string id="ah_yan_o1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Ognisko.</text>
+    </string>       
+    <string id="ah_yan_h1_title">
+        <text>Badacze: znajdź próbkę w anomalii Kwaśnica</text>
+    </string>
+    <string id="ah_yan_h1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Kwaśnica.</text>
+    </string>       
+    <string id="ah_yan_h2_title">
+        <text>Badacze: znajdź próbkę w anomalii Gruzowisko</text>.
+    </string>
+    <string id="ah_yan_h2_desc">
+        <text>Jedna z próbek znajduje się w anomalii Gruzowisko. Będę potrzebował ochrony przed polem psionicznym, aby ją zdobyć.</text>
+    </string>       
+    
+    <string id="ah_markov_quest2_title">
+        <text>Badacze: przynieś Markowowi trzy artefakty z Dziczy</text>
+    </string>
+    <string id="ah_markov_quest2_desc">
+        <text>Profesor Markow zlecił mi rozszerzenie obecnego obszaru poszukiwań. Mam przeskanować trzy różne lokacje na terenie Dziczy.</text>
+    </string>   
+    <string id="ah_dt_o1_title">
+        <text>Badacze: znajdź próbkę w Radioaktywnym Warsztacie</text>
+    </string>
+    <string id="ah_dt_o1_desc">
+        <text>Ta anomalia nie jest wymieniona na mapie. Warsztat znajduje się tuż przed punktem kontrolnym przed Rostokiem i jest wysoce radioaktywny.</text>
+    </string>       
+    <string id="ah_dt_e1_title">
+        <text>Badacze: znajdź próbkę w anomalii Kolejka Elektryczna</text>
+    </string>
+    <string id="ah_dt_e1_desc">
+        <text>Ta anomalia jest elektryczna, więc powinienem pamiętać o zabraniu wystarczającej ilości śrub.</text>
+    </string>       
+    <string id="ah_dt_e2_title">
+        <text>Badacze: znajdź próbkę w anomalii Gordon</text>
+    </string>
+    <string id="ah_dt_e2_desc">
+        <text>Ta anomalia znajduje się w podziemnym tunelu. Słyszałem, że istnieje bezpieczna droga przez niego...</text>
+    </string>   
+
+    <string id="ah_markov_quest3_title">
+        <text>Badacze: przynieś profesorowi Markowowi trzy artefakty z okolic laboratorium X-16</text>
+    </string>
+    <string id="ah_markov_quest3_desc">
+        <text>Mam znaleźć trzy artefakty w pobliżu obszaru wokół starego laboratorium X-16. Ze względu na Maszynę Cudów będzie to niemożliwe bez odpowiedniej ochrony psionicznej. Profesor Sacharow powinien być w stanie mi w tym pomóc.</text>
+    </string>   
+    <string id="ah_yan_e1_title">
+        <text>Badacze: znajdź próbkę w anomalii Tesla</text>
+    </string>
+    <string id="ah_yan_e1_desc">
+        <text>To jest anomalia elektryczna, więc powinienem zabrać ze sobą wystarczającą ilość śrub.</text>
+    </string>       
+    <string id="ah_yan_e2_title">
+        <text>Badacze: znajdź próbkę w anomalii Edison</text>
+    </string>
+    <string id="ah_yan_e2_desc">
+        <text>Mój detektor powinien pomóc mi znaleźć próbkę.</text>
+    </string>       
+    <string id="ah_yan_g1_title">
+        <text>Badacze: znajdź próbkę gdzieś w fabryce</text>
+    </string>
+    <string id="ah_yan_g1_desc">
+        <text>Żaden z badaczy nie dotarł tak daleko w głąb fabryki, jednak skany wskazują na silną anomalną aktywność. Powinienem być ostrożny.</text>
+    </string>   
+
+    <string id="ah_pirogov_quest1_title">
+        <text>Badacze: przynieś kandydatowi Pirogowowi trzy anomalne próbki z Doliny Mroku</text>
+    </string>
+    <string id="ah_pirogov_quest1_desc">
+        <text>Profesor Pirogow poprosił mnie o sprawdzenie dla niego trzech różnych anomalii w Dolinie Mroku. Powinienem być ostrożny, gdyż mutanty i bandyci często grasują w tej okolicy.</text>
+    </string>   
+    <string id="ah_td_o1_title">
+        <text>Badacze: znajdź próbkę w tunelu z anomalią Kometa</text>
+    </string>
+    <string id="ah_td_o1_desc">
+        <text>Ciekawa anomalia, którą zbadało niewiele osób. Znajduje się na końcu długiego tunelu z anomalią Kometa w środku. Wejście znajduje się w pobliżu bazy bandytów na północy.</text>
+    </string>       
+    <string id="ah_td_o2_title">
+        <text>Badacze: znajdź artefakt w anomalii Wrota Hadesu</text>
+    </string>
+    <string id="ah_td_o2_desc">
+        <text>Mój skaner powinien pomóc mi znaleźć próbkę.</text>
+    </string>       
+    <string id="ah_td_e1_title">
+        <text>Badacze: znajdź artefakt w anomalii Gorąca Kąpiel</text>
+    </string>
+    <string id="ah_td_e1_desc">
+        <text>Anomalia Gorąca Kąpiel znajduje się w bazie bandytów, więc jeśli nie chcę podburzać wszystkich bandytów, powinienem spróbować przekraść się do środka.</text>
+    </string>       
+    
+    <string id="ah_pirogov_quest2_title">
+        <text>Badacze: Przynieś kandydatowi Pirogowowi trzy próbki z Cmentarzyska Pojazdów</text>
+    </string>
+    <string id="ah_pirogov_quest2_desc">
+        <text>Podążając dalej na północ, Pirogow poprosił mnie o sprawdzenie Cmentarzyska Pojazdów. Podobnie jak Dolina Mroku, obszar ten roi się od mutantów i bandytów.</text>
+    </string>
+    <string id="ah_kt_g1_title">
+        <text>Badacze: znajdź próbkę w anomalii Zajezdnia</text>
+    </string>
+    <string id="ah_kt_g1_desc">
+        <text>Mój skaner powinien pomóc mi znaleźć próbkę.</text>
+    </string>       
+    <string id="ah_kt_o1_title">
+        <text>Badacze: znajdź próbkę w anomalii Zwęglisko</text>
+    </string>
+    <string id="ah_kt_o1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Zwęglisko.</text>
+    </string>       
+    <string id="ah_kt_h1_title">
+        <text>Badacze: znajdź próbkę w anomalii Kwaśna Kąpiel</text>
+    </string>
+    <string id="ah_kt_h1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Kwaśna Kąpiel.</text>
+    </string>   
+
+    <string id="ah_pirogov_quest3_title">
+        <text>Badacze: przynieś kandydatowi Pirogowowi PDA asystenta i dwie anomalne próbki</text>
+    </string>
+    <string id="ah_pirogov_quest3_desc">
+        <text>Asystent Pirogowa, który badał przede mną anomalie na Wysypisku, zaginął. Na jego PDA znajdowały się jednak dane skanowania wszystkich anomalii w okolicy. Muszę odnaleźć asystenta, odzyskać dane i pobrać próbki z anomalii, o których mowa.</text>
+    </string>   
+    <string id="ah_sv_pda_title">
+        <text>Badacze: znajdź zaginionego asystenta Pirogowa</text>
+    </string>
+    <string id="ah_sv_pda_desc">
+        <text>Najprawdopodobniej asystent wpadł w zasadzkę bandytów. Powiedziano mi, że jego ostatni zarejestrowany sygnał pochodził z Pchlego Targu, więc tam powinienem rozpocząć poszukiwania.</text>
+    </string>       
+    <string id="ah_sv_g1_title">
+        <text>Badacze: znajdź próbkę w anomalii Wiedźmi Kisiel</text>
+    </string>
+    <string id="ah_sv_g1_desc">
+        <text>Dość duża i toksyczna anomalia. To będzie trudne.</text>
+    </string>       
+    <string id="ah_sv_h1_title">
+        <text>Badacze: znajdź próbkę w anomalii Synapsa</text>
+    </string>
+    <string id="ah_sv_h1_desc">
+        <text>Mój skaner powinien pomóc mi znaleźć próbkę.</text>
+    </string>       
+    <string id="ah_sv_none_title">
+        <text>Badacze: pobierz dane skanowania z urządzenia PDA zaginionego stalkera</text>
+    </string>
+    <string id="ah_sv_none_desc">
+        <text>Dane skanowania wymagane do znalezienia anomalii, o których mowa, znajdują się na PDA zaginionego asystenta. Muszę go znaleźć.</text>
+    </string>       
+    
+    <string id="ah_chernov_quest1_title">
+        <text>Badacze: Przynieś profesorowi Czernowowi trzy artefakty z Magazynów Wojskowych</text>
+    </string>
+    <string id="ah_chernov_quest1_desc">
+        <text>Muszę znaleźć trzy różne artefakty i przynieść je profesorowi Czernowowi. To będzie prawdziwy sprawdzian umiejętności, ponieważ Magazyny Wojskowe to niebezpieczny obszar.</text>
+    </string>   
+    <string id="ah_mil_h1_title">
+        <text>Badacze: znajdź próbkę w anomalii Rozpuszczalnik</text>
+    </string>
+    <string id="ah_mil_h1_desc">
+        <text>Mój skaner powinien pomóc mi znaleźć próbkę.</text>
+    </string>       
+    <string id="ah_mil_g1_title">
+        <text>Badacze: znajdź próbkę w anomalii Ubijak</text>
+    </string>
+    <string id="ah_mil_g1_desc">
+        <text>Jedna z próbek znajduje się w anomalii Ubijak.</text>
+    </string>       
+    <string id="ah_mil_o1_title">
+        <text>Badacze: znajdź próbkę w południowej anomalii Ognisko Domowe.</text>
+    </string>
+    <string id="ah_mil_o1_desc">
+        <text>Zaciekła anomalia, promieniująca silnym ciepłem i najeżona minami palnikowymi. Powinienem wydostać się stamtąd jak najszybciej, gdy tylko zdobędę próbkę.</text>
+    </string>
+    
+    <string id="ah_chernov_quest3_title">
+        <text>Badacze: Przynieś Czernowowi PDA stalkera i dwie próbki z Czerwonego Lasu</text>
+    </string>
+    <string id="ah_chernov_quest3_desc">
+        <text>Profesor Czernow zlecił pewnemu stalkerowi stworzenie mapy anomalii w Czerwonym Lesie. Ukończył mapę, ale musiał uciec z obszaru, zanim mógł zwrócić dane. Mam znaleźć jego PDA, które zostało porzucone gdzieś w tunelach przy moście do Limańska.</text>
+    </string>   
+    <string id="ah_les_pda_title">
+        <text>Badacze: znajdź PDA stalkera w tunelach na zachodzie</text>
+    </string>
+    <string id="ah_les_pda_desc">
+        <text>Podczas ucieczki przed fanatykami Monolitu, stalker zostawił swój PDA z danymi skanowania gdzieś w zachodnich tunelach. Muszę je znaleźć, zanim dowiem się, które anomalie zbadać.</text>
+    </string>       
+    <string id="ah_les_o1_title">
+        <text>Badacze: znajdź próbkę w anomalii Symbiont</text>
+    </string>
+    <string id="ah_les_o1_desc">
+        <text>Po przeanalizowaniu danych skanowania wydaje się, że jest to jedno z interesujących miejsc.</text>
+    </string>       
+    <string id="ah_les_e1_title">
+        <text>Badacze: znajdź próbkę w podziemnej anomalii elektrycznej</text>
+    </string>
+    <string id="ah_les_e1_desc">
+        <text>Po przeanalizowaniu danych wydaje się, że w północno-zachodnich szybach kopalni znajduje się ukryta podziemna anomalia. Powinienem to zbadać.</text>
+    </string>   
+    <string id="ah_les_none_title">
+        <text>Badacze: znajdź artefakt gdzieś w Czerwonym Lesie</text>
+    </string>
+    <string id="ah_les_none_desc">
+        <text>Mam znaleźć dwa różne artefakty w Czerwonym Lesie. Jednakże, aby wskazać ich lokalizację, muszę odnaleźć PDA z danymi skanowania, które stalker przede mną zgubił gdzieś w zachodnich tunelach.</text>
+    </string>       
+    
+    <string id="ah_chernov_quest4_title">
+        <text>Badacze: znajdź sztuczny artefakt</text>
+    </string>
+    <string id="ah_chernov_quest4_desc">
+        <text>Według Czernowa, on i jego kolega zdołali stworzyć sztuczny artefakt jeszcze przed katastrofą. Powinienem udać się do domu jego byłego kolegi i sprawdzić, czy artefakt wciąż tam jest. W pobliżu jego domu znajduje się teraz anomalne pole, co prawdopodobnie nie jest przypadkiem. Powinienem być ostrożny.</text>
+    </string>   
+    
+    <string id="ah_chernov_quest5_title">
+        <text>Badacze: odwiedź laboratorium X-19</text>
+    </string>
+    <string id="ah_chernov_quest5_desc">
+        <text>Laboratorium X-19, znane również jako "Bunkier", najwyraźniej zajmowało się tworzeniem sztucznych artefaktów. Laboratorium zostało zniszczone, ale być może uda mi się znaleźć tam jakieś dokumenty. Być może powiedzą mi, gdzie znaleźć te "farmy artefaktów".</text>
+    </string>   
+    <string id="ah_rad_pda_title">
+        <text>Badacze: przeszukaj wejście do X-19</text>
+    </string>
+    <string id="ah_rad_pda_desc">
+        <text>Powinienem przeszukać okolicę w poszukiwaniu czegokolwiek, co mogłoby mnie nakierować na te "farmy artefaktów". Wydaje mi się, że gdzieś przy wejściu widziałem plik dokumentów.</text>
+    </string>       
+    <string id="ah_rad_r_title">
+        <text>Badacze: znajdź trzy sztuczne próbki w Martwym Lesie, na południe od kompleksu X-19.</text>
+    </string>
+    <string id="ah_rad_r_desc">
+        <text>Według znalezionych przeze mnie dokumentów, artefakty zostały wyhodowane w lesie na południe od kompleksu. To będą szeroko zakrojone poszukiwania, ale muszę przeskanować cały las w poszukiwaniu tych próbek.</text>
+    </string>       
+
+    <string id="ah_chernov_quest6_title">
+        <text>Badacze: znajdź dwa artefakty w Martwym Mieście</text>
+    </string>
+    <string id="ah_chernov_quest6_desc">
+        <text>Profesor Czernow poprosił mnie o pomoc w uzupełnieniu mapy anomalii Zony poprzez przeprowadzenie skanów w niezbadanym Martwym Mieście. Podał mi przybliżone współrzędne dwóch anomalii, którymi jest zainteresowany.</text>
+    </string>   
+    <string id="ah_mg_o1_title">
+        <text>Badacze: znajdź próbkę w Budynku administracyjnym</text>
+    </string>       
+    <string id="ah_mg_o1_desc">
+        <text>Mój skaner powinien pomóc mi znaleźć próbkę.</text>
+    </string>
+    <string id="ah_mg_g1_title">
+        <text>Badacze: znajdź próbkę w Domu Kultury.</text>
+    </string>
+    <string id="ah_mg_g1_desc">
+        <text>Mój skaner powinien pomóc mi znaleźć próbkę.</text>
+    </string>       
+
+    <string id="ah_juk_quest1_title">
+        <text>Badacze: znajdź trzy anomalne próbki na Jupiterze</text>
+    </string>
+    <string id="ah_juk_quest1_desc">
+        <text>Profesor Żuk próbuje stworzyć spektrogram próbek z różnych rodzajów anomalii na Jupiterze. Zlecił mi pobranie próbek w trzech różnych anomaliach.</text>
+    </string>   
+    <string id="ah_up_g1_title">
+        <text>Badacze: znajdź próbkę w anomalii Bitumin</text>
+    </string>
+    <string id="ah_up_g1_desc">
+        <text>Kolejna anomalia termiczna, w której nawigacja będzie wymagała odpowiedniej ochrony.</text>
+    </string>       
+    <string id="ah_up_h1_title">
+        <text>Badacze: znajdź próbkę w anomalii Betonowa Wanna</text>
+    </string>
+    <string id="ah_up_h1_desc">
+        <text>Słyszałem, że stalkerzy wskakują na cementowe filary, aby uniknąć kałuż kwasu poniżej.</text>
+    </string>       
+    <string id="ah_up_h2_title">
+        <text>Znajdź próbkę w Anomalnym Gaju</text>
+    </string>
+    <string id="ah_up_h2_desc">
+        <text>Ta toksyczna anomalia będzie wymagać odpowiedniej ochrony.</text>
+    </string>
+
+    <string id="ah_juk_quest2_title">
+        <text>Badacze: znajdź pozostałe próbki dla profesora Żuka</text>
+    </string>
+    <string id="ah_juk_quest2_desc">
+        <text>Dla drugiej partii próbek, muszę przeskanować resztę anomalii w okolicy. Profesor Żuk podał mi ich dokładną lokalizację.</text>
+    </string>   
+    <string id="ah_up_e2_title">
+        <text>Badacze: znajdź artefakt w anomalnym pociągu</text>
+    </string>
+    <string id="ah_up_e2_desc">
+        <text>Ta nieoznakowana anomalia elektryczna wydaje się być uwięziona w wagonie pociągu w pobliżu bunkra naukowców. Pamiętam, że te wagony miały właz ewakuacyjny na dachu, którego można użyć, by dostać się do środka.</text>
+    </string>       
+    <string id="ah_up_e1_title">
+        <text>Badacze: znajdź artefakt w północno-zachodnim tunelu</text>
+    </string>
+    <string id="ah_up_e1_desc">
+        <text>Ten tunel jest słabo zbadany, dlatego jest szczególnie interesujący. Słyszałem jednak plotkę, że kontrolerzy lubią przemierzać te tunele...</text>
+    </string>       
+    <string id="ah_up_g2_title">
+        <text>Badacze: znajdź artefakt w kompleksie AA "Wołkow"</text>
+    </string>
+    <string id="ah_up_g2_desc">
+        <text>Stary kompleks rakiet przeciwlotniczych jest opuszczony z powodu obfitości podziemnych anomalii. Jest to również gorący punkt dla mutantów, więc powinienem mieć się na baczności.</text>
+    </string>
+
+    <string id="ah_juk_quest3_title">
+        <text>Badacze: znajdź cztery anomalne próbki w Prypeci i na jej Obrzeżach</text>
+    </string>
+    <string id="ah_juk_quest3_desc">
+        <text>Miasto Prypeć jest praktycznie niedostępne dla naukowców ze względu na obecność Monolitu. Jednak do ukończenia badań niezbędne są próbki z anomalii w mieście. Muszę je znaleźć.</text>
+    </string>   
+    <string id="ah_p_h1_title">
+        <text>Badacze: znajdź próbkę w anomalii Winorośl</text>
+    </string>
+    <string id="ah_p_h1_desc">
+        <text>"Winorośl" to najbardziej fascynująca anomalia na obrzeżach Prypeci. Mam się na nią wspiąć i poszukać próbki na szczycie anomalii.</text>
+    </string>       
+    <string id="ah_p_g1_title">
+        <text>Badacze: znajdź próbkę w budynku Szkoły</text>
+    </string>
+    <string id="ah_p_g1_desc">
+        <text>W środku starej szkoły znajduje się gigantyczna anomalia grawitacyjna. Sięga ona wielu pięter, więc być może będę musiał sprawdzić wnętrze budynku.</text>
+    </string>       
+    <string id="ah_p_g2_title">
+        <text>Badacze: znajdź próbkę w anomalii Awangarda.</text>
+    </string>
+    <string id="ah_p_g2_desc">
+        <text>Odczyty dla tego miejsca wykraczają poza skalę. Nawet z odległości kilku kilometrów naukowcy mogli wykryć tu wiele rodzajów anomalii. Muszę przeskanować obszar w poszukiwaniu próbki.</text>
+    </string>
+    <string id="ah_p_e1_title">
+        <text>Badacze: znajdź próbkę w nieoznaczonej anomalii elektrycznej</text>
+    </string>
+    <string id="ah_p_e1_desc">
+        <text>W południowej części Prypeci znajduje się kolejna nieoznakowana anomalia. Powinienem ją również przeskanować.</text>
+    </string>   
+    
+    <string id="ah_vorobushkin_quest1_title">
+        <text>Badacze: znajdź moduł pamięci Worobuszkina i trzy anomalne próbki</text>
+    </string>
+    <string id="ah_vorobushkin_quest1_desc">
+        <text>Profesor Worobuszkin zdołał naprawić i wykorzystać część starego sprzętu z kompleksu antenowego "Krug". Zostawił tam swój moduł pamięci, który zawiera lokalizacje anomalii, które muszę przeszukać w poszukiwaniu próbek.</text>
+    </string>   
+    <string id="ah_zat_pda_title">
+        <text>Badacze: znajdź moduł pamięci w budynku Stacji antenowej "Krug"</text>
+    </string>
+    <string id="ah_zat_pda_desc">
+        <text>Profesor. Worobuszkin zostawił moduł w podziemiach kompleksu, kiedy stamtąd odchodził. Muszę go znaleźć, jeśli chcę wiedzieć, które anomalie muszę przeskanować.</text>
+    </string>       
+    <string id="ah_zat_h1_title">
+        <text>Znajdź próbkę w anomalii Bagno</text>
+    </string>
+    <string id="ah_zat_h1_desc">
+        <text>Dziwne i bardzo duże pole anomalii grawitacyjnych i toksycznych. Muszę poruszać się po nim ostrożnie, jeśli chcę zachować wszystkie kończyny.</text>
+    </string>       
+    <string id="ah_zat_h2_title">
+        <text>Badacze: znajdź próbkę w anomalii Sosnodąb</text>
+    </string>
+    <string id="ah_zat_h2_desc">
+        <text>Duża toksyczna anomalia, przypominająca nieco anomalię Winorośl na Obrzeżach. Może uda mi się wspiąć również na nią?</text>
+    </string>
+    <string id="ah_zat_none_title">.
+        <text>Badacze: znajdź artefakt gdzieś na Zatonie</text>
+    </string>
+    <string id="ah_zat_none_desc">
+        <text>Aby poznać dokładną lokalizację anomalii do zbadania, muszę pobrać dane skanowania z modułu pamięci Worobuszkina.</text>
+    </string>
+    
+    <string id="ah_vorobushkin_quest2_title">
+        <text>Badacze: znajdź dla docenta Worobuszkina jeszcze trzy artefakty na Zatonie</text>
+    </string>
+    <string id="ah_vorobushkin_quest2_desc">
+        <text>Aby uzupełnić spektrogram różnych artefaktów, profesor Worobuszkin poprosił mnie o zeskanowanie trzech pozostałych anomalii na Zatonie.</text>
+    </string>   
+    <string id="ah_zat_o1_title">
+        <text>Badacze: znajdź próbkę w anomalii Kocioł</text>
+    </string>
+    <string id="ah_zat_o1_desc">
+        <text>Paskudna anomalia termiczna, która odebrała życie odważnemu naukowcowi. Będę potrzebował odpowiedniej ochrony lub szybkich stóp, aby bezpiecznie się po niej poruszać.</text>
+    </string>       
+    <string id="ah_zat_g1_title">
+        <text>Badacze: znajdź próbkę w anomalii Pazur</text>
+    </string>
+    <string id="ah_zat_g1_desc">
+        <text>Ta anomalia grawitacyjna wydaje się być połączona z serią tuneli. Dane skanowania sugerują, że próbka została w jakiś sposób przeniesiona do tuneli.</text>
+    </string>       
+    <string id="ah_zat_g2_title">
+        <text>Badacze: znajdź próbkę na moście Preobrażeńskiego</text>
+    </string>
+    <string id="ah_zat_g2_desc">
+        <text>Ten na wpół zawalony most jest najeżony anomaliami grawitacyjnymi. Można przez niego przejść z dużą ostrożnością, jednak powinienem zabrać ze sobą wystarczającą ilość śrub.</text>
+    </string>
+
+    <string id="ah_skabinsky_quest1_title">
+        <text>Badacze: przynieś akademikowi Skabińskiemu Gadający Kamień</text>
+    </string>
+    <string id="ah_skabinsky_quest1_desc">
+        <text>To jest to. Profesor Skabiński i jego zespół przybyli tu po ten artefakt. Emituje on dziwną moc. Powinienem się pospieszyć i mu go pokazać, czeka na mnie na Zatonie.</text>
+    </string>   
+    <string id="ah_gen_f1_title">
+        <text>Badacze: znajdź artefakt w anomalii Rozdrabniarka</text>
+    </string>
+    <string id="ah_gen_f1_desc">
+        <text>Można nazwać to miejsce centrum Zony. To tutaj zaczęły się wszystkie perturbacje noosfery. Skany wskazują na podziemną aktywność, więc powinienem zacząć od szukania drogi w dół. Powinienem być ostrożny. </text>
+    </string>
+
+    <string id="cs_story_task0_name">
+        <text>Ostatni świt: zanieś skaner do Zarodnika</text>
+    </string>
+    <string id="cs_story_task0_name1">
+        <text>Ostatni świt: odzyskaj skaner z anomalii w południowo-zachodnim rogu Bagien</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_name">
+        <text>Ostatni świt: wróć do Zimnego</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_story_name1">
+        <text>Ostatni świt: odeprzyj atak Renegatów</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_name3">
+        <text>Ostatni świt: wróć do Zimnego</text>
+    </string>
+    <string id="cs_task0_ambush_renegade_story_name4">
+        <text>Ostatni świt: oczyść południowo-wschodnią farmę z Renegatów.</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_descr">
+        <text>Pomóż oddziałowi Czystego Nieba utrzymać Stację Pomp.</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_descr2">
+        <text>Pomóż drużynie szturmowej Czystego Nieba zdobyć drogę do Kordonu.</text>
+    </string>
+
+    <string id="cs_story_task0_descr">
+        <text>Skaner znajduje się w Archianomalii, na północny zachód od bazy Czystego Nieba.</text>
+    </string>
+    <string id="cs_story_task2_name">
+        <text>Ostatni świt: zabierz PDA do Zarodnika.</text>
+    </string>
+    <string id="cs_story_task2_descr">
+        <text>Kula nie przeżył, krwiopijcy go dopadli, ale udało mi się pomścić jego śmierć i zdobyć jego PDA.</text>
+    </string>
+    <string id="cs_story_task1_name">
+        <text>Ostatni świt: poszukaj zaginionego zwiadowcy</text>
+    </string>
+    <string id="cs_story_task1_descr">
+        <text>Muszę znaleźć Kulę, zanim jakieś stworzenie zaciągnie go do swojej nory. Zarodnik donosi, że ostatni sygnał Kuli pochodził z północnej części Bagien - skrzyżowania drogi prowadzącej na północ na Agroprom z drogą prowadzącą na zachód Bagien. Muszę się pospieszyć.</text>
+    </string>
+    <string id="cs_story_task3_start_name">
+        <text>Ostatni świt: porozmawiaj z Zimnym</text>
+    </string>
+    <string id="cs_story_task3_start_descr">
+        <text>Zimny poinformował, że PDA zwiadowcy zostało rozszyfrowane i czeka on na spotkanie ze mną.</text>
+    </string>
+    <string id="cs_task4_storytask_name">
+        <text>Ostatni świt: znajdź najemnika Szramę</text>
+    </string>
+    <string id="cs_task4_storytask_descr">
+        <text>Udało mi się dowiedzieć, gdzie jest Szrama. Teraz moim zadaniem jest dowiedzieć się, co wie o zaginionych członkach Czystego Nieba.</text>
+    </string>
+    <string id="cs_task5_storytask_name">
+        <text>Ostatni świt: odeprzyj mutanty</text>
+    </string>
+    <string id="cs_task5_storytask_name1">
+        <text>Ostatni świt: porozmawiaj ze Szramą</text>
+    </string>
+    <string id="cs_task5_storytask_descr">
+        <text>Szrama: "W okolicy jest stado nibypsów, które wyczuły mój zapach. Przybyłem tu, by się przed nimi bronić, więc pomóż mi się ich pozbyć, a powiem ci to, co chcesz wiedzieć."</text>
+    </string>
+    <string id="cs_task3_storytask_name">
+        <text>Ostatni świt: dowiedz się czegoś o Szramie</text>
+    </string>
+    <string id="cs_task3_storytask_descr">
+        <text>Muszę zasięgnąć informacji na temat najemnika o ksywie Szrama, ten stary oszust Sidorowicz powinien być w stanie wskazać mi właściwy kierunek.</text>
+    </string>
+    <string id="cs_task9_storytask_name">
+        <text>Ostatni świt: porozmawiaj z Włóczęgą</text>
+    </string>
+    <string id="cs_task9_storytask_descr">
+        <text>Musimy dostarczyć dekoder do Włóczęgi. Jego jednostka założyła małą bazę operacyjną na Jupiterze, w starym punkcie kontrolnym na południe od stacji Janów.</text>
+    </string>
+    <string id="cs_task11_storytask_name">
+        <text>Ostatni świt: porozmawiaj z Włóczęgą</text>
+    </string>
+    <string id="cs_task11_storytask_descr">
+        <text>Szrama powiedział, że ocalali członkowie Czystego Nieba mogli dołączyć do Wyrzutków Monolitu. Ich przywódca nazywa się Włóczęga, a jego jednostka znajduje się na Jupiterze w starym punkcie kontrolnym na południe od stacji Janów. Muszę go odnaleźć i zapytać, czy wie o zaginionych stalkerach z Czystego Nieba.</text>
+    </string>
+    <string id="cs_task10_storytask_name">
+        <text>Ostatni świt: porozmawiaj z Zimnym</text>
+    </string>
+    <string id="cs_task10_storytask_descr">
+        <text>Moja misja dobiegła końca. Muszę zdać raport Zimnemu i powiedzieć mu, że jego ludzie wciąż żyją.</text>
+    </string>
+    <string id="cs_task8_storytask_name">
+        <text>Ostatni świt: odeprzyj kontratak</text>
+    </string>
+    <string id="cs_task8_storytask_name1">
+        <text>Ostatni świt: porozmawiaj z Gamajunem</text>
+    </string>
+    <string id="cs_task8_storytask_descr">
+        <text>Według Wyrzutków, fanatycy w porcie rzecznym na północnym wschodzie Prypeci mają urządzenie do dekodowania zaszyfrowanych rozmów. Muszę je odzyskać.</text>
+    </string>
+    <string id="cs_task7_storytask_name">
+        <text>Ostatni świt: przejmij urządzenie</text>
+    </string>
+    <string id="cs_task7_storytask_descr">
+        <text>Według Wyrzutków, fanatycy w Porcie Rzecznym mają urządzenie do dekodowania zaszyfrowanych rozmów.</text>
+    </string>
+    <string id="cs_task6_storytask_name1">
+        <text>Ostatni świt: porozmawiaj z Gamajunem</text>
+    </string>
+    <string id="cs_task6_storytask_name">
+        <text>Ostatni świt: uratuj zbuntowaną jednostkę zwiadowczą</text>
+    </string>
+    <string id="cs_task6_storytask_descr">
+        <text>Oddział Wyrzutków Monolitu został uwięziony we wschodniej Prypeci, w pobliżu Akademika. Wśród nich jest jeden z ocalałych członków Czystego Nieba, muszę ich uratować albo cała misja pójdzie na marne.</text>
+    </string>
+
+
+
+	<string id="cs_anom_pribor_name">
+        <text>Skaner aktywności anomalnej</text>
+    </string>
+    <string id="cs_deshefrator_name">
+        <text>Dekoder</text>
+    </string>
+    <string id="cs_deshefrator_desc">
+        <text>Urządzenie używane przez Wyrzutków Monolitu do podsłuchiwania rozmów fanatyków.</text>
+    </string>
+    <string id="st_wpn_bm16_ohotnik">
+        <text>Strzelba BM-16 łowcy.</text>
+    </string>
+    <string id="st_wpn_bm16_ohotnik_descr">
+        <text>Stara strzelba z kilkoma oznaczeniami.</text>
+    </string>
+    <string id="pda_dragun_name">
+        <text>PDA Szramy</text>
+    </string>
+    <string id="pda_dragun_desc">
+        <text>Wśród wielu wpisów znajduje się jeden bardzo interesujący: "Włóczęga zebrał nową grupę do walki z Monolitem. Plotka głosi, że wśród jego ludzi są byli członkowie grupy uderzeniowej Lebiediewa."</text>
+    </string>
+    <string id="bar_case_name">
+        <text>Ciężka walizka</text>
+    </string>
+    <string id="bar_case_desc">
+        <text>Specjalna walizka z łupami dla Barmana.</text>
+    </string>
+    <string id="cs_anom_pribor_desc">
+        <text>Specjalne urządzenie do badania pól anomalnych, należące do frakcji Czyste Niebo.</text>
+    </string>
+    <string id="cs_informer_pda_name">
+        <text>PDA Kuli</text>
+    </string>
+    <string id="cs_informer_pda_desc">
+        <text>Zaszyfrowane informacje związane z frakcją Czystego Nieba są przechowywane w tym PDA.</text>
+    </string>
+    <string id="crazy_stalker_flash_name">
+        <text>Fleszka szaleńca</text>
+    </string>
+    <string id="crazy_stalker_flash_desc">
+        <text>Informacje na fleszce są zaszyfrowane.</text>
+    </string>
+    <string id="escape_docs_name">
+        <text>Dokumenty z posterunku</text>
+    </string>
+    <string id="escape_docs_desc">
+        <text>Raport ekspedycji wojskowej w północnej części Zony.</text>
+    </string>
+    <string id="st_voen_scaner">
+        <text>Kompaktowy skaner do pomiaru anomalnej aktywności</text>
+    </string>
+    <string id="st_voen_scaner_desc">
+        <text>Najnowszy i najwygodniejszy model do pomiarów, stworzony specjalnie dla wojskowych stalkerów i grup naukowych, niestety dla handlarzy nie ma specjalnej wartości, ponieważ każdy skaner jest indywidualny i zaczyna działać dopiero po wprowadzeniu kodu.</text>
+    </string>
+
+	<string id="prin_case_traders">
+        <text>Przekaż walizkę handlarzowi</text>
+    </string>
+    <string id="tm_find_case_trader_1">
+        <text>Ukradnij walizkę z posterunku</text>
+    </string>
+    <string id="tm_find_case_trader_1_descr">
+        <text>Muszę dostać się na posterunek i wykraść stamtąd walizkę z raportem ekspedycji wojskowej w północnej części Zony.</text>
+    </string>
+    <string id="prinesi_military_docs_start_0">
+        <text>Co więc muszę zrobić, aby zdobyć informacje o Bliźnie? </text>
+    </string>
+    <string id="prinesi_military_docs_start_1">
+        <text>Cóż, sprawa wygląda tak... Walizka z raportem z jednej z ekspedycji, która udała się na północ, została przekazana na posterunek z głębi Zony. W ciągu dnia strzegą jej, jakby była wypełniona czystym plutonem, ale w nocy z jakiegoś powodu nie zostawiają więcej niż dwóch strażników. Musisz zakraść się na posterunek i zdobyć dla mnie tę skrzynię. I nie będę szczędził kosztów... w granicach rozsądku. Zrobisz to, prawda?</text>
+    </string>
+    <string id="prinesi_military_docs_start_21">
+        <text>Zrobię to.</text>
+    </string>
+    <string id="prinesi_military_docs_start_22">
+        <text>Wiesz, nie sądzę. Jeszcze cenię swoje życie...</text>
+    </string>
+    <string id="prinesi_military_docs_start_31">
+        <text>Cóż, mam tu przygotowane pieniądze, ale nie... nie narób tam hałasu, dobrze? Jeśli wojsko się wkurzy, wszyscy na tym ucierpimy.</text>
+    </string>
+    <string id="prinesi_military_docs_done_0">
+        <text>Znalazłem walizkę, oto ona.</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_descr3">
+        <text>Pomóż drużynie szturmowej Czystego Nieba Park maszynowy od wojskowych na północy Bagien.</text>
+    </string>
+
+    <string id="cs_task0_ambush_renegade_story_name6">
+        <text>Ostatni świt: zniszcz wojsko i przejmij Park maszynowy.</text>
+    </string>
+
+
+	<string id="kuznecov_find_document_1">
+        <text>Znajdź dokumenty w podziemiach Instytutu Badawczego Agroprom</text>
+    </string>
+    <string id="kuznecov_find_document_1_descr">
+        <text>Odnajdź tajne dokumenty zawierające informacje o badaniach prowadzonych w Instytucie i zanieś je pułkownikowi Kuzniecowowi.</text>
+    </string>
+    <string id="kuznecov_find_document_2">
+        <text>Znajdź dokumenty w podziemnym laboratorium X-18</text>
+    </string>
+    <string id="kuznecov_find_document_2_descr">
+        <text>Pułkownik Kuzniecow otrzymał rozkaz zdobycia dokumentów z tajnego laboratorium X-18. Dowództwo wojskowe chciało uzyskać informacje na temat eksperymentów i doświadczeń, które miały miejsce w tym kompleksie laboratoryjnym.</text>
+    </string>
+    <string id="kuznecov_find_document_3">.
+        <text>Znajdź dokumenty w laboratorium X-16 i wyłącz instalację psioniczną</text>
+    </string>
+    <string id="kuznecov_find_document_3_descr">
+        <text>Dowódca jednostki wojskowej w Instytucie Badawczym "Agroprom" polecił mi udać się do laboratorium X-16, które znajduje się na terenie jeziora "Jantar" i zdobyć tajną dokumentację oraz jednocześnie wyłączyć tamtejszą instalację psioniczną. Poradził mi również, abym najpierw zdobył dobrą ochronę psioniczną. Według jego informacji, naukowcy w mobilnym bunkrze właśnie opracowali pewne środki ochrony przed promieniowaniem psi.</text>
+    </string>
+    <string id="kuznecov_find_document_4">
+        <text>Znajdź dokumenty w laboratorium X-10 i wyłącz Mózgozwęglacz</text>
+    </string>
+    <string id="kuznecov_find_document_4_descr">
+        <text>Jestem gotowy do przedarcia się na północ. Mam ochronę przed ekspozycją na promieniowanie psioniczne, pozostaje tylko przebić się przez Radar, przeniknąć do laboratorium, zabrać dokumenty i wyłączyć główną instalację psioniczną w Zonie.</text>
+    </string>
+    <string id="kuznecov_find_document_5">
+        <text>Znajdź dokumenty w laboratorium X-8</text>
+    </string>
+    <string id="kuznecov_find_document_5_descr">
+        <text>Kontynuuję zbieranie wszystkich tajemnic eksperymentów laboratoryjnych w Zonie dla dowództwa wojskowego. Tym razem Kuzniecow wysyła mnie na spacer po Prypeci, abym odnalazł laboratorium X-8, które najwyraźniej było zaangażowane w tworzenie precyzyjnej broni, której mechanizm opierał się na energii impulsowej i wydobył stamtąd wszystkie ważne dokumenty.</text>
+    </string>
+    <string id="kuznecov_find_document_6">
+        <text>Znajdź dokumenty w podziemiach Prypeci</text>
+    </string>
+    <string id="kuznecov_find_document_6_descr">
+        <text>Należy przeniknąć do tajnego obiektu Prypeć-1, zwanego przez stalkerów Podziemiami Prypeci, aby odnaleźć dokumenty z przeprowadzonych tam badań.</text>
+    </string>
+    <string id="kuznecov_find_document_7">
+        <text>Zniszcz Centrum Sterowania Monolitem na CEA i zabierz stamtąd całą znalezioną tam dokumentację</text>
+    </string>
+    <string id="kuznecov_find_document_7_descr">
+        <text>Wybieram się na ostatnią wyprawę po ostatnią część dokumentacji, na CEA, Centrum Sterowania Monolitem, które wyjaśni prawdopodobnie największą tajemnicę Zony: skąd pochodzi Spełniacz Życzeń. Rozkazano mi również zniszczyć to stanowisko dowodzenia, jeśli to możliwe. Zanim jednak wyruszę, pułkownik poradził mi, bym odnalazł na bagnach pewnego pustelnika, zwanego przez miejscowych Bagiennym Doktorem, który powinien wiedzieć, gdzie znajduje się dekoder otwierający drzwi do Centrum Sterowania...</text>
+    </string>
+    <string id="kuznec_stry_doc">
+        <text>Wróć do pułkownika Kuzniecowa</text>
+    </string>
+
+<!-- Caaaaei ?a?o yoe oaiaoeeai! -->
+    <string id="assault_gen_name">
+        <text>Operacja Zemsta Monolitu: dostań się do Generatorów CEA</text>
+    </string>
+    <string id="assault_gen_descr">
+        <text>Nadszedł czas na szturm na Generatory CEA. Spotkaj się z oddziałem wojskowym na Generatorach, który zajął pozycję w starej wiosce.</text>
+    </string>
+    <string id="assault_gen_1_name">
+        <text>Przejmij bazę</text>
+    </string>
+    <string id="st_vasil_nevezuchi">
+        <text>Wasyl Newezucz</text>
+    </string>
+    <string id="st_kvartet">
+        <text>Kapitan Szkrabenko</text>
+    </string>
+    <string id="come_to_aes_name">
+        <text>Operacja Zemsta Monolitu: szturm na CEA</text>
+    </string>
+    <string id="come_to_aes_descr">
+        <text>Wszystkie jednostki działające w Zonie otrzymały rozkaz przemieszczenia się w kierunku CEA. Dowódca operacji "Kwartet" rozmieścił kwaterę polową w pobliżu bramy prowadzącej na Zaton.</text>
+    </string>
+    <string id="army_assault_1_name">
+        <text>Operacja Zemsta Monolitu: zniszcz pierwszy posterunek</text>
+    </string>
+    <string id="army_assault_1_descr">
+        <text>Pomóż drużynom Specnazu zniszczyć pierwszy posterunek.</text>
+    </string>
+    <string id="army_assault_2_name">
+        <text>Operacja Zemsta Monolitu: zniszcz drugi posterunek</text>
+    </string>
+    <string id="army_assault_2_descr">
+        <text>Pomóż drużynom Specnazu zniszczyć drugi posterunek.</text>
+    </string>
+    <string id="army_assault_3_name">
+        <text>Operacja Zemsta Monolitu: zniszcz trzeci posterunek</text>
+    </string>
+    <string id="army_assault_3_descr">
+        <text>Pomóż drużynom Specnazu zniszczyć trzeci posterunek.</text>
+    </string>           
+    
+    </string_table>

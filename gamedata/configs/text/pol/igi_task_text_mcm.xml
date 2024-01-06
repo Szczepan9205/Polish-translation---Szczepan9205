@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_mcm_menu_igi_tasks">
+		<text>Igi Tasks</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_title">
+		<text>Igi Tasks</text>
+	</string>
+
+	<string id="ui_mcm_menu_Options">
+		<text>Opcje</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_autocomplete">
+		<text>Autofinisz zadań</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_wtf_task_mark">
+		<text>Zaznacz zadania WTF</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_utjan_fetch_thing">
+		<text>Tekst zadań typu przynieś (Utjan's)</text>
+	</string>
+	<string id="igi_tasks_utjan_fetch_done">
+		<text>(Masz już wystarczająco dużo)</text>
+	</string>
+	<string id="igi_tasks_utjan_fetch_need">
+		<text>(Potrzebujesz więcej %s)</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_realistic_assassinations">
+		<text>Realistyczne zabójstwa (Arszi)</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_debug">
+		<text>Tryb debugowania (może powodować spadki FPS)</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_autosave_before">
+		<text>Zapis przy zaakceptowaniu zadania</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_autosave_after">
+		<text>Zapis przy wypełnieniu zadania</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_reset_all">
+		<text>Resetuj wszystkie ustawienia pakietu zadań</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_disable_task">
+		<text>Wyłącz</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_cancel_all">
+		<text>Zakończ wszystkie aktywne zadania</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_task_pack_general_title">
+		<text>Ogólne</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_static_rewards_title">
+		<text>Stałe nagrody</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_static_rewards_desc">
+		<text>>>> Wartości te zastąpią własne nagrody dynamiczne.</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_rewards_modifiers_title">
+		<text>Modyfikatory nagród</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_rewards_modifiers_desc">
+		<text>>>> Modyfikatory te działają zarówno z nagrodami statycznymi, jak i dynamicznymi. Zmień je, jeśli
+			chcesz zmienić nagrody, nie czyniąc ich statycznymi.
+		</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_Options_money_reward_coeff">
+		<text>Mnożnik nagrody</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_reward_spread_min">
+		<text>Wysokość nagród (dolna granica)</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_Options_reward_spread_max">
+		<text>Wysokość nagród (górna granica)</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_reward_money">
+		<text>Pieniądze</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_reward_goodwill">
+		<text>Reputacja</text>
+	</string>
+
+	<string id="ui_mcm_igi_tasks_add_money">
+		<text>Dodatkowe pieniądze</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_mult_money">
+		<text>Mnożnik pieniędzy</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_add_goodwill">
+		<text>Dodatkowa wartość reputacji</text>
+	</string>
+	<string id="ui_mcm_igi_tasks_mult_goodwill">
+		<text>Mnożnik reputacji</text>
+	</string>
+</string_table>

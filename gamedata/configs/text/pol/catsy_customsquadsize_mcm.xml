@@ -1,0 +1,19 @@
+<!--
+-- Author: Catspaw
+-- Source: https://www.moddb.com/members/catspawmods/addons
+-->
+
+<string_table>
+	<string id="ui_mcm_menu_customsquadsize">
+		<text>Custom squadsize</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize">
+		<text>Normalna maksymalna liczba towarzyszy w oddziale</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize_folkhero">
+		<text>Maksymalna liczba towarzyszy z osi¹gniêciem "Bohater ludowy"</text>
+	</string>
+
+</string_table>

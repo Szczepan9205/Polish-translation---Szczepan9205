@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+  <string id="st_money_low">
+		<text>Mała paczka rubli</text>
+	</string>
+	<string id="st_money_low_desc">
+		<text>Zwitek małych banknotów, prawdopodobnie zabranych z kasy jakiegoś sklepu spożywczego.\n</text>
+	</string>
+
+	<string id="st_money_med">
+		<text>Paczka rubli</text>
+	</string>
+	<string id="st_money_med_desc">
+		<text>Średni stos rubli o umiarkowanej lub wysokiej wartości gotówkowej. Banknoty są nadal wyraźne.\n</text>
+	</string>
+	<string id="st_money_high">
+		<text>Duży zwitek rubli</text>
+	</string>
+	<string id="st_money_high_desc">
+		<text>Duży zwitek rubli, który jest dużo wart. Czyżby te pieniądze pochodziły z napadu na bank?\n</text>
+	</string>
+	<string id="st_money_fat">
+		<text>Gruby stos rubli</text>
+	</string>
+	<string id="st_money_fat_desc">
+		<text>Gruby zwitek gotówki. Ilość zdecydowanie wystarczająca, żeby uczynić z siebie chodzący cel.\n</text>
+	</string>
+	<string id="st_money_card_low">
+		<text>Karta debetowa</text>
+	</string>
+	<string id="st_money_card_low_desc">
+		<text>Skradziona karta bankowa jakiegoś biednego stalkera. Czasami duże zakupy są dokonywane elektronicznie w Zonie ze względów bezpieczeństwa - to tylko zwykła karta, a na koncie prawdopodobnie nie ma dużo pieniędzy.</text>
+	</string>
+	<string id="st_money_card_med">
+		<text>Karta kredytowa</text>
+	</string>
+	<string id="st_money_card_med_desc">
+		<text>Karta kredytowa od międzynarodowej firmy obsługującej karty kredytowe. Podczas gdy wspomniane firmy mają przyzwoity stopień ochrony przed oszustwami, możliwe jest wykonanie małej podejrzanej transakcji, aby wyciągnąć z niej trochę pieniędzy, zanim się o tym dowiedzą.</text>
+	</string>
+	<string id="st_money_card_high">
+		<text>Karta reprezentatywna</text>
+	</string>
+	<string id="st_money_card_high_desc">
+		<text>Dość dziwacznie wyglądająca zachodnia karta. Podobnie jak w przypadku innych kart kredytowych, tego typu karty mają zaawansowaną ochronę przed oszustwami - ale posiadacze kart często dokonują niepoważnych i niedorzecznych zakupów, więc dość łatwo jest odejść z dużą ilością pieniędzy. W każdym razie nie będą mieli nic przeciwko - lepiej zapewnić sobie przetrwanie niż zmarnować je na kolejną butelkę szampana lub eskortę.</text>
+	</string>
+	
+	<string id="st_use_money1">
+		<text>gotówka</text>
+	</string>
+	<string id="st_use_money2">
+		<text>przelicz</text>
+	</string>
+	<string id="st_use_money3">
+		<text>niech pada deszcz pieniędzy</text>
+	</string>
+	<string id="st_use_money4">
+		<text>weź ten hajs</text>
+	</string>
+	<string id="st_use_money_card">
+		<text>popełnij oszustwo kartowe</text>
+	</string>
+</string_table>

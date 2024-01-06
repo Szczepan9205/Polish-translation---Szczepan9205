@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	SidHUD strings
+-->
+
+<string_table>
+	<string id="ui_mm_video_hud_sidslide">
+		<text>Opcje SidHUD</text>
+	</string>
+
+
+
+	<string id="ui_mm_video_hud_armorbar">
+		<text>Pasek stanu kombinezonu</text>
+	</string>
+	<string id="ui_mm_video_hud_armorbar_desc">
+		<text>Pokazuje pasek stanu kombinezonu.</text>
+	</string>
+	<string id="ui_mm_video_hud_armortext">
+		<text>Tekst stanu kombinezonu</text>
+	</string>
+	<string id="ui_mm_video_hud_armortext_desc">
+		<text>Pokazuje stan pancerza jako wartość procentową w kolorze niebieskim. \n%c[ui_gray_2]Nie ma wpływu, jeśli pasek jest wyłączony.</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponshow">
+		<text>Pasek stanu broni</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponshow_desc">
+		<text>Pokazuje pasek stanu broni.</text>
+	</string>
+	<string id="ui_mm_video_hud_weapontext">
+		<text>Tekst stanu broni</text>
+	</string>
+	<string id="ui_mm_video_hud_weapontext_desc">
+		<text>Pokazuje stan broni jako wartość procentową w kolorze pomarańczowym. \n%c[ui_gray_2]Nie ma wpływu, jeśli pasek jest wyłączony.</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponbarhide">
+		<text>Ukryj lub schowaj</text>
+	</string>
+	<string id="ui_mm_video_hud_weaponbarhide_desc">
+		<text>Sprawia, że pasek stanu broni znika po schowaniu wyposażenia do plecaka. \n%c[ui_gray_2]Nie ma wpływu, jeśli pasek jest wyłączony.</text>
+	</string>
+	<string id="ui_mm_video_hud_ammoshow">
+		<text>Licznik amunicji</text>
+	</string>
+	<string id="ui_mm_video_hud_ammoshow_desc">
+		<text>Pokazuje ŁĄCZNĄ ilość amunicji dla każdego z 3 typów dostępnych w ekwipunku.</text>
+	</string>
+	<string id="ui_mm_video_hud_oldammoshow">
+		<text>Stara amunicja</text>
+	</string>
+	<string id="ui_mm_video_hud_oldammoshow_desc">
+		<text>Sprawia, że stara amunicja pojawia się tam, gdzie jest to istotne (np. nie ma swoich "dobrych" odpowiedników).</text>
+	</string>
+	<string id="ui_mm_video_hud_radhealthshow">
+		<text>Pasek ekspozycji na promieniowanie</text>
+	</string>
+	<string id="ui_mm_video_hud_radhealthshow_desc">
+		<text>Pokazuje ilość otrzymywanego promieniowania na pasku zdrowia, od lewej do prawej. </text>
+	</string>
+	<string id="ui_mm_video_hud_bleedingbarshow">
+		<text>Pasek krwawienia</text>
+	</string>
+	<string id="ui_mm_video_hud_bleedingbarshow_desc">
+		<text>Pokazuje ilość traconej krwi na pasku wytrzymałości, od lewej do prawej. </text>
+	</string>
+	<string id="ui_mm_video_hud_healingbar">
+		<text>Pasek przewidywania stanu zdrowia</text>
+	</string>
+	<string id="ui_mm_video_hud_healingbar_desc">
+		<text>Włącza subtelny pasek na pasku zdrowia, który pokaże dokładną ilość zdrowia, jaką otrzymasz podczas korzystania z przedmiotu leczącego.</text>
+	</string>
+	
+</string_table>

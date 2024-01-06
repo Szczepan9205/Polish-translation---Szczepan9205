@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_interact">
+		<text>Interakcja ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_place_popup">
+		<text>Umieść przedmiot ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_far_popup">
+		<text>To zbyt daleko, bym mógł to tam umieścić.</text>
+	</string>
+	<string id="st_collision_warning">
+		<text>Nie można umieścić obiektu - koliduje z czymś</text>
+	</string>
+    <string id="st_reject_pickup_world_obj">
+		<text>Nie jestem w stanie tego podnieść.</text>
+	</string>
+	<string id="st_enable_collision">
+		<text>Kolizje włączone</text>
+	</string>
+    <string id="st_disable_collision">
+        <text>Kolizje wyłączone</text>
+    </string>
+	<string id="st_align_actor">
+		<text>Wyrównaj względem gracza</text>
+	</string>
+    <string id="st_align_surface">
+		<text>Wyrównaj względem powierzchni</text>
+	</string>
+</string_table>

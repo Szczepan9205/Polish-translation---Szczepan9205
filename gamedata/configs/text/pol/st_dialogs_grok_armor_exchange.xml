@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="0_insider">
+		<text>Słyszałem, że mogę wymieniać u ciebie kombinezony innych frakcji na kombinezony naszej frakcji, prawda?</text>
+	</string>
+	<string id="1_insider">
+		<text>Dokładnie, stalkerze. No więc słuchaj, mogę dać ci kombinezon tego samego rodzaju co ten, który posiadasz, ale pod warunkiem, że będzie on pochodzić z innej frakcji. Tylko pamiętaj, że ta wymiana ograniczona jest naszymi własnymi zapasami.\n
+		Pamiętaj też, że wymienię ci kombinezon na taki podobnej jakości do tego, który mi dasz. Jeśli dasz mi gówno, dostaniesz gówno z powrotem.\n
+		Z drugiej strony, jeśli kombinezon, który mi dasz będzie w dobrym stanie, dam ci w zamian nową, błyszczącą sztukę, ok? \n
+		Przy okazji, ta usługa nie jest darmowa. Potraktuj ten koszt jako opłatę za całą usługę. W końcu musimy znaleźć i naprawić sprzęt, nie?\n
+		To co tam masz na wymianę? Sprawdzę, czy mam kombinezon pasujący do tego, czego szukasz.\n</text>
+	</string>
+	<string id="armor_exchange_light">
+		<text>Lekki kombinezon [5000 RU].</text>
+	</string>
+	<string id="armor_exchange_medium">
+		<text>Średni kombinezon [10000 RU].</text>
+	</string>
+	<string id="armor_exchange_specops">
+		<text>Kombinezon wojskowy [25000 RU].</text>
+	</string>
+	<string id="armor_exchange_sci">
+		<text>Kombinezon naukowy [15000 RU].</text>
+	</string>
+	<string id="armor_exchange_skat">
+		<text>Ciężki kombinezon pancerny SKAT-9 [25000 RU].</text>
+	</string>
+	<string id="armor_exchange_exolight">
+		<text>Ciężki kombinezon do egzoszkieletu [30000 RU].</text>
+	</string>
+	<string id="armor_exchange_exo">
+		<text>Kombinezon z egzoszkieletem [45000 RU].</text>
+	</string>
+	<string id="armor_exchange_noso">
+		<text>Egzoszkielet klasy Nosorog [65000 RU].</text>
+	</string>
+	<string id="armor_exchange_exit">
+		<text>W sumie, nieważne.</text>
+	</string>
+</string_table>

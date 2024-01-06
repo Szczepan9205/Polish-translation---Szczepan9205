@@ -1,0 +1,232 @@
+<!-- ====================================================================
+	New Extensible RF Sources
+    Author: Catspaw
+    Source: https://www.moddb.com/members/catspawmods/addons
+
+    Permission granted to freely translate into any language.
+===================================================================== -->
+
+<string_table>
+	<string id="ui_mcm_menu_nerfs">
+		<text>NERF Sources</text>
+	</string>
+
+	<string id="ui_mcm_menu_nerfmain">
+		<text>Ustawienia g³ówne</text>
+	</string>
+
+	<string id="ui_mcm_menu_nerfwidget">
+		<text>Dostêpnoœæ</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_enable_rrfr">
+		<text>W³¹cz kompatybilnoœæ z przerobionym detektorem RF</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_enable_rrfr_desc">
+		<text>Jeœli masz zainstalowany dodatek Coverdrave's Reworked RF Receiver, zaznaczenie tej opcji sprawi, ¿e NERFS bêdzie korzysta³ z ustawieñ MCM tego dodatku dla stanu wyposa¿enia, sygna³ów dŸwiêkowych i zmian czêstotliwoœci. Wszystkie inne ulepszenia RRFR s¹ zawarte w NERFS.</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_debuglogs">
+		<text>W³¹cz rejestrowanie debugowania</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_debuglogs_desc">
+		<text>Mo¿e niepotrzebne, ale zawieraj¹ przydatne informacje debugowania. Jeœli zg³aszasz problem, prosimy po PIERWSZE:\n\n
+				1. W³¹czyæ to ustawienie.\n
+				2. Ca³kowicie wyjœæ z gry.\n
+				3. W³¹czyæ ponownie grê i odtworzyæ problem BEZ innych dodatków, jeœli to mo¿liwe.\n
+				4. Wyjœæ z gry.\n
+				4. Spakowaæ dziennik gry z [anomaly_folder]/appdata/logs i umieœciæ go gdzieœ w sieci.</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_max_freq">
+		<text>Maksymalna czêstotliwoœæ RF</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_max_freq_desc">
+		<text>Odbiornik RF mo¿e wyœwietlaæ maksymalnie trzy cyfry, ale jest ograniczony do zakresu VHF (30-300 MHz). Jednak niektóre Ÿród³a sygna³u waniliowego znajduj¹ siê poza tym zakresem. To ustawienie rozszerza zarówno zakres czêstotliwoœci detektora, jak i zakres u¿ywany przez grê podczas przydzielania zadañ.</text>
+	</string>
+	
+	<string id="ui_mcm_nerfs_nerfmain_header_dar">
+		<text>Minimalna wersja frameworka dla w³¹czenia "Devices of Anomaly Redone"</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_header1">
+		<text>Nowe rozszerzalne Ÿród³a RF ulepszaj¹ detektor RF na wiele sposobów: \n
+			• Rozszerzaj¹ zakres czêstotliwoœci od 300 do 999 (konfigurowalne poni¿ej).\n
+			• Dodaj¹ nowe interesuj¹ce Ÿród³a szumu RF.\n
+			• Przenosz¹ wszystkie Ÿród³a RF do rozszerzalnej struktury opartej na LTX, zaprojektowanej tak, aby by³a modyfikowalna i wolna od konfliktów.\n
+			• Dodaje notatki z ³upami (wraz z towarzysz¹cymi im artyku³ami encyklopedycznymi), które mo¿na losowo znaleŸæ na martwych Stalkerach, umo¿liwiaj¹c graczom poznanie przydatnych czêstotliwoœci podczas rozgrywki (tylko pe³na wersja - link poni¿ej).\n
+			• Dodaje opcjonalny wskaŸnik si³y sygna³u na HUD, dla u³atwienia dostêpu lub preferencji.\n
+			• Obejmuje obs³ugê przerobionego odbiornika RF i zadañ RF od TB.
+		</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_header2">
+		<text>Aby uzyskaæ wiêcej informacji lub pobraæ pe³n¹ wersjê NERFS, odwiedŸ stronê Moddb:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/new-extensible-rf-sources
+		</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_header1">
+		<text>Wid¿et dostêpnoœci to prosty wizualny wskaŸnik si³y sygna³u radiowego. Jest przeznaczony dla osób nies³ysz¹cych i niedos³ysz¹cych, ale mo¿e byæ u¿ywany przez ka¿dego, kto ma trudnoœci z odró¿nieniem sygna³ów dŸwiêkowych od szumu t³a. Po³o¿enie i kolory wskaŸnika mo¿na dostosowaæ do preferencji lub œlepoty barw. Wid¿et pojawi siê TYLKO wtedy, gdy gracz ma wyjêty detektor RF.\n</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_scrolldown">
+		<text>** Przewiñ w dó³, aby zobaczyæ wiêcej ustawieñ **</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_show">
+		<text>Poka¿ wid¿et dostêpnoœci</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_lo_header">
+		<text>\n\nWskaŸnik miga tym kolorem, gdy si³a sygna³u jest niska.\n
+		Domyœlnie (szary): 255,50,50,50\n\n</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_hi_header">
+		<text>\n\nWskaŸnik miga tym kolorem, gdy si³a sygna³u jest wysoka.\n
+		Domyœlnie (zielony): 255,0,250,0</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_em_header">
+		<text>\n\nWskaŸnik bêdzie miga³ tym kolorem podczas emisji.\n
+		Domyœlnie (czerwony): 128,200,0,0\n\n</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_clr_a">
+		<text>Alfa</text>
+	</string>	
+	<string id="ui_mcm_nerfs_nerfwidget_clr_r">
+		<text>Czerwony</text>
+	</string>
+	<string id="ui_mcm_nerfs_nerfwidget_clr_g">
+		<text>Zielony</text>
+	</string>
+	<string id="ui_mcm_nerfs_nerfwidget_clr_b">
+		<text>Niebieski</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_headerxy">
+		<text>Pozycja X i Y wid¿etu w lewym górnym rogu:</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_headerxy_desc">
+		<text>0,0 to lewy górny róg, 1024,768 to prawy dolny róg.\n
+		Gra konwertuje to na dowoln¹ rozdzielczoœæ. Domyœlna (dolny œrodek) to 491,670.</text>
+	</string>
+	<string id="ui_mcm_nerfs_nerfwidget_pos_x">
+		<text>Koordynat X (Poziomo, od lewej do prawej)</text>
+	</string>
+	<string id="ui_mcm_nerfs_nerfwidget_pos_y">
+		<text>Koordynat (Pionowo, od góry do do³u)</text>
+	</string>
+
+<!-- Added in 1.2 -->
+
+	<string id="ui_mcm_nerfs_nerfmain_use_mwheel">
+		<text>Kó³ko myszki zmienia czêstotliwoœæ?</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_use_mwheel_desc">
+		<text>Jeœli opcja ta jest w³¹czona, mo¿na zmieniaæ czêstotliwoœæ krêc¹c kó³kiem myszy w górê i w dó³. Podobnie jak w wanilii, przytrzymanie Shift lub Alt zmieni przyrost odpowiednio na 10 lub 50. Podczas przewijania zmieniaj¹ siê one znacznie szybciej!\n
+		Ta funkcja wymaga zmodyfikowanych plików .exe w wersji 20230701 lub nowszej. Nie jest obecnie obs³ugiwana przez GAMMA.</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_binaries">
+		<text>Zmodyfikowane .exe by demonized: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/
+		</text>
+	</string>
+
+<!-- Added in 1.3 -->
+
+	<string id="ui_mcm_menu_nerfpresets">
+		<text>Presety</text>
+	</string>
+
+	<string id="ui_mcm_nerfpresets_header1">
+		<text>Mo¿na zdefiniowaæ do dziewiêciu zaprogramowanych czêstotliwoœci i przypisaæ do ka¿dej z nich inny klawisz skrótu.</text>
+	</string>
+
+	<string id="ui_mcm_nerfpresets_header2">
+		<text>Jeœli w³¹czona jest obs³uga kó³ka myszy, mo¿na równie¿ przytrzymaæ klawisz Ctrl podczas przewijania, aby prze³¹czaæ siê miêdzy poni¿szymi ustawieniami.</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset1_freq">
+		<text>Preset czêstotliwoœci 1</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset1">
+		<text>Preset klawiszologii 1</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset2_freq">
+		<text>Preset czêstotliwoœci 2</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset2">
+		<text>Preset klawiszologii 2</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset3_freq">
+		<text>Preset czêstotliwoœci 3</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset3">
+		<text>Preset klawiszologii 3</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset4_freq">
+		<text>Preset czêstotliwoœci 4</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset4">
+		<text>Preset klawiszologii 4</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset5_freq">
+		<text>Preset czêstotliwoœci 5</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset5">
+		<text>Preset klawiszologii 5</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset6_freq">
+		<text>Preset czêstotliwoœci 6</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset6">
+		<text>Preset klawiszologii 6</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset7_freq">
+		<text>Preset czêstotliwoœci 7</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset7">
+		<text>Preset klawiszologii 7</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset8_freq">
+		<text>Preset czêstotliwoœci 8</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset8">
+		<text>Preset klawiszologii 8</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_preset9_freq">
+		<text>Preset czêstotliwoœci 9</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfpresets_kb_preset9">
+		<text>Preset klawiszologii 9</text>
+	</string>
+
+	<string id="st_nerfs_freq_preset">
+		<text>Preset czêstotliwoœci %s: %s MHz</text>
+	</string>
+	
+</string_table>

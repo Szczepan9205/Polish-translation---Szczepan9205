@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<!--COMMON-->
+	<string id="st_mag_weapon_jammed">
+		<text>Broń się zacięła</text>
+	</string>
+	<string id="st_mag_eject_magazine">
+		<text>wysuń magazynek</text>
+	</string>
+	<string id="st_mag_unload_ammo">
+		<text>rozładuj amunicję</text>
+	</string>
+	<string id="st_mag_loadout_remove">
+		<text>usuń z wyposażenia</text>
+	</string>
+	<string id="st_mag_loadout_add">
+		<text>dodaj do wyposażenia</text>
+	</string>
+
+	<string id="st_mag_retool">
+		<text>retool</text>
+	</string>
+	
+	<string id="st_mag_err_retool">
+		<text>Nie można przeładować załadowanego magazynka! Usuń wszystkie naboje przed przezbrojeniem.</text>
+	</string>
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_magazines">
+		<text>Magazynki</text>
+	</string>
+	<string id="ui_mcm_menu_mgmt">
+		<text>Zarządzanie magazynkami</text>
+	</string>
+	<string id="ui_mcm_menu_hud">
+		<text>HUD magazynków</text>
+	</string>
+	<string id="ui_mcm_menu_gameplay">
+		<text>Opcje rozgrywki</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmtitle">
+		<text>Anomaly Magazines Redux</text>
+	</string>
+	<string id="ui_mcm_magazines_hudtitle">
+		<text>Opcje HUD</text>
+	</string>
+	<string id="ui_mcm_magazines_gametitle">
+		<text>Opcje rozgrywki</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_loadtime_factor">
+		<text>Współczynnik czasu ładowania pocisku</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_loadtime_factor_desc">
+		<text>Mnożnik czasu ładowania pocisku</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_unloadtime_factor">
+		<text>Współczynnik czasu rozładowania pocisku</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_unloadtime_factor_desc">
+		<text>Mnożnik czasu rozładowania pocisku</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_tooltip">
+		<text>Informacja o podpowiedzi nt. magazynka</text>
+	</string>
+	<string id="ui_mcm_lst_topround">
+		<text>Tylko ostatni pocisk</text>
+	</string>
+	<string id="ui_mcm_lst_trcap">
+		<text>Ostatni pocisk + Dokładna pojemność</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Pełne informacje.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_tooltip_desc">
+		<text>Poziom intensywności dla danych magazynka.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_debug">
+		<text>Włącz dzienniki debugowania</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_debug_desc">
+		<text>Włącza dzienniki debugowania w konsoli.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_empty_mags_stack">
+		<text>Przechowuj puste magazynki w ekwipunku</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_empty_mags_stack_desc">
+		<text>Jeśli włączone, puste magazynki będą układane razem w ekwipunku zamiast oddzielnie.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_sort_inv">
+		<text>Sortuj zapasy podczas aktualizacji magazynków</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_sort_inv_desc">
+		<text>Nie zaznaczaj tej opcji, jeśli nie chcesz, aby przedmioty w ekwipunku przemieszczały się podczas aktualizacji magazynów.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_color">
+		<text>Kolor podświetlenia</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_color_desc">
+		<text>Kolor podświetlenia dla magazynków, które są częścią twojego wyposażenia.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_mgmt_highlight_clr_a">
+		<text>Przezroczystość podświetlenia</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_clr_a_desc">
+		<text>Ustala tła interfejsu użytkownika jest widoczne przez podświetlenie. Niższe wartości sprawiają, że podświetlenie jest bardziej subtelne.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ram_orange">
+		<text>Pomarańczowy</text>
+	</string>
+	<string id="ui_mcm_lst_ram_pink">
+		<text>Różowy</text>
+	</string>
+	<string id="ui_mcm_lst_ram_blond">
+		<text>Blond</text>
+	</string>
+	<string id="ui_mcm_lst_ram_white">
+		<text>Biały</text>
+	</string>
+	<string id="ui_mcm_lst_ram_brown">
+		<text>Brązowy</text>
+	</string>
+	<string id="ui_mcm_lst_ram_blue">
+		<text>Niebieski</text>
+	</string>
+
+	<string id="ui_mcm_magazines_hud_scale">
+		<text>Skala HUD</text>
+	</string>
+
+	<string id="ui_mcm_magazines_hud_ammo_scale">
+		<text>Skala ikony amunicji</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_grp_by_bt">
+		<text>Grupuj według broni</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_grp_by_bt_desc">
+		<text>Jeśli włączone, magazynki działające z tą samą bronią będą grupowane razem. Jeśli wyłączone, tylko identyczne magazynki zostaną zgrupowane razem.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_bgrd">
+		<text>Pokaż tło</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_bgrd">
+		<text>Tekstura tła</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_group_by_ammo">
+		<text>Grupuj według amunicji</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_group_by_ammo_desc">
+		<text>Jeśli włączone, magazynki zostaną podzielone na grupy w oparciu o ich ostatni załadowany nabój.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_hud">
+		<text>Włącz HUD magazynków</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_hud_desc">
+		<text>Jeśli opcja ta jest włączona, na HUD-zie, obok licznika amunicji, wyświetlane są aktualnie posiadane magazynki.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_icon_text">
+		<text>Włącz tekst amunicji na wyświetlaczu magazynków</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_icon_text_desc">
+		<text>Jeśli opcja ta jest włączona, na wyświetlaczu HUD pojawi się tekst dotyczący pierwszego naboju w magazynku. Wymaga włączenia opcji grupuj według amunicji.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_ammo_icon">
+		<text>Włącz ikony amunicji na wyświetlaczu magazynka</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_ammo_icon_desc">
+		<text>Jeśli opcja ta jest włączona, na wyświetlaczu HUD pojawią się małe ikony amunicji dla pierwszego naboju w magazynku. Wymaga włączenia opcji grupuj według amunicji.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_retain_round">
+		<text>Włącz "jeden w komorze"</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_retain_round_desc">
+		<text>Jeśli włączone, broń zachowuje nabój w komorze, gdy magazynki są wyrzucane.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_loadstash_behavior">
+		<text>Zachowanie podczas ładowania magazynków</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_loadstash_behavior_desc">
+		<text>Wybierz styl zachowania, gdy naboje są ładowane do magazynków w oknie schowka. Zwróć uwagę, że wybranie szybszych opcji uniemożliwi niektóre domyślne funkcje, takie jak rozłożenie różnych typów amunicji.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_tacload">
+		<text>Wyłącz przerywane ładowanie magazynków</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_tacload_desc">
+		<text>Ułatwia przeładowywanie broni poprzez uniemożliwienie manipulacji ruchem/zapasami anulowania przeładowania. Ułatwia rozgrywkę, ale może prowadzić do sytuacji, w których przeładowanie następuje natychmiast po przerwaniu animacji.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_load_behavior">
+		<text>Zachowanie podczas ładowania magazynka</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_load_behavior_desc">
+		<text>Wybierz styl zachowania, gdy naboje są ładowane do magazynków w ekwipunku lub oknie łupów. 
+			\n\nUwagi:
+			\n - Należy pamiętać, że wybranie szybszych opcji uniemożliwi niektóre domyślne funkcje, takie jak rozłożenie różnych typów amunicji.
+			\nPudełka z amunicją to ilość amunicji zawarta w jednym przedmiocie, która może wynosić od 10 pocisków dla broni śrutowej do 14-16 pocisków dla broni ręcznej.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_unload_behavior">
+		<text>Zachowanie podczas rozładowywania magazynka</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_unload_behavior_desc">
+		<text>Wybierz styl zachowania, gdy naboje są usuwane z magazynków. Zauważ, że dla wygody magazynki zawsze są natychmiast rozładowywane ze schowka.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ind">
+		<text>Nabój po naboju</text>
+	</string>
+	<string id="ui_mcm_lst_box">
+		<text>Pudełko po pudełku</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Natychmiastowe</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_ejection">
+		<text>Zachowanie rozładowywania pustych magazynków</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_ejection_desc">
+		<text>Kontroluje, gdzie trafiają puste magazynki </text>
+	</string>
+
+	<string id="ui_mcm_lst_ruck">
+		<text>Włóż do plecaka</text>.
+	</string>
+
+	<string id="ui_mcm_lst_loadout">
+		<text>Włóż ładunek</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_mag_unequip_trs">
+		<text>Traktuj jako pusty %</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_mag_unequip_trs_desc">
+		<text>Magazynki poniżej tego % będą traktowane jako puste.</text>
+	</string>
+	<string id="ui_mcm_magazines_rant">
+	<text>Wyjaśnienie, jak działa przeładowywanie bojowe (przeładowywanie przy zamkniętym ekwipunku):
+
+	\n\nTwój ekwipunek to zestaw kieszeni/szlufek na kamizelce. Przykładowo masz 4 kieszenie i 4 magazynki w ekwipunku, po jednym w każdej kieszeni i piąty magazynek w pistolecie.
+	\nPrzeładowujesz, broń jest w jednej ręce, drugą chwytasz magazynek w pistolecie i wyjmujesz go. Masz teraz pistolet w jednej ręce i magazynek w drugiej. We wszystkich czterech kieszeniach znajdują się magazynki, więc nie możesz włożyć magazynka trzymanego w ręce do kieszeni, ani wyjąć magazynka z kieszeni, ponieważ obie ręce masz zajęte. Co robić?
+	\nWsuń magazynek trzymany w dłoni do saszetki lub plecaka, ponieważ nie symulujemy saszetki.
+	\nTeraz masz wolną rękę, bierzesz magazynek z kieszeni ładunkowej i wkładasz go do pistoletu, pozostawiając jedną pustą kieszeń ładunkową. Przeładowanie zakończone.
+	\nJeśli rozpoczynasz proces z wolną kieszenią w ekwipunku, magazynek z pistoletu jest do niej wkładany. Chyba że jest pusta, wtedy domyślnie trafia do plecaka. Można to zmienić, aby puste magazynki były umieszczane w kieszeniach wyposażenia lub upuszczane na ziemię.
+
+	\nJeśli masz otwarty ekwipunek, to nie jest to przeładowanie bojowe i wykonywana jest dodatkowa próba umieszczenia magazynka w ekwipunku, ponieważ zakłada się, że możesz odłożyć broń lub magazynek. Również ustawienie upuszczania magazynków na ziemię jest ignorowane, gdy ekwipunek jest otwarty.
+	\nJeśli jednak uważasz, że RavenAscendant się myli i że podczas przeładowania bojowego twój stalker ma magiczną trzecią rękę, która trzyma magazynek, który wypadł z pistoletu, dopóki nie można go umieścić w zwolnionym slocie ekwipunku, lub że trzyma go w zębach / kolanach / pachach / za pomocą mocy psionicznych, to poniżej znajduje się opcja umożliwiająca takie zachowanie.\n\n</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_three_hands">
+		<text>Użyj "trzeciej ręki", aby umieścić wyrzucony magazynek z powrotem w ekwipunku po przeładowaniu bojowym.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_three_hands_desc">
+		<text>Raven nadal uważa, że to jest złe.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathquality">
+		<text>Jakość magazynków NPC</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathquality_desc">
+		<text>Modyfikator pozwalający znaleźć lepsze magazynki i amunicję przy zwłokach.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathmags">
+		<text>Magazynki u NPC</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathmags_desc">
+		<text>Mnożnik ilości magazynków upuszczanych przez postacie niezależne.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathammo">
+		<text>Zrzuty amunicji od postaci niezależnych</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathammo_desc">
+		<text>Mnożnik ilości amunicji dla magazynków upuszczonych przez NPC.</text>
+	</string>
+
+	<!--MAGAZINES-->
+
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="st_mag_bonus">
+		<text>(Kombinezon:%s + Extra:%s)<!--alt:> (%s + %s)<--></text>
+	</string>
+	<string id="st_mag_small">
+		<text>Małe magazynki:</text>
+	</string>
+	<string id="st_mag_medium">
+		<text>Średnie magazynki:</text>
+	</string>
+	<string id="st_mag_large">
+		<text>Duże magazynki:</text>
+	</string>
+	<string id="st_mag_base">
+		<text>Baza magazynków</text>
+	</string>
+	<string id="st_mag_base_descr">
+		<text>Baza magazynków.</text>
+	</string>
+	
+	<string id="st_mag_size">
+		<text>Rozmiar magazynka:</text>
+	</string>
+	<string id="st_mag_size_small">
+		<text>mały</text>
+	</string>
+	<string id="st_mag_size_medium">
+		<text>średni</text>
+	</string>
+	<string id="st_mag_size_large">
+		<text>duży</text>
+	</string>
+
+	<string id="st_mag_loaded">
+		<text>Załadowany magazynek:</text>
+	</string>
+	<string id="st_mag_loaded_none">
+		<text>OSTRZEŻENIE: Brak załadowanego magazynka</text>
+	</string>
+	
+	<string id="st_mag_ammo_loaded_count">
+		<text>Liczba załadowanych naboi:</text>
+	</string>
+	<string id="st_mag_capacity">
+		<text>Pojemność magazynka:</text>
+	</string>
+	<string id="st_mag_ammo_top_round">
+		<text>Ostatni załadowany pocisk:</text>
+	</string>
+
+	<string id="article_mags">
+		<text>Anomaly Magazines</text>
+	</string>
+	<string id="article_mags_text">
+		<text>
+			%c[pda_green]Mags Redux%c[ui_gray_1]\n \n
+			\nWitamy w korzystaniu z Mags Redux. Niniejszy przewodnik obejmuje większość funkcji i zmian, których można się spodziewać podczas korzystania z tego moda.
+			\nDla użytkowników starych magazynków Anomaly (od Wuut) można spodziewać się niewielkich różnic w rozgrywce. Większość funkcji jest taka sama. \n \n
+			
+			%c[pda_green]I. Jak ładować i strzelać z broni%c[ui_gray_1]\n
+			\n• Bronie, które logicznie używają magazynków w prawdziwym życiu, wymagają użycia magazynków.
+			\n• Broń, która tego nie wymaga, będzie zachowywać się tak jak w wersji waniliowej (strzelby, niektóre karabiny, rewolwery).
+			\n• Amunicja musi być ręcznie ładowana do magazynków. Opis magazynka wskaże, jaki rodzaj amunicji jest kompatybilny. Aby załadować amunicję, przeciągnij amunicję na magazynek. Spowoduje to rozpoczęcie procedury ładowania, która będzie ładować naboje jeden po drugim.
+			\n• Aby anulować tę procedurę, kliknij w dowolnym miejscu.
+			\n• Aby dodać magazynek do wyposażenia, kliknij go prawym przyciskiem myszy. Pojawi się opcja "dodaj do wyposażenia". Tło magazynka zmieni kolor i pojawi się ikona: oznacza to, że magazynek został dodany do wyposażenia.
+			\n• Od tego momentu, jeśli trzymasz kwalifikującą się broń, przeładowanie broni wykorzysta magazynek w twoim ekwipunku.
+			\n• mod spróbuje automatycznie wybrać magazynek, który a) ma największy rozmiar i b) ma górny nabój równy typowi amunicji.
+			\n• Magazynki mogą być również ręcznie wkładane i wyrzucane. Kliknij broń prawym przyciskiem myszy, aby znaleźć opcję wyrzucenia magazynka. 
+			\n• Koło amunicji może być używane do wymiany magazynków. Magazynki są podzielone na kategorie według ostatniego załadowanego pocisku.\n \n
+			
+			%c[pda_green]II. Gdzie znaleźć magazynki%c[ui_gray_1]\n
+			\n• Sprzedawcy, którzy mają w asortymencie broń, mają też magazynki. Magazynki można im również sprzedać za grosze.
+			\n• Postacie niezależne będą miały kilka magazynków do swojej broni i trochę amunicji.
+			\n• Postacie niezależne, zwłaszcza te o wysokiej randze, mają niewielką szansę na upuszczenie ulepszonych magazynków. Magazynki te ładują się szybciej, mają większą pojemność lub jedno i drugie.
+
+			
+			%c[pda_green]III. Wyjaśnienie opcji MCM.%c[ui_gray_1]\n
+			\n• Jakość łupów: Wpływa na ilość upuszczonych magazynków, ilość napełnienia i szansę na ulepszenie magazynków.
+			\n• Współczynnik czasu ładowania/rozładowania: Mnożnik szybkości ładowania/rozładowywania pocisków w magazynkach.
+			\n• Szybkie ładowanie: Umożliwia natychmiastowe rozładowanie magazynków TYLKO W SCHOWKU.
+			\n• Jeden w komorze: Zachowuje nabój w komorze podczas zmiany magazynka, tak jak w prawdziwym życiu. 
+		</text>
+	</string>
+
+
+</string_table>

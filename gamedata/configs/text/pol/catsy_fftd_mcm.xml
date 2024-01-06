@@ -1,0 +1,417 @@
+<!--
+	Author: Catspaw (CatspawMods @ ModDB)
+	Addon: Fair Fast Travel
+	Source: https://www.moddb.com/mods/stalker-anomaly/addons/fair-fast-travel-duration-for-anomaly-151
+	Permission granted to freely translate into any language.
+-->
+
+<string_table>
+	<string id="ui_mcm_menu_fftd">
+		<text>Sprawiedliwa szybka podró¿</text>
+	</string>
+
+	<string id="st_fftd_mapspot_estdur">
+		<text>przynajmniej</text>
+	</string>
+
+	<string id="st_fftd_mapspot_meters">
+		<text>m</text>
+	</string>
+
+	<string id="ui_mcm_menu_gen">
+		<text>Ogólne</text>
+	</string>
+
+	<string id="ui_mcm_menu_ftcfg">
+		<text>Szybka podró¿</text>
+	</string>
+
+	<string id="ui_mcm_menu_bpcfg">
+		<text>Podró¿ z plecakiem</text>
+	</string>
+
+	<string id="st_pda_backpack_travel_to">
+		<text>Podró¿ z plecakiem do</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_skillsystem_enabled">
+		<text>W³¹cz integracjê systemu umiejêtnoœci Haruka</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_haruka_enabled_desc">
+		<text>Jeœli mod System umiejêtnoœci Haruki jest zainstalowany i ta opcja jest w³¹czona, FFTD weŸmie pod uwagê mno¿nik prêdkoœci ruchu z umiejêtnoœci Wytrzyma³oœæ i odpowiednio dostosuje czasy podró¿y, np. mno¿nik ruchu 1,15 zmniejszy wszystkie czasy szybkiej podró¿y o oko³o 15%.\n\nJeœli System umiejêtnoœci nie jest zainstalowany, to ustawienie nie ma ¿adnego efektu.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_usedisguisefix">
+		<text>U¿yæ poprawki do systemu maskowania?</text>
+	</string>
+
+	<string id="ui_mcm_fftd_useoldcalcs">
+		<text>U¿ywaæ niezmodyfikowanej formu³y odleg³oœci Anomaly?</text>
+	</string>
+
+	<string id="ui_mcm_fftd_mpm">
+		<text>Minuty czasu gry na 100 przebytych metrów</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_enabled">
+		<text>Losowe opóŸnienie w³¹czone dla czasu podró¿y?</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_hours_min">
+		<text>Jeœli w³¹czone, dodaje minimaln¹ liczbê godzin</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_hours_max">
+		<text>Jeœli w³¹czone, maksymalna liczba dodanych godzin</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_minutes_min">
+		<text>Jeœli w³¹czone, minimalna liczba dodanych minut</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_minutes_max">
+		<text>Jeœli w³¹czone, maksymalne dodane minuty</text>
+	</string>
+
+	<string id="ui_mcm_header_loc_travel">
+		<text>Podró¿ w obrêbie tej samej mapy</text>
+	</string>
+
+	<string id="ui_mcm_header_map_travel">
+		<text>Podró¿ do innej mapy</text>
+	</string>
+
+	<string id="st_fftd_rub">
+		<text>RU</text>
+	</string>
+
+	<string id="st_fftd_toopoor">
+		<text>Nie staæ ciê na zap³acenie za przejazd</text>.
+	</string>
+
+	<string id="st_fftd_mapspot_guideto">
+		<text>Wynajmij przewodnika</text>
+	</string>
+
+	<string id="st_fftd_farepaid_guide">
+		<text>Wezwa³eœ pobliskiego przewodnika-weterana i zap³aci³eœ mu %s za doprowadzenie ciê do celu.</text>
+	</string>
+
+	<string id="st_fftd_guides_ignored">
+		<text>¯aden przewodnik nie przyje¿d¿a w takie miejsce tylko po to, by ciê odebraæ</text>.
+	</string>
+
+	<string id="ui_mcm_menu_gtcfg">
+		<text>Podró¿ z przewodnikiem</text>
+	</string>
+
+	<string id="ui_mcm_fftd_cost_coef">
+		<text>Koszt w rublach za przejechany metr</text>
+	</string>
+
+	<string id="ui_mcm_fftd_pause_stats">
+		<text>Zapauzowaæ pragnienie, g³ód, zmêczenie, wytrzyma³oœæ i zdrowie na czas podró¿y?</text>
+	</string>
+
+	<string id="st_fftd_notyet">
+		<text>%s niedostêpne przez kolejne %s</text>
+	</string>
+
+	<string id="st_fft_hour">
+		<text>godzina</text>
+	</string>
+	<string id="st_fft_hours">
+		<text>godzin</text>
+	</string>
+	<string id="st_fft_minute">
+		<text>minuta</text>
+	</string>
+	<string id="st_fft_minutes">
+		<text>minut</text>
+	</string>
+	<string id="st_fft_second">
+		<text>sekunda</text>
+	</string>
+	<string id="st_fft_seconds">
+		<text>sekund</text>
+	</string>
+
+	<string id="st_fftd_travelname_ft">
+		<text>szybka podró¿</text>
+	</string>
+
+	<string id="st_fftd_travelname_bp">
+		<text>podró¿ z plecakiem</text>
+	</string>
+
+	<string id="st_fftd_travelname_gt">
+		<text>podró¿ z przewodnikiem</text>
+	</string>
+
+	<string id="st_fftd_ftsystem">
+		<text>System szybkiej podró¿y</text>
+	</string>
+
+	<string id="st_fftd_guides_far">
+		<text>Nie ma przewodników wystarczaj¹co blisko, aby mogli ci odpowiedzieæ.</text>
+	</string>
+
+	<string id="st_fftd_enemy_guides">
+		<text>Jedynymi przewodnikami w pobli¿u s¹ wrogowie twojej obecnej frakcji.</text>
+	</string>
+
+	<string id="st_fftd_guides_none">
+		<text>¯aden przewodnik nie odpowiada obecnie na wiadomoœci.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_rnd_enabled_desc">
+		<text>Jeœli w³¹czone dla tego typu podró¿y, do ka¿dej podró¿y mo¿e zostaæ dodane losowe opóŸnienie zgodnie z poni¿szymi ustawieniami. Ustawienie 0-2 godzin i 0-59 minut dok³adnie odwzoruje zachowanie Anomaly, jeœli jest to po¿¹dane.</text>
+	</string>	
+
+	<string id="ui_mcm_fftd_pause_stats_desc">
+		<text>Jeœli w³¹czone, wiêkszoœæ statystyk przetrwania (g³ód, pragnienie) zostanie zamro¿ona na czas trwania tego typu podró¿y.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_enabled">
+		<text>Wynajmowanie przewodników do szybkiej podró¿y z mapy PDA</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_ftcfg_travel_cooldown">
+		<text>Czas odnowienia szybkiej podró¿y</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_bpcfg_travel_cooldown">
+		<text>Czas odnowienia podró¿y z plecakiem</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_travel_cooldown">
+		<text>Czas odnowienia podró¿y z przewodnikiem</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_ftcfg_travel_cooldown_desc">
+		<text>Musisz odczekaæ tyle sekund w czasie rzeczywistym pomiêdzy szybkimi podró¿ami. Aby wy³¹czyæ tê funkcjê, ustaw j¹ na zero.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_bpcfg_travel_cooldown_desc">
+		<text>Musisz odczekaæ tyle sekund w czasie rzeczywistym pomiêdzy podró¿ami z plecakiem. Aby wy³¹czyæ tê funkcjê, ustaw j¹ na zero.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_travel_cooldown_desc">
+		<text>Musisz odczekaæ tyle sekund w czasie rzeczywistym pomiêdzy podró¿ami z przewodnikiem. Aby wy³¹czyæ tê funkcjê, ustaw wartoœæ zero.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_add_travel_time">
+		<text>Tyle czasu przewodnicy potrzebuj¹, aby do ciebie dotrzeæ.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_add_travel_time_desc">
+		<text>Jeœli w³¹czone, czas trwania podró¿y bêdzie zawiera³ obliczenia, ile czasu zajmuje przewodnikowi podró¿ z punktu pocz¹tkowego do miejsca, w którym znajduje siê gracz.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_local_only">
+		<text>Przewodnicy tylko lokalni</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_local_only_desc">
+		<text>Jeœli w³¹czone, przewodnicy bêd¹ dostêpni tylko wtedy, gdy jeden z nich znajduje siê poza bie¿¹c¹ map¹.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_guides_loyal">
+		<text>Przewodnicy s¹ lojalni wobec swojej frakcji</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gtcfg_guides_loyal_desc">
+		<text>Jeœli opcja ta jest w³¹czona, przewodnicy bêd¹ odmawiaæ prowadzenia interesów z graczami, którzy s¹ wrogami ich frakcji. Przewodnicy bêd¹ jednak patrzeæ w inn¹ stronê, jeœli gracz jest odpowiednio przebrany.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gen_shared_cooldown">
+		<text>Wszystkie typy podró¿y maj¹ wspólny wyzwalacz czasu odnowienia</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gen_shared_cooldown_desc">
+		<text>Jeœli ta opcja jest w³¹czona, czasy odnowienia dla wszystkich typów podró¿y s¹ powi¹zane - to znaczy, gdy jeden z nich zostanie uruchomiony, wszystkie zostan¹ uruchomione. Na przyk³ad, podró¿ do plecaka uruchomi równie¿ czasy odnowienia, jeœli takie istniej¹, dla szybkiej podró¿y i podró¿y z przewodnikiem. Jeœli opcja jest wy³¹czona, ka¿dy typ podró¿y œledzi swój czas odnowienia osobno, jeœli ma to zastosowanie.</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gen_debuglogs_enabled">
+		<text>W³¹cz rejestrowanie debugowania</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gen_allow_debug_travel">
+		<text>Zezwól na podró¿ do debugowanych miejsc na mapach</text>
+	</string>
+
+
+	<string id="ui_mcm_fftd_gen_allow_debug_travel_desc">
+		<text>Po uruchomieniu w trybie debugowania, waniliowe Anomaly pozwala na szybk¹ podró¿ do stalkerów, znaczników obszaru i ró¿nych innych punktów debugowania, które normalnie nie s¹ wa¿nymi celami. Mo¿e to byæ niepo¿¹dane, poniewa¿ znaczniki te mog¹ przeszkadzaæ i powodowaæ teleportacjê w niew³aœciwe miejsce, na przyk³ad za Barmana lub innego handlarza. Domyœlnie FFT je odfiltrowuje. W³¹czenie tego ustawienia przywróci zachowanie waniliowe. Jeœli nie testujesz czegoœ lub nie utkn¹³eœ na mapie i musisz siê wydostaæ, zaleca siê pozostawienie tej opcji wy³¹czonej przez ca³y czas.</text>
+	</string>
+
+	<string id="ui_mcm_header_ft">
+		<text>Normalne ustawienia szybkiej podró¿y</text>
+	</string>
+
+	<string id="ui_mcm_header_ftsub">
+		<text>Jest to domyœlna forma szybkiej podró¿y, która jest kontrolowana przez wszystkie ustawienia szybkiej podró¿y Anomaly. Jeœli opcja podró¿y mówi "szybka podró¿", a nie "plecak" lub "przewodnik", u¿ywa ustawieñ na tej stronie.</text>
+	</string>
+
+	<string id="ui_mcm_header_bp">
+		<text>Ustawienia szybkiej podró¿y z plecakiem</text>
+	</string>
+
+	<string id="ui_mcm_header_bpsub">
+		<text>Podró¿owanie z plecakiem pozwala na szybk¹ podró¿ do umieszczonych schowków i jest równie¿ zarz¹dzane przez ustawienia podró¿y z plecakiem Anomaly. Wyœwietli on prawid³owe nazwy schowków, które zosta³y utworzone po instalacji FFT.</text>
+	</string>
+
+	<string id="ui_mcm_header_gt">
+		<text>Ustawienia podró¿y przewodnika PDA</text>
+	</string>
+
+	<string id="ui_mcm_header_gtsub">
+		<text>Podró¿owanie z przewodnikiem jest unikalne dla FFT i pozwala na wynajêcie doœwiadczonego przewodnika, który eskortuje ciê do miejsca docelowego. Musisz im zap³aciæ, ale zak³ada siê, ¿e przewodnicy spakuj¹ zapasy na podró¿ - twoje statystyki przetrwania zostan¹ wstrzymane podczas podró¿y (konfigurowalne poni¿ej) i przyjd¹ po ciebie, nawet jeœli jesteœ ranny lub masz nadwagê, ignoruj¹c te dwa ustawienia. Istniej¹ jednak pewne miejsca, do których po prostu nie pójd¹ za wynagrodzeniem.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_allow_pin_travel">
+		<text>Zezwalasz na podró¿ do znaczników Quick Pin? (wymaga PAW)</text>
+	</string>
+
+	<string id="ui_mcm_fftd_allow_pin_travel_desc">
+		<text>Jeœli ten typ podró¿y jest w³¹czony, znaczniki Quick Pin mog¹ byæ u¿ywane jako miejsca docelowe szybkiej podró¿y. Pin Travel wymaga dodatku Personal Adjustable Waypoint, a to ustawienie nie ma wp³ywu, jeœli nie jest on zainstalowany. Jest to dozwolone tylko dla Quick Pins, poniewa¿ mo¿na je umieszczaæ tylko w lokalizacjach, do których gracz mo¿e dotrzeæ.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_getpaw">
+		<text>Funkcja Podró¿y szpilk¹ wymaga dodatku Osobisty regulowany punkt trasy:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
+	</string>
+
+	<string id="ui_mcm_fftd_usedisguisefix_desc">
+		<text>B³¹d w waniliowym Anomaly powoduje, ¿e przebrania s¹ wysadzane, jeœli szybko podró¿ujesz w pobli¿u postaci niezale¿nych z w³¹czonym up³ywem czasu. To ustawienie naprawia b³¹d poprzez wy³¹czenie podejrzeñ opartych na czasie w ustawieniach przebrania do czasu zakoñczenia przeskoku czasowego. To ustawienie nie powinno byæ nigdy wy³¹czane, z wyj¹tkiem rozwi¹zywania problemów.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_useoldcalcs_desc">
+		<text>W waniliowym Anomaly obliczanie odleg³oœci dzia³a poprawnie tylko w obrêbie tej samej mapy. Podczas obliczania podró¿y do innych map czêsto daje dziwaczne i bezsensowne wyniki. FFT zastêpuje tê metodê globalnym obliczaniem odleg³oœci. Metoda waniliowa jest z³a i nigdy nie powinieneœ jej w³¹czaæ - ale ze wzglêdu na kompatybilnoœæ mo¿esz to zrobiæ, jeœli naprawdê tego potrzebujesz.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_cost_coef_desc">
+		<text> Domyœlnie tylko Guide Travel ma koszt. Mo¿esz opcjonalnie ustawiæ pozosta³e dwa typy podró¿y, aby równie¿ mia³y koszt, a jeœli ta wartoœæ jest wiêksza od zera, bêd¹ one korzystaæ z tych samych obliczeñ, co podró¿ przewodnika.</text>
+	</string>
+
+	<string id="st_fftd_farepaid_noguide">
+		<text>Op³ata za szybk¹ podró¿: %s</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_ignore_status">
+		<text>Przewodnicy ignoruj¹ status "ranny" i "przeci¹¿ony"</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_ignore_status_desc">
+		<text>Jeœli w³¹czone, Guide Travel ignoruje ustawienia, które uniemo¿liwiaj¹ szybk¹ podró¿, jeœli gracz krwawi, jest napromieniowany lub ma nadwagê. Ma to na celu reprezentowanie, ¿e przewodnicy s¹ gotowi udzieliæ pierwszej pomocy lub pomóc ci nieœæ czêœæ twojego ciê¿aru.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_dist">
+		<text>Dystans walki NPC</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_dist_desc">
+		<text>Maksymalna odleg³oœæ, w której gracz jest uwa¿any za "w walce" dla celów blokowania szybkiej podró¿y.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_timeout">
+		<text>Okres walki NPC</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_combat_timeout_desc">
+		<text>Jeœli wróg nie widzia³ gracza przez tyle sekund, przestaje siê liczyæ do celów blokowania szybkiej podró¿y.</text>
+	</string>
+
+<!-- Added in 2.3 -->
+
+	<string id="ui_mcm_fftd_gen_use_warfare_fix">
+		<text>U¿yj dodatku Warfare Alife Overhaul</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_use_warfare_fix_desc">
+		<text>Jeœli ta opcja jest w³¹czona, a tryb Warfare jest aktywny, FFT pominie próbê dodania ikon szybkiej podró¿y do mapy. Jeœli ikony mapy lub menu kontekstowe nie dzia³aj¹ poprawnie po zainstalowaniu dodatku Warfare Alife Overhaul, spróbuj w³¹czyæ tê opcjê.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_allow_open_bp">
+		<text>Zezwól na otwieranie plecaków z poziomu mapy</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_allow_open_bp_desc">
+		<text>W³¹czenie tej opcji spowoduje ponowne w³¹czenie funkcji waniliowej, która umo¿liwia otwieranie plecaka z dowolnego miejsca na tej samej mapie. Ze wzglêdów balansu jest ona domyœlnie wy³¹czona.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gear_dmg_factor">
+		<text>Mno¿nik obra¿eñ od stanu wyposa¿enia</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gear_dmg_factor_desc">
+		<text>Dostosowuje mno¿nik obra¿eñ kondycyjnych nak³adanych na ca³y ekwipunek gracza podczas szybkiej podró¿y. Wartoœci w okolicach 1 lub 2 s¹ zalecane jako "normalne" ustawienie trudnoœci, podczas gdy maksymalne ustawienie 11 jest prawdopodobnie daleko poza przesad¹ dla wiêkszoœci normalnych rozgrywek. Ustawienie tego na zero wy³¹czy tê funkcjê dla tego typu podró¿y.</text>
+	</string>
+
+<!-- Added in 2.3.1 -->
+	<string id="ui_mcm_fftd_gen_cond_dmg_mode">
+		<text>Funkcja stanu ekwipunku</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_cond_dmg_mode_desc">
+		<text>Ca³y ekwipunek: utrata stanu dotyczy ca³ego wyposa¿onego ekwipunku\n
+			Losowo: utrata stanu jest stosowana losowo do jednego wyposa¿onego przedmiotu\n
+			Pancerz: utrata stanu dotyczy wyposa¿onego kombinezonu i he³mu\n
+			Broñ: utrata stanu jest stosowana do wyposa¿onej broni\n
+			Wy³¹czone: wy³¹cza utratê stanu wyposa¿enia dla wszystkich typów podró¿y, niezale¿nie od ich indywidualnych ustawieñ.
+		</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_disabled">
+		<text>Wy³¹czone</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_all">
+		<text>Ca³y ekwipunek</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_random">
+		<text>Losowo</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_armor">
+		<text>Kombinezon</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_dmg_weapons">
+		<text>Broñ</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_health">
+		<text>Minimalny stan zdrowia do podró¿owania</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_health_desc">
+		<text>Jeœli gracz normalnie nie móg³by podró¿owaæ z powodu promieniowania lub krwawienia, nie bêdzie móg³ równie¿ podró¿owaæ, jeœli jego zdrowie spadnie poni¿ej tego procentu. Ustawienie tej wartoœci na zero skutecznie wy³¹cza tê funkcjê.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_satiety">
+		<text>Minimalna sytoœæ do podró¿owania</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_minimum_satiety_desc">
+		<text>Jeœli gracz normalnie nie móg³by podró¿owaæ z powodu promieniowania lub krwawienia, nie bêdzie móg³ równie¿ podró¿owaæ, jeœli jego "sytoœæ" (g³ód/pragnienie) jest poni¿ej tego procentu. Ustawienie tej wartoœci na zero skutecznie wy³¹cza tê funkcjê.</text>
+	</string>
+
+</string_table>

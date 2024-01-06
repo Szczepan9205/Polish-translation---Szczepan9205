@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_wpn_thompson_m1a1">
+		<text>Thompson M1A1</text>
+	</string>
+	<string id="st_wpn_thompson_m1a1_descr">
+		<text>Thompson to chłodzony powietrzem, zasilany magazynkiem pistolet maszynowy o selektywnym ostrzale.\n
+		Ten wariant Thompsona ma znacznie zmniejszoną szybkostrzelność i uproszczoną konstrukcję wyprodukowaną na zamówienie armii amerykańskiej. W rezultacie usunięto zamek Blish, system oliwienia i kompensator. Pomimo mniejszej szybkostrzelności, pistolet jest znacznie gorszy w strzelaniu niż model 1921.\n
+		Ten wariant ma również inny odbiornik niż wariant 1921/1928, a zatem nie będzie akceptował magazynków bębnowych.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Brak\n</text>
+	</string>
+
+	<string id="st_wpn_thompson_1921">
+		<text>Thompson Model 1921</text>
+	</string>
+	<string id="st_wpn_thompson_1921_descr">
+		<text>Thompson to chłodzony powietrzem, zasilany magazynkiem pistolet maszynowy o selektywnym ostrzale.\n
+		Ten wariant Thompsona, nazywany również "chicagowską maszyną do pisania", charakteryzuje się szybszą szybkostrzelnością i systemem blokady broni Blish Lock.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Brak\n
+		</text>
+	</string>
+
+	<string id="st_up_m1a1_b8_name">
+		<text>Instalacja cięższej lufy</text>
+	</string>
+	<string id="st_up_m1a1_b8_descr">
+		<text>Instalacja cięższej lufy w celu dalszej poprawy odrzutu</text>
+	</string>
+	<string id="st_up_m1a1_b5_name">
+		<text>Instalacja kolby z polimeru</text>
+	</string>
+	<string id="st_up_m1a1_b5_descr">
+		<text>Instalacja kolby polimerowej zastępującej części drewniane w celu szybkiej redukcji wagi.</text>
+	</string>
+	<string id="st_up_m1a1_b6_name">
+		<text>Instalacja polimerowej osłony dłoni</text>
+	</string>
+	<string id="st_up_m1a1_b6_descr">
+		<text>Instalacja polimerowej osłony rękojeści w celu zastąpienia drewnianych części w celu nieznacznego zmniejszenia masy.</text>
+	</string>
+	<string id="st_up_m1a1_b7_name">
+		<text>Instalacja elementów antykorozyjnych</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Instalacja komponentów broni, które trudniej ulegają degradacji.</text>
+	</string>
+
+	<string id="st_up_1921_b8_name">
+		<text>Montaż wysokiej jakości importowanych części</text>
+	</string>
+	<string id="st_up_1921_b8_descr">
+		<text>Montaż wysokiej jakości części importowanych z USA w celu zwiększenia niezawodności pistoletu.</text>
+	</string>
+	<string id="st_up_1921_b5_name">
+		<text>Instalacja polimerowej kolby</text>
+	</string>
+	<string id="st_up_1921_b5_descr">
+		<text>Instalacja polimerowej kolby w celu zastąpienia drewnianych części dla szybkiej redukcji wagi.</text>
+	</string>
+	<string id="st_up_1921_b6_name">
+		<text>Montaż polimerowej osłony rękojeści</text>
+	</string>
+	<string id="st_up_1921_b6_descr">
+		<text>Montaż polimerowej osłony rękojeści w celu zastąpienia drewnianych części w celu nieznacznego zmniejszenia wagi.</text>
+	</string>
+	<string id="st_up_1921_b7_name">
+		<text>Montaż elementów antykorozyjnych</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Montaż elementów broni, które trudniej ulegają degradacji.</text>
+	</string>
+
+	<string id="st_up_1921_b9_name">
+		<text>Instalacja zmodyfikowanego mechanizmu zamka Blish</text>
+	</string>
+	<string id="st_up_1921_b9_descr">
+		<text>Instalacja ulepszonego mechanizmu blokującego w celu znacznego zwiększenia niezawodności pistoletu.</text>
+	</string>
+
+
+</string_table>

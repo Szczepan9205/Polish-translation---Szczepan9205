@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="ui_mcm_swm_legs_title">
+		<text>Ciało GG by SWM z Shoker Weapon Mod</text>
+	</string>	
+	<string id="ui_mcm_menu_swm_legs">
+		<text>Ciało GG</text>
+	</string>
+	<string id="ui_mcm_swm_legs_hide_legs_low_crouch">
+		<text>Ukryj ciało w trybie niskiego przykucnięcia</text>
+	</string>
+	<string id="ui_mcm_swm_legs_legs_offset">
+		<text>Pozycja ciała (bliżej/dalej)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_legs_offset_side">
+		<text>Pozycja ciała (lewo/prawo)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_toggle_turn_step_sound">
+		<text>Włącz dźwięki kroków podczas obracania się</text>
+	</string>
+	<string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo">
+		<text>Włącz dźwięki kroków egzoszkieletu podczas obracania się</text>
+	</string>
+	<string id="ui_mcm_swm_legs_turn_step_sound_volume">
+		<text>Głośność kroków</text>
+	</string>
+	<string id="ui_mcm_swm_legs_use_hd_models">
+		<text>Używaj modeli HD (WYMAGA DODATKU HD MODELS PACK!)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_disabled">
+		<text>Wyłącz wyświetlanie ciała (dla bezpiecznego odinstalowania!)</text>
+	</string>
+	<string id="ui_mcm_swm_legs_disabled_desc">
+		<text>Ta opcja umożliwia bezpieczne odinstalowanie dodatku.\n1) Włącz go\n2) Upewnij się, że model ciała zniknął\n3) Zapisz, wyjdź i wyłącz dodatek.</text>
+	</string>
+	<string id="ui_mcm_swm_legs_use_combat_state">
+		<text>Włącz stany gotowości bojowej/spokoju</text>
+	</string>
+	<string id="ui_mcm_swm_legs_use_slow_down_state">
+		<text>Włącz stany spowolnienia</text>
+	</string>
+	<string id="ui_mcm_swm_legs_enable_blood">
+		<text>(Eksperymentalne) Włącz ślady krwi na ciele</text>
+	</string>
+	<string id="ui_mcm_swm_legs_enable_dirt">
+		<text>(Eksperymentalne) Włącz ślady brudu na ciele</text>
+	</string>
+	<string id="ui_mcm_swm_legs_enable_idle_anims">
+		<text>Włącz losowe animacje bezczynności</text>
+	</string>
+	<string id="ui_mcm_swm_legs_idle_anim_min_cooldown">
+		<text>Min. przerwa między animacjami bezczynności (sek.)</text>
+	</string>
+ 	<string id="ui_mcm_swm_legs_idle_anim_max_cooldown">
+		<text>Maks. przerwa między bezczynnymi animacjami</text>
+	</string>
+ 	<string id="ui_mcm_swm_legs_use_special_noncombat_shift">
+		<text>Używaj specjalnej pozycji ciała dla stanu spokoju</text>
+	</string>
+	<string id="ui_mcm_swm_legs_offset_noncombat">
+		<text>Pozycja ciała (bliżej/dalej) dla stanu spokoju</text>
+	</string>
+ 	<string id="ui_mcm_swm_legs_visual_upg_enabled">
+		<text>Włącz wizualne ulepszenia pancerza</text>
+	</string>
+ 	<string id="ui_mcm_swm_legs_enable_debug_warnings">
+		<text>Włącz ostrzeżenia debugowania</text>
+	</string>
+
+	<string id="ui_mcm_swm_legs_disabled_desc">
+		<text>Ta opcja umożliwia bezpieczne odinstalowanie dodatku.\n1) Zaznacz ją.\n2) Upewnij się, że model ciała zniknął\n3) Zapisz, wyjdź i wyłącz dodatek.</text>
+	</string>
+	<string id="ui_mcm_swm_legs_use_combat_state_desc">
+		<text>Jeśli opcja ta jest włączona, niektóre animacje ciała zostaną zamienione na nowe, jeśli gracz nie jest w "stanie walki" (trzyma broń, broń nie jest opuszczona lub gracz jest w stanie walki).\nJeśli opcja ta jest wyłączona, odtwarzane będą tylko animacje domyślne.</text>
+	</string>
+	<string id="ui_mcm_swm_legs_use_slow_down_state_desc">
+		<text>Po włączeniu, niektóre animacje ciała będą zamieniane w zależności od prędkości gracza. Na przykład. jeśli prędkość sprintu jest wystarczająco niska, animacja "joggingu" zostanie odtworzona zamiast standardowej animacji sprintu.</text>
+	</string>
+	<string id="ui_mcm_swm_legs_enable_blood_desc">
+		<text>Gdy gracz otrzyma wystarczająco silne obrażenia fizyczna, na jego ciele pojawią się ślady krwi. Mogą nie zawsze się pojawiać i trwać długo ze względu na ograniczenia silnika. Z tego powodu nie można ich jeszcze w pełni dostosować.</text>
+	</string>
+	<string id="ui_mcm_swm_legs_enable_dirt_desc">
+		<text>Podczas chodzenia po brudnej powierzchni, takiej jak ziemia lub woda, istnieje szansa, że na ciele pojawi się brud. Może nie zawsze się pojawiać i trwać długo ze względu na ograniczenia silnika. Z tego powodu nie jest jeszcze w pełni konfigurowalna.</text>
+	</string>
+	<string id="ui_mcm_swm_legs_enable_idle_anims_desc">
+		<text>Gdy gracz stoi i nic nie robi, bezczynne animacje będą odtwarzane z pewną przerwą. Odtwarzane tylko podczas patrzenia w dół i towarzyszy im subtelny dźwięk ruchu.\nNotes:\n1) Ma działać z włączoną opcją stanu gotowości bojowej/spokoju i wygląda lepiej, gdy jest włączona.\n2) Może minąć trochę czasu, zanim zmiany czasu pauzy zaczną obowiązywać.</text>
+	</string>
+ 	<string id="ui_mcm_swm_legs_visual_upg_enabled_desc">
+		<text>Jeśli twój kombinezon ma zainstalowane jakiekolwiek ulepszenia, na modelu kombinezonu zostanie wyświetlony model kamizelki kuloodpornej.\nObecnie zaimplementowane tylko dla niektórych kurtek i kombinezonów SSP-99.</text>
+	</string>
+ 	<string id="ui_mcm_swm_legs_toggle_turn_step_sound_exo_desc">
+		<text>Dodaje dźwięki serwomotorów egzoszkieletu do zwykłych dźwięków kroków.\nDziała tylko wtedy, gdy zainstalowany jest dodatek Exo Servo Sounds.\nGłośność tych dźwięków jest ustawiana przez opcję głośności kroków w Exo Servo Sounds.</text>
+	</string>
+
+	<string id="st_visbody_no_sec_msg">
+		<text>WIDOCZNE CIAŁO: UWAGA: Nie znaleziono sekcji konfiguracji Kombinezon-Ciało: </text>
+	</string>
+	<string id="st_visbody_no_model_msg">
+		<text>WIDOCZNE CIAŁO: UWAGA: Nie znaleziono modelu: </text>
+	</string>
+	<string id="st_visbody_no_model_msg_2">
+		<text>WIDOCZNE CIAŁO: Jeśli tak się nie stało przy ostatnim wczytaniu zapisu, ponownie wyposaż postać w kombinezon i wykonaj zapis.</text>
+	</string>
+</string_table>

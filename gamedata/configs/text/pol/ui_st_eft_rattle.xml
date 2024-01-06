@@ -1,0 +1,18 @@
+<!--
+	EFT Aim Rattle Strings
+-->
+
+<string_table>
+	<string id="ui_mcm_menu_eft_rattle">
+		<text>EFT gun rattle</text>
+	</string>
+	<string id="ui_mcm_title_eft_rattle">
+		<text>Grzechotanie z Escape from Tarkov</text>
+	</string>
+	<string id="ui_mcm_eft_rattle_aim_rattle">
+		<text>Grzechotanie przy celowaniu</text>
+	</string>
+	<string id="ui_mcm_eft_rattle_lower_raise_rattle">
+		<text>Grzechotanie przy opuszczaniu/podnoszeniu broni</text>
+	</string>
+</string_table>

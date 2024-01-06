@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_sr25">
+		<text>SR-25</text>
+	</string>
+
+	<string id="st_wpn_sr25_descr">
+		<text>SR-25, Stoner Rifle, model 25 został opracowany przez Reeda Knighta, właściciela Knights Armament Co. i Eugene'a Stonera. SR-25 to karabin AR-15 przystosowany do strzelania amunicją kalibrów 7,62x51mm NATO lub .308. 60% części w karabinie jest wymiennych z komponentami AR-15. Karabin ten dobrze sprzedawał się wśród cywilnych strzelców, którzy potrzebowali celnego półautomatycznego karabinu w kalibrze 7,62x51mm NATO lub .308 do polowania lub strzelania do celu. Karabin ten znalazł również uznanie w wojsku amerykańskim. Wszystkie karabiny zbudowane na platformie SR-25 mają tę samą podstawową akcję, system AR-15/M16. Ze względu na bufor odrzutu w stylu AR-15, który rozciąga się do tyłu od odbiornika, SR-25 nie może być wyposażony w składaną kolbę, zamiast tego jest wyposażony w kolbę teleskopową.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] celowniki: NATO oraz Reflex\n
+		%c[d_purple] • %c[ui_gray_2] specjalny tłumik do SR-25\n</text>
+	</string>
+
+	<string id="st_wpn_bm16_full_alt_23">
+		<text>TOZ-66 "Niedźwiedź"</text>
+	</string>
+
+	<string id="st_wpn_bm16_full_alt_23_descr">
+		<text>Przeznaczona do polowań profesjonalnych i amatorskich, TOZ-66 to dwulufowa strzelba, która uzyskała państwowy znak jakości ZSRR. Jest ciężka, niezawodna i mocna. Ten osobliwy wariant TOZ-66 został zmodyfikowany do obsługi większych nabojów.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Fabryka Broni Tula (Tulski Orużiejny Zawod)\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_toz34_mark4_23">
+		<text>TOZ-34 "Łowca chimer"</text>
+	</string>
+
+	<string id="st_wpn_toz34_mark4_23_descr">
+		<text>Przeznaczona do polowań profesjonalnych i amatorskich, TOZ-34 to dwulufowa strzelba, która uzyskała państwowy znak jakości ZSRR. Jest ciężka, niezawodna i mocna. Ten osobliwy TOZ-34 został zmodyfikowany do obsługi większych nabojów i wyposażony w celownik Red Dot.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Fabryka Broni Tula (Tulski Orużiejny Zawod)\n
+		</text>
+	</string>
+
+</string_table>

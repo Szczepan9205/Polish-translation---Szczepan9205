@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="igi_task_text_done">
+		<text>Zadanie wykonane. Czas wrócić do zleceniodawcy.</text>
+	</string>
+	<!-- tekst podstawowy -->
+	<string id="igi_task_text_title">
+		<text>Igi Tasks: Nie znaleziono tytułu</text>
+	</string>
+	<string id="igi_task_text_descr">
+		<text>Igi Tasks: Nie znaleziono opisu</text>
+	</string>
+	<string id="igi_task_text_job_descr">
+		<text>Igi Tasks: Nie znaleziono opisu zadania</text>
+	</string>
+	<string id="igi_task_text_finish">
+		<text>Igi Tasks: Nie znaleziono zakończenia, ale i tak gratulacje</text>
+	</string>
+	
+	<!-- UI -->
+	<string id="igi_task_text_targets">
+		<text>Cel</text>
+	</string>
+	<string id="igi_task_text_factions">
+		<text>Frakcja</text>
+	</string>
+	<string id="igi_task_text_locations">
+		<text>Lokalizacja</text>
+	</string>
+	<string id="igi_task_text_treasure_unique">
+		<text>Coś cennego</text>
+	</string>
+</string_table>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_placeable_case">
+		<text>Futerał na broń</text>
+	</string>
+	<string id="st_placeable_case_descr">
+		<text>Pusty futerał na broń pozbawiony jakiejkolwiek broni. Zapewnia więcej miejsca niż konwencjonalne plecaki kosztem wagi.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] umiarkowana pojemność\n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n</text>
+	</string>
+
+	<string id="st_placeable_blue_box">
+		<text>Metalowa skrzynka</text>
+	</string>
+	<string id="st_placeable_blue_box_descr">
+		<text>Przestronna metalowa skrzynka przeznaczona do przechowywania przedmiotów. Zapewnia najwięcej miejsca w porównaniu z alternatywami, ale jej nieporęczność utrudnia transport.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] wysoka pojemność\n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n</text>
+	</string>
+
+	<string id="st_placeable_exo_kit">
+		<text>Pusty zestaw naprawczy do egzoszkieletu</text>
+	</string>
+	<string id="st_placeable_exo_kit_descr">
+		<text>Pusta skrzynia pozbawiona wszelkich przydatnych przedmiotów. Wielu stalkerów po prostu wyrzuca te zestawy naprawcze po naprawie swoich zaawansowanych technologicznie kombinezonów, choć pojemność i rozmiar pojemnika do tego zestawu jest przydatny, gdy zostanie ponownie użyty jako schowek.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] umiarkowana pojemność\n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n</text>
+	</string>
+
+	<string id="st_placeable_sumka6">
+		<text>Mały plecak</text>
+	</string>
+	<string id="st_placeable_sumka6_descr">
+		<text>Małe płachty materiału zszyte ze sobą w celu utworzenia prostego worka. Choć nie jest szczególnie przydatny w stałych bazach, znajduje swoją niszę w tworzeniu małego schowka, gdy zajdzie taka potrzeba.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] schowek na przedmioty\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
+			%c[d_blue] • %c[ui_gray_2] niska pojemność\n
+			%c[0,100,255,150] • %c[ui_gray_2] można użyć jako schowek\n</text>
+	</string>
+
+    <string id="st_place_furniture">
+		<text>Place Item</text>
+	</string>
+</string_table>

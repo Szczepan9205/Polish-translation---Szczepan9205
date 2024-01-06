@@ -1,0 +1,173 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings	
+-->
+
+<string_table>
+	<string id="st_rax_fav">
+		<text>Oznacz jako ulubione</text>
+	</string>
+	<string id="st_rax_unfav">
+		<text>Odznacz ulubione</text>
+	</string>
+	<string id="st_rax_junk">
+		<text>Oznacz jako œmieæ</text>
+	</string>
+	<string id="st_rax_unjunk">
+		<text>Odznacz jako œmieæ</text>
+	</string>
+	<string id="ui_mcm_title_SortingPlus">
+		<text>Sortowanie Plus</text>
+	</string>
+	<string id="ui_mcm_menu_SortingPlus">
+		<text>Sortowanie Plus</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playerinv">
+		<text>Sortuj ekwipunek gracza</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playerinv_desc">
+		<text>Ekwipunek po prawej stronie na wszystkich ekranach z wyj¹tkiem handlu.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playertrade">
+		<text>Sortuj zasoby handlowe gracza</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playertrade_desc">
+		<text>Zapasy po prawej stronie podczas handlu.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npcinv">
+		<text>Sortuj wyposa¿enie NPC</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npcinv_desc">
+		<text>Zapasy po lewej stronie na wszystkich ekranach z wyj¹tkiem handlu.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npctrade">
+		<text>Sortuj wyposa¿enie do handlu u NPC</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npctrade_desc">
+		<text>Zapasy po lewej stronie podczas handlu.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx">
+		<text>U¿ywaj sortingplus.ltx</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx_desc">
+		<text>Ignoruje poni¿sze ustawienia na korzyœæ tych w sortingplus.ltx, które oferuj¹ bardziej szczegó³ow¹ kontrolê.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconjunk">
+		<text>Oznacz œmieci</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconjunk_desc">
+		<text>Oznacz elementy oznaczone jako œmieci ikon¹</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_hilitejunk">
+		<text>Podœwietl œmieci</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitejunk_desc">
+		<text>Podœwietl elementy oznaczone jako œmieci</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortjunk">
+		<text>U¿yj kategorii Œmieci</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortjunk_desc">
+		<text>Sortuje elementy-œmieci do ich w³asnej kategorii, domyœlnie ostatniej.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk">
+		<text>"Auto" sprzedaj œmieci</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk_desc">
+		<text>Œmieci, które kupi handlarz, zostan¹ umieszczone w panelu sprzeda¿y. Nadal musisz nacisn¹æ przycisk sprzeda¿y, aby sfinalizowaæ transakcjê.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs">
+		<text>Zaznacz ulubione</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs_desc">
+		<text>Zaznacz elementy oznaczone jako Ulubione ikon¹.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitefavs">
+		<text>Podœwietl Ulubione</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitefavs_desc">
+		<text>Podœwietl elementy oznaczone jako Ulubione.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortfavs">
+		<text>U¿yj kategorii Ulubione</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortfavs_desc">
+		<text>Sortuje elementy Ulubionych do ich w³asnej kategorii, domyœlnie pierwszej.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs">
+		<text>Blokuj "Przenieœ wszystko" dla Ulubionych.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs_desc">
+		<text>Ulubione nie bêd¹ przenoszone z ekwipunku podczas przenoszenia wszystkich.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort">
+		<text>Przywróæ sortowanie podczas zaznaczania.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort_desc">
+		<text>Inwentaryzacja bêdzie sortowaæ natychmiast po oznaczeniu Ulubione/Œmieci. W przeciwnym razie czeka do nastêpnego otwarcia inwentaryzacji. Przydatna informacja zwrotna, jeœli podœwietlanie jest wy³¹czone.</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_001loadout">
+		<text>Wyposa¿enie ARM</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_002mags">
+		<text>Magazynki ARM</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_000favorites">
+		<text>Ulubione</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_999junk">
+		<text>Œmieci</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_010weapons">
+		<text>Broñ</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_020outfits">
+		<text>Kombinezony</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_030artifacts">
+		<text>Artefakty</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_040devices">
+		<text>Urz¹dzenia</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_050tools">
+		<text>Narzêdzia</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_060medical">
+		<text>Medykamenty</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_070foods">
+		<text>Jedzenie</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_080mutantfoods">
+		<text>Jedzenie z mutantów</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_090quest">
+		<text>Przedmioty questowe</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_100notes">
+		<text>Notatki</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_110ammo">
+		<text>Amunicja</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_120mutantparts">
+		<text>Czêœci mutantów</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_130misc">
+		<text>Inne</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_140upgrades">
+		<text>Ulepszenia</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_150parts">
+		<text>Czêœci</text>
+	</string>
+	
+	<string id="ui_mcm_SortingPlus_usefunctors">
+		<text>U¿ywaj funkcji</text>
+	</string>
+
+</string_table>

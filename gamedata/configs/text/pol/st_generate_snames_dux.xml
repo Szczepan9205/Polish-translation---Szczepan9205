@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="lname_woman_0">
+		<text>Iwanova</text>
+	</string>
+	<string id="lname_woman_1">
+		<text>Dubinina</text>
+	</string>
+	<string id="lname_woman_2">
+		<text>Sidorowa</text>
+	</string>
+	<string id="lname_woman_3">
+		<text>Wąż</text>
+	</string>
+	<string id="lname_woman_4">
+		<text>Żmija</text>
+	</string>
+	<string id="lname_woman_5">
+		<text>Strzała</text>
+	</string>
+	<string id="lname_woman_6">
+		<text>Błyskawica</text>
+	</string>
+	<string id="lname_woman_7">
+		<text>Amaliewa</text>
+	</string>
+	<string id="lname_woman_8">
+		<text>Wasilewa</text>
+	</string>
+	<string id="lname_woman_9">
+		<text>Potapowa</text>
+	</string>
+	<string id="lname_woman_10">
+		<text>Wywiadowca</text>
+	</string>
+	<string id="lname_woman_11">
+		<text>Dziwna</text>
+	</string>
+	<string id="lname_woman_12">
+		<text>Stalker</text>
+	</string>
+	<string id="lname_woman_13">
+		<text>Czumakowa</text>
+	</string>
+	<string id="lname_woman_14">
+		<text>Matwiejewa</text>
+	</string>
+	<string id="lname_woman_15">
+		<text>Zaraza</text>
+	</string>
+	<string id="lname_woman_16">
+		<text>Żniwiarz</text>
+	</string>
+	<string id="lname_woman_17">
+		<text>Petrowa</text>
+	</string>
+	<string id="lname_woman_18">
+		<text>Dziwna</text>
+	</string>
+	<string id="lname_woman_19">
+		<text>Doświadczona</text>
+	</string>
+	<string id="lname_woman_20">
+		<text>Kozłowa</text>
+	</string>
+	<string id="lname_woman_21">
+		<text>Baranowa</text>
+	</string>
+	<string id="lname_woman_22">
+		<text>Sobolewa</text>
+	</string>
+	<string id="lname_woman_23">
+		<text>Wykwalifikowana</text>
+	</string>
+	<string id="lname_woman_24">
+		<text>Zaikina</text>
+	</string>
+	<string id="lname_woman_25">
+		<text>Kulikowa</text>
+	</string>
+	<string id="lname_woman_26">
+		<text>Prosta</text>
+	</string>
+	<string id="lname_woman_27">
+		<text>Zorina</text>
+	</string>
+	<string id="lname_woman_28">
+		<text>Sawelewa</text>
+	</string>
+	<string id="lname_woman_29">
+		<text>Okrutna</text>
+	</string>
+	<string id="lname_woman_30">
+		<text>Simonowa</text>
+	</string>
+	<string id="lname_woman_31">
+		<text>Sroga</text>
+	</string>
+	<string id="lname_woman_32">
+		<text>Kornewa</text>
+	</string>
+	<string id="lname_woman_33">
+		<text>Szkarłatna</text>
+	</string>
+	<string id="lname_woman_34">
+		<text>Ulianowa</text>
+	</string>
+	<string id="lname_woman_35">
+		<text>Wolf</text>
+	</string>
+	<string id="lname_woman_36">
+		<text>Sierżant</text>
+	</string>
+	<string id="lname_woman_37">
+		<text>Sziszkina</text>
+	</string>
+	<string id="lname_woman_38">
+		<text>Lis</text>
+	</string>
+	<string id="lname_woman_39">
+		<text>Futrzak</text>
+	</string>
+	<string id="lname_woman_40">
+		<text>Waleczna</text>
+	</string>
+	<string id="lname_woman_41">
+		<text>Barbarzyńca</text>
+	</string>
+	<string id="lname_woman_42">
+		<text>Syrena</text>
+	</string>
+	<string id="lname_woman_43">
+		<text>Demidowa</text>
+	</string>
+	<string id="lname_woman_44">
+		<text>Kobra</text>
+	</string>
+	<string id="lname_woman_45">
+		<text>Kornejewa</text>
+	</string>
+	<string id="lname_woman_46">
+		<text>Stalkerka</text>
+	</string>
+	<string id="lname_woman_47">
+		<text>Dzwina</text>
+	</string>
+	<string id="lname_woman_48">
+		<text>Owieczka</text>
+	</string>
+	<string id="lname_woman_49">
+		<text>Barinowa</text>
+	</string>
+	<string id="lname_woman_50">
+		<text>Belkina</text>
+	</string>
+	<string id="lname_woman_51">
+		<text>Bulkina</text>
+	</string>
+	<string id="lname_woman_52">
+		<text>Podła</text>
+	</string>
+	<string id="lname_woman_53">
+		<text>Miła</text>
+	</string>
+	<string id="lname_woman_54">
+		<text>Sacharowa</text>
+	</string>
+	<string id="lname_woman_55">
+		<text>Epipfonowa</text>
+	</string>
+	<string id="lname_woman_56">
+		<text>Potapowa</text>
+	</string>
+	<string id="lname_woman_57">
+		<text>Wilkowa</text>
+	</string>
+	<string id="lname_woman_58">
+		<text>Pokojowa</text>
+	</string>
+	<string id="lname_woman_59">
+		<text>Wąż</text>
+	</string>
+	<string id="lname_woman_60">
+		<text>Berezowa</text>
+	</string>
+	<string id="lname_woman_61">
+		<text>Pakująca</text>
+	</string>
+	<string id="lname_woman_62">
+		<text>Prosta</text>
+	</string>
+	<string id="lname_woman_63">
+		<text>Oszust</text>
+	</string>
+	<string id="lname_woman_64">
+		<text>Atletka</text>
+	</string>
+	<string id="lname_woman_65">
+		<text>Gimnastyczka</text>
+	</string>
+	<string id="lname_woman_66">
+		<text>Prochofiewa</text>
+	</string>
+	<string id="lname_woman_67">
+		<text>Grusziowa</text>
+	</string>
+	<string id="lname_woman_68">
+		<text>Niegrzeczna</text>
+	</string>
+	<string id="lname_woman_69">
+		<text>Łania</text>
+	</string>
+	<string id="lname_woman_70">
+		<text>Fizzy</text>
+	</string>
+	<string id="lname_woman_71">
+		<text>Unikalna</text>
+	</string>
+	<string id="lname_woman_72">
+		<text>Biriukowa</text>
+	</string>
+	<string id="lname_woman_73">
+		<text>Malinina</text>
+	</string>
+	<string id="lname_woman_74">
+		<text>Czempionka</text>
+	</string>
+</string_table>

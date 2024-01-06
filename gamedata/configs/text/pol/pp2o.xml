@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_wpn_pp2000_oper">
+		<text>PP-2000 "Operator"</text>
+	</string>
+	<string id="st_wpn_pp2000_oper_descr">
+		<text>PP-2000 jest najnowszym opracowaniem Biura Projektowania Instrumentów (KBP) z Tula w Rosji. Po raz pierwszy zaprezentowany publicznie w 2004 roku, patent na jego układ został złożony w 2001 roku i wydany w 2003 roku. Niszą dla PP-2000 jest broń do obrony osobistej dla personelu wojskowego nie będącego piechotą, a także broń do walki wręcz dla sił specjalnych i specjalnych zespołów ścigania. W związku z tym jest to kompaktowa broń z niewielką liczbą części, zapewniająca niezawodność, uproszczoną konserwację i niskie koszty. Najlepiej nadaje się do walki na krótki dystans.\n \n
+ 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] broń ta jest wyposażona w: celownik %c[ui_yellow]Barska ELECTRO SIGHT AC10632, znacznik laserowy i latarkę taktyczną.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik: 9 mm\n</text>
+	</string>
+</string_table>

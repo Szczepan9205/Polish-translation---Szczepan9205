@@ -1,0 +1,166 @@
+<!-- 
+	Anomaly Mod Configuration Menu strings
+	
+-->
+
+<string_table>
+	<string id="ui_mcm_desc_mcm">
+		<text>Witaj w Mod Configuration Menu. MCM umo¿liwia wyœwietlanie i konfiguracje ustawieñ zainstalowanych modyfikacji.
+		W panelu po lewej stronie widnieje lista modów, które mo¿na skonfigurowaæ z pomoc¹ MCM.</text>
+	</string>
+	<string id="ui_mcm_desc_mcm2">
+		<text>Bugi oraz zamykanie siê gry zwi¹zane ze skryptem ui_mcm.script zwykle s¹ powodowane przez inne mody, w tej sprawie nale¿y siê wiec skontaktowaæ z ich autorami. </text>
+	</string>
+	<string id="ui_mm_menu_mcm">
+		<text>Mod Configuration Menu</text>
+	</string>
+	<string id="ui_mcm_menu_mcm">
+		<text>MCM</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_about">
+		<text>O modzie</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_about_reset">
+		<text>Prze³aduj wszystkie menu</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_about_reset_desc">
+		<text>Zaznaczenie tej opcji i naciœniêcie przycisku "Zastosuj" spowoduje, ¿e MCM prze³aduje wszystkie menu. Jest to narzêdzie do debugowania i nie powinno byæ konieczne w normalnym toku rzeczy.</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_log">
+		<text>Rejestrowanie</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_log">
+		<text>Jest to narzêdzie dla twórców dodatków, które pozwala im przenieœæ logowanie z dziennika X-Ray i konsoli gry.
+		\nPoniewa¿ szanujemy wasze obawy dotycz¹ce opóŸnieñ i cykli zapisu SSD, udostêpni³em kilka elementów steruj¹cych, abyœcie mogli dostosowaæ zachowanie rejestrowania.
+		\nLogi bêd¹ mia³y nazwê skryptu, który je tworzy oraz numer identyfikacyjny sesji MCM. Bêd¹ one tworzone w folderze appdata/logs/mcm/</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_enable">
+		<text>W³¹cz narzêdzie rejestrowania MCM</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_enable_desc">
+		<text>Odznaczenie tej opcji uniemo¿liwi tworzenie lub aktualizowanie nowych dzienników. (Zmiany mog¹ zacz¹æ obowi¹zywaæ dopiero po wczytaniu nowego zapisu gry).</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_numlogs">
+		<text>Liczba sesji dziennika do zachowania</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_numlogs_desc">
+		<text>Gdy liczba dzienników utworzonych przez skrypt przekroczy tê liczbê, starsze dzienniki zostan¹ usuniête. (Uwaga: usuniêcie dziennika nie nast¹pi, jeœli gra siê zawiesi).</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_continuous">
+		<text>Zezwalaj na ci¹g³y zapis plików</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_continuous_desc">
+		<text>Pliki dziennika s¹ zwykle aktualizowane partiami. Mo¿e to spowodowaæ utratê niektórych informacji w przypadku awarii gry. Twórca dodatku mo¿e poprosiæ o zaznaczenie tego pola, aby zezwoliæ na natychmiastow¹ aktualizacjê dziennika.</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_savefreq">
+		<text>Czas miêdzy automatycznymi zapisami dziennika w milisekundach</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_savefreq_desc">
+		<text>Bez wzglêdu na to, co zostanie tutaj ustawione, logi bêd¹ nadal zapisywane podczas przechodzenia do ró¿nych ekranów interfejsu u¿ytkownika i zapisywania/wczytywania gier.</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_timestamp">
+		<text>Czêstotliwoœæ znacznika czasu dziennika X-Ray</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_timestamp_desc">
+		<text>MCM dodaje znacznik czasu do dziennika X-Ray, aby u³atwiæ koordynacjê zdarzeñ miêdzy dziennikami MCM i dziennikiem X-Ray. Jest to minimalny czas pomiêdzy tymi znacznikami czasu. Jeœli nic innego nie jest drukowane w konsoli, MCM te¿ nie bêdzie.</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_debug_logging2">
+		<text>W³¹cz rejestrowanie debugowania</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
+		<text>W³¹cza to rejestrowanie debugowania MCM i powinno byæ w³¹czone przed zg³oszeniem b³êdów w MCM. Inne dodatki mog¹ równie¿ korzystaæ z tego ustawienia, aby w³¹czyæ w³asne rejestrowanie.</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_kb">
+		<text>Przypisanie klawiszy MCM</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_kb_main">
+		<text>G³ówne</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb">
+		<text>MCM Key Binds dzia³a w stylu Minecraft: kliknij pole, a nastêpnie naciœnij klawisz. Klikniêcie lub klawisz Escape spowoduje anulowanie.
+		\nJeœli wyœwietlany klawisz nie odpowiada naciœniêtemu klawiszowi lub MCM wydaje siê ignorowaæ niektóre klawisze, prawdopodobnie nale¿y zmodyfikowaæ plik mcm_key_localization.ltx, aby odzwierciedla³ uk³ad klawiatury.
+		\nKlawisze przypisane do wiêcej ni¿ jednego powi¹zania klawiszy MCM lub powi¹zania klawiszy silnika zostan¹ podœwietlone na czerwono.</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb2">
+		<text>Kilka uwag na temat czerwonych, sprzecznych kolorów klawiszy.
+		\n1. Mo¿e to nie mieæ znaczenia. Jeœli klawisze s¹ u¿ywane w dwóch ró¿nych interfejsach u¿ytkownika lub jeœli jedno powi¹zanie klawiszy jest wyzwalane tylko wtedy, gdy przytrzymywany jest równie¿ klawisz Shift, fakt, ¿e klawisz jest u¿ywany dwukrotnie, nie ma znaczenia.
+		\n2. MCM nie wie, co dodatek mo¿e robiæ z klawiszem. Musisz zrozumieæ, w jaki sposób dodatek u¿ywa klucza, aby wiedzieæ, czy konflikt jest istotny.
+		\n3. W przypadku pojedynczej oczekuj¹cej zmiany kolor aktualizuje siê poprawnie, w przypadku wielu oczekuj¹cych zmian mo¿e nie. Zastosuj zmiany i ponownie otwórz MCM, aby zweryfikowaæ prawid³owy status konfliktu.</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
+		<text>Mno¿nik d³ugiego naciœniêcia</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime_desc">
+		<text>Mno¿nik stosowany do okna podwójnego dotkniêcia w celu okreœlenia, jak d³ugo klawisz musi byæ przytrzymany, aby zosta³ uznany za d³ugie naciœniêcie lub przytrzymanie. Dotyczy tylko dodatków, które u¿ywaj¹ MCM do identyfikacji d³ugich naciœniêæ klawiszy.</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime1">
+		<text>Okienko podwójnego klikniêcia</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime1_desc">
+		<text>Czas szybko drugie naciœniêcie klawisza musi nast¹piæ po pierwszym, aby liczyæ siê jako podwójne naciœniêcie klawisza. Dotyczy tylko dodatków, które u¿ywaj¹ MCM do identyfikacji podwójnych naciœniêæ klawiszy. Czas ten mo¿e wp³ywaæ na opóŸnienie wejœcia niektórych zdarzeñ pojedynczego naciœniêcia klawisza i dlatego powinien byæ ustawiony tak ma³y, jak to mo¿liwe.</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2">
+		<text>Okienko po podwójnym kliku</text>
+	</string>
+	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
+		<text>Jak szybko drugie naciœniêcie klawisza musi nast¹piæ po pierwszym, aby liczyæ siê jako podwójne naciœniêcie klawisza. Dotyczy tylko dodatków, które u¿ywaj¹ MCM do identyfikacji podwójnych naciœniêæ klawiszy. Czas ten mo¿e wp³ywaæ na opóŸnienie wejœcia niektórych zdarzeñ pojedynczego naciœniêcia klawisza i dlatego powinien byæ ustawiony tak ma³y, jak to mo¿liwe.</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_all_kb">
+		<text>Przypisanie wszystkich klawiszy</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb_all">
+		<text>Ten panel gromadzi wszystkie powi¹zania klawiszy MCM w jednym miejscu, w tej samej kolejnoœci, w jakiej dodatki, które je dodaj¹, pojawiaj¹ siê po lewej stronie.
+		\nLista ta nie mo¿e jednak zawieraæ dodatkowych ustawieñ z panelu dodatków, które mog¹ wp³ywaæ na zachowanie tego klawisza.
+		\nZawsze sprawdzaj panel dodatków, z którego pobrano Key Bind, a tak¿e dokumentacjê dodatków. </text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb_all2">
+		<text>Oczekuj¹ce zmiany w innych panelach nie zostan¹ odzwierciedlone w tym panelu, a oczekuj¹ce ustawienia w tym panelu nie zostan¹ odzwierciedlone w innych.
+		\nPrzed i po u¿yciu tego panelu nale¿y zastosowaæ wprowadzone zmiany. Niezastosowanie siê do tego zalecenia mo¿e spowodowaæ niepo¿¹dane zachowanie.
+		\n\nKilka uwag na temat czerwonych, sprzecznych kolorów klawiszy.
+		\n1. Mo¿e to nie mieæ znaczenia. Jeœli klawisze s¹ u¿ywane w dwóch ró¿nych interfejsach u¿ytkownika lub jeœli jedno powi¹zanie klawiszy jest wyzwalane tylko wtedy, gdy przytrzymywany jest równie¿ klawisz Shift, fakt, ¿e klawisz jest u¿ywany dwukrotnie, nie ma znaczenia.
+		\n2. MCM nie wie, co dodatek mo¿e robiæ z klawiszem. Musisz zrozumieæ, w jaki sposób dodatek u¿ywa klucza, aby wiedzieæ, czy konflikt jest istotny.
+		\n3. W przypadku pojedynczej oczekuj¹cej zmiany kolor aktualizuje siê poprawnie, w przypadku wielu oczekuj¹cych zmian mo¿e nie. Zastosuj zmiany i ponownie otwórz MCM, aby zweryfikowaæ prawid³owy status konfliktu.</text>
+	</string>
+	<string id="ui_mcm_menu_mcm_kb_conflicts">
+		<text>Konflikty przypisania klawiszy</text>
+	</string>
+	<string id="ui_mcm_mcm_desc_kb_conflicts">
+		<text>Ten panel gromadzi wszystkie kluczowe powi¹zania MCM oznaczone jako konfliktowe w jednym miejscu, posortowane wed³ug klucza.
+		\nJeœli klawisz pojawia siê na tej liœcie tylko raz, prawdopodobnie jest w konflikcie z powi¹zaniem klawiszy silnika. S¹ one wymienione w normalnych opcjach anomalii.
+		\nLista ta nie mo¿e jednak zawieraæ dodatkowych ustawieñ z panelu dodatków, które mog¹ wp³ywaæ na zachowanie tego klawisza.
+		\nZawsze sprawdzaj panel dodatków, z którego pobrano Key Bind, a tak¿e dokumentacjê dodatków. </text>
+	</string>
+	<string id="ui_mcm_mcm_kb_modifier">
+		<text>Z klawiszem modyfikatora</text>
+	</string>
+	<string id="ui_mcm_mcm_kb_modifier_desc">
+		<text>Powy¿sze powi¹zanie klawiszy zostanie aktywowane tylko wtedy, gdy ten klawisz jest równie¿ wciœniêty.</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mod_none">
+		<text>Bez modyfikatora</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mod_ctrl">
+		<text>Klawisz Ctrl</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mod_shift">
+		<text>Klawisz Shift</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mod_alt">
+		<text>Klawisz Alt</text>
+	</string>
+	<string id="ui_mcm_mcm_kb_mode">
+		<text>Tryb wprowadzania danych</text>
+	</string>
+	<string id="ui_mcm_mcm_kb_mode_desc">
+		<text>Powy¿sze powi¹zanie klawiszy zostanie aktywowane, jeœli klawisz zostanie wprowadzony w ten sposób.</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mode_press">
+		<text>Proste klikniêcie</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mode_dtap">
+		<text>Podwójne klikniêcie</text>
+	</string>
+	<string id="ui_mcm_lst_mcm_kb_mode_hold">
+		<text>D³ugie klikniêcie</text>
+	</string>
+</string_table>

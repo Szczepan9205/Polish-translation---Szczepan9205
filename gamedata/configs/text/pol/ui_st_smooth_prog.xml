@@ -1,0 +1,28 @@
+<!-- Smoother Progression MCM text -->
+
+<string_table>
+
+	<string id="ui_mcm_menu_smooth_prog">
+		<text>P³ynny postêp</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_title">
+		<text>P³ynniejsze opcje progresji</text>
+	</string>
+
+	<string id="ui_mcm_smooth_prog_tier1">
+		<text>Mno¿nik kosztów ulepszeñ Poziomu 1</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_tier2">
+		<text>Mno¿nik kosztów ulepszeñ Poziomu 2</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_tier3">
+		<text>Mno¿nik kosztów ulepszeñ Poziomu 3</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_wpn_upgr_mult">
+		<text>Mno¿nik kosztu ulepszeñ broni</text>
+	</string>
+	<string id="ui_mcm_desc_smooth">
+		<text>Zapisz i wczytaj grê, aby zmiany zosta³y zastosowane!</text>
+	</string>
+
+</string_table>

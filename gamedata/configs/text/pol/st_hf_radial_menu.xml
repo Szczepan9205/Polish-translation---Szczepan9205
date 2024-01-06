@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+    <string id="st_open_adv_ui">
+		<text>Otwórz zaawansowane UI</text>
+	</string>
+    <string id="st_freeze">
+		<text>Zamróź</text>
+	</string>
+    <string id="st_unfreeze">
+		<text>Odmróź</text>
+	</string>
+    <string id="st_open_connections">
+		<text>Zarządzaj połączeniami</text>
+	</string>
+
+    <string id="st_not_implemented">
+		<text>Do wprowadzenia w przyszłości</text>
+	</string>
+</string_table>

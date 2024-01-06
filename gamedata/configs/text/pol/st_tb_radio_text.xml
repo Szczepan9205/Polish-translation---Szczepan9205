@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<!-- PDA UI -->
+	
+	<string id="cb_pda_cancel">
+		<text>Anuluj paczkę RF</text>
+	</string>
+
+	<string id="cb_cancel_package_inactive">
+		<text>Nie masz aktywnej paczki RF do anulowania.</text>
+	</string>
+	
+	<string id="cb_cancel_package_underground">
+		<text>Jesteś pod ziemią! Sygnał nie może przebić się na powierzchnie...</text>
+	</string>
+	
+	<string id="cb_cancel_package_success">
+		<text>Nie chcesz jej? W takim razie wyślemy kogoś innego by ją odebrał.</text>
+	</string>
+	
+	<!-- PDA MESSAGES -->
+
+	<string id="tb_anon_sender">
+		<text>"Nadawca nieznany"</text>
+	</string>
+
+	<!-- Wiadomosci PDA -->
+
+	<string id="tb_sooner_rf">
+		<text>Im szybciej zdobędziesz odbiornik RF, tym szybciej pomożemy... jeśli będziemy mogli.</text>
+	</string>
+
+
+	<string id="tb_package_can_be_found">
+		<text>Paczkę można znaleźć gdzieś </text>
+	</string>
+
+	<string id="tb_use_rf_on_freq">
+		<text>, użyj odbiornika RF na częstotliwości </text>
+	</string>
+
+	<string id="tb_mhz_to_search">
+		<text> MHz aby ją znaleźć.</text>
+	</string>
+
+
+	<string id="tb_dont_forget">
+		<text>Nie zapomnij o paczce </text>
+	</string>
+
+	<string id="tb_freq_was_on">
+		<text>, częstotliwość to </text>
+	</string>
+
+	<string id="tb_the_mhz">
+		<text> MHz.</text>
+	</string>
+
+	<string id="cb_package_lost">
+		<text>Paczka została zgubiona, nową można znaleźć gdzieś w </text>
+	</string>
+
+	<!-- ROUGH LOCATION TEXTS -->
+
+	<string id="tb_loc_n_r">
+		<text>w północnej części </text>
+	</string>
+	<string id="tb_loc_ne_r">
+		<text>w północno-wschodniej części </text>
+	</string>
+	<string id="tb_loc_e_r">
+		<text>we wschodniej części </text>
+	</string>
+	<string id="tb_loc_se_r">
+		<text>w południowo-wschodniej części </text>
+	</string>
+	<string id="tb_loc_s_r">
+		<text>w południowej części </text>
+	</string>
+	<string id="tb_loc_sw_r">
+		<text>w południowo-zachodniej części </text>
+	</string>
+	<string id="tb_loc_w_r">
+		<text>w zachodniej części </text>
+	</string>
+	<string id="tb_loc_nw_r">
+		<text>w północno-zachodniej części </text>
+	</string>
+
+	<!-- LEVEL NAMES -->
+
+	<string id="tb_loc_mar">
+		<text>Bagien</text>
+	</string>
+	<string id="tb_loc_dsc">
+		<text>Mrocznego Parowu</text>
+	</string>
+	<string id="tb_loc_esc">
+		<text>Kordonu</text>
+	</string>
+	<string id="tb_loc_gar">
+		<text>Wysypiska</text>
+	</string>
+	<string id="tb_loc_agr">
+		<text>Agropromu</text>
+	</string>
+	<string id="tb_loc_val">
+		<text>Doliny Mroku</text>
+	</string>
+	<string id="tb_loc_bar">
+		<text>Rostoku/Baru</text>
+	</string>
+	<string id="tb_loc_ros">
+		<text>Dziczy</text>
+	</string>
+	<string id="tb_loc_mil">
+		<text>Magazynów Wojskowych</text>
+	</string>
+	<string id="tb_loc_yan">
+		<text>Jantaru</text>
+	</string>
+	<string id="tb_loc_cit">
+		<text>Martwego Miasta</text>
+	</string>
+	<string id="tb_loc_lim">
+		<text>Limańska</text>
+	</string>
+	<string id="tb_loc_rad">
+		<text>Radaru</text>
+	</string>
+	<string id="tb_loc_red">
+		<text>Czerwonego Lasu</text>
+	</string>
+	<string id="tb_loc_pri">
+		<text>Prypeci</text>
+	</string>
+	<string id="tb_loc_aes1">
+		<text>CEA-1</text>
+	</string>
+	<string id="tb_loc_aes2">
+		<text>CEA-2</text>
+	</string>
+	<string id="tb_loc_gen">
+		<text>Generatorów</text>
+	</string>
+	<string id="tb_loc_zat">
+		<text>Zatonu</text>
+	</string>
+	<string id="tb_loc_jup">
+		<text>Jupitera</text>
+	</string>
+	<string id="tb_loc_out">
+		<text>Przedmieść Prypeci</text>
+	</string>
+	<string id="tb_loc_trc">
+		<text>Cmentarzyska Pojazdów</text>
+	</string>
+	<string id="tb_loc_pol">
+		<text>Łąki</text>
+	</string>
+	<string id="tb_loc_dbg">
+		<text>lokacji do debuggingu</text>
+	</string>
+
+</string_table>

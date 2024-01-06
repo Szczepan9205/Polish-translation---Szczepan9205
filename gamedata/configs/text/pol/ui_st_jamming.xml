@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<!-- Jammin -->
+	
+	<string id="encyclopedia_addons">
+		<text>Dodatkowe</text>
+	</string>
+	<string id="kb_unjam">
+		<text>Odblokuj zaciętą broń</text>
+	</string>
+	<string id="ui_st_misfire">
+		<text>Broń nie wystrzeliła!</text>
+	</string>
+	<string id="ui_st_jam">
+		<text>Broń się zacięła!</text>
+	</string>
+	<string id="ui_st_superjam">
+		<text>Broń została poważnie uszkodzona!</text>
+	</string>
+	<string id="ui_st_nothing">
+		<text>Nie ma czego odblokowywać</text>
+	</string>
+	<string id="ui_st_unjam">
+		<text>Broń została pomyślnie odblokowana</text>
+	</string>
+	<string id="ui_st_functional">
+		<text>Broń jest funkcjonalna</text>
+	</string>
+	<string id="ui_st_oldjam">
+		<text>Używasz moda na magazynki do Anomaly. Nie odbezpieczaj broni. Przeładuj broń.</text>
+	</string>
+	<string id="ui_st_unjam_fail">
+		<text>Wygląda na to, że to nie zadziałało - broń musi być porządnie zacięta...</text>
+	</string>
+	<string id="ui_st_parts_damage">
+		<text>Broń doznała uszkodzeń wewnętrznych komponentów.</text>
+	</string>
+	<string id="st_news_parts_alreadygood">
+		<text>Ta część nie wymaga wymiany.</text>
+	</string>
+	<string id="ui_st_heat1">
+		<text>, ale ciepła.</text>
+	</string>
+	<string id="ui_st_heat2">
+		<text>, ale gorąca!</text>
+	</string>
+	<string id="ui_st_heat3">
+		<text>, ale bardzo gorąca!</text>
+	</string>
+	
+	<string id="st_unjam">
+		<text>odblokuj broń</text>
+	</string>
+	<!-- Messages -->
+	<string id="st_news_parts_success">
+		<text>Pomyślnie wymieniono część: </text>
+	</string>
+	<string id="st_news_parts_fail">
+		<text>%c[d_red]Broń ma już tą samą część o wyższym stanie.</text>
+	</string>
+	<string id="st_news_parts_incompatible">
+		<text>%c[d_red]Ta część nie jest kompatybilna z bronią.</text>
+	</string>
+	<string id="st_news_parts_barrel">
+		<text>%c[d_red]Lufy nie mogą być wymieniane w terenie.</text>
+	</string>
+	<string id="st_news_parts_rusty">
+		<text>%c[d_red]Broń jest zbyt zardzewiała, by rozłożyć ją na części w terenie.</text>
+	</string>
+	<string id="st_news_dis_items">
+		<text>%c[d_red]Wymagane jest odpowiednie narzędzie do demontażu.</text>
+	</string>
+	<string id="st_news_fieldstrip">
+		<text>Zdemontowane części:</text>
+	</string>
+	<string id="st_news_cleaned">
+		<text>Wyczyszczone części:</text>
+	</string>
+
+	<!-- MCM -->
+	<string id="ui_mcm_menu_wpo">
+		<text>WPO</text>
+	</string>
+	<string id="ui_mcm_wpo_title">
+		<text>Konfiguracja przerobionego systemu części broni</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity">
+		<text>Wulgaryzmy przy zacięciu broni</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_desc">
+		<text>Umożliwia "kwiecistą" wypowiedź GG na temat zacięcia się broni.</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_timeout">
+		<text>Wyłącz spam wulgaryzmów</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_timeout_desc">
+		<text>Dodaje limit czasu, aby zablokować wulgaryzmy, jeśli są aktywne. Użyj, jeśli nie lubisz się pośmiać.</text>
+	</string>
+	<string id="ui_mcm_wpo_profanity_language">
+		<text>Język wulgaryzmów</text>
+	</string>
+	<string id="ui_mcm_wpo_jamchance">
+		<text>Współczynnik szansy na zacięcie</text>
+	</string>
+	<string id="ui_mcm_wpo_jamchance_desc">
+		<text>Szansa na zacięcie się broni w nowy sposób.</text>
+	</string>
+	<string id="ui_mcm_wpo_superjam">
+		<text>Włącz super zacięcia</text>
+	</string>
+	<string id="ui_mcm_wpo_superjam_desc">
+		<text>Włącza (lub wyłącza) nieznośne super-zacięcia. Super-zacięcia to zacięcia, które wymagają usunięcia załadowanej amunicji w celu prawidłowego odblokowania broni.</text>
+	</string>
+	<string id="ui_mcm_wpo_simplejam">
+		<text>Wyrzuć magazynek w przypadku zacięcia</text>
+	</string>
+	<string id="ui_mcm_wpo_simplejam_desc">
+		<text>Jeśli opcja ta jest włączona, po naciśnięciu przycisku przeładowania z zaciętą bronią magazynek zostanie wyrzucony. Koniec z grzebaniem w ekwipunku!</text>
+	</string>
+	<string id="ui_mcm_wpo_threshold">
+		<text>Próg stanu uszkodzenia części</text>
+	</string>
+	<string id="ui_mcm_wpo_threshold_desc">
+		<text>Stan broni, w którym użycie ma szansę uszkodzić części. Im niższy, tym mniej części zostanie uszkodzonych.</text>
+	</string>
+	<string id="ui_mcm_wpo_cleancoef">
+		<text>Mnożnik czyszczenia broni przez technika</text>
+	</string>
+	<string id="ui_mcm_wpo_cleancoef_desc">
+		<text>Korekta kosztów czyszczenia broni przez technika.</text>
+	</string>
+	<string id="ui_mcm_wpo_verbosity">
+		<text>Wiadomości o zacięciu</text>
+	</string>
+	<string id="ui_mcm_wpo_verbosity_desc">
+		<text>Słowność komunikatów zagłuszających HUD. Dostępne są trzy poziomy:\nBrak: Tylko zacięcia oparte na warunkach są wyświetlane (ponieważ w przeciwnym razie jest to mylące).\nNormalne (zalecane): Zostaniesz powiadomiony, gdy twoja broń się zablokuje, gdy broń się odblokowuje.\nPełne: Wszystko jest jak w trybie normalnym, ale będziesz także wiedzieć, kiedy nastąpiło poważne zacięcie, które wymaga rozładowania broni i odblokowania, aby je usunąć, oraz kiedy twoja broń doznaje uszkodzeń komponentów.</text>
+	</string>
+	<string id="ui_mcm_wpo_minpart">
+		<text>Minimalny stan części na sprzedaż</text>
+	</string>
+	<string id="ui_mcm_wpo_minpart_desc">
+		<text>Minimalny stan dla WSZYSTKICH części, aby broń kwalifikowała się do sprzedaży. Jeśli broń ma JAKĄKOLWIEK część poniżej tego stanu, zostanie wykluczona ze sprzedaży. Ustaw na 0, aby wyłączyć.</text>
+	</string>
+	<string id="ui_mcm_wpo_fun">
+		<text>Poziom zabawy</text>
+	</string>
+	<string id="ui_mcm_wpo_title">
+		<text>Przerobiony system części broni</text>
+	</string>
+	<string id="ui_mcm_lst_eng">
+		<text>Angielski</text>
+	</string>
+	<string id="ui_mcm_lst_rus">
+		<text>Rosyjski</text>
+	</string>
+	<string id="ui_mcm_lst_verbosity_none">
+		<text>Brak</text>
+	</string>
+	<string id="ui_mcm_lst_verbosity_normal">
+		<text>Normalne</text>
+	</string>
+	<string id="ui_mcm_lst_verbosity_full">
+		<text>Pełne</text>
+	</string>
+	<string id="ui_mcm_lst_no">
+		<text>Powinność</text>
+	</string>
+	<string id="ui_mcm_lst_yes">
+		<text>Samotnik</text>
+	</string>
+	<string id="ui_mcm_lst_ofc">
+		<text>Wolność</text>
+	</string>
+	<string id="ui_mcm_wpo_debug">
+		<text>Dziennik debugowania</text>
+	</string>
+	<string id="ui_mcm_wpo_debug_desc">
+		<text>Rejestrowanie debugowania, włącza całą masę dodatkowych informacji w dzienniku konsoli.</text>
+	</string>
+	<string id="ui_mcm_wpo_babymode">
+		<text>Tryb "suki"</text>
+	</string>
+	<string id="ui_mcm_wpo_babymode_desc">
+		<text>Całkowicie wyłącza zacięcia oparte na stanie części. Jeśli musisz to zaznaczyć, to po co w ogóle instalowałeś ten mod?</text>
+	</string>
+	<string id="ui_mcm_wpo_newdrops">
+		<text>Włącz alternatywne losowanie części</text>
+	</string>
+	<string id="ui_mcm_wpo_newdrops_desc">
+		<text>Losowe części według nowego wzoru. Szansa na dobre części poniżej jest regulowana przez stan broni i dodatkową ukrytą wagę. Sprawia, że gra jest trudniejsza przy wystarczająco niskich wagach. Aby użyć starej metody, wyłącz tę opcję.</text>
+	</string>
+	<string id="ui_mcm_wpo_newdropschance">
+		<text>Szansa na dobre części z alternatywnymi losowaniami części</text>
+	</string>
+	<string id="ui_mcm_wpo_degradation">
+		<text>Degradacja broni podczas deszczu</text>
+	</string>
+	<string id="ui_mcm_wpo_degradation_desc">
+		<text>Szybkość, z jaką broń ulega szybszej degradacji w deszczową pogodę.</text>
+	</string>
+	
+	<string id="st_field_strip">
+		<text>Rozbiórka terenowa</text>
+	</string>
+	<string id="st_field_strip_fail">
+		<text>Ta broń nie ma części, które można usunąć.</text>
+	</string>
+	<string id="ui_st_missing">
+		<text>W tej broni brakuje części.</text>
+	</string>
+
+	
+	<string id="article_wpo">
+		<text>Konserwacja broni</text>
+	</string>
+	<string id="article_wpo_text">
+		<text>
+			%c[pda_green]SZYBKIE QiA%c[ui_gray_1]\n \n
+			\n1. Dlaczego moja broń zacina się przy 100%?
+			\nA. Części są uszkodzone. Sprawdź ich stan.
+			\n2. Jak usunąć zacięcie?
+			\nA. Naciśnij dwukrotnie UŻYJ. Lub kliknij prawym przyciskiem myszy broń w ekwipunku, aby wyświetlić polecenie odblokowania.
+			\n3. Dlaczego tracę stan broni podczas wymiany części?
+			\nA. Musisz ponownie nasmarować broń. Nie dzieje się to poniżej 60%. Użyj zestawu naprawczego, aby zmniejszyć tę ilość, lub stołu warsztatowego, aby całkowicie ją wyeliminować.
+			\n4. Dlaczego technicy nie naprawiają moich części?
+			\nA. Części muszą zostać najpierw wymontowane z broni. Możesz kupić części u technika lub użyć zestawu do naprawy broni. Na tym właśnie polega długowieczność WPO. \n \n
+			Przegląd części broni drastycznie zmienia sposób konserwacji broni w Anomaly. Przeczytaj uważnie ten przewodnik, aby wszystko zrozumieć.
+			
+			%c[pda_green]I. Części zamienne i konserwacja%c[ui_gray_1]\n
+			\n• Ogólny stan broni (pasek stanu, do którego jesteś przyzwyczajony) jest teraz łatwiejszy do utrzymania. Mechanik przywróci go za 60% mniejszą cenę. Wszystkie przedmioty do naprawy broni są teraz znacznie potężniejsze.
+			\n• Części broni wymagają konserwacji. Możesz zobaczyć stan części broni na pierwszy rzut oka po najechaniu myszą.
+			\n  • Kolor tekstu wskazuje stan.
+			\n%c[d_red]   •  Brakujące
+			\n%c[d_orange]   •  Uszkodzone i niemożliwe do wyczyszczenia
+			\n%c[pda_yellow]   • Brudne i mogą być wyczyszczone%c[ui_gray_1]
+			\n• Części broni mogą zostać usunięte poprzez jej rozebranie. Usuwa to każdy element, który nie jest lufą.
+			\n• Części broni mogą być również zastępowane za pomocą przeciągania ikony części i upuszczania jej na ikonę broni. %c[d_red]NALEŻY PAMIĘTAĆ, ŻE WYCZERPUJE TO STAN BRONI, JEŚLI PRZEKRACZA 60%. Należy mieć przy sobie Leathermana, aby zmniejszyć ten efekt. %c[ui_gray_1]. 
+			\n• Części broni można również wymienić na stole warsztatowym za darmo, jeśli posiada się odpowiedni zestaw naprawczy. %c[pda_yellow]Jest to jeden z dwóch sposobów wymiany luf.
+			\n \n
+			%c[pda_green]II. Zacięcia i uszkodzenia części%c[ui_gray_1]\n
+			\n• Części mają pięć poziomów uszkodzeń: %c[d_red]zepsute%c[ui_gray_1], %c[d_red]uszkodzone%c[ui_gray_1], %c[d_orange]zużyte%c[ui_gray_1], %c[0,250,250,0]brudne%c[ui_gray_1], %c[d_green]funkcjonalne%c[ui_gray_1]
+			\n• Im bardziej uszkodzone części, tym większe prawdopodobieństwo wystąpienia usterki.
+			\n• Istnieją trzy rodzaje usterek: przerwy w zapłonie, zacięcia i poważne zacięcia.
+			\n• Niewypał i zacięcie można usunąć po prostu przez odblokowanie.
+			\n• Poważne zacięcie wymaga wyrzucenia magazynka przed usunięciem zacięcia.
+			\n• Lufy nie wpływają na szansę zacięcia. Brudne lufy zmniejszają jednak obrażenia zadawane przez broń do 50%.
+			\n• Strzelanie z broni poniżej 85% stanu (domyślnie, zmień %c[pda_yellow]MCM: Próg stanu uszkodzenia części%c[ui_gray_1]) ma szansę zadać obrażenia częściom broni. 
+			\n• Strzelanie z broni podczas ulewnego deszczu powoduje jej szybszą degradację.
+			\n• Zbyt długie strzelanie z broni powoduje jej przegrzanie, co prowadzi do częstszych zacięć i szybszej degradacji.
+			%c[pda_green]III. Zmiany w ekonomii%c[ui_gray_1]\n
+			\n• Posiadanie zestawu czyszczącego pozwoli ci wyczyścić "brudne" części broni (powyżej 60% stanu). Przywraca to również 10% kondycji.
+			\n• Posiadanie zestawu naprawczego umożliwia wymianę części za pomocą menu prawego przycisku myszy. Zużywa to ładunek i przywraca 10% stanu.%c[pda_yellow]Jest to drugi sposób wymiany luf.%c[ui_gray_1]
+			\n• Technicy będą losowo sprzedawać części broni z dużą marżą. 
+			\n• Części broni powyżej 60% można naprawić za pomocą pilników, wyciorów lub narzędzi wielofunkcyjnych.
+			\n• Części broni powyżej 10% można naprawić za pomocą bardzo drogiego zestawu narzędzi dostępnego u handlarzy.
+			\n• W innych sprawach prosimy o kontakt z arti#3278 na Discordzie. Jestem zbyt leniwy, by czytać komentarze na Moddb.
+		</text>
+	</string>
+	
+	<string id="st_partskit">
+		<text>Zestaw naprawczy do części</text>
+	</string>
+	<string id="st_partskit_descr">
+		<text>Wysoce zaawansowany zestaw narzędzi, w tym mikropiłek, żywice epoksydowe do spawania na zimno, konfiguracja kąpieli elektrolizy oraz tony smarów, destylatów benzyny i innych rozpuszczalników. Narzędzia te mogą przywrócić silnik Łady do stanu Ferrari, nie mówiąc już o tym, co mogą zrobić z komponentami broni. Tylko najbardziej zniszczony złom nie będzie w stanie zostać odnowiony przez ten zestaw. Jednak zestaw ten jest niezwykle trudny do złożenia i dlatego jest sprzedawany w bardzo małych ilościach przez techników Zony.\n\n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] zestaw narzędzi\n
+		%c[d_orange] • %c[ui_gray_2] zdolność do naprawy części broni powyżej 10%, ale poniżej 60 stanu%\n
+		</text>
+	</string>
+<!-- Info -->
+
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="st_damage_missing">
+		<text>brak</text>
+	</string>
+	<string id="st_damage_0">
+		<text>zepsuty/zepsuta</text>
+	</string>
+	<string id="st_damage_1">
+		<text>uszkodzony/uszkodzona</text>
+	</string>
+	<string id="st_damage_2">
+		<text>zużyty/zużyta</text>
+	</string>
+	<string id="st_damage_3">
+		<text>brudny/brudna</text>
+	</string>
+	<string id="st_damage_4">
+		<text>funkcjonalny/funkcjonalna</text>
+	</string>
+	<string id="st_damage_5">
+		<text>funkcjonalny/funkcjonalna</text>
+	</string>
+
+	<string id="st_wpo_replace_parts">
+		<text>Konserwacja części</text>
+	</string>
+	
+	<string id="st_wpo_replace">
+		<text>Wymień</text>
+	</string>
+	<string id="st_wpo_clean">
+		<text>Wyczyść</text>
+	</string>
+	<string id="st_wpo_remove">
+		<text>Zdemontuj</text>
+	</string>
+
+	<string id="st_name_trigger">
+		<text>mechanizm spustowy</text>
+	</string>
+	<string id="st_name_spring">
+		<text>sprężyna powrotna</text>
+	</string>
+	<string id="st_name_barrel">
+		<text>lufa</text>
+	</string>
+	<string id="st_name_bolt_carrier">
+		<text>uchwyt rygla</text>
+	</string>
+	<string id="st_name_bolt">
+		<text>rygiel</text>
+	</string>
+	<string id="st_name_gas_tube">
+		<text>system gazowy</text>
+	</string>
+	<string id="st_name_extractor">
+		<text>ekstraktor</text>
+	</string>
+	<string id="st_name_ejector">
+		<text>wyrzutnik</text>
+	</string>
+	<string id="st_name_pump">
+		<text>pompka</text>
+	</string>
+	<string id="st_name_hammers">
+		<text>kurki</text>
+	</string>
+	<string id="st_name_chock">
+		<text>czok/dławik</text>
+	</string>
+	<string id="st_name_all">
+		<text>Wszystkie części</text>
+	</string>
+	<string id="st_name_issues">
+		<text>STAN CZĘŚCI:</text>
+	</string>
+</string_table>

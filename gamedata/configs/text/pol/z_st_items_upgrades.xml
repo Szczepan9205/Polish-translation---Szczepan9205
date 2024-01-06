@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Części do ulepszeń
+-->
+
+<string_table>
+
+<!-- Kombinezony -->
+	<string id="st_upgr_o_health">
+		<text>Pakiet użytkowy do kombinezonów "HPs-1</text>
+	</string>
+	<string id="st_upgr_o_health_desc">
+		<text>Paczka zawierająca różne urządzenia mechaniczne z różnymi rodzajami wtryskiwaczy i sterylnymi pojemnikami na płyny. Stalkerzy mają tendencję do łączenia różnych elementów w nadziei, że niektóre z nich okażą się dla nich przydatne. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami narzędziowymi kombinezonu tej samej jakości, aby stworzyć zestaw ulepszeń narzędziowych kombinezonu. \n \n
+            Opakowanie jest opatrzone etykietą 'HPs-1'. \n
+		</text>
+	</string>
+	
+	<string id="st_upgr_o_bleed">
+		<text>Pakiet użytkowy do kombinezonów 'KrV'</text>
+	</string>
+	<string id="st_upgr_o_bleed_desc">
+		<text>Paczka zawierająca różne urządzenia mechaniczne z różnymi rodzajami wtryskiwaczy i sterylnymi pojemnikami na płyny. Stalkerzy mają tendencję do łączenia różnych elementów w nadziei, że niektóre z nich okażą się dla nich przydatne. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami narzędziowymi kombinezonu tej samej jakości, aby stworzyć zestaw ulepszeń narzędziowych kombinezonu. \n \n
+            Opakowanie jest opatrzone etykietą 'KrV'. \n
+		</text>
+	</string>
+	
+    <string id="st_upgr_o_power">
+		<text>Pakiet użytkowy do kombinezonów 'UPRz'</text>
+	</string>
+	<string id="st_upgr_o_power_desc">
+		<text>Zestaw zawierający różne komponenty, paski mocujące i inne drobiazgi. Stalkerzy mają tendencję do łączenia różnych elementów w nadziei, że niektóre z nich okażą się dla nich przydatne. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami narzędziowymi kombinezonu tej samej jakości, aby stworzyć zestaw ulepszeń narzędziowych kombinezonu. \n \n
+            Opakowanie jest opatrzone etykietą 'UPRz'. \n</text>
+	</string>
+    
+	<string id="st_upgr_o_carry">
+		<text>Pakiet użytkowy do kombinezonów 'OSEL'</text>
+	</string>
+	<string id="st_upgr_o_carry_desc">
+		<text>Zestaw zawierający różne komponenty, paski mocujące i inne drobiazgi. Stalkerzy mają tendencję do łączenia różnych elementów w nadziei, że niektóre z nich okażą się dla nich przydatne. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami narzędziowymi kombinezonu tej samej jakości, aby stworzyć zestaw ulepszeń narzędziowych kombinezonu. \n \n
+            Opakowanie jest opatrzone etykietą 'OSEL'. \n</text>
+	</string>
+	
+	<string id="st_upgr_o_arty">
+		<text>Pakiet użytkowy do kombinezonów 'APTe'</text>
+	</string>
+	<string id="st_upgr_o_arty_desc">
+		<text>Zestaw zawierający różne komponenty, paski mocujące i inne drobiazgi. Stalkerzy mają tendencję do łączenia różnych elementów w nadziei, że niektóre z nich okażą się dla nich przydatne. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami narzędziowymi kombinezonu tej samej jakości, aby stworzyć zestaw ulepszeń narzędziowych kombinezonu. \n \n
+            Opakowanie jest opatrzone etykietą 'APTe'. \n</text>
+	</string>
+	
+	<string id="st_upgr_o_run">
+		<text>Pakiet użytkowy do kombinezonów 'DVgt'</text>
+	</string>
+	<string id="st_upgr_o_run_desc">
+		<text>Paczka zawierająca dziwne, zaawansowane silniki hydrauliczne. Stalkerzy mają tendencję do łączenia różnych elementów w nadziei, że niektóre z nich okażą się dla nich przydatne. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami narzędziowymi kombinezonu tej samej jakości, aby stworzyć zestaw ulepszeń narzędziowych kombinezonu. \n \n
+            Opakowanie jest opatrzone etykietą 'DVgt'. \n</text>
+	</string>
+	
+	
+	<string id="st_upgr_o_armor">
+		<text>Zestaw materiałów balistycznych 'BRna'</text>
+	</string>
+	<string id="st_upgr_o_armor_desc">
+		<text>Pakiet zawierający różne rodzaje płyt pancerza i podkładów - kevlar, tytan, beryl, aluminium, polimer i włókno węglowe. Małe pakiety tego typu są dostarczane przez zewnętrzne siły zbrojne w celu wykonania doraźnych napraw i modyfikacji ich kombinezonów pancernych. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów balistycznych tej samej jakości, aby stworzyć zestaw do ulepszania pancerza. \n \n
+			Opakowanie jest opatrzone etykietą 'BRna'. \n</text>
+	</string>
+	
+	<string id="st_upgr_o_damage">
+		<text>Zestaw materiałów balistycznych 'PzDH'</text>
+	</string>
+	<string id="st_upgr_o_damage_desc">
+		<text>Pakiet zawierający różne rodzaje płyt pancerza i podkładów - kevlar, tytan, beryl, aluminium, polimer i włókno węglowe. Małe pakiety tego typu są dostarczane przez zewnętrzne siły zbrojne w celu wykonania doraźnych napraw i modyfikacji ich kombinezonów pancernych. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów balistycznych tej samej jakości, aby stworzyć zestaw do ulepszania pancerza. \n \n
+			Opakowanie jest opatrzone etykietą 'PzDH'. \n</text>
+	</string>
+	
+	<string id="st_upgr_o_durability">
+		<text>Zestaw materiałów balistycznych 'PRCh'</text>
+	</string>
+	<string id="st_upgr_o_durability_desc">
+		<text>Pakiet zawierający różne rodzaje płyt pancerza i podkładów - kevlar, tytan, beryl, aluminium, polimer i włókno węglowe. Małe pakiety tego typu są dostarczane przez zewnętrzne siły zbrojne w celu wykonania doraźnych napraw i modyfikacji ich kombinezonów pancernych. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów balistycznych tej samej jakości, aby stworzyć zestaw do ulepszania pancerza. \n \n
+			Opakowanie jest opatrzone etykietą 'PRCh'. \n</text>
+	</string>
+	
+	<string id="st_upgr_o_weight">
+		<text>Zestaw materiałów balistycznych 'LGkY'</text>
+	</string>
+	<string id="st_upgr_o_weight_desc">
+		<text>Pakiet zawierający różne rodzaje płyt pancerza i podkładów - kevlar, tytan, beryl, aluminium, polimer i włókno węglowe. Małe pakiety tego typu są dostarczane przez zewnętrzne siły zbrojne w celu wykonania doraźnych napraw i modyfikacji ich kombinezonów pancernych. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów balistycznych tej samej jakości, aby stworzyć zestaw do ulepszania pancerza. \n \n
+			Opakowanie jest opatrzone etykietą 'LGkY'. \n</text>
+	</string>
+
+	<string id="st_upgr_o_chem">
+		<text>Zestaw materiałów CBRN 'CHM-1'</text>
+	</string>
+	<string id="st_upgr_o_chem_desc">
+		<text>Paczka zawierająca różne materiały odzieżowe odporne na zagrożenia CBRN, wysokie temperatury, napięcia i inne zagrożenia. Małe paczki tego typu są importowane przez Ministerstwo Nauki w celu zastąpienia części kombinezonów ochronnych, ale równie dobrze służą stalkerom, którzy chcą ulepszyć swoje beznadziejne kombinezony. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów CBRN tej samej jakości, aby stworzyć zestaw ulepszeń ochrony środowiskowej kombinezonu. \n \n
+            Opakowanie jest opatrzone etykietą 'CHM-1'\n
+        </text>
+	</string>
+	
+	<string id="st_upgr_o_burn">
+		<text>Zestaw materiałów CBRN 'KHMy'</text>
+	</string>
+	<string id="st_upgr_o_burn_desc">
+		<text>Paczka zawierająca różne materiały odzieżowe odporne na zagrożenia CBRN, wysokie temperatury, napięcia i inne zagrożenia. Małe paczki tego typu są importowane przez Ministerstwo Nauki w celu zastąpienia części kombinezonów ochronnych, ale równie dobrze służą stalkerom, którzy chcą ulepszyć swoje beznadziejne kombinezony. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów CBRN tej samej jakości, aby stworzyć zestaw ulepszeń ochrony środowiskowej kombinezonu.\n \n
+            Opakowanie jest opatrzone etykietą 'KHMy'\n</text>
+	</string>
+	
+	<string id="st_upgr_o_shock">
+		<text>Zestaw materiałów CBRN 'MSCh'</text>
+	</string>
+	<string id="st_upgr_o_shock_desc">
+		<text>Paczka zawierająca różne materiały odzieżowe odporne na zagrożenia CBRN, wysokie temperatury, napięcia i inne zagrożenia. Małe paczki tego typu są importowane przez Ministerstwo Nauki w celu zastąpienia części kombinezonów ochronnych, ale równie dobrze służą stalkerom, którzy chcą ulepszyć swoje beznadziejne kombinezony. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów CBRN tej samej jakości, aby stworzyć zestaw ulepszeń ochrony środowiskowej kombinezonu.\n \n
+            Opakowanie jest opatrzone etykietą 'MSCh'\n</text>
+	</string>
+	
+	<string id="st_upgr_o_psi">
+		<text>Zestaw materiałów CBRN 'MZg'</text>
+	</string>
+	<string id="st_upgr_o_psi_desc">
+		<text>Paczka zawierająca różne materiały odzieżowe odporne na zagrożenia CBRN, wysokie temperatury, napięcia i inne zagrożenia. Małe paczki tego typu są importowane przez Ministerstwo Nauki w celu zastąpienia części kombinezonów ochronnych, ale równie dobrze służą stalkerom, którzy chcą ulepszyć swoje beznadziejne kombinezony. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów CBRN tej samej jakości, aby stworzyć zestaw ulepszeń ochrony środowiskowej kombinezonu.\n \n
+            Opakowanie jest opatrzone etykietą 'MZg'\n</text>
+	</string>
+	
+	<string id="st_upgr_o_rad">
+		<text>Zestaw materiałów CBRN 'CHst'</text>
+	</string>
+	<string id="st_upgr_o_rad_desc">
+		<text>Paczka zawierająca różne materiały odzieżowe odporne na zagrożenia CBRN, wysokie temperatury, napięcia i inne zagrożenia. Małe paczki tego typu są importowane przez Ministerstwo Nauki w celu zastąpienia części kombinezonów ochronnych, ale równie dobrze służą stalkerom, którzy chcą ulepszyć swoje beznadziejne kombinezony. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami materiałów CBRN tej samej jakości, aby stworzyć zestaw ulepszeń ochrony środowiskowej kombinezonu.\n \n
+            Opakowanie jest opatrzone etykietą 'CHst'\n</text>
+	</string>
+	
+
+<!-- Broń -->
+
+	<string id="st_upgr_w_reliability">
+		<text>Pakiet do tuningu małokalibrowej 'D-11'</text>
+	</string>
+	<string id="st_upgr_w_reliability_desc">
+		<text>Paczka zawierająca kilka różnych części do różnych rodzajów broni, w tym mechanizmy spustowe, rygle i prowadnice, sprężyny odrzutowe i pręty prowadzące. Części zamienne są zbierane przez stalkerów, jeśli nie są natychmiast potrzebne w ich broni, w celu odsprzedaży lub wykorzystania w przyszłości. Ten pakiet nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami tuningowymi broni strzeleckiej tej samej jakości, aby stworzyć zestaw do ulepszania mechanizmów broni. \n \n
+            Opakowanie jest opatrzone etykietą 'R-11' \n</text>
+	</string>
+	
+	<string id="st_upgr_w_recoil">
+		<text>Pakiet do tuningu małokalibrowej 'K-01'</text>
+	</string>
+	<string id="st_upgr_w_recoil_desc">
+		<text>Paczka zawierająca kilka różnych części do różnych rodzajów broni, w tym mechanizmy spustowe, rygle i prowadnice, sprężyny odrzutowe i pręty prowadzące. Części zamienne są zbierane przez stalkerów, jeśli nie są natychmiast potrzebne w ich broni, w celu odsprzedaży lub wykorzystania w przyszłości. Ten pakiet nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami tuningowymi broni strzeleckiej tej samej jakości, aby stworzyć zestaw do ulepszania mechanizmów broni. \n \n
+            Opakowanie jest opatrzone etykietą 'K-01' \n</text>
+	</string>
+	
+	<string id="st_upgr_w_calibre">
+		<text>Pakiet do tuningu małokalibrowej 'C-22'</text>
+	</string>
+	<string id="st_upgr_w_calibre_desc">
+		<text>Paczka zawierająca kilka różnych części do różnych rodzajów broni, w tym mechanizmy spustowe, rygle i prowadnice, sprężyny odrzutowe i pręty prowadzące. Części zamienne są zbierane przez stalkerów, jeśli nie są natychmiast potrzebne w ich broni, w celu odsprzedaży lub wykorzystania w przyszłości. Ten pakiet nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami tuningowymi broni strzeleckiej tej samej jakości, aby stworzyć zestaw do ulepszania mechanizmów broni. \n \n
+            Opakowanie jest opatrzone etykietą 'C-22' \n</text>
+	</string>
+
+	<string id="st_upgr_w_rpm">
+		<text>Pakiet do tuningu małokalibrowej 'R-39'</text>
+	</string>
+	<string id="st_upgr_w_rpm_desc">
+		<text>Paczka zawierająca kilka różnych części do różnych rodzajów broni, w tym mechanizmy spustowe, rygle i prowadnice, sprężyny odrzutowe i pręty prowadzące. Części zamienne są zbierane przez stalkerów, jeśli nie są natychmiast potrzebne w ich broni, w celu odsprzedaży lub wykorzystania w przyszłości. Ten pakiet nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami tuningowymi broni strzeleckiej tej samej jakości, aby stworzyć zestaw do ulepszania mechanizmów broni. \n \n
+            Opakowanie jest opatrzone etykietą 'R-39'\n </text>
+	</string>
+	
+	<string id="st_upgr_w_firemode">
+		<text>Pakiet do tuningu małokalibrowej 'F-23'</text>
+	</string>
+	<string id="st_upgr_w_firemode_desc">
+		<text>Paczka zawierająca kilka różnych części do różnych rodzajów broni, w tym mechanizmy spustowe, rygle i prowadnice, sprężyny odrzutowe i pręty prowadzące. Części zamienne są zbierane przez stalkerów, jeśli nie są natychmiast potrzebne w ich broni, w celu odsprzedaży lub wykorzystania w przyszłości. Ten pakiet nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami tuningowymi broni strzeleckiej tej samej jakości, aby stworzyć zestaw do ulepszania mechanizmów broni. \n \n
+            Opakowanie jest opatrzone etykietą 'F-23'\n </text>
+	</string>
+
+	<string id="st_upgr_w_weight">
+		<text>Pakiet do tuningu małokalibrowej 'W-02'</text>
+	</string>
+	<string id="st_upgr_w_weight_desc">
+		<text>Pudełko wypełnione przypadkowymi chwytami, kompensatorami, wymiennymi lufami i polimerowymi meblami do różnych pistoletów. Bez wątpienia transport zamówiony przez jakiegoś strefowego rusznikarza lub handlarza. Stan części jest różny i niekiedy pozostawia nieco do życzenia, przez co widać, że zestaw jest dość wybrakowany. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n 
+            Opakowanie jest opatrzone etykietą 'W-02'\n</text>
+	</string>
+	
+	<string id="st_upgr_w_speed">
+		<text>Pakiet do tuningu małokalibrowej 'V-99'</text>
+	</string>
+	<string id="st_upgr_w_speed_desc">
+		<text>Pudełko wypełnione przypadkowymi chwytami, kompensatorami, wymiennymi lufami i polimerowymi meblami do różnych pistoletów. Bez wątpienia transport zamówiony przez jakiegoś strefowego rusznikarza lub handlarza. Stan części jest różny i niekiedy pozostawia nieco do życzenia, przez co widać, że zestaw jest dość wybrakowany. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n 
+            Opakowanie jest opatrzone etykietą 'V-99'\n</text>
+	</string>
+	
+	<string id="st_upgr_w_magazine">
+		<text>Pakiet do tuningu małokalibrowej 'M-45'</text>
+	</string>
+	<string id="st_upgr_w_magazine_desc">
+		<text>Pudełko wypełnione przypadkowymi chwytami, kompensatorami, wymiennymi lufami i polimerowymi meblami do różnych pistoletów. Bez wątpienia transport zamówiony przez jakiegoś strefowego rusznikarza lub handlarza. Stan części jest różny i niekiedy pozostawia nieco do życzenia, przez co widać, że zestaw jest dość wybrakowany. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n 
+            Opakowanie jest opatrzone etykietą 'M-45'\n</text>
+	</string>
+	
+	<string id="st_upgr_w_dispersion">
+		<text>Zestaw części zamiennych 'D-19'</text>
+	</string>
+	<string id="st_upgr_w_dispersion_desc">
+		<text>Pudełko wypełnione przypadkowymi chwytami, kompensatorami, wymiennymi lufami i polimerowymi meblami do różnych pistoletów. Bez wątpienia transport zamówiony przez jakiegoś strefowego rusznikarza lub handlarza. Stan części jest różny i niekiedy pozostawia nieco do życzenia, przez co widać, że zestaw jest dość wybrakowany. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n 
+            Opakowanie jest opatrzone etykietą 'D-19\n'</text>
+	</string>
+	
+	<string id="st_upgr_w_inertion">
+		<text>Pakiet do tuningu broni małokalibrowej 'H-7'</text>
+	</string>
+	<string id="st_upgr_w_inertion_desc">
+		<text>Pudełko wypełnione przypadkowymi chwytami, kompensatorami, wymiennymi lufami i polimerowymi meblami do różnych pistoletów. Bez wątpienia transport zamówiony przez jakiegoś strefowego rusznikarza lub handlarza. Stan części jest różny i niekiedy pozostawia nieco do życzenia, przez co widać, że zestaw jest dość wybrakowany. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n 
+            Opakowanie jest opatrzone etykietą 'H-7'\n</text>
+	</string>
+	
+	
+	<string id="st_upgr_w_muffle">
+		<text>Zestaw optyki i szyn do broni palnej 'SPS'</text>
+	</string>
+	<string id="st_upgr_w_muffle_desc">
+		<text>Pudełko wypełnione przypadkowymi chwytami, kompensatorami, wymiennymi lufami i polimerowymi meblami do różnych pistoletów. Bez wątpienia transport zamówiony przez jakiegoś strefowego rusznikarza lub handlarza. Stan części jest różny i niekiedy pozostawia nieco do życzenia, przez co widać, że zestaw jest dość wybrakowany. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n
+            Opakowanie jest opatrzone etykietą 'SPS'\n
+        </text>
+	</string>
+	
+	<string id="st_upgr_w_grenade_mount">
+		<text>Zestaw optyki i szyn do broni palnej 'Gzh-L'</text>
+	</string>
+	<string id="st_upgr_w_grenade_mount_desc">
+		<text>Zestaw zawierający różne szyny montażowe (jaskółczy ogon, M-LOK, Picatinny), narzędzia do gwintowania luf i celowniki optyczne różnej jakości. Prawdopodobnie jest to kolekcja używanego sprzętu wymieniona na części mutantów lub artefakty. Jej jakość jest wątpliwa, ale niektóre części mogą nadawać się do użytku. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n
+            Opakowanie jest opatrzone etykietą 'Gzh-L'\n
+        </text>
+	</string>
+	
+	<string id="st_upgr_w_scope">
+		<text>Zestaw optyki i szyn do broni palnej 'OByE'</text>
+	</string>
+	<string id="st_upgr_w_scope_desc">
+		<text>Zestaw zawierający różne szyny montażowe (jaskółczy ogon, M-LOK, Picatinny), narzędzia do gwintowania luf i celowniki optyczne różnej jakości. Prawdopodobnie jest to kolekcja używanego sprzętu wymieniona na części mutantów lub artefakty. Jej jakość jest wątpliwa, ale niektóre części mogą nadawać się do użytku. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n
+            Opakowanie jest opatrzone etykietą 'OByE'\n
+        </text>
+	</string>
+	
+	<string id="st_upgr_w_scope_mount">
+		<text>Zestaw optyki i szyn do broni palnej 'MTt'</text>
+	</string>
+	<string id="st_upgr_w_scope_mount_desc">
+		<text>Zestaw zawierający różne szyny montażowe (jaskółczy ogon, M-LOK, Picatinny), narzędzia do gwintowania luf i celowniki optyczne różnej jakości. Prawdopodobnie jest to kolekcja używanego sprzętu wymieniona na części mutantów lub artefakty. Jej jakość jest wątpliwa, ale niektóre części mogą nadawać się do użytku. Pakiet ten nie jest przydatny sam w sobie, ale można go połączyć z innymi pakietami z rynku wtórnego o tej samej jakości, aby stworzyć zestaw ulepszeń dla korpusu broni.\n \n
+            Opakowanie jest opatrzone etykietą 'MTt'\n
+        </text>
+	</string>
+
+</string_table>

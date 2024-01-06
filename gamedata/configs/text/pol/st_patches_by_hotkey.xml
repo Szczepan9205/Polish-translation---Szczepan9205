@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_patches_by_hotkey_title">
+		<text>Naszywki pod klawiszem</text>
+	</string>
+	<string id="ui_mcm_menu_patches_by_hotkey">
+		<text>Naszywki</text>
+	</string>
+
+	<string id="ui_mcm_patches_by_hotkey_enabled">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_patches_by_hotkey_key">
+		<text>Klawisz</text>
+	</string>
+	
+	<string id="st_patches_by_hotkey_apply_patch">
+		<text>Przyszywanie naszywki...</text>
+	</string>
+	<string id="st_patches_by_hotkey_no_patch">
+		<text>Brak naszywki do przyszycia!</text>
+	</string>
+	<string id="st_patches_by_hotkey_remove_patch">
+		<text>Zrywanie naszywki...</text>
+	</string>
+	
+	
+</string_table>

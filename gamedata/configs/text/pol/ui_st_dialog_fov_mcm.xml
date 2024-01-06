@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_demonized_dialog_fov_title">
+		<text>Dynamiczne UI dialogów</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_dialog_fov">
+		<text>UI dialogów</text>
+	</string>
+
+	<string id="ui_mcm_demonized_dialog_fov_enabled">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_enabled">
+		<text>Włącz przybliżenie</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_modifier">
+		<text>Modyfikator przybliżenia</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov">
+		<text>Minimalne przybliżenie</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov_desc">
+		<text>Po włączeniu przybliżenia pole widzenia zmieni się co najmniej do tej wartości</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov">
+		<text>Przybliżenie oparte na odległości</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov_desc">
+		<text>Zmienia FOV, dzięki czemu postać jest tego samego rozmiaru, niezależnie od tego, jak daleko znajduje się od gracza</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_fov_smoothing">
+		<text>Łagodność przybliżenia</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_track_npc">
+		<text>Skupienie kamery na NPC</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier">
+		<text>Współczynnik obrotu kamery</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier_desc">
+		<text>Współczynnik obrotu kamery do dostosowania pozycji postaci, 0 oznacza brak obrotu, wartości ujemne spowodują obrót kamery w przeciwnym kierunku.</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_smoothing">
+		<text>Płynność ustawiania ostrości kamery</text>
+	</string>
+	
+</string_table>

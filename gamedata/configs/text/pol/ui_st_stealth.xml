@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_stealth_title">
+		<text>Stealth</text>
+	</string>
+	<string id="ui_mcm_menu_stealth">
+		<text>Stealth</text>
+	</string>
+
+	<string id="ui_mcm_stealth_memory">
+		<text>Pamięć</text>
+	</string>
+	<string id="ui_mcm_stealth_memory_desc">
+		<text>Mnożnik pamięci. (Jeśli postać niezależna widziała już cel, otrzyma wzmocnienie wzroku przeciwko temu celowi. Zmniejsza on się z czasem, przy domyślnej wartości 1.0 potrzeba około 100 realnych sekund, aby postać niezależna zmniejszyła swoje wzmocnienie do 0 przeciwko swojemu celowi.) \n 
+				\n Domyślne: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_luminocity">
+		<text>Oświetlenie</text>
+	</string>
+	<string id="ui_mcm_stealth_luminocity_desc">
+		<text>Mnożnik oświetlenia. (Światło na obiekcie) \n 
+				\n Domyślne: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_distance">
+		<text>Dystans</text>
+	</string>
+	<string id="ui_mcm_stealth_distance_desc">
+		<text>Mnożnik dystansu. (Odległość od obiektu do obiektu, zasięg i FOV) \n 
+				\n Domyślne: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_velocity">
+		<text>Prędkość</text>
+	</string>
+	<string id="ui_mcm_stealth_velocity_desc">
+		<text>Mnożnik prędkości. (Prędkość obiektu) \n 
+				\n Domyślne: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_weight">
+		<text>Waga</text>
+	</string>
+	<string id="ui_mcm_stealth_weight_desc">
+		<text>Mnożnik wagi. (Waga GG) \n 
+				\n Domyślne: 1.0</text>
+	</string>
+
+	<string id="ui_mcm_stealth_crouch">
+		<text>Przykucnięcie</text>
+	</string>
+	<string id="ui_mcm_stealth_crouch_desc">
+		<text>Mnożnik przykucnięcia. \n 
+				\n Domyślne: 0.4</text>
+	</string>
+
+	<string id="ui_mcm_stealth_low_crouch">
+		<text>Niskie przykucnięcie</text>
+	</string>
+	<string id="ui_mcm_stealth_low_crouch_desc">
+		<text>Mnożnik niskiego przykucnięcia. \n 
+				\n Domyślne: 0.25</text>
+	</string>
+
+	<string id="ui_mcm_stealth_icon">
+		<text>Ikona</text>
+	</string>
+	<string id="ui_mcm_stealth_icon_desc">
+		<text>Ikona oświetlenia. (Wyświetla lampkę nad GG)</text>
+	</string>
+
+	<string id="ui_mcm_stealth_michiko_patch">
+		<text>Łatka pogodowa Michiko</text>
+	</string>
+	<string id="ui_mcm_stealth_michiko_patch_desc">
+		<text>Zalecane jest włączenie tej opcji, jeśli używasz pogody Michiko.</text>
+	</string>
+
+	<string id="ui_mcm_stealth_debugx">
+		<text>Debugowanie</text>
+	</string>
+	<string id="ui_mcm_stealth_debugx_desc">
+		<text>Wyświetlanie zmiennych równania (dla prawidłowego progowania trzeba cały czas trzymać kursor na obiekcie)): \n 
+				\n Konsola: wszystkie zmienne \n 
+				\n Dynamiczne wiadomości: jeśli obiekt widzi aktora lub nie \n 
+				\n Komunikat na dole ekranu: próg widoczności obiektu (oraz zmienne, które można zmienić w MCM)</text>
+	</string>
+
+
+
+</string_table>

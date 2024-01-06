@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+    Storyline: Hidden Threat
+	Version:   1.0
+    Autor:     Longreed
+	Last Edit: 26/10/2021
+-->
+<string_table>
+	<string id="st_sl_ht_accounting_report_name">
+		<text>Raporty księgowe</text>
+	</string>
+	<string id="st_sl_ht_accounting_report_desc">
+		<text>Ważna teczka z dokumentami, sprawozdaniami finansowymi za bieżący miesiąc, na które czeka u niego major Żurow. Pochodzą one od od jego podwładnego, sierżanta Lożkina.</text>
+	</string>
+	<string id="st_sl_ht_spooner_quest_package_name">
+		<text>Paczka</text>
+	</string>			
+	<string id="st_sl_ht_spooner_quest_package_desc">
+		<text>Paczka nadana przez stalkera w celu dostarczenia jej do jego znajomego. Zawartość jest nieznana. Co dziwne, nie posiada żadnych zabezpieczeń przed ingerencją osób postronnych. %c[ui_gray_3]CHARAKTERYSTYKA:\n %c[d_blue] • %c[ui_gray_2] rzeczy osobiste\n %c[d_blue] • %c[ui_gray_2] cenne\n </text>
+	</string>
+	<string id="st_sl_ht_walkie_talkie_name">
+		<text>Wojskowa krótkofalówka</text>
+	</string>
+	<string id="st_sl_ht_walkie_talkie_desc">
+		<text>Przenośna krótkofalówka VHF R-002PP.</text>
+	</string>	
+	<string id="st_sl_ht_pda_isg_leader_name">
+		<text>PDA dowódcy ISG</text>
+	</string>
+	<string id="st_sl_ht_pda_isg_leader_desc">			
+		<text>To PDA jest zablokowane...</text>
+	</string>			
+	<string id="st_sl_ht_usb_quest_task_4_name">
+		<text>Fleszka USB</text>
+	</string>
+	<string id="st_sl_ht_usb_quest_task_4_desc">
+		<text>To urządzenie pamięci masowej zawiera niewielką część informacji, które Kiryłow zdołał zapisać.</text>
+	</string>
+	<string id="st_sl_ht_case_quest_task_5_name">			
+		<text>Teczka agenta SBU</text>
+	</string>
+	<string id="st_sl_ht_case_quest_task_5_desc">
+		<text>Zawartość tej walizki jest nieznana, przypuszczalnie zawiera informacje o działaniach ISG.</text>	
+	</string>
+	<string id="st_sl_ht_voice_recorder_task_6_name">
+		<text>Dyktafon</text>
+	</string>
+	<string id="st_sl_ht_voice_recorder_task_6_desc">
+		<text>Wygląda jak zwykły dyktafon, który można znaleźć wszędzie. Ale ten został ulepszony przez starszego porucznika Kiryłowa, kiedy wykrywa dźwięk reaguje na niego i zaczyna nagrywać.</text>
+	</string>		  
+	<!------------------- Items Tips ------------------------->
+	<string id="st_sl_hidden_threat_locked_door_tips">
+	    <text>Znajdź inną drogę</text>
+	</string>
+	<string id="st_sl_hidden_threat_radio_tips_1">
+	    <text>Schowaj dyktafon ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sl_hidden_threat_radio_tips_2">
+	    <text>Odzyskaj dyktafon ($$ACTION_USE$$)</text>
+	</string>
+</string_table>

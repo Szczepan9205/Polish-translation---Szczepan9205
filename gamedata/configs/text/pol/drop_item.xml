@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="ui_mcm_menu_drop_item">
+		<text>Wyrzuć przedmiot</text>
+	</string>
+	<string id="ui_mcm_drop_item_key_drop">
+		<text>Przycisk wyrzucenia przedmiotu</text>
+	</string>
+	<string id="ui_mcm_drop_item_key_drop_desc">
+        <text>Naciśnij klawisz, aby wyrzucić przedmiot zaznaczony w ekwipunku na ziemię.</text>
+	</string>
+</string_table>

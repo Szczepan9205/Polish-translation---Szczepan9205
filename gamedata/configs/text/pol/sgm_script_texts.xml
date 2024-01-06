@@ -1,0 +1,630 @@
+	<string id="ui_mcm_menu_21_game">
+		<text>Oczko</text>
+	</string>
+	
+	<string id="ui_mcm_21_game_card_game_21_minimum_rate">
+		<text>Ustaw minimaln¹ stawkê</text>
+	</string>
+	
+	<string id="ui_mcm_21_game_value_card_21_max_rate">
+		<text>Ustaw maksymaln¹ stawkê</text>
+	</string>
+
+	
+	<string id="st_unique_treasure_spot_descr">
+		<text>Schowek. Kod dostêpu</text>
+	</string>
+	<string id="st_question_game_reward_advice">
+		<text>Wygrana porada:</text>
+	</string>
+	<string id="st_question_game_reward_money">
+		<text>Wygrane dodatkowe pieni¹dze:</text>
+	</string>
+	<string id="st_remote_charge_delay_deactivated">
+		<text>Timer: wy³¹czony</text>
+	</string>
+	<string id="st_remote_charge_delay_timer">
+		<text>Timer:</text>
+	</string>
+	<string id="st_remote_charge_delay_value">
+		<text>sek.</text>
+	</string>
+	<string id="st_remote_charge_spot">
+		<text>£adunek RS-15</text>
+	</string>
+	<string id="st_21_point_your_card_value">
+		<text>Twoje:</text>
+	</string>
+	<string id="st_21_point_enemy_card_value">
+		<text>Przeciwnika:</text>
+	</string>
+	<string id="st_21_point_rate_field">
+		<text>Twoja stawka:</text>
+	</string>
+	<string id="st_21_point_infoline_1">
+		<text>Twoje pieni¹dze:</text>
+	</string>
+	<string id="st_21_point_infoline_2">
+		<text>Stawka minimalna - 50, stawka maksymalna -</text>
+	</string>
+	<string id="st_21_point_money">
+		<text>rubli.</text>
+	</string>
+	<string id="st_21_point_info_about_your">
+		<text>Diegtiarow: zak³ad</text>
+	</string>
+	<string id="st_21_point_info_about_enemy">
+		<text>: zak³ad</text>
+	</string>
+	<string id="st_21_point_web_money">
+		<text>Elektroniczne ruble.</text>
+	</string>
+	<string id="st_21_point_winner_your_1">
+		<text>Wygra³eœ. Wygrane -</text>
+	</string>
+	<string id="st_21_point_winner_your_2">
+		<text>rubli. Punkty: twoje -</text>
+	</string>
+	<string id="st_21_point_winner_your_3">
+		<text>, przeciwnika -</text>
+	</string>
+	<string id="st_21_point_winner_enemy_1">
+		<text>Przegra³eœ. Przegrane -</text>
+	</string>
+	<string id="st_21_point_winner_enemy_2">
+		<text>rubli. Punkty: twoje -</text>
+	</string>
+	<string id="st_21_point_winner_enemy_3">
+		<text>, przeciwnika -</text>
+	</string>
+	<string id="st_21_point_winner_equally_1">
+		<text>Remis. Punkty: twoje -</text>
+	</string>
+	<string id="st_21_point_winner_equally_2">
+		<text>, przeciwnika -</text>
+	</string>
+	<string id="st_help_wounded_payment">
+		<text>Zap³ata za ratunek</text>
+	</string>
+	<string id="st_mechanic_stripping_count">
+		<text>Czêœci zamienne</text>
+	</string>
+	<string id="st_rank_event_present">
+		<text>Ranga podniesiona</text>
+	</string>
+	<string id="st_bankir_web_money_course_1">
+		<text>Kurs wymiany:</text>
+	</string>
+	<string id="st_bankir_web_money_course_2">
+		<text>Twoje elektroniczne pieni¹dze:</text>
+	</string>
+	<string id="st_bankir_web_money_course_3">
+		<text>1 elektroniczny rubel -</text>
+	</string>
+	<string id="st_bankir_web_money_course_4">
+		<text>procent w rublach gotówki.</text>
+	</string>
+	<string id="st_bankir_web_money_course_5">
+		<text>rubli.</text>
+	</string>
+	<string id="st_event_headshot">
+		<text>Trafienie w g³owê</text>
+	</string>
+	<string id="st_event_iam_find">
+		<text>Znaleziono</text>
+	</string>
+	<string id="st_event_find_secret">
+		<text> schowek SGM.</text>
+	</string>
+	<string id="st_event_find_deserve">
+		<text> schowek osobisty.</text>
+	</string>
+	<string id="st_custom_goods_need_rank">
+		<text>Wymagany stopieñ:</text>
+    </string>
+	<string id="st_booty_count">
+		<text>Liczba trofeów</text>
+	</string>
+	<string id="st_booty_costs">
+		<text>Na sumê:</text>
+	</string>
+	<string id="st_add_damage">
+		<text>uszkodzenia</text>
+	</string>
+	<string id="st_booty_shtuk">
+		<text>szt.</text>
+	</string>
+	<string id="st_need_rank">
+		<text>wymagany stopieñ >=</text>
+	</string>
+	<string id="st_currert_rank">
+		<text>Obecna ranga:</text>
+	</string>
+	<string id="st_af_type_1">
+		<text>Selekcjonuje: Artefakty typu 1</text>
+	</string>
+	<string id="st_af_type_2">
+		<text>Selekcjonuje: Artefakty typu 2</text>
+	</string>
+	<string id="st_af_type_3">
+		<text>Selekcjonuje: Artefakty typu 3</text>
+	</string>
+	<string id="st_af_type_all">
+		<text>Selekcjonuje: Artefakty typu 1, typu 2, typu 3</text>
+	</string>
+	<string id="st_bodyguard_price">
+		<text>Koszt us³ug:</text>
+	</string>
+    <string id="st_bankir_deposit_title">
+		<text>Rachunek depozytowy: </text>
+	</string>
+	<string id="st_bankir_percent_title">
+		<text>Dochody od depozytu: </text>
+	</string>
+    <string id="st_bankir_money">
+		<text>Pieni¹dze w plecaku =</text>
+	</string>
+	<string id="st_bankir_counter">
+		<text>Rachunek oszczêdnoœciowy :</text>
+	</string>
+	<string id="st_bankir_counter2">
+		<text>Depozyt bankowy :</text>
+	</string>
+	<string id="st_bankir_ru">
+		<text>RU</text>
+	</string>
+	<string id="st_bankir_last">
+		<text>Ostatni wp³acony kapita³ :</text>
+	</string>
+	<string id="st_bankir_result">
+		<text>Wszystko =</text>
+	</string>
+	<string id="st_bankir_percent">
+		<text>Ca³kowity procent jutro:</text>
+	</string>
+	<string id="st_bankir_percent_today">
+		<text>Ca³kowity procent dzisiaj :</text>
+	</string>
+	<string id="st_trader_order_count">
+		<text>Liczba zamówieñ: </text>
+	</string>
+    <string id="st_order_cost">
+		<text>Cena zamówienia:</text>
+	</string>
+	<string id="st_statistic_value_of">
+		<text>z</text>
+	</string>
+	<string id="st_weapon_damage">
+		<text>Obra¿enia </text>
+	</string>
+	<string id="st_weapon_distance">
+		<text>Zasiêg </text>
+	</string>
+	<string id="st_detonation_radius">
+		<text>Promieñ wybuchu </text>
+	</string>
+	<string id="st_detonation_scraps">
+		<text>Rozrzut od³amków </text>
+	</string>
+	<string id="st_def_meters">
+		<text>m.</text>
+	</string>
+	<string id="st_detonation_time">
+		<text>Czas do detonacji </text>
+	</string>
+	<string id="st_def_second">
+		<text>sek.</text>
+	</string>
+	<string id="st_actor_box_currert_weight">
+		<text>Masa przedmiotów w osobistym schowku =</text>
+	</string>
+	<string id="st_actor_box_currert_mass">
+		<text>Masa =</text>
+	</string>
+	<string id="st_actor_box_transportation_cost">
+		<text>|  Wartoœæ =</text>
+	</string>
+	<string id="st_mod_version_title">
+		<text>Wersja</text>
+	</string>
+	<string id="st_sigerous_mod_successfully_started">
+		<text>Sigerous Mod pomyœlnie za³adowany...</text>
+	</string>
+	<string id="st_pri_zone_cleaning_add">
+		<text>Zosta³o Zombie:</text>
+	</string>
+	<string id="st_pri_zone_cleaning_add2">
+		<text>osobników</text>
+	</string>
+	<string id="st_task_execution_time_add1">
+		<text>(zosta³o</text>
+	</string>
+	<string id="st_task_execution_time_add2">
+		<text>minut)</text>
+	</string>
+	<string id="st_task_execution_time_add3">
+		<text>bonusowych minut)</text>
+	</string>
+	<string id="st_get_employer_kill_stalker">
+		<text>stalkerów</text>
+	</string>
+	<string id="st_get_employer_kill_bandit">
+		<text>bandytów</text>
+	</string>
+	<string id="st_get_employer_kill_merc">
+		<text>najemników</text>
+	</string>
+	<string id="st_get_employer_kill_army">
+		<text>wojskowych</text>
+	</string>
+	<string id="st_get_employer_kill_monolith">
+		<text>monolitowców</text>
+	</string>
+	<string id="st_get_employer_kill_dolg">
+		<text>powinnoœciowców</text>
+	</string>
+	<string id="st_get_employer_kill_freedom">
+		<text>wolnoœciowców</text>
+	</string>
+	<string id="st_get_employer_kill_renegade">
+		<text>renegatów</text>
+	</string>
+	
+<!--------------------------=========-------------------------------------->
+<!----------------------'ÌÈÍÈ ÈÃÐÛ ÏÅÐÅÂÎÄ ÄÈÀËÎÃÎÂ'----------------------->
+<!--------------------------=========-------------------------------------->
+<!--------------------------========--------------------->
+<!------------------------'ÁÀÐ ÐÎÑÒÎÊ'------------------->
+<!--------------------------========--------------------->
+	<string id="st_minigames_21_point_accept_step">
+		<text>Zwiêksz zak³ad o - 200</text>
+	</string>
+	
+    <string id="st_minigames_21_point_rem">
+		<text>Zapamiêtaj stawkê</text>
+	</string>
+    
+
+    <string id="st_minigames_21_point_accept_bets">
+		<text>Zaakceptuj stawkê</text>
+	</string>
+	
+    <string id="st_minigames_21_point_start">
+		<text>Zacznij grê</text>
+	</string>
+
+    <string id="st_minigames_21_point_exit">
+		<text>WyjdŸ</text>
+	</string>
+	
+    <string id="st_minigames_21_point_more">
+		<text>WeŸ wiêcej</text>
+	</string>
+	
+    <string id="st_minigames_21_point_pass">
+		<text>Poddaj rundê</text>
+	</string>
+
+    <string id="st_minigames_21_point_cont">
+		<text>Kontynuuj</text>
+	</string>
+
+
+	<string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Chcia³em ciê o coœ zapytaæ...</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_2">
+		<text>Co jest?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_3">
+		<text>Co powiesz na partyjkê w Oczko? </text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_4">
+		<text>Okej. Zagrajmy! Szykuj kasê, a ja potasujê karty.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_5">
+		<text>Pewnie, zagrajmy.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_6">
+		<text>Œwietnie, jestem gotowy, zaczynajmy.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_7">
+		<text>Masz trochê wolnego czasu? Co powiesz na grê w karty?</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_8">
+		<text>Jasne!</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_9">
+		<text>Jestem gotowy, zagrajmy.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_10">
+		<text>Teraz nie mogê - innym razem.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_11">
+		<text>Mo¿e innym razem.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_12">
+		<text>Nie zgadzam siê, takie zasady mi nie odpowiadaj¹.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_reply_no_1">
+		<text>Kiedy indziej, teraz jestem zajêty.</text>
+	</string>
+        <string id="zat_sich_minigame_21_point_dialog_reply_no">
+		<text>Zagrajmy innym razem.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ÀÐÌÅÉÑÊÈÅ ÑÊËÀÄÛ'--------------------->
+<!------------------------========--------------------->
+
+        <string id="skraga_21_point_dialog_1">
+		<text>[Oczko] Hej, pozwól, ¿e ciê o coœ zapytam...</text>
+	</string>
+        <string id="skraga_21_point_dialog_2">
+		<text>Tak?</text>
+	</string>
+        <string id="skraga_21_point_dialog_3">
+		<text>Widzê, ¿e masz tam taliê kart. Co powiesz na grê w Oczko?</text>
+	</string>
+        <string id="skraga_21_point_dialog_4">
+		<text>Dobra, zagrajmy!</text>
+	</string>
+        <string id="skraga_21_point_dialog_5">
+		<text>Gotowy, kiedy ty bêdziesz.</text>
+	</string>
+        <string id="skraga_21_point_dialog_6">
+		<text>Jasne, zagrajmy!</text>
+	</string>
+        <string id="skraga_21_point_dialog_7">
+		<text>Teraz?</text>
+	</string>
+        <string id="skraga_21_point_dialog_8">
+		<text>Tak!</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ÁÎËÎÒÀ'--------------------->
+<!------------------------========--------------------->
+       
+       <string id="xolod_21_point_dialog_1">
+		<text>[Oczko] Hej, Zimny, pozwól, ¿e ciê o coœ zapytam.</text>
+	</string>
+        <string id="xolod_21_point_dialog_2">
+		<text>O co chodzi?</text>
+	</string>
+        <string id="xolod_21_point_dialog_3">
+		<text>Co powiesz na to, ¿eby zagraæ w karty?</text>
+	</string>
+        <string id="xolod_21_point_dialog_4">
+		<text>Pewnie, brzmi to dobrze. Szykuj kasê i gramy.</text>
+	</string>
+        <string id="xolod_21_point_dialog_5">
+		<text>Œwietnie!</text>
+	</string>
+        <string id="xolod_21_point_dialog_6">
+		<text>Jestem gotowy, grajmy.</text>
+	</string>
+        <string id="xolod_21_point_dialog_7">
+		<text>Jeszcze raz?</text>
+	</string>
+        <string id="xolod_21_point_dialog_8">
+		<text>Tak!</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ÐÛÆÈÉ ËÅÑ'--------------------->
+<!------------------------========--------------------->
+
+       <string id="lesnik_21_point_dialog_1">
+		<text>Dziadku, chcia³em ciê o coœ zapytaæ.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_2">
+		<text>Co jest M³odziaku, czego chcesz?</text>
+	</string>
+        <string id="lesnik_21_point_dialog_3">
+		<text>K¹tem oka zauwa¿y³em, ¿e masz na swoim stole taliê kart. Mo¿e zagramy na punkty, o pieni¹dze?</text>
+	</string>
+        <string id="lesnik_21_point_dialog_4">
+		<text>Okej. Zagrajmy! Szykuj pieni¹dze, a ja potasujê karty.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_5">
+		<text>Mam je ju¿ przygotowane.</text>
+	</string>
+        <string id="lesnik_21_point_dialog_6">
+		<text>To dobrze, ja te¿ jestem gotowy.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ÌÅÐÒÂÛÉ ÃÎÐÎÄ'--------------------->
+<!------------------------========--------------------->
+
+	<string id="cit_killers_21_point_dialog_1">
+		<text>Chcia³em ciê o coœ zapytaæ.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_2">
+		<text>Co jest? </text>
+	</string>
+        <string id="cit_killers_21_point_dialog_3">
+		<text>K¹tem oka zauwa¿y³em za lad¹ taliê kart. Mo¿e chcia³byœ zagraæ w Oczko?</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_4">
+		<text>Dobrze, zagrajmy. Wyci¹gnij swoje pieni¹dze.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_5">
+		<text>Eh-heh, zaczynajmy.</text>
+	</string>
+        <string id="cit_killers_21_point_dialog_6">
+		<text>Dobrze, zagrajmy.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ßÍÒÀÐÜ'--------------------->
+<!------------------------========--------------------->
+
+<string id="saxarov_21_point_dialog_1">
+		<text>Profesorze, czy mo¿e mi pan poœwiêciæ chwilê? </text>
+	</string>
+        <string id="saxarov_21_point_dialog_2">
+		<text>S³ucham.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_3">
+		<text>Widzê taliê kart na tamtym stole. Zastanawia³em siê, czy ma pan mo¿e ochotê na grê w Oczko? </text>
+	</string>
+        <string id="saxarov_21_point_dialog_4">
+		<text>Có¿, mam na g³owie kilka rzeczy, które obieca³em zrobiæ... ale co mi tam, na jedn¹ grê znajdê czas.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_5">
+		<text>Dobrze, zróbmy to.</text>
+	</string>
+        <string id="saxarov_21_point_dialog_6">
+		<text>Fajnie, w takim razie grajmy.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'ÇÀÒÎÍ'--------------------->
+<!------------------------========--------------------->
+
+<string id="zat_sich_minigame_21_point_dialog_1">
+		<text>Hej, chcia³em ciê o coœ zapytaæ.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_2">
+		<text>Tak? O co? </text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_3">
+		<text>Zauwa¿y³em taliê kart za lad¹, co powiesz na grê w Oczko?</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_4">
+		<text>W porz¹dku, wyjmij portfel, a ja potasujê karty. Mam nadziejê, ¿e masz du¿o do stracenia.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_5">
+		<text>Dobra, jestem ju¿ gotowy do gry.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_6">
+		<text>To dobrze! Grajmy!</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_7">
+		<text>Co tam, jeszcze raz?</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_8">
+		<text>Tak, jeszcze raz!</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_9">
+		<text>Brzmi dobrze, grajmy.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_10">
+		<text>Teraz jestem zajêty. Innym razem.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_11">
+		<text>Mo¿e innym razem.</text>
+	</string>
+        <string id="sich_minigame_21_point_dialog_12">
+		<text>Nie, nie chcê teraz graæ.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Þïèòåð'--------------------->
+<!------------------------========--------------------->
+
+
+<string id="jup_barmen_minigame_21_point_dialog_1">
+		<text>Hej, chcia³em ciê o coœ zapytaæ.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_2">
+		<text>W takim razie œmia³o, pytaj.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_3">
+		<text>Wiem, ¿e gdzieœ w tej spelunie musisz mieæ taliê kart. Co powiesz na grê?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_4">
+		<text>Punkt to punkt! </text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_5">
+		<text>Dobrze, grajmy.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_6">
+		<text>Okej, zagrajmy.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_7">
+		<text>Co powiesz na powtórkê?</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_8">
+		<text>Tak, grajmy.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_9">
+		<text>Dobrze, grajmy.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_10">
+		<text>Teraz nie mogê. Innym razem.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_11">
+		<text>Nie teraz. Mo¿e póŸniej.</text>
+	</string>
+        <string id="jup_barmen_minigame_21_point_dialog_12">
+		<text>Nie, nie mam ochoty teraz graæ w Oczko.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Þïèòåð'--------------------->
+<!------------------------========--------------------->
+
+
+    <string id="petrenko_21_point_dialog_1">
+		<text>Co ty na partyjkê w Oczko?</text>
+	</string>
+        <string id="petrenko_21_point_dialog_2">
+		<text>Pewnie, czemu nie? Nie mam teraz nic innego do roboty.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Êîðäîí'--------------------->
+<!------------------------========--------------------->
+
+
+        <string id="sidor_21_point_dialog_1">
+		<text>S³uchaj Sidorowicz, ty gruby, pieprzony z³odzieju, co powiesz na grê w Oczko?</text>
+	</string>
+        <string id="sidor_21_point_dialog_2">
+		<text>Tak, zapraszam. Ale ostrzegam, ¿e obedrê ciê z kasy, a¿ do koœci.</text>
+	</string>
+        <string id="shustriy_21_point_dialog_1">
+		<text>Hej ¯wawy, masz ochotê na grê w Oczko?</text>
+	</string>
+        <string id="shustriy_21_point_dialog_2">
+		<text>Pewnie, nie mam teraz ¿adnych zleceñ. Zagrajmy.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!---------------------'Ò¸ìíàÿ Äîëèíà'----------------->
+<!------------------------========--------------------->
+
+
+        <string id="maslina_21_point_dialog_1">
+		<text>Hej stary, masz teraz wolne? Co powiesz na grê w Oczko?</text>
+	</string>
+        <string id="maslina_21_point_dialog_2">
+		<text>Tak brachu, zagrajmy, i tak nikt dzisiaj nic nie kupi.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Àãðîïðîì'------------------->
+<!------------------------========--------------------->
+
+
+        <string id="military_21_point_dialog_1">
+		<text>Doœæ tu cicho. Masz czas na grê w Oczko?</text>
+	</string>
+        <string id="military_21_point_dialog_2">
+		<text>Tak, rzeczywiœcie zrobi³o siê doœæ cicho. Zagrajmy.</text>
+	</string>
+
+<!------------------------========--------------------->
+<!------------------------'Ïðèïÿòü'-------------------->
+<!------------------------========--------------------->
+
+
+     <string id="propovednik_21_point_dialog_1">
+		<text>Hej bracie, co powiesz na grê w Oczko?</text>
+	</string>
+        <string id="propovednik_21_point_dialog_2">
+		<text>Dobrze brzmi. Monolit jest ostatnio doœæ spokojny, wiêc myœlê, ¿e mamy czas na grê.</text>
+	</string>

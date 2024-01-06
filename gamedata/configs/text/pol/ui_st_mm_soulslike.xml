@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="st_cap_check_soulslike_mode">
+		<text>Tryb Soulslike</text>
+	</string>
+	<string id="st_mm_ck_soulslike_mode_desc">
+		<text>
+			%c[0,150,150,150]W trybie Soulslike śmierć technicznie nigdy nie następuje. Po "śmierci" zostajesz uratowany przez losowego stalkera w Zonie. Sprowadzi cię on z powrotem do ustalonej lokalizacji ostatniego odrodzenia, gdzie obudzisz się, aby znaleźć w kieszeni wiadomość od niego lub nich\n
+			o tym, jak i gdzie zostałeś znaleziony oraz jak wiele mogli zrobić, aby doprowadzić cię w bezpieczne miejsce. Rzeczy, które znajdowały się w twoim ekwipunku, muszą zostać odzyskane, niektóre mogą zostać utracone, a ich stan może ulec pogorszeniu, w zależności od ustawień.\n 
+			\n %c[200,200,50,50] Nie kompatybilny z trybem Azazel.\n
+			\n %c[200,200,50,50] Nie kompatybilny z trybem Ironman.
+		</text>
+	</string>
+</string_table>

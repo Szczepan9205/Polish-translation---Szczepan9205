@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<!--
+Overwrites
+beretta_camo
+-->
+	<string id="st_wpn_beretta_px4">
+		<text>Beretta Px4 Storm</text>
+	</string>
+	<string id="st_wpn_beretta_px4_descr">
+		<text>Px4 Storm to rozwinięcie Beretty 8000, przeznaczone jako zamiennik 92FS do obrony osobistej i egzekwowania prawa. Jego obrotowa lufa pozwala na lepszą kontrolę odrzutu i ciągłe strzały, a lekki szkielet pomaga również w utrzymaniu wagi. Ten konkretny model wydaje się być również wyposażony w trytowe przyrządy celownicze. Wygląda na to, że broń ta była "nielegalnie" eksportowana z Armenii i Rumunii przez najemników, którzy byli częścią sił policyjnych w tych krajach.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik: 9 mm</text>
+	</string>
+	
+	<string id="st_up_px4_a1_name">
+		<text>Zmiana kalibru na .45 ACP</text>
+	</string>
+	<string id="st_up_px4_a1_descr">
+		<text>Złożona, zintegrowana modyfikacja mechanicznych i zautomatyzowanych części broni, która pozwala na zmianę jej kalibru kosztem niezawodności.</text>
+	</string>
+
+<!-- UNUSED
+
+	<string id="st_wpn_beretta_m9">
+		<text>Beretta M9</text>
+	</string>
+	<string id="st_wpn_beretta_m9_descr">
+		<text>Jest to wersja włoskiej Beretty 92FS dla Korpusu Piechoty Morskiej Stanów Zjednoczonych, stworzona zgodnie z wymaganiami wspomnianej frakcji. Ponieważ jest to wersja sprzed M9A1, zmiany są niewielkie, ale wyraźnie widać, że magazynek jest ścięty, ma prostą kwadratową osłonę spustu i bardziej agresywne przyrządy celownicze z powłoką trytową. Ponieważ jest on znany wśród najemników, Wolności i jakiejś dziwnej, niedawno wspomnianej frakcji, można śmiało powiedzieć, że sposób, w jaki ten "pół-prototyp" dostał się do Zony, to dezerterzy z zachodnich armii i byli żołnierze PMC.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik 9x19</text>
+	</string>
+	
+-->	
+
+</string_table>

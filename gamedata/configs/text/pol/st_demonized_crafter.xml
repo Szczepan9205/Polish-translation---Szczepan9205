@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_demonized_crafter">
+		<text>stwórz</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_success">
+		<text>Wytworzono</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_spent_items">
+		<text>Użyte przedmioty</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_fail">
+		<text>Nie udało się wytworzyć</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_possible_combinations">
+		<text>Możliwe kombinacje</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_or">
+		<text>LUB</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_all">
+		<text>wszystko</text>
+	</string>
+
+	<string id="st_demonized_crafter_craft_check_pda_news">
+		<text>Sprawdź przepisy w PDA w zakładce "Wiadomości"</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+    <string id="kvartet_1">
+        <text>Wszystkie jednostki, tu Kwartet. Nie wykryto żadnych emisji psionicznych, a obecność wroga jest ograniczona. Proszę o pozwolenie na lądowanie na Radarze i rozpoczęcie operacji zwiadowczych. Operacja "Odwet Monolitu" rozpoczęta - wszystkie specjalne zespoły operacyjne i wojskowi stalkerzy, przegrupować się i przygotować do ataku na Elektrownię w Czarnobylu, odbiór.</text>
+    </string>
+    <string id="kvartet_2">
+        <text>Wszystkie jednostki, tu Kwartet. Wrogowie są skoncentrowani w trzech obszarach: w wejściu do Sarkofagu, drodze przy torach kolejowych i głównym wejście na teren Elektrowni. Rozpocząć szturm, odbiór. </text>
+    </string>
+    <string id="kvartet_3">
+        <text>Wszystkie jednostki, tu Kwartet. Zdobyliśmy południowy sektor Elektrowni i jesteśmy gotowi do natarcia na sektor północny i oczyszczenia generatorów z wrogich sił. Informujemy, że snajperzy Monolitu zajęli pozycje w sektorze północnym.</text>
+    </string>
+    <string id="kvartet_4">
+        <text>Tu Kwartet! Przejęliśmy generatory! Misja zakończona! Wszystkie jednostki zająć pozycje i czekać na dalsze instrukcje, odbiór. Co do ciebie, żołnierzu - zbierz wszystkie możliwe informacje z laboratoriów, a następnie zgłoś się do dowództwa.</text>
+    </string>
+    <string id="kvartet_5">
+        <text>Tu Kwartet, rozpoczynamy atak!</text>
+    </string>
+    <string id="st_cherep_1">
+        <text>Zadanie wykonane. Zgłoś się do generała Woronina - my zabezpieczymy nasze pozycję.</text>
+    </string>
+    <string id="cs_task1_news">
+        <text>Zarodnik: Hej, stalkerze, straciliśmy kontakt z jednym z naszych zwiadowców o pseudonimie "Kula". Pomóż go znaleźć, zanim będzie za późno - mutanty robią się naprawdę nieprzyjemne w nocy. Ostatni sygnał, jaki od niego otrzymaliśmy, wskazuje, że znajduje się w pobliżu północnej części Bagien - musi być blisko drogi do Agropromu.</text>
+    </string>
+    <string id="cs_task1_news1">
+        <text>Ty: Postaram się go znaleźć.</text>
+    </string>
+    <string id="cs_task1_news2">
+        <text>Zimny: Stalkerze, udało nam się odszyfrować PDA Kuli. Przyjdź do mnie, kiedy będziesz wolny - mam dla ciebie robotę. </text>
+    </string>
+    <string id="cs_task8_news3">
+        <text>Gamajun: Stalkerze, według naszych informacji fanatycy kontratakują. Zabij ich wszystkich!</text>
+    </string>
+</string_table>

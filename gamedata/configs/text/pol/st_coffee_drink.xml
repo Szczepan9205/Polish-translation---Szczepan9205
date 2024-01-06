@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_coffee_drink">
+		<text>Kawa UCC Cold Brew gotowa do picia</text>
+	</string>
+	<string id="st_coffee_drink_descr">
+		<text>Kawa mleczna UCC Cold Brew Arabica i Robusta.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] napój\n
+		%c[d_blue] • %c[ui_gray_2] importowany\n
+		%c[d_blue] • %c[ui_gray_2] stymulant\n
+		%c[d_blue] • %c[ui_gray_2] silny efekt otrzeźwiający po alkoholu\n
+		</text>
+	</string>
+	
+</string_table>

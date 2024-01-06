@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="st_windows-1250"?>
+<string_table>
+
+	<!-- Jammin -->
+	<string id="st_casing_pistol">
+		<text>£uska pocisku do broni krótkiej</text>
+	</string>
+	<string id="st_casing_pistol_desc">
+		<text>Ma³e ³uski mosiê¿ne ze sp³onkami do amunicji pistoletowej. Naboje te mo¿na przeformowaæ do dowolnego rozmiaru od 7,62x25 do .357 Magnum.</text>
+	</string>
+	<string id="st_casing_shotgun">
+		<text>£uska pocisku do strzelby</text>
+	</string>
+	<string id="st_casing_shotgun_desc">
+		<text>Plastikowe ³uski z mosiê¿nymi sp³onkami u¿ywane do produkcji amunicji œrutowej.</text>
+	</string>
+	<string id="st_casing_r5">
+		<text>£uska pocisku do karabinów maszynowych</text>
+	</string>
+	<string id="st_casing_r5_desc">
+		<text>Œredniej wielkoœci mosiê¿ne ³uski ze sp³onkami do amunicji karabinowej. Naboje te mo¿na przeformowaæ do dowolnego rozmiaru, aby pomieœciæ pociski o d³ugoœci 39 mm lub 45 mm.</text>
+	</string>
+	<string id="st_casing_r7">
+		<text>£uska pocisku do karabinów snajperskich</text>
+	</string>
+	<string id="st_casing_r7_desc">
+		<text>Du¿e mosiê¿ne ³uski ze sp³onkami do pe³nowymiarowej amunicji karabinowej.</text>
+	</string>
+	<string id="st_powder_pistol">
+		<text>£adunek miotaj¹cy do pistoletu/strzelby</text>
+	</string>
+	<string id="st_powder_pistol_desc">
+		<text>Szybko spalaj¹cy siê dwubazowy materia³ miotaj¹cy do stosowania w strzelbach i ma³ych pistoletach. Ten wariant prochu bezdymnego wytwarza mniej energii ni¿ wolniejsze prochy, ale spala siê czyœciej i szybciej.</text>
+	</string>
+	<string id="st_powder_rifle">
+		<text>£adunek miotaj¹cy do karabinów maszynowych</text>
+	</string>
+	<string id="st_powder_rifle_desc">
+		<text>Proch IMR do lekkich nabojów karabinowych i niektórych ciê¿kich nabojów do broni rêcznej. Proch ten spala siê w œrednim tempie i wytwarza du¿¹ iloœæ energii. Nie mo¿e byæ u¿ywany w pistoletach i strzelbach typu blowback, poniewa¿ niewystarczaj¹ce ciœnienie doprowadzi do niepe³nego spalania, powoduj¹c zanieczyszczenie.</text>
+	</string>
+	<string id="st_powder_mag">
+		<text>£adunek miotaj¹cy do karabinów snajperskich</text>
+	</string>
+	<string id="st_powder_mag_desc">
+		<text>Wysokowydajny, wolno spalaj¹cy siê proch kulowy do du¿ych nabojów karabinowych. Proch ten wytwarza najwiêcej energii i spala siê najwolniej, dlatego nadaje siê wy³¹cznie do amunicji karabinowej du¿ego kalibru wystrzeliwanej z broni d³ugolufowej.</text>
+	</string>
+	<string id="st_handgun_rounds">
+		<text>Naboje do pistoletu</text>
+	</string>
+	<string id="st_handgun_rounds_desc">
+		<text>Ró¿nej wielkoœci naboje do pistoletu odzyskane z amunicji. Przydadz¹ siê do tworzenia nowej amunicji.</text>
+	</string>
+	<string id="st_handgun_ap_rounds">
+		<text>Naboje do broni rêcznej, przeciwpancerne</text>
+	</string>
+	<string id="st_handgun_ap_rounds_desc">
+		<text>Ró¿nej wielkoœci naboje do broni rêcznej odzyskane z amunicji. Maj¹ one penetratory ze stopu osadzone w pocisku. Pociski do broni rêcznej s¹ zwykle zbyt wolne, by przebiæ pancerz, nawet z penetratorami, chyba ¿e u¿yty zostanie ³adunek prochowy o nadmiernym ciœnieniu lub pocisk zosta³ zaprojektowany specjalnie do przebijania pancerza, jak w przypadku naboju 5,7x28.</text>
+	</string>
+	<string id="st_shotgun_rounds">
+		<text>Œrut o³owiany</text>
+	</string>
+	<string id="st_shotgun_rounds_desc">
+		<text>Ma³e o³owiane œruciny u¿ywane w strzelbach myœliwskich. Mo¿na je równie¿ przetapiaæ i odlewaæ w du¿e œruciny.</text>
+	</string>
+	<string id="st_shotgun_ap_rounds">
+		<text>Sabotowana strza³ka</text>
+	</string>
+	<string id="st_shotgun_ap_rounds_desc">
+		<text>Strza³ka z hartowanej stali zamkniêta w sabocie. S¹ one przeznaczone do wystrzeliwania ze strzelb policyjnych w celu unieszkodliwiania bloków silnika, ale dobrze radz¹ sobie z pancerzami osobistymi.</text>
+	</string>
+	<string id="st_rifle5_rounds">
+		<text>Pociski do karabinów ma³okalibrowych</text>
+	</string>
+	<string id="st_rifle5_rounds_desc">
+		<text>Pociski karabinowe o ró¿nych rozmiarach u¿ywane w karabinach szturmowych. Wyprodukowane przez wojsko i pokryte metalowym p³aszczem, zoptymalizowane pod k¹tem celnoœci.</text>
+	</string>
+	<string id="st_rifle5_ap_rounds">
+		<text>Pociski do karabinów ma³okalibrowych, przeciwpancerne</text>
+	</string>
+	<string id="st_rifle5_ap_rounds_desc">
+		<text>Ró¿nej wielkoœci pociski karabinowe ze stopowymi penetratorami u¿ywane w karabinach szturmowych. S¹ to specjalne naboje przeznaczone do niszczenia pancerzy na standardowych dystansach, kosztem skutecznoœci w starciu z cia³em.</text>
+	</string>
+
+	<string id="st_rifle7_rounds">
+		<text>Pociski do karabinów snajperskich</text>
+	</string>
+	<string id="st_rifle7_rounds_desc">
+		<text>Pe³nowymiarowe pociski karabinowe pokryte metalowym p³aszczem. S¹ one powszechnie u¿ywane do ³adowania nabojów myœliwskich i wojskowych snajperskich.</text>
+	</string>
+	<string id="st_rifle7_ap_rounds">
+		<text>Pociski do karabinów snajperskich, przeciwpancerne</text>
+	</string>
+	<string id="st_rifle7_ap_rounds_desc">
+		<text>Pe³nowymiarowe pociski karabinowe z osadzonymi penetratorami ze stopu. Wystêpuj¹ w specjalnych nabojach u¿ywanych przez wojsko i si³y specjalne do niszczenia pancerzy z du¿ej odleg³oœci.</text>
+	</string>
+	
+	<string id="st_batch_breakdown">
+		<text>Roz³ó¿ partiê [!]</text>
+	</string>
+</string_table>

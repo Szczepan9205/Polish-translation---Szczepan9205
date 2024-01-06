@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>	
+	<string id="st_auto_looter_no_valid_tool">
+		<text>Nie masz prawidłowego narzędzia do demontażu dla tego elementu lub narzędzie jest prawie uszkodzone. Automatyczny demontaż nie działa.</text>
+	</string>
+	<string id="st_auto_looter_still_running">
+		<text>Automatyczne zbieranie łupu nadal działa dla tego obiektu</text>
+	</string>
+	<string id="st_auto_looter_remote_looting_disabled">
+		<text>Zdalne łupy wyłączone</text>
+	</string>
+	<string id="st_auto_looter_remote_looting_too_far">
+		<text>Cel jest zbyt daleko, by go przeszukać</text>
+	</string>
+	<string id="st_auto_looter_parts_not_stripped">
+		<text>Części broni nie mogły zostać automatycznie usunięte (tworzenie części zostało opóźnione przez inny skrypt). Ponownie uruchom grę, aby spróbować ponownie usunąć części.</text>
+	</string>
+
+	<!-- Context menu on items -->
+	<string id="st_auto_looter_enable_auto_disassemble">
+		<text>Włącz autodemontaż</text>
+	</string>
+	<string id="st_auto_looter_disable_auto_disassemble">
+		<text>Wyłącz autodemontaż</text>
+	</string>
+
+	<string id="st_auto_looter_enable_auto_loot">
+		<text>Włącz auto-loot</text>
+	</string>
+	<string id="st_auto_looter_disable_auto_loot">
+		<text>Wyłącz auto-loot</text>
+	</string>
+</string_table>

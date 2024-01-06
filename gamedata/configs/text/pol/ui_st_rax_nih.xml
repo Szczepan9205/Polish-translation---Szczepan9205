@@ -1,0 +1,46 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+
+	<string id="ui_mcm_title_new_item_highlight">
+		<text>Podświetlenie nowych przedmiotów</text>
+	</string>
+
+	<string id="ui_mcm_menu_new_item_highlight">
+		<text>Podświetlenie nowych przedmiotów</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type">
+		<text>Metoda wyraźnego podświetlenia</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type_desc">
+		<text>Skupienie za pomocą klawisza wymaga przytrzymania lewego klawisza Shift przed najechaniem myszą na element.</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_a">
+		<text>Alfa podświetlenia</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_r">
+		<text>Kolor czerwony podświetlenia</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_g">
+		<text>Kolor zielony podświetlenia</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_b">
+		<text>Kolor niebieski podświetlenia</text>
+	</string>
+
+	<string id="ui_mcm_lst_rax_nih_focus">
+		<text>Wyczyść przy skupieniu</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_key_focus">
+		<text>Wyczyść przy skupieniu po użyciu klawisza</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_inv_close">
+		<text>Wyczyść po zamknięciu okna ekwipunku</text>
+	</string>
+
+
+</string_table>

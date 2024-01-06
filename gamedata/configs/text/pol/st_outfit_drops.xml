@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+    
+	<string id="ui_mcm_outfitdrop_helmet_light_chance">
+		<text>Szansa na znalezienie lekkiego hełmu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_light_chance_desc">
+		<text>Procentowa szansa na znalezienie kominiarek i masek materiałowych przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_medium_chance">
+		<text>Szansa na znalezienie średniego hełmu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_medium_chance_desc">
+		<text>Procentowa szansa na znalezienie masek przeciwgazowych i średnich hełmów bojowych przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_heavy_chance">
+		<text>Szansa na znalezienie ciężkiego hełmu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_heavy_chance_desc">
+		<text>Szansa na znalezienie ciężkiego hełmu przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_exo_chance">
+		<text>Szansa na znalezienie hełmu do egzoszkieletu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_exo_chance_desc">
+		<text>Szansa na znalezienie hełmu do egzoszkieletu przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance">
+		<text>Szansa na znalezienie lekkiego kombinezonu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance_desc">
+		<text>Procentowa szansa na znalezienie lekkiego kombinezonu przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance">
+		<text>Szansa na znalezienie średniego kombinezonu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance_desc">
+		<text>Szansa na znalezienie średniego kombinezonu przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance">
+		<text>Szansa na znalezienie ciężkiego kombinezonu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance_desc">
+		<text>Szansa na znalezienie ciężkiego kombinezonu przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance">
+		<text>Szansa na znalezienie egzoszkieletu</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance_desc">
+		<text>Szansa na znalezienie egzoszkieletu przy trupie zabitego stalkera.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance">
+		<text>Szansa na znalezienie części</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance_desc">
+		<text>Procentowa szansa na znalezienie części, gdy kombinezony się nie pojawiają.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_debug">
+		<text>Debugowanie</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_debug_desc">
+		<text>Już wiesz, co to robi.</text>
+	</string>
+	<string id="ui_mcm_menu_outfitdrop">
+		<text>Szansa na kombinez.</text>
+	</string>
+</string_table>

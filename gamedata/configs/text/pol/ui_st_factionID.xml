@@ -1,0 +1,122 @@
+<string_table>
+	<string id="ui_mcm_menu_targetID">
+		<text>Identyfikator frakcji</text>
+	</string>
+	<string id="Basic">
+		<text>Ustawienia g³ówne</text>
+	</string>
+	<string id="Position">
+		<text>Pozycja</text>
+	</string>
+	<string id="Text">
+		<text>Tekst</text>
+	</string>
+	<string id="ui_mcm_targetID_deadID">
+		<text>Identyfikuj martwych stalkerów</text>
+	</string>
+	<string id="ui_mcm_targetID_deadID_desc">
+		<text>W³¹czenie tego ustawienia spowoduje identyfikowanie martwych stalkerów.</text>
+	</string>
+	<string id="ui_mcm_targetID_nameID">
+		<text>Identyfikuj dane osobowe stalkerów</text>
+	</string>
+	<string id="ui_mcm_targetID_timeID">
+		<text>Identyfikacja opóŸnienia na podstawie odleg³oœci</text>
+	</string>
+	<string id="ui_mcm_targetID_timeID_desc">
+		<text>Jeœli opcja ta jest w³¹czona, identyfikacja bêdzie wymagaæ patrzenia na stalkera przez pewien czas w zale¿noœci od odleg³oœci, aby go zidentyfikowaæ.</text>
+	</string>
+	<string id="ui_mcm_targetID_rankID">
+		<text>Pokazuj rangê stalkera</text>
+	</string>
+	<string id="ui_mcm_targetID_talkName">
+		<text>Muszê nauczyæ siê jego danych</text>
+	</string>
+	<string id="ui_mcm_targetID_talkName_desc">
+		<text>Jeœli opcja ta jest w³¹czona, gracz musi porozmawiaæ ze stalkerem lub zdobyæ jego ³up, zanim pozna jego imiê i rangê.</text>
+	</string>
+	<string id="ui_mcm_targetID_speedID">
+		<text>Szybkoœæ identyfikacji</text>
+	</string>
+	<string id="ui_mcm_targetID_speedID_desc">
+		<text>Zwiêksza/zmniejsza prêdkoœæ identyfikacji. Im wy¿sza wartoœæ, tym szybszy proces.</text>
+	</string>
+	<string id="ui_mcm_targetID_targL">
+		<text>£agodnoœæ celowania</text>
+	</string>
+	<string id="ui_mcm_targetID_targL_desc">
+		<text>Jak daleko cel mo¿e znajdowaæ siê od œrodka ekranu i nadal mo¿e zostaæ zidentyfikowany. Wy¿sza wartoœæ jest mniej ³agodna, ni¿sze wartoœci znacznie u³atwiaj¹ œledzenie celu bez powiêkszenia. Wartoœæ 1.0 oznacza, ¿e musisz patrzeæ bezpoœrednio na cel.</text>
+	</string>
+	<string id="ui_mcm_targetID_xo">
+		<text>Pozycja X</text>
+	</string>
+	<string id="ui_mcm_targetID_yo">
+		<text>Pozycja Y</text>
+	</string>
+	<string id="ui_mcm_targetID_xp">
+		<text>Przesuniêcie naszywki NPC w osi X</text>
+	</string>
+	<string id="ui_mcm_targetID_xp_desc">
+		<text>Wzglêdem wspó³rzêdnej X po³o¿enia okna.</text>
+	</string>
+	<string id="ui_mcm_targetID_yp">
+		<text>Przesuniêcie naszywki NPC w osi Y</text>
+	</string>
+	<string id="ui_mcm_targetID_yp_desc">
+		<text>Wzglêdem wspó³rzêdnej Y po³o¿enia okna.</text>
+	</string>
+	<string id="ui_mcm_targetID_xn">
+		<text>Przesuniêcie danych NPC w osi X</text>
+	</string>
+	<string id="ui_mcm_targetID_xn_desc">
+		<text>Wzglêdem wspó³rzêdnej X po³o¿enia okna.</text>
+	</string>
+	<string id="ui_mcm_targetID_yn">
+		<text>Przesuniêcie danych NPC w osi Y</text>
+	</string>
+	<string id="ui_mcm_targetID_yn_desc">
+		<text>Wzglêdem wspó³rzêdnej X po³o¿enia okna.</text>
+	</string>
+	<string id="ui_mcm_targetID_xr">
+		<text>Przesuniêcie rangi NPC w osi X</text>
+	</string>
+	<string id="ui_mcm_targetID_xr_desc">
+		<text>Wzglêdem wspó³rzêdnej X po³o¿enia okna.</text>
+	</string>
+	<string id="ui_mcm_targetID_yr">
+		<text>Przesuniêcie rangi NPC w osi Y</text>
+	</string>
+	<string id="ui_mcm_targetID_yr_desc">
+		<text>Wzglêdem wspó³rzêdnej X po³o¿enia okna.</text>
+	</string>
+	<string id="ui_mcm_targetID_flipAlign">
+		<text>Przerzucanie wyrównania tekstu</text>
+	</string>
+	<string id="ui_mcm_targetID_flipAlign_desc">
+		<text>Dane osobowe i ranga zostan¹ wyrównane do prawej strony, aby HUD móg³ zostaæ umieszczony po prawej stronie ekranu.</text>
+	</string>
+	<string id="ui_mcm_targetID_colorR">
+		<text>Kolor tekstu danych R</text>
+	</string>
+	<string id="ui_mcm_targetID_colorG">
+		<text>Kolor tekstu danych G</text>
+	</string>
+	<string id="ui_mcm_targetID_colorB">
+		<text>Kolor tekstu danych B</text>
+	</string>
+	<string id="ui_mcm_targetID_RcolorR">
+		<text>Kolor tekstu rangi R</text>
+	</string>
+	<string id="ui_mcm_targetID_RcolorG">
+		<text>Kolor tekstu rangi G</text>
+	</string>
+	<string id="ui_mcm_targetID_RcolorB">
+		<text>Kolor tekstu rangi B</text>
+	</string>
+	<string id="ui_mcm_targetID_unknown">
+		<text>Nieznany</text>
+	</string>
+	<string id="ui_mcm_targetID_scan">
+		<text>Identyfikacja...</text>
+	</string>
+</string_table>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<!--UNUSED
+
+	<string id="st_wpn_desert_eagle_gold">
+		<text>Desert Eagle (Złoty)</text>
+	</string>
+	
+	<string id="st_wpn_desert_eagle_black">
+		<text>Desert Eagle (Czarny)</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_dhampyr">
+		<text>Desert Eagle "Dampyr"</text>
+	</string>
+	<string id="st_wpn_desert_eagle_dhampyr_descr">
+		<text>Bardziej zmodernizowana wersja Desert Eagle, z wbudowanym kompensatorem i szynami Picatinny na szkielecie i suwadle. Wiedząc o tym, nadal ma dość duży odrzut, ale znacznie niższy niż jakikolwiek inny Desert Eagle, nie mówiąc już o użyciu amunicji magnum, niewielkich ulepszeniach lufy, które również poprawiają nieco celność, a dodatkowo posiada on możliwość zainstalowania celownikow. Wygląda na stosunkowo nowy, ale patrząc na suwadło i magazynek, nasuwa się myśl, że pistolet ten używa naboi .50AE, a jednak strzela z amunicji .357 Magnum. Bez wątpienia został zmodyfikowany w Zonie, być może przez samego Żwawego.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-more Railway Tactical</text>
+	</string>
+	
+	<string id="st_up_deagle_127_name">
+		<text>Zmiana kalibru na 12.7x55mm</text>
+	</string>
+
+	<string id="st_up_deagle_127_descr">
+		<text>Schemat od Żwawego, który został dołączony do pistoletu jako bonus. Pozwala to na zmianę kalibru na 12.7x55mm, ale w magazynku będzie tylko jeden nabój.</text>
+	</string>
+	
+-->
+
+</string_table>

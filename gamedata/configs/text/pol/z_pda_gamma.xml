@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<string_table>
+
+	<string id="encyclopedia_gamma">
+		<text>G.A.M.M.A. - instrukcja</text>
+	</string>
+	<string id="encyclopedia_gamma_text">
+		<text>%c[pda_blue]G.A.M.M.A. - instrukcja.%c[ui_gray_1]</text>
+	</string>
+
+	<string id="article_gamma_aaintro">
+		<text>--- Witaj w modzie G.A.M.M.A. ---</text>
+	</string>
+	<string id="article_gamma_aaintro_text">
+		<text>
+			%c[pda_white]Witaj w modzie G.A.M.M.A. \n \n %c[ui_gray_1]
+
+			\n%c[pda_blue]G.A.M.M.A. to skrót od Grok's Automated Modular Modpack dla Anomaly.%c[ui_gray_1]
+			\n
+			\n \n%c[pda_green]Ten modpack zawiera również nowy modułowy zestaw dodatków, w tym:%c[ui_gray_1]
+			\n  Nowe UI
+			\n - Zbalansowane doświadczenie przetrwania skoncentrowane na wytwarzaniu przedmiotów, naprawianiu i gotowaniu.
+			\n - Poczucie progresji podczas rozgrywki dzięki niewielkim i globalnym zmianom większości systemów i pętli rozgrywki.
+			\n - Zrównoważone systemy obrażeń dla gracza i postaci niezależnych.
+			\n - Zrównoważona balistyka broni i obrażenia zadawane w walce wręcz.
+			\n - Poprawiono efekty promieniowania i dynamiczne obszary promieniowania.
+			\n - Wiele poprawek dla niektórych głównych dodatków, w tym pakietów broni Boomsticks and Sharpsticks.
+			\n - Nowa ekonomia, w której handlarze będą sprzedawać tylko zapasy, a dobra amunicja będzie dostępna tylko dla zaufanych stalkerów.
+			\n - Nowe wyposażenie początkowe skupiające się na pistoletach, pistoletach maszynowych lub karabinach z okresu II wojny światowej, aby zapewnić płynniejszy start z kalibrami, do których można kupić amunicję. Daje to również podstawowe narzędzia do wędrowania po Zonie, co jest przydatne podczas trybu Ironman.
+			\n - I wiele więcej!
+
+		</text>
+	</string>
+
+	<string id="article_gamma_progress">
+		<text>Postęp</text>
+	</string>
+	<string id="article_gamma_progress_text">
+		<text>
+			%c[pda_white]Jak robić postępy \n \n %c[ui_gray_1]
+			\n - Podsumowując, podstawy progresji G.A.M.M.A. są następujące:
+			\n - Wykonywanie zadań, zabijanie mutantów, zbieranie ich części, zachowywanie tych części do wykonywania zadań dla stalkerów. 
+			\n - Zbieranie współrzędnych schowków, odwiedzanie ich (są to białe lub zielone ikony na mapie PDA), aby zdobyć fajne łupy i zestawy narzędzi.
+			\n - Używanie zdobytych zestawów narzędzi do tworzenia zestawów naprawczych do broni i pancerzy, które znalazłeś, aby naprawić lub poprawić swój ekwipunek i swoje szanse na przetrwanie.
+			\n - Wykonując zadania, zdobywaj dobrą wolę u różnych frakcji, aby kupować u frakcyjnych handlarzy lepsze zaopatrzenie, w tym lepszą amunicję do nowych broni.
+		</text>
+	</string>
+
+
+
+	<string id="article_gamma_healing">
+		<text>Leczenie i medykamenty</text>
+	</string>
+	<string id="article_gamma_healing_text">
+		<text>
+			%c[pda_white]Leczenie i medykamenty \n \n %c[ui_gray_1]
+			\n - Użyj podstawowych przedmiotów leczących, takich jak apteczki lub bandaże, aby wyleczyć swoje główne zdrowie. Tymczasowo leczy oto też kończyny (żółte paski PŻ na paskach PŻ kończyn).
+			\n - Aby zamienić tymczasowe PŻ (żółte) na stałe PŻ (białe) dla kończyn, użyj po uleczeniu przedmiotów, takich jak Ibuprofen, Fentanyl, Antidotum, lub Jadulin.
+			\n - Leki z białymi kropkami w opisie leczą tymczasowe PŻ danej kończyny lub obszaru. Takie przedmioty leczące mają ikonę białego serca.
+			\n - Po uzdrowieniu wystąpią efekty uboczne, takie jak skrajny głód lub zawroty głowy. Zawroty głowy można wyleczyć za pomocą leków zwiększających wytrzymałość lub wody.
+			\n - Należy pamiętać, że iniektory odporności na obrażenia działają (oznaczone ikoną tarczy).
+			\n - Nie potrzebujesz każdego przedmiotu medycznego, aby wyleczyć swoje ciało. Oznacz najważniejsze z nich jako ulubione, aby mieć do nich łatwy dostęp.
+		</text>
+	</string>
+
+	<string id="article_gamma_crafting">
+		<text>Wytwarzanie</text>
+	</string>
+	<string id="article_gamma_crafting_text">
+		<text>
+			%c[pda_white]Wytwarzanie \n \n %c[ui_gray_1]
+			\n - Wytwarzanie opiera się na zestawach narzędzi, które można znaleźć w schowkach na które zdobyłeś namiary.
+			\n - Kliknij prawym przyciskiem myszy na dowolny zestaw narzędzi, aby otworzyć przenośny stół warsztatowy i rozpocząć wytwarzanie, naprawę lub ulepszanie ekwipunku.
+			\n - Istnieje 6 rodzajów zestawów narzędzi: podstawowe, zaawansowane, kalibracyjne, do wytwarzania leków, rusznikarskie oraz Przetapiacz Artefaktów.
+			\n - Prawie wszystkie przepisy na wytwarzanie przedmiotów są dostępne od samego początku, w tym przepisy kulinarne. 
+			\n - Niektóre przepisy są zablokowane, są to głównie zaawansowane przepisy na zasilacze egzoszkieletów. Można je uzyskać od  
+			\n Najemników z zaopatrzeniem poziomu 5 i handlarzy naukowców.
+			\n - Przedmioty "śmieciowe", które są niezbędne do tworzenia przepisów, są oznaczone ikoną młotka lub obcęgów. Zachowaj je.
+			\n - Demontaż znalezionego ekwipunku pozwoli ci odzyskać z nich części do wytwarzania. Niektóre z tych przedmiotów są cenne, 
+			\n jak na przykład zepsute detektory, więc zachowaj je, jeśli potrzebujesz dodatkowej gotówki.
+		</text>
+	</string>
+
+	<string id="article_gamma_cooking">
+		<text>Gotowanie</text>
+	</string>
+
+	<string id="article_gamma_cooking_text">
+		<text>
+			%c[pda_white]Gotowanie \n \n %c[ui_gray_1]
+			\n -  Wszystkie przepisy kulinarne są dostępne od samego początku.
+			\n - Gotowanie jest niezbędne, ponieważ zapewnia wysokokaloryczne jedzenie za niską cenę.
+			\n - Korzystanie z podstawowego zestawu do gotowania w pobliżu ognisk pozwoli ci gotować bez potrzeby używania węgla drzewnego.
+			\n - Zaawansowany zestaw do gotowania wymaga do działania paliwa płynnego. Jest jednak w stanie gotować wysokopoziomowe posiłki, które zapewniają przydatne, długotrwałe premie.	
+		</text>
+	</string>
+
+
+
+
+	<string id="article_gamma_radiation">
+		<text>Radiacja</text>
+	</string>
+
+	<string id="article_gamma_radiation_text">
+		<text>
+			%c[pda_white]Radiacja \n \n %c[ui_gray_1]
+			\n - GAMMA oferuje dynamiczne promieniowanie i ulepszony system obrażeń od promieniowania.
+			\n - Podczas rozpoczynania nowej gry pojawiają się nowe losowe strefy promieniowania.
+			\n - Promieniowanie będzie powoli zmniejszać twoje zdrowie (znacznie wolniej niż w zwykłym Anomaly), a co za tym idzie zmniejszy twoją maksymalną wytrzymałość. 
+			\n - Im bardziej jesteś napromieniowany, tym bardziej prawdopodobne jest, że krytyczne organy zostaną uszkodzone. Powoduje to, że 
+			\n postać gracza kaszle i traci znaczną ilość zdrowia.
+			\n -  Pasek miernika promieniowania znajduje się w lewym dolnym rogu ekranu. Jeśli zacznie się zapełniać, oznacza to, że masz przed sobą
+			\n strefę promieniowania, spróbuj się cofnąć, aby jej uniknąć. Promieniowanie może również pochodzić z artefaktów, które znajdują się w ekwipunku, a nie znajdują się w odpowiednim pojemniku.
+			\n -  Używaj leków antyradiacyjnych, papierosów, tytoniu, wody lub alkoholu, aby wyleczyć się z promieniowania. Używanie leków chroniących przed promieniowaniem jest również dobrym sposobem na uniknięcie promieniowania.
+			\n -  Im bardziej na północ, tym promieniowanie będzie bardziej niebezpieczne. Upewnij się, że masz dobrą maskę przeciwgazową przed udaniem się 
+			\n na północ Zony. Wejście na Magazyny Wojskowe lub obszary położone dalej na północ bez maski przeciwgazowej lub odpowiednich leków przeciwpromiennych może spowodować śmierć, jeśli 
+			\n trafisz na zaledwie jeden obszar o silnym promieniowaniu. Należy pamiętać, że natrafienie na obszar o silnym promieniowaniu prawdopodobnie uniemożliwi poruszanie się i uwięzi gracza.
+		</text>
+	</string>
+
+
+
+
+
+
+
+	<string id="article_gamma_stashes">
+		<text>Schowki</text>
+	</string>
+
+	<string id="article_gamma_stashes_text">
+		<text>
+			%c[pda_white]Schowki \n \n %c[ui_gray_1]
+			\n - Schowki są głównym źródłem zestawów narzędzi, które są najważniejszymi przedmiotami potrzebnymi do rozwoju.
+			\n - Nieoznaczone schowki są prawie zawsze puste.
+			\n - Schowki muszą być oznaczone, aby zawierały cokolwiek wartościowego, zwłaszcza zestawy narzędzi.
+			\n - Zawartość schowków jest powiązana z mapą, na której się pojawiają.
+			\n - Im bardziej na północ Zony znajduje się schowek, tym lepszy łup.
+			\n - Zestawy narzędzi kalibracyjnych można znaleźć tylko w Czerwonym Lesie lub dalej na północ.
+			\n - Przechowywanie przedmiotów w schowkach jest bezpieczne: nie zostaną one splądrowane przez postacie niezależne.
+			\n - Nawet jeśli już użyty przez gracza schowek zostanie w pewnym momencie oznaczony na mapie, nowa zawartość pojawi się w środku wyżej niż to, co wcześniej w nim przechowywałeś. 
+		</text>
+	</string>
+
+
+	<string id="article_gamma_disguise">
+		<text>Kamuflaż</text>
+	</string>
+
+	<string id="article_gamma_disguise_text">
+		<text>
+			%c[pda_white]Kamuflaż \n \n %c[ui_gray_1]
+			\n - Możesz nosić kombinezon innej frakcji i być uważany za członka tej frakcji, jeśli naszywka frakcji jest przyczepiona.
+			\n - Jeśli oderwiesz naszywkę, zostaniesz uznany za członka swojej domyślnej frakcji.
+			\n - Podczas przyszywania naszywki musisz znajdować się poza polem widzenia innych stalkerów, aby nie zdradzić swojej przykrywki.
+			\n - Ta funkcja jest szczególnie potężna w przypadku kombinezonów naukowców, ale w GAMMA bardzo trudno je zdobyć.
+			\n - Stan kombinezonu wpływa na to, jak łatwo zostaniesz zauważony. 
+			\n - Wysocy rangą stalkerzy łatwiej przejrzą twoje sztuczki niż ci niżsi rangą.
+		</text>
+	</string>
+
+
+
+	<string id="article_gamma_inventory">
+		<text>Ekwipunek</text>
+	</string>
+
+	<string id="article_gamma_inventory_text">
+		<text>
+			%c[pda_white]Ekwipunek \n \n %c[ui_gray_1]
+			\n - Zarządzanie ekwipunkiem jest łatwe, wystarczy oczyścić go z niepotrzebnego bałaganu, przechowując wybrane przedmioty w wybranym schowku.
+			\n - Przytrzymanie Shift podczas przesuwania kursora w oknie ekwipunku spowoduje przeniesienie całego stosu przedmiotów, na które wskazujesz. 
+			\n - Naciśnięcie Shift+T wykonuje komendę "Przenieś wszystko", jest to dobra opcja do szybkiego łupienia trupów.
+			\n - Butelki z wodą są lżejsze niż manierki do gaszenia pragnienia. Przechowuj manierki w swoim głównym schowku, by móc z nich gotować.
+			\n
+			\n - Części mutantów i mięso nie ważą dużo. Przechowywanie ich w ekwipunku pozwoli ci wykonywać zadania.
+			\n 
+			\n - Narzędzia do wytwarzania nie ważą dużo i można je kliknąć prawym przyciskiem myszy, aby "otworzyć stół warsztatowy" i rozpocząć wytwarzanie w trakcie rajdu do Zony.
+			\n 
+			\n - Amunicja może być dość ciężka, ale rozmontowane części amunicji są bardzo lekkie. Zachowaj te części i wytwarzaj z nich amunicję za pomocą
+
+			\n zestawu narzędzi rusznikarskich w trakcie rajdu. Pamiętaj, aby demontować całą niepotrzebną amunicję.
+			\n
+			\n - Możesz kliknąć prawym przyciskiem myszy i oznaczyć niektóre przedmioty jako "Ulubione", a inne jako "Śmieci". Zapewni to łatwy dostęp do
+			\n ważnych przedmiotów, które zawsze będą znajdować się na górze każdego pojemnika z ekwipunkiem. Odwrotna sytuacja ma miejsce w przypadku śmieci: będą one zawsze na dole inwentarza.
+			\n na samym dole listy.
+		</text>
+	</string>
+
+
+	<string id="article_gamma_lore">
+		<text>Lore</text>
+	</string>
+
+	<string id="article_gamma_lore_text">
+		<text>
+			%c[pda_white]Lore \n \n %c[ui_gray_1]
+			\n Po upadku Monolitu za sprawą Striełoka Zona stała się miejscem nauki i odkryć.
+			\n Zona nie była już tajnym miejscem, a ONZ zaczęło zakazywać sprzedaży broni palnej na jej terenie, aby uczynić ją bardziej pokojową,
+			\n a opłacane PMC (Private Military Companies, z pol. Prywatne Firmy Wojskowe) zapewniały bezpieczeństwo naukowcom i ograniczały walki między frakcjami.
+			\n UE i ONZ postanowiły położyć kres rozlewowi krwi w Zonie, a także przemytowi broni ze Zony do pobliskich krajów
+			\n poprzez ograniczenie handlu bronią. Żadna frakcja nie chciała dawać ONZ
+			\n i UE więcej powodów do zawierania kontraktów z prywatnymi firmami wojskowymi. PMC już zamoczyły swoje rączki
+			\n w całej Zonie.
+			\n
+			\n W tym okresie pokoju dokonano nowych odkryć, takich jak przetapianie artefaktów, fuzja i nadawanie im mocy dzięki pracom profesora Sacharowa.
+			\n
+			\n Te "złote czasy" nauki w Zonie osłabiły jednak istniejące frakcje, ponieważ Monolit nie był już dla żadnej z nich priorytetem.
+			\n Głęboko w sercu Zony i CEA, Monolit potajemnie stawał się coraz silniejszy, a nowa grupa fanatyków zaczęła powoli wyłaniać się na zewnątrz, będąc nawet bardziej szalona niż Monolit, jeśli wierzyć plotkom.
+
+			\n W 2018 roku Złota Era Zony dobiegła końca, a Monolit powrócił. Reaktywowali Maszynę Cudów oraz Mózgozwęglacz
+			\n i tym samym znów mamy rok 2012. Osłabione frakcje stały się jeszcze bardziej miękkie, nie są już zatwardziałymi zabójcami Monolitu, jakimi byli w dawnych czasach.
+			\n Jedyna nadzieja dla większości stalkerów? Odnalezienie Striełoka. Niektórzy twierdzą, że wciąż żyje, a Doktor - jeden z jego starych przyjaciół, może mieć jakieś wskazówki dotyczące jego lokalizacji.
+			\n
+			\n Przybywasz do Zony w samym środku tego bałaganu. Twoim zadaniem jest odnalezienie Striełoka i pomoc w oczyszczeniu Zony z plagi Monolitu...
+		</text>
+	</string>
+
+
+
+
+	<string id="article_gamma_money">
+		<text>Pieniądze</text>
+	</string>
+
+	<string id="article_gamma_money_text">
+		<text>
+			%c[pda_white]Pieniądze \n \n %c[ui_gray_1]
+			\n W GAMMA pieniądze są najważniejsze, zwłaszcza na początku.
+			\n Istnieją szybkie sposoby na zarobienie pieniędzy, a mianowicie wykonywanie zadań bez wszczynania walk, sprzedawanie części mutantów lub sprzedawanie
+			\n artefaktów naukowcom.
+			\n
+			\n Często będziesz wydawać pieniądze na przedmioty leczące i jest to zamierzone. Im więcej grasz,
+			\n tym lepsze będziesz miał zestawy narzędzi i tym łatwiej będzie ci naprawiać dobry ekwipunek i wytwarzać przedmioty, co pozwoli ci zaoszczędzić pieniądze
+			\n i ułatwi walkę, pomagając zaoszczędzić jeszcze więcej pieniędzy.
+			\n
+			\n W środkowej fazie gry nieuchronnie zdobędziesz mnóstwo pieniędzy. Można je wykorzystać do ulepszenia ekwipunku lub zainwestowania w
+			\n drogą amunicję AP.
+			\n
+			\n Możesz też kupić detektory i noktowizory u handlarzy... lub wytworzyć je i zaoszczędzić trochę pieniędzy.
+			\n Utrzymanie egzoszkieletu również pochłania pieniądze, ponieważ często trzeba kupować do nich drogie baterie.
+			\n
+			\n Lepsze medykamenty również są niezbędne do łatwiejszych walk, używanie stimpaków znacznie pomoże ci w napiętych walkach.
+		</text>
+	</string>
+
+
+
+
+
+
+
+
+
+	<string id="article_gamma_plates">
+		<text>Płyty ochronne</text>
+	</string>
+
+	<string id="article_gamma_plates_text">
+		<text>
+			%c[pda_white]Płyty ochronne \n \n %c[ui_gray_1]
+
+			\n Zakładanie płyt pancerza na pas stoi na równi z ochroną artefaktów, dając około 15% ochrony balistycznej i od wybuchu.
+			\n Nie mają już kar od obrażeń elektrycznych. Nie chronią już przed mutantami.
+			\n Płyt nie można już kupić u handlarzy.
+			\n Podstawowe płyty kombinezonu kevlarowego można zdobyć za pośrednictwem linii zadań (podstawowa płyta poziomu 1) lub stworzyć od podstaw przy użyciu części kombinezonu.
+			\n
+			\n Płyty kombinezonu można ulepszać za pomocą systemu wytwarzania:
+			\n - 	 Płytę Kevlarową poziomu 1 można ulepszyć do płyty kevlarowej poziomu 2 za pomocą wielu części kombinezonu.
+			\n -	 Płytę Kevlarową poziomu 2. poziomu można ulepszyć do metalowej płyty 3. poziomu z wieloma częściami kombinezonu.
+			\n -	 Metalową Płytę poziomu 3. poziomu można ulepszyć do metalowej płyty 4. poziomu z dużą liczbą elementów kombinezonu.
+			\n
+			\n Ten system powinien skłonić gracza do dłuższego poszukiwania części kombinezonu.
+			\n Części kombinezonu używane w tym systemie są wygodnie oznaczone ikoną młotka i obcęgów, co ułatwia sortowanie i łupienie.
+			\n Powinno to sprawić, że gracze, którzy nie chcą angażować się w polowanie na artefakty, nie zginą marnie po walce z Monolitem
+			\n i Grzechem na północy, a frakcje te używają wyłącznie amunicji AP.
+		</text>
+	</string>
+
+
+
+	<string id="article_gamma_arty">
+		<text>Reinwencja artefaktów</text>
+	</string>
+
+	<string id="article_gamma_arty_text">
+		<text>
+			%c[pda_white]Reinwencja artefaktów \n \n %c[ui_gray_1]
+
+			\n - Nowy wykrywacz Grizzly do znajdowania wszystkich artefaktów nawet z włączoną noktowizją. Można go wytworzyć za pomocą zaawansowanego zestawu narzędzi.
+			\n
+			\n - Nowy system odradzania się artefaktów: artefakty odradzają się losowo na bieżącej lokacji zwiedzanej przez gracza w anomalnych polach, więc
+			\n upewnij się, że sprawdzasz je za każdym razem, gdy się wokół nich poruszasz!
+			\n - Rzadkie artefakty odradzają się również w laboratoriach po emisji.
+			\n
+
+			\n - Nowy system jakości artefaktów: artefakty odradzają się z losowo niskim stanem (lub "jakością"), aby naśladować to, że każdy artefakt 
+
+			\n jest inny. Dzięki nowemu Przetapiaczowi artefaktów możesz łączyć artefakty, aby je wzmocnić i zwiększyć ich jakość.
+			\n
+			\n%c[pda_yellow]Nowy zestaw narzędzi, Przetapiacz Artefaktów:%c[ui_gray_1]
+
+			\n - Możesz kupić takowy u Sacharowa lub Hermana za około 30 000 RU.
+			\n - Możesz tworzyć silniejsze artefakty (prawy przycisk myszy > połącz artefakty) lub wzmacniać je (prawy przycisk myszy > wzmocnij artefakty). 
+			\n - Każda akcja wykonana za pomocą Przetapiacza Artefaktów zużyje trochę ładunków. 
+			\n - Przetapiacz można naładować, przytrzymując lewy Alt i przeciągając go na dowolny artefakt.
+			\n - Trzymanie pustego Przetapiacza przy sobie to dobry sposób na uzupełnienie go podczas przechodzenia przez Zonę z niechcianymi artefaktami.
+			\n 
+			\n%c[pda_yellow]Wzmocnienie artefaktu:%c[ui_gray_1]
+			\n - Połącz dwa dokładnie podobne artefakty, aby zsumować ich stan/jakość. 
+			\n - Możesz połączyć dowolny śmieciowy artefakt z dowolnym innym śmieciowym artefaktem po obniżonej stawce.
+
+			\n%c[pda_yellow]Wytwarzanie artefaktów:%c[ui_gray_1]
+			\n - Wejdź do menu wytwarzania jak zwykle. Pojawi się nowa sekcja wytwarzania: Artefakty. 
+			\n - Pozwoli ci to przekonwertować wiele artefaktów danego poziomu na poziom wyższy:
+			\n - Śmieć > Poziom 1 (7mS).
+			\n - Poziom 1 > Poziom 2 (12 mS).
+			\n - Poziom 2 > Poziom 3 (23 mS).
+			\n - Poziom 3 > Specjalny.
+		</text>
+	</string>
+
+
+
+
+
+
+	<string id="article_gamma_energy">
+		<text>Energia</text>
+	</string>
+
+	<string id="article_gamma_energy_text">
+		<text>
+			%c[pda_white]Zarządzanie energią \n \n %c[ui_gray_1]
+
+			\n Energia w GAMMA to równowaga między podróżami, jedzeniem, napojami, lekami i snem.
+			\n
+			\n Pod koniec dnia postać będzie zmęczona. Musisz spać, aby uzupełnić energię.
+			\n Możesz spać tylko wtedy, gdy jesteś wystarczająco zmęczony. Używanie tabletek nasennych pozwoli ci wymusić
+			\n sen.
+			\n
+			\n W zależności od tego, jak minął dzień, zmęczysz się szybciej lub nie. Jedzenie obfitych posiłków i przyjmowanie
+			\n leków nasennych sprawi, że poczujesz się zmęczony i odpoczniesz pod koniec dnia.
+			\n
+			\n Jeśli jednak jesz małe posiłki i często korzystasz z napojów energetycznych lub tabletek z kofeiną,
+			\n trudno będzie ci być wystarczająco zmęczonym, aby zasnąć pod koniec dnia.
+			\n
+			\n Będziesz mieć szansę obudzić się wcześniej. Postaraj się spać więcej niż zamierzasz,
+			\n spać odpowiednią ilość czasu lub używać lepszego sprzętu do spania (materaca i śpiwora).
+			\n
+			\n Wódka i piwo również mogą pomóc w zaśnięciu.
+		</text>
+	</string>
+
+
+
+	<string id="article_gamma_traders">
+		<text>Handlarze</text>
+	</string>
+
+	<string id="article_gamma_traders_text">
+		<text>
+			%c[pda_white]Progresja u handlarzy \n \n %c[ui_gray_1]
+
+
+			\n - Handlarze będą sprzedawać głównie zapasy i niektóre akcesoria.
+			\n - U handlarzy nie można kupować ani sprzedawać pancerzy i broni.
+			\n - Możesz zwiększyć poziom zaopatrzenia u handlarzy, wykonując zadania dla ich frakcji.
+			\n Progi dobrej woli są następujące: 
+			\n 500, 1000, 1500 i 2000 punktów dobrej woli. 
+
+			\n
+			\n Jest to niezawodny sposób na zapewnienie sobie stałego dochodu w postaci wysokiej jakości amunicji.
+			\n
+			\n Handlarze należą do typu UW (Układ Warszawski) lub NATO. Wpłynie to na rodzaj sprzedawanych przez nich towarów
+			\n (głównie na amunicję i dodatki).
+			\n
+			\n Frakcje NATO to: Najemnicy, Czyste Niebo, Wolność, UNISG.
+			\n Frakcje UW: Wojsko, Samotnicy, Powinność, Bandyci, Renegaci, Monolit.
+			\n
+			\n Wpływa to również na wyposażenie postaci niezależnych frakcji, np. postacie niezależne Monolitu mają około 50% szans na posiadanie broni NATO lub UW.
+			\n
+			\n Niektórzy handlarze sprzedają bardzo specyficzne przedmioty, np. profesor Sacharow i Hermann sprzedają Przetapiacz Artefaktów -
+			\n - specyficzny dla GAMMY zestaw narzędzi, który pozwala wzmacniać i wytwarzać artefakty (lub przetapiać artefakty za jego pomocą,
+			\n aby uzupełnić moc Przetapiacza). Sprzedają oni również schematy wytwarzania zasilaczy do egzoszkieletów na poziomie zaopatrzenia - 5.
+		</text>
+	</string>
+
+
+	<string id="article_gamma_story">
+		<text>Wątki fabularne</text>
+	</string>
+
+	<string id="article_gamma_story_text">
+		<text>
+			%c[pda_white]Wątki fabularne i misje \n \n %c[ui_gray_1]
+
+
+			\n%c[pda_yellow]Żywa Legenda:%c[ui_gray_1]
+			\n Dostępne u lidera frakcji w bazie startowej tych frakcji:
+			\n - Samotników
+			\n - Czystego Nieba
+			\n - Powinności
+			\n - Wolności
+			\n - Najemników
+			\n - Naukowców
+			\n
+			\n%c[pda_yellow]Operacja "Łuna":%c[ui_gray_1]
+			\n Dostępna na początku rozgrywki UNISG (wpisz "UNISG" lub "ISG" na ekranie wyboru frakcji podczas tworzenia postaci, aby odblokować frakcję).
+			\n
+			\n%c[pda_yellow]Łowcy artefaktów:%c[ui_gray_1]
+			\n Aby rozpocząć ten wątek, porozmawiaj z dowolnym NPC spośród "Łowców Artefaktów", tj. z Kowalewem w kościele na Bagnach lub ich przedstawicielem,
+			\n o imieniu Sarik Zmierzch w Wiosce Kotów w Kordonie.
+			\n Dostępne dla sojuszników Naukowców:
+			\n - Samotników
+			\n - Czystego Nieba
+			\n - Powinności
+			\n - Wolności
+			\n - Wojska
+			\n - Najemników
+			\n - Naukowców
+			\n
+			\n%c[pda_yellow]Ostatni świt:%c[ui_gray_1]
+			\n Porozmawiaj z Igłą w bazie Bagna Czystego Nieba. Dostępne dla sojuszników Czystego Nieba:
+			\n - Samotników
+			\n - Czystego Nieba
+			\n - Powinności
+			\n - Wolności
+			\n - Najemników
+			\n - Naukowców
+			\n
+			\n%c[pda_yellow]Operacja "Odwet Monolitu":%c[ui_gray_1]
+			\n Dostępny u pułkownika Kuzniecowa - pomóż wojsku przejąć kontrolę nad centrum Zony. Dostępne dla sojuszników wojskowych:
+			\n - Wojska
+			\n - Naukowców
+			\n
+			\n%c[pda_yellow]Zadania Dr.X'a:%c[ui_gray_1]
+			\n Dostępne dla wszystkich frakcji, niezbyt zorientowane na fabułę.
+		</text>
+	</string>
+
+
+
+
+
+
+	<string id="article_gamma_repgun">
+		<text>Naprawy: Broń</text>
+	</string>
+
+	<string id="article_gamma_repgun_text">
+		<text>
+			%c[pda_white]Naprawa broni \n \n %c[ui_gray_1]
+
+			\n Broń musi być naprawiana, aby można było robić postępy, ponieważ nie można jej kupić od handlarzy zgodnie z modem GAMMA Economy.
+			\n
+			\n Możesz jednak pozyskać broń ze schowków lub martwych stalkerów i w ten sposób dotrzesz na północ w jednym kawałku.
+			\n Większość broni będzie zniszczona i będziesz musiał ją naprawiać, jeżeli tego nie zrobisz to będzie często się zacinać.
+			\n Należy pamiętać, że stan broni jest oddzielony od stanu części. Stan broni określa, jak czysta jest broń
+			\n i wpływa na degradację części oraz sprzyja zacięciom. Zacięcia pochodzą od rzeczywistych części pistoletu. Naprawa stanu
+			\n broni nie spowoduje naprawy jej części. Każda część musi zostać naprawiona osobno. Każda część wpływa na
+			\n częstotliwość zacięć. Lufa zmienia obrażenia zadawane przez broń i siłę penetracji amunicji.
+			\n
+			\n%c[pda_yellow]Broń z bardzo złym stanem lufy nie zada prawie żadnych obrażeń, więc nie zaleca się używania takiej.%c[ui_gray_1]
+			\n
+			\n Aby naprawić broń, masz dwa wyjścia:
+			\n
+			\n - Możesz zdobyć odpowiedni zestaw naprawczy, kliknąć broń prawym przyciskiem myszy i wybrać opcję "konserwacja części" - pozwoli ci ona na wymianę
+			\n części broni na części w 100% sprawne, ale zużyje zestaw naprawczy. Można w ten sposób nawet wymienić lufę. Te
+			\n zestawy można wytworzyć lub kupić od techników, jeśli posiadasz odpowiedni zestaw narzędzi (podstawowy, zaawansowany lub kalibracyjny). Wymiana części
+			\n w ten sposób poprawi stan broni.
+			\n - Można jednak nadal naprawiać broń bez odpowiednich zestawów naprawczych:
+			\n Zbierz części w stanie powyżej 60% i napraw je za pomocą odpowiedniego narzędzia do stanu 100%.
+			\n (Wycior, Narzędzie wielofunkcyjne lub Pilnik). Następnie po prostu przeciągnij i upuść naprawione części na broń.
+			\n Przenoszenie i wyjmowanie części z broni sprawi, że będzie ona mniej czysta. Lufy nie mogą być wymieniane w ten sposób.
+			\n
+			\n - Jeśli lufa broni jest w stanie powyżej 60%, można kupić zestaw czyszczący od techników i kliknąć prawym przyciskiem myszy na poleceniu
+			\n broń > wyczyść lufę. To samo dotyczy innych części. Jest to łatwy sposób na wczesne zdobycie dobrej broni, ponieważ można kupić zestaw czyszczący bez żadnych
+			\n odblokowanych zestawów narzędzi.
+			\n
+			\n
+			\n Możesz także wyczyścić broń za pomocą sprzętu czyszczącego lub zapłacić za to technikowi. Czyszczenie broni nie naprawi jej części,
+			\n ale zapobiegnie degradacji części podczas strzelania.
+		</text>
+	</string>
+
+
+
+
+	<string id="article_gamma_reparm">
+		<text>Naprawa: Kombinezony</text>
+	</string>
+
+	<string id="article_gamma_reparm_text">
+		<text>
+			%c[pda_white]Naprawa kombinezonów \n \n %c[ui_gray_1]
+
+			\n Naprawa pancerzy przebiega podobnie jak w przypadku broni. Zestawy do napraw znaleźć w schowkach lub przy martwych stalkerach.
+			\n
+			\n Zbieraj części o stanie powyżej 50% i naprawiaj je do 100%.
+			\n Aby wymienić części kombinezonu, będziesz potrzebować odpowiedniego zestawu naprawczego w ekwipunku.
+			\n Wymień części kombinezonu, korzystając ze stołu warsztatowego lub klikając prawym przyciskiem myszy dowolny zestaw narzędzi, aby otworzyć stół warsztatowy i menu naprawy.
+			\n Wymiana części nie zużywa zestawów naprawczych. Od poziomu stanu wynoszącego 50% kombinezony mogą być naprawiane bezpośrednio przy użyciu zestawów naprawczych.
+			\n Poniżej tego poziomu konieczna będzie wymiana części. Pamiętaj, aby często dbać o stan kombinezonu za pomocą przedmiotów naprawczych.
+			\n
+			\n W GAMMA mechanicy nie mogą naprawiać kombinezonów.
+		</text>
+	</string>
+
+
+
+	<string id="article_gamma_rfpacks">
+		<text>Paczki</text>
+	</string>
+
+	<string id="article_gamma_rfpacks_text">
+		<text>
+			%c[pda_white]Ukryte paczki emitujące sygnały radiowe \n \n %c[ui_gray_1]
+
+			\n W trakcie gry na ekranie pojawią się losowe komunikaty o konieczności odnalezienia paczek na określonych lokacjach.
+			\n
+			\n Aby je znaleźć, wyposaż się w odbiornik RF i naciśnij przycisk przypisany do detektora, aby wyciągnąć odbiornik. Schowaj broń i zmień
+			\n częstotliwość odbiornika radiowego, aby odpowiadała tej podanej w wiadomości (sprawdź mapowanie klawiszy, aby uzyskać więcej informacji).
+			\n
+			\n Podążaj za silnymi sygnałami dźwiękowymi, im są one szybsze, tym bliżej jesteś paczki.
+			\n Możesz przytrzymać przycisk "Użyj (domyślnie klawisz F)", aby wyświetlić tekst paczki i łatwiej ją znaleźć.
+			\n W rzeczywistości jest to przedmiot leżący na ziemi lub ukryty w beczkach itp. NIE jest to schowek, z którym trzeba wchodzić w interakcje.
+			\n Następnie możesz kliknąć paczkę prawym przyciskiem myszy w ekwipunku i otworzyć ją, aby poznać jej zawartość.
+			\n
+			\n Paczki mogą zawierać zarówno losowe przedmioty, jak i artefakty lub zestawy narzędzi.
+		</text>
+	</string>
+
+
+	<string id="article_gamma_ballistics">
+		<text>Balistyka</text>
+	</string>
+
+	<string id="article_gamma_ballistics_text">
+		<text>
+			%c[pda_white]System balistyki \n \n %c[ui_gray_1]
+
+			\n GAMMA wykorzystuje mod o nazwie Grok's Balanced Overhaul Of Ballistic System.
+			\n Zmienia on pociski i penetrację pancerza z gracza na postać niezależną (a nie odwrotnie), wykorzystując system amunicji z Escape from Tarkov
+			\n jako inspirację. Celem jest stworzenie bardziej realistycznego systemu balistycznego, w którym należy wziąć pod uwagę
+			\n kombinezon przeciwnika jak i rodzaj używanej amunicji.
+			\n
+			\n Siła penetracji pancerza amunicji (AP) jest porównywana z pancerzem kończyny przeciwnika.
+			\n Jeśli moc AP > pancerz kończyny, zadawane są obrażenia. Jeśli moc AP jest mniejsza niż pancerz kończyny, obrażenia nie są zadawane, a pancerz kończyny jest zmniejszany na podstawie mocy AP.
+			\n Amunicja z niską mocą AP musi przebić pancerz kończyn przeciwnika, zanim zacznie zadawać obrażenia. Amunicja AP jest więc wymagana do zabicia silnie opancerzonych celów.
+			\n Amunicja FMJ i HP nadal będzie działać, ale pancerz przeciwnika musi zostać zniszczony przez wiele takich pocisków, aby zaczął zadawać obrażenia.
+			\n Opancerzenie nóg i twarzy jest zredukowane.
+			\n
+			\n%c[pda_yellow]Amunicja AP (Przeciwpancerna): %c[ui_gray_1]
+
+			\n - Droga, ale pokona każdy ciężko opancerzony cel w późniejszej części gry. 
+			\n - Jest to amunicja do późniejszej części gry, nie używaj jej przeciwko lekko opancerzonym celom, bo tylko zmarnujesz pieniądze.
+			\n
+			\n%c[pda_yellow]Amunicja FMJ (Full Metal Jacket):%c[ui_gray_1] 
+			\n - Tania i powinna być używana do zabijania lekko opancerzonych celów lub jako tańszy i mniej skuteczny zamiennik amunicji AP przeciwko celom opancerzonym.
+
+			\n
+			\n%c[pda_yellow]Amunicja HP (Hollow-Point): %c[ui_gray_1]
+			\n - Nieco droższa niż FMJ i powinna być używana do zabijania mutantów, ponieważ ma jeszcze mniejszą moc AP niż amunicja FMJ.
+			\n
+			\n Amunicja snajperska jest bardzo potężna, ale też bardzo droga.
+			\n .338 Lapua zabije większość wrogów jednym trafieniem w klatkę piersiową, jeśli cię na nią stać.
+			\n Śrut sprawdzi się jako niedroga amunicja przeciwko stalkerom we wczesnej fazie gry. Zapomnij o niej w środkowej i późnej fazie gry: jest dobra na mutanty, ale nie nadaje się w bitce przeciwko celom w egzoszkieletach.
+			\n Pociski śrutowe są dobre zarówno do zabijania mutantów, jak i stalkerów. Z kolei śrut przeciwpancerny jest najlepszy przeciwko stalkerom.
+			\n
+			\n Niektóre rodzaje amunicji są bardziej przydatne przeciwko mutantom: amunicja HP, .357 Magnum, .45 Hydra-Shok, śrutowa, kulowa i 7.62x25 Pst.
+			\n
+			\n Pociski mają w opisie wartość penetracji pancerza. Jest ona oparta na rosyjskiej klasyfikacji BR dla penetracji amunicji:
+
+			\n - BR1 - BR2 = penetracja lekkich pancerzy
+			\n - BR3 - BR4 = penetracja pancerzy klasy średniej
+			\n - BR5 = penetracja ciężkich pancerzy
+			\n - BR6 = penetracja egzoszkieletów 
+
+			\n
+			\n%c[pda_yellow]Niektóre frakcje mają swoje specyficzne cechy:
+			\n - Monolit używa tylko amunicji przeciwpancernej.
+			\n - Grzech używa tylko amunicji AP, głównie ciężkich karabinów maszynowych i jest znacznie bardziej odporny na obrażenia niż zwykły człowiek.
+			\n - Członkowie UNISG mają bardzo dobry sprzęt, używają tylko amunicji AP i mają wyższą odporność na penetrację amunicji.
+			\n - Większość stalkerów o randze Mistrz i Legenda używa amunicji AP.
+			\n - Frakcje używają broni zgodnie z typem handlarza (UW lub NATO).
+		</text>
+	</string>
+</string_table>

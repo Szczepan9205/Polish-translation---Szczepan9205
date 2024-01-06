@@ -1,0 +1,92 @@
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 17
+- @ Description: HUD Raindrops - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<!-- Raindrops Title -->
+	<string id="ui_mcm_ssfx_module_hud_raindrops_title">
+		<text>Krople deszczu na HUD - Ustawienia</text>
+	</string>
+
+	<!-- Raindrops Settings -->
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_density_mcm">
+		<text>Gęstość kropel deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_density_mcm_desc">
+		<text>Ilość i rozmiar kropel deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_reflection_str_mcm">
+		<text>Intensywność odbicia</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_reflection_str_mcm_desc">
+		<text>Intensywność odbicia kropel deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_refraction_str_mcm">
+		<text>Intensywność refrakcji</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_refraction_str_mcm_desc">
+		<text>Intensywność załamania kropel deszczu.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_animation_speed_mcm">
+		<text>Prędkość animacji</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_animation_speed_mcm_desc">
+		<text>Prędkość animacji kropel deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_buildup_mcm">
+		<text>Zwiększ prędkość</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_buildup_mcm_desc">
+		<text>Wartość dostosowująca prędkość narastania kropel deszczu na elementach HUD.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_drying_mcm">
+		<text>Prędkość schnięcia</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_drying_mcm_desc">
+		<text>Wartość do dostosowania prędkości suszenia elementów HUD.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_size_mcm">
+		<text>Rozmiar kropli deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_size_mcm_desc">
+		<text>Ustaw rozmiar kropel deszczu.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_gloss_mcm">
+		<text>Połysk kropli deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_gloss_mcm_desc">
+		<text>Dostosuj intensywność połysku kropel deszczu.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_extra_gloss_mcm">
+		<text>Dodatkowy ogólny połysk (gdy mokre)</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_extra_gloss_mcm_desc">
+		<text>Dostosuj ogólny połysk elementów HUD podczas deszczu.</text>
+	</string>
+
+</string_table>

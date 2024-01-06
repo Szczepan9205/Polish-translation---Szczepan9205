@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_interact">
+		<text>Interakcja ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_place_popup">
+		<text>Umieść przedmiot ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_far_popup">
+		<text>To zbyt daleko, bym mógł to tam umieścić.</text>
+	</string>
+	<string id="st_collision_warning">
+		<text>Nie można umieścić obiektu - koliduje z czymś</text>
+	</string>
+	<string id="st_rotation_label">
+		<text>Przesunięcie rotacji</text>
+	</string>
+	<string id="st_vertical_label">
+		<text>Przesunięcie w pionie</text>
+	</string>
+	<string id="st_enable_collision">
+		<text>Kolizje włączone</text>
+	</string>
+	<string id="st_disable_collision">
+		<text>Kolizje wyłączone</text>
+	</string>
+	<string id="st_pickup">
+		<text>Podnieś</text>
+	</string>
+    <string id="st_close">
+		<text>Zamknij</text>
+	</string>
+    <string id="st_turn_on">
+		<text>Włącz</text>
+	</string>
+    <string id="st_turn_off">
+		<text>Wyłącz</text>
+	</string>
+    <string id="st_take_fuel">
+		<text>Weź paliwo</text>
+	</string>
+    <string id="st_add_fuel">
+		<text>Dolej paliwa/naładuj źródło zasilania</text>
+	</string>
+	<string id="st_access_stash">
+		<text>Dostęp do schowka</text>
+	</string>
+	<string id="st_use_workshop">
+		<text>Użyj stołu warsztatowego</text>
+	</string>
+	<string id="st_fuel">
+		<text>Paliwo</text>
+	</string>
+	<string id="st_duration">
+		<text>Czas trwania</text>
+	</string>
+
+	<string id="st_autoplay">
+		<text>Autoodtwarzanie</text>
+	</string>
+	<string id="st_configure">
+		<text>Konfiguruj</text>
+	</string>
+	<string id="st_tempo">
+		<text>Tempo</text>
+	</string>
+	<string id="st_transpose">
+		<text>Transpozycja</text>
+	</string>
+	<string id="st_volume">
+		<text>Głośność</text>
+	</string>
+	<string id="st_instrument">
+		<text>Instrument</text>
+	</string>
+	<string id="st_filter_by_tag">
+		<text>Filtruj według tagu</text>
+	</string>
+</string_table>

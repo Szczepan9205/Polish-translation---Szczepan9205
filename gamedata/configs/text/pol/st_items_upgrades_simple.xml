@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Upgrading Parts
+-->
+
+<string_table>
+
+<!-- Outfits -->
+	<string id="st_upgr_o_physical">
+		<text>Zestaw ulepszeń pancerza kombinezonu</text>
+	</string>
+	<string id="st_upgr_o_physical_desc">
+		<text>Ten pakiet zawiera różne rodzaje płyt pancernych i komponentów, takich jak kevlar i tytan, we wszystkich kształtach i rozmiarach, a także mnóstwo mniejszych elementów do ich mocowania i instalacji. Dzięki temu zestawowi powinieneś być w stanie zainstalować dowolne ulepszenie stroju związane z poprawą jego właściwości fizycznych.\n\n
+            %c[yellow]Może być użyty do ulepszenia:\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. balist.\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. uderz.\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. przed zadrap.\n
+            %c[d_cyan] • %c[ui_gray_2] Trwałości kombinezonu\n
+            %c[d_cyan] • %c[ui_gray_2] Redukcji wagi\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. wybuch.
+        </text>
+    </string>
+	<string id="st_upgr_o_magical">
+		<text>Zestaw do modernizacji ochrony kombinezonu</text>
+	</string>
+	<string id="st_upgr_o_magical_desc">
+		<text>Pakiet ten zawiera różne rodzaje materiałów odpornych na ekstremalne warunki fizyczne, biologiczne i chemiczne. Dzięki temu zestawowi powinieneś być w stanie zainstalować dowolne ulepszenie na sprzęcie związane z poprawą jego ochrony od warunków środowiskowych.\n\n
+            %c[yellow]Może być użyty do ulepszenia:\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. prom.\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. chem.\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. term..\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. elektr.\n
+            %c[d_cyan] • %c[ui_gray_2] Ochr. psion.\n
+        </text>
+    </string>
+	<string id="st_upgr_o_utility">
+		<text>Zestaw do rozbudowy kombinezonu</text>
+	</string>
+	<string id="st_upgr_o_utility_desc">
+		<text>Ten pakiet zawiera paski mocujące, różne sakiewki, różne urządzenia mechaniczne o różnej jakości i inne drobiazgi. Dzięki temu zestawowi powinieneś być w stanie zainstalować kilka przydatnych ulepszeń na stroju.\n\n
+            %c[yellow]Może być użyty do ulepszenia:\n
+            %c[d_cyan] • %c[ui_gray_2] Udźwigu\n
+            %c[d_cyan] • %c[ui_gray_2] Pojemników na artefakty\n
+            %c[d_cyan] • %c[ui_gray_2] Regeneracji wytrzymałości\n
+            %c[d_cyan] • %c[ui_gray_2] Regeneracji zdrowia\n
+            %c[d_cyan] • %c[ui_gray_2] Kontroli krwawienia\n
+            %c[d_cyan] • %c[ui_gray_2] Wzmacniaczy serwomotorów\n
+        </text>
+    </string>
+	<string id="st_upgr_w_internal">
+		<text>Zestaw ulepszeń mechanizmów broni</text>
+	</string>
+	<string id="st_upgr_w_internal_desc">
+		<text>Ten pakiet zawiera wysokiej jakości komponenty broni i narzędzia używane do ulepszania mechanizmów broni. Dzięki temu zestawowi powinieneś być w stanie dokonać różnych wewnętrznych ulepszeń broni.\n\n
+            %c[yellow]Może być użyty do ulepszenia:\n
+            %c[d_cyan] • %c[ui_gray_2] Niezawodności\n
+            %c[d_cyan] • %c[ui_gray_2] Redukcji rozrzutu\n
+            %c[d_cyan] • %c[ui_gray_2] Szybkostrzelności\n
+            %c[d_cyan] • %c[ui_gray_2] Zmiany kalibru\n
+            %c[d_cyan] • %c[ui_gray_2] Trybów ostrzału\n</text>
+    </string>
+	<string id="st_upgr_w_external">
+		<text>Zestaw ulepszeń korpusu broni</text>
+	</string>
+	<string id="st_upgr_w_external_desc">
+		<text>Zestaw ten zawiera narzędzia używane do modyfikacji i konserwacji luf broni, a także szyn taktycznych, mocowań i różnych elementów wyposażenia broni. Dzięki temu zestawowi powinieneś być w stanie dokonać różnych ulepszeń związanych z lufami lub korpusami broni.\n\n
+            %c[yellow]Może być użyty do ulepszenia:\n
+            %c[d_cyan] • %c[ui_gray_2] Płaskości toru lotu pocisku\n
+            %c[d_cyan] • %c[ui_gray_2] Celności\n
+            %c[d_cyan] • %c[ui_gray_2] Obsługi\n
+            %c[d_cyan] • %c[ui_gray_2] Wagi broni\n
+            %c[d_cyan] • %c[ui_gray_2] Szyn montażowych\n</text>
+    </string>
+	<string id="st_upgr_w_optical">
+		<text>Zestaw do rozbudowy optyki</text>
+	</string>
+	<string id="st_upgr_w_optical_desc">
+		<text>Zestaw zawiera wysokiej jakości soczewki i elementy optyczne nadające się do wymiany w lornetkach i celownikach. Dzięki temu zestawowi powinieneś być w stanie ulepszyć każdy instrument optyczny.</text>
+    </string>
+
+	<string id="st_try_combine">
+		<text>ulepsz</text>
+	</string>
+	<string id="st_try_downgrade">
+		<text>degraduj</text>
+	</string>
+	<string id="ui_mcm_menu_supgrades">
+		<text>Ulepszenia</text>
+	</string>
+	<string id="ui_mcm_supgrades_title">
+		<text>Usprawnione ulepszenia sprzętu</text>
+	</string>
+
+	<string id="ui_mcm_supgrades_drop">
+		<text>Szansa na łup</text>
+	</string>
+	<string id="ui_mcm_supgrades_drop_desc">
+		<text>Szansa na to, że istniejące zestawy ulepszeń zostaną zastąpione nowymi zestawami generowanymi losowo.</text>
+	</string>
+
+</string_table>

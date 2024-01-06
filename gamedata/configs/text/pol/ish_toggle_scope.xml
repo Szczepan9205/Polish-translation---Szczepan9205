@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="ui_mcm_menu_toggle_scope">
+		<text>ToggleScope</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle">
+		<text>Zainstaluj/zdemontuj/zmień celownik</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle_desc">
+        <text>%c[d_green]•%c[DEFAULT] Pojedyncze kliknięcie: zainstaluj/zdemontuj bieżący celownik
+            \n\n%c[d_green]•%c[DEFAULT] Podwójne kliknięcie: przełącz na następny kompatybilny celownik
+        </text>
+	</string>
+</string_table>

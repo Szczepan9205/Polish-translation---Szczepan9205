@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+	
+	<string id="st_addon_sil_ash12">
+		<text>Tłumik CKIB do ASz-12</text>
+	</string>
+	<string id="st_addon_sil_ash12_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 12.7x55mm\n \n%c[ui_gray_1]Tłumik dla ASz-12.\n \n%c[d_purple] • %c[ui_gray_2] Tłumienie dźwięku: %c[ui_gray_1]średnie</text>
+	</string>
+
+	<string id="st_addon_scope_specterup">
+		<text>S.U.P. Special Upgrade Pack do SA-58</text>
+	</string>
+	<string id="st_addon_scope_specterup_descr">
+		<text>Specjalny pakiet ulepszeń, który zawiera celowniki SpecterDR, Trijicon RMR i ANPEQ15 LAM. Ta kombinacja zapewnia użytkownikowi celowniki dalekiego i bliskiego zasięgu oraz pomoc ANPEQ15 w celowaniu z biodra.</text>
+	</string>
+
+	<string id="st_addon_scope_sup">
+		<text>S.U.P. Special Upgrade Pack</text>
+	</string>
+	<string id="st_addon_scope_sup_descr">
+		<text>Specjalny pakiet ulepszeń zawierający celownik SpecterDR i Trijicon RMR. Ta kombinacja zapewnia użytkownikowi celowniki dalekiego i bliskiego zasięgu wspomagające celowanie.</text>
+	</string>
+
+	<string id="st_addon_sil_silencerco">
+		<text>SilencerCO Salvo 12</text>
+	</string>
+	<string id="st_addon_sil_silencerco_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNY:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 12-gauge\n \n%c[ui_gray_1]Tłumik SilencerCO Salvo 12.\n \n%c[d_purple] • %c[ui_gray_2] Tłumienie dźwięku: %c[ui_gray_1]średnie</text>
+	</string>
+
+</string_table>

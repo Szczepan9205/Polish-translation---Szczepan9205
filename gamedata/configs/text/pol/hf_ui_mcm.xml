@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_aol_hf">
+        <text>Wyposażenie kryjówki</text>
+    </string>
+
+	<string id="ui_mcm_aol_hf_bind_left">
+		<text>Obróć obiekt zgodnie z ruchem wskazówek zegara</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_right">
+		<text>Obróć obiekt w kierunku przeciwnym do ruchu wskazówek zegara</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_bind_up">
+		<text>Przesuń obiekt w górę</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_down">
+		<text>Przesuń obiekt w dół</text>
+	</string>
+
+    <string id="ui_mcm_aol_hf_bind_place">
+		<text>Umieść obiekt</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_bind_collision">
+		<text>Przełącz sprawdzanie kolizji</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_disable_bbox">
+		<text>Wyłączanie ramki ograniczającej podczas umieszczania</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_use_ingame_time">
+		<text>Czas wyświetlania świateł w grze</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf_update_mcm">
+		<text>Zaktualizuj MCM, aby ustawić powiązania klawiszy. Domyślnie są to klawisze strzałek do obracania i "F" do umieszczania.</text>
+	</string>
+
+
+</string_table>

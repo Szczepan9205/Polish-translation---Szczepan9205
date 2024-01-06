@@ -1,0 +1,77 @@
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 17
+- @ Description: Rain Footsteps - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<!-- Rain Footsteps Title -->
+	<string id="ui_mcm_ssfx_module_rain_footsteps_title">
+		<text>Kroki - Ustawienia</text>
+	</string>
+
+	<!-- Rain Footsteps Settings -->
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm">
+		<text>Główna głośność</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm_desc">
+		<text>Główna głośność dla kroków.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm">
+		<text>Wariacja głośności</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_vol_rnd_mcm_desc">
+		<text>Dodaje losową zmianę (ustawioną wartość) do głośności kroków.</text>
+	</string>
+
+	
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm">
+		<text>Mnożnik bez deszczu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_no_rain_mcm_desc">
+		<text>Mnożnik głośności, gdy nie pada, ale wilgotność jest nadal wysoka.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm">
+		<text>Mnożnik podczas chodzenia</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_walk_mcm_desc">
+		<text>Mnożnik głośności, gdy gracz idzie.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm">
+		<text>Mnożnik podczas biegu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_multi_run_mcm_desc">
+		<text>Mnożnik głośności, gdy gracz biegnie.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm">
+		<text>Głośność skoku</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_jump_vol_mcm_desc">
+		<text>Głośność efektu dźwiękowego skoku.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm">
+		<text>Głośność lądowania</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_land_vol_mcm_desc">
+		<text>Głośność efektu dźwiękowego przy lądowaniu.</text>
+	</string>
+
+
+</string_table>

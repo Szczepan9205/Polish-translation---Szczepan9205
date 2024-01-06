@@ -1,0 +1,135 @@
+<string_table>
+	<!-- STALKERS -->
+	<string id="ui_mcm_menu_smr_stalkers">
+		<text>Stalkerzy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_squad_size">
+		<text>Rozmiar oddzia³ów stalkerów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_squad_size_variance">
+		<text>Ró¿nica w wielkoœci oddzia³ów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_squad_size_variance_desc">
+		<text>Im wy¿sza wartoœæ, tym bardziej losowy bêdzie rozmiar oddzia³ów stalkerów.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war">
+		<text>Wojna domowa</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_civilwar_disabled">
+		<text>Wy³¹czone</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_civilwar_stalkers">
+		<text>Stalkerzy</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_civilwar_squads">
+		<text>Oddzia³y</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_desc">
+		<text>Jeœli w³¹czone, wszyscy stalkerzy lub oddzia³y stalkerów s¹ do siebie wrogo nastawieni.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_base_population">
+		<text>Wojna domowa wp³ywa na populacjê bazy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_base_population_desc">
+		<text>Jeœli w³¹czone, ustawienia wojny domowej wp³ywaj¹ na stalkerów nale¿¹cych do populacji baz.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied">
+		<text>Sojusznik monolitu (wojna domowa)</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied_desc">
+		<text>Utrzymuje stalkerów Monolitu w przyjaznych stosunkach ze sob¹, niezale¿nie od ustawieñ wojny domowej.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population">
+		<text>Populacja baz stalkerów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_desc">
+		<text>Populacja stalkerów w bazach.</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_default">
+		<text>Domyœlna</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_survival">
+		<text>Przetrwanie</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_minimal">
+		<text>Minimalna</text>
+	</string>
+	<string id="ui_mcm_lst_smr_stalkers_base_population_none">
+		<text>Brak</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_default">
+		<text>Domyœlne ustawienie z Anomaly.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_survival">
+		<text>Domyœlne ustawienie z Anomaly</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_minimal">
+		<text>Usuwa prawie wszystkie bazy. Z tych, które pozosta³y, Rostok jest jedyn¹ bezpieczn¹ baz¹ ze stra¿nikami. Nie ma to wp³ywu na spawn poza bazami.
+		Jeœli nie zaczynasz jako samotnik, byæ mo¿e bêdziesz musia³ skorzystaæ z systemu przebrañ.
+		</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_base_population_none">
+		<text>Usuwa wszystkie spawny stalkerów w bazach, zainspirowane trybem "Last Stand" z moda Dead Air.
+		Oznacza to, ¿e w Zonie nie bêdzie ¿adnych handlarzy, techników ani stra¿ników. Spawn poza bazami pozostaje bez zmian.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_random_stalkers">
+		<text>Spawnuj losowe oddzia³y stalkerów</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_random_stalkers_desc">
+		<text>Zastêpuje oddzia³y stalkerów oddzia³ami z losowej frakcji. Oznacza to, ¿e mo¿esz znaleŸæ frakcje tam, gdzie wczeœniej siê ich nie spodziewa³eœ.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_random_stalkers_chance">
+		<text>Szansa na losowe oddzia³y stalkerów</text>
+	</string>
+	<string id="ui_mcm_smr_stalkers_factions_title">
+		<text>Frakcje</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_factions_info">
+		<text>Poni¿ej mo¿esz w³¹czyæ lub wy³¹czyæ frakcje. Wy³¹czone frakcje nie pojawi¹ siê w Zonie.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_factions_replace_squads">
+		<text>Zast¹p usuniête oddzia³y</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_factions_replace_squads_desc">
+		<text>Zastêpuje oddzia³y z wy³¹czonych frakcji oddzia³ami z w³¹czonych frakcji.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_stalker">
+		<text>Samotnicy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_bandit">
+		<text>Bandyci</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_csky">
+		<text>Czyste Niebo</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_duty">
+		<text>Powinnoœæ</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_freedom">
+		<text>Wolnoœæ</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_merc">
+		<text>Najemnicy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_army">
+		<text>Wojsko</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_ecolog">
+		<text>Naukowcy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_monolith">
+		<text>Monolit</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_renegade">
+		<text>Renegaci</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_greh">
+		<text>Grzech</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_stalkers_zombied">
+		<text>Zombifikowani</text>
+	</string>
+</string_table>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="duty_girl_hunting_chimera_title">
+		<text>Polowanie na chimerę</text>
+	</string>
+	<string id="duty_girl_hunting_chimera_descr_1">
+		<text>Zgodziłam się pomóc Annie w polowaniu na chimerę. Mam się z nią spotkać na Pchlim Targu.</text>
+	</string>
+	<string id="duty_girl_hunting_chimera_descr_2">
+		<text>Zgodziłem się pomóc Annie w polowaniu na chimerę. Atakujemy legowisko mutanta.</text>
+	</string>
+	<string id="duty_girl_hunting_chimera_descr_3">
+		<text>Mutant nie żyje. Mogę wrócić po nagrodę.</text>
+	</string>
+	
+	<string id="duty_girl_monolith_elite_title">
+		<text>Oczyść drogę na północ</text>
+	</string>
+	<string id="duty_girl_monolith_elite_descr_1">
+		<text>Powinność ma zamiar przeprowadzić atak na dobrze wyszkolony oddział Monolitu. Każda pomoc jest mile widziana, a i nagroda nie jest najgorsza.</text>
+	</string>
+	<string id="duty_girl_monolith_elite_descr_2">
+		<text>Atak się rozpoczął. Muszę pomóc Powinności w walce z wrogami.</text>
+	</string>
+	<string id="duty_girl_monolith_elite_descr_3">
+		<text>Atak się powiódł. Czas odebrać nagrodę.</text>
+	</string>
+	
+	<string id="duty_girl_loot_stash_title">
+		<text>Bonusowa nagroda</text>
+	</string>
+	<string id="duty_girl_loot_stash_descr_1">
+		<text>Jako bonus za pomoc Powinności w poprzedniej misji zostały mi przekazane współrzędne schowka.</text>
+	</string>
+	
+	<string id="duty_girl_capture_the_brirge_title">
+		<text>Przechwyć most w Czerwonym Lesie</text>
+	</string>
+	<string id="duty_girl_capture_the_brirge_descr_1">
+		<text>Powinność chce przejąć most w Czerwonym Lesie. Są bliscy ataku. Każda pomoc jest mile widziana, a i nagroda nie jest najgorsza.</text>
+	</string>
+	<string id="duty_girl_capture_the_brirge_descr_2">
+		<text>Atak się rozpoczął. Muszę pomóc Powinności w walce z wrogami.</text>
+	</string>
+	<string id="duty_girl_capture_the_brirge_descr_3">
+		<text>Atak zakończył się sukcesem. Czas odebrać nagrodę.</text>
+	</string>
+</string_table>

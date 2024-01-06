@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- 
+		MCM
+	-->
+	<string id="ui_mcm_item_icon_info_title">
+		<text>UI przedmiotów</text>
+	</string>
+	<string id="ui_mcm_menu_item_icon_info">
+		<text>UI przedmiotów</text>
+	</string>
+
+
+	<string id="ui_mcm_menu_cond_text">
+		<text>Cond Pct Number</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_cond_text_title">
+		<text>Liczba procentowa stanu</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_cond_text_enable">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_cond_text_enable_equipped">
+		<text>Pokaż na wyposażonym sprzęcie</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_hide_bar">
+		<text>Ukryj pasek stanu</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_enable_condition_text_hide_bg">
+		<text>Brak tła dla wartości stanu broni i przedmiotów</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_cond_text_alt_artefact_pos">
+		<text>Alternatywna pozycja na artefaktach</text>
+	</string>
+	<string id="ui_mcm_lst_alt_art_pos_lower_left">
+		<text>Lewy dolny róg</text>
+	</string>
+	<string id="ui_mcm_lst_alt_art_pos_lower_right">
+		<text>Prawy dolny róg</text>
+	</string>
+	<string id="ui_mcm_lst_alt_art_pos_top_left">
+		<text>Lewy górny róg</text>
+	</string>
+	<string id="ui_mcm_lst_alt_art_pos_top_right">
+		<text>Prawy górny róg</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_cond_text_padding">
+		<text>Wypełnienie tekstu</text>
+	</string>
+
+	<string id="ui_mcm_menu_part_dots">
+		<text>Wskaźniki stanu części</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_title">
+		<text>Wskaźniki stanu części</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_enable">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_show_on_equipped">
+		<text>Pokaż na wyposażonym sprzęcie</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_show_on_wpn">
+		<text>Pokaż na broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_show_on_armor">
+		<text>Pokaż na kombinezonach/hełmach</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_size_mult">
+		<text>Rozmiar</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_separator_width">
+		<text>Odstępy między wskaźnikami</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_position">
+		<text>Pozycja</text>
+	</string>
+	<string id="ui_mcm_lst_part_dot_top">
+		<text>Górna część paska stanu</text>
+	</string>
+	<string id="ui_mcm_lst_part_dot_right">
+		<text>Prawa część paska stanu</text>
+	</string>
+	<string id="ui_mcm_lst_part_dot_top_pistol">
+		<text>Górna część paska stanu (tylko broń krótka)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_wpo_mode">
+		<text>Używanie progów kolorów</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_wpo_green">
+		<text>Zielony próg stanu</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_wpo_yellow">
+		<text>Żółty próg stanu</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_part_dots_wpo_orange">
+		<text>Pomarańczowy próg stanu</text>
+	</string>
+
+	<string id="ui_mcm_menu_ammo_name">
+		<text>Nazwa amunicji</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_ammo_name_title">
+		<text>Tekst skróconej nazwy amunicji</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_ammo_name_enable">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_ammo_name_bad_color">
+		<text>Kolor tekstu na podstawie jakości amunicji (zła/stara)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_ammo_name_show_expl">
+		<text>Włącz dla granatów i granatów podlufowych M203/WOG</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_ammo_name_expl_bad_color">
+		<text>Kolor tekstu zależny od jakości amunicji (materiałów wybuchowych)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_ammo_name_padding">
+		<text>Wypełnienie tekstu</text>
+	</string>
+
+	<string id="ui_mcm_menu_recipe_text">
+		<text>Przeczytane/Nieprzeczytane</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_recipe_text_title">
+		<text>Przepisy, Notatki i Mapy pokazują przeczytany/nieprzeczytany tekst</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_recipe_text_enable">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_recipe_text_show_on_pda">
+		<text>Pokaż podpowiedź na PDA z informacjami o schowku</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_recipe_text_padding">
+		<text>Wypełnienie tekstu</text>
+	</string>
+
+	<string id="ui_mcm_menu_mag_info">
+		<text>Informacje o magazynku</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_mag_info_title">
+		<text>Liczba amunicji w magazynku i nazwa pocisku (tylko Mags Redux)</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_mag_info_enable">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_mag_info_show_ammo_name">
+		<text>Pokaż skróconą nazwę amunicji</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_mag_info_show_ammo_count">
+		<text>Pokaż liczbę amunicji</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_mag_info_hide_bar">
+		<text>Ukryj pasek stanu magazynka</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_mag_info_padding">
+		<text>Wypełnienie tekstu</text>
+	</string>
+
+	<string id="ui_mcm_menu_money_text">
+		<text>Pieniądze</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_money_text_title">
+		<text>Tekst pieniędzy</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_money_text_enable">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_money_text_hide_bg">
+		<text>Bez tła</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_money_text_padding">
+		<text>Wypełnienie tekstu</text>
+	</string>
+	
+	<string id="ui_mcm_menu_armor_info">
+		<text>Informacje o kombinezonie</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_armor_info_title">
+		<text>Typ naszywki i naprawy kombinezonu</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_armor_info_show_patch">
+		<text>Pokaż ikonę naszywki frakcji kombinezonu</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_armor_info_show_armor_type">
+		<text>Pokaż typ naprawy kombinezonu</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_armor_info_show_helmet_type">
+		<text>Pokaż typ hełmu</text>
+	</string>
+
+	<string id="ui_mcm_menu_wpn_info">
+		<text>Informacje o broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_info_title">
+		<text>Nazwa broni i typ naprawy</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_info_show_gun_repair_type">
+		<text>Pokaż ikonę typu naprawy broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_info_show_wpn_name">
+		<text>Pokaż nazwę broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_info_main_slots_only">
+		<text>Wyposażone wyświetlają tylko nazwę na broni głównej/bocznej</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_info_show_grenade_name">
+		<text>Pokaż nazwę na granatach</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_info_show_melee">
+		<text>Pokaż nazwę na broni białej</text>
+	</string>
+
+	<string id="ui_mcm_menu_wpn_scaling">
+		<text>Skalowanie broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_not_installed">
+		<text>Skalowanie broni nie jest zainstalowane</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_title">
+		<text>Skalowanie i wyrównanie broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_enable_equip_hor_scale">
+		<text>Skalowanie i wyrównywanie poziome wyposażonej broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_enable_equip_vert_scale">
+		<text>Skalowanie i wyrównywanie pionowe wyposażonej</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_equip_vert_padding">
+		<text>Wypełnienie na pionowo skalowanej broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_equip_hor_padding">
+		<text>Wypełnienie na poziomo skalowanej broni</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_enable_inv_scaling">
+		<text>Skalowanie i wyrównanie broni wyciszonej w oknie ekwipunku</text>
+	</string>
+
+	<!-- 
+		Mody
+	-->
+	<string id="ui_utjan_recipe_read">
+		<text>przeczytane</text>
+	</string>
+	<string id="ui_utjan_recipe_unread">
+		<text>nieprzeczytane</text>
+	</string>
+	<string id="ui_utjan_ruble">
+		<text>ru</text>
+	</string>
+</string_table>

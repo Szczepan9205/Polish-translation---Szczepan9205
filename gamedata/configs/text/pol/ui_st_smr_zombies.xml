@@ -1,0 +1,57 @@
+<string_table>
+	<string id="ui_mcm_menu_smr_zombies">
+		<text>Zombie</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_spawn">
+		<text>W³¹cz spawn zombie</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_chance">
+		<text>Szansa na spawn zombie</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_chance_desc">
+		<text>Szansa (procentowa) spawnu dla stalkerów/mutantów, którzy zostan¹ zast¹pieni przez zombie.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_seek_enabled">
+		<text>Zombie szukaj¹ gracza</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_seek_enabled_desc">
+		<text>W trybie przetrwania zombie bêd¹ poruszaæ siê w kierunku gracza, gdy znajd¹ siê w okreœlonym promieniu (nawet jeœli nie zosta³y zaalarmowane). Ta funkcja odtworza to zachowanie.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_seek_distance">
+		<text>Dystans poszukiwañ przez przeciwników</text>
+	</string>
+	<!-- ZOMBIE TYPES -->
+	<string id="ui_mcm_smr_zombies_zombie_types_title">
+		<text>Warianty zombie</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombie_types_info">
+		<text>Poni¿ej mo¿esz kontrolowaæ, które warianty zombie bêd¹ siê pojawiaæ.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombiesp">
+		<text>Zombie podstawowe</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombies_amount">
+		<text>Liczba podstawowych zombie</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombies_amount_desc">
+		<text>Wspó³czynnik, o który mno¿one s¹ podstawowe spawny zombie (jeœli w³¹czone) w porównaniu do innych wariantów.</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_blindp">
+		<text>Œlepe zobmie (psioniczne)</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_zombifiedp">
+		<text>Zombifikowani stalkerzy</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_fracturep">
+		<text>Po³amañce</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_snorkp">
+		<text>Snorki</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_bloodsuckerp">
+		<text>Pijawki</text>
+	</string>
+	<string id="ui_mcm_SMR_smr_zombies_psysuckerp">
+		<text>Pijawki psioniczne</text>
+	</string>
+</string_table>

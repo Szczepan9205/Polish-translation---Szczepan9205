@@ -1,0 +1,18 @@
+<string_table>
+	<string id="ui_mcm_menu_dph_loot_cond">
+		<text>Konfigurowalny stan ³upu</text>
+	</string>
+	<string id="ui_mcm_menu_ammo">
+		<text>Amunicja</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_ammo">
+		<text>Amunicja</text>
+	</string>
+	<!-- //// -->
+	<string id="ui_mcm_dph_loot_cond_ammo_factor">
+		<text>Iloœæ</text>
+	</string>
+	<string id="ui_mcm_dph_loot_cond_ammo_disable_bad">
+		<text>Nie spawnuj starej amunicji</text>
+	</string>
+</string_table>

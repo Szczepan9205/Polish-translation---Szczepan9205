@@ -1,0 +1,17 @@
+<string_table>
+
+<!-- UNUSED
+
+	<string id="st_wpn_beretta_stars">
+		<text>Beretta 92F "Stars"</text>
+	</string>
+	<string id="st_wpn_beretta_stars_descr">
+		<text>Model 92F jest prawdopodobnie najbardziej znany jako standardowy pistolet amerykañskiego wojska, zastêpuj¹cy legendarny M1911. Jest to broñ krótka, z zamkiem bêbenkowym, aluminiowym szkieletem i chromowan¹ luf¹. Popularna broñ boczna przyjêta przez kilka krajów, jest szczególnie popularna wœród przestêpców ze wzglêdu na du¿¹ moc nabojów i magazynek o du¿ej pojemnoœci.\n \n
+		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] t³umik 9 mm (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] celowniki Docter, RMR, DeltaPoint \n \n</text>
+	</string>
+	
+-->
+
+</string_table>

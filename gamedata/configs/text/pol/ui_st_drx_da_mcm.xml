@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_drx_da_title">
+		<text>Dynamic Anomalies Overhaul (DAO)</text>
+	</string>
+	<string id="ui_mcm_menu_drx_da">
+		<text>DAO</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_presets">
+		<text>Szablony</text>
+	</string>
+	<string id="ui_mcm_drx_da_presets_desc">
+		<text>Wybierz z listy szablon ustawień określający poziom trudności.</text>
+	</string>
+	<string id="ui_mcm_lst_drx_da_preset_easy">
+		<text>Łatwy</text>
+	</string>
+	<string id="ui_mcm_lst_drx_da_preset_normal">
+		<text>Normalny</text>
+	</string>
+	<string id="ui_mcm_lst_drx_da_preset_hard">
+		<text>Trudny</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
+		<text>Anomalie</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
+		<text>Szansa na to, że na danym terenie pojawi się anomalia.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
+		<text>Odległość anomalii</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
+		<text>Maksymalna odległość pojawiania się anomalii od centrum wyznaczonego terenu.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
+		<text>Minimalna odległość pomiędzy anomaliami</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min_desc">
+		<text>Określa minimalną odległość dzielącą pojawiające się anomalie. W przypadku wybrania ujemnej wartości anomalie będą na siebie zachodzić.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_anomaly_amount_modifier">
+		<text>Mnożnik liczby anomalii</text>
+	</string>
+	<string id="ui_mcm_drx_da_anomaly_amount_modifier_desc">
+		<text>Określa liczbę anomalii jaka ma się pojawiać na danym terenie.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_max_artefacts_per_zone">
+		<text>Maksymalna liczba artefaktów</text>
+	</string>
+	<string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
+		<text>Określa maksymalną liczbę artefaktów jakie mogą się pojawić w powstałej anomalii. </text>
+	</string>
+
+	<string id="ui_mcm_drx_da_artefacts_spawn_chance">
+		<text>Szansa na pojawienie się artefaktów</text>
+	</string>
+	<string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
+		<text>Określa prawdopodobieństwo pojawienia się artefaktu w anomalii.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_random_artefact_spawn_chance">
+		<text>Losowa szansa na artefakty</text>
+	</string>
+	<string id="ui_mcm_drx_da_random_artefact_spawn_chance_desc">
+		<text>To, jakie artefakty mogą się pojawić, określone jest losowo w każdej lokacji. Południowe lokacje obfitują głównie w słabe artefakty, najcenniejsze artefakty pojawiać się będą za to na północy oraz w podziemiach. Istnieje również szansa na pojawienie się cennego artefaktu w dowolnym miejscu w Zonie.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_gravitational_shake_modifier">
+		<text>Mnożnik wstrząsów grawitacyjnych</text>
+	</string>
+	<string id="ui_mcm_drx_da_gravitational_shake_modifier_desc">
+		<text>Modyfikator wstrząsów ekranu w pobliżu anomalii grawitacyjnych.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_electric_field_modifier">
+		<text>Mnożnik pola elektrycznego</text>
+	</string>
+	<string id="ui_mcm_drx_da_electric_field_modifier_desc">
+		<text>Modyfikator uszkodzeń zadawanych przez anomalie energetyczne.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_enable_anomalies_behaviour">
+		<text>Włącz dynamiczne zachowania anomalii</text>
+	</string>
+	<string id="ui_mcm_drx_da_enable_anomalies_behaviour_desc">
+		<text>Określa, czy anomalie będą dynamicznie pojawiać się i znikać na terenie Zony.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_save_after_cleanup">
+		<text>Zapis gry po usunięciu anomalii</text>
+	</string>
+	<string id="ui_mcm_drx_da_save_after_cleanup_desc">
+		<text>Zapisuje grę po każdej emisji, gdy dynamiczne anomalie zostają usunięte z danego terytorium.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_disable_new_anomalies">
+		<text>Wyłącz nowe anomalie</text>
+	</string>
+	<string id="ui_mcm_drx_da_disable_new_anomalies_desc">
+		<text>Wyłącza możliwość pojawiania się nowych anomalii. Opcja zadziała dopiero po ponownym przejściu emisji.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_choose_help">
+		<text>
+			Poniżej można selektywnie włączyć pojawianie się poszczególnych typów anomalii.</text>
+	</string>
+
+	 <string id="ui_mcm_drx_da_zone_mine_radar_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_darkness_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_flash_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_ghost_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_gold_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_green_dragon_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_mefistotel_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_net_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_point_enable">
+	 	<text>Włącz</text>
+	 </string>
+	 <string id="ui_mcm_drx_da_zone_mine_sphere_enable">
+	 	<text>Włącz</text>
+	 </string>
+
+	<string id="ui_mcm_drx_da_delete_dynamic_anomalies">
+		<text>Usuń dynamiczne anomalie</text>
+	</string>
+	<string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
+		<text>Usuwa wszystkie utworzone dynamiczne anomalie z Zony. Opcja zalecana, aby bezpiecznie usunąć mod. Zaznacz tę opcję, zapisz stan rozgrywki, następnie wyłącz grę i usuń mod.</text>
+	</string>
+
+	<string id="ui_mcm_drx_da_debug_mode">
+		<text>Tryb debugowania</text>
+	</string>
+	<string id="ui_mcm_drx_da_debug_mode_desc">
+		<text>Włącza wyświetlanie dodatkowych informacji w konsoli.</text>
+	</string>
+	
+</string_table>

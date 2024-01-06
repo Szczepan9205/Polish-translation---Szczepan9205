@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- Sorter -->
+	<string id="st_gamma_recipe_basic_1">
+		<text>Przewodnik przetrwania Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_1_descr">
+		<text>Zawiera wskazówki dotyczące przetrwania w nieprzyjaznym środowisku, a także przepisy na tworzenie podstawowych przedmiotów związanych z przetrwaniem, takich jak plecaki, płyty kevlarowe, mocowania do pasów, zestawy do gotowania, namioty i śpiwory.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_1">
+		<text>Przewodnik przetrwania Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_1_descr">
+		<text>Zawiera wskazówki dotyczące przetrwania w nieprzyjaznym środowisku, a także przepisy na tworzenie zaawansowanych przedmiotów związanych z przetrwaniem, takich jak plecaki, płyty kevlarowe, mocowania do pasów, zestawy do gotowania, namioty i śpiwory.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_1">
+		<text>Przewodnik przetrwania Vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_1_descr">
+		<text>Zawiera wskazówki dotyczące przetrwania w nieprzyjaznym środowisku, a także przepisy na tworzenie przedmiotów związanych z przetrwaniem, takich jak plecaki, płyty kevlarowe, mocowania do pasów, zestawy do gotowania, namioty i śpiwory.</text>
+	</string>		
+
+	<string id="st_gamma_recipe_basic_2">
+		<text>Podręcznik elektroniki Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_2_descr">
+		<text>Ten podręcznik zawiera wskazówki i plany do tworzenia płytek elektronicznych, chipów i planów. Mogą one zostać wykorzystane do stworzenia podstawowych systemów noktowizji, detektorów artefaktów i pojemników na artefakty.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_2">
+		<text>Podręcznik elektroniki Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_2_descr">
+		<text>Ten podręcznik zawiera wskazówki i plany tworzenia elektronicznych płytek, chipów i planów. Można je wykorzystać do tworzenia zaawansowanych systemów noktowizji, detektorów artefaktów i pojemników na artefakty.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_2">
+		<text>Podręcznik elektroniki Vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_2_descr">
+		<text>Ten podręcznik zawiera wskazówki i plany tworzenia elektronicznych płytek, chipów i planów. Mogą one zostać wykorzystane do stworzenia eksperckich systemów noktowizji, detektorów artefaktów i pojemników na artefakty.</text>
+	</string>		
+	
+	<string id="st_gamma_recipe_basic_3">
+		<text>Podstawy ulepszeń broni i kombinezonów Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_3_descr">
+		<text>Ta kompleksowa książka zawiera wskazówki i plany do tworzenia podstawowych systemów ulepszeń dla broni, kombinezonów i hełmów.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_3">
+		<text>Podstawy ulepszeń broni i kombinezonów Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_3_descr">
+		<text>Ta obszerna książka zawiera wskazówki i plany tworzenia zaawansowanych systemów ulepszeń dla broni, kombinezonów i hełmów.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_3">
+		<text>Podstawy ulepszeń broni i kombinezonów Vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_3_descr">
+		<text>Ta kompleksowa książka zawiera wskazówki i plany tworzenia eksperckich systemów ulepszeń dla broni, kombinezonów i hełmów.</text>
+	</string>		
+		
+	<string id="st_gamma_recipe_basic_4">
+		<text>Sztuka fuzji artefaktów Vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_4_descr">
+		<text>Ta książka zawiera drukowane wersje najnowszych publikacji profesora Sacharowa dotyczących przetapiania i fuzji artefaktów. Zawiera ona kilka przepisów na przetapianie artefaktów za pomocą urządzenia Przetapiacz Artefaktów, które umożliwia łączenie zwykłych artefaktów w ich niezwykłe odmiany.</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_4">
+		<text>Sztuka fuzji artefaktów Vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_4_descr">
+		<text>Ta książka zawiera drukowane wersje najnowszych publikacji profesora Sacharowa dotyczących przetapiania i fuzji artefaktów. Zawiera ona kilka przepisów na przetapianie rzadkich artefaktów za pomocą urządzenia Przetapiacz Artefaktów, które umożliwia łączenie zwykłych artefaktów w ich rzadkie odmiany.</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_4">
+		<text>Sztuka fuzji artefaktów Vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_4_descr">
+		<text>Ta książka zawiera drukowane wersje najnowszych publikacji profesora Sacharowa dotyczących przetapiania i fuzji artefaktów. Zawiera ona kilka przepisów na przetapianie artefaktów, dzięki którym rzadkie artefakty mogą zostać połączone w niezwykle rzadkie i unikalne artefakty.</text>
+	</string>
+	<string id="st_gamma_recipe_ammo_4">
+		<text>Postępy w zastosowaniach wojskowych: Egzoszkielety (poufne)</text>
+	</string>
+    <string id="st_gamma_recipe_ammo_4_descr">
+		<text>Ten bardzo specjalny i rzadki numer "Postępy w zastosowaniach wojskowych" zawiera poufne komunikaty naukowe i podsumowania dotyczące egzoszkieletów opracowane przez liderów rozwoju rozwiązań wojskowych. Te cenne informacje z pewnością pozwolą ci naprawić specyficzne egzoszkielety i egzohełmy znalezione w Zonie.</text>
+	</string>
+	
+</string_table>

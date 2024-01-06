@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>Celownik PSO-1M</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie bronie Układu Warszawskiego\n \n%c[ui_gray_1]PSO (ros. Pricel' Snajpierskij Opticzeskij, Snajperski Celownik Optyczny) to rodzina radzieckich celowników optycznych produkowanych przez Nowosybirski Zakład Produkcji Instrumentów Optycznych. W powszechnym użyciu od 1964 roku, kiedy to został wprowadzony jako standardowy celownik teleskopowy dla karabinu wyborowego SWD. Później zaadaptowano go także do karabinów szturmowych takich jak AK-74 czy AN-94.\n \nCeniony za trwałość, uniwersalność oraz doskonale zaprojektowaną siatkę celowniczą, którą wyposażono w wygodną w użyciu podziałkę pomocną w określaniu odległości. Ten model posiada przybliżenie 4x, co sprawia, że nadaje się on głównie do walk na daleki dystans. Montowany na charakterystycznym montażu bocznym "na jaskółczy ogon", szynie powszechnie stosowanej w krajach byłego Układu Warszawskiego.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PSO-1</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>Celownik 1P29 Tulipan</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie bronie Układu Warszawskiego\n \n%c[ui_gray_1]Celownik USP-1 (indeks 1P29) posiada optykę z układem pryzmatycznym. Kąty widzenia ustawiane są mechanicznie poprzez obracanie korpusu celownika w szynie mocującej. Nie wymaga baterii - ma wbudowane podświetlenie trytowe. Skala dystansu umieszczona na krawędzi pola widzenia celownika pozwala na wyszukiwanie celu o wysokości do 1,5 metra na dystansie do 1200 metrów.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PSU-1</text>
+	</string>
+	
+	<string id="st_addon_scope_ac10632">
+		<text>Celownik Barska ELECTRO SIGHT AC10632</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]wszystkie bronie NATO\n \n%c[ui_gray_1]Barska Electro Sight Multi Reticle Red Dot Sight AC10632 opracowano tak, by stał się najlepszym produktem na rynku celowników kolimatorowych wysokiej jakości. Można go zamocować na każdej broni produkowanej przez państwa NATO i karabinkach AK-12.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>Celownik ACOG 3.5x</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]wszystkie bronie NATO\n \n%c[ui_gray_1]ACOG, czyli Advanced Combat Optical Gunsights (ang. Zaawansowany Bojowy Celownik Optyczny) to nazwa rodziny celowników do broni produkowanych przez firmę Trijicon. Charakteryzują się one wysokiej jakości wykonaniem i wewnętrznym podświetleniem siatki celowniczej wykorzystującym właściwości trytu. Ten model ma stałe powiększenie 3,5x oraz siatkę w stylu USMC (United States Marine Corps).\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]3.5x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]USMC</text>
+	</string>
+	
+	<string id="st_addon_scope_eotech">
+		<text>Celownik EOTech</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]wszystkie bronie NATO\n \n%c[ui_gray_1]Celownik holograficzny dla karabinów szturmowych i pistoletów maszynowych produkowanych przez państwa NATO\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry</text>
+	</string>
+	
+	<string id="st_addon_scope_galil_susat">
+		<text>Celownik Galil 4.0x (SUSAT)</text>
+	</string>
+	<string id="st_addon_scope_galil">
+		<text>Celownik Galil 4.0x</text>
+	</string>
+	<string id="st_addon_scope_galil_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin automatyczny Galil AR\n \n%c[ui_gray_1]Celownik optyczny przeznaczony dla izraelskiego karabinu IMI Galil\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]SUSAT</text>
+	</string>
+	
+	<string id="st_addon_scope_kobra">
+		<text>Celownik EKP 1S-03 Kobra</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie bronie Układu Warszawskiego\n \n%c[ui_gray_1]Celownik Kobra jest otwartym, kolimatorowym urządzeniem optycznym wyświetlającym HUD techniką laserową w celu nałożenia wzoru siatki na filtrującą soczewkę.\n \nZaprojektowany do ścigania szybko poruszających się celów i celów pojawiających się na krótko w czasie walk w zamkniętych przestrzeniach i warunkach miejskich, również w sytuacji słabego oświetlenia. Umożliwia celowanie w warunkach od 104 lx do 10-2 lx (luksów, jednostka natężenia oświetlenia), a więc jest użyteczny w warunkach tak światła dziennego, jak i w blasku księżyca. Kolejną zaletą jest możliwość korzystania z obu oczu do celowania. Efektywny podczas prowadzenia ostrzału z poruszającego się pojazdu.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1] brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry</text>
+	</string>
+	
+	<string id="st_addon_scope_po4x34">
+		<text>Celownik PO4x34</text>
+	</string>
+	<string id="st_addon_scope_po4x34_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] seria OC-14\n \n%c[ui_gray_1]Celownik optyczny dla karabinów serii OC-14.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]4x34</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>Celownik PSO-1M2-01</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie bronie Układu Warszawskiego\n \n%c[ui_gray_1]Celownik PSO-1M2-01 posiada niezwykle efektywny i użyteczny dalmierz opierający się o wysokość, a podziałka jego skali służy do oceny wysokości celu stojącego i leżącego. Dalmierz wysokościowy Simonowa o zasięgu 400 metrów (z dławikiem) posiada szewron przeznaczony dla karabinów zasilanych amunicją kalibru 9x39 mm.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PSO-1-1</text>
+	</string>
+	
+	<string id="st_addon_scope_pu">
+		<text>Celownik PU</text>
+	</string>
+	<string id="st_addon_scope_pu_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] historyczne karabiny rosyjskie\n \n%c[ui_gray_1]Standardowa luneta optyczna w służbie Armii Czerwonej podczas II Wojny Światowej i przez długie lata później. Opracowana, by wspomagać piechotę i precyzyjne karabiny takie jak Mosin-Nagant czy SWT-40. Dzięki powiększeniu 3.5x stanowi dobry wybór do walki na daleki dystans. Tak jak wszystkie projekty radzieckie, jest niezawodny i efektywny. Produkowany do dnia dzisiejszego.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]3.5x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]mierny\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PU</text>
+	</string>
+	
+	<string id="st_addon_scope_zf4">
+		<text>Celownik ZF-4</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] historyczne karabiny niemieckie\n \n%c[ui_gray_1]ZF-4 jest jednym z pierwszych na świecie celowników teleskopowych. Celownik ten, projektu i produkcji niemieckiej z czasów II Wojny Światowej, miał zapewnić piechocie możliwość walki na długich dystansach. Z powodu niedostatecznej ilości wyprodukowanych egzemplarzy stał się towarem deficytowym, używanym głównie przez niemieckich snajperów i elitarne jednostki bojowe. Celownik ten wciąż pozostaje w użyciu ze względu na dużą dostępność modeli broni, dla których był projektowany, dlatego też jest dość powszechnie stosowany także w Zonie.\n \n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]2.0x\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]ZF-41</text>
+	</string>
+	
+	<string id="st_addon_scope_cmore">
+        <text>Celownik C-MORE Tactical Sight</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+        <text>Bardzo wydajny celownik "Red Dot", zapewniający nieograniczone pole widzenia, a przy tym eliminujący zniekształcenia i tunelowe widzenie typowe dla lunet. Seria Railway posiada standardowy uchwyt pozwalający na szybki montaż do większości broni z szynami Weaver lub Picatinny.\n\n
+		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n</text>
+    </string>
+	
+	<string id="st_addon_scope_ac11090">
+        <text>Celownik AC11090 Red Dot Sight</text>
+    </string>
+    <string id="st_addon_scope_ac11090_descr">
+        <text>Tani celownik "Red Dot" z powiększeniem 2x, przeznaczony do karabinów maszynowych i pistoletów maszynowych NATO oraz AK-12.</text>
+    </string>
+	
+	<string id="st_addon_sil_45">
+		<text>Tłumik .45 ACP</text>
+	</string>
+	<string id="st_addon_sil_45_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru .45\n \n%c[ui_gray_1]Tłumik do pistoletów i pistoletów maszynowych zasilanych amunicją .45 ACP.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]bardzo wysokie (pistolety)</text>
+	</string>
+	
+	<string id="st_addon_sil_57">
+		<text>Tłumik 5.7x28</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.7 mm\n \n%c[ui_gray_1]Tłumik dla PDW FN-P90.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+	</string>
+	
+	<string id="st_addon_sil_6p9">
+		<text>Tłumik 6P9</text>
+	</string>
+	<string id="st_addon_sil_6p9_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm\n \n%c[ui_gray_1]Tłumik do pistoletu PB.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]bardzo wysokie</text>
+	</string>
+	
+	<string id="st_addon_sil_9a91">
+		<text>Tłumik 9A-91/WSK-94</text>
+	</string>
+	<string id="st_addon_sil_9a91_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9x39 mm\n \n%c[ui_gray_1]Tłumik do karabinów 9A-91 i WSK-94.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]bardzo wysokie</text>
+	</string>
+	
+	<string id="st_addon_sil_9mm">
+		<text>Tłumik 9mm</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm\n \n%c[ui_gray_1]Tłumik do pistoletów i pistoletów maszynowych zasilanych amunicją 9 mm o dostatecznych osiągach mimo dość archaicznej konstrukcji.\n \nJego wnętrze jest wypełnione ciasno upakowanymi zwojami mosiężnej siatki. Przód tłumika zawiera ciąg przegród pod postacią gumowych pierścieni z otworami o średnicy dostosowanej do kalibru, przez które przechodzi wystrzelony pocisk.\n \nZwyczajowo tłumik ten używany jest w walce na krótki dystans przeciwko lekko opancerzonemu przeciwnikowi oraz przy dokonywaniu zabójstw.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]bardzo wysokie</text>
+	</string>
+	
+	<string id="st_addon_sil_aps">
+		<text>Tłumik APS</text>
+	</string>
+	<string id="st_addon_sil_aps_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm \n \n%c[ui_gray_1]Tłumik do pistoletu OC-33 Piernacz.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+	</string>
+	
+	<string id="st_addon_sil_atg">
+		<text>Tłumik ATG</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.56 mm i 7.62 mm\n \n%c[ui_gray_1]Tłumik do karabinów AK-102, AK-103 i AK-104.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+	</string>
+	
+	<string id="st_addon_sil_gemtech">
+		<text>Tłumik Gemtech</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm, .45\n \n%c[ui_gray_1]Tłumik do pistoletów Glock i FN-FNP.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+	</string>
+	
+	<string id="st_addon_sil_kzrzp">
+		<text>Tłumik KZRZP</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62 mm\n \n%c[ui_gray_1]Tłumik do karabinu snajperskiego SWD.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+	</string>
+	
+	<string id="st_addon_sil_nato">
+		<text>Tłumik NATO</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru .45, 5.56 mm, 7.62 mm\n \n%c[ui_gray_1]Standardowy tłumik NATO do broni zasilanej amunicją 5.56x45 mm.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs1">
+		<text>Tłumik PBS-1</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62 mm\n \n%c[ui_gray_1]Tłumik do bezgłośnego i bezogniowego strzelania z automatu Kałasznikowa kalibru 7.62 mm.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs4">
+		<text>Tłumik PBS-4</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.45 mm\n \n%c[ui_gray_1]Tłumik do karabinu AKS-74U.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+	</string>
+	
+	<string id="st_addon_sil_sr25">
+		<text>Tłumik do SR-25</text>
+	</string>
+	<string id="st_addon_sil_sr25_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62 mm\n \n%c[ui_gray_1]Tłumik do karabinu SR-25.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+	</string>
+	
+	<string id="st_addon_sil_tgp-a">
+		<text>Tłumik TGP-A</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.45 mm\n \n%c[ui_gray_1]Tłumik do karabinów serii AK i karabinów maszynowych RPK-74.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+	</string>
+	
+	<string id="st_addon_sil_vihr">
+		<text>Tłumik do SR-3M</text>
+	</string>
+	<string id="st_addon_sil_vihr_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9x39 mm\n \n%c[ui_gray_1]Tłumik do karabinu SR-3M.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]bardzo wysokie</text>
+	</string>
+	
+	<string id="st_addon_silencer">
+		<text>Małokalibrowy tłumik karabinowy US Army</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.56x45 mm \n \n%c[ui_gray_1]Zaawansowany tłumik karabinowy zaprojektowany i wyprodukowany w Stanach Zjednoczonych, którego duże ilości najwyraźniej "zniknęły" z któregoś z amerykańskich magazynów.\n \nObudowa ze stali wysokiej jakości zawiera cztery komory rozprężne z serią tytanowych przedziałów rozprężania typu Z. Ten model urządzenia wylotowego skutecznie pełni funkcję zarówno tłumika dźwięku, jak i tłumika płomieni. Wymaga sporadycznych zabiegów konserwacyjnych.\n \nTłumiki tego typu dodawane są często do broni małokalibrowych produkowanych na Zachodzie i pozostają w ciągłym użyciu w siłach zbrojnych państw zachodnich.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+	</string>
+	
+	<string id="st_addon_silencer_svu">
+		<text>Tłumik do SWU</text>
+	</string>
+	<string id="st_addon_silencer_svu_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabiny SWU\n \n%c[ui_gray_1]Ten specjalny, trójkomorowy tłumik nie ma na celu całkowitego wyciszenia karabinów SWU, ponieważ korzystający z nich żołnierze rzadko stosują amunicję poddźwiękową. Jego podstawowym zadaniem jest takie wytłumienie dźwięku, żeby wykrycie snajpera przez wroga było utrudnione. Specjalną właściwością tego tłumika jest bardzo skuteczny hamulec wylotowy, który zmniejsza odrzut o około 40%. Powyższe osiągi mają jednak swój koszt: karabin, na którym zamontowano tłumik, cechuje się zdecydowanie mniejszą prędkością wylotową pocisku, co negatywnie wpływa na obrażenia zadawane przez nabój.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]słabe\n \n%c[ui_gray_1]SPECJALNE:\n \n%c[d_red] • %c[ui_gray_2] zmniejszony odrzut</text>
+	</string>
+	
+	<string id="st_addon_trijicon_acog">
+		<text>Celownik ACOG</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wybrane karabiny NATO\n \n%c[ui_gray_1]Odczepiany celownik optyczny przeznaczony dla karabinów NATO. ACOG, czyli Advanced Combat Optical Gunsights (Zaawansowany Bojowy Celownik Optyczny) to nazwa rodziny celowników do broni produkowanych przez firmę Trijicon. Charakteryzują się one wysokiej jakości wykonaniem i wewnętrznym podświetleniem siatki celowniczej wykorzystującym właściwości trytu. Ten model ma stałe powiększenie 2x oraz siatkę w stylu trijicon.\n \n%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]2.0x\n%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry\n%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]trijicon</text>
+	</string>
+	
+</string_table>

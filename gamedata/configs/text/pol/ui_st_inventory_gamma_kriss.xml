@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_kriss">
+		<text>KRISS Vector</text>
+	</string>
+
+	<string id="st_wpn_kriss_descr">
+		<text>KRISS Vector to seria broni oparta na macierzystym projekcie pistoletu maszynowego opracowanym przez amerykańską firmę KRISS USA, dawniej Transformational Defense Industries (TDI). Wykorzystują one niekonwencjonalny system opóźnionego odrzutu w połączeniu z liniową konstrukcją w celu zmniejszenia odczuwalnego odrzutu i wznoszenia się lufy.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA:\n
+		%c[d_purple] • %c[ui_gray_2] celowniki: celowniki NATO oraz Reflex\n
+		%c[d_purple] • %c[ui_gray_2] tłumik: .45 ACP\n
+</text>
+	</string>
+
+</string_table>

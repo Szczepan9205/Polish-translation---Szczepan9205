@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_ground_coffee">
+		<text>Kawa mielona</text>
+	</string>
+	<string id="st_ground_coffee_descr">
+		<text>Kawa mielona gotowa do zaparzenia.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] napój po zaparzeniu\n
+		%c[d_green] • %c[ui_gray_2] stymulant\n
+		%c[d_orange] • %c[ui_gray_2] do zaparzenia wymaga zestawu do gotowania i wody\n
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<string id="ui_inv_outfit_speed">
+		<text>Mnożnik prędkości ruchu</text>
+	</string>
+
+	
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_speed">
+		<text>Prędkość</text>
+	</string>
+	<string id="ui_mcm_menu_speed_title">
+		<text>Kombinezony/broń mają wpływ na prędkość poruszania się</text>
+	</string>
+	<string id="ui_mcm_speed_title">
+		<text>Kombinezony/broń mają wpływ na prędkość poruszania się</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance">
+		<text>Obciążenie wpływa na prędkość</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance_desc">
+		<text>Opcja obciążenia daje bonusy przy lekkim obciążeniu ( mniej niż 25% całkowitego obciążenia) i kary przy ciężkim obciążeniu. (więcej niż 70%).\n \n Ostrzegamy, że włączenie tej opcji spowoduje niedorzeczną prędkość, jeśli podróżujesz lekko.</text>
+	</string>
+	<string id="ui_mcm_speed_weapon">
+		<text>Broń wpływa na prędkość sprintu</text>
+	</string>
+	<string id="ui_mcm_speed_weapon_desc">
+		<text>Jeśli włączone, broń stosuje modyfikator do prędkości sprintu w zależności od typu i wagi.</text>
+	</string>
+	<string id="ui_mcm_speed_debug">
+		<text>(Deweloper) Dodatkowe logowanie w konsoli</text>
+	</string>
+	<string id="ui_mcm_speed_debug_desc">
+		<text>Wypisuje w konsoli jakieś użyteczne bzdury.</text>
+	</string>
+</string_table>

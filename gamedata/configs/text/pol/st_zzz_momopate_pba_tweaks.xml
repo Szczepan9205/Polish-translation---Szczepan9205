@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+
+<string_table>
+	
+	<string id="st_af_sandstone_descr">
+		<text>
+			Artefakt uformowany w ekstremalnych anomaliach termicznych. Nie jest radioaktywny i nie ma żadnych użytecznych właściwości. Zawiera śladowe ilości złota.\n \n
+			%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+			%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
+			%c[d_cyan] • %c[ui_gray_2] nie może zostać umieszczony w pojemniku
+		</text>
+	</string>
+	
+	<string id="st_pba_af_sandstone_perk">
+		<text>
+			%c[0,255,255,255]Atut: %c[d_orange]ZABÓJCZE TEMPO\n
+			%c[d_purple] • %c[ui_gray_2]Zabijanie stalkerów lub mutantów daje ci wielką moc\n
+			%c[d_purple] • %c[ui_gray_2]Wzmocnienia to działa przez 5 sekund\n
+			%c[d_purple] • %c[ui_gray_2]Zwiększa otrzymywane obrażenia o 25%\n
+			%c[d_purple] • 1 KOPIA: Zapewnia wzrost prędkości ruchu\n
+			%c[d_purple] • 2 KOPIE: %c[ui_gray_2]Przyznaje niewielką ogólną regenerację zdrowia\n
+			%c[d_purple] • 3 KOPIE: %c[ui_gray_2]Losowa część ciała nieznacznie odzyskuje zdrowie\n
+			%c[d_purple] • 4 KOPIE: %c[ui_gray_2]Inna losowa część ciała odzyskuje nieco zdrowia\n
+			%c[d_purple] • 5 KOPII: %c[ui_gray_2]Usuwa debuff 25% otrzymanych obrażeń\n
+			%c[d_cyan] • %c[0,255,255,255]Kumuluje się z wieloma artefaktami?: %c[ui_green]TAK\n
+			%c[d_cyan] • %c[0,255,255,255]Malejące zyski?: %c[ui_green]TAK
+		</text>
+	</string>
+
+	<string id="st_pba_af_elektron_perk">
+		<text>
+			%c[0,255,255,255]Atut: %c[d_orange]WYSOKIE NAPIĘCIE\n
+			%c[d_purple] • %c[ui_gray_2]Nadepnięcie na anomalię Elektra naładuje baterie i aktywne urządzenia\n
+			%c[d_purple] • %c[ui_gray_2]Nadepnięcie na anomalię Elektra umożliwia nieskończony sprint przez krótki czas\n
+			%c[d_purple] • %c[ui_gray_2]Posiadanie 5 kopii pozwala naładować baterie egzoszkieletu\n
+			%c[d_cyan] • %c[0,255,255,255]Kumuluje się z wieloma artefaktami?: %c[ui_green]TAK %c[ui_red](ale też nie)
+			%c[d_cyan] • %c[0,255,255,255]Malejące zyski?: %c[ui_gray_2]N.A.\n \n
+		</text>
+	</string>
+
+	<string id="st_pba_af_repei_perk">
+		<text>
+			%c[0,255,255,255]Atut: %c[d_orange]DROBNE SKALECZENIA\n
+			%c[d_purple] • %c[ui_gray_2]Zadajesz 50% mniej obrażeń, ale zyskujesz zdolność zadawania obrażeń od %c[ui_red]krwawienia\n
+			%c[d_purple] • %c[ui_gray_2]Obrażenia od krwawienia są proporcjonalne do obrażeń od broni\n
+			%c[d_purple]• %c[ui_gray_2] increases chance for enemies to surrender\n
+			%c[d_cyan] • %c[0,255,255,255]Kumuluje się z wieloma artefaktami?: %c[ui_green]TAK\n
+			%c[d_cyan] • %c[0,255,255,255]Malejące zyski?: %c[ui_red]NIE
+		</text>
+	</string>
+
+</string_table>

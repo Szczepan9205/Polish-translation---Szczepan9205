@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 15
+- @ Description: Shadow Cascades - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<string_table>
+
+	<!-- Button -->
+	<string id="ui_mcm_ssfx_module_shw_cascades">
+		<text>Kaskady cieni</text>
+	</string>
+
+	<!-- Shadow Cascades Settings -->
+	<string id="ui_mcm_ssfx_module_shw_cascades_title">
+		<text>Ustawienia kaskad cieni</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm">
+		<text>Rozmiar bliskich kaskad</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_1_mcm_desc">
+		<text>Spróbuj użyć niższej wartości rozmiaru, aby poprawić jakość cieni słonecznych.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm">
+		<text>Rozmiar średnio oddalonych kaskad</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_2_mcm_desc">
+		<text>Spróbuj użyć niższej wartości rozmiaru, aby poprawić jakość cieni słonecznych.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm">
+		<text>Rozmiar dalekich kaskad</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_size_3_mcm_desc">
+		<text>Ta kaskada definiuje ostateczną odległość renderowania cieni słonecznych. Niższe wartości poprawią wydajność, wyższe wartości poprawią odległe cienie kosztem wydajności.</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm">
+		<text>Jakość cieni trawy</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_quality_mcm_desc">
+		<text>[ NISKA ] Cienie trawy są renderowane tylko w BLISKIEJ kaskadzie. Domyślne zachowanie z ANOMALY. [ŚREDNIA] Trawa będzie rzucać cienie w kaskadzie BLISKIEJ i ŚREDNIEJ. [WYSOKA ] Cienie trawy będą renderowane we wszystkich kaskadach i promieniach wolumetrycznych słońca. [ULTRA ] Wszystkie światła będą rzucać cienie trawy.</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shw_cascades_low">
+		<text>NISKA ( DOMYŚLNA Z ANOMALY )</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shw_cascades_medium">
+		<text>Średnia</text>
+	</string>
+
+	<string id="ui_mcm_lst_shw_cascades_high">
+		<text>Wysoka</text>
+	</string>
+	
+	<string id="ui_mcm_lst_shw_cascades_ultra">
+		<text>Ultra ( Duży wpływ na wydajność )</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm">
+		<text>Odległość cieni trawy ( Słońce )</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_distance_mcm_desc">
+		<text>Ta wartość dostosowuje odległość renderowania cieni trawy (powstałe od słońca). Wartość jest proporcjonalna do odległości renderowania trawy. Niższe wartości poprawią wydajność.</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm">
+		<text>Maksymalna odległość cieni trawy</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
+		<text>[ TYLKO JAKOŚĆ ULTRA ] Ta wartość dostosowuje odległość renderowania cieni trawy dla świateł bezkierunkowych. Niższe wartości poprawią wydajność, ale możesz zauważyć, kiedy cienie przestaną być renderowane.</text>
+	</string>
+	
+</string_table>

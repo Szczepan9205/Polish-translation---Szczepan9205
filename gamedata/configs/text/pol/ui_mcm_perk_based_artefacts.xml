@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_perk_based_artefacts_title">
+		<text>Artefakty oparte na atutach</text>
+	</string>
+	<string id="ui_mcm_menu_perk_based_artefacts">
+		<text>PBA</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode">
+		<text>Tryb debugowania</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_debug_mode_desc">
+		<text>Włącz spam wiadomości w konsoli</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers">
+		<text>Zezwalaj na artefakty w pojemnikach</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers_desc">
+		<text>Umożliwia artefaktom z profitami w kontenerach korzystanie z ich profitów. Opisy atutów będą nadal dostępne tylko dla artefaktów bez pojemników.</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance">
+		<text>Regularność artefaktów w schowkach</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_treasure_chance_desc">
+		<text>Im mniejsza liczba, tym rzadsze artefakty atutowe będą znajdować się w schowkach.</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation">
+		<text>Degradacja stanu</text>
+	</string>
+	<string id="ui_mcm_perk_based_artefacts_timed_degradation_desc">
+		<text>Co 20 sekund artefakty atutowe będą tracić swój stan o ten procent.</text>
+	</string>
+	
+</string_table>

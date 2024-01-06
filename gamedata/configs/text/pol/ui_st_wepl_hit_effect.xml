@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_wepl_hit_effect_title">
+		<text>Efekty trafień by Wepl</text>
+	</string>
+	<string id="ui_mcm_menu_wepl_hit_effect">
+		<text>Efekty trafień by Wepl</text>
+	</string>
+
+
+	<!-- Main configs -->
+	<string id="ui_mcm_wepl_hit_effect_enable_stalker">
+		<text>Włącz dźwięk przy trafieniu dla gracza</text>
+	</string>
+
+	<string id="ui_mcm_wepl_hit_effect_enable_npc">
+		<text>Włącz dźwięk, gdy gracz trafi postać niezależną</text>
+	</string>
+
+	<string id="ui_mcm_wepl_hit_effect_volume">
+		<text>Głośność dźwięku podczas trafienia</text>
+	</string>
+
+</string_table>

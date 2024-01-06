@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	
+	<string id="red_duty_outpost_trader_concern_hostile_0">
+		<text>Macie tu stalkerów z różnych frakcji. Nie powodują wam problemów?</text>
+	</string>
+	<string id="red_duty_outpost_trader_concern_hostile_1">
+		<text>Nie martw się. Ten obszar jest pod kontrolą Powinności. Ci, którzy są przyjaciółmi Powinności, są tutaj chronieni, a walka wewnątrz jest zabroniona. Więc lepiej nie spraw też kłopotów i sobie.</text>
+	</string>
+	
+	<string id="red_duty_outpost_trader_task_1_name">
+		<text>Wyeliminuj mutanty</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_1_text">
+		<text>Zgodziłem się oczyścić legowisko mutantów dla przywódcy placówki.</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_1_about">
+		<text>Nadal istnieje legowisko mutantów, do likwidacji którego nie przydzielono nam żadnego oddziału. Czy możesz się tym zająć?</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_1_finish">
+		<text>Dobra robota. Kolejna pozycja na liście zadań odhaczona.</text>
+	</string>
+	
+	<string id="red_duty_outpost_trader_task_2_name">
+		<text>Zabij stalkera</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_2_text">
+		<text>Zgodziłem się zająć agresywnym stalkerem dla przywódcy placówki.</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_2_about">
+		<text>Mam cel o wysokim priorytecie, który wymaga usunięcia. Widziano go atakującego lokalnych stalkerów i naukowców. Obiecana jest nagroda dla tego, kto go zlikwiduje.</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_2_finish">
+		<text>Nie lubię zabijania, ale ta szumowina na to zasłużyła... Oto nagroda.</text>
+	</string>
+
+	<string id="red_duty_outpost_trader_task_3_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_3_text">
+		<text>Przywódca placówki poprosił mnie o upolowanie i dostarczenie mu pewnej ilości mięsa mutantów. Muszę mu dostarczyć %s.</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_3_about">
+		<text>Linia zaopatrzeniowa do naszego punktu jest bardzo niebezpieczna. Chcę skupić się bardziej na broni i amunicji, a mniej na rzeczach, które możemy zabezpieczyć w okolicy, takich jak jedzenie. W okolicy jest wiele mutantów, z ciał których można pozyskać jadalne mięso. Zapoluj na nie i przynieś %s. Wtedy otrzymasz ode mnie nagrodę.</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_3_finish">
+		<text>Dobrze, wolę mięso mutantów niż te suche racje MRE. Dobra robota.</text>
+	</string>
+	
+	<string id="red_duty_outpost_trader_task_4_name">
+		<text>Znajdź %s</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_4_text">
+		<text>Naukowcy poszukują rzadkiej części ciała mutanta zwanej %s.</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_4_about">
+		<text>Naukowcy wciąż proszą o %s. Pochodzi od niebezpiecznego mutanta, którego moi chłopcy zazwyczaj rozrywają na strzępy kulami i granatami. Sprawdź, czy możesz zdobyć tą część.</text>
+	</string>
+	<string id="red_duty_outpost_trader_task_4_finish">
+		<text>W końcu ktoś przyniósł próbkę w jednym kawałku!</text>
+	</string>
+
+	
+	<string id="meet_guid_duty_outpost_list_0">
+		<text>Gdzie możesz mnie zaprowadzić?</text>
+	</string>
+	<string id="meet_guid_duty_outpost_list_1">
+		<text>Do Baru w Rostoku za tysiąc, na Skadowsk w Zatonie za dwa tysiące, na Wysypisko za trzy tysiące, nad Jantar za cztery tysiące, do Bazy Wojskowej w Agropromie za pięć tysięcy, do Wioski Kotów w Kordonie za sześć tysięcy i na Wielkie Bagna za sześć tysięcy.</text>
+	</string>
+
+	<string id="travel_guid_duty_outpost_0">
+		<text>Muszę dostać się w pewne miejsce.</text>
+	</string>
+	<string id="travel_guid_duty_outpost_1">
+		<text>Tak, gdzie? </text>
+	</string>
+	<string id="travel_guid_duty_outpost_2">
+		<text>Do Rostoku. %c[d_orange][1000 RU]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_3">
+		<text>Na Zaton. %c[d_orange][2000 RU]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_4">
+		<text>Na Wysypisko. %c[d_orange][3000 RU]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_5">
+		<text>Nad Jantar. %c[d_orange][4000 RU]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_6">
+		<text>Do Agropromu. %c[d_orange][5000 RU]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_7">
+		<text>Do Kordonu. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_8">
+		<text>Na Wielkie Bagna. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_9">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	
+	<string id="travel_guid_duty_outpost_from_others_0">
+		<text>Wiesz gdzie jest placówka w Czerwonym Lesie? Chcę się tam udać.</text>
+	</string>
+	
+	<string id="travel_guid_duty_outpost_from_others_1">
+		<text>Tak. To będzie cię kosztowało %c[d_orange]%s rubli%c[255,160,160,190].</text>
+	</string>
+	<string id="travel_guid_duty_outpost_from_others_2">
+		<text>Zaprowadź mnie tam. %c[d_orange][%s rubli]</text>
+	</string>
+	<string id="travel_guid_duty_outpost_from_others_3">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	
+</string_table>

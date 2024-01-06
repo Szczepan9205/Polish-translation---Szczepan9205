@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<!--
+Overwrites
+colt1911_custom
+-->
+	<string id="st_wpn_svi">
+		<text>Strayer Voigt Infinity</text>
+	</string> 
+	<string id="st_wpn_svi_s">
+		<text>SVI 2011</text>
+	</string>
+	<string id="st_wpn_svi_descr">
+		<text>Strayer-Voigt Inc. jest producentem pistoletów modułowych stylizowanych na M1911, w szczególności Strayer-Voigt Infinity, w skrócie SVI. Jest to pistolet przeznaczony do zawodów, więc jest dość drogi i rzadki, ponieważ nie jest dostępny dla żadnej armii ani przeciętnego obywatela noszącego broń. Jak w ogóle znalazł się w Zonie? Bez wątpienia od tych krzykliwych amerykańskich najemników. Sam pistolet ma tę ogromną zaletę, że posiada własny magazynek Strayer-Voigt, który mieści 15 nabojów. Został on również zmodyfikowany, aby strzelać w 3 seriach w szybkim tempie. Aha, a jeśli nic z tego nie sprawi, że będziesz szczęśliwy, światłowód trytowy będzie, ponieważ jest niebieski. Nie należy jednak oczekiwać takiej samej niezawodności jak w klasycznym 1911.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik: .45 ACP\n
+		</text>
+	</string>
+
+<!--
+Overwrites
+colt1911_camo
+--> 
+	<string id="st_wpn_coonan357">
+		<text>Coonan .357 Magnum Compact</text>
+	</string>
+	<string id="st_wpn_coonan357_s">
+		<text>Coonan .357</text>
+	</string>
+	<string id="st_wpn_coonan357_descr">
+		<text>Coonan .357 Magnum to osobliwy pistolet półautomatyczny wykorzystujący kaliber .357 Magnum w obudowie Colta 1911. Odbywa się to poprzez zmianę lufy, suwadła, rękojeści i magazynka w celu dostosowania do zmiany kalibru. Wygląda na to, że trafił on do Zony dzięki... jakiejś złowrogiej grupie, której sposób pozyskania jest tajemnicą, ale patrząc na to, jak zaniedbany, skontrastowany i lekko uszkodzony jest ten pistolet, może to być nawet nielegalny klon oryginalnego Coonana. Niestety, broń nie jest najlepsza, jeśli chodzi o celność, ale odrzut jest znośny (o ile nie strzelasz szybko), a obsługa jest świetna, jedną z głównych zalet używania tego pistoletu zamiast innych pistoletów .357, takich jak Desert Eagle, jest możliwość noszenia go w ukryciu, waga i lepsza walka w zwarciu.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik: .45 ACP\n	
+		</text>
+	</string>
+
+<!--UNUSED
+
+	<string id="st_wpn_colt1911_classic">
+		<text>Colt M1911 "Classic"</text>
+	</string>
+	<string id="st_wpn_colt1911_classic_s">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_classic_descr">
+		<text>Jest to oryginalny Colt 1911, stworzony przez Johna Mosesa Browninga w 1910 roku i opatentowany w następnym roku, stąd oznaczenie 1911. Wprowadzony do użytku w 1913 roku, jest uważany za pierwszy pistolet samopowtarzalny, który odniósł ogromny sukces, będąc w stanie używać amunicji kalibru .45 ACP i wystrzelić co najmniej 1000 nabojów bezbłędnie. Można powiedzieć, że jest to klasyczny 1911, a nie 1911A1, ponieważ ma mniejszy port wyrzutowy, dłuższy spust, a zwłaszcza chwyt w kształcie rombu, a także magazynek na 7 naboi, zawsze miej go przy sobie. Dzięki czarnemu rynkowi działającemu w Zonie, ten prawdziwy klasyk został nabyty, choć mógł zostać nieco zmodyfikowany, powodzenia w ustaleniu tego. Jeśli zależy ci na celności przy użyciu mocnego kalibru bez zbyt dużego odrzutu, ten pistolet może być dla ciebie, ale najlepiej używać go jako broni zapasowej, ponieważ nie ma możliwości zamontowania tłumika.</text>
+	</string>
+
+	<string id="st_wpn_colt1911a1">
+		<text>Colt M1911A1</text>
+	</string>
+	<string id="st_wpn_colt1911a1_descr">
+		<text>Ulepszony model 1911, po krytyce w czasie I wojny światowej i poza nią, został ponownie wydany dla wojska amerykańskiego w 1924 roku. Jednym z głównych problemów 1911 był młotek, ponieważ osłona była zbyt mała, istniało duże prawdopodobieństwo "ugryzienia młotka". Z tego powodu zastosowano dłuższy "ogon bobra". Zmieniono również chwyt bezpieczeństwa, aby był bardziej ergonomiczny, ma wycięcie w pobliżu szkieletu, aby pomóc w różnych kształtach dłoni, mniejszy spust dla mniejszego użycia siły, szersze celowniki i uproszczone uchwyty w kratkę. Wszystkie te zmiany, niektóre są kontrowersyjne, jak nowy uchwyt bezpieczeństwa i spust, ale osłona młotka i celowniki są dużym ulepszeniem. Po prostu nie można się pomylić z tym pistoletem, chociaż niektórzy nadal wolą oryginalne 1911 i znajdują własne sposoby na uniknięcie wad, takich jak chwytanie go jedną ręką, aby uniknąć obrażeń poprzez odbijanie kurka spustowego.</text>
+	</string>
+
+	<string id="st_wpn_colt1911_tokarev">
+		<text>Russian Contract Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_tokarev_descr">
+		<text>"Rosyjska wersja" pistoletu 1911. Jedyną różnicą jest to, że ma inne oznaczenia, ale wydaje się, że jest to stary wariant, w którym nie ma znaczka cyrylicy wskazującego, że jest to wersja zamówiona z USA do Rosji. Jest identyczny z 1911, ale jedną kluczową i ważną różnicą jest fakt, że magazynek i lufa są nieco zmodyfikowane, co z kolei może być łatwo zmodyfikowane przez dowolnego technika, aby zmienić kaliber z .45 ACP na 7,62x25mm Tokarew.</text>
+	</string>
+
+	<string id="st_up_add_colttokarev_name">
+		<text>Zmiana kalibru na 7.62x25</text>
+	</string>
+
+	<string id="st_up_add_sw645_name">
+		<text>Zmiana kalibru na .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_sw645">
+		<text>Smith and Wesson 659</text>
+	</string>
+	<string id="st_wpn_sw645_descr">
+		<text>Smith and Wesson Model 659 to kompaktowy pistolet 9 mm wyprodukowany w 1981 roku i wycofany z produkcji w 1988 roku, mimo to wielu ludzi z czarnego rynku jest w stanie go zdobyć, nie mówiąc już o nielegalnym wyrobie. S and W 659 jest zbudowany prawie w całości ze stali nierdzewnej, dzięki czemu jest wyjątkowo odporny na trudne warunki atmosferyczne. Ponieważ jest to bardzo łatwe do zrobienia, każdy technik może zmienić kaliber na .45 ACP, przekształcając go w model S and W 645. Ogólnie rzecz biorąc, dobry pistolet zapasowy, jeśli potrzebujesz mniejszej wagi i lepszej walki w zwarciu. \n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2]  tłumik 9x19</text>
+	</string>
+
+	<string id="st_wpn_m45">
+		<text>Colt M45</text>
+	</string>
+	<string id="st_wpn_m45_descr">
+		<text>Nowoczesny wariant M1911, jest standardowym uzbrojeniem bocznym dla Force Recon Element w Morskich Jednostkach Ekspedycyjnych Korpusu Piechoty Morskiej Stanów Zjednoczonych od 1985 roku. Pomysł na lepszy pistolet 1911 pojawił się pod koniec lat 80. za sprawą pułkownika USMC, Roberta Younga. Jest to w zasadzie M1911A1 zmontowany przez wielu producentów, ponieważ ma suwadło od Springfield Armory, wyrzutnik magazynka i zwalniacz od Wilson Combat i wszystko inne od Nowlin Manufacturing. Rezultat, choć brzmi jak opis "potwora Frankensteina", w rzeczywistości tworzy ładny pistolet, który jest lepszy niż 1911. Najemnicy faworyzują go przede wszystkim za to, że jest w dużym stopniu konfigurowalny, a ulepszenia to tylko bonusy.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP</text>
+	</string>
+
+	<string id="st_wpn_m45a1">
+		<text>Colt M45A1</text>
+	</string>
+	<string id="st_wpn_m45a1_descr">
+		<text>Nowoczesny wariant M1911 i ulepszenie M45, jest to standardowa broń boczna dla Force Recon Element Morskich Jednostek Ekspedycyjnych Korpusu Piechoty Morskiej Stanów Zjednoczonych od 1985 roku. W porównaniu do M45, ulepszenia M45A1 obejmują podwójny system sprężyny odrzutu, który rozkłada siłę odrzutu naboju .45 ACP poprzez obniżenie szczytowej siły impulsu odrzutu, 3-punktowe czerwone trytowe celowniki nocne, 5-calową lufę National Match, oburęczne zabezpieczenie, szynę Picatinny na ramie i wykończenie Cerakote w kolorze pustynnej opalenizny. Można się zastanawiać, jak wykończenie Cerakote w kolorze pustynnej opalenizny w ogóle pasuje do Zony, ale może to być duma najemnika. \n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] tłumik .45 ACP</text>
+	</string>
+-->
+
+</string_table>

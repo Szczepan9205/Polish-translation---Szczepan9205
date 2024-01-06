@@ -1,0 +1,29 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+
+	<string id="ui_mcm_gggf_title">
+		<text>Konfiguracja prêdkoœci poruszania siê postaci</text>
+	</string>
+	<string id="ui_mcm_menu_gggf">
+		<text>Gotta Go Fast</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_run">
+		<text>Mno¿nik prêdkoœci biegu</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_run_desc">
+		<text>Mno¿y prêdkoœæ poruszania siê postaci (gdy poruszasz siê bez wciœniêtego ¿adnego innego klawisza) przez okreœlony wspó³czynnik.</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_sprint">
+		<text>Mno¿nik prêdkoœci sprintu</text>
+	</string>
+	<string id="ui_mcm_gggf_gotta_go_fast_sprint_desc">
+		<text>Mno¿y prêdkoœæ sprintu postaci (gdy poruszasz siê z wciœniêtym przyciskiem "Sprint") przez okreœlony wspó³czynnik.</text>
+	</string>
+
+
+</string_table>

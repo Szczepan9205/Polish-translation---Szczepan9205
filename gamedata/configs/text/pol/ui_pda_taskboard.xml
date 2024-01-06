@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_pda_accept_task">
+		<text>Zaakceptuj zadanie</text>
+	</string>
+	<string id="st_pda_refresh_tasks">
+		<text>Odśwież zadania</text>
+	</string>
+	<string id="st_pda_next_task">
+		<text>Następne zadanie</text>
+	</string>
+	<string id="pda_btn_taskboard">
+		<text>Tablica zadań</text>
+	</string>
+	
+	<string id="st_pda_caption_setup_bounty_task">
+		<text>Zadania z nagrodą za czyjąś głowę</text>
+	</string>
+	<string id="st_pda_caption_setup_assault_task">
+		<text>Zadania ze szturmem obozu</text>
+	</string>
+	<string id="st_pda_caption_setup_spy_task">
+		<text>Zadania ratowania szpiegów</text>
+	</string>
+	<string id="st_pda_caption_on_init_delivery_task">
+		<text>Zadania z dostawami</text>
+	</string>
+	<string id="st_pda_caption_setup_measure_task">
+		<text>Zadania pomiarowe</text>
+	</string>
+	<string id="st_pda_caption_on_init_fate_task">
+		<text>Zadania losowe</text>
+	</string>
+	<string id="st_pda_caption_setup_dominance_task">
+		<text>Zadania dominacji</text>
+	</string>
+	<string id="st_pda_caption_setup_fetch_task">
+		<text>Zadania na zdobycie czegoś dla zleceniodawcy</text>
+	</string>
+	<string id="st_pda_caption_script">
+		<text>Zadania skryptowe</text>
+	</string>
+	<string id="st_pda_caption_recover_mutant_data_location">
+		<text>Zadania na odzyskanie urządzeń pomiarowych</text>
+	</string>
+	<string id="st_pda_caption_rest">
+		<text>Inne zadania</text>
+	</string>
+</string_table>

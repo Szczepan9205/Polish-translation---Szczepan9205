@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="ui_mcm_fmode_sound_title">
+		<text>Ogólny dźwięk przełącznika trybu ognia</text>
+	</string>
+	<string id="ui_mcm_menu_fmode_sound">
+		<text>Fire-mode switcher</text>
+	</string>
+	<string id="ui_mcm_fmode_sound_sound">
+		<text>Dźwięk</text>
+	</string>
+	<string id="ui_mcm_fmode_sound_volume">
+		<text>Głośność</text>
+	</string>
+	<string id="ui_mcm_lst_switch_mode_gfmss0">
+		<text>Dźwięk 1</text>
+	</string>
+	<string id="ui_mcm_lst_switch_mode_gfmss1">
+		<text>Dźwięk 2</text>
+	</string>
+	<string id="ui_mcm_lst_switch_mode_gfmss2">
+		<text>Dźwięk 3</text>
+	</string>
+	<string id="ui_mcm_lst_switch_mode_gfmss3">
+		<text>Dźwięk 4</text>
+	</string>
+	<string id="ui_mcm_lst_switch_mode_gfmss4">
+		<text>Dźwięk 5</text>
+	</string>
+	<string id="ui_mcm_lst_switch_mode_gfmss5">
+		<text>Dźwięk 6</text>
+	</string>
+</string_table>

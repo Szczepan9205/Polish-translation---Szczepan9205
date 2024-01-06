@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+  <string id="st_anabiotic_combat">
+      <text>Zażycie anabiotyków w obecności wroga w pobliżu nie jest rozsądne.</text>
+  </string>
+
+   <string id="st_psy_death_scene">
+      <text>Uniknąłeś losu gorszego niż śmierć...</text>
+  </string>
+
+  <string id="st_psy_zombification_scene">
+      <text>Zona dała ci drugą szansę...</text>
+  </string>
+</string_table>

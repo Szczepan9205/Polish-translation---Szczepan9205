@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_placeable_workshop">
+		<text>Przenośny warsztat</text>
+	</string>
+	<string id="st_placeable_workshop_descr">
+		<text>Połączenie rozkładanego stołu, narzędzi warsztatowych i zintegrowanego schowka. Pozwala to stalkerom być bardziej samowystarczalnymi w mniej przyjaznych obszarach, choć jego waga zniechęca do tworzenia w czasie wypraw.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] wartościowy\n
+		%c[d_blue] • %c[ui_gray_2] duża pojemność (zintegrowana)\n
+		%c[d_orange] • %c[ui_gray_2] przydatny do naprawy sprzętu\n</text>
+	</string>
+</string_table>

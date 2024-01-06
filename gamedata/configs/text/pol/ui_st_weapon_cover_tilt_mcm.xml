@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_weapon_cover_tilt_title">
+		<text>Animacje odchylania broni</text>
+	</string>
+	<string id="ui_mcm_menu_weapon_cover_tilt">
+		<text>Odchylanie broni</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enabled">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed">
+		<text>Inercja animacji</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+		<text>Zwiększenie wartości spowoduje spowolnienie animacji</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+		<text>Mnożnik wagi</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+		<text>Zwiększenie wartości spowoduje przyspieszenie animacji.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+		<text>Mnożnik promienia spustu</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+		<text>Mnożnik długości broni</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+		<text>Ta opcja zmienia zależność promienia spustu od długości broni, przy większej wartości będzie większa różnica między bronią krótką i długą</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+		<text>Uwzględnienie dołączonych tłumików dla promienia spustu</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+		<text>Broń z doczepianymi tłumikami po ich założeniu będzie miała zwiększony promień spustu o około 0,1 metra</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+		<text>Dźwięki przy odchylaniu</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x">
+		<text>Pozycja broni w poziomie</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+		<text>&lt; 0 - lewo. &gt; 0 - prawo</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y">
+		<text>Pozycja broni w pionie</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+		<text>&lt; 0 - dół. &gt; 0 - góra.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z">
+		<text>Pozycja broni w przód/tył</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+		<text>&lt; 0 - tył. &gt; 0 - przód</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+		<text>Zmiana odchylenia broni.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+		<text>Kiedy broń jest podniesiona, będzie dodatkowo odchylona o ustawiony stopień dla większej zmienności animacji.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation">
+		<text>Wariacja obracania broni</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+		<text>Kiedy broń jest podniesiona, będzie dodatkowo odchylona o ustawiony stopień dla większej zmienności animacji.</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+		<text>Włączanie manualnego pochylania</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+		<text>Przycisk manualnego pochylania</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<!--
+    Linia fabularna: Ukryte zagrożenie
+	Wersja:   1.0
+    Autor:     Longreed
+	Ostatnia edycja: 06/07/2023 - spolszczenie by Szczepan9205
+-->
+<string_table>
+    
+	<!---------------------- Task 1 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_1_stage_0_title">
+	    <text>Ukryte zagrożenie: początek</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_0_descr">
+	    <text>Dowódca zlecił misję: znaleźć kota w worku... Zapytaj pułkownika Kuzniecowa o szczegóły misji.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_1_title">
+	    <text>Ukryte zagrożenie: ocalały</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_1_descr">
+	    <text>Kuzniecow nie przekazał mi żadnych istotnych informacji dotyczących mojego zadania. Pułkownik polecił mi również sprawdzić, co stało się ze stalkerami w Mrocznym Parowie. Na farmie, która znajduje się na Kordonie, jest stalker, który przeżył atak na Tartak. Będę musiał użyć przebrania, aby z nim porozmawiać.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_2_title">
+	    <text>Ukryte zagrożenie: wróć do pułkownika Kuzniecowa.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_2_descr">
+	    <text>Coś poszło nie tak i stalker nie żyje. Poinformuj Kuzniecowa o niepowodzeniu.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_3_title">
+	    <text>Ukryte zagrożenie: dostań się do tartaku w Mrocznym Parowie</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_3_descr">
+	    <text>Warto rozejrzeć się po tartaku w poszukiwaniu przydatnych informacji, które mogłyby rzucić nieco światła na wydarzenia, które miały tu miejsce w niedalekiej przeszłości.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_4_title">
+	    <text>Ukryte zagrożenie: zbadaj budynek tartaku</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_4_descr">
+	    <text>Warto samemu rozejrzeć się po tartaku, szukając wszelkich przydatnych informacji, które mogłyby rzucić nieco światła na to, co wydarzyło się tutaj w niedalekiej przeszłości.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_5_title">
+	    <text>Ukryte zagrożenie: wróć do pułkownika Kuzniecowa</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_1_stage_5_descr">
+	    <text>Nie znalazłem zbyt wiele, delikatnie mówiąc. Nie ma tu nic więcej do roboty, czas wrócić do dowódcy z raportem.</text>
+	</string>
+	<!---------------------- Zadanie 2 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_2_stage_0_title">
+	    <text>Ukryte zagrożenie: Wyłącz Mózgozwęglacz</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_2_stage_0_descr">
+	    <text>"Mózgozwęglacz" poważnie utrudnia operacje wojskowe na północy. Kuzniecow otrzymał trudne zadanie: rozprawić się z nim. Naukowcy na Jantarze pewnie już znaleźli na to sposób. Trzeba porozmawiać z Sacharowem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_2_stage_1_title">
+	    <text>Ukryte zagrożenie: wróć do pułkownika Kuzniecowa</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_2_stage_1_descr">
+	    <text>Mózgozwęglacz jest wyłączony. Pozostaje zgłosić się do pułkownika.</text>
+	</string>
+	<!---------------------- Zadanie 3 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_3_stage_0_title">
+	    <text>Ukryte zagrożenie: dostań się do fabryki Jupiter</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_0_descr">
+	    <text>Odebrano sygnał "SOS" od oddziału, który Diegtiariow wysłał na tajną misję. Poinformowano, że oddział został zaatakowany na terenie fabryki "Jupiter" przez nieznane jednostki i pilnie potrzebują wsparcia ogniowego.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_1_title">
+	    <text>Ukryte zagrożenie: sprawdź zakłady produkcyjne fabryki "Jupiter"</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_1_descr">
+	    <text>Przy wejściu do fabryki jest pusto, w pomieszczeniach administracyjnych tak samo... Trzeba udać się w głąb zakładów produkcyjnych.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_2_title">
+	    <text>Ukryte zagrożenie: zbadaj ciała napastników</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_2_descr">
+	    <text>Żołnierze nie żyją, nie udało się ich uratować. Jaką misję wykonywali w fabryce, wie tylko Diegtiariow. Nieznani stalkerzy przywitali mnie bardzo ciepło... Szukali czegoś w fabryce. Hmm... Naszywki z nieznanymi mi symbolami. Może pułkownik wie więcej. Powinienem zabrać ze sobą przynajmniej jeden.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_3_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z pułkownikiem Kuzniecowem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_3_stage_3_descr">
+	    <text>Nieznani stalkerzy mieli naszywki z nieznanymi mi symbolami. Być może pułkownik wie o nich coś więcej.</text>
+	</string>
+	<!---------------------- Task 4 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_4_stage_0_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z porucznikiem Kiryłowem</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_0_descr">
+	    <text>Porucznik Kiryłow poprosił mnie, abym się z nim spotkał. Muszę się dowiedzieć, czego ode mnie potrzebuje.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_1_title">
+	    <text>Ukryte zagrożenie: przejmij radiostację wojskową w Dolinie Mroku</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_1_descr">
+	    <text>Wystarczy trochę popracować jako listonosz Peczkin... Myślę, że sobie z tym poradzę. Oddział wojskowych pilnuje wejścia do "X-18" w Dolinie Mroku i czeka na moją przesyłkę.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_2_title">
+	    <text>Ukryte zagrożenie: odeprzyj atak ISG</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_2_descr">
+	    <text>O rany! Zły czas, złe miejsce. Trzeba zorganizować obronę!</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_3_title">
+	    <text>Ukryte zagrożenie: zbadaj ciała atakujących</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_3_descr">
+	    <text>W porządku - jesteśmy żywi i zdrowi, a to dobrze. Muszę zbadać ciała atakujących pod kątem przydatnych informacji.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_4_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z porucznikiem Kiryłowem</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_4_descr">
+	    <text>Znalazłem PDA jednego z najemników ISG, najprawdopodobniej dowódcy grupy. PDA jest zablokowane, ale nasz technik powinien sobie z tym poradzić - niech rzuca nawet zaklęcia, może wyjdzie z tego jakieś hakowanie.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_5_title">
+	    <text>Ukryte zagrożenie: czekaj, aż Kiryłow odblokuje PDA</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_5_descr">
+	    <text>Kiryłowem powiedział, że hakowanie nie zajmie dużo czasu. Dzień lub dłużej. W międzyczasie mogę zająć się własnymi sprawami.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_6_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z porucznikiem Kiryłowem</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_6_descr">
+	    <text>Technik zgłosił mi, że PDA zostało zhakowane.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_7_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z pułkownikiem Kuzniecowem</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_4_stage_7_descr">
+	    <text>Na mapach z PDA były oznaczenia, które już znam - Fabryka Jupiter, Fabryka nad X-18 - to w tych miejscach spotkałem się z ISG. W związku z tym pozostałe znaczniki są również celami ISG, muszę to zgłosić Kuzniecowowi.</text>
+	</string>
+	<!---------------------- Zadanie 5 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_5_stage_0_title">
+	    <text>Ukryte zagrożenie: poznaj sierżanta Gorobeca</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_0_descr">
+	    <text>Sierżant zauważył grupę ISG i poprosił o pomoc. Miejscem spotkania jest Szpital na obrzeżach Prypeci. Nie mam nic innego do roboty, więcej zadań pułkownik mi nie dał.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_1_title">
+	    <text>Ukryte zagrożenie: mysz w pułapce na myszy</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_1_descr">
+	    <text>Brak opisu...</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_2_title">
+	    <text>Ukryte zagrożenie: zlikwiduj snajpera ISG</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_2_descr">
+	    <text>ISG planuje wyeliminować pułkownika Diegtiariowa. Nie ma on żadnych szans, ponieważ grupa zadaniowa ISG została już wysłana dawno temu i prawdopodobnie nie zdążę ostrzec pułkownika. Mogę jednak zaryzykować i zlikwidować snajpera oraz zapobiec "zatrzaśnięciu się pułapki".</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_3_title">
+	    <text>Ukryte zagrożenie: zapewnij wsparcie ogniowe oddziałowi SBU</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_3_descr">
+	    <text>Snajper został wyeliminowany. Oddział SBU, dowodzony przez Diegtiariowa, został zaatakowany przez grupę szturmową ISG, muszę pospieszyć im z pomocą.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_4_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z pułkownikiem Diegtiariowem</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_4_descr">
+	    <text>Grupa ISG została wyeliminowana. Trzeba porozmawiać z pułkownikiem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_5_title">
+	    <text>Ukryte zagrożenie: znajdź walizkę w Domu Towarowym</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_5_descr">
+	    <text>Pułkownik polecił mi odzyskać walizkę pozostawioną przez agenta SBU w Domu Towarowym.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_6_title">
+	    <text>Ukryte zagrożenie: zabierz walizkę na Agroprom</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_5_stage_6_descr">
+	    <text>Diegtiarow czeka na mnie z walizką w bazie wojskowej na Agropromie.</text>
+	</string>
+	<!---------------------- Task 6 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_6_stage_0_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z pułkownikiem Diegtiariowem</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_0_descr">
+	    <text>Otrzymałem rozkaz od pułkownika, wracać do bazy i porozmawiaj z pułkownikiem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_1_title">
+	    <text>Ukryte zagrożenie: podłożyć dyktafon w Martwym Mieście</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_1_descr">
+	    <text>Zadanie nie jest trudne, dostać się do Martwego Miasta i w domu, który stoi samotnie na południowym zachodzie, zostawić dyktafon.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_2_title">
+	    <text>Ukryte zagrożenie: poczekaj 2 dni</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_2_descr">
+	    <text>Dyktafon podłożony. Muszę zaczekać 2 dni i go stamtąd zabrać.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_3_title">
+	    <text>Ukryte zagrożenie: zabrać dyktafon z Martwego Miasta</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_3_descr">
+	    <text>Minęły 2 dni, musisz odebrać dyktafon i oddać go pułkownikowi Diegtiariowowi.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_4_title">
+	    <text>Ukryte zagrożenie: wróć do Diegtiariowa</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_4_descr">
+	    <text>Mam dyktafon, muszę go zabrać do pułkownika Diegtiariowa.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_5_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z dowódcą oddziału na CEA</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_5_descr">
+	    <text>ISG planuje przebić się przez fanatyków na CEA. Najprawdopodobniej już tam są, a moim zadaniem jest trzymać ich z dala od Sarkofagu. Mój oddział wsparcia czeka na mnie w umówionym miejscu.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_6_title">
+	    <text>Ukryte zagrożenie: udaj się na północny zachód od CEA</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_6_descr">
+	    <text>Przy głównym wejściu znalazłem tylko najemników. Nie udało się znaleźć ISG. Dowódca oddziału zgłosił, że jeden z jego zwiadowców zerwał kontakt. Możliwe, że został wykryty i zlikwidowany, Ponieważ główne wejście nie jest naszym głównym celem, warto sprawdzić drogę ze Szpitala.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_7_title">
+	    <text>Ukryte zagrożenie: wyeliminuj oddział ISG</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_7_descr">
+	    <text>Jest tak, jak podejrzewałem. Najemnicy odwracali uwagę głównych sił fanatyków, a grupa ISG po cichu weszła od strony Szpitala, nie zwracając na siebie uwagi. No nic... Do boju!</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_8_title">
+	    <text>Ukryte zagrożenie: zgłoś sukces Diegtiariowi</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_6_stage_8_descr">
+	    <text>Misja została zakończona, grupa ISG została zniszczona, a teraz muszę złożyć raport pułkownikowi.</text>
+	</string>
+	<!---------------------- Zadanie 7 ------------------------------------------->
+	<string id="st_sl_hidden_threat_task_7_stage_0_title">
+	    <text>Ukryte zagrożenie: zgłoś się do pułkownika Kuzniecowa</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_0_descr">
+	    <text>Pod nieobecność Diegtiariowa znów jestem pod rozkazami Kuzniecowowa, ale po co mu ja? Ani dnia spokoju...</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_1_title">
+	    <text>Ukryte zagrożenie: porozmawiaj z majorem Wereszczaginem</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_1_descr">
+	    <text>Powiedzieć, że byłem zaskoczony, to nic nie powiedzieć. Major Wereszczagin to ten sam agent SBU, który uratował mi życie w Prypeci - rozpoznałem go. Co takiego mogło się wydarzyć, że tutaj wylądował?</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_2_title">
+	    <text>Ukryte zagrożenie: dostać się do wejścia do Podziemi Prypeci</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_2_descr">
+	    <text>Najwyższy czas skończyć z ISG. Mój oddział szturmowy czeka na mnie przy wejściu do Podziemi Prypeci, od strony Jupitera.</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_3_title">
+	    <text>Ukryte zagrożenie: wejdź do Podziemi Prypeci</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_3_descr">
+	    <text>Najwyższy czas skończyć z ISG...</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_4_title">
+	    <text>Ukryte zagrożenie: wyeliminuj obecność wroga w podziemiach Prypeci</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_4_descr">
+	    <text>Najwyższy czas położyć kres ISG...</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_5_title">
+	    <text>Ukryte zagrożenie: Zgłoś sukces majorowi Wereszczaginowi</text>
+	</string>
+	<string id="st_sl_hidden_threat_task_7_stage_5_descr">
+	    <text>ISG jest skończone, atak się powiódł, czas złożyć raport majorowi Wereszczaginowi.</text>
+	</string>
+	<!---------------------- Second Task 1 ------------------------------------>
+	<string id="st_sl_hidden_threat_second_task_1_stage_0_title">
+	    <text>[UZ]Południowy posterunek: przekaż dokumenty</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_1_stage_0_descr">
+	    <text>Przekazać raporty księgowe majorowi Żurowowi, znajdującemu się na południowym posterunku w Kordonie.</text>
+	</string>
+	<!---------------------- Second Task 2 ------------------------------------>
+	<string id="st_sl_hidden_threat_second_task_2_stage_0_title">
+	    <text>[UZ]Agroprom: znajdź kuriera</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_2_stage_0_descr">
+	    <text>Sierżant Łożkin otrzymał polecenie odnalezienia kuriera, który zagubił się na drodze do bazy z Wysypiska. Sierżant jest bardziej zainteresowany paczką, którą niósł dla niego kurier niż samym kurierem.</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_2_stage_1_title">
+	    <text>[UZ]Agroprom: Zwróć walizkę Łożkinowi</text>
+	</string>
+	<string id="st_sl_hidden_threat_second_task_2_stage_1_descr">
+	    <text>Sierżant Łożkin otrzymał polecenie odnalezienia kuriera, który zagubił się na drodze do bazy z Wysypiska. Sierżant jest bardziej zainteresowany paczką, którą niósł dla niego kurier niż samym kurierem.</text>
+	</string>
+	<!---------- Tips message ??? "Hidden Threat" ---------------------------->
+	<string id="st_sl_hidden_threat_msg_start">
+	    <text>%s, wymagana jest twoja obecność w bazie. Jest dla ciebie pilne zadanie.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_2_start">
+	    <text>Stalkerze, nasza sprawa to wciąż ślepy zaułek... Ale mamy dla ciebie trudne zadanie. Nasze północne operacje są poważnie utrudnione przez Mózgozwęglacz. Porozmawiaj z Sacharowem na Jantarze i znajdź sposób na jego unieszkodliwienie.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_3_start">
+	    <text>Stalkerze, zajrzyj do mnie, muszę z tobą porozmawiać.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_4_start">
+	    <text>%s, wpadnij do mnie na chwilę, musimy porozmawiać.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_4_stg_6_msg">
+	    <text>%s, co do tego PDA. Wpadnij, mamy coś do omówienia.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_5_start">
+	    <text>Hej %s, dawno się nie widzieliśmy. Zauważyłem grupę ISG, nie mogę pozbyć się ich sam, potrzebuję pomocy. Jeśli masz odwagę, udaj się do Szpitala na obrzeżach Prypeci, może nawet dzięki zdobędziesz nowe pagony u swoich szefów.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_6_start">
+	    <text>Stalkerze %s, masz rozkaz przybyć do bazy i zgłosić się bezpośrednio do mnie.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_task_7_start">
+	    <text>Stalkerze %s, rozkaz natychmiastowego zgłoszenia się do mnie!</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_armistice_title">
+	    <text>Otrzymano:</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_armistice_msg">
+	    <text>%s: wolni stalkerzy - 2 godziny</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_armistice_path">
+	    <text>Rozejm</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_armistice_start">
+	    <text>%s pytał o ciebie. Masz darmową przepustkę do naszych baz na 2 godziny, ale nie rób nic głupiego, jeśli chcesz przeżyć. Nasi chłopcy nie przepadają za ludźmi sprawiającymi kłopoty.</text>
+	</string>
+	<string id="st_sl_hidden_threat_msg_armistice_end">
+	    <text>%s czas rozejmu dobiegł końca.</text>
+	</string>
+	<string id="st_sl_hidden_threat_spooner_notes_title">
+	    <text>Otrzymano:</text>
+	</string>
+	<string id="st_sl_hidden_threat_spooner_notes_descr">
+	    <text>Nowy wpis na PDA: notatka od sierżanta Łożkina</text>
+	</string>
+	<string id="st_sl_hidden_threat_darkvalley_msg_header">
+	    <text>Wojsko</text>
+	</string>
+	<string id="st_sl_hidden_threat_darkvalley_msg_text">
+	    <text>Widzę wroga! Do boju! </text>
+	</string>
+    <!------------------------------------------------------------------------->
+    <string id="st_sl_hidden_threat_map_spot_cf">
+	    <text>Ciekawe miejsce</text>
+	</string>
+
+</string_table>

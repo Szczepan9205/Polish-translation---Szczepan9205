@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_sledge_hammer">
+		<text>Młot kowalski</text>
+	</string>
+
+	<string id="st_sledge_hammer_descr">
+		<text>Tępy, ciężki młot przemysłowy. Kiedyś narzędzie używane do budowy budynków wokół nas, teraz używane do miażdżenia głów tych, którzy się w nich chowali.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] ciężki przedmiot do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] większy zasięg w porównaniu do noży\n</text>
+	</string>
+
+</string_table>

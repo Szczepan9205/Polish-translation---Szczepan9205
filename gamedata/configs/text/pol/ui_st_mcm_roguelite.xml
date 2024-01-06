@@ -1,0 +1,92 @@
+<string_table>
+	<string id="ui_mcm_menu_roguelite">
+		<text>Ironman Roguelite</text>
+	</string>
+
+    <!--Global Settings-->
+    <string id="ui_mcm_roguelite_title">
+        <text>Ustawienia Ironman Roguelite Jabbers'a</text>
+    </string>
+    <string id="ui_mcm_roguelite_global_description">
+        <text>Ustawienia ogólne</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_roguelite_enabled">
+        <text>W³¹czone</text>
+    </string>
+
+    <!--Player Stash Settings-->
+    <string id="ui_mcm_roguelite_stashes_description">
+        <text>Trwa³oœæ schowków gracza</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_stash_restore_enabled">
+        <text>Przywracanie schowków w³¹czone</text>
+    </string>
+    <string id="ui_mcm_roguelite_show_stashes_on_pda">
+        <text>Pokazuj przywrócone schowki gracza na urz¹dzeniu PDA</text>
+    </string>
+    <string id="ui_mcm_roguelite_stash_item_condition_loss_percent">
+        <text>Procentowa utrata kondycji przedmiotu miêdzy kolejnymi przejœciami</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_money_restore_enabled">
+        <text>Przywracanie pieniêdzy w³¹czone</text>
+    </string>
+    
+    <!--Player Corpse Settings-->
+    <string id="ui_mcm_roguelite_drop_player_inventory_description">
+        <text>Trwa³oœæ zw³ok gracza</text>
+    </string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_on_death_enabled">
+        <text>Przywróæ ostatnie zw³oki</text>
+    </string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_item_loss_chance">
+        <text>Procentowa szansa na utratê przedmiotu z ekwipunku</text>
+    </string>
+	<string id="ui_mcm_roguelite_drop_player_inventory_item_loss_chance_desc">
+		<text>Jest to szansa, a nie gwarancja.  Przyk³ad: 25% szansy oznacza, ¿e ka¿dy przedmiot na twoich zw³okach jest rzucany kostk¹ i ma 25% szansy na utratê.</text>
+	</string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_enabled">
+        <text>W³¹czony czas utraty</text>
+    </string>
+    <string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_seconds">
+        <text>Czas utraty (w sekundach) dla maksymalnej procentowej szansy utraty przedmiotu</text>
+    </string>
+	<string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_seconds_desc">
+		<text>Twoje ustawienia to np. Szansa na utratê przedmiotu 25%, Czas utraty przedmiotu 1 godzina.
+Za³ó¿my, ¿e giniesz w Magazynach Wojskowych jako Samotnik.
+Przy nastêpnym uruchomieniu gry dotarcie do Magazynów zajmuje 45 minut, a ty pl¹drujesz swoje zw³oki.
+Procent utraty przedmiotów wyniesie 0,75 * 0,25, poniewa¿ dotarcie do zw³ok zajê³o 3/4 godziny.
+</text>
+	</string>
+
+    <!--Trader Reputation Settings-->
+    <string id="ui_mcm_roguelite_trader_rep_description">
+        <text>Trwa³oœæ reputacji handlarza</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_trader_rep_restore_enabled">
+        <text>Przywróæ reputacjê handlarza</text>
+    </string>
+    <string id="ui_mcm_roguelite_trader_rep_penalty_percent">
+        <text>Procentowa utrata reputacji handlarza miêdzy przejœciami</text>
+    </string>
+
+    <!--Charater Reputation Settings-->
+    <string id="ui_mcm_roguelite_character_rep_description">
+        <text>Trwa³oœæ reputacji postaci</text>
+    </string>
+    <string id="ui_mcm_roguelite_is_character_rep_restore_enabled">
+        <text>Przywracanie reputacji postaci</text>
+    </string>
+    <string id="ui_mcm_roguelite_character_rep_penalty_percent">
+        <text>Utrata % reputacji postaci miêdzy kolejnymi przejœciami</text>
+    </string>
+    <string id="ui_mcm_roguelite_character_rank_penalty_percent">
+        <text>Utrata rangi postaci w % pomiêdzy przejœciami</text>
+    </string>
+    
+    <string id="ui_mcm_roguelite_debug_description">
+        <text>Ustawienia debugowania</text>
+    </string>
+    <string id="ui_mcm_roguelite_debug">
+        <text>Debugowanie</text>
+    </string>
+</string_table>

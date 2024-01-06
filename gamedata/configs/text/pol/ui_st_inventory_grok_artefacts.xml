@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- Sorter -->
+	<string id="st_ui_craft_artefacts_container">
+		<text>Artefakty (w pojemnikach)</text>
+	</string>
+    <string id="st_item_use_empower">
+		<text>Naładuj artefakty</text>
+	</string>
+	<string id="st_item_use_fuse">
+		<text>Dokonaj fuzji artefaktów</text>
+	</string>
+	<string id="st_item_use_craft">
+		<text>Otwórz okno warsztatu</text>
+	</string>	
+    <string id="st_ui_itm_repair_support_grok_artefacts">
+		<text>Artefakt do przetopienia</text>
+	</string>
+    <string id="st_ui_itm_repair_base_grok_artefacts">
+		<text>Artefakt do naładowania</text>
+	</string>
+    <string id="st_melter">
+		<text>Przetapiacz Artefaktów</text>
+	</string>
+    <string id="st_melter_desc">
+		<text>Dziwne i zaawansowane technologicznie urządzenie stworzone przez Pr. Sacharowa. Przetapiacz Artefaktów (PA) umożliwia manipulowanie materiałami artefaktów. Narzędzie to jest zasilane energią utrzymywaną przez artefakty, którą można pozyskać i przechowywać do dalszych zastosowań poprzez ich stopienie. Przetapiacz Artefaktów może również wzmacniać artefakty tego samego rodzaju, a nawet łączyć artefakty różnego rodzaju w celu wygenerowania nowych. Procesy chemiczne i fizyczne nie są jeszcze w pełni zrozumiałe. Ostatnie badania wskazują na zdolność narzędzia do wykorzystania mocy Noosfery. Inne eksperymenty wykazały, że PA działa tylko w Zonie. Odkrycia te szybko skłoniły większość wysoko postawionych stalkerów do zdobycia takiego narzędzia w celu stworzenia silniejszych i droższych artefaktów na czarny rynek lub na własny użytek.
+		    %c[d_orange]Charakterystyka Systemu Operacyjnego Przetapiacza Artefaktów (PA) v2.15a zainstalowanego w tym urządzeniu:\n \n
+		    %c[d_orange] - Przetapianie artefaktów: Przytrzymaj klawisz (lewy alt) i przesuń urządzenie do nad dowolny artefakt, aby go przetopić i napełnić zbiornik PA. Im bardziej unikalny artefakt, tym więcej mocy zostanie odzyskane.
+		    %c[d_orange] - Wzmacnianie artefaktów: Wybierz opcję "wzmocnij artefakty" w menu głównym PA, aby połączyć artefakty tego samego rodzaju i wzmocnić je.
+		    %c[d_orange] - Łączenie artefaktów: Wybierz "fuzja artefaktów" w menu głównym PA i otwórz podmenu receptury, aby wygenerować nowy artefakt z 2 lub więcej artefaktów. Wynikowy artefakt ma średni stan użytych artefaktów. PA zawiera już znane i *bezpieczne* kombinacje artefaktów.
+		    %c[d_orange] - PA ma wbudowane protokoły bezpieczeństwa, aby uniknąć jakichkolwiek awarii. Jeśli narzędzie odmówi działania, upewnij się, że zbiornik PA zawiera więcej niż 10% (1 użycie) jego całkowitej pojemności.\n
+		</text>
+	</string>
+	    <string id="st_grizzly">
+		<text>Detektor Grizzly</text>
+	</string>
+    <string id="st_grizzly_desc">
+		<text>Ten detektor anomalii aktywności jest zaktualizowaną wersją detektora Niedźwiedź i jest w stanie wykryć wszystkie znane sygnatury artefaktów, podobnie jak detektory Swarog lub Weles. Ten ulepszony Niedźwiedź jest szczególnie ceniony przez stalkerów polujących na artefakty w nocy, ponieważ jego prosty wyświetlacz jest kompatybilny z noktowizorami.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] element technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] umiarkowane zużycie energii elektrycznej\n</text>
+	</string>
+	
+</string_table>

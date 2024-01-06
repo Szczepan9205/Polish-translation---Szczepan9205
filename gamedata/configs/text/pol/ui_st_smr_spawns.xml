@@ -1,0 +1,80 @@
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	<string id="ui_mcm_menu_smr_spawns">
+		<text>Szablony spawnu</text>
+	</string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_desc">
+		 <text>Szablony spawnu pozwalaj¹ na wiêksz¹ kontrolê nad losowym odradzaniem siê mutantów. Dziêki nim mo¿esz dostosowaæ, które mutanty pojawiaj¹ siê na których lokacjach i jak d³ugo trwa pojawienie siê silniejszych mutantów w Zonie.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_file">
+      <text>Plik szablonu</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_file_desc">
+      <text>
+      Do³¹czone s¹ nastêpuj¹ce pliki szablonów:\n
+      - Domyœlny: Podobnie jak w przypadku odrodzeñ waniliowych, na ka¿dym poziomie pojawi¹ siê g³ównie mutanty, które pojawiaj¹ siê tam w grze podstawowej.\n
+      - Wszystkie: Wszystkie mutanty mog¹ pojawiaæ siê na wszystkich lokacjach, ale nadal s¹ posortowane wed³ug poziomów.\n
+      - Zrównowa¿ony: Port wartoœci u¿ytych w TheMrDemonized's. "ZCP Kinda Balanced Spawns" dla ZCP 1.4.\n
+      Jeœli dodasz w³asny szablon odradzania, pojawi siê on automatycznie obok do³¹czonych.</text>
+    </string>
+     <string id="ui_mcm_SMR_smr_spawns_preset_apply_random">
+      <text>Zastosuj do losowego spawnu mutantów</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_apply_replaced">
+      <text>Zastosuj do zast¹pionych wy³¹czonych spawnów mutantów</text>
+    </string>
+    <!-- WEEK 0 -->
+    <string id="ui_mcm_smr_spawns_preset_week0_title">
+      <text>Pierwszy tydzieñ</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier1">
+      <text>Szansa poziomu 1</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier2">
+      <text>Szansa poziomu 2</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier3">
+      <text>Szansa poziomu 3</text>
+    </string>
+    <!-- WEEK 1 -->
+    <string id="ui_mcm_smr_spawns_preset_week1_title">
+      <text>Drugi tydzieñ</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier1">
+      <text>Szansa poziomu 1</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier2">
+      <text>Szansa poziomu 2</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier3">
+      <text>Szansa poziomu 3</text>
+    </string>
+    <!-- WEEK 2 -->
+    <string id="ui_mcm_smr_spawns_preset_week2_title">
+      <text>Trzeci tydzieñ</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier1">
+      <text>Szansa poziomu 1</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier2">
+      <text>Szansa poziomu 2</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier3">
+      <text>Szansa poziomu 3</text>
+    </string>
+    <!-- WEEK 3 -->
+    <string id="ui_mcm_smr_spawns_preset_week3_title">
+      <text>Czwarty tydzieñ i kolejne</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier1">
+      <text>Szansa poziomu 1</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier2">
+      <text>Szansa poziomu 2</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier3">
+      <text>Szansa poziomu 3</text>
+    </string>
+  </string_table>

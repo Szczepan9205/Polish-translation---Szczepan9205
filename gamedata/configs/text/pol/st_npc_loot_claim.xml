@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<string id="st_npc_loot_claim_warn_1">
+		<text>Ten łup jest mój! Cofnij się!</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_2">
+		<text>Hej, ten łup jest mój! Odsuń się od niego!</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_3">
+		<text>Odsuń się od niego, ten łup jest mój!</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_4">
+		<text>Nawet o tym nie myśl, rzeczy tego gościa są moje!</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_5">
+		<text>Ręce precz, ten łup jest mój.</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_6">
+		<text>Rzeczy tego gościa należą do nas! Zostaw je w spokoju.</text>
+	</string>
+
+	
+	<string id="st_npc_loot_claim_last_1">
+		<text>Nie będę cię więcej ostrzegał, trzymaj się z dala od tego łupu!</text>
+	</string>
+	<string id="st_npc_loot_claim_last_2">
+		<text>To ostatni raz, kiedy mówię ci, żebyś trzymał się z dala od tego trupa! Zostaw go.</text>
+	</string>
+	<string id="st_npc_loot_claim_last_3">
+		<text>Ostrzegam cię, jeśli spróbujesz ukraść ten łup, otworzymy ogień.</text>
+	</string>
+	<string id="st_npc_loot_claim_last_4">
+		<text>Ostatnia szansa - zostaw ten łup w spokoju.</text>
+	</string>
+	<string id="st_npc_loot_claim_last_5">
+		<text>Ostatnie ostrzeżenie! Nie dotykaj tego trupa, bo będziemy strzelać!</text>
+	</string>
+
+
+	<string id="st_npc_loot_claim_attack_1">
+		<text>Ostrzegaliśmy cię! Nie pozwolimy ci się okraść!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_2">
+		<text>On próbuje ukraść nasze łupy! Otworzyć ogień!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_3">
+		<text>Hej, on próbuje zabrać nasze rzeczy! Brać go!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_4">
+		<text>Zastrzelić tego szabrownika!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_5">
+		<text>Nie myśl, że będziesz nas okradać i ujdzie ci to na sucho!</text>
+	</string>
+	
+	<string id="st_npc_loot_claim_far">
+		<text>Nie znalazłeś nic przydatnego przy tym trupie.</text>
+	</string>
+	
+
+</string_table>

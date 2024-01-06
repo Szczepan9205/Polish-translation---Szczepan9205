@@ -1,0 +1,49 @@
+<string_table>
+	<string id="yan_stalker_sakharov_task_5_name">
+		<text>Oczyœæ Laboratorium X-16 dla Naukowców</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_text">
+		<text>Profesor Sacharow chce, ¿eby ktoœ oczyœci³ Laboratorium X-16 z mutantów, aby jego zespo³y mog³y przeprowadziæ w nim badania.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_about">
+		<text>Drogi stalkerze, mam dla ciebie misjê, jeœli podo³asz takiemu zadaniu. Moi asystenci i zespo³y badawcze musz¹ sprawdziæ pewne anomalie w znalezione w X-16, zwanym równie¿ Laboratorium z Mózgiem lub Machin¹ Cudów, a wed³ug ostatnich badañ, takie laboratoria mog¹ zawieraæ bardzo rzadkie artefakty! G³ównym problemem jest to, ¿e odk¹d tamtejsza instalacja zosta³a wy³¹czona, laboratorium sta³o siê nowym domem dla wielu mutantów. Utrudnia to moje badania, dlatego trzeba oczyœciæ to miejsce z mutantów. Czy móg³byœ nam pomóc?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_5_finish">
+		<text>Wspania³e wieœci! W takim razie wysy³am tam moje zespo³y badawcze i asystentów tak szybko, jak to mo¿liwe, a oto twoja nagroda. Do nastêpnego razu stalkerze.</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_task_6_name">
+		<text>Oczyœæ Podziemia Agropromu dla Naukowców</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_text">
+		<text>Profesor Sacharow chce, aby ktoœ oczyœci³ Podziemia Agropromu z mutantów, aby jego zespo³y mog³y przeprowadziæ tam badania.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_about">
+		<text>Drogi stalkerze, mam dla ciebie misjê, jeœli podo³asz zadaniu. Moi asystenci i zespo³y badawcze musz¹ sprawdziæ pewne anomalie w Podziemiach Agropromu. Wed³ug ostatnich badañ miejsce to zawiera rzadkie artefakty, jednak podziemia te s¹ pe³ne mutantów i s¹ bardzo niebezpieczne! Jeœli moje zespo³y badawcze dowiedz¹ siê, ¿e zosta³y one niedawno oczyszczone przez doœwiadczonego stalkera, myœlê, ¿e bêd¹ mieli wystarczaj¹co du¿o odwagi, aby przeprowadziæ badania w tych podziemnych tunelach. Czy móg³byœ nam pomóc?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_6_finish">
+		<text>Wspania³e wieœci! W takim razie wysy³am tam moje zespo³y badawcze i asystentów tak szybko, jak to mo¿liwe, a oto twoja nagroda. Do nastêpnego razu stalkerze.</text>
+	</string>
+	
+	<string id="esc_2_12_stalker_fanat_task_3_name">
+		<text>Wyeliminuj mutanty na £¹ce</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_3_text">
+		<text>Fanatyk musi oczyœciæ £¹kê z mutantów, aby samotnicy mogli za³o¿yæ tam bazê w najbli¿szej przysz³oœci.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_3_fetch_about">
+		<text>S³uchaj bracie: mamy coraz wiêcej ludzi w Kordonie i chcemy za³o¿yæ bazê na terytorium £¹ki. To przytulne i strategiczne miejsce, jednak pe³ne niebezpiecznych mutantów. Potrzebujemy ¿yczliwej duszyczki, która by³aby w stanie usun¹æ stamt¹d ró¿ne gniazda mutantów. Wchodzisz w to? Oczywiœcie zostaniesz wynagrodzony, bior¹c pod uwagê, jak niebezpieczne jest to miejsce.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_3_fetch_finish">
+		<text>Och, a wiêc pozby³eœ siê mutantów z £¹ki? To naprawdê œwietna wiadomoœæ! Szczerze mówi¹c nie s¹dzi³em, ¿e ci siê uda. To z pewnoœci¹ u³atwi kolejne wyprawy w kierunku £¹ki. Kto wie, mo¿e bêdziemy mogli zacz¹æ budowaæ tam placówkê? Oto twoja nagroda!</text>
+	</string>
+
+	<string id="mechanic_explanation">
+		<text>Bratku, czy ja wygl¹dam jakbym mia³ czas, aby naprawiaæ twój sprzêt? "Zrób to sam", s³ysza³eœ kiedyœ takie powiedzenie? S³ysza³em, ¿e to modne na portalach spo³ecznoœciowych. W ka¿dym razie mo¿esz skorzystaæ z mojego sto³u warsztatowego, który jest obok - za darmo! Mo¿na go ³atwo zlokalizowaæ dziêki zapalonej lampie na blacie. Wszyscy z niego korzystaj¹, a mimo to nikt nie wy³¹cza œwiat³a. Domyœlam siê, ¿e ratowanie planety nie jest g³ównym zmartwieniem wiêkszoœci stalkerów.\n\n
+		Dobra, nie ma sensu zrzêdziæ dlatego pozwól, ¿e dam ci kilka wskazówek i poka¿ê kilka sztuczek.\n\n
+		Po pierwsze, nale¿y pamiêtaæ, ¿e wszystkie czêœci broni mo¿na wymieniaæ bez sto³u warsztatowego ani zestawu naprawczego, z wyj¹tkiem lufy oczywiœcie. Zestawy naprawcze pozwalaj¹ jednak wymieniæ dowoln¹ czêœæ broni na zupe³nie now¹. Tymczasem zestawy czyszcz¹ce pozwalaj¹ na bezpoœrednie czyszczenie zabrudzonych czêœci broni, w tym lufy.\n
+		A teraz, wracaj¹c do tematu - przy stole warsztatowym, mo¿esz naprawiaæ broñ i kombinezony za pomoc¹ odpowiednich zestawów naprawczych. Mo¿esz tak¿e ulepszyæ swój sprzêt i stworzyæ nowy ekwipunek. Aby daæ ci jakiekolwiek pomys³y na tworzenie nowych rzeczy, mam tu kilka planów na sprzeda¿, jeœli chcesz.
+		</text>
+	</string>
+
+</string_table>

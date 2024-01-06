@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_blood_pool_title">
+		<text>Ślady krwi</text>
+	</string>
+	<string id="ui_mcm_menu_blood_pool">
+		<text>Ślady krwi</text>
+	</string>
+
+	<string id="ui_mcm_blood_pool_max_pool_size">
+		<text>Maksymalny rozmiar kałuży krwi</text>
+	</string>
+
+	<string id="ui_mcm_blood_pool_num_of_updates">
+		<text>Liczba aktualizacji</text>
+	</string>
+	<string id="ui_mcm_blood_pool_num_of_updates_desc">
+		<text>Więcej aktualizacji = płynniejszy wzrost rozmiaru (nie zmienia maksymalnego rozmiaru).</text>
+	</string>
+
+	<string id="ui_mcm_blood_pool_update_freq">
+		<text>Częstotliwość aktualizacji (sekundy)</text>
+	</string>
+	<string id="ui_mcm_blood_pool_update_freq_desc">
+		<text>Czas pomiędzy każdą aktualizacją. Mniejszy = szybszy wzrost puli do maksymalnego rozmiaru.</text>
+	</string>
+
+	<string id="ui_mcm_blood_pool_pool_lifetime">
+		<text>Okres widoczności kałuży krwi (w sekundach)</text>
+	</string>
+	<string id="ui_mcm_blood_pool_pool_lifetime_desc">
+		<text>Okres widoczności kałuży krwi od czasu pojawienia się jej ( pool_lifetime - num_of_updates * update_freq = kałuża znika w tym czasie całkowicie).</text>
+	</string>
+
+</string_table>

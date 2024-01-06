@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="ui_mcm_menu_free_zoom">
+		<text>Free Zoom</text>
+	</string>
+	<string id="ui_mcm_free_zoom_key_bind_toggle">
+		<text>Klawisz Free zoom</text>
+	</string>
+	<string id="ui_mcm_free_zoom_key_bind_toggle_desc">
+        <text>Skoncentruj swój wzrok, przybliżając obraz, kosztem szybkości ruchu.
+        </text>
+	</string>
+	
+	<string id="ui_mcm_free_zoom_pistol_mult">
+		<text>Bazowy mnożnik FOV dla pistoletów</text>
+	</string>
+	<string id="ui_mcm_free_zoom_pistol_mult_desc">
+        <text>Skaluje pole widzenia tylko dla pistoletów, zwiększając je, aby pistolety znajdowały się dalej od kamery.</text>
+	</string>
+	<string id="ui_mcm_free_zoom_ads_mult">
+		<text>Mnożnik ADS</text>
+	</string>
+	<string id="ui_mcm_free_zoom_ads_mult_desc">
+        <text>Określa stopień przybliżenia kamery podczas celowania w dół. Zmniejszenie mnożnika zwiększa przybliżenie.</text>
+	</string>
+	<string id="ui_mcm_free_zoom_free_zoom_mult">
+		<text>Mnożnik Free Zoom</text>
+	</string>
+	<string id="ui_mcm_free_zoom_free_zoom_mult_desc">
+        <text>Określa stopień powiększenia widoku po naciśnięciu klawisza przypisanego pod Free Zoom. Zmniejszenie mnożnika zwiększa przybliżenie.</text>
+	</string>
+</string_table>
