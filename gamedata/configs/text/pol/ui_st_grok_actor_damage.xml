@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="ui_inv_ap_res">
-		<text>Klasa BR</text>
+		<text>%c[0,255,255,255]Klasa BR</text>
 	</string>
 </string_table>

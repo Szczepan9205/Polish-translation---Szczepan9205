@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="windows-1250" ?>
+
 <string_table>
+
     <string id="kvartet_1">
         <text>Wszystkie jednostki, tu Kwartet. Nie wykryto żadnych emisji psionicznych, a obecność wroga jest ograniczona. Proszę o pozwolenie na lądowanie na Radarze i rozpoczęcie operacji zwiadowczych. Operacja "Odwet Monolitu" rozpoczęta - wszystkie specjalne zespoły operacyjne i wojskowi stalkerzy, przegrupować się i przygotować do ataku na Elektrownię w Czarnobylu, odbiór.</text>
     </string>
@@ -10,7 +12,8 @@
         <text>Wszystkie jednostki, tu Kwartet. Zdobyliśmy południowy sektor Elektrowni i jesteśmy gotowi do natarcia na sektor północny i oczyszczenia generatorów z wrogich sił. Informujemy, że snajperzy Monolitu zajęli pozycje w sektorze północnym.</text>
     </string>
     <string id="kvartet_4">
-        <text>Tu Kwartet! Przejęliśmy generatory! Misja zakończona! Wszystkie jednostki zająć pozycje i czekać na dalsze instrukcje, odbiór. Co do ciebie, żołnierzu - zbierz wszystkie możliwe informacje z laboratoriów, a następnie zgłoś się do dowództwa.</text>
+        <text>Tu Kwartet! Przejęliśmy generatory! Misja zakończona! Wszystkie jednostki zająć pozycje i czekać na dalsze instrukcje, odbiór.\n \n
+		Co do ciebie, żołnierzu - zbierz wszystkie możliwe informacje z laboratoriów, a następnie zgłoś się do dowództwa.</text>
     </string>
     <string id="kvartet_5">
         <text>Tu Kwartet, rozpoczynamy atak!</text>
@@ -30,4 +33,5 @@
     <string id="cs_task8_news3">
         <text>Gamajun: Stalkerze, według naszych informacji fanatycy kontratakują. Zabij ich wszystkich!</text>
     </string>
+	
 </string_table>

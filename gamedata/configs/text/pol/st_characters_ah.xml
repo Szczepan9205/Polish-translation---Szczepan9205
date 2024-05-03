@@ -1,34 +1,28 @@
 <?xml version = "1.0" encoding = "windows-1250"?>
 
 <string_table>
+
 	<string id = "kovalev_name">
 		<text>Asystent Kowalew</text>
  	</string>
-
 	<string id = "markov_name">
 		<text>Profesor nadzwyczajny Markow</text>
  	</string>
-
 	<string id = "pirogov_name">
 		<text>Kandydat Pirogow</text>
  	</string>
-
 	<string id = "chernov_name">
 		<text>Starszy badacz Czernow</text>
  	</string>
-
 	<string id = "juk_name">
 		<text>Profesor W³adys³aw ¯uk</text>
  	</string>
-
 	<string id = "vorobushkin_name">
 		<text>Profesor nadzwyczajny Worobuszkin</text>
  	</string>
-
 	<string id = "skabinsky_name">
 		<text>Akademik Skabiñski</text>
  	</string>
-
 	<string id = "sarik_name">
 		<text>Sarik Zmierzch</text>
  	</string>
@@ -57,7 +51,7 @@
 		<text>Gamajun</text>
  	</string>
 	<string id="st_gamajun_bio">
-        <text>Cz³onek grupy Wyrzutków Monolitu.</text>
+       <text>Cz³onek grupy Wyrzutków Monolitu.</text>
 	</string>
 	<string id="monolith_pri_b36_smart_terrain_defense_name">
 		<text>Czeburator</text>
@@ -65,4 +59,5 @@
     <string id="st_monolith_pri_b36_smart_terrain_defense_bio">
         <text>Dowódca polowy fanatyków.</text>
     </string>
+
 </string_table>

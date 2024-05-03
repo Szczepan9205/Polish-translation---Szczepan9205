@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
+
 	<string id="st_addon_companion_quick_menu_tooFar">
 		<text>Członkowie drużyny cię nie słyszą. Podejdź bliżej, albo skontaktuj się przez PDA.</text>
 	</string>
@@ -17,7 +19,7 @@
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stealth">
-		<text>SKRADANIE</text>
+		<text>SKRADAĆ SIĘ</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stayClose">
@@ -33,7 +35,7 @@
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
-		<text>ODPOWIADAĆ OGNIEM</text>
+		<text>NIE ATAKOWAĆ, ALE ODPOWIADAĆ OGNIEM</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_ignoreCombat">

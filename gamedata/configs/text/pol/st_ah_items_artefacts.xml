@@ -1,152 +1,185 @@
 <?xml version = "1.0" encoding = "windows-1250"?>
+
 <string_table>
-	<string id = "st_af_ah_o1">
-		<text>Próbka anomalna "Magnes" </text>
-	</string>
-	<string id = "st_af_ah_o1_descr">
-		<text>Prawie uformowany artefakt, sk³adaj¹cy siê ze stopu wykonanego g³ównie z ¿elaza, bizmutu, kadmu i niklu. Stworzony w wyniku anomalii ogniowych. Nie posiada ¿adnych u¿ytecznych w³aœciwoœci i wiêkszoœæ stalkerów uwa¿a go za zwyk³y œmieæ. Jedyn¹ niezwyk³¹ cech¹ tego obiektu jest jego bardzo osobliwy kszta³t torusa. Ze wzglêdu na œladowe iloœci promieniowania, nie nadaje siê jako pami¹tka poza Zon¹ i nie ma znacz¹cej wartoœci.</text>
-	</string>	
 
-	<string id = "st_af_ah_o2">
-		<text>Próbka anomalna "Magnes" </text>
-	</string>
-	<string id = "st_af_ah_o2_descr">
-		<text>Prawie uformowany artefakt, sk³adaj¹cy siê ze stopu wykonanego g³ównie z ¿elaza, bizmutu, kadmu i niklu. Stworzony w wyniku anomalii ogniowych. Nie posiada ¿adnych u¿ytecznych w³aœciwoœci i wiêkszoœæ stalkerów uwa¿a go za zwyk³y z³om. Jedyn¹ niezwyk³¹ cech¹ tego obiektu jest jego bardzo osobliwy kszta³t torusa. Ze wzglêdu na œladowe iloœci promieniowania, nie nadaje siê jako pami¹tka poza Stref¹ i nie ma znacz¹cej wartoœci.</text>
-	</string>	
-	<string id = "st_af_ah_h1">
-		<text>Próbka anomalna "G¹bka" </text>
-	</string>
-	<string id = "st_af_ah_h1_descr">
-		<text>Bladozielona substancja bez okreœlonego kszta³tu i u¿ytecznych w³aœciwoœci. Artefakt ten losowo zmienia stan skupienia ze sta³ego na pó³p³ynny, co czyni go trudnym w obs³udze i przechowywaniu. W przeciwieñstwie do podobnych artefaktów, takich jak "Dusza", maŸ wydzielana przez ten artefakt nie ma ani pozytywnego, ani negatywnego wp³ywu na ludzkie cia³o.</text>
-	</string>	
+<!--
+	ARTEFAKTY
+-->
 
-	<string id = "st_af_ah_h2">
-		<text>Próbka anomalna "G¹bka" </text>
+	<string id = "st_af_ah_s1">
+		<text>Arot-8</text>
 	</string>
-	<string id = "st_af_ah_h2_descr">
-		<text>Bladozielona substancja bez okreœlonego kszta³tu i u¿ytecznych w³aœciwoœci. Artefakt ten losowo zmienia stan skupienia ze sta³ego na pó³p³ynny, co czyni go trudnym w obs³udze i przechowywaniu. W przeciwieñstwie do podobnych artefaktów, takich jak "Dusza", maŸ wydzielana przez ten artefakt nie ma ani pozytywnego, ani negatywnego wp³ywu na ludzkie cia³o, z wyj¹tkiem œladowych iloœci zawartego w nim promieniowania.</text>
+	<string id = "st_af_ah_s1_descr">
+		<text>Eksperymentalny i niestabilny artefakt, stworzony sztucznie. Nie wiadomo, gdzie i w jakich okolicznoœciach powsta³. Wydaje siê poprawiaæ naturalny proces gojenia cia³a, jednak uwalnia przy tym silne impulsy promieniowania. Nie zaleca siê przebywania w pobli¿u tego artefaktu przez d³u¿szy czas.
+		</text>
 	</string>	
 
 	<string id = "st_af_ah_g1">
-		<text>Próbka anomalna "Lekkoœæ" </text>
+		<text>Lekkoœæ</text>
 	</string>
 	<string id = "st_af_ah_g1_descr">
-		<text>Bry³a pomarszczonej gliny i szcz¹tków organicznych. Oddzielenie poszczególnych grudek materia³u wydaje siê niemo¿liwe ze wzglêdu na obecnoœæ nieznanego i niezwykle silnego czynnika wi¹¿¹cego. Niektórzy naukowcy zaproponowali, ¿e artefakt jest utrzymywany razem przez zawarte w nim anomalie grawitacyjne, jednak nie zosta³o to jeszcze udowodnione. Licznik Geigera wydaje siê ledwo wydawaæ dŸwiêk, gdy trzyma siê go blisko tego dziwnego artefaktu.</text>
+		<text>Bry³a pomarszczonej gliny i szcz¹tków organicznych. Oddzielenie poszczególnych grudek materia³u wydaje siê niemo¿liwe ze wzglêdu na obecnoœæ nieznanego i niezwykle silnego czynnika wi¹¿¹cego. Niektórzy naukowcy zaproponowali, ¿e artefakt jest utrzymywany razem przez zawarte w nim anomalie grawitacyjne, jednak nie zosta³o to jeszcze udowodnione. Licznik Geigera wydaje siê ledwo wydawaæ dŸwiêk, gdy trzyma siê go blisko tego dziwnego artefaktu.
+		</text>
 	</string>	
-
 	<string id = "st_af_ah_g2">
-		<text>Próbka anomalna "Lekkoœæ" </text>
+		<text>Lekkoœæ</text>
 	</string>
 	<string id = "st_af_ah_g2_descr">
-		<text>Bry³a pomarszczonej gliny i szcz¹tków organicznych. Oddzielenie poszczególnych grudek materia³u wydaje siê niemo¿liwe ze wzglêdu na obecnoœæ nieznanego i niezwykle silnego czynnika wi¹¿¹cego. Niektórzy naukowcy zaproponowali, ¿e artefakt jest utrzymywany razem przez zawarte w nim anomalie grawitacyjne, jednak nie zosta³o to jeszcze udowodnione. Licznik Geigera wydaje siê ledwo wydawaæ dŸwiêk, gdy trzyma siê go blisko tego dziwnego artefaktu.</text>
+		<text>Bry³a pomarszczonej gliny i szcz¹tków organicznych. Oddzielenie poszczególnych grudek materia³u wydaje siê niemo¿liwe ze wzglêdu na obecnoœæ nieznanego i niezwykle silnego czynnika wi¹¿¹cego. Niektórzy naukowcy zaproponowali, ¿e artefakt jest utrzymywany razem przez zawarte w nim anomalie grawitacyjne, jednak nie zosta³o to jeszcze udowodnione. Licznik Geigera wydaje siê ledwo wydawaæ dŸwiêk, gdy trzyma siê go blisko tego dziwnego artefaktu.
+		</text>
 	</string>	
+
+	<string id = "st_af_ah_o1">
+		<text>Magnes</text>
+	</string>
+	<string id = "st_af_ah_o1_descr">
+		<text>Prawie uformowany artefakt, sk³adaj¹cy siê ze stopu wykonanego g³ównie z ¿elaza, bizmutu, kadmu i niklu. Stworzony w wyniku anomalii ogniowych. Nie posiada ¿adnych u¿ytecznych w³aœciwoœci i wiêkszoœæ stalkerów uwa¿a go za zwyk³y œmieæ. Jedyn¹ niezwyk³¹ cech¹ tego obiektu jest jego bardzo osobliwy kszta³t torusa. Ze wzglêdu na œladowe iloœci promieniowania, nie nadaje siê jako pami¹tka poza Zon¹ i nie ma znacz¹cej wartoœci.
+		</text>
+	</string>	
+	<string id = "st_af_ah_o2">
+		<text>Magnes</text>
+	</string>
+	<string id = "st_af_ah_o2_descr">
+		<text>Prawie uformowany artefakt, sk³adaj¹cy siê ze stopu wykonanego g³ównie z ¿elaza, bizmutu, kadmu i niklu. Stworzony w wyniku anomalii ogniowych. Nie posiada ¿adnych u¿ytecznych w³aœciwoœci i wiêkszoœæ stalkerów uwa¿a go za zwyk³y z³om. Jedyn¹ niezwyk³¹ cech¹ tego obiektu jest jego bardzo osobliwy kszta³t torusa. Ze wzglêdu na œladowe iloœci promieniowania, nie nadaje siê jako pami¹tka poza Stref¹ i nie ma znacz¹cej wartoœci.
+		</text>
+	</string>	
+
+	<string id = "st_af_ah_r1">
+		<text>Grzyb</text>
+	</string>
+	<string id = "st_af_ah_r1_descr">
+		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.
+		</text>
+	</string>	
+	<string id = "st_af_ah_r2">
+		<text>Grzyb</text>
+	</string>
+	<string id = "st_af_ah_r2_descr">
+		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.
+		</text>
+	</string>	
+	<string id = "st_af_ah_r3">
+		<text>Grzyb</text>
+	</string>
+	<string id = "st_af_ah_r3_descr">
+		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.
+		</text>
+	</string>	
+	<string id = "st_af_ah_r4">
+		<text>Grzyb</text>
+	</string>
+	<string id = "st_af_ah_r4_descr">
+		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.
+		</text>
+	</string>	
+	<string id = "st_af_ah_r5">
+		<text>Grzyb</text>
+	</string>
+	<string id = "st_af_ah_r5_descr">
+		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.
+		</text>
+	</string>
 
 	<string id = "st_af_ah_e1">
-		<text>Próbka anomalna "Suwenir" </text>
+		<text>Suwenir</text>
 	</string>
 	<string id = "st_af_ah_e1_descr">
-		<text>Od³amek kwarcu krzemionkowego o niezwyk³ej czystoœci, wynosz¹cej od 99,5% do 99,9%, powsta³y wy³¹cznie w anomaliach elektrycznych. Ze wzglêdu na brak u¿ytecznych w³aœciwoœci, ten piêkny artefakt nie wydaje siê osi¹gaæ wysokiej ceny w Zonie. Jednak zarówno kolekcjonerzy, jak i naukowcy zap³ac¹ wysok¹ cenê za ten wyj¹tkowy drobiazg.</text>
-	</string>	
-
+		<text>Od³amek kwarcu krzemionkowego o niezwyk³ej czystoœci, wynosz¹cej od 99,5% do 99,9%, powsta³y wy³¹cznie w anomaliach elektrycznych. Ze wzglêdu na brak u¿ytecznych w³aœciwoœci, ten piêkny artefakt nie wydaje siê osi¹gaæ wysokiej ceny w Zonie. Jednak zarówno kolekcjonerzy, jak i naukowcy zap³ac¹ wysok¹ cenê za ten wyj¹tkowy drobiazg.
+		</text>
+	</string>
 	<string id = "st_af_ah_e2">
-		<text>Próbka anomalna "Suwenir" </text>
+		<text>Suwenir</text>
 	</string>
 	<string id = "st_af_ah_e2_descr">
-		<text>Od³amek kwarcu krzemionkowego o niezwyk³ej czystoœci, wynosz¹cej od 99,5% do 99,9%, powsta³y wy³¹cznie w anomaliach elektrycznych. Ze wzglêdu na brak u¿ytecznych w³aœciwoœci, ten piêkny artefakt nie wydaje siê osi¹gaæ wysokiej ceny w Zonie. Jednak zarówno kolekcjonerzy, jak i naukowcy zap³ac¹ wysok¹ cenê za ten wyj¹tkowy drobiazg.</text>
-	</string>	
-
-	<string id = "st_af_ah_s1">
-		<text>Sztuczny artefakt "Arot-8" </text>
+		<text>Od³amek kwarcu krzemionkowego o niezwyk³ej czystoœci, wynosz¹cej od 99,5% do 99,9%, powsta³y wy³¹cznie w anomaliach elektrycznych. Ze wzglêdu na brak u¿ytecznych w³aœciwoœci, ten piêkny artefakt nie wydaje siê osi¹gaæ wysokiej ceny w Zonie. Jednak zarówno kolekcjonerzy, jak i naukowcy zap³ac¹ wysok¹ cenê za ten wyj¹tkowy drobiazg.
+		</text>
 	</string>
-	<string id = "st_af_ah_s1_descr">
-		<text>Eksperymentalny i niestabilny artefakt, stworzony sztucznie. Nie wiadomo, gdzie i w jakich okolicznoœciach powsta³. Wydaje siê poprawiaæ naturalny proces gojenia cia³a, jednak uwalnia przy tym silne impulsy promieniowania. Nie zaleca siê przebywania w pobli¿u tego artefaktu przez d³u¿szy czas.</text>
+
+	<string id = "st_af_ah_h1">
+		<text>G¹bka</text>
+	</string>
+	<string id = "st_af_ah_h1_descr">
+		<text>Bladozielona substancja bez okreœlonego kszta³tu i u¿ytecznych w³aœciwoœci. Artefakt ten losowo zmienia stan skupienia ze sta³ego na pó³p³ynny, co czyni go trudnym w obs³udze i przechowywaniu. W przeciwieñstwie do podobnych artefaktów, takich jak "Dusza", maŸ wydzielana przez ten artefakt nie ma ani pozytywnego, ani negatywnego wp³ywu na ludzkie cia³o.
+		</text>
+	</string>	
+	<string id = "st_af_ah_h2">
+		<text>G¹bka</text>
+	</string>
+	<string id = "st_af_ah_h2_descr">
+		<text>Bladozielona substancja bez okreœlonego kszta³tu i u¿ytecznych w³aœciwoœci. Artefakt ten losowo zmienia stan skupienia ze sta³ego na pó³p³ynny, co czyni go trudnym w obs³udze i przechowywaniu. W przeciwieñstwie do podobnych artefaktów, takich jak "Dusza", maŸ wydzielana przez ten artefakt nie ma ani pozytywnego, ani negatywnego wp³ywu na ludzkie cia³o, z wyj¹tkiem œladowych iloœci zawartego w nim promieniowania.
+		</text>
 	</string>	
 
 	<string id = "st_af_ah_f1">
 		<text>Gadaj¹cy kamieñ</text>
 	</string>
 	<string id = "st_af_ah_f1_descr">
-		<text>Nigdy wczeœniej niewidziany artefakt o niezwyk³ych w³aœciwoœciach. Wydaje siê byæ pochodzenia organicznego i jest bardzo symetryczny, co jest niezwyk³¹ cech¹ dla artefaktów znalezionych w Zonie. Zwiêksza wytrzyma³oœæ strukturaln¹ i wytrzyma³oœæ na rozci¹ganie ka¿dego materia³u, z którym siê zetknie, a przyk³adaj¹c go do ucha, mo¿na przysi¹c, ¿e s³yszysz niezrozumia³e szepty.</text>
+		<text>Nigdy wczeœniej niewidziany artefakt o niezwyk³ych w³aœciwoœciach. Wydaje siê byæ pochodzenia organicznego i jest bardzo symetryczny, co jest niezwyk³¹ cech¹ dla artefaktów znalezionych w Zonie. Zwiêksza wytrzyma³oœæ strukturaln¹ i wytrzyma³oœæ na rozci¹ganie ka¿dego materia³u, z którym siê zetknie, a przyk³adaj¹c go do ucha, mo¿na przysi¹c, ¿e s³yszysz niezrozumia³e szepty.
+		</text>
 	</string>	
 
-	<string id = "st_af_ah_r1">
-		<text>Próbka anomalna "Grzyb" </text>
-	</string>
-	<string id = "st_af_ah_r1_descr">
-		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.</text>
-	</string>	
+<!--
+	INNE
+-->
 
-	<string id = "st_af_ah_r2">
-		<text>Próbka anomalna "Grzyb" </text>
-	</string>
-	<string id = "st_af_ah_r2_descr">
-		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.</text>
-	</string>	
-
-	<string id = "st_af_ah_r3">
-		<text>Próbka anomalna "Grzyb" </text>
-	</string>
-	<string id = "st_af_ah_r3_descr">
-		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.</text>
-	</string>	
-	<string id = "st_af_ah_r4">
-		<text>Próbka anomalna "Grzyb" </text>
-	</string>
-	<string id = "st_af_ah_r4_descr">
-		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.</text>
-	</string>	
-	<string id = "st_af_ah_r5">
-		<text>Próbka anomalna "Grzyb" </text>
-	</string>
-	<string id = "st_af_ah_r5_descr">
-		<text>Artefakt znajdowany tylko w Martwym Lesie na po³udnie od Laboratorium X-9 i zawieraj¹cy g³ównie materiê roœlinn¹. Uwa¿a siê, ¿e silne pola psychiczne, którym zosta³ poddany podczas formowania, mia³y du¿y wp³yw na kszta³t i w³aœciwoœci tego artefaktu. Z tego powodu stanowi on wyj¹tkow¹ okazjê do zbadania efektów tych niezrozumia³ych jeszcze zjawisk.</text>
-	</string>	
-	
 	<string id = "st_kovalev_pda_name">
 		<text>Laptop Kowalewa</text>
 	</string>
-
 	<string id = "st_kovalev_pda_descr">
-		<text>Laptop zawiera dane z ostatnich badañ terenowych Kowalewa dotycz¹cych anomalii wokó³ Instytutu Badawczego Agroprom. Wœród plików znajduje siê mapa z dok³adnymi lokalizacjami anomalii, które trzeba zbadaæ.</text>
+		<text>Laptop zawiera dane z ostatnich badañ terenowych Kowalewa dotycz¹cych anomalii wokó³ Instytutu Badawczego Agroprom. Wœród plików znajduje siê mapa z dok³adnymi lokalizacjami anomalii, które trzeba zbadaæ.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
 	</string>	
 	
 	<string id = "st_pirogov_pda_name">
 		<text>PDA asystenta badawczego</text>
 	</string>
-
 	<string id = "st_pirogov_pda_descr">
-		<text>PDA zmar³ego stalkera, który pomóg³ kandydatowi Pirogowowi umieœciæ prototypy w anomaliach wokó³ Wysypiska. Zawiera pozosta³e lokalizacje, które nale¿y zeskanowaæ.</text>
+		<text>PDA zmar³ego stalkera, który pomóg³ kandydatowi Pirogowowi umieœciæ prototypy w anomaliach wokó³ Wysypiska. Zawiera pozosta³e lokalizacje, które nale¿y zeskanowaæ.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
 	</string>		
 	
 	<string id = "st_strelok_pda_name">
 		<text>PDA zmar³ego stalkera</text>
 	</string>
-
 	<string id = "st_strelok_pda_descr">
-		<text>PDA zmar³ego stalkera, który z powodzeniem zmapowa³ anomalie w Czerwonym Lesie, ale zosta³ zaatakowany przez Monolit w drodze powrotnej do naukowców. Wyœwietlacz jest pokryty zaschniêt¹ krwi¹, a niektóre przyciski wydaj¹ siê nie dzia³aæ.</text>
+		<text>PDA zmar³ego stalkera, który z powodzeniem zmapowa³ anomalie w Czerwonym Lesie, ale zosta³ zaatakowany przez Monolit w drodze powrotnej do naukowców. Wyœwietlacz jest pokryty zaschniêt¹ krwi¹, a niektóre przyciski wydaj¹ siê nie dzia³aæ.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
 	</string>		
 
 	<string id = "st_chernov_pda_name">
 		<text>Operacja "Têcza" Raport badawczy nr 9: "O powstawaniu artefaktów" </text>
 	</string>
-
 	<string id = "st_chernov_pda_descr">
-		<text>Pakiet dokumentów z laboratorium X-19. Wiêkszoœæ stron jest zawilgocona i tylko strona tytu³owa jest nadal czytelna. Jednak niektóre zdjêcia i diagramy przetrwa³y i pokazuj¹, ¿e artefakty zosta³y w jakiœ sposób "wyhodowane" na drzewach w lesie na po³udnie od kompleksu X-19.</text>
+		<text>Pakiet dokumentów z laboratorium X-19. Wiêkszoœæ stron jest zawilgocona i tylko strona tytu³owa jest nadal czytelna. Jednak niektóre zdjêcia i diagramy przetrwa³y i pokazuj¹, ¿e artefakty zosta³y w jakiœ sposób "wyhodowane" na drzewach w lesie na po³udnie od kompleksu X-19.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
 	</string>		
 		
 	<string id = "st_vorobushkin_pda_name">
 		<text>Modu³ pamiêci ze Stacji antenowej "Krug" </text>
 	</string>
-
 	<string id = "st_vorobushkin_pda_descr">
-		<text>Stary, ale solidnie zbudowany modu³ pamiêci, odzyskany z opuszczonego kompleksu antenowego Krug. Odrestaurowany i naprawiony przez profesora Worobuszkina, zawiera spektrogram anomalnych emisji wokó³ stacji wraz ze szczegó³ow¹ map¹ ich Ÿróde³.</text>
+		<text>Stary, ale solidnie zbudowany modu³ pamiêci, odzyskany z opuszczonego kompleksu antenowego Krug. Odrestaurowany i naprawiony przez profesora Worobuszkina, zawiera spektrogram anomalnych emisji wokó³ stacji wraz ze szczegó³ow¹ map¹ ich Ÿróde³.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
 	</string>	
 	
 	<string id = "ah_gramota_info">
 		<text>List z pochwa³¹</text>
 	</string>
-
 	<string id = "ah_gramota_desc">
-		<text>Spersonalizowany list z podziêkowaniami, uznaj¹cy moje zas³ugi dla spo³ecznoœci naukowej, podpisany osobiœcie przez profesora Skabiñskiego. Zawiera on równie¿ rekomendacjê zatrudnienia posiadacza tego dokumentu na stanowisku starszego badacza terenowego w Instytucie Naukowym Badañ Anomalii w Czarnobylu.</text>
-	</string>	
+		<text>Spersonalizowany list z podziêkowaniami, uznaj¹cy moje zas³ugi dla spo³ecznoœci naukowej, podpisany osobiœcie przez profesora Skabiñskiego. Zawiera on równie¿ rekomendacjê zatrudnienia posiadacza tego dokumentu na stanowisku starszego badacza terenowego w Instytucie Naukowym Badañ Anomalii w Czarnobylu.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+	
 </string_table>

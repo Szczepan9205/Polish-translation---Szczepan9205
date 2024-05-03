@@ -27,13 +27,21 @@
 	<string id="ui_mcm_demonized_ledge_grabbing_alternativeClimbDetection_desc">
 		<text>Alternatywna metoda bêdzie raycastowaæ na pó³ki znajduj¹ce siê bli¿ej celownika gracza. Standardowa metoda bêdzie emitowaæ promieñ ze sta³ej wysokoœci.</text>
 	</string>
-	
+
 	<string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck">
 		<text>Sprawdzanie granic gracza</text>
 	</string>
 
 	<string id="ui_mcm_demonized_ledge_grabbing_playerWidthCheck_desc">
 		<text>Jeœli w³¹czona, wykona dodatkowy raycast, aby sprawdziæ, czy gracz zmieœci siê w miejscu, na które chce siê wspi¹æ. Mo¿e ograniczyæ to mo¿liwe miejsca do wspinaczki.</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_unstuckCheck">
+		<text>Sprawdzanie czy GG jest zablokowany</text>
+	</string>
+
+	<string id="ui_mcm_demonized_ledge_grabbing_unstuckCheck_desc">
+		<text>Jeœli opcja ta jest w³¹czona, gra spróbuje "odblokowaæ" gracza, jeœli chwytanie siê pó³ki nie powiod³o siê.</text>
 	</string>
 
 	<string id="ui_mcm_demonized_ledge_grabbing_hardcoreMode">
@@ -93,7 +101,7 @@
 	<string id="ui_mcm_demonized_ledge_grabbing_staminaDrain">
 		<text>Spadek wytrzyma³oœci</text>
 	</string>
-	
+
 	<string id="ui_mcm_demonized_ledge_grabbing_inputMethod">
 		<text>Metoda wprowadzania</text>
 	</string>

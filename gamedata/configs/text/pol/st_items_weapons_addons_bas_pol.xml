@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <!--
-	Weapons Attachments
+	DODATKI DO BRONI
 -->
 
 <string_table>
@@ -10,884 +10,1369 @@
 		<text>Celownik PSO-1M</text>
 	</string>
 	<string id="st_addon_scope_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie karabiny Układu Warszawskiego\n \n%c[ui_gray_1]PSO (od Pricel Snajperski Opticzeskij, „Optical Sniper Sight”) to seria sowieckich lunet optycznych produkowanych przez Nowosybirsk Instrument-Making Plant (Państwowy Zakład Optyki NPZ). W powszechnym użyciu od 1964 roku, kiedy to został wprowadzony jako standardowy celownik teleskopowy do karabinu snajperskiego SWD. Luneta została później przystosowana do karabinów szturmowych takich jak AK-74 czy AN-94. Ceniony ze względu na swoją trwałość, wszechstronność oraz bardzo dobrze zaprojektowany wzór celowniczy, charakteryzujący się wygodną skalą dalmierzową. Ten konkretny model typ ma 4,0-krotny współczynnik powiększenia, dzięki czemu nadaje się głównie do walki na dalekie dystanse. Mocowany jest do broni na szynie montażowej typu Jaskółczy Ogon, który jest standardem w krajach Układu Warszawskiego.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
-		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PSO-1</text>
+		<text>PSO (od Pricel Snajperski Opticzeskij, „Optical Sniper Sight”) to seria sowieckich lunet optycznych produkowanych przez Nowosybirsk Instrument-Making Plant (Państwowy Zakład Optyki NPZ). W powszechnym użyciu od 1964 roku, kiedy to został wprowadzony jako standardowy celownik teleskopowy do karabinu snajperskiego SWD. Luneta została później przystosowana do karabinów szturmowych takich jak AK-74 czy AN-94. Ceniony ze względu na swoją trwałość, wszechstronność oraz bardzo dobrze zaprojektowany wzór celowniczy, charakteryzujący się wygodną skalą dalmierzową. Ten konkretny model typ ma 4,0-krotny współczynnik powiększenia, dzięki czemu nadaje się głównie do walki na dalekie dystanse. Mocowany jest do broni na szynie montażowej typu Jaskółczy Ogon, który jest standardem w krajach Układu Warszawskiego.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka NPZ Optics\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255] Wzór siatki celowniczej: %c[ui_gray_1]PSO-1
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_1p29">
 		<text>Celownik 1P29 "Tulipan"</text>
 	</string>
 	<string id="st_addon_scope_1p29_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie karabiny Układu Warszawskiego\n \n%c[ui_gray_1]Celownik USP-1 (indeks 1P29) ma układ optyczny z systemem soczewek pryzmatycznych. Kąty celowania ustawia się mechanicznie, obracając korpus celownika względem wspornika mocowania broni. Nie wymaga baterii, ponieważ jest oświetlony trytem. Skala zasięgu na krawędzi pola widzenia celownika umożliwia wizualne określenie celu o wysokości ok. 1,5 m na dystansie do 1200 m.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
-		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PSU-1</text>
+		<text>Celownik USP-1 (indeks 1P29) ma układ optyczny z systemem soczewek pryzmatycznych. Kąty celowania ustawia się mechanicznie, obracając korpus celownika względem wspornika mocowania broni. Nie wymaga baterii, ponieważ jest oświetlony trytem. Skala zasięgu na krawędzi pola widzenia celownika umożliwia wizualne określenie celu o wysokości ok. 1,5 m na dystansie do 1200 m.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Związek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255] Wzór siatki celowniczej: %c[ui_gray_2]PSU-1
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_ac10632">
 		<text>Celownik Barska ELECTRO SIGHT AC10632</text>
 	</string>
 	<string id="st_addon_scope_ac10632_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]wszystkie karabiny NATO\n \n%c[ui_gray_1]Kolimator Barska Electro Sight Multi Reticle (na podczerwień) AC10632 został opracowany, aby być najlepszym produktem dla każdego, kto szuka wysokiej jakości celowników. Może być montowany na broni NATO i na AK-12.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]brak (kolimator)\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry</text>
+		<text>Kolimator Barska Electro Sight Multi Reticle (na podczerwień) AC10632 został opracowany, aby być najlepszym produktem dla każdego, kto szuka wysokiej jakości celowników. Może być montowany na broni NATO i na AK-12.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Barska\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_acog">
 		<text>Celownik ACOG</text>
 	</string>
 	<string id="st_addon_scope_acog_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]wszystkie karabiny NATO\n \n%c[ui_gray_1]ACOG to skrót od Advanced Combat Optical Gunsights i odnosi się do rodziny lunet celowniczych produkowanych przez firmę Trijicon. Lunety tego typu są zazwyczaj wysokiej jakości i posiadają wewnętrzne oświetlenie siatkowe na bazie trytu. Ten konkretny typ ma siatkę w stylu USMC i regulowane powiększenie.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4x\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry\n
-		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]USMC</text>
+		<text>ACOG to skrót od Advanced Combat Optical Gunsights i odnosi się do rodziny lunet celowniczych produkowanych przez firmę Trijicon. Lunety tego typu są zazwyczaj wysokiej jakości i posiadają wewnętrzne oświetlenie siatkowe na bazie trytu. Ten konkretny typ ma siatkę w stylu USMC i regulowane powiększenie.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4x\n
+		%c[d_cyan] • %c[0,255,255,255] Wzór siatki celowniczej: %c[ui_gray_1]USMC
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_eotech">
 		<text>Celownik EOTech 553</text>
 	</string>
 	<string id="st_addon_scope_eotech_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]wszystkie karabiny NATO\n \n%c[ui_gray_1]Celownik holograficzny do karabinów szturmowych i pistoletów maszynowych NATO.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]brak (kolimator)\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry</text>
+		<text>Celownik holograficzny do karabinów szturmowych i pistoletów maszynowych NATO.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n
+		</text>
 	</string>
 		
 	<string id="st_addon_scope_kobra">
 		<text>Celownik EKP 1S-03 "Kobra"</text>
 	</string>
 	<string id="st_addon_scope_kobra_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie karabiny Układu Warszawskiego\n \n%c[ui_gray_1]Kobra to celownik optyczny a z otwartym kolimatorem, wykorzystująca generowany laserowo HUD do nakładania wzoru celownika na filtrowaną soczewkę. Przeznaczony jest do zwalczania poruszających się celów, przydatny podczas działań w aglomeracji miejskiej, działa efektywnie niezależnie od natężenia światła. Zapewnia wyraźne celowanie od 104 lx do 10-2 lx (światło dzienne, zmierzch i noc), celowanie jedno lub dwuoczne. Skuteczny podczas strzelania w trakcie ruchu.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1] brak (kolimator)\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry</text>
+		<text>Kobra to celownik optyczny a z otwartym kolimatorem, wykorzystująca generowany laserowo HUD do nakładania wzoru celownika na filtrowaną soczewkę. Przeznaczony jest do zwalczania poruszających się celów, przydatny podczas działań w aglomeracji miejskiej, działa efektywnie niezależnie od natężenia światła. Zapewnia wyraźne celowanie od 104 lx do 10-2 lx (światło dzienne, zmierzch i noc), celowanie jedno lub dwuoczne. Skuteczny podczas strzelania w trakcie ruchu.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Axion\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_pso-1m2-01">
 		<text>Celownik PSO-1M2-1</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie karabiny Układu Warszawskiego\n \n%c[ui_gray_1]PSO-1M2-O1 wyposażony jest w niezwykle skuteczny i funkcjonalny dalmierz, z regulowanym przybliżeniem do szacowania odległości od celu, zarówno w pozycji stojącej jak i leżącej. 400-metrowy dalmierz Simonowa z gradientem wysokości (w stylu dławika), ma szynę montażową do karabinów kalibru 9x39 mm.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry\n
-		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PSO-1-1</text>
+		<text>PSO-1M2-O1 wyposażony jest w niezwykle skuteczny i funkcjonalny dalmierz, z regulowanym przybliżeniem do szacowania odległości od celu, zarówno w pozycji stojącej jak i leżącej. 400-metrowy dalmierz Simonowa z gradientem wysokości (w stylu dławika), ma szynę montażową do karabinów kalibru 9x39 mm.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka NPZ Optics\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n
+		%c[d_cyan] • %c[0,255,255,255] Wzór siatki celowniczej: %c[ui_gray_1]PSO-1-1
+		</text>
 	</string>
 		
 	<string id="st_addon_scope_cmore">
         <text>Celownik taktyczny C-MORE</text>
     </string>
     <string id="st_addon_scope_cmore_descr">
-        <text>Wysokowydajny celownik kolimatorowy, który zapewnia nieograniczone pole widzenia, jednocześnie eliminując zniekształcenia i widzenie tunelowe, typowe dla lunet celowniczych. Seria Railway ma fabrycznie zainstalowaną standardową podstawę, aby umożliwić przymocowanie celownika do szyn montażowych Weaver lub Picatinny.\n\n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]brak (kolimator)\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n</text>
+        <text>Wysokowydajny celownik kolimatorowy, który zapewnia nieograniczone pole widzenia, jednocześnie eliminując zniekształcenia i widzenie tunelowe, typowe dla lunet celowniczych. Seria Railway ma fabrycznie zainstalowaną standardową podstawę, aby umożliwić przymocowanie celownika do szyn montażowych Weaver lub Picatinny.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]C-More Systems\n
+		%c[d_cyan] • %c[0,255,255,255] magnification: %c[ui_gray_2]4.0x\n \n
+		</text>
     </string>
 		
 	<string id="st_addon_sil_57">
-		<text>Tłumik 5.7x28</text>
+		<text>Tłumik 5.7x28 mm</text>
 	</string>
 	<string id="st_addon_sil_57_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.7 mm\n \n%c[ui_gray_1]tłumik do FN-P90 PDW i FN Five-seveN.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+		<text>Tłumik do FN-P90 PDW i FN Five-seveN.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Belgia\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n 
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 5.7x28 mm\n
+		</text>
 	</string>
 			
 	<string id="st_addon_sil_9mm">
 		<text>Tłumik 9 mm</text>
 	</string>
 	<string id="st_addon_sil_9mm_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm\n \n%c[ui_gray_1]Tłumik do pistoletów 9 mm. Można go używać także w przypadku broni 9x18mm. Ma bardzo archaiczną budowę, a jednocześnie jest całkiem przydatny. Jego korpus zawiera wewnątrz ciasno upakowaną rolkę drobnej, mosiężnej siatki. Przednia część tłumika składa się z zestawu gumowych przekładek. Zwykle używany do starć z lekko opancerzonymi wrogami.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]bardzo wysokie</text>
+		<text>Tłumik do pistoletów 9 mm. Można go używać także w przypadku broni 9x18 mm. Ma bardzo archaiczną budowę, a jednocześnie jest całkiem przydatny. Jego korpus zawiera wewnątrz ciasno upakowaną rolkę drobnej, mosiężnej siatki. Przednia część tłumika składa się z zestawu gumowych przekładek. Zwykle używany do starć z lekko opancerzonymi wrogami.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Różne kraje\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 9 mm\n
+		</text>
 	</string>
 		
 	<string id="st_addon_sil_atg">
 		<text>Tłumik ATG</text>
 	</string>
 	<string id="st_addon_sil_atg_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.45 mm, 5.56 mm, 7.62 mm\n \n%c[ui_gray_1]Taktyczny tłumik automatyczny (TTA) ma na celu wyciszenie huku oraz ukrycie ognia wylotowego, podczas strzelania z takich broni jak Karabinek Kałasznikowa kal. 5,45 mm, 5,56 mm, 7,62 mm, AK101, AK102, AK103, AK104, AK105, AK74, AKS74 oraz AK74M.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Taktyczny tłumik automatyczny (TTA) ma na celu wyciszenie huku oraz ukrycie ognia wylotowego, podczas strzelania z takich broni jak karabiny Kałasznikowa kalibrów 5,45x39 mm, 5,56x45 mm, 7,62 mm - AK-101, AK-102, AK-103, AK-104, AK-105, AK-74, AKS-74 oraz AK-74M.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 5.56x45 mm i 7.62 mm\n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_gemtech">
 		<text>Tłumik Gemtech</text>
 	</string>
 	<string id="st_addon_sil_gemtech_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm, .45\n \n%c[ui_gray_1]Tłumik do pistoletów takich jak Glock, FN-FNP, Walther itp.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+		<text>Tłumik do pistoletów takich jak Glock, FN-FNP, Walther itp.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 9 mm i .45 ACP\n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_kzrzp">
 		<text>Tłumik KZRZP</text>
 	</string>
 	<string id="st_addon_sil_kzrzp_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62 mm\n \n%c[ui_gray_1]Tłumik do karabinu snajperskiego SWD.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik do karabinu snajperskiego SWD.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 7.62 mm\n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_nato">
 		<text>Tłumik NATO</text>
 	</string>
 	<string id="st_addon_sil_nato_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru .45, 5.56 mm, 7.62 mm\n \n%c[ui_gray_1]Tłumik do standardowych karabinów NATO kaliber 5,56x45 mm.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+		<text>Tłumik do standardowych karabinów NATO kaliber 5,56x45 mm.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Belgia\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru .45 ACP, 5.56x45 mm i 7.62 mm\n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs1">
 		<text>Tłumik PBS-1</text>
 	</string>
 	<string id="st_addon_sil_pbs1_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62 mm\n \n%c[ui_gray_1]Tłumik do bezgłośnego i bezpłomieniowego strzelania z Kałasznikowa 7,62 mm.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik do bezgłośnego i bezpłomieniowego strzelania z karabinów Kałasznikowa kalibru 7,62 mm.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 7.62 mm\n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs4">
 		<text>Tłumik PBS-4</text>
 	</string>
 	<string id="st_addon_sil_pbs4_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.45 mm\n \n%c[ui_gray_1]Tłumik do karabinu AKS-74U.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik do karabinu AKS-74U.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 5.45 mm\n
+		</text>
 	</string>
 		
 	<string id="st_addon_sil_tgp-a">
 		<text>Tłumik TGP-A</text>
 	</string>
 	<string id="st_addon_sil_tgp-a_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.45 mm\n \n%c[ui_gray_1]Tłumik do karabinów serii AK i karabinów maszynowych RPK-74.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik do karabinów serii AK i karabinów maszynowych RPK-74.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 5.45 mm\n
+		</text>
 	</string>
 		
 	<string id="st_addon_silencer">
 		<text>Tłumik do karabinów małokalibrowych US Army</text>
 	</string>
 	<string id="st_addon_silencer_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 5.56x45 mm \n \n%c[ui_gray_1]Zaawansowany tłumik amerykańskiej produkcji, który najwyraźniej „zniknął” z jednego z pojemników zaopatrzeniowych armii amerykańskiej. Składa się z korpusu ze stali wysokiej jakości, wypełnionego czterema komorami wysuwanymi, za którymi znajduje się szereg przegród tytanowych typu Z. Urządzenie prawie całkowicie redukuje ogień wylotowy i znacznie tłumi dźwięk emitowany podczas strzelania. Tłumiki tego typu i podobnych są powszechnie stosowane we wszystkich małokalibrowych karabinach produkcji zachodniej i pozostają w użyciu w zachodnich siłach zbrojnych.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Zaawansowany tłumik amerykańskiej produkcji, który najwyraźniej „zniknął” z jednego z pojemników zaopatrzeniowych armii amerykańskiej. Składa się z korpusu ze stali wysokiej jakości, wypełnionego czterema komorami wysuwanymi, za którymi znajduje się szereg przegród tytanowych typu Z. Urządzenie prawie całkowicie redukuje ogień wylotowy i znacznie tłumi dźwięk emitowany podczas strzelania. Tłumiki tego typu i podobnych są powszechnie stosowane we wszystkich małokalibrowych karabinach produkcji zachodniej i pozostają w użyciu w zachodnich siłach zbrojnych.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 5.56x45 mm \n
+		</text>
 	</string>
 		
 	<string id="st_addon_trijicon_acog">
 		<text>Celownik ACOG</text>
 	</string>
 	<string id="st_addon_trijicon_acog_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wybrane karabiny NATO\n \n%c[ui_gray_1]Odpinana luneta optyczna wykonana specjalnie do karabinów NATO. ACOG to skrót od Advanced Combat Optical Gunsights i odnosi się do rodziny lunet celowniczych produkowanych przez firmę Trijicon. Lunety tego typu są zazwyczaj wysokiej jakości i posiadają wewnętrzne oświetlenie siatkowe na bazie trytu. Ten szczególny typ ma nowoczesny wzór siatki celowniczej typu „Trijicon” i stałe powiększenie 2,0x.\n \n%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]2.0x\n%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]bardzo dobry\n%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]Trijicon</text>
+		<text>Odpinana luneta optyczna wykonana specjalnie do karabinów NATO. ACOG to skrót od Advanced Combat Optical Gunsights i odnosi się do rodziny lunet celowniczych produkowanych przez firmę Trijicon. Lunety tego typu są zazwyczaj wysokiej jakości i posiadają wewnętrzne oświetlenie siatkowe na bazie trytu. Ten szczególny typ ma nowoczesny wzór siatki celowniczej typu „Trijicon” i stałe powiększenie 2,0x.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]2.0x\n
+		%c[d_cyan] • %c[0,255,255,255] Wzór siatki celowniczej: %c[ui_gray_1]Trijicon
+		</text>
 	</string>
 	
-		<string id="st_addon_scope_okp-7">
+	<string id="st_addon_scope_okp-7">
 		<text>Celownik OKP-7 (szyna montażowa montażowa Jaskółczy Ogon)</text>
 	</string>
 	<string id="st_addon_scope_okp-7_descr">
-		<text>Celownik ten może być montowany na dowolnej szynie montażowej, ale w razie potrzeby może zostać zamontowany za pomocą standardowych mocowań mechanicznych. Główną cechą celownika jest instalacja reflektora bez mechanicznej ramki. Ochronę odbłyśnika w ekstremalnych warunkach zapewnia cienki i wytrzymały metalowy daszek, który praktycznie nie przeszkadza w strzelaniu.</text>
+		<text>Celownik ten może być montowany na dowolnej szynie montażowej, ale w razie potrzeby może zostać zamontowany za pomocą standardowych mocowań mechanicznych. Główną cechą celownika jest instalacja reflektora bez mechanicznej ramki. Ochronę odbłyśnika w ekstremalnych warunkach zapewnia cienki i wytrzymały metalowy daszek, który praktycznie nie przeszkadza w strzelaniu.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_rmr">
 		<text>Celownik Trijicon RMR (na podczerwień)</text>
 	</string>
 	<string id="st_addon_scope_rmr_descr">
-		<text>Trijicon RMR (RMR) to kompaktowy kolimator, zasilany standardową baterią CR2032. Mieszczący się w wytrzymałej, aluminiowej obudowie, jest niezwykle trwały, a jednocześnie lekki. Łatwe w użyciu regulatory ze słyszalnymi kliknięciami pozwalają na szybką regulację nawiewu i elewacji. Dzięki ośmiu dostępnym ustawieniom jasności siatka może być regulowana ręcznie, naciskając przyciski plus lub minus po obu stronach urządzenia. Aby przejść do trybu automatycznej regulacji, po prostu naciśnij oba przyciski jednocześnie.</text>
+		<text>Trijicon RMR (RMR) to kompaktowy kolimator, zasilany standardową baterią CR2032. Mieszczący się w wytrzymałej, aluminiowej obudowie, jest niezwykle trwały, a jednocześnie lekki. Łatwe w użyciu regulatory ze słyszalnymi kliknięciami pozwalają na szybką regulację nawiewu i elewacji. Dzięki ośmiu dostępnym ustawieniom jasności siatka może być regulowana ręcznie, naciskając przyciski plus lub minus po obu stronach urządzenia. Aby przejść do trybu automatycznej regulacji, po prostu naciśnij oba przyciski jednocześnie.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_aimpoint">
-		<text>Celownik Aimpoint (na podczerwień, wysoka przekładka)</text>
+		<text>Celownik Aimpoint (Red Dot)</text>
 	</string>
 	<string id="st_addon_scope_aimpoint_descr">
-		<text>Bez względu na wykonywaną misję, rozmiar i waga sprzętu mają kluczowe znaczenie. Wraz z Aimpoint® Micro T-1, Aimpoint wprowadził system celowania, który zapewnia wysoką efektywność zamkniętą w małej obudowie. Od czasu wprowadzenia na rynek w 2007 roku, Aimpoint® Micro T-1 stał się bardzo popularny na całym świecie ze względu na swój rozmiar, niewielką wagę i solidną jakość wykonania
-• Brak paralaksy
-• Nieograniczony odstęp od oka
-• Odporność na ekstremalne warunki pogodowe
-• Niezwykle wytrzymała, trwała konstrukcja
-• Brak niebezpiecznych materiałów
-• Brak emisji lasera, która mogłaby być szkodliwa dla oczu
-• Zwiększona pewność celowania i prawdopodobieństwo trafienia
-• Krótszy czas treningu i mniejsze zużycie amunicji
-• Żywotność baterii mierzona w latach.</text>
+		<text>Bez względu na wykonywaną misję, rozmiar i waga sprzętu mają kluczowe znaczenie. Wraz z Aimpoint® Micro T-1, Aimpoint wprowadził system celowania, który zapewnia wysoką efektywność zamkniętą w małej obudowie. Od czasu wprowadzenia na rynek w 2007 roku, Aimpoint® Micro T-1 stał się bardzo popularny na całym świecie ze względu na swój rozmiar, niewielką wagę i solidną jakość wykonania.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_ekp8_02">
-		<text>Celownik EKP 8-02 "Kobra" (na podczerwień)</text>
+		<text>Celownik EKP 8-02 "Kobra" (Red Dot)</text>
 	</string>
 	<string id="st_addon_scope_ekp8_02_descr">
-		<text>Celownik "Kobra" zapewnia dokładne celowanie w warunkach działania naturalnego światła słonecznego, dzięki posiadaniu 16 poziomów ręcznej regulacji jasności znacznika celowniczego. Umiejscowienie znaku celowniczego i tarczy w tej samej płaszczyźnie pozwala na celowanie zarówno jednym, jak i obojgiem oczu, co stwarza nieograniczone pole widzenia dla strzelca oraz umożliwia prowadzenie skutecznego ostrzału celów pozostających w ruchu.</text>
+		<text>Celownik "Kobra" zapewnia dokładne celowanie w warunkach działania naturalnego światła słonecznego, dzięki posiadaniu 16 poziomów ręcznej regulacji jasności znacznika celowniczego. Umiejscowienie znaku celowniczego i tarczy w tej samej płaszczyźnie pozwala na celowanie zarówno jednym, jak i obojgiem oczu, co stwarza nieograniczone pole widzenia dla strzelca oraz umożliwia prowadzenie skutecznego ostrzału celów pozostających w ruchu.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Kobra-Axion\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_specterDR">
 		<text>Celownik ELCAN SpecterDR</text>
 	</string>
 	<string id="st_addon_scope_specterDR_descr">
-		<text>Celownik optyczny SpecterDR 4x/1x Dual Role stanowi rewolucję w projektowaniu celowników optycznych. Pierwszy na świecie celownik optyczny o prawdziwie podwójnym polu widzenia, SpecterDR natychmiast przełącza się z celownika o powiększeniu 4x na celownik CQB 1x za pomocą dźwigni. W przeciwieństwie do celowników zmiennoogniskowych, SpecterDR oferuje zoptymalizowaną ścieżkę optyczną i identyczny odstęp od oka zarówno w trybie 4x, jak i 1x.
-W zależności od sytuacji, użytkownik może ustawić celownik tak, aby podświetlał celownik lub tylko czerwoną kropkę na środku. W trybie 1x SpecterDR ma zdecydowanie największe pole widzenia w branży. W trybie 4x SpecterDR oferuje duże pole widzenia, długi odstęp od oka i legendarny krystalicznie czysty obraz ELCAN.
-SpecterDR 4x/1x oferuje najlepsze pojedyncze rozwiązanie zarówno do strzelań na średnim dystansie, jak i CQB i został zaprojektowany tak, aby wytrzymać rygory nowoczesnego profesjonalnego użytkowania. (Luneta posiada zapasowe żelazne przyrządy celownicze).
-		%c[d_purple] • %c[ui_gray_2] Powiększenie: %c[ui_gray_1]Regulowane od 1.0x do 4.0x\n																																																																																															  
-		</text>																																																																															  
+		<text>Celownik optyczny SpecterDR 4x/1x Dual Role stanowi rewolucję w projektowaniu celowników optycznych. Pierwszy na świecie celownik optyczny o prawdziwie podwójnym polu widzenia, SpecterDR natychmiast przełącza się z celownika o powiększeniu 4x na celownik CQB 1x za pomocą dźwigni. W przeciwieństwie do celowników zmiennoogniskowych, SpecterDR oferuje zoptymalizowaną ścieżkę optyczną i identyczny odstęp od oka zarówno w trybie 4x, jak i 1x. W zależności od sytuacji, użytkownik może ustawić celownik tak, aby podświetlał celownik lub tylko czerwoną kropkę na środku. W trybie 1x SpecterDR ma zdecydowanie największe pole widzenia w branży. W trybie 4x SpecterDR oferuje duże pole widzenia, długi odstęp od oka i legendarny krystalicznie czysty obraz ELCAN. SpecterDR 4x/1x oferuje najlepsze pojedyncze rozwiązanie zarówno do strzelań na średnim dystansie, jak i CQB i został zaprojektowany tak, aby wytrzymać rygory nowoczesnego profesjonalnego użytkowania. Celownik ten posiada zapasowe żelazne przyrządy celownicze.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Raytheon ELCAN\n
+		%c[d_purple] • %c[0,255,255,255] Powiększenie: %c[ui_gray_1]Regulowane od 1.0x do 4.0x\n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_pso2">
-		<text>Celownik PSO-1M (brak gumowej nasadki)</text>
+		<text>Celownik PSO-1M (bez gumowej nasadki)</text>
 	</string>
 	<string id="st_addon_scope_pso2_descr">
-		<text>Celownik snajperski PSO 1M2-1, wyprodukowany przez Zenit-Belomo. Luneta celownicza przeznaczona do strzelania precyzyjnego, wykorzystana przy produkcji WSS Wintoriez oraz SVD Dragunov. Oferuje 4-krotne przybliżenie i 6 stopniowe pole widzenia.</text>
+		<text>Celownik snajperski PSO 1M2-1, wyprodukowany przez Zenit-Belomo. Luneta celownicza przeznaczona do strzelania precyzyjnego, wykorzystana przy produkcji WSS Wintoriez oraz SWD Dragunow. Oferuje 4-krotne przybliżenie i 6 stopniowe pole widzenia.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]NPZ Optics State Plant\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
 	</string>
 	
-			<string id="st_addon_scope_0kp2">
-		<text>Celownik OKP-7 (szyny montażowe Picatinny/Weaver)</text>
+	<string id="st_addon_scope_0kp2">
+		<text>Celownik OKP-7</text>
 	</string>
 	<string id="st_addon_scope_0kp2_descr">
-		<text>Oryginalna konstrukcja przyrządów celowniczych OKP umożliwia strzelanie z niestabilnych pozycji w szybko zmieniających się warunkach, co zmniejsza zmęczenie operatora, a w razie potrzeby pozwala na swobodne skorzystanie z podstawowych, mechanicznych przyrządów celowniczych. Kluczową cechą tego celownika jest mocowanie odbłyśnika bez oprawki, która nie zasłania żadnego pola sekcji ognia; zamiast tego odbłyśnik jest chroniony cienkim i wytrzymałym wizjerem, który jest prawie niezauważalny podczas strzelania. Ten wariant jest montowany na uchwycie typu Jaskółczy Ogon.</text>
+		<text>Oryginalna konstrukcja przyrządów celowniczych OKP umożliwia strzelanie z niestabilnych pozycji w szybko zmieniających się warunkach, co zmniejsza zmęczenie operatora, a w razie potrzeby pozwala na swobodne skorzystanie z podstawowych, mechanicznych przyrządów celowniczych. Kluczową cechą tego celownika jest mocowanie odbłyśnika bez oprawki, która nie zasłania żadnego pola sekcji ognia; zamiast tego odbłyśnik jest chroniony cienkim i wytrzymałym wizjerem, który jest prawie niezauważalny podczas strzelania. Ten wariant jest montowany na uchwycie typu Jaskółczy Ogon.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Various Producents\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
-		<string id="st_addon_scope_d0cter">
+	<string id="st_addon_scope_d0cter">
 		<text>Celownik Docter Sight III</text>
 	</string>
 	<string id="st_addon_scope_d0cter_descr">
-		<text>Docter jako marka narodziła się w 1991 roku, ale firma zaczęła pisać swoją historię znacznie wcześniej. Wcześniej nosiła nazwę Carl Zeiss Jena. W latach 80. była to jedna z największych firm produkujących optykę na świecie. Rozpoczęła działalność ponad 100 lat temu i przez lata budowała nienaganną reputację. Po II wojnie światowej firma zaczęła się szybko rozwijać i kwitła aż do połączenia Niemiec Wschodnich i Zachodnich w 1991 roku. Wtedy to nastąpiła pierwsza poważna zmiana - firma została przejęta przez Bernharda Doctera. Co szokujące, firma zbankrutowała. Analytic Jena Group kupiła Doctera w 1997 roku, a firma ponownie zaczęła się rozwijać. W 2018 roku nastąpiła zmiana w administracji. Firma została przemianowana z Docter na Noblex. Większość produktów pozostała w ofercie, ale Noblex dodał również kilka nowych. Zachowano słynne logo - sowę.
-Przez lata Docter był znany z oferowania wysokiej jakości produktów Made-in-Germany w przystępnej cenie. Z tego powodu firma zgromadziła wielu zwolenników, lojalnych wobec marki. Od 2018 roku, kiedy to Noblex przejął firmę, firma rozszerzyła swoje procesy produkcyjne w innych miejscach.</text>
+		<text>Docter jako marka narodziła się w 1991 roku, ale firma zaczęła pisać swoją historię znacznie wcześniej. Wcześniej nosiła nazwę Carl Zeiss Jena. W latach 80. była to jedna z największych firm produkujących optykę na świecie. Rozpoczęła działalność ponad 100 lat temu i przez lata budowała nienaganną reputację. Po II wojnie światowej firma zaczęła się szybko rozwijać i kwitła aż do połączenia Niemiec Wschodnich i Zachodnich w 1991 roku. Wtedy to nastąpiła pierwsza poważna zmiana - firma została przejęta przez Bernharda Doctera. Co szokujące, firma zbankrutowała. Analytic Jena Group kupiła Doctera w 1997 roku, a firma ponownie zaczęła się rozwijać. W 2018 roku nastąpiła zmiana w administracji. Firma została przemianowana z Docter na Noblex. Większość produktów pozostała w ofercie, ale Noblex dodał również kilka nowych. Zachowano słynne logo - sowę. Przez lata Docter był znany z oferowania wysokiej jakości produktów Made-in-Niemcy w przystępnej cenie. Z tego powodu firma zgromadziła wielu zwolenników, lojalnych wobec marki. Od 2018 roku, kiedy to Noblex przejął firmę, firma rozszerzyła swoje procesy produkcyjne w innych miejscach.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]NOBLEX E-Optics\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
-		<string id="st_addon_scope_1p59">
+	<string id="st_addon_scope_1p59">
 		<text>Celownik 1P59 "Hiperon"</text>
 	</string>
 	<string id="st_addon_scope_1p59_descr">
-		<text>Celowniki snajperskie Hiperon Pancratic są przeznaczone do rozpoznania celu i prowadzenia celnego ognia z karabinów snajperskich, a także zapewniają automatyczne wprowadzanie kąta celowania podczas namierzania celu. W porównaniu z organicznym celownikiem PSO-1, celownik pancerny 1P59 Hiperon poprawia skuteczność ognia SVD 1,3-2 razy (w zależności od zasięgu i rozmiaru celu) dzięki większemu powiększeniu, dokładniejszemu dalmierzowi, połączeniu operacji namierzania celu i wprowadzania kąta celowania, a także skali wprowadzania kąta celowania wbudowanej w pole widzenia celownika.
-				%c[d_purple] - %c[ui_gray_2] Powiększenie: %c[ui_gray_1]Regulowane od 1,0x do 8,0x\n</text>
+		<text>Celowniki snajperskie Hiperon Pancratic są przeznaczone do rozpoznania celu i prowadzenia celnego ognia z karabinów snajperskich, a także zapewniają automatyczne wprowadzanie kąta celowania podczas namierzania celu. W porównaniu z organicznym celownikiem PSO-1, celownik pancerny 1P59 Hiperon poprawia skuteczność ognia SWD 1,3-2 razy (w zależności od zasięgu i rozmiaru celu) dzięki większemu powiększeniu, dokładniejszemu dalmierzowi, połączeniu operacji namierzania celu i wprowadzania kąta celowania, a także skali wprowadzania kąta celowania wbudowanej w pole widzenia celownika.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Różni producenci\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]Regulowane od 1,0x do 8,0x\n
+		</text>
 	</string>	
 	
 	<string id="st_addon_scope_1pn93">
 		<text>Celownik noktowizyjny 1PN93-4</text>
 	</string>
 	<string id="st_addon_scope_1pn93_descr">
-		<text>Celowniki nocne 1PN93 do SVD są przeznaczone do wykrywania i rozpoznawania celów na krótkim dystansie, w warunkach naturalnego światła nocnego. 1PN93-4 to trzecia generacja noktowizyjnych celowników optycznych.</text>
+		<text>Celowniki nocne 1PN93 do SWD są przeznaczone do wykrywania i rozpoznawania celów na krótkim dystansie, w warunkach naturalnego światła nocnego. 1PN93-4 to trzecia generacja noktowizyjnych celowników optycznych.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]NPZ Optics\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]3.7x\n \n
+		</text>
 	</string>
 	
-			<string id="st_addon_scope_pks">
-		<text>Celownik PKS-07</text>
-	</string>
-	<string id="st_addon_scope_pks_descr">
-		<text>Taktyczny celownik snajperski PKS-07 z podwójną czarno-czerwoną siatką dalmierzową, wersja uniwersalna AK/SKS/SVD, to wyjątkowa luneta snajperska oparta na technologii kolimatorowej. Luneta została stworzona w LOMO (Saint-Petersburg, Rosja) specjalnie dla broni snajperskiej VSK-94. Ponieważ był bardziej zaawansowany technologicznie i lżejszy niż inne warianty celowników, rosyjskie wojsko wybrało go zamiast PSO-3, jako standardową optykę dla SV-98. Pasuje do karabinów AK i SVD, jest zoptymalizowany do użycia z karabinami SVD, Tigr, PSL Mosin i podobnymi. W pełni powlekany system soczewek pryzmatycznych zapewnia niezwykły, wysoki kontrast, szerokie pole widzenia i dobrą pozycję okularu dla wygodnego celowania. Luneta posiada podświetlany krzyż celowniczy, a także regulację nachylenia i elewacji w stylu POSP (każde kliknięcie przycisku elewacji przesuwa POI o 4,5 cm na 100 m, każde kliknięcie przycisków nawiewu przesuwa POI o 2,5 cm na 100 m). Specjalne powłoki ochronne soczewek chronią lunetę przed zarysowaniem i zabrudzeniem w ekstremalnych warunkach, do których została zaprojektowana. Warto zwrócić uwagę na doskonałą ocenę temperatury na oscyloskopie. W zestawie pokrowiec i gumowy okular. Zdecydowanie NAJLEPSZY WYBÓR!.</text>
-	</string>
-	
-			<string id="st_addon_scope_leupold">
+	<string id="st_addon_scope_leupold">
 		<text>Celownik Leupold Mark 8 CQBSS 1.1-8x24</text>
 	</string>
 	<string id="st_addon_scope_leupold_descr">
-		<text>Leupold Mark 8 CQBSS 1.1-8x24mm łączy w sobie wszystko, czego potrzebują strzelcy wojskowi, stróże prawa i zawodnicy w jednej niezwykle wszechstronnej lunecie celowniczej. Podświetlane siatki przedniej płaszczyzny ogniskowej zapewniają dokładne oszacowanie zasięgu w całym zakresie powiększenia. Osiem ustawień jasności zapewnia optymalną widoczność podświetlanego celownika w każdych warunkach oświetleniowych i jest kompatybilne z noktowizorami. Pozycja wyłączenia pomiędzy każdym z numerowanych ustawień jasności zapewnia długą żywotność baterii i niemal natychmiastowy powrót do pożądanej intensywności siatki celowniczej.
-						%c[d_purple] - %c[ui_gray_2] Powiększenie: %c[ui_gray_1]Regulowane od 1,0x do 8,0x\n</text>
+		<text>Leupold Mark 8 CQBSS 1.1-8x24mm łączy w sobie wszystko, czego potrzebują strzelcy wojskowi, stróże prawa i zawodnicy w jednej niezwykle wszechstronnej lunecie celowniczej. Podświetlane siatki przedniej płaszczyzny ogniskowej zapewniają dokładne oszacowanie zasięgu w całym zakresie powiększenia. Osiem ustawień jasności zapewnia optymalną widoczność podświetlanego celownika w każdych warunkach oświetleniowych i jest kompatybilne z noktowizorami. Pozycja wyłączenia pomiędzy każdym z numerowanych ustawień jasności zapewnia długą żywotność baterii i niemal natychmiastowy powrót do pożądanej intensywności siatki celowniczej.\n \n
+		c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]Regulowane od 1,0x do 8,0x\n
+		</text>
 	</string>
 	
-				<string id="st_addon_scope_mepro">
+	<string id="st_addon_scope_mepro">
 		<text>Celownik Meprolight M21</text>
 	</string>
 	<string id="st_addon_scope_mepro_descr">
-		<text>Meprolight Mepro M21 to sprawdzony w boju celownik z czerwoną kropką, testowany w najtrudniejszych warunkach, jakie można sobie wyobrazić.
-Nie działa na baterie, ale jest zasilany przez światłowodowy system zbierający w ciągu dnia i tryt w nocy - gdy wszystkie inne celowniki zawiodą, M21 będzie nadal działać.
-Dzięki odłączanemu mocowaniu QD, będziesz w stanie zamontować i zdemontować ten celownik z platformy Picatinny w ciągu kilku sekund.
-Można go sparować z goglami noktowizyjnymi i lunetami, co znacznie zwiększa jego użyteczność.
-Meprolight to izraelska firma założona w 1990 roku. W jej ofercie znajdują się dzienne urządzenia optyczne, urządzenia noktowizyjne, urządzenia termowizyjne, samoświecące celowniki nocne itp. Ich produkty zostały przetestowane, aby wytrzymać najtrudniejsze warunki, jakie można sobie wyobrazić, dlatego są popularne wśród wojska i organów ścigania. Firma jest zgodna ze specyfikacjami wojskowymi NATO i USA, a także międzynarodowymi standardami MIL.</text>
+		<text>Meprolight Mepro M21 to sprawdzony w boju celownik z czerwoną kropką, testowany w najtrudniejszych warunkach, jakie można sobie wyobrazić. Nie działa na baterie, ale jest zasilany przez światłowodowy system zbierający w ciągu dnia i tryt w nocy - gdy wszystkie inne celowniki zawiodą, M21 będzie nadal działać. Dzięki odłączanemu mocowaniu QD, będziesz w stanie zamontować i zdemontować ten celownik z platformy Picatinny w ciągu kilku sekund. Można go sparować z goglami noktowizyjnymi i lunetami, co znacznie zwiększa jego użyteczność.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Meprolight\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
-			<string id="st_addon_scope_aim_low">
-		<text>Celownik Aimpoint Micro T1 (niska przekładka)</text>
+	<string id="st_addon_scope_aim_low">
+		<text>Celownik Aimpoint Micro T1</text>
 	</string>
 	<string id="st_addon_scope_aim_low_descr">
-		<text>Bez względu na misję, rozmiar i waga sprzętu jest czynnikiem krytycznym. Wraz z Aimpoint® Micro T-1, Aimpoint wprowadził system celowniczy, który zapewnia wydajność naszych pełnowymiarowych celowników w małym opakowaniu.
- Od momentu wprowadzenia na rynek w 2007 roku, Aimpoint® Micro T-1 stał się bardzo popularny na całym świecie ze względu na swój rozmiar, niewielką wagę i solidną jakość wykonania.</text>
+		<text>Bez względu na misję, rozmiar i waga sprzętu jest czynnikiem krytycznym. Wraz z Aimpoint® Micro T-1, Aimpoint wprowadził system celowniczy, który zapewnia wydajność naszych pełnowymiarowych celowników w małym opakowaniu. Od momentu wprowadzenia na rynek w 2007 roku, Aimpoint® Micro T-1 stał się bardzo popularny na całym świecie ze względu na swój rozmiar, niewielką wagę i solidną jakość wykonania.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>	
 
-			<string id="st_addon_scope_aimpoint_pro">
+	<string id="st_addon_scope_aimpoint_pro">
 		<text>Celownik Aimpoint PRO</text>
 	</string>
 	<string id="st_addon_scope_aimpoint_pro_descr">
-		<text>Aimpoint Patrol Rifle Optic został zaprojektowany przy udziale wybitnej grupy obecnych i byłych profesjonalistów. Patrol Rifle Optic zawiera wiele niespotykanych dotąd funkcji, aby zmaksymalizować wydajność tego celownika w trudnych warunkach, z jakimi borykają się współczesne organy ścigania.
- Celownik Aimpoint® PRO jest dostarczany w gotowym do użycia zestawie w przystępnej cenie, co jest koncepcją, która bardzo przemawia do jednostek organów ścigania.</text>
+		<text>Aimpoint Patrol Rifle Optic został zaprojektowany przy udziale wybitnej grupy obecnych i byłych profesjonalistów. Patrol Rifle Optic zawiera wiele niespotykanych dotąd funkcji, aby zmaksymalizować wydajność tego celownika w trudnych warunkach, z jakimi borykają się współczesne organy ścigania. Celownik Aimpoint® PRO jest dostarczany w gotowym do użycia zestawie w przystępnej cenie, co jest koncepcją, która bardzo przemawia do jednostek organów ścigania.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_1p76">
-		<text>Celownik 1P76 "Rakurs-R" (na szynę montażową typu Jaskółczy Ogon)</text>
+	<string id="st_addon_scope_1p76">
+		<text>Celownik 1P76 "Rakurs-A"</text>
 	</string>
 	<string id="st_addon_scope_1p76_descr">
-		<text>Celownik optyczny 1P76 przeznaczony do obserwacji pola walki, wyboru celu, określania odległości celu i prowadzenia celnego ognia do celów oświetlonych i podświetlonych w dzień, o zmierzchu i w nocy. 
-Celownik ma szerokie pole widzenia, które pozwala na szybką obserwację terenu w szybko zmieniającej się sytuacji bojowej jednocześnie gołym okiem i przez celownik bez utraty widoczności celu.</text>
+		<text>Celownik optyczny 1P76 przeznaczony do obserwacji pola walki, wyboru celu, określania odległości celu i prowadzenia celnego ognia do celów oświetlonych i podświetlonych w dzień, o zmierzchu i w nocy. Celownik ma szerokie pole widzenia, które pozwala na szybką obserwację terenu w szybko zmieniającej się sytuacji bojowej jednocześnie gołym okiem i przez celownik bez utraty widoczności celu.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]NPZ Optics\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>	
 
-			<string id="st_addon_scope_pka">
-		<text>Celownik PK-A (na podczerwień)</text>
+	<string id="st_addon_scope_pka">
+		<text>Celownik PK-A (Red Dot)</text>
 	</string>
 	<string id="st_addon_scope_pka_descr">
-		<text>PK-A to wytrzymały i funkcjonalny celownik z obudową tubową, średnim przybliżeniem i czerwoną kropką celowniczą. Pierwotnie przypominający adaptację oryginalnego celownika PSO do SVD, PK-A ma podobną konstrukcję i ten sam styl wykończenia, w kolorze szarym-młotkowym.</text>
+		<text>PK-A to wytrzymały i funkcjonalny celownik z obudową tubową, średnim przybliżeniem i czerwoną kropką celowniczą. Pierwotnie przypominający adaptację oryginalnego celownika PSO do SWD, PK-A ma podobną konstrukcję i ten sam styl wykończenia, w kolorze szarym-młotkowym.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]BelOMO\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_ekp8_18">
-		<text>Celownik EKP 8-18 Kobra (na podczerwień)</text>
+	<string id="st_addon_scope_ekp8_18">
+		<text>Celownik EKP 8-18 Kobra (Red Dot)</text>
 	</string>
 	<string id="st_addon_scope_ekp8_18_descr">
-		<text>Luneta celownicza Kobra Military 8-18 na podczerwień mocowana na szynę montażową typu Weaver. Jest to znany na całym świecie celownik z otwartym kolimatorem, wykorzystujący generowaną laserowo technologię „heads-up display” (HUD), która nakłada wzór siatki na filtrowaną soczewkę, która działa jak urządzenie celownicze dla strzelca. System ten zapewnia niezakłócone pole widzenia, w powiększeniu 1x, co pozwala na niezwykle wygodne strzelanie "bez mrużenia oczu". Większość użytkowników od razu zauważy średnio 1,5 raza szybsze namierzanie celu i o 50% mniejszą grupę strzałów, z odległości 100 metrów, w porównaniu do mechanicznych przyrządów celowniczych. Przeznaczony jest do zwalczania szybko poruszających się i pojawiających się na krótki czas celów oraz w sytuacjach walki w aglomeracji miejskiej, przy zróżnicowanym natężeniu światła. Zapewnia wyraźne celowanie od 104 lx do 10-2 lx (światło dzienne, zmierzch i światło księżyca), celowanie jedno- lub dwuoczne, jest bardzo skuteczny podczas strzelania z poruszających się pojazdów.</text>
+		<text>Luneta celownicza Kobra Military 8-18 na podczerwień mocowana na szynę montażową typu Weaver. Jest to znany na całym świecie celownik z otwartym kolimatorem, wykorzystujący generowaną laserowo technologię „head-up display” (HUD), która nakłada wzór siatki na filtrowaną soczewkę, która działa jak urządzenie celownicze dla strzelca. System ten zapewnia niezakłócone pole widzenia, w powiększeniu 1x, co pozwala na niezwykle wygodne strzelanie "bez mrużenia oczu". Większość użytkowników od razu zauważy średnio 1,5 raza szybsze namierzanie celu i o 50% mniejszą grupę strzałów, z odległości 100 metrów, w porównaniu do mechanicznych przyrządów celowniczych. Przeznaczony jest do zwalczania szybko poruszających się i pojawiających się na krótki czas celów oraz w sytuacjach walki w aglomeracji miejskiej, przy zróżnicowanym natężeniu światła. Zapewnia wyraźne celowanie od 104 lx do 10-2 lx (światło dzienne, zmierzch i światło księżyca), celowanie jedno- lub dwuoczne, jest bardzo skuteczny podczas strzelania z poruszających się pojazdów.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Kobra\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>	
-
-<string id="st_addon_sil_osprey">
-		<text>Ďđĺäěĺň áîëüřĺ íĺ čńďîëüçóĺňń˙ â ŕääîíĺ / The Item is no longer in use in the addon</text>
-	</string>
-	<string id="st_addon_sil_osprey_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] 5.45mm\n \n%c[ui_gray_1]Tłumik SilencerCo Osprey zmodyfikowany do użycia z karabinami 5,56 mm i 5,45 mm. W Zonie używany zwykle przez weteranów z frakcji Monolit.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
-	</string>
 	
-		<string id="st_addon_sil_salvo">
-		<text>Tłumik do Salvo 12</text>
+	<string id="st_addon_sil_salvo">
+		<text>Tłumik Salvo 12</text>
 	</string>
 	<string id="st_addon_sil_salvo_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 12\n \n%c[ui_gray_1]Tłumik Salvo 12 do strzelb kalibru 12" firmy SilencerCo. Zaprojektowany do współpracy z większością strzelb typu pump action i półautomatycznych oraz prawie wszystkich dostępnych na rynku amunicji. Przy pełnej długości 12" Salvo 12 obniża dźwięk do 136,8 dB na lufie w broni z siedmioma loftkami. Konfiguracje 6", 8", 10" i 12" pozwalają użytkownikowi dostosować Salvo 12 do sportów wyczynowych, polowania, samoobrony i wielu innych zastosowań. W tym przypadku warto zaakceptować rozsądny kompromis wielkości kalibru z poziomem redukcji dźwięku. \n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
+		<text>Tłumik Salvo 12 do strzelb kalibru 12 firmy SilencerCo. Zaprojektowany do współpracy z większością strzelb typu pump action i półautomatycznych oraz prawie wszystkich dostępnych na rynku amunicji. Przy pełnej długości 12" Salvo 12 obniża dźwięk do 136,8 dB na lufie w broni z siedmioma loftkami. Konfiguracje 6", 8", 10" i 12" pozwalają użytkownikowi dostosować Salvo 12 do sportów wyczynowych, polowania, samoobrony i wielu innych zastosowań. W tym przypadku warto zaakceptować rozsądny kompromis wielkości kalibru z poziomem redukcji dźwięku.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[0,255,255,255] Broń kalibru 12\n
+		</text>
 	</string>
 	
-		<string id="st_addon_scope_deltapoint">
-		<text>Celownik Deltapoint PRO (na podczerwień)</text>
+	<string id="st_addon_scope_deltapoint">
+		<text>Celownik Deltapoint PRO (Red Dot)</text>
 	</string>
 	<string id="st_addon_scope_deltapoint_descr">
-		<text>DeltaPoint Pro jest dowodem na to, że nie musisz rezygnować z wydajności, nawet przy celownikach mniejszych rozmiarów. Jego niewiarygodnie szerokie pole widzenia i krystalicznie czyste szkło dominuje nad konkurencją, a wytrzymała aluminiowa obudowa i stalowa osłona zapewniają, że sprawdzi się w najtrudniejszych warunkach. Podczas projektowania tego elitarnego celownika kolimatorowego skupiono się również na łatwości użytkowania, dlatego umieszczono na górze łatwo dostępną komorę baterii i zapewniono jej regulację poprzez przyciski, dla większej precyzji. I to nie jest tylko celownik pistoletowy; DP Pro będzie pasował do broni typu AR, strzelb i prawie wszystkim innym co oddaje strzały.</text>
+		<text>DeltaPoint Pro jest dowodem na to, że nie musisz rezygnować z wydajności, nawet przy celownikach mniejszych rozmiarów. Jego niewiarygodnie szerokie pole widzenia i krystalicznie czyste szkło dominuje nad konkurencją, a wytrzymała aluminiowa obudowa i stalowa osłona zapewniają, że sprawdzi się w najtrudniejszych warunkach. Podczas projektowania tego elitarnego celownika kolimatorowego skupiono się również na łatwości użytkowania, dlatego umieszczono na górze łatwo dostępną komorę baterii i zapewniono jej regulację poprzez przyciski, dla większej precyzji. I to nie jest tylko celownik pistoletowy; DP Pro będzie pasował do broni typu AR, strzelb i prawie wszystkim innym co oddaje strzały.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_e0t2">
 		<text>Celownik EOTech XPS3-0</text>
 	</string>
 	<string id="st_addon_scope_e0t2_descr">
-		<text>XPS3 jest mniejszy i lżejszy niż wszystkie inne celowniki holograficzne, ale równie efektywny. Funkcjonariusze organów ścigania i myśliwi doceniają lekkość i niewielkie rozmiary, które zapewniają wygodę podczas pracy i na polowaniach. XPS3 działa na jednej baterii typu 123. Konfiguracja z pojedynczą baterią litową zapewnia więcej przestrzeni na szyna montażowach, pozostawiając miejsce na tylne przyrządy celownicze lub uchwyt noktowizyjny.</text>
+		<text>XPS3 jest mniejszy i lżejszy niż wszystkie inne celowniki holograficzne, ale równie efektywny. Funkcjonariusze organów ścigania i myśliwi doceniają lekkość i niewielkie rozmiary, które zapewniają wygodę podczas pracy i na polowaniach. XPS3 działa na jednej baterii typu 123. Konfiguracja z pojedynczą baterią litową zapewnia więcej przestrzeni na szynach montażowych, pozostawiając miejsce na tylne przyrządy celownicze lub uchwyt noktowizyjny.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_pn23">
 		<text>Celownik noktowizyjny PN-23</text>
 	</string>
 	<string id="st_addon_scope_pn23_descr">
-		<text>PN23 to dedykowany celownik noktowizyjny. Charakteryzuje się kompaktowym rozmiarem, w połączeniu z użytecznym, 3-krotnym zakresem przybliżenia. Zapewnia to imponujący zasięg rozpoznawania do 400 metrów, z bardzo szerokim polem widzenia przy kącie 12°. Podświetlana siatka celownicza zapewnia zarówno szybkość, jak i precyzję.</text>
+		<text>PN23 to dedykowany celownik noktowizyjny. Charakteryzuje się kompaktowym rozmiarem, w połączeniu z użytecznym, 3-krotnym zakresem przybliżenia. Zapewnia to imponujący zasięg rozpoznawania do 400 metrów, z bardzo szerokim polem widzenia przy kącie 12°. Podświetlana siatka celownicza zapewnia zarówno szybkość, jak i precyzję.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]KULA\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]3.0x\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_gauss_sight">
 		<text>Celownik EOTS-62</text>
 	</string>
 	<string id="st_addon_scope_gauss_sight_descr">
-		<text>Electroptical Targeting System EOTS-62 został opracowany w tajnych laboratoriach wewnątrz Zony do użytku z ultra-precyzyjną bronią znaną jako "Typ 62". Może być zamontowany na szynie Picatinny. Posiada funkcję wykrywania celu.
-		%c[d_purple] - %c[ui_gray_2] Powiększenie: %c[ui_gray_1]Regulowane od 1.0x do 8.0x\n</text>
+		<text>Electroptical Targeting System (EOTS-62) został opracowany w tajnych laboratoriach wewnątrz Zony do użytku z ultra-precyzyjną bronią znaną jako "Obiekt 62". Może być zamontowany na szynie Picatinny. Posiada funkcję wykrywania celu.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Ukraina\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Brak informacji\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]Regulowane od 1.0x do 8.0x\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Gaussa i wybrane bronie\n
+		</text>
 	</string>
 	
-			<string id="st_addon_sil_hexagon">
+	<string id="st_addon_sil_hexagon">
 		<text>Tłumik SKS 7.62x39 mm Hexagon</text>
 	</string>
 	<string id="st_addon_sil_hexagon_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62x39 mm\n \n%c[ui_gray_1]Tłumik SKS firmy Hexagon.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]niskie</text>
+		<text>Tłumik SKS firmy Hexagon.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 7.62x39 mm\n
+		</text>
 	</string>
 	
-			<string id="st_addon_scope_marchf">
+	<string id="st_addon_scope_marchf">
 		<text>Celownik taktyczny March 3-24x42 FFP</text>
 	</string>
 	<string id="st_addon_scope_marchf_descr">
-		<text>Luneta March Tactical 3-24x42 First Focal Plane, niezawodna i celna, dobrze się sprawdza przy broni zasilanej amunicją kilku różnych kalibrów. Wykonane przez japońską firmę DEON Optical Design Corporation. Luneta taktyczna March-F 3-24x42 jest idealnym wyborem zarówno dla myśliwych jak i strzelców wyborowych na całym świecie. Luneta posiada 42mm obiektyw ze szkła optycznego o bardzo niskiej dyspersji, który zapewnia jasny i wyraźny obraz na większości lekkich statywów. Luneta wyposażona jest w regulację dla nawiewu i elewacji, korekcję paralaksy od 10 jardów do nieskończoności oraz podświetloną siatkę taktyczną w pierwszej płaszczyźnie ogniskowej.</text>
+		<text>Luneta March Tactical 3-24x42 First Focal Plane, niezawodna i celna, dobrze się sprawdza przy broni zasilanej amunicją kilku różnych kalibrów. Wykonane przez japońską firmę DEON Optical Design Corporation. Luneta taktyczna March-F 3-24x42 jest idealnym wyborem zarówno dla myśliwych jak i strzelców wyborowych na całym świecie. Luneta posiada 42mm obiektyw ze szkła optycznego o bardzo niskiej dyspersji, który zapewnia jasny i wyraźny obraz na większości lekkich statywów. Luneta wyposażona jest w regulację dla nawiewu i elewacji, korekcję paralaksy od 10 jardów do nieskończoności oraz podświetloną siatkę taktyczną w pierwszej płaszczyźnie ogniskowej.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Japonia\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]DEON Optical Design\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]3.0x - 24.0x\n \n
+		</text>
 	</string>
 	
-			<string id="st_addon_scope_pgo7gs">
-		<text>Celownik PGO-7V</text>
+	<string id="st_addon_scope_pgo7gs">
+		<text>Celownik PGO-7</text>
 	</string>
 	<string id="st_addon_scope_pgo7gs_descr">
-		<text>Celownik optyczny PGO-7 to główny przyrząd celowniczy granatnika ręcznego RPG-7. Służy do namierzania celów na różnych dystansach, podczas działań na otwartej przestrzeni.</text>
+		<text>Celownik optyczny PGO-7 to główny przyrząd celowniczy granatnika ręcznego RPG-7. Służy do namierzania celów na różnych dystansach, podczas działań na otwartej przestrzeni.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Związek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 	
-			<string id="st_addon_scope_rakurs">
-		<text>Celownik 1P76 "Rakurs-R" (dla szyn montażowych Picatinny/Weaver)</text>
+	<string id="st_addon_scope_rakurs">
+		<text>Celownik 1P76 "Rakurs-A"</text>
 	</string>
 	<string id="st_addon_scope_rakurs_descr">
-		<text>Celownik optyczny 1P76 przeznaczony do obserwacji pola walki, wyboru celu, określania odległości celu i prowadzenia celnego ognia do celów oświetlonych i podświetlonych w dzień, o zmierzchu i w nocy. 
-Celownik ma szerokie pole widzenia, które pozwala na szybką obserwację terenu w szybko zmieniającej się sytuacji bojowej jednocześnie gołym okiem i przez celownik bez utraty widoczności celu.</text>																										  
+		<text>Celownik optyczny 1P76 przeznaczony do obserwacji pola walki, wyboru celu, określania odległości celu i prowadzenia celnego ognia do celów oświetlonych i podświetlonych w dzień, o zmierzchu i w nocy. Celownik ma szerokie pole widzenia, które pozwala na szybką obserwację terenu w szybko zmieniającej się sytuacji bojowej jednocześnie gołym okiem i przez celownik bez utraty widoczności celu.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka NPZ\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_compm4s">
-		<text>Aimpoint CompM4s (dla szyn montażowych Picatinny/Weaver)</text>
+	<string id="st_addon_scope_compm4s">
+		<text>Aimpoint CompM4s</text>
 	</string>
 	<string id="st_addon_scope_compm4s_descr">
-		<text>Celownik Aimpoint® CompM4s, charakteryzujący się niskim zużyciem baterii, należy do serii celowników CompM4, które są najlepszymi celownikami, jakie kiedykolwiek wyprodukował Aimpoint. Ulepszenia obejmują zaawansowaną wydajność energetyczną, która zapewnia do 8 lat ciągłego użytkowania na jednej baterii AA!</text>
+		<text>Celownik Aimpoint® CompM4s, charakteryzujący się niskim zużyciem baterii, należy do serii celowników CompM4, które są najlepszymi celownikami, jakie kiedykolwiek wyprodukował Aimpoint. Ulepszenia obejmują zaawansowaną wydajność energetyczną, która zapewnia do 8 lat ciągłego użytkowania na jednej baterii AA!\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Aimpoint\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_susat">
-		<text>Celownik SUSAT (dla szyn montażowych Picatinny/Weaver) mount</text>
+	<string id="st_addon_scope_susat">
+		<text>Celownik SUSAT</text>
 	</string>
 	<string id="st_addon_scope_susat_descr">
-		<text>SUSAT to celownik optyczny 4X, opracowany w Wielkiej Brytanii w Centrum Badawczo-Rozwojowym Royal Arms. Wyprodukowane przez AVIMO oraz United Scientific Instruments. Jest najczęściej używany do strzelania celowanego z lekkiej broni strzeleckiej na średnich i długich dystansach. (Luneta ma na sobie zapasowe przyrządy celownicze).</text>
+		<text>SUSAT to celownik optyczny 4X, opracowany w Wielkiej Brytanii w Centrum Badawczo-Rozwojowym Royal Arms. Wyprodukowane przez AVIMO oraz United Scientific Instruments. Jest najczęściej używany do strzelania celowanego z lekkiej broni strzeleckiej na średnich i długich dystansach. (Luneta ma na sobie zapasowe przyrządy celownicze).\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Wielka Brytania\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Avimo\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_1p78gs">
+	<string id="st_addon_scope_1p78gs">
 		<text>Celownik 1P78 "Kasztan"</text>
 	</string>
 	<string id="st_addon_scope_1p78gs_descr">
-		<text>1P78 to jeden z najnowszych układów optycznych wprowadzonych do uzbrojenia rosyjskich sił zbrojnych. Konstrukcja jest koncepcyjnie podobna do ACOG, ze stosunkowo małym powiększeniem (2,8x) i możliwością celowania i strzelania bez konieczności regulacji jakichkolwiek elementów sterujących.</text>
+		<text>1P78 to jeden z najnowszych układów optycznych wprowadzonych do uzbrojenia rosyjskich sił zbrojnych. Konstrukcja jest koncepcyjnie podobna do ACOG, ze stosunkowo małym powiększeniem (2,8x) i możliwością celowania i strzelania bez konieczności regulacji jakichkolwiek elementów sterujących.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka NPZ\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]2.8x\n \n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_1pn93n2_1gs">
+	<string id="st_addon_scope_1pn93n2_1gs">
 		<text>Celownik noktowizyjny 1PN93-1</text>
 	</string>
 	<string id="st_addon_scope_1pn93n2_1gs_descr">
-		<text>Celownik noktowizyjny drugiej generacji, ze stałym powiększeniem 4x (4 dioptrie). Wariant 1PN93-1 przeznaczony jest do walki w stanach ograniczonej widoczności, na średnich dystansach. Przystosowany do montażu na broni ze standardowym mocowaniem typu Jaskółczy Ogon (tak jak w przypadku większości broni z krajów Układu Warszawskiego)</text>
+		<text>Celownik noktowizyjny drugiej generacji, ze stałym powiększeniem 4x (4 dioptrie). Wariant 1PN93-1 przeznaczony jest do walki w stanach ograniczonej widoczności, na średnich dystansach. Przystosowany do montażu na broni ze standardowym mocowaniem typu Jaskółczy Ogon (tak jak w przypadku większości broni z krajów Układu Warszawskiego).\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
 	</string>
 	
-			<string id="st_addon_scope_kemper">
+	<string id="st_addon_scope_kemper">
 		<text>Celownik refleksyjny Firefield Kemper XL-M</text>
 	</string>
 	<string id="st_addon_scope_kemper_descr">
-		<text>Kemper XL-M to panoramiczny, otwarty celownik kolimatorowy, idealny do szybkiego namierzania, strzelania z ręki i strzelania do ruchomych celów. W przeciwieństwie do modelu cywilnego, wariant "M" celownika jest wykonany z bardziej wytrzymałego stopu aluminium, tzn. został specjalnie zaprojektowany do pracy w trudnych warunkach. Montowany jest na szyna montażowych Weaver/Picatinny.</text>
+		<text>Kemper XL-M to panoramiczny, otwarty celownik kolimatorowy, idealny do szybkiego namierzania, strzelania z ręki i strzelania do ruchomych celów. W przeciwieństwie do modelu cywilnego, wariant "M" celownika jest wykonany z bardziej wytrzymałego stopu aluminium, tzn. został specjalnie zaprojektowany do pracy w trudnych warunkach. Montowany jest na szyna montażowych Weaver/Picatinny.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Firefield\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_usp1">
-		<text>Celownik 1P29 "Tulipan" (bez gumowej nasadki)</text>
+	<string id="st_addon_scope_usp1">
+		<text>Celownik 1P29 "Tulipan"</text>
 	</string>
 	<string id="st_addon_scope_usp1_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] wszystkie karabiny Układu Warszawskiego\n \n%c[ui_gray_1]Celownik USP-1 (indeks 1P29) ma układ optyczny z systemem soczewek pryzmatycznych. Kąty celowania ustawia się mechanicznie, obracając korpus celownika względem wspornika mocowania broni. Nie wymaga baterii, ponieważ jest oświetlony trytem. Skala zasięgu na krawędzi pola widzenia celownika umożliwia wizualne określenie celu o wysokości ok. 1,5 m w zasięgu do 1200 m.\n \n
-		%c[d_purple] • %c[ui_gray_2] powiększenie: %c[ui_gray_1]4.0x\n
-		%c[d_purple] • %c[ui_gray_2] stan: %c[ui_gray_1]dobry\n
-		%c[d_purple] • %c[ui_gray_2] wzór siatki celowniczej: %c[ui_gray_1]PSU-1</text>
+		<text>Celownik USP-1 (indeks 1P29) ma układ optyczny z systemem soczewek pryzmatycznych. Kąty celowania ustawia się mechanicznie, obracając korpus celownika względem wspornika mocowania broni. Nie wymaga baterii, ponieważ jest oświetlony trytem. Skala zasięgu na krawędzi pola widzenia celownika umożliwia wizualne określenie celu o wysokości ok. 1,5 m w zasięgu do 1200 m.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		%c[d_purple] • %c[0,255,255,255] Wzór siatki celowniczej: %c[ui_gray_1]PSU-1
+		</text>
 	</string>
 
-			<string id="st_addon_sil_rotor">
+	<string id="st_addon_sil_rotor">
 		<text>Hamulec wylotowy Rotor 43 7.62x54 mm</text>
 	</string>
 	<string id="st_addon_sil_rotor_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62x54 mm\n \n%c[ui_gray_1]Hamulec wylotowy Rotor 43, przeznaczony do montażu na SVDS kalibru 7,62x54. Chociaż zwykle jest instalowany jako kompensator, działa również jako tłumik dźwięku.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]niskie</text>
+		<text>Hamulec wylotowy Rotor 43, przeznaczony do montażu na SWDS kalibru 7,62x54. Chociaż zwykle jest instalowany jako kompensator, działa również jako tłumik dźwięku.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 7.62x54 mm\n
+		</text>
 	</string>
-
 	
 	<string id="st_addon_scope_trijicon_rmr">
-		<text>Zestaw taktyczny Trijicon. (dla szyn montażowych Picatinny/Weaver)</text>
+		<text>Zestaw taktyczny Trijicon</text>
 	</string>
 	<string id="st_addon_scope_trijicon_rmr_descr">
-		<text>Zestaw taktyczny zawiera kombinację dwóch lunet amerykańskiej firmy Trijicon. Daje możliwość zainstalowania dwóch lunet Trijicon Acog BAC 5.56 BDC i Trijicon RMR, na karabinach z szynami montażowymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na wygodne używanie karabinu na krótkich i długich dystansach.</text>
+		<text>Zestaw taktyczny zawiera kombinację dwóch lunet amerykańskiej firmy Trijicon. Daje możliwość zainstalowania dwóch lunet Trijicon Acog BAC 5.56 BDC i Trijicon RMR, na karabinach z szynami montażowymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na wygodne używanie karabinu na krótkich i długich dystansach.
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG BAC 5.56 BDC\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		</text>
 	</string>	
 	
 	<string id="st_addon_scope_mark8_rmr">
-		<text>Zestaw taktyczny Leupold RMR (dla szyn montażowych Picatinny/Weaver)</text>
+		<text>Zestaw taktyczny Leupold RMR (dla szyn Picatinny/Weaver)</text>
 	</string>
 	<string id="st_addon_scope_mark8_rmr_descr">
-		<text>Ten zestaw taktyczny zawiera kombinację dwóch lunet amerykańskich firm Leupold i Trijicon. Daje możliwość zainstalowania dwóch lunet Leupold Mark 8 CQBSS i Trijicon RMR, na karabinach z szynami montażowymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na wygodne używanie karabinu na krótkich i długich dystansach.</text>
+		<text>Ten zestaw taktyczny zawiera kombinację dwóch lunet amerykańskich firm Leupold i Trijicon. Daje możliwość zainstalowania dwóch lunet Leupold Mark 8 CQBSS i Trijicon RMR, na karabinach z szynami montażowymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na wygodne używanie karabinu na krótkich i długich dystansach.
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Leupold Mark 8 CQBSS\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		</text>
 	</string>
-	
-	<string id="st_addon_scope_psicho_rmr">
-		<text>Zestaw taktyczny PSO RMR (dla szyn montażowych Jaskółczy Ogon/Picatinny/Weaver)</text>
-	</string>
-	<string id="st_addon_scope_psicho_rmr_descr">
-		<text>Ten zestaw taktyczny zawiera kombinację dwóch lunet wyprodukowanych przez firmy BelOMO i US Trijicon. Daje możliwość zainstalowania dwóch lunet PSO-1M2-1 i Trijicon RMR, na karabinach z szynami montażowymi typu Jaskółczy Ogon i Picatinny. Taka konfiguracja pozwala strzelcowi na wygodne używanie karabinu na krótkich i długich dystansach.</text>
-	</string>
-	
+
 	<string id="st_addon_scope_spec_alt">
-		<text>Zestaw taktyczny SpecterDR RMR. (dla szyn montażowych Picatinny/Weaver)</text>
+		<text>Zestaw taktyczny SpecterDR RMR (dla szyn Picatinny/Weaver)</text>
 	</string>
 	<string id="st_addon_scope_spec_alt_descr">
-		<text>Ten zestaw taktyczny zawiera kombinację dwóch lunet kanadyjskiej firmy ELCAN i amerykańskiej firmy Trijicon. Daje możliwość zainstalowania dwóch lunet SpectreDR DFOV14-C2 1-4x oraz Trijicon RMR, na karabinach z szynami montażowymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na komfortowe używanie karabinu na krótkich i długich dystansach.</text>
+		<text>Ten zestaw taktyczny zawiera kombinację dwóch lunet kanadyjskiej firmy ELCAN i amerykańskiej firmy Trijicon. Daje możliwość zainstalowania dwóch lunet SpectreDR DFOV14-C2 1-4x oraz Trijicon RMR, na karabinach z szynami montażowymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na komfortowe używanie karabinu na krótkich i długich dystansach.
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_scope_kashtan_rmr">
-		<text>Zestaw taktyczny RMR "Kasztan" (dla szyn montażowych Jaskółczy Ogon/Picatinny/Weaver)</text>
+		<text>Zestaw taktyczny RMR "Kasztan" (dla szyn Jaskółczy Ogon/Picatinny/Weaver)</text>
 	</string>
 	<string id="st_addon_scope_kashtan_rmr_descr">
-		<text>Ten zestaw taktyczny zawiera kombinację dwóch lunet wyprodukowanych przez CBK "Toczpribor" i amerykańskie firmy Trijicon. Daje możliwość zainstalowania dwóch lunet 1P78 Kasztan i Trijicon RMR, na karabinach wyposażonych w szyny montażowe typu Jaskółczy Ogon i Picatinny. Taka konfiguracja pozwala strzelcowi na wygodne używanie karabinu na krótkich i długich dystansach.</text>
+		<text>Ten zestaw taktyczny zawiera kombinację dwóch lunet wyprodukowanych przez CBK "Toczpribor" i amerykańskie firmy Trijicon. Daje możliwość zainstalowania dwóch lunet 1P78 Kasztan i Trijicon RMR, na karabinach wyposażonych w szyny montażowe typu Jaskółczy Ogon i Picatinny. Taka konfiguracja pozwala strzelcowi na wygodne używanie karabinu na krótkich i długich dystansach.
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Toczpribor 1P78 Kasztan\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_psicho_rmr">
+		<text>Zestaw celowników PSO RMR S</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik BelOMO PSO-1M2-1\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_hex23">
 		<text>Tłumik Swine 23</text>
 	</string>
 	<string id="st_addon_sil_hex23_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 23 mm\n \n%c[ui_gray_1]Domowej roboty tłumik doKS-23 "Dzik". Stworzony przez rusznikarzy w Zonie. Zadaniem tego urządzenia jest chociaż minimalna redukcja bardzo głośnego wystrzału "Dzika", aby nie przyciągał aż takiej uwagi. Konstrukcja okazała się nieporęczna i ciężka, co nieco utrudnia montaż.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]niskie</text>
+		<text>Domowej roboty tłumik do KS-23 "Dzik". Stworzony przez rusznikarzy w Zonie. Zadaniem tego urządzenia jest chociaż minimalna redukcja bardzo głośnego wystrzału "Dzika", aby nie przyciągał aż takiej uwagi. Konstrukcja okazała się nieporęczna i ciężka, co nieco utrudnia montaż.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 23 mm\n \n 
+		</text>
 	</string>		
-
-		<string id="st_addon_scope_mono_kit">
-		<text>Zestaw taktyczny do AK12 Monolitu</text>
-	</string>
-	<string id="st_addon_scope_mono_kit_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] ŔĘ12 Monolitu.\n \n
-		%c[ui_gray_1] W skład zestawu wchodzą: ergonomiczna lufa umożliwiająca montaż podlufowego granatnika 30mm oraz przyrządy celownicze na krótkie i średnie dystanse: Trijicon Acog oraz AN/PEQ-16 LAM. W zestawie znajduje się również komplet magazynków na 60 naboi. Tego ulepszenia nie można usunąć.</text>
-	</string>
 	
 	<string id="st_addon_sil_aac762">
 		<text>Tłumik AAC 7.62 SDN-6</text>
 	</string>
 	<string id="st_addon_sil_aac762_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62x54 mm\n \n%c[ui_gray_1]Tłumik dźwiękuAAC 7,62 SDN-6, zaprojektowany do użytku z amunicją 7,62x51 mm NATO, ale działa również jako doskonały wielokalibrowy tłumik dla wielu innych typów amunicji, zapewniając doskonałą wydajność z 7,62 mm NATO, .300 AAC, 6,8 SPC, 6,5 oraz 5,56 mm NATO. Tłumik można zainstalować tylko na urządzeniach kompatybilnych z "51T".</text>
+		<text>Tłumik dźwięku AAC 7,62 SDN-6, zaprojektowany do użytku z amunicją 7,62x51 mm NATO, ale działa również jako doskonały wielkokalibrowy tłumik dla wielu innych typów amunicji, zapewniając doskonałą wydajność z 7,62 mm NATO, .300 AAC, 6,8 SPC, 6,5 oraz 5,56 mm NATO. Tłumik można zainstalować tylko na urządzeniach kompatybilnych z "51T".\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 7.62x54 mm\n \n
+		</text>
 	</string>
 	
 	<string id="st_addon_sil_tgpv">
 		<text>Tłumik TGP-V</text>
 	</string>
 	<string id="st_addon_sil_tgpv_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62x54 mm\n \n%c[ui_gray_1]Tłumik taktyczny/tłumik błysku, zaprojektowany specjalnie do użycia w karabinie SWDS.</text>
+		<text>Tłumik taktyczny/tłumik płomienia, zaprojektowany specjalnie do używania z karabinem SWDS.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 7.62x54 mm\n \n
+		</text>
 	</string>		
 	
 	<string id="st_addon_sil_osp9">
 		<text>Tłumik Osprey-9</text>
 	</string>
 	<string id="st_addon_sil_osp9_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm\n \n%c[ui_gray_1]Lekki tłumik dźwięku firmy SilencerCo do pistoletów 9mm.</text>
+		<text>Lekki tłumik dźwięku firmy SilencerCo do pistoletów kalibru 9mm.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 9 mm\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_pmm">
-		<text>Tłumik PMM</text>
+		<text>Tłumik do PMM</text>
 	</string>
 	<string id="st_addon_sil_pmm_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm\n \n%c[ui_gray_1]Tłumik dźwięku do pistoletów PMM. Może być również używany z dowolnymi pistoletami 9x18 mm, o ile mają podobny gwint lufy.</text>
-	</string>
-
-	<string id="st_addon_scope_kit_aus_tri">
-		<text>Zestaw taktyczny "Skaut" do SA-58</text>
-	</string>
-	<string id="st_addon_scope_kit_aus_tri_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] SA-58 AUS "Styl Austriacki".\n \n%c[ui_gray_1]
-		Zestaw zamieniający broń w świetny karabin wyborowy. W skład zestawu wchodzą: chwyt pistoletowy Fab AG FAL, osłona przeciwkurzowa DS Arms Extreme Duty z szyn montażowych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostępne są również dwie lunety: Aimpoint T1 na NcStar 45 i Trijicon Acog. Tego ulepszenia nie można usunąć.</text>
-	</string>
-	
-	<string id="st_addon_scope_kit_fal_leup">
-		<text>Zestaw taktyczny "Maruder" do SA-58</text>
-	</string>
-	<string id="st_addon_scope_kit_fal_leup_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] SA-58 AUS "Styl Austriacki".\n \n%c[ui_gray_1]
-		Zestaw zamieniający broń w świetny karabin wyborowy. W skład zestawu wchodzą: chwyt pistoletowy Fab AG FAL, osłona przeciwkurzowa DS Arms Extreme Duty z szyn montażowych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostępne są również dwie lunety: Aimpoint T1 na NcStar 45 i Leupold Mark 8 CQBSS. Tego ulepszenia nie można usunąć.</text>
-	</string>	
-
-	<string id="st_addon_scope_kit_sa5x_spec">
-		<text>Zestaw taktyczny "Obrońca" do SA-58</text>
-	</string>
-	<string id="st_addon_scope_kit_sa5x_spec_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] DS Arms SA-58 AUS "Styl Austriacki".\n \n%c[ui_gray_1]
-		Zestaw zamieniający broń w świetny karabin wyborowy. W skład zestawu wchodzą: chwyt pistoletowy Fab AG FAL, osłona przeciwkurzowa DS Arms Extreme Duty z szyn montażowych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostępne są również dwie lunety: Aimpoint T1 na NcStar 45 i ELCAN SpectreDR. Tego ulepszenia nie można usunąć.</text>
+		<text>Tłumik dźwięku do pistoletów PMM. Może być również używany z dowolnymi pistoletami 9x18 mm, o ile mają podobny gwint lufy.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 9 mm\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_geks545">
 		<text>Tłumik 5.45 mm/7.62x39 mm Hexagon</text>
 	</string>
 	<string id="st_addon_sil_geks545_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 7.62x54 mm, 5.45 mm\n \n%c[ui_gray_1]Tłumik dźwięku firmy Hexagon do kalibrów 5,45x39 mm i 7,62x39 mm.</text>
+		<text>Tłumik dźwięku firmy Hexagon do kalibrów 5,45x39 mm i 7,62x39 mm.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 7.62x54 mm, 5.45 mm\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_kek12">
 		<text>Tłumik 12K Hexagon</text>
 	</string>
 	<string id="st_addon_sil_kek12_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 12 mm\n \n%c[ui_gray_1]Tłumik dźwięku firmy Hexagon do strzelb i karabinków kalibru 12ga.</text>
+		<text>Tłumik dźwięku firmy Hexagon do strzelb i karabinków kalibru 12ga.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 12 mm\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_black_box">
 		<text>Tłumik AAC Black Box</text>
 	</string>
 	<string id="st_addon_sil_black_box_descr">
-		<text>\n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm, .45\n \n%c[ui_gray_1]Tłumik dźwięku BLACK BOX .45 produkcji Advanced Armament Corp. Współpracuje z większością pistoletów 9mm i 45ACP,  pasuje wyłącznie do luf gwintowanych.</text>
-	</string>
-
-	<string id="st_addon_scope_226sig_kit">
-		<text>Zestaw taktyczny do SIG Sauer P226R</text>
-	</string>
-	<string id="st_addon_scope_226sig_kit_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet SIG Sauer P226R\n \n%c[ui_gray_1]
- Zestaw zawiera: Lufę gwintowaną do stosowania z tłumikiem, ergonomiczne płytki chwytowe oraz celownik Trijicon RMR na podczerwień z szyn montażowych montażową. Tego ulepszenia nie można usunąć.\n</text>																																									
-	</string>
-
-	<string id="st_addon_scope_mod9">
-		<text>Zestaw taktyczny do Walthera P99</text>
-	</string>
-	<string id="st_addon_scope_mod9_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet Walther P99\n \n%c[ui_gray_1]
-		W skład zestawu wchodzą: lufa gwintowana do stosowania z tłumikiem, celowniki Tritium oraz celownik laserowy Viridian X5L. Tego ulepszenia nie można usunąć.\n</text>																																			  
-	</string>
-
-	<string id="st_addon_scope_upg220">
-		<text>Zestaw taktyczny do SIG Sauer P220</text>
-	</string>
-	<string id="st_addon_scope_upg220_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet SIG Sauer P220\n \n%c[ui_gray_1]
-		Zestaw zawiera: Lufę gwintowaną do stosowania z tłumikiem, celowniki Tritium i celownik laserowy Viridian X5L oraz rozszerzony magazynek o pojemności na 12 naboi. Tego ulepszenia nie można usunąć.\n</text>																																										   
+		<text>Tłumik dźwięku BLACK BOX .45 produkcji Advanced Armament Corp. Współpracuje z większością pistoletów 9mm i 45ACP,  pasuje wyłącznie do luf gwintowanych.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń kalibru 9 mm i .45 ACP\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_23_up">
 		<text>Lufa 510 mm do KS-23</text>
 	</string>
 	<string id="st_addon_scope_23_up_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin KS-23\n \n%c[ui_gray_1]
-		Krótka i lekka lufa do karabinka KS-23. Tego ulepszenia nie można usunąć.\n</text>																		
-	</string>
-
-	<string id="st_addon_scope_kab_up">
-		<text>Zestaw taktyczny do KS-23 "Drozd"</text>
-	</string>
-	<string id="st_addon_scope_kab_up_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin KS-23M "Drozd"\n \n%c[ui_gray_1]
-		W zestawie zestawu zestawu: Lufa gwintowana do stosowania z tłumikiem oraz celownik Trijicon RMR z szyn montażowych montażową. Tego ulepszenia nie można usunąć.\n</text>																																		 
+		<text>Krótka i lekka lufa do karabinka KS-23. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNA Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Strzelba KS-23\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_daniel">
 		<text>Tłumik Daniel Defence Wave QD</text>
 	</string>
 	<string id="st_addon_sil_daniel_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Remington Model 700\n \n%c[ui_gray_1]Tłumik dźwięku Daniel Defense Wave QD, który można zainstalować do Remington Model 700.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
-	</string>
-
-	<string id="st_addon_scope_archangel">
-		<text>Kolba polimerowa Promag Archangel do Remingtona M700</text>
-	</string>
-	<string id="st_addon_scope_archangel_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Remington M700\n \n%c[ui_gray_1]
-		Polimerowa kolba Archangel do karabinu Remington Model 700. Zawiera zestaw 20 magazynków nabojowych. Tego ulepszenia nie można usunąć.\n</text>																													
-	</string>
-
-	<string id="st_addon_scope_magpul_pro">
-		<text>Obudowa Magpul PRO 700 do Remingtona M700</text>
-	</string>
-	<string id="st_addon_scope_magpul_pro_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Remington M700\n \n%c[ui_gray_1]
-		PRO 700 to lekka, ergonomiczna obudowa zaprojektowana dla Remington Model 700 przez firmę Magpul. W zestawie znalazło się 12 okrągłych magazynków i celownik kolimatorowy Trijicon RMR, do montażu na szynie pod kątem 45 stopni. Tego ulepszenia nie można usunąć.\n</text>																																																						   
-	</string>
-
-	<string id="st_addon_scope_mod_x_gen3">
-		<text>Obudowa MOD X Gen. III do Remingtona M700</text>
-	</string>
-	<string id="st_addon_scope_mod_x_gen3_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Remington M700\n \n%c[ui_gray_1]
-		Modułowy System Karabinów A*B Arms MOD X GEN III to lekka, ergonomiczna i wytrzymała obudowa zaprojektowana dla Remington Model 700. Zawiera zestaw 12 okrągłych magazynków i kolimator Leupold DeltaPoint PRO wraz z szyn montażowych do montażu pod kątem 45 stopni. Tego ulepszenia nie można usunąć.\n</text>																																																																	
+		<text>Tłumik dźwięku Daniel Defense Wave QD, który można zainstalować do Remington Model 700.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Remington Model 700\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_sr1m">
 		<text>Tłumik SR1MP "Żmija"</text>
 	</string>
 	<string id="st_addon_sil_sr1m_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet SR1MP 9x21 mm\n \n%c[ui_gray_1]Standardowy tłumik do pistoletu SR-1MP. Wymaga zestawu taktycznego z długą lufą do zamontowania na broni.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
-	</string>
-
-	<string id="st_addon_scope_sr1upgr1">
-		<text>Zestaw taktyczny do SR1MP "Żmija"</text>
-	</string>
-	<string id="st_addon_scope_sr1upgr1_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet SR1MP 9x21 mm\n \n%c[ui_gray_1]
-		Zestaw zawiera przyrządy celownicze Tritium, moduł celowania laserowego oraz długą lufę umożliwiającą montaż tłumika. Tego ulepszenia nie można usunąć.\n</text>																																		   
+		<text>Standardowy tłumik do pistoletu SR-1MP. Wymaga zestawu taktycznego z długą lufą do zamontowania na broni.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet SR1MP 9x21 mm\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_silen98">
 		<text>Adapter tłumika do Mausera 98k "Leśnik"</text>
 	</string>
 	<string id="st_addon_scope_silen98_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Mauser 98k "Leśnik"\n \n%c[ui_gray_1]
-		Adapter lub urządzenie wylotowe umożliwiające zastosowanie tłumika dźwięku z karabinem snajperskim Mauser 98k "Leśnik". Tego ulepszenia nie można usunąć.\n</text>																																	 
+		<text>Adapter lub urządzenie wylotowe umożliwiające zastosowanie tłumika dźwięku z karabinem snajperskim Mauser 98k "Leśnik". Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] adapter lub urządzenie wylotowe do użytku z tłumikiem\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Mauser 98k "Leśnik"\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_forester">
 		<text>Tłumik do Mausera 98k "Leśnik"</text>
 	</string>
 	<string id="st_addon_sil_forester_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Mauser 98k "Leśnik"\n \n%c[ui_gray_1]
- Domowej roboty tłumik, wykonany przez doświadczonego stalkera imieniem Leśnik, do karabinu snajperskiego Mauser 98k. Do zamocowania tłumika na lufie karabinu wcześniej należy zainstalować specjalny adapter.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
-	</string>
-
-	<string id="st_addon_scope_swamp">
-		<text>Zestaw taktyczny "Błotniak" do AK-105</text>
-	</string>
-	<string id="st_addon_scope_swamp_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin AK-105\n \n%c[ui_gray_1]
-		Bardzo rzadki i niezbyt popularny zestaw do AK-105, głównie ze względu na wysoką cenę. Bardzo podobny do zestawu używanego przez Powinność. Występuje głównie wśród weteranów frakcji Czyste Niebo. W skład zestawu wchodzi wydłużony czubek, ergonomiczna kolba oraz wygodniejszy chwyt pistoletowy. Ponadto, zestaw zawiera ulepszony spust oraz trzy przyrządy celownicze, które zamieniają broń w „idealnego towarzysza” do walki na bliskim i średnim dystansie. Lunety dołączone do zestawu to Elcan SpectreDR, kalimator Trijicon RMR montowany pod kątem 45 stopni i AN/PEQ-15 LAM. W zestawie znajduje się również komplet 45-nabojowych magazynków. Tego ulepszenia nie można usunąć.\n</text>																																																																																																																																																						   
-	</string>
-
-	<string id="st_addon_scope_lapua700">
-		<text>Zestaw taktyczny "Łowca Jeleni" kal.338 do Remingtona M700t</text>
-	</string>
-	<string id="st_addon_scope_lapua700_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Remington M700\n \n%c[ui_gray_1]
-		Zestaw do konwersji karabinu Remingtona Model 700 z kalibru .308 na mocniejszy .338 Lapua Magnum, do zwalczania celów na bardzo długich dystansach. Zawiera lufę 338 z gwintem na tłumik .338, kolbę Magpul Pro z blokadą lufy, komplet magazynków na 338LM oraz ulepszony celownik Leupold. Tego ulepszenia nie można usunąć.\n</text>																																																																																		  
-	</string>
-
-	<string id="st_addon_scope_gurza_up">
-		<text>Zaawansowany zestaw taktyczny do SR1MP "Żmija"</text>
-	</string>
-	<string id="st_addon_scope_gurza_up_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet SR1MP 9x21 mm "Żmija"\n \n%c[ui_gray_1]
-		Zestaw zawiera celowniki LAM, Trijicon RMR oraz szyny montażowe niezbędne do montażu modyfikacji na pistolecie. Tego ulepszenia nie można usunąć.\n</text>																						
+		<text>Domowej roboty tłumik, wykonany przez doświadczonego stalkera imieniem Leśnik, do karabinu snajperskiego Mauser 98k. Do zamocowania tłumika na lufie karabinu wcześniej należy zainstalować specjalny adapter.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Mauser 98k "Leśnik"\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_lazup_pl15">
 		<text>Celownik LAM do PL-15 "Lebiediew"</text>
 	</string>
 	<string id="st_addon_scope_lazup_pl15_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet PL-15 "Lebiediew"\n \n%c[ui_gray_1]
-		Służy do strzelania celowanego z dowolnej pozycji.\n</text>											 
-	</string>
-
-	<string id="st_addon_scope_pl15_scolaz">
-		<text>Zaawansowany zestaw taktyczny "Taktyk" do PL-15</text>
-	</string>
-	<string id="st_addon_scope_pl15_scolaz_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet PL-15 "Lebiediew"\n \n%c[ui_gray_1]
-		Zestaw zawiera lunetę LAM, lunetę Aimpoint T1 i szyny montażowe niezbędne do zastosowania modyfikacji. Tego ulepszenia nie można usunąć.\n</text>																				   
+		<text>Celownik ten służy do strzelania celowanego z dowolnej pozycji.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet PL-15 "Lebiediew"\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_lapu7">
 		<text>Tłumik do Remingtona M700 .338LM</text>
 	</string>
 	<string id="st_addon_sil_lapu7_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Remington M700 .338 Lapua Magnum\n \n%c[ui_gray_1]
- Tłumik dźwięku z obudową chroniącą przed nagrzewaniem do karabinu Remington M700 w wariancie .338 Lapua Magnum\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik dźwięku z obudową chroniącą przed nagrzewaniem do karabinu Remington M700 w wariancie .338 Lapua Magnum\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700 .338 Lapua Magnum\n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_pl15">
 		<text>Tłumik do PL-15</text>
 	</string>
 	<string id="st_addon_sil_pl15_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet PL-15 "Lebiediew"\n \n%c[ui_gray_1]Tłumik dźwięku z osłoną przeciwnagrzewającą do pistoletu PL-15 "Lebiediew".\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
-	</string>
-
-	<string id="st_addon_scope_shakal">
-		<text>Celownik "Szakal" do AK-105</text>
-	</string>
-	<string id="st_addon_scope_shakal_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin AK-105\n \n%c[ui_gray_1]
-		Rzadki i kosztowny zestaw do dla AK-105. Bardzo podobny do zestawu używanego przez Czyste Niebo. Występuje głównie wśród weteranów grupy Powinność. W skład zestawu wchodzi wydłużony czubek, ergonomiczna kolba oraz wygodniejszy chwyt pistoletowy. Ponadto zestaw zawiera ulepszony spust oraz trzy przyrządy celownicze, które zamieniają broń w „idealnego towarzysza” do walki na bliskim i średnim dystansie. Lunety dołączone do zestawu to Trijicon Acog, kalimator Trijicon RMR montowany pod kątem 45 stopni i AN/PEQ-15 LAM. W zestawie znajduje się również komplet 45-nabojowych magazynków. Tego ulepszenia nie można usunąć.\n</text>																																																																																																																																																	
+		<text>Tłumik dźwięku z osłoną zapobiegającą przegrzaniu lufy do pistoletu PL-15 "Lebiediew".\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %cui_gray_2] Pistolet PL-15 "Lebiediew"\n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_spec_isg">
 		<text>Tłumik Rifle Dynamics ISG</text>
 	</string>
 	<string id="st_addon_sil_spec_isg_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń ISG kalibru 5.45 mm/7.62x54 mm\n \n%c[ui_gray_1]Tłumik dźwięku używany przez jednostki Międzynarodowej Grupy Badawczej w Zonie. Wykonane przez amerykańską firmę Rifle Dynamics.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]wysokie</text>
-	</string>
-
-	<string id="st_addon_scope_u2p2g0r">
-		<text>Zestaw taktyczny "Dziewiątka" do SIG Sauera P220</text>
-	</string>
-	<string id="st_addon_scope_u2p2g0r_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet SIG Sauer P220\n \n%c[ui_gray_1]
-		Zestaw zawiera: Lufę gwintowaną na kaliber 9x19 mm do stosowania z tłumikiem, przyrządy celownicze Tritium i celownik laserowy Viridian X5L, rozszerzony magazynek na 19 naboi oraz polimerowe zamienniki obudowy. Tego ulepszenia nie można usunąć.\n</text>																																																							  
+		<text>Tłumik dźwięku używany przez jednostki Międzynarodowej Grupy Badawczej w Zonie. Wykonane przez amerykańską firmę Rifle Dynamics.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń ISG kalibru 5.45 mm/7.62x54 mm\n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_apb">
 		<text>Tłumik APB</text>
 	</string>
 	<string id="st_addon_sil_apb_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broń kalibru 9 mm\n \n%c[ui_gray_1]Tłumik do zmodyfikowanego pistoletu APS.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
-	</string>
-
-	<string id="st_addon_scope_apsabigo">
-		<text>Zestaw taktyczny do pistoletu APS</text>
-	</string>
-	<string id="st_addon_scope_apsabigo_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet APS\n \n%c[ui_gray_1]
-		W skład zestawu wchodzą: Gwintowana lufa do stosowania z tłumikiem dźwięku APB, przyrządy celownicze Tritium oraz ergonomiczna gumka do chwytu pistoletowego. Tego ulepszenia nie można usunąć.\n</text>																																							
+		<text>Tłumik do zmodyfikowanego pistoletu APS.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] APS Stieczkin\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_kp_sr2">
 		<text>Celownik refleksyjny do KP SR-2</text>
 	</string>
 	<string id="st_addon_scope_kp_sr2_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet maszynowy SR-2M\n \n%c[ui_gray_1]
-		Celownik refleksyjny KP SR-2 ma na celu zwiększenie skuteczności strzelania z pistoletu maszynowego SR-2M kalibru 9x21mm w każdych warunkach pogodowych i dowolnej widoczności.\n</text>																																						   
+		<text>Celownik refleksyjny KP SR-2 ma na celu zwiększenie skuteczności strzelania z pistoletu maszynowego SR-2M kalibru 9x21mm w każdych warunkach pogodowych i dowolnej widoczności.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet maszynowy SR-2M\n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_veresk">
 		<text>Tłumik GZV-SR2</text>
 	</string>
 	<string id="st_addon_sil_veresk_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet maszynowy SR-2M\n \n%c[ui_gray_1]Tłumik przystosowany do montażu z pistoletem maszynowym SR-2M.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik przystosowany do montażu z pistoletem maszynowym SR-2M.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet maszynowy SR-2M\n
+		</text>
 	</string>
-	
-	<string id="st_addon_scope_sr2_upkit">
-		<text>Zestaw taktyczny do SR-2M Veresk</text>
-	</string>
-	<string id="st_addon_scope_sr2_upkit_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] pistolet maszynowy SR-2M\n \n%c[ui_gray_1]
-		W skład zestawu wchodzą: przednia część taktyczna z szynami montażowymi Picatinny, luneta LAM oraz celownik refleksyjny kompatybilny z pistoletem maszynowym KP SR-2. Tego ulepszenia nie można usunąć.\n</text>																													  
-	</string>	
 
 	<string id="st_grenade_launcher_monolit">
 		<text>Granatnik "Strażnik"</text>
 	</string>
 	<string id="st_grenade_launcher_monolit_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] AK-12 Monolitu z zainstalowanym zestawem taktycznym\n \n%c[ui_gray_1]
-		Lekki granatnik 30mm, opracowany przez techników frakcji Monolit, na bazie specjalnego, kompaktowego granatnika 6G17 Kanaryka.\n %c[d_purple] • %c[ui_gray_2] amunicja: %c[ui_gray_1]granat VOG-30 30mm\n</text>																	 
+		<text>Lekki granatnik 30mm, opracowany przez techników frakcji Monolit, na bazie specjalnego, kompaktowego granatnika 6G17 Kanaryka.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] AK-12 "Światło Monolitu"\n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_auga">
 		<text>Tłumik do Steyr UMS</text>
 	</string>
 	<string id="st_addon_sil_auga_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin Aug Steyr\n \n%c[ui_gray_1]Steyr UMS (Universal Military Suppressor) to tłumik dźwięku do użytku z karabinem Aug Steyr, zasilanym amunicją 5,56 mm NATO.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
-	</string>
-
-	<string id="st_addon_scope_5c_tik">
-		<text> Zestaw specjalny ISG do AK 5C</text>
-	</string>
-	<string id="st_addon_scope_5c_tik_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin AK 5C\n \n%c[ui_gray_1]Zestaw dodatków do AK 5C. Przekształca standardowy AK 5C w skróconą wersję, dostosowaną do każdych warunków. Zestaw pojawił się w Zonie wkrótce po powstaniu ISG.\n \n%c[d_purple] • %c[ui_gray_2] W skład zestawu wchodzi niskoprofilowy chwyt przedni, lunety LA5 LAM, Leupold LCO i D'evo x6 oraz krótka lufa ze wszystkimi niezbędnymi do jej montażu komponentami. W zestawie również zmodyfikowany moduł gazowy zwiększający szybkostrzelność. Tego ulepszenia nie można usunąć.</text>
+		<text>Steyr UMS (Universal Military Suppressor) to tłumik dźwięku do użytku z karabinem Aug Steyr, zasilanym amunicją 5,56 mm NATO.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Austria\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Aug Steyr\n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_m42k">
 		<text>Tłumik AAC M4-2000</text>
 	</string>
 	<string id="st_addon_sil_m42k_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin M4A1 RAS, karabin L85\n \n%c[ui_gray_1]Niezawodny, uniwersalny tłumik wyprodukowany przez firmę Advanced Armament Corp, przeznaczony do karabinków AR-15.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Niezawodny, uniwersalny tłumik wyprodukowany przez firmę Advanced Armament Corp, przeznaczony do karabinków AR-15.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin M4A1 RAS, karabin L85A2\n
+		</text>
 	</string>
 
-			<string id="st_addon_scope_susatov">
-		<text>Celownik SUSAT (tylko montaż natywny do L85)</text>
+	<string id="st_addon_scope_susatov">
+		<text>Celownik SUSAT (tylko do L85)</text>
 	</string>
 	<string id="st_addon_scope_susatov_descr">
-		<text>SUSAT to celownik optyczny 4X, opracowany w Wielkiej Brytanii w Centrum Badawczo-Rozwojowym Royal Arms. Wyprodukowane przez Avimo oraz United Scientific Instruments. Jest najczęściej używany do strzelania celowanego z lekkiej broni strzeleckiej na średnich i długich dystansach. Jest montowany do L85 na specjalnej szynie montażowej typu Jaskółczy Ogon. (Luneta ma na sobie zapasowe przyrządy celownicze).</text>
+		<text>SUSAT to celownik optyczny 4X, opracowany w Wielkiej Brytanii w Centrum Badawczo-Rozwojowym Royal Arms. Wyprodukowane przez Avimo oraz United Scientific Instruments. Jest najczęściej używany do strzelania celowanego z lekkiej broni strzeleckiej na średnich i długich dystansach. Jest montowany do L85 na specjalnej szynie montażowej typu Jaskółczy Ogon (celownik ma na sobie zapasowe przyrządy celownicze).
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Wielka Brytania\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Royal Armament Research Development\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Taktyczny L85A2\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_surfire">
 		<text>Tłumik Surefire SOCOM556-MONSTER</text>
 	</string>
 	<string id="st_addon_sil_surfire_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin taktyczny M4\n \n%c[ui_gray_1]Tłumik Surefire SOCOM556-MONSTER przeznaczony do karabinów zasilanych amunicją kalibru 5,56x45 mm NATO.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik Surefire SOCOM556-MONSTER przeznaczony do karabinów zasilanych amunicją kalibru 5,56x45 mm NATO.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin taktyczny M4\n \n
+		</text>
 	</string>
 
 	<string id="st_grenade_launcher_scar">
 		<text>Granatnik FN40GL</text>
 	</string>
 	<string id="st_grenade_launcher_scar_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] karabin FN SCAR\n \n%c[ui_gray_1]
-		Granatnik podlufowy 40 mm, opracowany przez belgijską firmę FN Herstal, przeznaczony do montażu do karabinu szturmowego FN SCAR.\n
-		%c[d_purple] • %c[ui_gray_2] amunicja: %c[ui_gray_1]granat M203 40mm\n</text>
+		<text>Granatnik podlufowy 40 mm, opracowany przez belgijską firmę FN Herstal, przeznaczony do montażu do karabinu szturmowego FN SCAR.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Belgia\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin FN SCAR\n \n
+		</text>
 	</string>
 
 	<string id="st_grenade_launcher_l85">
 		<text>Granatnik M320</text>
 	</string>
 	<string id="st_grenade_launcher_l85_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] Taktyczny L85A2\n \n%c[ui_gray_1]
-		Podlufowy granatnik M320 opracowany przez firmę Heckler und Koch w 2008 roku w celu zastąpienia granatnika M203.\n
-		%c[d_purple] • %c[ui_gray_2] amunicja: %c[ui_gray_1]granat M203 40mm\n</text>
-	</string>	
+		<text>Podlufowy granatnik M320 opracowany przez firmę Heckler und Koch w 2008 roku w celu zastąpienia granatnika M203.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Taktyczny L85A2\n \n
+		</text>
+	</string>
 
 	<string id="st_addon_sil_kac4">
 		<text>Tłumik KAC QDSS NT-4 5.56x45 mm</text>
 	</string>
 	<string id="st_addon_sil_kac4_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]karabin Howa Type 20\n \n%c[ui_gray_1]Tłumik QDSS NT-4, wyprodukowany przez koncern Knights Armament, przeznaczony do karabinów zasilanych amunicją 5,56x45 mm NATO.\n \n%c[d_purple] • %c[ui_gray_2] wyciszenie: %c[ui_gray_1]średnie</text>
+		<text>Tłumik QDSS NT-4, wyprodukowany przez koncern Knights Armament, przeznaczony do karabinów zasilanych amunicją 5,56x45 mm NATO.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Japonia\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Howa Type 20\n
+		</text>
+	</string>
+
+<!--
+	ZESTAWY TAKTYCZNE
+-->
+	<string id="st_addon_scope_mono_kit">
+		<text>Zestaw taktyczny do AK-12 Monolitu</text>
+	</string>
+	<string id="st_addon_scope_mono_kit_descr">
+		<text>W skład zestawu wchodzą: ergonomiczna lufa umożliwiająca montaż podlufowego granatnika 30mm oraz przyrządy celownicze na krótkie i średnie dystanse: Trijicon ACOG oraz AN/PEQ-16 LAM. W zestawie znajduje się również komplet magazynków na 60 naboi. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomiczne ramię do montażu granatnika podlufowego 30 mm\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG\n
+		%c[d_cyan] • %c[ui_gray_2] TNVC AN/PEQ-16 LAM illumination module\n
+		%c[d_cyan] • %c[ui_gray_2] magazynek bębnowy na 60 naboi\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] AK-12 Monolitu\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kit_aus_tri">
+		<text>Zestaw taktyczny "Skaut" do SA-58</text>
+	</string>
+	<string id="st_addon_scope_kit_aus_tri_descr">
+		<text>Zestaw zamieniający broń w świetny karabin wyborowy. W skład zestawu wchodzą: chwyt pistoletowy Fab AG FAL, osłona przeciwkurzowa DS Arms Extreme Duty z szyn montażowych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostępne są również dwie lunety: Aimpoint T1 na NcStar 45 i Trijicon ACOG. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] chwyt pistoletowy Fab AG FAL\n
+		%c[d_cyan] • %c[ui_gray_2] osłonę przeciwkurzową SA-58 Extreme Duty\n
+		%c[d_cyan] • %c[ui_gray_2] szynę Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] chwyt przedni Vltor CASV\n
+		%c[d_cyan] • %c[ui_gray_2] lufę 21" \n
+		%c[d_cyan] • %c[ui_gray_2] kolbę DSA BRS \n
+		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG\n \n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS "Styl Austriacki"\n \n
+		</text>
 	</string>
 	
-	<string id="st_addon_scope_okep77">
-		<text>OKP-77 (dla szyn Picatinny/Weaver)</text>
+	<string id="st_addon_scope_kit_fal_leup">
+		<text>Zestaw taktyczny "Maruder" do SA-58</text>
 	</string>
-	<string id="st_addon_scope_okep77_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]OC-02 Kiparis\n \n%c[ui_gray_1]Celownik ten różni się od OKP-7 mniej kłopotliwym mocowaniem, które pozwala zamontować kolimator na krótkiej szynie Picatinny na karabinku Kiparis SMG.\n </text>
+	<string id="st_addon_scope_kit_fal_leup_descr">
+		<text>Zestaw zamieniający broń w świetny karabin wyborowy. W skład zestawu wchodzą: chwyt pistoletowy Fab AG FAL, osłona przeciwkurzowa DS Arms Extreme Duty z szyn montażowych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostępne są również dwie lunety: Aimpoint T1 na NcStar 45 i Leupold Mark 8 CQBSS. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] chwyt pistoletowy Fab AG FAL\n
+		%c[d_cyan] • %c[ui_gray_2] osłonę przeciwkurzową SA-58 Extreme Duty\n
+		%c[d_cyan] • %c[ui_gray_2] szynę Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] chwyt przedni Vltor CASV\n
+		%c[d_cyan] • %c[ui_gray_2] lufę 21" \n
+		%c[d_cyan] • %c[ui_gray_2] kolbę DSA BRS \n
+		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Leupold Mark 8 CQBSS\n \n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS "Styl Austriacki"\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_kit_sa5x_spec">
+		<text>Zestaw taktyczny "Obrońca" do SA-58</text>
+	</string>
+	<string id="st_addon_scope_kit_sa5x_spec_descr">
+		<text>Zestaw zamieniający broń w świetny karabin wyborowy. W skład zestawu wchodzą: chwyt pistoletowy Fab AG FAL, osłona przeciwkurzowa DS Arms Extreme Duty z szyn montażowych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostępne są również dwie lunety: Aimpoint T1 na NcStar 45 i ELCAN SpectreDR. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] chwyt pistoletowy Fab AG FAL\n
+		%c[d_cyan] • %c[ui_gray_2] osłonę przeciwkurzową SA-58 Extreme Duty\n
+		%c[d_cyan] • %c[ui_gray_2] szynę Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] chwyt przedni Vltor CASV\n
+		%c[d_cyan] • %c[ui_gray_2] lufę 21" \n
+		%c[d_cyan] • %c[ui_gray_2] kolbę DSA BRS \n
+		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n \n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] DS Arms SA-58 AUS "Styl Austriacki"\n \n
+		</text>
 	</string>
 
-	<string id="st_addon_sil_kip">
-		<text>Tłumik PBS-0217</text>
+	<string id="st_addon_scope_226sig_kit">
+		<text>Zestaw taktyczny do SIG Sauer P226R</text>
 	</string>
-	<string id="st_addon_sil_kip_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]OC-02 Kiparis\n \n%c[ui_gray_1]Tłumik dźwięku produkcji CKIB COO Tula do karabinku OC-02 Kiparis.\n \n%c[d_purple] • %c[ui_gray_2] Tłumienie dźwięku: %c[ui_gray_1]średnie</text>
+	<string id="st_addon_scope_226sig_kit_descr">
+		<text>Zestaw zawiera: Lufę gwintowaną do stosowania z tłumikiem, ergonomiczne płytki chwytowe oraz celownik Trijicon RMR na podczerwień z szyn montażowych montażową. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] gwintowaną lufę do użytku z tłumikiem\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet SIG Sauer P226R\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mod9">
+		<text>Zestaw taktyczny do Walthera P99</text>
+	</string>
+	<string id="st_addon_scope_mod9_descr">
+		<text>W skład zestawu wchodzą: lufa gwintowana do stosowania z tłumikiem, celowniki Tritium oraz celownik laserowy Viridian X5L. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] gwintowaną lufę do użytku z tłumikiem\n
+		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrządów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] celownik laserowy Viridian X5L\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet Walther P99\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_upg220">
+		<text>Zestaw taktyczny do SIG Sauer P220</text>
+	</string>
+	<string id="st_addon_scope_upg220_descr">
+		<text>Zestaw zawiera: Lufę gwintowaną do stosowania z tłumikiem, celowniki Tritium i celownik laserowy Viridian X5L oraz rozszerzony magazynek o pojemności na 12 naboi. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] gwintowaną lufę do użytku z tłumikiem\n
+		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrządów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] celownik laserowy Viridian X5L\n
+		%c[d_cyan] • %c[ui_gray_2] magazynek na 12 naboi\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet SIG Sauer P220
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sr1upgr1">
+		<text>Zestaw taktyczny do SR1MP "Żmija"</text>
+	</string>
+	<string id="st_addon_scope_sr1upgr1_descr">
+		<text>Zestaw zawiera przyrządy celownicze z trytowymi wstawkami, moduł celowania laserowego oraz długą lufę umożliwiającą montaż tłumika. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] gwintowaną lufę do użytku z tłumikiem\n
+		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrządów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] moduł celownika laserowego\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet SR1MP 9x21 mm\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kab_up">
+		<text>Zestaw taktyczny do KS-23 "Drozd"</text>
+	</string>
+	<string id="st_addon_scope_kab_up_descr">
+		<text>W zestawie zestawu zestawu: Lufa gwintowana do stosowania z tłumikiem oraz celownik Trijicon RMR z szyn montażowych montażową. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] gwintowaną lufę do użytku z tłumikiem\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Strzelba KS-23M "Drozd"\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_archangel">
+		<text>Kolba polimerowa Promag Archangel do Remingtona M700</text>
+	</string>
+	<string id="st_addon_scope_archangel_descr">
+		<text>Polimerowa kolba Archangel do karabinu Remington Model 700. Zawiera zestaw 20 magazynków nabojowych. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] kolbę polimerową Archangel\n
+		%c[d_cyan] • %c[ui_gray_2] zestaw 20-nabojowych magazynków\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_magpul_pro">
+		<text>Obudowa Magpul PRO 700 do Remingtona M700</text>
+	</string>
+	<string id="st_addon_scope_magpul_pro_descr">
+		<text>PRO 700 to lekka, ergonomiczna obudowa zaprojektowana dla Remington Model 700 przez firmę Magpul. W zestawie znalazło się 12 okrągłych magazynków i celownik kolimatorowy Trijicon RMR, do montażu na szynie pod kątem 45 stopni. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] kolbę polimerową Magpul PRO 700\n
+		%c[d_cyan] • %c[ui_gray_2] zestaw 12-nabojowych magazynków\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_mod_x_gen3">
+		<text>Obudowa MOD X Gen. III do Remingtona M700</text>
+	</string>
+	<string id="st_addon_scope_mod_x_gen3_descr">
+		<text>Modułowy System Karabinów A*B Arms MOD X GEN III to lekka, ergonomiczna i wytrzymała obudowa zaprojektowana dla Remington Model 700. Zawiera zestaw 12 okrągłych magazynków i kolimator Leupold DeltaPoint PRO wraz z szyn montażowych do montażu pod kątem 45 stopni. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] modularny system karabinowy ABAC MOD X GEN III\n
+		%c[d_cyan] • %c[ui_gray_2] zestaw 12-nabojowych magazynków\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Leupold DeltaPoint PRO\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_swamp">
+		<text>Zestaw taktyczny "Błotniak" do AK-105</text>
+	</string>
+	<string id="st_addon_scope_swamp_descr">
+		<text>Bardzo rzadki i niezbyt popularny zestaw do AK-105, głównie ze względu na wysoką cenę. Bardzo podobny do zestawu używanego przez Powinność. Występuje głównie wśród weteranów frakcji Czyste Niebo. W skład zestawu wchodzi wydłużony czubek, ergonomiczna kolba oraz wygodniejszy chwyt pistoletowy. Ponadto, zestaw zawiera ulepszony spust oraz trzy przyrządy celownicze, które zamieniają broń w „idealnego towarzysza” do walki na bliskim i średnim dystansie. Lunety dołączone do zestawu to Elcan SpectreDR, kalimator Trijicon RMR montowany pod kątem 45 stopni i AN/PEQ-15 LAM. W zestawie znajduje się również komplet 45-nabojowych magazynków. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] przedłużony chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomiczną kolbę i uchwyt pistoletowy\n
+		%c[d_cyan] • %c[ui_gray_2] ulepszony spust\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] moduł laserowy AN/PEQ-15 LAM\n
+		%c[d_cyan] • %c[ui_gray_2] zestaw 45-nabojowych magazynków\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin AK-105\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_lapua700">
+		<text>Zestaw taktyczny "Łowca Jeleni" kal.338 do Remingtona M700</text>
+	</string>
+	<string id="st_addon_scope_lapua700_descr">
+		<text>Zestaw do konwersji karabinu Remingtona Model 700 z kalibru .308 na mocniejszy .338 Lapua Magnum, do zwalczania celów na bardzo długich dystansach. Zawiera lufę 338 z gwintem na tłumik .338, kolbę Magpul Pro z blokadą lufy, komplet magazynków na 338LM oraz ulepszony celownik Leupold. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] .338 barrel for use with a suppressor\n
+		%c[d_cyan] • %c[ui_gray_2] kolbę Magpul Pro\n
+		%c[d_cyan] • %c[ui_gray_2] zestaw magazynków na amunicję kalibru .338LM\n
+		%c[d_cyan] • %c[ui_gray_2] ulepszony celownik Leupold\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gurza_up">
+		<text>Zaawansowany zestaw taktyczny do SR1MP "Żmija"</text>
+	</string>
+	<string id="st_addon_scope_gurza_up_descr">
+		<text>Zestaw zawiera celowniki LAM, Trijicon RMR oraz szyny montażowe niezbędne do montażu modyfikacji na pistolecie. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] szynę Quadrail\n
+		%c[d_cyan] • %c[ui_gray_2] LAM\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet SR1MP 9x21 mm "Żmija"\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_u2p2g0r">
+		<text>Zestaw taktyczny "Dziewiątka" do SIG Sauera P220</text>
+	</string>
+	<string id="st_addon_scope_u2p2g0r_descr">
+		<text>Zestaw ten zawiera gwintowaną lufę przystosowaną do kalibru 9x19 mm do stosowania z tłumikiem, przyrządy celownicze z trytowymi wstawkami i celownik laserowy Viridian X5L, rozszerzony magazynek na 19 naboi oraz polimerowe zamienniki obudowy. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] gwintowaną lufę do użytku z tłumikiem\n
+		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrządów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] moduł laserowy Viridian X5L\n
+		%c[d_cyan] • %c[ui_gray_2] 19-nabojowy magazynek\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet SIG Sauer P220\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_shakal">
+		<text>Celownik "Szakal" do AK-105</text>
+	</string>
+	<string id="st_addon_scope_shakal_descr">
+		<text>Rzadki i kosztowny zestaw do dla AK-105. Bardzo podobny do zestawu używanego przez Czyste Niebo. Występuje głównie wśród weteranów grupy Powinność. W skład zestawu wchodzi wydłużony czubek, ergonomiczna kolba oraz wygodniejszy chwyt pistoletowy. Ponadto zestaw zawiera ulepszony spust oraz trzy przyrządy celownicze, które zamieniają broń w „idealnego towarzysza” do walki na bliskim i średnim dystansie. Lunety dołączone do zestawu to Trijicon ACOG, kolimator Trijicon RMR montowany pod kątem 45 stopni i AN/PEQ-15 LAM. W zestawie znajduje się również komplet 45-nabojowych magazynków. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] przedłużony chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomiczną kolbę i uchwyt pistoletowy\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] moduł laserowy AN/PEQ-15 LAM\n
+		%c[d_cyan] • %c[ui_gray_2] zestaw 45-nabojowych magazynków\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin AK-105\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pl15_scolaz">
+		<text>Zaawansowany zestaw taktyczny "Taktyk" do PL-15</text>
+	</string>
+	<string id="st_addon_scope_pl15_scolaz_descr">
+		<text>Zestaw ten zawiera lunetę LAM, lunetę Aimpoint T1 i szyny montażowe niezbędne do zastosowania modyfikacji. Tego ulepszenia nie można usunąć.\n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] LAM\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet PL-15 "Lebiediew"\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_apsabigo">
+		<text>Zestaw taktyczny do pistoletu APS</text>
+	</string>
+	<string id="st_addon_scope_apsabigo_descr">
+		<text>W skład zestawu wchodzą: gwintowana lufa do stosowania z tłumikiem dźwięku APB, przyrządy celownicze z trytowymi wstawkami oraz ergonomiczna gumka do chwytu pistoletowego. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] gwintowaną lufę do użytku z tłumikiem\n
+		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrządów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] ergonomiczny uchwyt pistoletowy\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet APS\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_sr2_upkit">
+		<text>Zestaw taktyczny do SR-2M Veresk</text>
+	</string>
+	<string id="st_addon_scope_sr2_upkit_descr">
+		<text>W skład zestawu wchodzą: przednia część taktyczna z szynami montażowymi Picatinny, luneta LAM oraz celownik refleksyjny kompatybilny z pistoletem maszynowym KP SR-2. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] taktyczny chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] szynę Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] LAM\n
+		%c[d_cyan] • %c[ui_gray_2] celownik KP-SR2 Reflex\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Pistolet maszynowy SR-2M\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_5c_tik">
+		<text>Zestaw specjalny ISG do AK 5C</text>
+	</string>
+	<string id="st_addon_scope_5c_tik_descr">
+		<text>Zestaw dodatków do AK 5C. Przekształca standardowy AK 5C w skróconą wersję, dostosowaną do każdych warunków. Zestaw pojawił się w Zonie wkrótce po powstaniu ISG. W skład zestawu wchodzą: niskoprofilowy chwyt przedni, celowniki LA5 LAM, Leupold LCO i D'evo x6 oraz krótka lufa ze wszystkimi niezbędnymi do jej montażu komponentami. W zestawie również zmodyfikowany moduł gazowy zwiększający szybkostrzelność. Tego ulepszenia nie można usunąć.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] skróconą lufę\n
+		%c[d_cyan] • %c[ui_gray_2] niskoprofilowy chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] LA5 LAM\n
+		%c[d_cyan] • %c[ui_gray_2] celownik optyczny Leupold Carbine\n
+		%c[d_cyan] • %c[ui_gray_2] celownik D-EVO 6.0x\n
+		%c[d_cyan] • %c[ui_gray_2] zmodyfikowany moduł gazowy zwiększający szybkostrzelność\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] Karabin AK 5C\n \n
+		</text>
+	</string>
+
+<!--
+	NIEUŻYWANE
+-->	
+	<string id="st_addon_scope_pks">
+		<text>Celownik PKS-07</text>
+	</string>
+	<string id="st_addon_scope_pks_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_addon_sil_osprey">
+		<text>Ďđĺäěĺň áîëüřĺ íĺ čńďîëüçóĺňń˙ â ŕääîíĺ / The Item is no longer in use in the addon
+		</text>
+	</string>
+	<string id="st_addon_sil_osprey_descr">
+		<text>.</text>
 	</string>
 	
-	<string id="st_addon_sil_scorp">
-		<text>Tłumik dźwięku Skorpion vz.61</text>
-	</string>
-	<string id="st_addon_sil_scorp_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]Skorpion vz.61\n \n%c[ui_gray_1]Tłumik dla Skorpion vz.61 SMG.\n \n%c[d_purple] • %c[ui_gray_2] Tłumienie dźwięku: %c[ui_gray_1]średnie</text>
-	</string>
-	
-	<string id="st_addon_sil_g28">
-		<text>Tłumik dźwięku do HK G28 B i T QD 7.62x51</text>
-	</string>
-	<string id="st_addon_sil_g28_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]karabin wyborowy HK G28 7.62x51\n \n%c[ui_gray_1]Tłumik 7.62x51 z możliwością szybkiego demontażu wyprodukowany przez Brugger i Thomet. Pasuje do tłumika HK Prolonged.\n \n%c[d_purple] • %c[ui_gray_2] Tłumienie dźwięku: %c[ui_gray_1]średnie</text>
-	</string>
-
-	<string id="st_addon_sil_timberwolf">
-		<text>Tłumik dźwięku PGW Defense Timberwolf .338 LM</text>
-	</string>
-	<string id="st_addon_sil_timberwolf_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]Remington 700 AICS, Remington 700 McMillan\n \n%c[ui_gray_1]Timberwolf to tłumik do karabinów snajperskich kalibru .338. Wyprodukowany przez kanadyjską firmę PGW Defense.\n \n%c[d_purple] • %c[ui_gray_2] Tłumienie dźwięku: %c[ui_gray_1]średnie</text>
-	</string>
-
-	<string id="st_addon_scope_uptacppsh">
-		<text>Zestaw ulepszeń Bandolero Upgrade Kit dla karabinka PPSz-41</text>
-	</string>
-	<string id="st_addon_scope_uptacppsh_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]PPSh-41\n \n%c[ui_gray_1]Zestaw komponentów do modernizacji PPSz-41.\n \n%c[d_purple] • %c[ui_gray_2] Zestaw zawiera: celownik kolimatorowy EKP-8-18 oraz ulepszoną obudowę lufy (szybciej odprowadza ciepło), dzięki czemu możliwe stało się zwiększenie szybkostrzelności w stosunku do oryginału. (To ulepszenie jest nieodwracalne).</text>
-	</string>
-
-	<string id="st_addon_scope_pn23fore">
-		<text>Celownik nocny PN-23 "Dysza"</text>
-	</string>
-	<string id="st_addon_scope_pn23fore_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2]Niektóre karabiny snajperskie ze zintegrowanymi celownikami\n \n%c[ui_gray_1]Wariant celownika PN-23, powtarzający funkcjonalność takich systemów jak STIC - tj. celownik mocowany jest przed standardowym.\n</text>
-	</string>									
 </string_table>

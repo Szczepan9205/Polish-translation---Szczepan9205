@@ -17,10 +17,6 @@
 	<!--
 	<!-- STORYLINE TASK TEXT  STRINGS
 	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
-	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -65,7 +61,7 @@
 		<text>PoprowadŸ oddzia³ Najemników w czasie nalotu na obóz bandytów.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_about">
-		<text>Bandyci krêc¹ siê w okolicy. WeŸ kilku ludzi i pozb¹dŸcie siê ich.</text>
+		<text>W okolicy pojawili siê bandyci. Ogólnie mamy z nimi umowê, ale krêc¹ siê trochê za blisko, byœmy mogli czuæ siê komfortowo. WeŸ kilku ludzi i pozb¹dŸcie siê ich.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_finish">
 		<text>Œwietna robota. Dobry z ciebie wojownik.</text>
@@ -138,16 +134,9 @@
 		<text>Klasa! Dziêki stary, dobrze siê spisa³eœ.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -167,16 +156,10 @@
 		<text>Dobrze, ¿e w koñcu siê zdecydowa³eœ. Mo¿esz traktowaæ swoj¹ umowê z nami jako podpisan¹ i zatwierdzon¹, Najemniku.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- DYNAMIC TASK TEXT  STRINGS
 	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -227,16 +210,9 @@
 		<text>Dobra robota.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- MECHANIC TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 

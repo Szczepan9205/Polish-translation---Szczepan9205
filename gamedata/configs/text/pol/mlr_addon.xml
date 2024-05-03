@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
+
+<!--
+	ITEMS
+-->
+
+	<string id="st_pda_mlr_descr">
+		<text>PDA zawierające informacje o trasach pomiędzy lokacjami. Historia wiadomości jest niedostępna z powodu hasła.\n \n\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		</text>
+	</string>
+
+<!--
+	QUEST
+-->
+
 	<string id="look_for_cs_history_part_4_2_0">
-		<text>Witaj, strażniku.</text>
+		<text>Witaj, Cerberze.</text>
 	</string>
 	<string id="look_for_cs_history_part_4_2_1">
 		<text>Witaj. Wybierasz się do Limańska, tak? Gdyby tylko nie Leszy... W każdym razie, witaj. Muszę pobrać od ciebie opłatę... I uważaj, żeby nie złapał cię którykolwiek z naszych patroli - nie są częścią naszej umowy.</text>
@@ -69,10 +84,7 @@
 	<string id="totaliz_helper_mlr_text">
 		<text>Dla innej perspektywy obszaru, naciśnij klawiszy tyldy lub \ aby uruchomić konsolę, a następnie wpisz "demo_record 1". Poruszaj się za pomocą klawiszy WSAD oraz CTRL. Aby wyjść, naciśnij ESC.</text>
 	</string>
-	
-	<string id="st_pda_mlr_descr">
-		<text>PDA zawierające informacje o trasach pomiędzy lokacjami. Historia wiadomości jest niedostępna z powodu hasła.\n \n</text>
-	</string>
+
 	<string id="st_new_path_mlr">
 		<text>Dostępna nowa droga między lokacjami.</text>
 	</string>

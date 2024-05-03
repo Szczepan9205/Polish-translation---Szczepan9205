@@ -3,19 +3,19 @@
 <string_table>
 
 	<string id="ui_inv_wrange">
-		<text>Maks. zasiêg</text>
+		<text>%c[0,255,255,255]Maks. zasiêg</text>
 	</string>
 	<string id="ui_inv_bspeed">
-		<text>Prêdkoœæ wylotowa</text>
+		<text>%c[0,255,255,255]Prêdkoœæ wylotowa</text>
 	</string>
 	<string id="ui_inv_drag">
-		<text>Opór powietrza</text>
+		<text>%c[0,255,255,255]Opór powietrza</text>
 	</string>
 	<string id="ui_inv_reli">
-		<text>Niezawodnoœæ</text>
+		<text>%c[0,255,255,255]Niezawodnoœæ</text>
 	</string>
 	<string id="ui_inv_recoil">
-		<text>Kontrola odrzutu</text>
+		<text>%c[0,255,255,255]Kontrola odrzutu</text>
 	</string>
 	
 	<string id="st_stat_meters">

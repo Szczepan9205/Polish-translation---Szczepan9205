@@ -4,6 +4,10 @@
 		<text>AM-17</text>
 	</string>
 	<string id="st_wpn_am17_descr">
-		<text>AM-17 to karabin szturmowy wykorzystuj¹cy standardowy nabój poœredni kalibru 5,45x39 mm 7N10. Zosta³ opracowany i wyprodukowany pod koniec 2010 roku przez koncern Ka³asznikow na bazie karabinu MA Compact Rifle Jewgienija Dragunowa. Broñ jest przeznaczona do u¿ytku w zwarciu.\n \n</text>
+		<text>Kompaktowy i ergonomiczny karabin oparty na karabinie MA Compact Rifle Jewgienija Dragunowa, przeznaczony przede wszystkim dla jednostek wojskowych i organów œcigania rosyjskiego Ministerstwa Spraw Wewnêtrznych, Gwardii Narodowej i armii w celu zast¹pienia AKS-74U. Broñ posiada zintegrowan¹ szynê Picatinny o pe³nej d³ugoœci, polimerow¹ sk³adan¹ na bok i regulowan¹ kolbê naramienn¹ oraz pod³u¿ne szczeliny w œciankach górnej czêœci korpusu umo¿liwiaj¹ce oburêczne sterowanie zarówno selektorem ognia, jak i uchwytem ³adowania. Kompaktowy rozmiar i wszechstronnoœæ sprawiaj¹, ¿e nadaje siê zarówno do walki w zwarciu, jak i na œrednim dystansie.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Koncern Ka³asznikowa\n
+		</text>
 	</string>
 </string_table>

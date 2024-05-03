@@ -21,16 +21,17 @@
 	</string>
 
 <string id="st_mag_steyr_556">
-		<text>Magazynek do Steyr Scout kalibru 5.56x45 mm</text>
+		<text>Magazynek 5.56x45 mm do Steyr Scout</text>
 	</string>
 	<string id="st_mag_steyr_556_descr">
-		<text>Standardowy magazynek do karabinu Steyr Scout kalibru 5.56x45 mm.\n \n</text>
+		<text>Standardowy magazynek na naboje kalibru 5.56x45 mm do karabinu Steyr Scout.\n \n</text>
 	</string>	
 
 <string id="st_mag_steyr_762">
-		<text>Magazynek do Steyr Scout kalibru 7.62x51 mm</text>
+		<text>Magazynek 7.62x51 mm do Steyr Scout</text>
 	</string>
 	<string id="st_mag_steyr_762_descr">
-		<text>Standardowy magazynek do karabinu Steyr Scout kalibru 7.62x51 mm.\n \n</text>
-	</string>		
+		<text>Standardowy magazynek na naboje kalibru 7.62x51 mm do karabinu Steyr Scout.\n \n</text>
+	</string>
+
 </string_table>

@@ -5,9 +5,6 @@
 < TEXT  STRINGS FOR TASKS ON PRIPYAT MAP
 <	CoC 1.4.08 - DoctorX Questlines 1.6
 <
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
 <===========================================================-->
 
 <string_table>
@@ -15,11 +12,7 @@
 
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
-	<!-- STORYLINE TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
+	<!-- STORYLINE TASK TEXT STRINGS
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -269,16 +262,9 @@
 		<text>Bardzo ciekawe... te dokumenty mog¹ byæ bardzo cenne. Œwietnie siê spisa³eœ.</text>
 	</string>
 	
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -298,16 +284,9 @@
 		<text>Dobrze. Witaj w bractwie Monolitu.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- DYNAMIC TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 	
@@ -485,16 +464,9 @@
 		<text>Dobrze s³u¿ysz Monolitowi. Do³¹cz do nas dzisiejszego wieczora podczas ceremonii ofiarowania. Nastêpnie bêdziemy wszyscy razem œwiêtowaæ.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- MECHANIC TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 

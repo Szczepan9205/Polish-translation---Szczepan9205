@@ -3,10 +3,6 @@
 <!--===========================================================
 <
 < TEXT  STRINGS FOR TASKS ON AGROPROM MAP
-<	CoC 1.4.10 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 14, 2016
 <
 <===========================================================-->
 
@@ -16,10 +12,6 @@
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- STORYLINE TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 14, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -97,8 +89,7 @@
 		<text>Nasz szpieg w si³ach wroga musi zostaæ odbity. Zaatakuj i zniszcz si³y wroga oraz odeskortuj naszego agenta bezpiecznie do bazy. Wskazówka: agent wyposa¿ony jest w SWD.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_about">
-		<text>Jeden z naszych agentów dzia³a pod przykrywk¹ jako cz³onek organizacji nieprzyjaciela. Wszystko sz³o dobrze, ale jakiœ czas temu utraciliœmy z nim kontakt i przypuszczamy, ¿e wróg zacz¹³ domyœlaæ siê, ¿e ma szpiega.\n \nPrzypuszczamy, ¿e trzymaj¹ go gdzieœ pod kluczem, co t³umaczy³oby nasze problemy w komunikacji. Jest du¿e prawdopodobieñstwo, ¿e nasz agent gra na czas i udaje lojalnego cz³onka grupy - nie mo¿emy jednak ryzykowaæ jego likwidacji i jesteœmy zmuszeni go odbiæ. Namierzyliœmy jego lokalizacjê. Jest niedaleko st¹d, ale w towarzystwie innych stalkerów. Bêdziecie musieli ich unieszkodliwiæ, a jego samego bezpiecznie odeskortowaæ do bazy.\n
-		\nRozpoznacie go po karabinie, wyposa¿ony jest w SWD. Pamiêtajcie, ¿e w czasie ataku nasz agent mo¿e byæ zmuszony do otwarcia ognia w waszym kierunku, wiêc zachowajcie ostro¿noœæ!</text>
+		<text>Jeden z naszych agentów dzia³a pod przykrywk¹ jako cz³onek organizacji nieprzyjaciela. Wszystko sz³o dobrze, ale jakiœ czas temu utraciliœmy z nim kontakt i przypuszczamy, ¿e wróg zacz¹³ domyœlaæ siê, ¿e ma szpiega.\n \nPrzypuszczamy, ¿e trzymaj¹ go gdzieœ pod kluczem, co t³umaczy³oby nasze problemy w komunikacji. Jest du¿e prawdopodobieñstwo, ¿e nasz agent gra na czas i udaje lojalnego cz³onka grupy - nie mo¿emy jednak ryzykowaæ jego likwidacji i jesteœmy zmuszeni go odbiæ. Namierzyliœmy jego lokalizacjê. Jest niedaleko st¹d, ale w towarzystwie innych stalkerów. Bêdziecie musieli ich unieszkodliwiæ, a jego samego bezpiecznie odeskortowaæ do bazy. Rozpoznacie go po karabinie, wyposa¿ony jest w SWD. Pamiêtajcie, ¿e w czasie ataku nasz agent mo¿e byæ zmuszony do otwarcia ognia w waszym kierunku, wiêc zachowajcie ostro¿noœæ!</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_finish">
 		<text>Doskonale. Zaraz poproszê go o raport.</text>
@@ -158,16 +149,9 @@
 		<text>Sprawiliœcie siê na medal. Dowódca bêdzie zadowolony.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 14, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -181,22 +165,16 @@
 		<text>Przynieœ 8.000 RU, aby major KuŸniecow uzna³ twoje kwalifikacje.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_about">
-		<text>W dzisiejszych czasach nieczêsto trafia siê na tak oddanych sprawie m³odzieñców! Ta...\n \nOjojoj... ale testów to wy nie przejdziecie, promieniowanie u was, jak u likwidatorów, ¿o³nierzu. Ale wam chyba i tak nie po drodze z regularn¹ armi¹ i wojenstalkerki siê zachcia³o, co? To elita, najlepsi z najlepszych. Nie ma tak, ¿e pstryk i ju¿. To nie miejsce dla miêsa armatniego!\n \nPowiedzmy, ¿e... za osiem tysiêcy mogê uznaæ, ¿e spe³niacie wymagania i nie potrzebujecie niañki. I ¿e wiem, z kim w tej sprawie pomówiæ. No... co siê tak gapicie, jak cielê w niemalowane wrota, ¿o³nierzu?! W ty³ zwrot! Odmaszerowaæ!</text>
+		<text>W dzisiejszych czasach nieczêsto trafia siê na tak oddanych sprawie m³odzieñców! Ta... Ojojoj... ale testów to wy nie przejdziecie, promieniowanie u was, jak u likwidatorów, ¿o³nierzu. Ale wam chyba i tak nie po drodze z regularn¹ armi¹ i wojenstalkerki siê zachcia³o, co? To elita, najlepsi z najlepszych. Nie ma tak, ¿e pstryk i ju¿. To nie miejsce dla miêsa armatniego!\n \n
+		Powiedzmy, ¿e... za osiem tysiêcy mogê uznaæ, ¿e spe³niacie wymagania i nie potrzebujecie niañki. I ¿e wiem, z kim w tej sprawie pomówiæ. No... co siê tak gapicie, jak cielê w niemalowane wrota, ¿o³nierzu?! W ty³ zwrot! Odmaszerowaæ!</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_finish">
 		<text>Hm, a niech mnie. Nie doœæ, ¿e uda³o ci siê prze¿yæ tam, gdzie inni ginêli, to jeszcze da³eœ radê coœ zarobiæ! Witam w jednostce, ¿o³nierzu!\n \nTaka jedna rada na przysz³oœæ ode mnie - pilnujcie swojego nosa, a bêdziecie spaæ spokojniej. Spocznij!</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- DYNAMIC TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 14, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -278,17 +256,10 @@
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_finish">
 		<text>Doskonale siê spisaliœcie, ¿o³nierzu. Cywile nie powinni wiedzieæ zbyt wiele.</text>
 	</string>
-	
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
 
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- MECHANIC TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 06, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -359,7 +330,8 @@
 		<text>Przy tej liczbie rannych zarz¹dzanie zapasami zaczyna byæ naprawdê trudne. W tym tempie za parê tygodni zejdê do zera. Dobrze by³oby mieæ pod rêk¹ jakieœ narzêdzia do samodzielnej produkcji - zapas materia³ów opatrunkowych i zestaw do przygotowywania leków na pewno siê przyda.</text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_task_1_fetch_about">
-		<text>Przyda³by siê jakieœ %s. Takie zestawy zawieraj¹ wszystko, czego mi trzeba, ¿eby uzupe³niæ braki. Zap³acê ci, jeœli przyniesiesz mi taki nienaruszony komplet.</text>
+		<text>Jest. O ile mogê dobrze leczyæ ludzi w bazie, o tyle moje mo¿liwoœci zaopatrywania ich, gdy s¹ w terenie, s¹ ograniczone. Próbowa³em wiêc zdobyæ %s. Pozwoli mi przygotowaæ lekarstwa na niemal ka¿de potencjalne zagro¿enie lub uraz, jaki ¿o³nierz mo¿e napotkaæ podczas patrolu.\n \n
+		A przynajmniej pozwoli³oby, ale moja proœba jest ci¹gle olewana. Ka¿da sekunda mo¿e uratowaæ ¿ycie, wiêc moja propozycja jest nastêpuj¹ca: jeœli znajdziesz przyzwoity zestaw, zap³acê ci za niego z w³asnego portfela, bez ¿adnych ceregieli. Po prostu przynieœ mi go jak najszybciej.</text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_task_1_fetch_finish">
 		<text>Œwietna robota! Ca³a jednostka jest ci wdziêczna.</text>

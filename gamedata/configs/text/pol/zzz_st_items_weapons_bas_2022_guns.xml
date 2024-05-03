@@ -41,7 +41,7 @@
 		<text>Zmodernizowana i ulepszona wersja PKM mia³a na celu przede wszystkim zmniejszenie masy, u³atwienie obs³ugi i uproszczenie produkcji. Bardzo niezawodny karabin maszynowy, który pozostaje w u¿yciu jako broñ pierwszej linii piechoty i broñ montowana na pojazdach w rosyjskich si³ach zbrojnych. Ten model zosta³ rêcznie zmodyfikowany tak, aby zawiera³ powiêkszon¹ skrzynkê na amunicjê. Model ten zosta³ gruntownie zmodyfikowany poprzez dodanie szyny Picatinny, pionowego chwytu przedniego, t³umika dŸwiêku i laserowego wskaŸnika celu, a tak¿e wewnêtrznych modyfikacji zwiêkszaj¹cych szybkostrzelnoœæ broni.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zenit\n
+		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]CNII ToczMasz,Zak³ady Degtiariowa\n
 		</text>
 	</string>
 

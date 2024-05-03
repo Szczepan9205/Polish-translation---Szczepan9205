@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
 
-	<!-- Jammin -->
+<!--
+	JAMMING
+-->
 	
 	<string id="encyclopedia_addons">
 		<text>Dodatkowe</text>
@@ -28,7 +31,7 @@
 		<text>Broń jest funkcjonalna</text>
 	</string>
 	<string id="ui_st_oldjam">
-		<text>Używasz moda na magazynki do Anomaly. Nie odbezpieczaj broni. Przeładuj broń.</text>
+		<text>Używasz moda na Anomaly Magazines. Nie odbezpieczaj broni. Przeładuj broń.</text>
 	</string>
 	<string id="ui_st_unjam_fail">
 		<text>Wygląda na to, że to nie zadziałało - broń musi być porządnie zacięta...</text>
@@ -52,7 +55,11 @@
 	<string id="st_unjam">
 		<text>odblokuj broń</text>
 	</string>
-	<!-- Messages -->
+
+<!--
+	WIADOMOŚCI
+-->
+
 	<string id="st_news_parts_success">
 		<text>Pomyślnie wymieniono część: </text>
 	</string>
@@ -78,7 +85,10 @@
 		<text>Wyczyszczone części:</text>
 	</string>
 
-	<!-- MCM -->
+<!--
+	MCM
+-->
+
 	<string id="ui_mcm_menu_wpo">
 		<text>WPO</text>
 	</string>
@@ -134,13 +144,17 @@
 		<text>Wiadomości o zacięciu</text>
 	</string>
 	<string id="ui_mcm_wpo_verbosity_desc">
-		<text>Słowność komunikatów zagłuszających HUD. Dostępne są trzy poziomy:\nBrak: Tylko zacięcia oparte na warunkach są wyświetlane (ponieważ w przeciwnym razie jest to mylące).\nNormalne (zalecane): Zostaniesz powiadomiony, gdy twoja broń się zablokuje, gdy broń się odblokowuje.\nPełne: Wszystko jest jak w trybie normalnym, ale będziesz także wiedzieć, kiedy nastąpiło poważne zacięcie, które wymaga rozładowania broni i odblokowania, aby je usunąć, oraz kiedy twoja broń doznaje uszkodzeń komponentów.</text>
+		<text>Słowność komunikatów zagłuszających HUD. Dostępne są trzy poziomy:\n
+		Brak: Tylko zacięcia oparte na warunkach są wyświetlane (ponieważ w przeciwnym razie jest to mylące).\n
+		Normalne (zalecane): Zostaniesz powiadomiony, gdy twoja broń się zablokuje, gdy broń się odblokowuje.\n
+		Pełne: Wszystko jest jak w trybie normalnym, ale będziesz także wiedzieć, kiedy nastąpiło poważne zacięcie, które wymaga rozładowania broni i odblokowania, aby je usunąć, oraz kiedy twoja broń doznaje uszkodzeń komponentów.</text>
 	</string>
 	<string id="ui_mcm_wpo_minpart">
 		<text>Minimalny stan części na sprzedaż</text>
 	</string>
 	<string id="ui_mcm_wpo_minpart_desc">
-		<text>Minimalny stan dla WSZYSTKICH części, aby broń kwalifikowała się do sprzedaży. Jeśli broń ma JAKĄKOLWIEK część poniżej tego stanu, zostanie wykluczona ze sprzedaży. Ustaw na 0, aby wyłączyć.</text>
+		<text>Minimalny stan dla WSZYSTKICH części, aby broń kwalifikowała się do sprzedaży. Jeśli broń ma JAKĄKOLWIEK część poniżej tego stanu, zostanie wykluczona ze sprzedaży.\n
+		Ustaw na 0, aby wyłączyć.</text>
 	</string>
 	<string id="ui_mcm_wpo_fun">
 		<text>Poziom zabawy</text>
@@ -179,19 +193,19 @@
 		<text>Rejestrowanie debugowania, włącza całą masę dodatkowych informacji w dzienniku konsoli.</text>
 	</string>
 	<string id="ui_mcm_wpo_babymode">
-		<text>Tryb "suki"</text>
+		<text>Tryb "Suki"</text>
 	</string>
 	<string id="ui_mcm_wpo_babymode_desc">
 		<text>Całkowicie wyłącza zacięcia oparte na stanie części. Jeśli musisz to zaznaczyć, to po co w ogóle instalowałeś ten mod?</text>
 	</string>
 	<string id="ui_mcm_wpo_newdrops">
-		<text>Włącz alternatywne losowanie części</text>
+		<text>Włącz Alternatywne losowania części</text>
 	</string>
 	<string id="ui_mcm_wpo_newdrops_desc">
 		<text>Losowe części według nowego wzoru. Szansa na dobre części poniżej jest regulowana przez stan broni i dodatkową ukrytą wagę. Sprawia, że gra jest trudniejsza przy wystarczająco niskich wagach. Aby użyć starej metody, wyłącz tę opcję.</text>
 	</string>
 	<string id="ui_mcm_wpo_newdropschance">
-		<text>Szansa na dobre części z alternatywnymi losowaniami części</text>
+		<text>Alternatywne losowania części (Szansa na dobre części)</text>
 	</string>
 	<string id="ui_mcm_wpo_degradation">
 		<text>Degradacja broni podczas deszczu</text>
@@ -210,65 +224,55 @@
 		<text>W tej broni brakuje części.</text>
 	</string>
 
-	
+<!--
+	ENCYKLOPEDIA
+-->
+
 	<string id="article_wpo">
 		<text>Konserwacja broni</text>
 	</string>
 	<string id="article_wpo_text">
-		<text>
-			%c[pda_green]SZYBKIE QiA%c[ui_gray_1]\n \n
-			\n1. Dlaczego moja broń zacina się przy 100%?
-			\nA. Części są uszkodzone. Sprawdź ich stan.
-			\n2. Jak usunąć zacięcie?
-			\nA. Naciśnij dwukrotnie UŻYJ. Lub kliknij prawym przyciskiem myszy broń w ekwipunku, aby wyświetlić polecenie odblokowania.
-			\n3. Dlaczego tracę stan broni podczas wymiany części?
-			\nA. Musisz ponownie nasmarować broń. Nie dzieje się to poniżej 60%. Użyj zestawu naprawczego, aby zmniejszyć tę ilość, lub stołu warsztatowego, aby całkowicie ją wyeliminować.
-			\n4. Dlaczego technicy nie naprawiają moich części?
-			\nA. Części muszą zostać najpierw wymontowane z broni. Możesz kupić części u technika lub użyć zestawu do naprawy broni. Na tym właśnie polega długowieczność WPO. \n \n
-			Przegląd części broni drastycznie zmienia sposób konserwacji broni w Anomaly. Przeczytaj uważnie ten przewodnik, aby wszystko zrozumieć.
-			
-			%c[pda_green]I. Części zamienne i konserwacja%c[ui_gray_1]\n
-			\n• Ogólny stan broni (pasek stanu, do którego jesteś przyzwyczajony) jest teraz łatwiejszy do utrzymania. Mechanik przywróci go za 60% mniejszą cenę. Wszystkie przedmioty do naprawy broni są teraz znacznie potężniejsze.
-			\n• Części broni wymagają konserwacji. Możesz zobaczyć stan części broni na pierwszy rzut oka po najechaniu myszą.
-			\n  • Kolor tekstu wskazuje stan.
-			\n%c[d_red]   •  Brakujące
-			\n%c[d_orange]   •  Uszkodzone i niemożliwe do wyczyszczenia
-			\n%c[pda_yellow]   • Brudne i mogą być wyczyszczone%c[ui_gray_1]
-			\n• Części broni mogą zostać usunięte poprzez jej rozebranie. Usuwa to każdy element, który nie jest lufą.
-			\n• Części broni mogą być również zastępowane za pomocą przeciągania ikony części i upuszczania jej na ikonę broni. %c[d_red]NALEŻY PAMIĘTAĆ, ŻE WYCZERPUJE TO STAN BRONI, JEŚLI PRZEKRACZA 60%. Należy mieć przy sobie Leathermana, aby zmniejszyć ten efekt. %c[ui_gray_1]. 
-			\n• Części broni można również wymienić na stole warsztatowym za darmo, jeśli posiada się odpowiedni zestaw naprawczy. %c[pda_yellow]Jest to jeden z dwóch sposobów wymiany luf.
-			\n \n
-			%c[pda_green]II. Zacięcia i uszkodzenia części%c[ui_gray_1]\n
-			\n• Części mają pięć poziomów uszkodzeń: %c[d_red]zepsute%c[ui_gray_1], %c[d_red]uszkodzone%c[ui_gray_1], %c[d_orange]zużyte%c[ui_gray_1], %c[0,250,250,0]brudne%c[ui_gray_1], %c[d_green]funkcjonalne%c[ui_gray_1]
-			\n• Im bardziej uszkodzone części, tym większe prawdopodobieństwo wystąpienia usterki.
-			\n• Istnieją trzy rodzaje usterek: przerwy w zapłonie, zacięcia i poważne zacięcia.
-			\n• Niewypał i zacięcie można usunąć po prostu przez odblokowanie.
-			\n• Poważne zacięcie wymaga wyrzucenia magazynka przed usunięciem zacięcia.
-			\n• Lufy nie wpływają na szansę zacięcia. Brudne lufy zmniejszają jednak obrażenia zadawane przez broń do 50%.
-			\n• Strzelanie z broni poniżej 85% stanu (domyślnie, zmień %c[pda_yellow]MCM: Próg stanu uszkodzenia części%c[ui_gray_1]) ma szansę zadać obrażenia częściom broni. 
-			\n• Strzelanie z broni podczas ulewnego deszczu powoduje jej szybszą degradację.
-			\n• Zbyt długie strzelanie z broni powoduje jej przegrzanie, co prowadzi do częstszych zacięć i szybszej degradacji.
-			%c[pda_green]III. Zmiany w ekonomii%c[ui_gray_1]\n
-			\n• Posiadanie zestawu czyszczącego pozwoli ci wyczyścić "brudne" części broni (powyżej 60% stanu). Przywraca to również 10% kondycji.
-			\n• Posiadanie zestawu naprawczego umożliwia wymianę części za pomocą menu prawego przycisku myszy. Zużywa to ładunek i przywraca 10% stanu.%c[pda_yellow]Jest to drugi sposób wymiany luf.%c[ui_gray_1]
-			\n• Technicy będą losowo sprzedawać części broni z dużą marżą. 
-			\n• Części broni powyżej 60% można naprawić za pomocą pilników, wyciorów lub narzędzi wielofunkcyjnych.
-			\n• Części broni powyżej 10% można naprawić za pomocą bardzo drogiego zestawu narzędzi dostępnego u handlarzy.
-			\n• W innych sprawach prosimy o kontakt z arti#3278 na Discordzie. Jestem zbyt leniwy, by czytać komentarze na Moddb.
+		<text>%c[pda_green]SZYBKIE QiA:%c[ui_gray_1]\n
+		%c[pda_white]Pytanie: Dlaczego moja broń zacina się przy stanie wynoszącym 100%?\n
+		%c[pda_white]Odpowiedź: %c[ui_gray_1Części są uszkodzone. Sprawdź ich stan.\n
+		%c[pda_white]Pytanie: Jak usunąć zacięcie?\n
+		%c[pda_white]Odpowiedź: %c[ui_gray_1Naciśnij dwukrotnie "%c[pda_white]Użyj%c[ui_gray_1]". Lub kliknij "%c[pda_white]Prawym przyciskiem myszy%c[ui_gray_1]" na broń w ekwipunku, aby wyświetlić polecenie "%c[pda_white]Odblokowania%c[ui_gray_1] broni.\n
+		%c[pda_white]Pytanie: Dlaczego tracę stan broni podczas wymiany części?\n
+		%c[pda_white]Odpowiedź: %c[ui_gray_1Musisz ponownie naoliwić broń. Nie dzieje się to poniżej 60%. Użyj zestawu naprawczego, aby zmniejszyć tę ilość, lub stołu warsztatowego, aby całkowicie ją wyeliminować.\n
+		%c[pda_white]Pytanie: Dlaczego technicy nie naprawiają moich części?\n
+		%c[pda_white]Odpowiedź: %c[ui_gray_1Części muszą zostać najpierw wymontowane z broni. Możesz kupić części u technika lub użyć zestawu do naprawy broni. Na tym właśnie polega długowieczność dodatku Weapon Parts Overhaul. WPO drastycznie zmienia sposób konserwacji broni w Anomaly. Przeczytaj uważnie ten przewodnik, aby wszystko zrozumieć.\n \n
+		%c[pda_green]Części zamienne i konserwacja\n
+		%c[pda_white]• %c[ui_gray_1]Ogólny stan broni (pasek stanu, do którego jesteś przyzwyczajony) jest teraz łatwiejszy do utrzymania. Mechanik przywróci go za 60% mniejszą cenę. Wszystkie przedmioty do naprawy broni są teraz znacznie potężniejsze.\n \n
+		%c[pda_white]• %c[ui_gray_1]Części broni wymagają konserwacji. Możesz zobaczyć stan części broni na pierwszy rzut oka po najechaniu myszą: %c[d_red]Brakujące%c[ui_gray_1], %c[d_orange]Uszkodzone i niemożliwe do wyczyszczenia%c[ui_gray_1] i %c[pda_yellow]Brudne%c[ui_gray_1].\n \n
+		%c[pda_white]• %c[ui_gray_1]Części broni mogą zostać usunięte poprzez jej rozebranie. Usuwa to każdy element, który nie jest lufą. Aby wymontować lufę, należy użyć stołu warsztatowego z odpowiednim zestawem naprawczym.\n \n
+		%c[d_red]UWAGA:\n
+		%c[pda_white]• %c[ui_gray_1]Wyczyszczenie broni za pomocą zestawu narzędzi lub stołu warsztatowego spowoduje obniżenie stanu broni jeśli jest on wyższy niż 60%.\n \n
+		%c[pda_green]Zacięcia i uszkodzenia części:\n
+		%c[pda_white]Części mają pięć poziomów uszkodzeń:\n
+		%c[pda_white]• %c[d_red]zepsute\n
+		%c[pda_white]• %c[d_red]uszkodzone\n
+		%c[pda_white]• %c[d_orange]zużyte\n
+		%c[pda_white]• %c[0,250,250,0]brudne\n
+		%c[pda_white]• %c[d_green]funkcjonalne\n
+		%c[ui_gray_1]Im bardziej uszkodzone części, tym większe prawdopodobieństwo wystąpienia usterki.\n
+		%c[pda_white]• Niewypał/zacięcie: %c[ui_gray_1]można usunąć po prostu przez odblokowanie.\n
+		%c[pda_white]• Poważne zacięcie: %c[ui_gray_1]wymaga wyrzucenia magazynka przed usunięciem zacięcia.\n
+		%c[ui_gray_1]Lufy nie wpływają na szansę zacięcia. Brudne lufy zmniejszają jednak obrażenia zadawane przez broń do 50%.\n
+		%c[ui_gray_1]Strzelanie z broni poniżej 85% stanu ma szansę uszkodzić jej części.\n
+		%c[ui_gray_1]Strzelanie z broni podczas ulewnego deszczu powoduje jej szybszą degradację.\n
+		%c[ui_gray_1]Zbyt długie strzelanie z broni powoduje jej przegrzanie, co prowadzi do częstszych zacięć i szybszej degradacji.\n \n
+		%c[pda_green]Zmiany w ekonomii:\n
+		%c[pda_white]• %c[ui_gray_1]Posiadanie zestawu czyszczącego pozwoli ci wyczyścić "brudne" części broni (powyżej 60% stanu). Przywraca to również 10% kondycji.\n
+		%c[pda_white]• %c[ui_gray_1]Posiadanie zestawu naprawczego umożliwia wymianę części za pomocą menu prawego przycisku myszy. Zużywa to ładunek i przywraca 10% stanu.\n
+		%c[pda_white]• %c[ui_gray_1]Technicy będą losowo sprzedawać części broni z dużą marżą.\n
+		%c[ui_gray_1]Części broni powyżej 60% można naprawić za pomocą Pilników, Wyciorów lub Multitool'a.\n
+		%c[ui_gray_1]Części broni powyżej 10% można naprawić za pomocą bardzo drogiego zestawu narzędzi dostępnego u handlarzy.
 		</text>
 	</string>
-	
-	<string id="st_partskit">
-		<text>Zestaw naprawczy do części</text>
-	</string>
-	<string id="st_partskit_descr">
-		<text>Wysoce zaawansowany zestaw narzędzi, w tym mikropiłek, żywice epoksydowe do spawania na zimno, konfiguracja kąpieli elektrolizy oraz tony smarów, destylatów benzyny i innych rozpuszczalników. Narzędzia te mogą przywrócić silnik Łady do stanu Ferrari, nie mówiąc już o tym, co mogą zrobić z komponentami broni. Tylko najbardziej zniszczony złom nie będzie w stanie zostać odnowiony przez ten zestaw. Jednak zestaw ten jest niezwykle trudny do złożenia i dlatego jest sprzedawany w bardzo małych ilościach przez techników Zony.\n\n
-		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw narzędzi\n
-		%c[d_orange] • %c[ui_gray_2] zdolność do naprawy części broni powyżej 10%, ale poniżej 60 stanu%\n
-		</text>
-	</string>
-<!-- Info -->
+
+<!--
+	INFO
+-->
 
 	<string id="st_dot">
 		<text>•</text>
@@ -348,4 +352,20 @@
 	<string id="st_name_issues">
 		<text>STAN CZĘŚCI:</text>
 	</string>
+
+<!--
+	NIEUŻYWANE
+-->
+
+	<string id="st_partskit">
+		<text>Zestaw naprawczy do części</text>
+	</string>
+	<string id="st_partskit_descr">
+		<text>Wysoce zaawansowany zestaw narzędzi, w tym mikropiłek, żywice epoksydowe do spawania na zimno, konfiguracja kąpieli elektrolizy oraz tony smarów, destylatów benzyny i innych rozpuszczalników. Narzędzia te mogą przywrócić silnik Łady do stanu Ferrari, nie mówiąc już o tym, co mogą zrobić z komponentami broni. Tylko najbardziej zniszczony złom nie będzie w stanie zostać odnowiony przez ten zestaw. Jednak zestaw ten jest niezwykle trudny do złożenia i dlatego jest sprzedawany w bardzo małych ilościach przez techników Zony.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_1] zestaw narzędzi\n
+		%c[d_orange] • %c[ui_gray_1] zdolność do naprawy części broni powyżej 10%, ale poniżej 60 stanu%\n
+		</text>
+	</string>
+
 </string_table>

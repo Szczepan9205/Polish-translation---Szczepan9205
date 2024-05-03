@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
 
 	<string id="st_itms_campfire_name">
@@ -7,9 +8,7 @@
 	<string id="st_itms_campfire_descr">
 		<text>Chociaż łatwo jest znaleźć drewno w Zonie, ale wysokiej jakości drewno opałowe nadające się do ogniska jest rzadkością. Pomimo tego, że jest rzadkie, jest bardzo tanie, ale także ciężkie. Może stać się niezbędną rzeczą podczas wędrówek i rajdów. Pomaga utrzymać ciepło w nocy i daje możliwość gotowania jedzenia.\n \n
 		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
-		%c[d_orange] • %c[ui_gray_2] przydatne do rozpalania ognisk
-		%c[d_orange] • %c[ui_gray_2] kliknij PPM na siekierze w pobliżu drzewa, a następnie wybierz opcję "rąb drewno"	
-		%c[d_cyan] • %c[ui_gray_2] może być zbierane za pomocą topora
+		%c[d_orange] • %c[ui_gray_2] przydatne do rozpalania ognisk\n
 		</text>
 	</string>
 

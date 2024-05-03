@@ -2,7 +2,10 @@
 
 <string_table>
 
-	<!--COMMON-->
+<!--
+	UI
+-->
+
 	<string id="st_mag_weapon_jammed">
 		<text>Broñ siê zaciê³a</text>
 	</string>
@@ -18,7 +21,6 @@
 	<string id="st_mag_loadout_add">
 		<text>dodaj do wyposa¿enia</text>
 	</string>
-
 	<string id="st_mag_retool">
 		<text>retool</text>
 	</string>
@@ -26,7 +28,9 @@
 	<string id="st_mag_err_retool">
 		<text>Nie mo¿na prze³adowaæ za³adowanego magazynka! Usuñ wszystkie naboje przed przezbrojeniem.</text>
 	</string>
-	<!-- MCM -->
+<!--
+	MCM
+-->
 	
 	<string id="ui_mcm_menu_magazines">
 		<text>Magazynki</text>
@@ -177,45 +181,18 @@
 	<string id="ui_mcm_magazines_gameplay_retain_round_desc">
 		<text>Jeœli w³¹czone, broñ zachowuje nabój w komorze, gdy magazynki s¹ wyrzucane.</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_loadstash_behavior">
-		<text>Zachowanie podczas ³adowania magazynków</text>
+	<string id="ui_mcm_magazines_gameplay_fast_loading">
+		<text>W³¹cz natychmiastowe ³adowanie w schowkach</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_loadstash_behavior_desc">
-		<text>Wybierz styl zachowania, gdy naboje s¹ ³adowane do magazynków w oknie schowka. Zwróæ uwagê, ¿e wybranie szybszych opcji uniemo¿liwi niektóre domyœlne funkcje, takie jak roz³o¿enie ró¿nych typów amunicji.</text>
+	<string id="ui_mcm_magazines_gameplay_fast_loading_desc">
+		<text>Jeœli opcja ta zostanie w³¹czona, ³adowanie i roz³adowywanie magazynków w schowkach bêdzie natychmiastowe, podobnie jak w Escape from Tarkov.</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_tacload">
-		<text>Wy³¹cz przerywane ³adowanie magazynków</text>
+	<string id="ui_mcm_magazines_gameplay_quick_loading">
+		<text>W³¹cz szybkie ³adowanie magazynka</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_tacload_desc">
-		<text>U³atwia prze³adowywanie broni poprzez uniemo¿liwienie manipulacji ruchem/zapasami anulowania prze³adowania. U³atwia rozgrywkê, ale mo¿e prowadziæ do sytuacji, w których prze³adowanie nastêpuje natychmiast po przerwaniu animacji.</text>
+	<string id="ui_mcm_magazines_gameplay_quick_loading_desc">
+		<text>Jeœli opcja ta jest w³¹czona, ³adowanie nabojów w ekwipunku bêdzie szybsze, po jednym pude³ku na raz.</text>
 	</string>
-
-	<string id="ui_mcm_magazines_gameplay_load_behavior">
-		<text>Zachowanie podczas ³adowania magazynka</text>
-	</string>
-	<string id="ui_mcm_magazines_gameplay_load_behavior_desc">
-		<text>Wybierz styl zachowania, gdy naboje s¹ ³adowane do magazynków w ekwipunku lub oknie ³upów. 
-			\n\nUwagi:
-			\n - Nale¿y pamiêtaæ, ¿e wybranie szybszych opcji uniemo¿liwi niektóre domyœlne funkcje, takie jak roz³o¿enie ró¿nych typów amunicji.
-			\nPude³ka z amunicj¹ to iloœæ amunicji zawarta w jednym przedmiocie, która mo¿e wynosiæ od 10 pocisków dla broni œrutowej do 14-16 pocisków dla broni rêcznej.</text>
-	</string>
-	<string id="ui_mcm_magazines_gameplay_unload_behavior">
-		<text>Zachowanie podczas roz³adowywania magazynka</text>
-	</string>
-	<string id="ui_mcm_magazines_gameplay_unload_behavior_desc">
-		<text>Wybierz styl zachowania, gdy naboje s¹ usuwane z magazynków. Zauwa¿, ¿e dla wygody magazynki zawsze s¹ natychmiast roz³adowywane ze schowka.</text>
-	</string>
-
-	<string id="ui_mcm_lst_ind">
-		<text>Nabój po naboju</text>
-	</string>
-	<string id="ui_mcm_lst_box">
-		<text>Pude³ko po pude³ku</text>
-	</string>
-	<string id="ui_mcm_lst_full">
-		<text>Natychmiastowe</text>
-	</string>
-
 	<string id="ui_mcm_magazines_gameplay_ejection">
 		<text>Zachowanie roz³adowywania pustych magazynków</text>
 	</string>
@@ -224,7 +201,7 @@
 	</string>
 
 	<string id="ui_mcm_lst_ruck">
-		<text>W³ó¿ do plecaka</text>.
+		<text>W³ó¿ do plecaka</text>
 	</string>
 
 	<string id="ui_mcm_lst_loadout">
@@ -238,16 +215,15 @@
 		<text>Magazynki poni¿ej tego % bêd¹ traktowane jako puste.</text>
 	</string>
 	<string id="ui_mcm_magazines_rant">
-	<text>Wyjaœnienie, jak dzia³a prze³adowywanie bojowe (prze³adowywanie przy zamkniêtym ekwipunku):
-
-	\n\nTwój ekwipunek to zestaw kieszeni/szlufek na kamizelce. Przyk³adowo masz 4 kieszenie i 4 magazynki w ekwipunku, po jednym w ka¿dej kieszeni i pi¹ty magazynek w pistolecie.
-	\nPrze³adowujesz, broñ jest w jednej rêce, drug¹ chwytasz magazynek w pistolecie i wyjmujesz go. Masz teraz pistolet w jednej rêce i magazynek w drugiej. We wszystkich czterech kieszeniach znajduj¹ siê magazynki, wiêc nie mo¿esz w³o¿yæ magazynka trzymanego w rêce do kieszeni, ani wyj¹æ magazynka z kieszeni, poniewa¿ obie rêce masz zajête. Co robiæ?
-	\nWsuñ magazynek trzymany w d³oni do saszetki lub plecaka, poniewa¿ nie symulujemy saszetki.
-	\nTeraz masz woln¹ rêkê, bierzesz magazynek z kieszeni ³adunkowej i wk³adasz go do pistoletu, pozostawiaj¹c jedn¹ pust¹ kieszeñ ³adunkow¹. Prze³adowanie zakoñczone.
-	\nJeœli rozpoczynasz proces z woln¹ kieszeni¹ w ekwipunku, magazynek z pistoletu jest do niej wk³adany. Chyba ¿e jest pusta, wtedy domyœlnie trafia do plecaka. Mo¿na to zmieniæ, aby puste magazynki by³y umieszczane w kieszeniach wyposa¿enia lub upuszczane na ziemiê.
-
-	\nJeœli masz otwarty ekwipunek, to nie jest to prze³adowanie bojowe i wykonywana jest dodatkowa próba umieszczenia magazynka w ekwipunku, poniewa¿ zak³ada siê, ¿e mo¿esz od³o¿yæ broñ lub magazynek. Równie¿ ustawienie upuszczania magazynków na ziemiê jest ignorowane, gdy ekwipunek jest otwarty.
-	\nJeœli jednak uwa¿asz, ¿e RavenAscendant siê myli i ¿e podczas prze³adowania bojowego twój stalker ma magiczn¹ trzeci¹ rêkê, która trzyma magazynek, który wypad³ z pistoletu, dopóki nie mo¿na go umieœciæ w zwolnionym slocie ekwipunku, lub ¿e trzyma go w zêbach / kolanach / pachach / za pomoc¹ mocy psionicznych, to poni¿ej znajduje siê opcja umo¿liwiaj¹ca takie zachowanie.\n\n</text>
+	<text>Prze³adowywanie bojowe (prze³adowywanie przy zamkniêtym ekwipunku) dzia³a na takiej zasadzie:\n \n
+		• Twój ekwipunek to zestaw kieszeni/szlufek na kamizelce. Przyk³adowo masz 4 kieszenie i 4 magazynki w ekwipunku, po jednym w ka¿dej kieszeni i pi¹ty magazynek w pistolecie.\n
+		• Po prze³adowaniu, trzymaj¹c broñ w jednej rêce, drug¹ rêk¹ wyjmujesz magazynek z pistoletu.\n
+		Masz teraz broñ w jednej rêce i magazynek w drugiej.\n
+		We wszystkich czterech kieszeniach znajduj¹ siê magazynki, wiêc nie mo¿na w³o¿yæ magazynka do kieszeni, ani wyj¹æ magazynka z kieszeni, poniewa¿ obie rêce s¹ zajête. Co nale¿y zrobiæ?\n
+		• W tej sytuacji magazynek jest wk³adany do plecaka/inwentarza, a ty masz teraz woln¹ rêkê. aby wyj¹æ magazynek z jednej z kieszeni i w³o¿yæ go do pistoletu.\n
+		Prze³adowanie zakoñczone!\n
+		• Jeœli rozpoczniesz proces prze³adowania z woln¹ kieszeni¹ w ekwipunku, magazynek z pistoletu zostanie w³o¿ony do tej kieszeni, chyba ¿e magazynek jest pusty. W takim przypadku trafi on do plecaka/inwentarza. Mo¿na to zmieniæ, aby puste magazynki by³y umieszczane w kieszeniach wyposa¿enia lub upuszczane na ziemiê w MCM.\n
+		</text>
 	</string>
 	<string id="ui_mcm_magazines_gameplay_three_hands">
 		<text>U¿yj "trzeciej rêki", aby umieœciæ wyrzucony magazynek z powrotem w ekwipunku po prze³adowaniu bojowym.</text>
@@ -283,13 +259,13 @@
 		<text>(Kombinezon:%s + Extra:%s)<!--alt:> (%s + %s)<--></text>
 	</string>
 	<string id="st_mag_small">
-		<text>Ma³e magazynki:</text>
+		<text>%c[0,255,255,255]Ma³e magazynki: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_medium">
-		<text>Œrednie magazynki:</text>
+		<text>%c[0,255,255,255]Œrednie magazynki: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_large">
-		<text>Du¿e magazynki:</text>
+		<text>%c[0,255,255,255]Du¿e magazynki: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_base">
 		<text>Baza magazynków</text>
@@ -299,7 +275,7 @@
 	</string>
 	
 	<string id="st_mag_size">
-		<text>Rozmiar magazynka:</text>
+		<text>%c[0,255,255,255]Rozmiar magazynka: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_size_small">
 		<text>ma³y</text>
@@ -312,55 +288,41 @@
 	</string>
 
 	<string id="st_mag_loaded">
-		<text>Za³adowany magazynek:</text>
+		<text>%c[0,255,255,255]Za³adowany magazynek: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_loaded_none">
 		<text>OSTRZE¯ENIE: Brak za³adowanego magazynka</text>
 	</string>
 	
 	<string id="st_mag_ammo_loaded_count">
-		<text>Liczba za³adowanych naboi:</text>
+		<text>%c[0,255,255,255]Liczba za³adowanych naboi: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_capacity">
-		<text>Pojemnoœæ magazynka:</text>
+		<text>%c[0,255,255,255]Pojemnoœæ magazynka: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_ammo_top_round">
-		<text>Ostatni za³adowany pocisk:</text>
+		<text>%c[0,255,255,255]Ostatni za³adowany pocisk: %c[ui_gray_2]</text>
 	</string>
 
 	<string id="article_mags">
 		<text>Anomaly Magazines</text>
 	</string>
 	<string id="article_mags_text">
-		<text>
-			%c[pda_green]Mags Redux%c[ui_gray_1]\n \n
-			\nWitamy w korzystaniu z Mags Redux. Niniejszy przewodnik obejmuje wiêkszoœæ funkcji i zmian, których mo¿na siê spodziewaæ podczas korzystania z tego moda.
-			\nDla u¿ytkowników starych magazynków Anomaly (od Wuut) mo¿na spodziewaæ siê niewielkich ró¿nic w rozgrywce. Wiêkszoœæ funkcji jest taka sama. \n \n
-			
-			%c[pda_green]I. Jak ³adowaæ i strzelaæ z broni%c[ui_gray_1]\n
-			\n• Bronie, które logicznie u¿ywaj¹ magazynków w prawdziwym ¿yciu, wymagaj¹ u¿ycia magazynków.
-			\n• Broñ, która tego nie wymaga, bêdzie zachowywaæ siê tak jak w wersji waniliowej (strzelby, niektóre karabiny, rewolwery).
-			\n• Amunicja musi byæ rêcznie ³adowana do magazynków. Opis magazynka wska¿e, jaki rodzaj amunicji jest kompatybilny. Aby za³adowaæ amunicjê, przeci¹gnij amunicjê na magazynek. Spowoduje to rozpoczêcie procedury ³adowania, która bêdzie ³adowaæ naboje jeden po drugim.
-			\n• Aby anulowaæ tê procedurê, kliknij w dowolnym miejscu.
-			\n• Aby dodaæ magazynek do wyposa¿enia, kliknij go prawym przyciskiem myszy. Pojawi siê opcja "dodaj do wyposa¿enia". T³o magazynka zmieni kolor i pojawi siê ikona: oznacza to, ¿e magazynek zosta³ dodany do wyposa¿enia.
-			\n• Od tego momentu, jeœli trzymasz kwalifikuj¹c¹ siê broñ, prze³adowanie broni wykorzysta magazynek w twoim ekwipunku.
-			\n• mod spróbuje automatycznie wybraæ magazynek, który a) ma najwiêkszy rozmiar i b) ma górny nabój równy typowi amunicji.
-			\n• Magazynki mog¹ byæ równie¿ rêcznie wk³adane i wyrzucane. Kliknij broñ prawym przyciskiem myszy, aby znaleŸæ opcjê wyrzucenia magazynka. 
-			\n• Ko³o amunicji mo¿e byæ u¿ywane do wymiany magazynków. Magazynki s¹ podzielone na kategorie wed³ug ostatniego za³adowanego pocisku.\n \n
-			
-			%c[pda_green]II. Gdzie znaleŸæ magazynki%c[ui_gray_1]\n
-			\n• Sprzedawcy, którzy maj¹ w asortymencie broñ, maj¹ te¿ magazynki. Magazynki mo¿na im równie¿ sprzedaæ za grosze.
-			\n• Postacie niezale¿ne bêd¹ mia³y kilka magazynków do swojej broni i trochê amunicji.
-			\n• Postacie niezale¿ne, zw³aszcza te o wysokiej randze, maj¹ niewielk¹ szansê na upuszczenie ulepszonych magazynków. Magazynki te ³aduj¹ siê szybciej, maj¹ wiêksz¹ pojemnoœæ lub jedno i drugie.
-
-			
-			%c[pda_green]III. Wyjaœnienie opcji MCM.%c[ui_gray_1]\n
-			\n• Jakoœæ ³upów: Wp³ywa na iloœæ upuszczonych magazynków, iloœæ nape³nienia i szansê na ulepszenie magazynków.
-			\n• Wspó³czynnik czasu ³adowania/roz³adowania: Mno¿nik szybkoœci ³adowania/roz³adowywania pocisków w magazynkach.
-			\n• Szybkie ³adowanie: Umo¿liwia natychmiastowe roz³adowanie magazynków TYLKO W SCHOWKU.
-			\n• Jeden w komorze: Zachowuje nabój w komorze podczas zmiany magazynka, tak jak w prawdziwym ¿yciu. 
+		<text>%c[pda_green]Mags Redux\n \n
+		%c[ui_gray_1]Witamy w korzystaniu z Mags Redux. Niniejszy przewodnik obejmuje wiêkszoœæ funkcji i zmian, których mo¿na siê spodziewaæ podczas korzystania z tego moda.\n \n	
+		%c[pda_green]£adowanie i strzelanie z broni:\n
+		%c[pda_white]• %c[ui_gray_1]Bronie, które logicznie u¿ywaj¹ magazynków w prawdziwym ¿yciu, wymagaj¹ u¿ycia magazynków. Broñ, która tego nie wymaga, bêdzie zachowywaæ siê tak jak w wersji waniliowej (strzelby, niektóre karabiny, rewolwery).\n \n
+		%c[pda_white]• %c[ui_gray_1]Amunicja musi byæ rêcznie ³adowana do magazynków. Opis magazynka wska¿e, jaki rodzaj amunicji jest kompatybilny. Aby za³adowaæ amunicjê, przeci¹gnij amunicjê na magazynek. Spowoduje to rozpoczêcie procedury ³adowania, która bêdzie ³adowaæ naboje jeden po drugim. Aby anulowaæ tê procedurê, kliknij w dowolnym miejscu.\n \n
+		%c[pda_white]• %c[ui_gray_1]Aby dodaæ magazynek do wyposa¿enia, kliknij go "%c[pda_white]Prawym przyciskiem myszy%c[ui_gray_1]". Pojawi siê opcja "%c[pda_white]dodaj do wyposa¿enia%c[ui_gray_1]". T³o magazynka zmieni kolor i pojawi siê ikona: oznacza to, ¿e magazynek zosta³ dodany do wyposa¿enia. Od tego momentu, jeœli trzymasz kwalifikuj¹c¹ siê broñ, prze³adowanie broni wykorzysta magazynek w twoim ekwipunku.\n \n
+		%c[pda_white]• %c[ui_gray_1]Mod spróbuje automatycznie wybraæ magazynek, który ma najwiêkszy rozmiar i ma górny nabój równy typowi amunicji. Magazynki mo¿na równie¿ wk³adaæ i wyrzucaæ rêcznie. Kliknij '%c[pda_white]Prawym przyciskiem myszy%c[ui_gray_1]' na broñ by znaleŸæ opcjê '%c[pda_white]Od³¹cz magazynek%c[ui_gray_1]'. Ko³o amunicji mo¿e byæ równie¿ u¿ywane do wymiany magazynków. Magazynki s¹ podzielone na kategorie wed³ug ostatniego za³adowanego naboju.\n \n
+		%c[pda_green]Znajdowanie magazynków:\n
+		%c[pda_white]• %c[ui_gray_1]Sprzedawcy oferuj¹cy broñ bêd¹ oferowaæ magazynki. UWAGA: opcja "%c[pda_white]Mags Buyable at Traders%c[ui_gray_1]" musi byæ w³¹czona w kategorii "G.A.M.M.A. Fixes" w ModOrganizerze.
+		%c[pda_white]• %c[ui_gray_1]Postacie niezale¿ne, zw³aszcza te o wysokiej randze, maj¹ niewielk¹ szansê na upuszczenie ulepszonych magazynków. Magazynki te ³aduj¹ siê szybciej, maj¹ wiêksz¹ pojemnoœæ lub jedno i drugie.\n \n		
+		%c[pda_green]Opcje MCM:\n
+		%c[pda_white]• Jakoœæ ³upów: %c[ui_gray_1]Wp³ywa na iloœæ upuszczonych magazynków, iloœæ nape³nienia i szansê na ulepszenie magazynków.\n
+		%c[pda_white]• Wspó³czynnik czasu ³adowania/roz³adowania: %c[ui_gray_1]Mno¿nik szybkoœci ³adowania/roz³adowywania pocisków w magazynkach.\n
+		%c[pda_white]• Szybkie ³adowanie: %c[ui_gray_1]Umo¿liwia natychmiastowe roz³adowanie magazynków TYLKO W SCHOWKU.\n
+		%c[pda_white]• Jeden w komorze: %c[ui_gray_1]Zachowuje nabój w komorze podczas zmiany magazynka, tak jak w prawdziwym ¿yciu. 
 		</text>
 	</string>
-
-
 </string_table>

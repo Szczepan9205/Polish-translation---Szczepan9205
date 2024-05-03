@@ -4,6 +4,10 @@
 		<text>AMB-17</text>
 	</string>
 	<string id="st_wpn_amb17_descr">
-		<text>AMB-17 to ca³kowicie wyt³umiony karabin szturmowy wykorzystuj¹cy ciê¿ki poddŸwiêkowy nabój 9x39 mm SP5 i nabój przeciwpancerny SP6. Zosta³ opracowany i wyprodukowany pod koniec 2010 roku przez koncern Ka³asznikow, w oparciu o MA Compact Rifle Jewgienija Dragunowa. Broñ jest przeznaczona do u¿ytku jako broñ bliskiego zasiêgu.\n \n</text>
+		<text>Integralnie wyt³umiony kompaktowy i ergonomiczny karabin oparty na MA Compact Rifle Jewgienija Dragunowa, przeznaczony g³ównie dla jednostek wojskowych i organów œcigania rosyjskiego Ministerstwa Spraw Wewnêtrznych, Gwardii Narodowej i armii w celu zast¹pienia AKS-74U. Broñ posiada zintegrowan¹ szynê Picatinny o pe³nej d³ugoœci, polimerow¹ sk³adan¹ na bok i regulowan¹ kolbê naramienn¹ oraz pod³u¿ne szczeliny w œciankach górnej czêœci korpusu umo¿liwiaj¹ce oburêczne sterowanie zarówno selektorem ognia, jak i uchwytem ³adowania. Kompaktowy rozmiar i wszechstronnoœæ sprawiaj¹, ¿e nadaje siê zarówno do walki w zwarciu, jak i na œrednim dystansie.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Koncern Ka³asznikowa\n
+		</text>
 	</string>
 </string_table>

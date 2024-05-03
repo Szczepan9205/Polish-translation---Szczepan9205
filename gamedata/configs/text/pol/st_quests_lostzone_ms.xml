@@ -5,12 +5,63 @@
 < TEXT STRINGS FOR LOST TO THE ZONE: MORTAL SIN TASKS
 <	Anomaly 1.5 - Lost to the Zone: Mortal Sin
 <
-<	Made by: SarisKhan
-<	Last revised: 04 September 2019
-<
 <===========================================================-->
 
 <string_table>
+
+<!--
+	PRZEDMIOTY
+-->
+
+	<string id="drekavac_notes_name">
+		<text>Notatki Wyjca</text>
+	</string>
+	<string id="drekavac_notes_desc">
+		<text>"Nareszcie, po tylu latach przygotowañ, mo¿emy kontynuowaæ plan Mistrzów. To godne po¿a³owania, ¿e a¿ tylu ludzi nie chce nam wierzyæ, nawet nie próbuje. S³owa to czasem jednak za ma³o. Zaœlepiaj¹ ich najprostsze ludzkie pragnienia. Jeœli nadal bêd¹ pe³ni przemocy, odpowiemy im tym samym. Mo¿e wtedy pojm¹ nasz cel. Ziarno Wyraju z wolna kie³kuje, a ja jestem po to, by g³osiæ raj dalej i dalej, poza horyzont. Jestem grotem Jego w³óczni."\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="chernobog_notes_name">
+		<text>Zapiski Czarnoboga</text>
+	</string>
+	<string id="chernobog_notes_desc">
+		<text>"Zona jest cudem. Mistrzowie nas oczyœcili. S¹dziliœmy, ¿e niebawem Ona oczyœci ca³y œwiat. Tak siê nie sta³o. Do naszego niewielkiego skrawka raju przedostali siê pe³ni wad grzesznicy. W akcie nieprzemyœlanego okrucieñstwa plugawiec, którego zw¹ Strie³ok okaleczy³ mê¿ny Monolit i dosta³ siê do komnaty Mistrzów, by uœmierciæ ich cielesne formy. Nie bêdê rozpacza³. Nie pozwolê, aby ten cud poch³onê³y wady i plugastwa niegodziwców. Zatem my, Grzech, musimy dokoñczyæ dzie³a naszych Mistrzów. Bêdziemy prowadziæ wojnê przeciwko przemocy i ignorancji, by dane nam by³o osi¹gn¹æ wieczny pokój."\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="attackers_pda_name">
+		<text>PDA przywódcy oddzia³u Grzechu</text>
+	</string>
+	<string id="attackers_pda_desc">
+		<text>To PDA nale¿a³o do przywódcy oddzia³u. Zawiera mapê Czerwonego Lasu z zaznaczonymi kilkoma miejscami. Jedno z nich oznaczono jako niesprawdzone. Wygl¹da na to, ¿e oddzia³ kogoœ poszukiwa³ i ¿e byli bardzo blisko odnalezienia go. Poza tym, jest tu sporo innych, zaszyfrowanych danych; urz¹dzenie mo¿e byæ wartoœciowe.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="contact_lost_pda_name">
+		<text>PDA dowódcy zwiadu</text>
+	</string>
+	<string id="contact_lost_pda_desc">
+		<text>To PDA nale¿a³o do przywódcy oddzia³u. Przed œmierci¹ uda³o mu siê zarejestrowaæ pewne informacje na temat si³ wroga.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="vodnik_notes_name">
+		<text>Notatki Wodnika</text>
+	</string>
+	<string id="vodnik_notes_desc">
+		<text>"Wielu do³¹czy³o do naszej sprawy, niezale¿nie, czy od pocz¹tku pojmowali doskona³oœæ Zony, czy wymagali wyjaœnieñ i nauk. Och, jak¿e zazdroszczê Za³o¿ycielom; stworzyli ich sami Mistrzowie, doœwiadczyli kreacji Wyraju! Oni oczyœcili nas, uznaj¹c za godnych i równych sobie. I oczyszcz¹ braci naszych, kiedy nadejd¹. Razem nasze s³owo rozg³osimy ca³emu œwiatu."\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
@@ -80,13 +131,6 @@
 		<text>Uzyska³eœ parê przydatnych informacji i zabi³eœ tajemniczego wys³annika. Zg³oœ siê do profesora Sacharowa.</text>
 	</string>
 	
-	<string id="vodnik_notes_name">
-		<text>Notatki Wodnika</text>
-	</string>
-	<string id="vodnik_notes_desc">
-		<text>"Wielu do³¹czy³o do naszej sprawy, niezale¿nie, czy od pocz¹tku pojmowali doskona³oœæ Zony, czy wymagali wyjaœnieñ i nauk. Och, jak¿e zazdroszczê Za³o¿ycielom; stworzyli ich sami Mistrzowie, doœwiadczyli kreacji Wyraju!\n \nOni oczyœcili nas, uznaj¹c za godnych i równych sobie. I oczyszcz¹ braci naszych, kiedy nadejd¹. Razem nasze s³owo rozg³osimy ca³emu œwiatu."</text>
-	</string>
-	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Mortal Sin Task 2 -->
 	<string id="lttz_ms_red_forester_title">
@@ -106,13 +150,6 @@
 	</string>
 	<string id="lttz_ms_red_forest_attackers_descr2">
 		<text>Przeszukaj cia³a w poszukiwaniu u¿ytecznych informacji.</text>
-	</string>
-	
-	<string id="attackers_pda_name">
-		<text>PDA przywódcy oddzia³u Grzechu</text>
-	</string>
-	<string id="attackers_pda_desc">
-		<text>To PDA nale¿a³o do przywódcy oddzia³u. Zawiera mapê Czerwonego Lasu z zaznaczonymi kilkoma miejscami. Jedno z nich oznaczono jako niesprawdzone.\n \nWygl¹da na to, ¿e oddzia³ kogoœ poszukiwa³ i ¿e byli bardzo blisko odnalezienia go. Poza tym, jest tu sporo innych, zaszyfrowanych danych; urz¹dzenie mo¿e byæ wartoœciowe.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -140,7 +177,8 @@
 		<text>Dekoder Ig³y</text>
 	</string>
 	<string id="stitch_decoder_desc">
-		<text>To nieco przestarza³e urz¹dzenie deszyfruj¹ce nale¿y do Ig³y. Dekoder powinien wspó³pracowaæ z technologiami z tego samego okresu, wykorzystywanymi w obiektach rozsianych po ca³ej Zonie.</text>
+		<text>To nieco przestarza³e urz¹dzenie deszyfruj¹ce nale¿y do Ig³y.\n
+		Dekoder powinien wspó³pracowaæ z technologiami z tego samego okresu, wykorzystywanymi w obiektach rozsianych po ca³ej Zonie.\n \n</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -261,13 +299,6 @@
 		<text>Pokona³eœ Egzekutorów Grzechu. Powiedz o tym £otrzykowi.</text>
 	</string>
 	
-	<string id="drekavac_notes_name">
-		<text>Notatki Wyjca</text>
-	</string>
-	<string id="drekavac_notes_desc">
-		<text>"Nareszcie, po tylu latach przygotowañ, mo¿emy kontynuowaæ plan Mistrzów. To godne po¿a³owania, ¿e a¿ tylu ludzi nie chce nam wierzyæ, nawet nie próbuje. S³owa to czasem jednak za ma³o.\n \nZaœlepiaj¹ ich najprostsze ludzkie pragnienia. Jeœli nadal bêd¹ pe³ni przemocy, odpowiemy im tym samym. Mo¿e wtedy pojm¹ nasz cel. Ziarno Wyraju z wolna kie³kuje, a ja jestem po to, by g³osiæ raj dalej i dalej, poza horyzont. Jestem grotem Jego w³óczni."</text>
-	</string>
-	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Mortal Sin Task 11 -->
 	<string id="lttz_ms_war_prisoner_title">
@@ -287,13 +318,6 @@
 	</string>
 	<string id="lttz_ms_contact_lost_descr2">
 		<text>Uda³o ci siê zdobyæ dane zwiadowców. Wróæ do £otrzyka.</text>
-	</string>
-	
-	<string id="contact_lost_pda_name">
-		<text>PDA dowódcy zwiadu</text>
-	</string>
-	<string id="contact_lost_pda_desc">
-		<text>To PDA nale¿a³o do przywódcy oddzia³u. Przed œmierci¹ uda³o mu siê zarejestrowaæ pewne informacje na temat si³ wroga.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -362,13 +386,6 @@
 		<text>Dopadnij Czarnoboga i nie dopuœæ, by wypowiedzia³ swoje ¿yczenie.</text>
 	</string>
 	
-	<string id="chernobog_notes_name">
-		<text>Zapiski Czarnoboga</text>
-	</string>
-	<string id="chernobog_notes_desc">
-		<text>"Zona jest cudem. Mistrzowie nas oczyœcili. S¹dziliœmy, ¿e niebawem Ona oczyœci ca³y œwiat. Tak siê nie sta³o. Do naszego niewielkiego skrawka raju przedostali siê pe³ni wad grzesznicy. W akcie nieprzemyœlanego okrucieñstwa plugawiec, któremu na imiê Strie³ok okaleczy³ mê¿ny Monolit i dosta³ siê do komnaty Mistrzów, by uœmierciæ ich cielesne formy.\n \nNie bêdê rozpacza³. Nie pozwolê, aby ten cud poch³onê³y wady i plugastwa niegodziwców. Zatem my, Grzech, musimy dokoñczyæ dzie³a naszych Mistrzów. Bêdziemy prowadziæ wojnê przeciwko przemocy i ignorancji, by dane nam by³o osi¹gn¹æ wieczny pokój."</text>
-	</string>
-	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Mortal Sin Task 19 -->
 	<string id="lttz_ms_choice_title">
@@ -384,7 +401,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Mortal Sin Task 20 -->
 	<string id="lttz_ms_zone_hero_title">
-		<text>Grzech Œmiertelny: Heros</text>
+		<text>Grzech Œmiertelny: Bohater Zony</text>
 	</string>
 	<string id="lttz_ms_zone_hero_dolg_descr">
 		<text>Powstrzyma³eœ Grzech przed przyspieszeniem rozszerzania siê Zony. Poinformuj o tym genera³a Woronina.</text>

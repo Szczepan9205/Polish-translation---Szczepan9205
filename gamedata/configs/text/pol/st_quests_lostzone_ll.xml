@@ -5,12 +5,46 @@
 < TEXT STRINGS FOR LOST TO THE ZONE: LIVING LEGEND TASKS
 <	Anomaly 1.5 - Lost to the Zone: Living Legend
 <
-<	Made by: SarisKhan
-<	Last revised: 04 September 2019
-<
 <===========================================================-->
 
 <string_table>
+
+<!--
+	PRZEDMIOTY
+-->
+
+	<string id="item_doc_x8_ll_name">
+		<text>Dokumenty z X-8</text>
+	</string>
+	<string id="item_doc_x8_ll_desc">
+		<text>Te dokumenty w zwiêz³y sposób opisuj¹ rezultaty obszernych eksperymentów zwi¹zanych z badaniami nad psionik¹, prowadzonych przez nieznan¹ grupê naukowców. Szczególnie zaznaczono w nich doœwiadczalne potwierdzenie istnienia bezkontaktowego pola energii psychicznej otaczaj¹cej ca³¹ Ziemiê.\n
+		Dokumenty zawieraj¹ równie¿ krótki opis niezwykle skomplikowanych maszyn i urz¹dzeñ, które potencjalnie mog³yby w kontrolowany sposób wp³ywaæ na wspomniane pole. Znaczn¹ wiêkszoœæ danych stanowi¹ listy ludzi u¿ytych w charakterze obiektów testowych, wystawionych na dzia³anie emisji psionicznych ró¿nych czêstotliwoœci i intensywnoœci. W przypadku wielu z nich jako rezultat zanotowano nadludzk¹ wytrzyma³oœæ, intelekt czy nabycie zdolnoœci telepatycznych w trakcie prowadzenia testów. Czêœæ z nich na skutek badañ ponios³a œmieræ, inni zostali przeniesieni do innych obiektów, a wielu z nich nie opisano w ¿aden sposób - jakby zniknêli, lub uciekli.\n
+		Wzd³u¿ jednego z marginesów ktoœ rêcznie zapisa³ notatkê: "Ju¿ teraz wypaczyliœmy ludzkie formy tak, ¿e nie mo¿na ich rozpoznaæ. To za wiele! Jak du¿o czasu musi jeszcze up³yn¹æ, zanim grzechy i pycha w koñcu nas dopadn¹?!"\n
+		Strie³ok na pewno bêdzie nimi zainteresowany.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="strelok_notes_name">
+		<text>Notatnik Strie³oka</text>
+	</string>
+	<string id="strelok_notes_desc">
+		<text>Ten notatnik nale¿a³ do Strie³oka. Po szybkim przejrzeniu okazuje siê, ¿e zawiera raczej niepowi¹zane ze sob¹ i trudne do zrozumienia bez kontekstu zapiski. Wydaje siê, ¿e legendarny stalker prze¿ywa³ kryzys w zwi¹zku z jak¹œ wa¿n¹ decyzj¹, któr¹ podj¹³ kilka lat temu i zechcia³ zweryfikowaæ swoje wybory, szukaj¹c odpowiedzi na pó³nocy Zony.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="st_strelok_pendrive_name">
+		<text>Pendrive Strie³oka</text>
+	</string>
+	<string id="st_strelok_pendrive_descr">
+		<text>Ten pendrive zawiera mnóstwo zakodowanych danych - stanowi kopiê bezpieczeñstwa odkryæ dokonanych przez Strie³oka na przestrzeni ostatnich lat.\n \nNa noœniku znajduj¹ siê bezcenne informacje dowodz¹ce prowadzenia œciœle tajnych eksperymentów, które rzekomo przyczyni³y siê do powstania Zony.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
@@ -33,13 +67,6 @@
 	</string>
 	<string id="lttz_ll_visit_agro_ug_text_2">
 		<text>Z notatek Doktora wynika, ¿e Strie³ok ma kryjówkê w podziemiach Agropromu. Mo¿e tam znajdziesz jakieœ poszlaki.</text>
-	</string>
-	
-	<string id="strelok_notes_name">
-		<text>Notatnik Strie³oka</text>
-	</string>
-	<string id="strelok_notes_desc">
-		<text>Ten notatnik nale¿a³ do Strie³oka. Po szybkim przejrzeniu okazuje siê, ¿e zawiera raczej niepowi¹zane ze sob¹ i trudne do zrozumienia bez kontekstu zapiski. Wydaje siê, ¿e legendarny stalker prze¿ywa³ kryzys w zwi¹zku z jak¹œ wa¿n¹ decyzj¹, któr¹ podj¹³ kilka lat temu i zechcia³ zweryfikowaæ swoje wybory, szukaj¹c odpowiedzi na pó³nocy Zony.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -179,13 +206,6 @@
 		<text>W laboratorium X-8 wci¹¿ mog¹ znajdowaæ siê tajne dokumenty na temat Zony. ZnajdŸ je i dostarcz Strie³okowi.</text>
 	</string>
 	
-	<string id="item_doc_x8_ll_name">
-		<text>Dokumenty z X-8</text>
-	</string>
-	<string id="item_doc_x8_ll_desc">
-		<text>Te dokumenty w zwiêz³y sposób opisuj¹ rezultaty obszernych eksperymentów zwi¹zanych z badaniami nad psionik¹, prowadzonych przez nieznan¹ grupê naukowców. Szczególnie zaznaczono w nich doœwiadczalne potwierdzenie istnienia bezkontaktowego pola energii psychicznej otaczaj¹cej ca³¹ Ziemiê.\n \nDokumenty zawieraj¹ równie¿ krótki opis niezwykle skomplikowanych maszyn i urz¹dzeñ, które potencjalnie mog³yby w kontrolowany sposób wp³ywaæ na wspomniane pole.\n \nZnaczn¹ wiêkszoœæ danych stanowi¹ listy ludzi u¿ytych w charakterze obiektów testowych, wystawionych na dzia³anie emisji psionicznych ró¿nych czêstotliwoœci i intensywnoœci. W przypadku wielu z nich jako rezultat zanotowano nadludzk¹ wytrzyma³oœæ, intelekt czy nabycie zdolnoœci telepatycznych w trakcie prowadzenia testów. Czêœæ z nich na skutek badañ ponios³a œmieræ, inni zostali przeniesieni do innych obiektów, a wielu z nich nie opisano w ¿aden sposób - jakby zniknêli, lub uciekli.\n \nWzd³u¿ jednego z marginesów ktoœ rêcznie zapisa³ notatkê: "Ju¿ teraz wypaczyliœmy ludzkie formy tak, ¿e nie mo¿na ich rozpoznaæ. To za wiele! Jak du¿o czasu musi jeszcze up³yn¹æ, zanim grzechy i pycha w koñcu nas dopadn¹?!"\n \nStrie³ok na pewno bêdzie nimi zainteresowany.</text>
-	</string>
-	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Living Legend Task 14 -->
 	<string id="lttz_ll_eidolon_start_task_title">
@@ -245,13 +265,6 @@
 	</string>
 	<string id="lttz_ll_answers_task_descr">
 		<text>Zdoby³eœ Od³amek Monolitu. Nadszed³ czas na odpowiedzi.</text>
-	</string>
-	
-	<string id="st_strelok_pendrive_name">
-		<text>Pendrive Strie³oka</text>
-	</string>
-	<string id="st_strelok_pendrive_descr">
-		<text>Ten pendrive zawiera mnóstwo zakodowanych danych - stanowi kopiê bezpieczeñstwa odkryæ dokonanych przez Strie³oka na przestrzeni ostatnich lat.\n \nNa noœniku znajduj¹ siê bezcenne informacje dowodz¹ce prowadzenia œciœle tajnych eksperymentów, które rzekomo przyczyni³y siê do powstania Zony.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->

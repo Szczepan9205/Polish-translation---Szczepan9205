@@ -6,19 +6,17 @@
 		<text>Thompson M1A1</text>
 	</string>
 	<string id="st_wpn_thompson_m1a1_descr">
-		<text>Thompson to ch³odzony powietrzem, zasilany magazynkiem pistolet maszynowy o selektywnym ostrzale.\n
-		Ten wariant Thompsona ma znacznie zmniejszon¹ szybkostrzelnoœæ i uproszczon¹ konstrukcjê wyprodukowan¹ na zamówienie armii amerykañskiej. W rezultacie usuniêto zamek Blish, system oliwienia i kompensator. Pomimo mniejszej szybkostrzelnoœci, pistolet jest znacznie gorszy w strzelaniu ni¿ model 1921.\n
-		Ten wariant ma równie¿ inny odbiornik ni¿ wariant 1921/1928, a zatem nie bêdzie akceptowa³ magazynków bêbnowych.\n \n
+		<text>Thompson to ch³odzony powietrzem, zasilany z magazynka pistolet maszynowy do strzelania selektywnego. Wariant M1A1 ma znacznie zmniejszon¹ szybkostrzelnoœæ i uproszczon¹ konstrukcjê wyprodukowan¹ na ¿¹danie armii amerykañskiej w celu tañszej produkcji masowej podczas II wojny œwiatowej. W rezultacie usuniêto zamek Blish, system oliwienia i kompensator, a alternatywny odbiornik nie akceptuje ju¿ magazynków bêbnowych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] Brak\n</text>
+		%c[d_purple] • %c[ui_gray_2] Brak\n
+		</text>
 	</string>
 
 	<string id="st_wpn_thompson_1921">
 		<text>Thompson Model 1921</text>
 	</string>
 	<string id="st_wpn_thompson_1921_descr">
-		<text>Thompson to ch³odzony powietrzem, zasilany magazynkiem pistolet maszynowy o selektywnym ostrzale.\n
-		Ten wariant Thompsona, nazywany równie¿ "chicagowsk¹ maszyn¹ do pisania", charakteryzuje siê szybsz¹ szybkostrzelnoœci¹ i systemem blokady broni Blish Lock.\n \n
+		<text>Pierwotnie opracowany w celu zast¹pienia karabinów wyborowych typu bolt-action u¿ywanych przez armiê Stanów Zjednoczonych, Thompson jest pistoletem maszynowym zasilanym z magazynka selektywnego, ch³odzonym powietrzem. Ten wariant Thompsona, nazywany równie¿ "maszyn¹ do pisania Chicago", charakteryzuje siê szybsz¹ szybkostrzelnoœci¹ i systemem Blish Lock do obs³ugi broni, którego brakuje w póŸniejszym modelu M1A1.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Brak\n
 		</text>
@@ -80,6 +78,5 @@
 	<string id="st_up_1921_b9_descr">
 		<text>Instalacja ulepszonego mechanizmu blokuj¹cego w celu znacznego zwiêkszenia niezawodnoœci pistoletu.</text>
 	</string>
-
 
 </string_table>

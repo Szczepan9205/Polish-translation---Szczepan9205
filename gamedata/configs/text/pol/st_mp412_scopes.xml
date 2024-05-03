@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <!--
-	Unique sights for MP412 Rex
+	CELOWNIKI DO MP412 REX
 -->
 
 <string_table>
@@ -11,7 +11,7 @@
 	<string id="st_integrated_docter_descr">
 		<text>Dostępny tylko w ramach ulepszenia.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] Powiększenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] Powiększenie: %c[ui_gray_1]1.0x\n \n
 		</text>
 	</string>
 
@@ -21,7 +21,7 @@
 	<string id="st_integrated_compact_descr">
 		<text>Dostępny tylko w ramach ulepszenia.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] Powiększenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] Powiększenie: %c[ui_gray_1]1.0x\n \n
 		</text>
 	</string>
 </string_table>

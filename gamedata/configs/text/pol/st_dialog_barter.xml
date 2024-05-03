@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
+
 	<string id="exchanging_items_phr_0">
 		<text>Ej, koleżko, zobaczmy, kto ma więcej towaru.</text>
 	</string>
@@ -33,4 +35,5 @@
 	<string id="exchanging_items_phr_10">
 		<text>Jak tam chcesz.</text>
 	</string>
+
 </string_table>

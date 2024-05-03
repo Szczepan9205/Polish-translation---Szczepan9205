@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
-	<!-- SineDeviance Edytowane/Dodane -->
-	<string id="ui_st_train_hangar">
-		<text>Skład (Wysypisko)</text>
-	</string>
-	<string id="ui_st_truck_cemetery_bandits_post">
-		<text>Obóz na obrzeżach (Cmentarzysko pojazdów)</text>
-	</string>
-	<string id="ui_st_tc_central_tower">
-		<text>Centralna wieża obserwacyjna (Cmentarzysko pojazdów)</text>
-	</string>
-	
-	<!-- Zwykłe Anomaly -->
+
 	<string id="ui_st_abandoned_sawmill">
 		<text>Tartak (Zaton)</text>
 	</string>
@@ -84,7 +74,7 @@
 	<string id="ui_st_sports_center">
 		<text>Centrum sportowe (Martwe Miasto)</text>
 	</string>
-	<string id="ui_st_train_hangar">
+	<string id="ui_st_train_hanger">
 		<text>Hangar naprawczy (Wysypisko)</text>
 	</string>
 	<string id="ui_st_tunnel_entrance">
@@ -102,18 +92,10 @@
 	<string id="ui_st_pripyat_hospital">
 		<text>Szpital (Wschodnia Prypeć)</text>
 	</string>
-	<string id="ui_st_pumping_station">
-		<text>Stacja Pomp (Bagna)</text>
-	</string>
 	<string id="ui_st_red_forest_old_mine">
 		<text>Stara kopalnia (Czerwony Las)</text>
 	</string>
-	<string id="ui_st_village_ruins">
-		<text>Ruiny wioski (Bagna)</text>
-	</string>
-	
 
-	<!-- Last Day -->
 	<string id="ui_st_atp">
 		<text>Stacja pojazdów (Kordon)</text>
 	</string>
@@ -225,4 +207,5 @@
 	<string id="ui_st_yard_with_a_terrace">
 		<text>Taras nad placem (Limańsk)</text>
 	</string>
+	
 </string_table>

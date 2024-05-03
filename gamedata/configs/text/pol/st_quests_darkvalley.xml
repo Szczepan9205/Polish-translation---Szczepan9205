@@ -3,10 +3,6 @@
 <!--===========================================================
 <
 < TEXT  STRINGS FOR TASKS ON DARK VALLEY MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
 <
 <===========================================================-->
 
@@ -16,10 +12,6 @@
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- STORYLINE TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -154,16 +146,9 @@
 		<text>Dobrze. Jebaæ goœcia.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -183,16 +168,9 @@
 		<text>No i klasa! Powiem ch³opakom, ¿e jesteœ swój. IdŸ na powitaln¹ banieczkê.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- DYNAMIC TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.0
-	<!--	July 18, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -327,7 +305,7 @@
 
 
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
-		<text>Cheekie Breekie!</text>
+		<text>Cheekie Breekie i v Damke!</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
 		<text>Podaj lokalnym stalkerom pomocn¹ d³oñ, odci¹¿aj¹c ich z kosztownoœci tak d³ugo, a¿ twoja weso³a gromadka bandytów bêdzie zadowolona.</text>
@@ -408,16 +386,9 @@
 		<text>Ty to jednak jesteœ przegoœæ, stary. Szacun.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- COMPANION DIALOG TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 

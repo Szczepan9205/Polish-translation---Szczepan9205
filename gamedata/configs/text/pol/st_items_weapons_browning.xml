@@ -12,6 +12,7 @@
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik 9x19 (po modyfikacji)</text>
 	</string>
+
 	<string id="st_wpn_browning_mk3">
 		<text>Browning Hi-Power Mark III</text>
 	</string>

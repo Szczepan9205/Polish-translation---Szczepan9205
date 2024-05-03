@@ -31,7 +31,7 @@
 	<string id="ui_st_tab_misc">
 		<text>Pozosta³e przedmioty (10)</text>
 	</string>
-	
+		
 	<!-- Loot mode -->
 	<string id="ui_st_put_all">
 		<text>Przenieœ wszystkie</text>
@@ -338,96 +338,141 @@
 	<string id="ui_inv_seconds">
 		<text>sekund</text>
 	</string>
-	
-	<!-- Player states -->
-	<string id="st_ui_main_sensor">
-		<text>%c[0,255,255,255]PROMIENIOWANIE\n
-		%c[ui_gray_2]Ta statystyka okreœla, ile promieniowania obecnie przyjê³o cia³o gracza.\n
-		Nara¿enie na promieniowanie jonizuj¹ce stanowi ekstremalne, byæ mo¿e nawet œmiertelne, ryzyko. Z tego powodu umiejêtnoœæ odpowiedniego pomiaru poziomu promieniowania jest niezwykle istotna. Podstawow¹ jednostk¹ jest milisiwert (mSv).
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2]Leki antyradiacyjne, Cystamina, Jodek potasu, Radioprotektant, apteczka AI-2, Apteczka naukowa, Aksylotalizal, Stimpak naukowy, Ma³y zestaw przetrwania\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne wyposa¿enie: %c[ui_gray_2]Kombinezony ochronne, kombinezony radiacyjne i maski lub aparaty oddechowe.\n
+
+<!--
+	PLAYER STATES
+-->
+
+	<string id="st_ui_health_sensor_inv">
+		<text>%c[0,255,255,255]ZDROWIE:\n \n
+		%c[ui_gray_2]Zdrowie to ogólna witalnoœæ gracza.\n
+		Œmieræ nast¹pi, jeœli wartoœæ ta osi¹gnie zero.\n
+		W GAMMA jest to odpowiednik ogólnego stanu zdrowia cia³a dla Body Health System.\n \n
+		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Apteczek\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Stimpacków
 		</text>
 	</string>
+
+	<string id="ui_inv_power_restore">
+		<text>%c[0,255,255,255]REGENERACJA WYTRZYMA£OŒCI:\n \n
+		%c[ui_gray_2]Poziom wytrzyma³oœci reprezentuje dostêpn¹ energiê fizyczn¹ przechowywan¹ w ciele gracza. 
+		Energia ta jest wykorzystywana do ró¿nych celów, w szczególnoœci do biegania. Powa¿na utrata wytrzyma³oœci mo¿e spowodowaæ utratê mo¿liwoœci poruszania siê. Dlatego wa¿ne jest, aby jeœæ, piæ i spaæ, aby odzyskaæ energiê, a tak¿e sprawdzaæ wagê plecaka, poniewa¿ jego iloœæ wp³ywa na szybkoœæ wyczerpania.\n \n
+		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Tabletek kofeinowych\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Zastrzyku epinefryny\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Zastrzyku glukozy\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Herkulesa
+		</text>
+	</string>
+	
+	<string id="st_ui_main_sensor">
+		<text>%c[0,255,255,255]PROMIENIOWANIE:\n \n
+		%c[ui_gray_2]Ta statystyka okreœla, ile promieniowania obecnie przyjê³o cia³o gracza.\n
+		Nara¿enie na promieniowanie jonizuj¹ce stanowi ekstremalne, byæ mo¿e nawet œmiertelne, ryzyko. Z tego powodu umiejêtnoœæ odpowiedniego pomiaru poziomu promieniowania jest niezwykle istotna.\n
+		Podstawow¹ jednostk¹ jest milisiwert (mSv).\n \n
+		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Leków przeciwpromiennych\n
+		%c[d_cyan] • %c[0,255,255,255]Cystaminy\n
+		%c[d_cyan] • %c[0,255,255,255]Jodku potasu\n
+		%c[d_cyan] • %c[0,255,255,255]Radioprotektora\n \n
+		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
+		</text>
+	</string>
+
+	<string id="ui_inv_radiation_protection">
+		<text>%c[0,255,255,255]ODPORNOŒÆ NA PROMIENIOWANIE:\n \n
+		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na promieniowanie:\n
+		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Leków przeciwpromiennych\n
+		%c[d_cyan] • %c[0,255,255,255]Cystaminy\n
+		%c[d_cyan] • %c[0,255,255,255]Jodku potasu\n
+		%c[d_cyan] • %c[0,255,255,255]Radioprotektora\n \n
+		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
+		</text>
+	</string>
+
 	<string id="ui_inv_burn_protection">
-		<text>%c[0,255,255,255]ODPORNOŒÆ NA OPARZENIA\n
-		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ aktora na typow¹ anomaliê po¿arow¹ w Czarnobylskiej Strefie Wykluczenia:\n
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne wyposa¿enie: %c[ui_gray_2]Kombinezony ochronne\wyposa¿enie\pancerze.\n
+		<text>%c[0,255,255,255]ODPORNOŒÆ NA OPARZENIA:\n \n
+		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na typow¹ anomaliê termiczn¹ w Czarnobylskiej Strefie Wykluczenia.\n \n
+		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
 		</text> 
 	</string>
+
 	<string id="ui_inv_chemical_burn_protection">
-		<text>%c[0,255,255,255]ODPORNOŒÆ NA CHEMIKALIA\n
-		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ aktora na typowe anomalie chemiczne w Czarnobylskiej Strefie Wykluczenia:\n
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2]Chlortetracyklina, Sulfadimetoksyna, Antidotum\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne wyposa¿enie: %c[ui_gray_2]Kombinezony ochronne\wyposa¿enie\pancerze.\n
+		<text>%c[0,255,255,255]ODPORNOŒÆ NA CHEMIKALIA:\n \n
+		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na typowe anomalie chemiczne w Czarnobylskiej Strefie Wykluczenia.\n \n
+		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Chlortetracykliny\n
+		%c[d_cyan] • %c[0,255,255,255]Sulfadimetoksyny\n
+		%c[d_cyan] • %c[0,255,255,255]Antidotum\n \n
+		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
 		</text>
 	</string>
-	<string id="ui_inv_fire_wound_protection">
-		<text>%c[0,255,255,255]ODPORNOŒÆ BALISTYCZNA\n
-		%c[ui_gray_2]Odpornoœæ balistyczna oznacza w³aœciwoœci antybalistyczne kamizelki kuloodpornej (zdolnoœæ do bezpiecznego poch³aniania energii kinetycznej ma³ych obiektów o du¿ej prêdkoœci, takich jak pociski lub od³amki). Do celów oceny stosuje siê uznany na ca³ym œwiecie system amerykañskiego Narodowego Instytutu Sprawiedliwoœci (NIS): \n\n
-		%c[d_cyan] • %c[ui_gray_2] TABELA GRADACJI PANCERZA:\n
-		%c[d_cyan] • %c[ui_gray_2] BRAK:%c[ui_gray_2] 9x18mm, .45 ACP, 12x70 kulowe\n
-		%c[d_cyan] • %c[ui_gray_2] KLASA I:%c[ui_gray_2] 9x18mm +P+, 9x19mm FMJ, 9x19mm JHP, od³amki granatu\n
-		%c[d_cyan] • %c[ui_gray_2] KLASA IIA i II:%c[ui_gray_2] 9x18mm RG028, .45 HS, 5.7x28mm SS195, .357 HP, 12x76 œrut\n
-		%c[d_cyan] • %c[ui_gray_2] KLASA IIIA:%c[ui_gray_2] 9x19mm AP, 5.45x39mm FMJ/EP, 5.56x45mm FMJ, 7.62x51mm NATO kulowe, 9x39mm SP-5, 12x76 strza³kowe\n
-		%c[d_cyan] • %c[ui_gray_2] KLASA III:%c[ui_gray_2] 5.56x45mm EP/AP, 7.62x39mm FMJ/AP, 7.62x54mm ZN1/PP, 7.92x57mm Mauser, 9x39mm SP-6, 12.7x55mm STs-130\n
-		%c[d_cyan] • %c[ui_gray_2] KLASA IV:%c[ui_gray_2] 5.45x39mm AP, 7.62x51mm NATO AP, 7.62x54mm AP/7H14, 7.92x57mm SA, .338 Lapua Magnum, 12.7x55mm STs-130 WPS\n
-		%c[d_cyan] • %c[ui_gray_2] KLASA V (egzoszkielet):%c[d_red] sklasyfikowany\n
-		%c[0,255,255,255]UWAGA:\n
-		%c[ui_gray_2]Powy¿sze poziomy ochrony odnosz¹ siê wy³¹cznie do w³aœciwoœci przeciwprzenikaniowych pancerza. Uderzenie pocisku nadal jest w stanie zadaæ obra¿enia poprzez têpy uraz spowodowany czyst¹ energi¹ kinetyczn¹.\n
-		</text>
-	</string>
-	<string id="ui_inv_radiation_protection">
-		<text>%c[0,255,255,255]ODPORNOŒÆ NA PROMIENIOWANIE\n
-		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ aktora na promieniowanie:\n
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2]Leki antyradiacyjne, Cystamina, Jodek potasu, Radoprotektor, Apteczka AI-2, Apteczka naukowa, Aksylotalizal, Stimpak naukowy, Ma³y zestaw przetrwania.\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne wyposa¿enie: %c[ui_gray_2]Kombinezony ochronne, kombinezony radiacyjne i maski lub aparaty oddechowe.\n
-		</text>
-	</string>
+
 	<string id="ui_inv_shock_protection">
-		<text>%c[0,255,255,255]ODPORNOŒÆ NA PORA¯ENIE ELEKTRYCZNE\n
-		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ aktora na typow¹ anomaliê elektryczn¹ w Czarnobylskiej Strefie Wykluczenia:\n
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatny ekwipunek: %c[ui_gray_2]Kombinezon ochronny\wyposa¿enie\pancerz.\n
+		<text>%c[0,255,255,255]ODPORNOŒÆ NA PORA¯ENIE ELEKTRYCZNE:\n \n
+		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na typow¹ anomaliê elektryczn¹ w Czarnobylskiej Strefie Wykluczenia.\n \n
+		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
 		</text>
 	</string>
+
 	<string id="ui_inv_telepatic_protection">
-		<text>%c[0,255,255,255]ODPORNOŒÆ PSIONICZNA\n
-		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ aktora na pola psioniczne w Czarnobylskiej Strefie Wykluczenia:\n
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2]Etperazyna, Psi-bloker, Pigu³ki nasenne, Marihuana\n
+		<text>%c[0,255,255,255]ODPORNOŒÆ PSIONICZNA:\n \n
+		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na pola psioniczne w Czarnobylskiej Strefie Wykluczenia.\n \n
+		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Jointa\n
+		%c[d_cyan] • %c[0,255,255,255]Etaperyzyny\n
+		%c[d_cyan] • %c[0,255,255,255]Marihuany\n
+		%c[d_cyan] • %c[0,255,255,255]Blokera psionicznego\n
+		%c[d_cyan] • %c[0,255,255,255]Tabletek nasennych
 		</text>
 	</string>
+
+	<string id="ui_inv_fire_wound_protection">
+		<text>%c[0,255,255,255]ODPORNOŒÆ BALISTYCZNA:\n \n
+		%c[ui_gray_2]Odpornoœæ balistyczna oznacza w³aœciwoœci antybalistyczne kamizelki kuloodpornej (zdolnoœæ do bezpiecznego poch³aniania energii kinetycznej ma³ych obiektów o du¿ej prêdkoœci, takich jak pociski lub od³amki).\n
+		Do celów oceny stosuje siê uznany na ca³ym œwiecie system amerykañskiego Narodowego Instytutu Sprawiedliwoœci (NIS): \n \n
+		%c[d_cyan] • %c[0,255,255,255]TABELA GRADACJI PANCERZA:\n
+		%c[d_cyan] • %c[0,255,255,255]BRAK: %c[ui_gray_2]9x18mm, .45 ACP, 12x70 kulowe\n
+		%c[d_cyan] • %c[0,255,255,255]KLASA I: %c[ui_gray_2]9x18mm +P+, 9x19mm FMJ, 9x19mm JHP, od³amki granatu\n
+		%c[d_cyan] • %c[0,255,255,255]KLASA IIA i II: %c[ui_gray_2]9x18mm RG028, .45 HS, 5.7x28mm SS195, .357 HP, 12x76 œrut\n
+		%c[d_cyan] • %c[0,255,255,255]KLASA IIIA: %c[ui_gray_2]9x19mm AP, 5.45x39mm FMJ/EP, 5.56x45mm FMJ, 7.62x51mm NATO, 9x39mm SP-5, 12x76 Strza³kowe\n
+		%c[d_cyan] • %c[0,255,255,255]KLASA III: %c[ui_gray_2]5.56x45mm EP/AP, 7.62x39mm FMJ/AP, 7.62x54mm ZN1/PP, 7.92x57mm Mauser, 9x39mm SP-6, 12.7x55mm STs-130\n
+		%c[d_cyan] • %c[0,255,255,255]KLASA IV: %c[ui_gray_2]5.45x39mm AP, 7.62x51mm NATO AP, 7.62x54mm AP/7H14, 7.92x57mm SA, .338 Lapua Magnum, 12.7x55mm STs-130 WPS\n
+		%c[d_cyan] • %c[0,255,255,255]KLASA V (Egzoszkielet):%c[d_red] Tajne\n
+		%c[0,255,255,255]UWAGA:\n
+		%c[ui_gray_2]Powy¿sze poziomy ochrony odnosz¹ siê wy³¹cznie do w³aœciwoœci przeciwprzenikaniowych pancerza.\n
+		Uderzenie pocisku nadal jest w stanie zadaæ obra¿enia poprzez têpy uraz spowodowany czyst¹ energi¹ kinetyczn¹.\n
+		</text>
+	</string>
+
 	<string id="ui_inv_wound_protection">
-		<text>%c[0,255,255,255]ODPORNOŒÆ NA ZADRAPANIA\n
-		%c[ui_gray_2]Odpornoœæ na zadrapania reprezentuje zdolnoœæ pancerza do poch³aniania i przemieszczania urazów spowodowanych wszelkiego rodzaju fizycznymi ciosami i uderzeniami. Obejmuj¹ one - ale nie ograniczaj¹ siê do - prób ciosów, kopniêæ, pchniêæ, ciêæ, ugryzieñ i telekinetycznie rzucanych od³amków.\n
-		%c[0,255,255,255]Strategia ³agodzenia skutków\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatny ekwipunek: %c[ui_gray_2]Kombinezon ochronny\wyposa¿enie\pancerz.\n
+		<text>%c[0,255,255,255]ODPORNOŒÆ NA ZADRAPANIA:\n \n
+		%c[ui_gray_2]Odpornoœæ na zadrapania reprezentuje zdolnoœæ pancerza do poch³aniania i przemieszczania urazów spowodowanych wszelkiego rodzaju fizycznymi ciosami i uderzeniami.\n
+		Obejmuj¹ one - ale nie ograniczaj¹ siê do - prób ciosów, kopniêæ, pchniêæ, ciêæ, ugryzieñ i telekinetycznie rzucanych od³amków.\n \n
+		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
 		</text>
 	</string>
-	<string id="ui_inv_power_restore">
-		<text>%c[0,255,255,255]REGENERACJA WYTRZYMA£OŒCI\n
-		%c[ui_gray_2]Poziom wytrzyma³oœci reprezentuje dostêpn¹ energiê fizyczn¹ przechowywan¹ w ciele aktora. Energia ta jest wykorzystywana do ró¿nych celów, w szczególnoœci do biegania. Powa¿na utrata wytrzyma³oœci mo¿e spowodowaæ utratê mo¿liwoœci poruszania siê. Dlatego wa¿ne jest, aby jeœæ, piæ i spaæ, aby odzyskaæ energiê, a tak¿e sprawdzaæ wagê plecaka, poniewa¿ jego iloœæ wp³ywa na szybkoœæ wyczerpania. Narkotyki i artefakty mog¹ zwiêkszyæ regeneracjê wytrzyma³oœci.
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2]Zastrzyk adrenaliny, Tabletki kofeinowe, Kokaina, Herkules, Zastrzyk glukozy, Du¿y zastrzyk glukozy, Apteczka wojskowa.\n
-		</text>
-	</string>
+
 	<string id="st_ui_bleeding_sensor">
-		<text>%c[0,255,255,255]KRWAWIENIE\n
+		<text>%c[0,255,255,255]KRWAWIENIE:\n \n
 		%c[ui_gray_2]Krwawienie mo¿e wyczerpywaæ si³y witalne w bardzo szybkim tempie, jeœli nie jest szybko leczone. Krwawi¹ce rany s¹ najczêœciej wynikiem dzia³ania zewnêtrznej si³y fizycznej, która przebi³a pancerz i rozerwa³a skórê, a czasami towarzysz¹ im uszkodzenia narz¹dów wewnêtrznych. Krwawienie mo¿e byæ równie¿ efektem otwartych z³amañ koœci spowodowanych têpym urazem.\n
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2]Banda¿, Barwinek, Apteczka Wojskowa, Apteczka naukowa, Ma³y zestaw przetrwania.\n
-		</text>
-	</string>
-	<string id="st_ui_health_sensor_inv">
-		<text>%c[0,255,255,255]ZDROWIE\n
-		%c[ui_gray_2]Zdrowie to ogólna witalnoœæ aktora. Œmieræ nast¹pi, jeœli wartoœæ ta osi¹gnie zero.\n
-		W GAMMA jest to odpowiednik ogólnego stanu zdrowia cia³a dla Body Health System.
-		%c[0,255,255,255]Strategia ³agodzenia skutków:\n
-		%c[d_cyan] • %c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2]Diklofenak, Apteczka AI-2, Apteczka wojskowa, Apteczka naukowa, Aksylotalizal, Improwizowany stimpak, Wojskowy stimpak, Naukowy stimpak, Ma³y zestaw przetrwania.\n
+		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Banda¿y\n
+		%c[d_cyan] • %c[0,255,255,255]Opaski uciskowej\n
+		%c[d_cyan] • %c[0,255,255,255]Barwinka
 		</text>
 	</string>
 	
@@ -494,62 +539,59 @@
 		<text>Waga</text>
 	</string>
 	<string id="ui_ammo_count">
-		<text>Magazynek</text>
+		<text>%c[0,255,255,255]Poj. magazynka:</text>
 	</string>
 	<string id="ui_inv_accuracy">
-		<text>Celnoœæ</text>
+		<text>%c[0,255,255,255]Celnoœæ:</text>
 	</string>
 	<string id="ui_inv_damage">
-		<text>Obra¿enia</text>
+		<text>%c[0,255,255,255]Obra¿enia:</text>
 	</string>
 	<string id="ui_inv_handling">
-		<text>Obs³uga</text>
+		<text>%c[0,255,255,255]Obs³uga:</text>
 	</string>
-	
 	<string id="ui_inv_health">
-		<text>Regeneracja zdrowia</text>
+		<text>%c[0,255,255,255]Regeneracja zdrowia:</text>
 	</string>
 	<string id="ui_inv_power">
-		<text>Odzysk. energii</text>
+		<text>%c[0,255,255,255]Odzysk. energii:</text>
 	</string>
-	
 	<string id="ui_inv_outfit_additional_weight">
-		<text>Zwiêkszenie udŸwigu</text>
+		<text>%c[0,255,255,255]Zwiêkszenie udŸwigu:</text>
 	</string>
 	<string id="ui_inv_outfit_artefact_count">
-		<text>Poj. na artefakty</text>
+		<text>%c[0,255,255,255]Poj. na artefakty:</text>
 	</string>
 	<string id="ui_inv_outfit_burn_protection">
-		<text>Ochr.: term.</text>
+		<text>%c[0,255,255,255]Ochr. term:</text>
 	</string>
 	<string id="ui_inv_outfit_chemical_burn_protection">
-		<text>Ochr.: chem.</text>
+		<text>%c[0,255,255,255]Ochr. przed chem.</text>
 	</string>
 	<string id="ui_inv_outfit_fire_wound_protection">
-		<text>Opancerzenie</text>
+		<text>%c[0,255,255,255]Ochr. balist.:</text>
 	</string>
 	<string id="ui_inv_outfit_radiation_protection">
-		<text>Ochr.: prom.</text>
+		<text>%c[0,255,255,255]Ochr. przed prom.:</text>
 	</string>
 	<string id="ui_inv_outfit_shock_protection">
-		<text>Ochr.: elektr.</text>
+		<text>%c[0,255,255,255]Ochr. elektr.:</text>
 	</string>
 	<string id="ui_inv_outfit_telepatic_protection">
-		<text>Ochr.: psion.</text>
+		<text>%c[0,255,255,255]Ochr. psion.:</text>
 	</string>
 	<string id="ui_inv_outfit_wound_protection">
-		<text>Ochr.: zadrap.</text>
+		<text>%c[0,255,255,255]Ochr. przed zadrap.:</text>
 	</string>
 	<string id="ui_inv_outfit_explosion_protection">
-		<text>Ochr.: wybuch.</text>
+		<text>%c[0,255,255,255]Ochr. przed wybuch.:</text>
 	</string>
 	<string id="ui_inv_outfit_strike_protection">
-		<text>Ochr.: uderz.</text>
+		<text>%c[0,255,255,255]Ochr. przed uderz.:</text>
 	</string>
 	<string id="ui_inv_outfit_hit_fraction_actor">
 		<text>Redukcja uderzenia</text>
 	</string>
-	
 	<string id="ui_inv_satiety">
 		<text>Zaspokoj. g³odu</text>
 	</string>
@@ -562,21 +604,23 @@
 	<string id="ui_inv_af_condition">
 		<text>Efektywnoœæ</text>
 	</string>
+
 	<string id="ui_total_weight">
 		<text>£¹czna waga:</text>
 	</string>
 	<string id="st_ui_health_sensor">
 		<text>Zdrowie</text>
 	</string>
+	
 	<string id="ui_ammo_types">
 		<text>Amunicja</text>
 	</string>
 	<string id="ui_inv_effect_time">
-		<text>Czas dzia³ania</text>
+		<text>%c[0,255,255,255]Czas dzia³ania</text>
 	</string>
 	
 	<string id="st_itm_desc_properties">
-		<text>W£AŒCIWOŒCI</text>
+		<text>\n%c[0,255,255,255]W£AŒCIWOŒCI</text>
 	</string>
 	<string id="st_itm_desc_details">
 		<text>SZCZEGÓ£Y</text>
@@ -586,10 +630,10 @@
 	</string>
 	
 	<string id="st_itm_desc_state_possible">
-		<text>mo¿liwe</text>
+		<text>%c[ui_green]TAK</text>
 	</string>
 	<string id="st_itm_desc_state_not_possible">
-		<text>niemo¿liwe</text>
+		<text>%c[ui_red]NIE\n</text>
 	</string>
 	<string id="st_itm_desc_state_avail">
 		<text>zawiera</text>
@@ -642,7 +686,7 @@
 		<text>%s %s pragnienia</text>
 	</string>
 	<string id="st_itm_desc_eat_radiation">
-		<text>ska¿enie promieniotwórcze</text>
+		<text>%c[0,255,255,255]Ska¿enie promieniotwórcze</text>
 	</string>
 	<string id="st_itm_desc_eat_health">
 		<text>niezdrowe</text>
@@ -652,7 +696,7 @@
 		<text>ulepszalne</text>
 	</string>
 	<string id="st_itm_desc_outfit_heardgear">
-		<text>he³m</text>
+		<text>%c[0,255,255,255]He³m</text>
 	</string>
 	<string id="st_itm_desc_outfit_num_of_slots">
 		<text>iloœæ zaczepów na pasie</text>
@@ -661,20 +705,20 @@
 		<text>wzrost udŸwigu o</text>
 	</string>
 	<string id="st_itm_desc_outfit_run">
-		<text>bieganie</text>
+		<text>%c[0,255,255,255]bieganie:</text>
 	</string>
 	<string id="st_itm_desc_outfit_patch_torn">
-		<text>%s zosta³a zerwana z tego stroju</text>
+		<text>%s zosta³a zerwana z tego kombinezonu</text>
 	</string>
 	<string id="st_itm_desc_outfit_faction">
-		<text>frakcja</text>
+		<text>%c[0,255,255,255]Frakcja</text>
 	</string>
 	
 	<string id="st_itm_desc_outfit_repair_bonus">
-		<text>bonus naprawczy</text>
+		<text>%c[0,255,255,255]Bonus naprawczy</text>
 	</string>
 	<string id="st_itm_desc_outfit_required_tool">
-		<text>wymagane narzêdzie</text>
+		<text>%c[0,255,255,255]Wymagane narzêdzie</text>
 	</string>
 	
 	<string id="st_itm_desc_workshop_tool">
@@ -684,7 +728,7 @@
 		<text>nieprzydatny poni¿ej stanu</text>
 	</string>
 	<string id="st_itm_desc_repair_base_con">
-		<text>poprawa stanu o</text>
+		<text>%c[0,255,255,255]Poprawa stanu o</text>
 	</string>
 	<string id="st_itm_desc_repair_match">
 		<text>naprawia materia³y z u¿yciem odpowiedników</text>
@@ -721,7 +765,7 @@
 		<text>Kup amunicjê do karabinu (W)</text>
 	</string>
 	<string id="ui_inv_bleeding">
-		<text>leczenie ran</text>
+		<text>%c[0,255,255,255]Leczenie ran:</text>
 	</string>
 	<string id="ui_inv_cancel">
 		<text>Anuluj</text>
@@ -781,13 +825,13 @@
 		<text>Zestaw 3 (F3)</text>
 	</string>
 	<string id="ui_inv_radiation">
-		<text>Radiacja</text>
+		<text>%c[0,255,255,255]Radiacja:</text>
 	</string>
 	<string id="ui_inv_rank_restr">
 		<text>Ograniczenie rangi</text>
 	</string>
 	<string id="ui_inv_rate_of_fire">
-		<text>Szybkostrz.</text>
+		<text>%c[0,255,255,255]Szybkostrz.:</text>
 	</string>
 	<string id="ui_inv_reset_items(C)">
 		<text>Wyczyœæ (C)</text>
@@ -988,13 +1032,13 @@
 		<text>Mo¿na po³¹czyæ z</text>
 	</string>
 	<string id="st_ui_power">
-		<text>Energia</text>
+		<text>%c[0,255,255,255]Energia:</text>
 	</string>
 	<string id="st_ui_amount">
 		<text>Iloœæ</text>
 	</string>
 	<string id="st_ui_power_consumption">
-		<text>zu¿ycie energii</text>
+		<text>%c[0,255,255,255]Zu¿ycie energii:</text>
 	</string>
 	<string id="st_ui_info">
 		<text>info</text>

@@ -5,12 +5,53 @@
 < TEXT STRINGS FOR LOST TO THE ZONE: OPERATION AFTERGLOW TASKS
 <	Anomaly 1.5 - Lost to the Zone: Operation Afterglow
 <
-<	Made by: SarisKhan
-<	Last revised: 04 September 2019
-<
 <===========================================================-->
 
 <string_table>
+
+<!--
+	ITEMS
+-->
+
+	<string id="special_delivery_case_name">
+		<text>Zamkniêta walizka</text>
+	</string>
+	<string id="special_delivery_case_desc">
+		<text>Zamkniêta walizka z tajn¹ zawartoœci¹. Dosyæ ciê¿ka.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="st_army_isg_spy_pendrive_name">
+		<text>Pendrive tajnego agenta</text>
+	</string>
+	<string id="st_army_isg_spy_pendrive_descr">
+		<text>Wed³ug, b¹dŸ co b¹dŸ, doœæ tajemniczej odprawy szpieg w szeregach UNISG wykrada³ informacje o ich celach i posuniêciach, a tak¿e zbiera³ dowody, które mog³yby wywrzeæ presjê prawn¹ lub polityczn¹ na oddzia³y ONZ celem usuniêcia ich z Zony. Oczywiœcie, pendrive jest zaszyfrowany.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="jupiter_documents_name">
+		<text>Dokumenty z fabryki Jupiter</text>
+	</string>
+	<string id="jupiter_documents_desc">
+		<text>Prawdopodobnie ostatnie dokumenty zawieraj¹ce tajne informacje pozosta³e w fabryce. Lepiej, by nie wpad³y w niepowo³ane rêce.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+	<string id="decryption_radio_name">
+		<text>Krótkofalówka</text>
+	</string>
+	<string id="decryption_radio_desc">
+		<text>To niepozorne, wojskowe walkie-talkie jest w stanie przechwyciæ i zdeszyfrowaæ transmisje radiowe.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
@@ -25,13 +66,6 @@
 	</string>
 	<string id="lttz_oa_encrypted_transmission_text2">
 		<text>Zbadaj Ÿród³o wykrytego sygna³u.</text>
-	</string>
-	
-	<string id="decryption_radio_name">
-		<text>Krótkofalówka</text>
-	</string>
-	<string id="decryption_radio_desc">
-		<text>To niepozorne, wojskowe walkie-talkie jest w stanie przechwyciæ i zdeszyfrowaæ transmisje radiowe.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -95,13 +129,6 @@
 		<text>Wygl¹da na to, ¿e nie dostarczy³eœ przesy³ki na czas. Wróæ do Diegtiariowa z informacj¹, ¿e nie mog³eœ ukoñczyæ zadania.</text>
 	</string>
 	
-	<string id="special_delivery_case_name">
-		<text>Zamkniêta walizka</text>
-	</string>
-	<string id="special_delivery_case_desc">
-		<text>Zamkniêta walizka z tajn¹ zawartoœci¹. Dosyæ ciê¿ka.</text>
-	</string>
-	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Operation Afterglow Task 5 -->
 	<string id="lttz_oa_undercover_agent_name">
@@ -116,13 +143,6 @@
 	</string>
 	<string id="lttz_oa_undercover_agent_text3">
 		<text>Uda³o ci siê zdobyæ informacje, ale przyku³eœ uwagê cz³onków UNISG. Wróæ do Diegtiariowa.</text>
-	</string>
-	
-	<string id="st_army_isg_spy_pendrive_name">
-		<text>Pendrive tajnego agenta</text>
-	</string>
-	<string id="st_army_isg_spy_pendrive_descr">
-		<text>Wed³ug, b¹dŸ co b¹dŸ, doœæ tajemniczej odprawy szpieg w szeregach UNISG wykrada³ informacje o ich celach i posuniêciach, a tak¿e zbiera³ dowody, które mog³yby wywrzeæ presjê prawn¹ lub polityczn¹ na oddzia³y ONZ celem usuniêcia ich z Zony. Oczywiœcie, pendrive jest zaszyfrowany.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -145,13 +165,6 @@
 	</string>
 	<string id="lttz_oa_search_unit_text5">
 		<text>SpóŸniliœcie siê, oddzia³ UNISG zd¹¿y³ uciec z dokumentami. Porozmawiaj z Diegtiariowem.</text>
-	</string>
-	
-	<string id="jupiter_documents_name">
-		<text>Dokumenty z fabryki Jupiter</text>
-	</string>
-	<string id="jupiter_documents_desc">
-		<text>Prawdopodobnie ostatnie dokumenty zawieraj¹ce tajne informacje pozosta³e w fabryce. Lepiej, by nie wpad³y w niepowo³ane rêce.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->

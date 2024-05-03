@@ -5,9 +5,6 @@
 < GENERAL TEXT  STRINGS FOR TASKS
 <	CoC 1.4.10 - DoctorX Questlines 1.6
 <
-<	Modified by: DoctorX
-<	Last revised: October 14, 2016
-<
 <===========================================================-->
 
 <string_table>
@@ -15,10 +12,6 @@
 
 	<!--                                      -->
 	<!-- STORYLINE GENERAL TASK STRINGS       -->
-	<!--                                      -->
-	<!--	Modified by DoctorX               -->
-	<!--	for DoctorX Questlines 1.6        -->
-	<!--	October 07, 2016                  -->
 	<!--                                      -->
 
 	<!-- Find Wish Granter Task -->
@@ -34,10 +27,6 @@
 
 	<!--                                                -->
 	<!-- STORYLINE START GAME TASK TEXT  STRINGS        -->
-	<!--                                                -->
-	<!--	Modified by DoctorX                         -->
-	<!--	for DoctorX Questlines 1.6                  -->
-	<!--	October 14, 2016                            -->
 	<!--                                                -->
 
 	<!-- Start Game at Sidorovich (Loner) Task 1 -->
@@ -135,10 +124,6 @@
 	<!--                                             -->
 	<!-- STORYLINE MEET HONCHO TASK TEXT  STRINGS    -->
 	<!--                                             -->
-	<!--	Modified by DoctorX                      -->
-	<!--	for DoctorX Questlines 1.6               -->
-	<!--	October 14, 2016                         -->
-	<!--                                             -->
 
 	<!-- Meet Sidorovich (Loner) Task 1 -->
 
@@ -170,7 +155,7 @@
 	<!-- Meet Noah (Loner) Task 1 -->
 
 	<string id="drx_sl_zat_b18_noah_meet_task_1_name">
-		<text>Spotkaj siê z Noem</text>
+		<text>Spotkaj siê z Noe</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_meet_task_1_text">
 		<text>Noe na Zatonie to twój nastêpny kontakt.</text>
@@ -375,12 +360,7 @@
 		<text>Ojciec Mateusz w Jupiterze to twój nastêpny kontakt.</text>
 	</string>
 
-
-	<!-- SIMULATION TASK TEXT  STRINGS     -->
-	<!--	Modified by DoctorX            -->
-	<!--	for DoctorX Questlines 1.6     -->
-	<!--	October 07, 2016               -->
-
+	<!-- SIMULATION TASK TEXT STRINGS     -->
 
 	<!-- Procure Supplies for Clear Sky Simulation Task -->
 	<string id="simulation_task_1_name">
@@ -1250,7 +1230,7 @@
 		<text>$comm poprosi³ o pomoc w przeprowadzeniu pomiarów anomalii.\n \nZwróæ $item_1 i wyniki badañ.</text>
 	</string>
 	<string id="simulation_task_51_about">
-		<text>Tak w³aœciwie, to mam. Otrzymaliœmy raporty dotycz¹ce doœæ specyficznego zachowania anomalii. Potrzebujê kogoœ, kto wykona niezbêdne pomiary i wróci z wynikami.\n \nMam odpowiednie urz¹dzenie. Zosta³o zaprojektowane, by wytrzymaæ niezwykle trudne warunki œrodowiskowe i zbieraæ dok³adne dane niezale¿nie od zak³óceñ. Podejmiesz siê tego zadania?</text>
+		<text>Tak w³aœciwie, to mam. Otrzymaliœmy raporty dotycz¹ce doœæ specyficznego zachowania anomalii. Potrzebujê kogoœ, kto wykona niezbêdne pomiary i wróci z wynikami. Mam odpowiednie urz¹dzenie. Zosta³o zaprojektowane, by wytrzymaæ niezwykle trudne warunki œrodowiskowe i zbieraæ dok³adne dane niezale¿nie od zak³óceñ. Podejmiesz siê tego zadania?</text>
 	</string>
 	<string id="simulation_task_51_finish">
 		<text>Doskonale! Bardzo dobrze! Proszê przyj¹æ to jako podziêkê.</text>
@@ -1276,7 +1256,8 @@
 		<text>$comm poprosi³ ciê, byœ wyœledzi³ zaginiony oddzia³ i dowiedzia³ siê, co siê z nimi sta³o.\n \nWróæ do niego z tym, co ustali³eœ.</text>
 	</string>
 	<string id="simulation_task_52_about">
-		<text>Jest sprawa, która wymaga natychmiastowego dzia³ania. Kilka dni temu jeden z oddzia³ów zosta³ skierowany do wykonania zadania, ale utraciliœmy z nimi ³¹cznoœæ, kiedy wracali do bazy. Po prostu zniknêli bez œladu! Musisz ich odnaleŸæ. Albo przynajmniej jakieœ wskazówki dotycz¹ce tego, co mog³o siê z nimi staæ.\n \nPosiadasz odbiornik radiowy, zgadza siê? Korzystamy z nich do komunikacji. U¿yj go, by odnaleŸæ zaginionych.</text>
+		<text>Jest sprawa, która wymaga natychmiastowego dzia³ania. Kilka dni temu jeden z oddzia³ów zosta³ skierowany do wykonania zadania, ale utraciliœmy z nimi ³¹cznoœæ, kiedy wracali do bazy. Po prostu zniknêli bez œladu! Musisz ich odnaleŸæ. Albo przynajmniej jakieœ wskazówki dotycz¹ce tego, co mog³o siê z nimi staæ.\n 
+		\nPosiadasz odbiornik radiowy, zgadza siê? Korzystamy z nich do komunikacji. U¿yj go, by odnaleŸæ zaginionych.</text>
 	</string>
 	<string id="simulation_task_52_finish">
 		<text>Ech... niech im Zona lekk¹ bêdzie. PDA zarejestrowa³o ich ostatnie chwile. Wygl¹da na zasadzkê. Przyjmij to jako wyraz podziêkowania.</text>
@@ -1429,7 +1410,7 @@
 		<text>$comm poprosi³ o pomoc w przeprowadzeniu pomiarów anomalii.\n \nZwróæ $item_1 i wyniki badañ.</text>
 	</string>
 	<string id="simulation_task_61_about">
-		<text>Czêœci¹ naszej roboty jest jest badanie i opisywanie aktywnoœci anomalii. Szukam kogoœ, kto wykona niezbêdne pomiary i wróci z wynikami\n \nMam specjalne urz¹dzenie, które opracowano z myœl¹ o wystêpuj¹cych tu zagro¿eniach. Potrafi zebraæ odpowiednie dane i odfiltrowaæ zak³ócenia. To jak bêdzie, piszesz siê?</text>
+		<text>Czêœci¹ naszej roboty jest jest badanie i opisywanie aktywnoœci anomalii. Szukam kogoœ, kto wykona niezbêdne pomiary i wróci z wynikami. Mam specjalne urz¹dzenie, które opracowano z myœl¹ o wystêpuj¹cych tu zagro¿eniach. Potrafi zebraæ odpowiednie dane i odfiltrowaæ zak³ócenia. To jak bêdzie, piszesz siê?</text>
 	</string>
 	<string id="simulation_task_61_finish">
 		<text>Œwietnie. Oszczêdzi³eœ mi mnóstwo roboty. Proszê, weŸ to w zamian.</text>
@@ -1693,7 +1674,7 @@
 		<text>Frykasy</text>
 	</string>
 	<string id="simulation_task_78_text">
-		<text>Stalker swój sposób przyrz¹dzania miêsa. %s to brakuj¹cy sk³adnik.</text>
+		<text>Stalker ma swój sposób przyrz¹dzania miêsa. %s to brakuj¹cy sk³adnik.</text>
 	</string>
 	<string id="simulation_task_78_about">
 		<text>Goœciu, próbowa³eœ kiedyœ lokalnego miêska? Wiêkszoœæ mówi, ¿e nie tknie tego, póki nie bêd¹ zdychaæ z g³odu, ale ja... wiesz co, mnie tam smakuje bardziej, ni¿ ta hermetycznie pakowana chujnia z Du¿ej Ziemi.\n \nPrzy okazji, dobry z ciebie myœliwy?</text>
@@ -2382,6 +2363,38 @@
 		<text>O, stary, ch³opakom szczeny opadn¹. Proszê, trzymaj, dziêki za pomoc.</text>
 	</string>
 	
+		<string id="simulation_task_121_name">
+		<text>Pomoc w zbiórce</text>
+	</string>
+	<string id="simulation_task_121_text">
+		<text>ZnajdŸ i przynieœ stalkerowi %s.</text>
+	</string>
+	<string id="simulation_task_121_about">
+		<text>Obecnie ulepszamy nasz ekwipunek i gromadzimy zapasy, aby przemierzaæ bardziej niebezpieczne czêœci Zony w celu wykonania wa¿nej misji. Dlatego szukamy zestawów do tworzenia zaopatrzenia. Nie by³byœ przypadkiem w stanie dostarczyæ nam %s? Ta praca oczywiœcie zostanie wynagrodzona, stalkerze.</text>
+	</string>
+	<string id="simulation_task_121_fetch_about">
+		<text>Obecnie ulepszamy nasz sprzêt i gromadzimy zapasy. Potrzebujemy zestawów do tworzenia zaopatrzenia.</text>
+	</string>
+	<string id="simulation_task_121_fetch_finish">
+		<text>Uda³o ci siê! W dzisiejszych czasach to rzadkoœæ. Wielkie dziêki, bracie. Oto twoja nagroda. Odwali³eœ kawa³ dobrej roboty, stalkerze.</text>
+	</string>	
+	
+	<string id="simulation_task_122_name">
+		<text>Frykasy</text>
+	</string>
+	<string id="simulation_task_122_text">
+		<text>ZnajdŸ %s dla wolnoœciowca.</text>
+	</string>
+	<string id="simulation_task_122_about">
+		<text>Hej brachu, móg³byœ mi przynieœæ trochê %? Nie jestem uzale¿niony, ale... naprawdê ich potrzebujê, ¿eby roz³adowaæ stres, wiesz? Zona to stresuj¹ce miejsce. Naprawdê tego potrzebujê, ¿eby byæ mniej spiêty. Móg³byœ pomóc ziomkowi w potrzebie?</text>
+	</string>
+	<string id="simulation_task_122_fetch_about">
+		<text>Da³byœ radê sko³owaæ mi %s? Naprawdê ich potrzebujê, ¿eby roz³adowaæ stres, wiesz? Zona to stresuj¹ce miejsce...</text>
+	</string>
+	<string id="simulation_task_122_fetch_finish">
+		<text>Dziêki, ziomuœ!</text>
+	</string>	
+	
 	<!-- RESCUE UNDERCOVER AGENT -->
 	<string id="spy_task_name">
 		<text>Pozdrowienia z Ukrainy</text>
@@ -2554,9 +2567,7 @@
 		<text>Œwietna robota. Zas³ugujesz na oklaski od ca³ej bazy.</text>
 	</string>
 	
-	
-	
-	
+
 	<string id="st_multifetch_1"><text>Zlecono ci dostarczenie tych przedmiotów:</text></string>
 	<string id="st_multifetch_2"><text>, musz¹ mieæ przynajmniej %s% stanu</text></string>
 	<string id="st_multifetch_3"><text>Dostaniesz dodatkowe wynagrodzenie za te przedmioty:</text></string>

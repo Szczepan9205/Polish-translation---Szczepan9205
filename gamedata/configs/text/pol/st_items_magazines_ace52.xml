@@ -5,8 +5,8 @@
 		<text>Zmodyfikowany magazynek 7,62x54 Galil</text>
 	</string>
 	<string id="st_mag_galil_7.62x54_7h1_descr">
-		<text>
-		Zmodyfikowany 25-nabojowy magazynek pude³kowy do izraelskiego karabinu bojowego Galil.
+		<text>Zmodyfikowany 25-nabojowy magazynek pude³kowy do izraelskiego karabinu bojowego Galil.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 </string_table>

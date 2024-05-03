@@ -4,7 +4,9 @@
 		<text>Co teraz?</text>
 	</string>
 	<string id="totaliz_pre_1">
-		<text>Widzê, ¿e wyrobi³eœ sobie niema³¹ reputacjê na arenie, co oznacza, ¿e od teraz mo¿esz obstawiaæ zak³ady oraz ogl¹daæ walki! Potraktuj to jako prezent za bycie œwietnym wojownikiem - z wyrazami wdziêcznoœci ode mnie i wszystkich rekinów zak³adów.\n \nObstawiaæ bêdziesz móg³ od 1.000 do 5.000 rubli, a twoja wygrana bêdzie zale¿eæ od liczby uczestników - zarówno wygranych, jak i przegranych. Krótko mówi¹c, mo¿esz zarobiæ od 40% do trzech razy wiêcej, ni¿ wy³o¿y³eœ.</text>
+		<text>Widzê, ¿e wyrobi³eœ sobie niema³¹ reputacjê na Arenie, co oznacza, ¿e od teraz mo¿esz obstawiaæ zak³ady oraz ogl¹daæ walki!\n
+		Z wyrazami wdziêcznoœci ode mnie i wszystkich rekinów zak³adów potraktuj to jako prezent za bycie œwietnym wojownikiem. Obstawiaæ bêdziesz móg³ od 1.000 do 5.000 rubli, a twoja wygrana bêdzie zale¿eæ od liczby uczestników - zarówno wygranych, jak i przegranych.\n
+		Krótko mówi¹c, mo¿esz zarobiæ od 40% do trzech razy wiêcej, ni¿ wy³o¿y³eœ. To mo¿e byæ op³acalne, prawda?</text>
 	</string>
 
 	<string id="totaliz_begin_0">
@@ -133,7 +135,7 @@
 		<string id="totaliz_begin_46">
 			<text>¯o³nierze.</text>
 		</string>
-		<string id="totaliz_begin_43">
+		<string id="totaliz_begin_47">
 			<text>Burer.</text>
 		</string>
 

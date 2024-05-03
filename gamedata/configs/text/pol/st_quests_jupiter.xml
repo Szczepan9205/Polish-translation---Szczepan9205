@@ -3,10 +3,6 @@
 <!--===========================================================
 <
 < TEXT  STRINGS FOR TASKS ON JUPITER (YANOV) MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
 <
 <===========================================================-->
 
@@ -16,10 +12,6 @@
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- STORYLINE TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -261,17 +253,11 @@
 	<string id="drx_sl_jup_cont_trader_bandit_task_3_msg_leave">
 		<text>Dziêki, mordo. Prawie mnie obczaili, pewnie chcieli odjebaæ. Dobrze, ¿e w nich wlecia³eœ... No to co, bêdê spierdala³, nie? Trzymaj siê ramy!</text>
 	</string>
-	
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
 
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- DYNAMIC TASK TEXT  STRINGS
 	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 

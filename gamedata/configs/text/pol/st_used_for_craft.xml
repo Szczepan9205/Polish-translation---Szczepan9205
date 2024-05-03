@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="windows-1250" ?>
+
 <string_table>
+
 	<string id="st_craft_used_for">
-		<text>%c[ui_gray_1] • %c[0,255,255,255]Można użyć do do wytworzenia:%c[ui_gray_2]</text>
+		<text>%c[d_orange] • %c[0,255,255,255]Można użyć do do wytworzenia:%c[ui_gray_2]</text>
 	</string>
 	<string id="st_craft_unlocks">
-		<text>%c[ui_gray_1] • %c[0,255,255,255]Odblokowuje wytwarzanie:%c[ui_gray_2]</text>
+		<text>%c[d_orange] • %c[0,255,255,255]Odblokowuje wytwarzanie:%c[ui_gray_2]</text>
 	</string>
 	<string id="st_cook_used_for">
-		<text>%c[ui_gray_1] • %c[0,255,255,255]Można użyć do gotowania:%c[ui_gray_2]</text>
+		<text>%c[d_orange] • %c[0,255,255,255]Można użyć do gotowania:%c[ui_gray_2]</text>
 	</string>
 	<string id="ui_mcm_craft_in_tooltip_title">
 		<text>Informacje o wytwarzaniu</text>
@@ -21,4 +23,5 @@
 	<string id="ui_mcm_craft_in_tooltip_use_icons_desc">
 		<text>Wyświetla ikony przedmiotów możliwych do wytworzenia zamiast ich nazw.</text>
 	</string>
+	
 </string_table>

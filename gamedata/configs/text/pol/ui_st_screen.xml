@@ -103,7 +103,9 @@
 		<text>WeŸ skaner ($$ACTION_USE$$)</text>
 	</string>
 	<string id="lx8_raduga">
-		<text>Supresor agresji Têcza\nmodel zewnêtrznego kompleksu emisji\nskala 1:20</text>
+		<text>Supresor agresji Têcza\n
+		model zewnêtrznego kompleksu emisji\n
+		skala 1:20</text>
 	</string>
 	<string id="pas_b400_tip_switcher">
 		<text>U¿yj prze³¹cznika ($$ACTION_USE$$)</text>
@@ -337,7 +339,7 @@
 		<text>Wspaniale, szanowny kolego. Cieszê siê, ¿e uzyska³eœ dostêp do poziomu drugiego. Wreszcie dowiesz siê, co robimy w naszym laboratorium. Twój kod dostêpu to 1243. Dyrektor laboratorium X-18, Piotr Iljicz Ka³ugin.</text>
 	</string>
 	<string id="st_labx18_pass_to_2nd_door">
-	<text>Szanowny kolego, chcia³bym ci przypomnieæ, ¿e od jutra bêdziesz siê zajmowaæ pojemnikami w g³ównym pomieszczeniu laboratoryjnym. Pojemniki nale¿y sprawdzaæ co dwie godziny. Raporty sk³adaj bezpoœrednio u mnie. Kod do g³ównego pomieszczenia laboratoryjnego to 9524. Dyrektor laboratorium X-18, Piotr Iljicz Ka³ugin.</text>
+		<text>Szanowny kolego, chcia³bym ci przypomnieæ, ¿e od jutra bêdziesz siê zajmowaæ pojemnikami w g³ównym pomieszczeniu laboratoryjnym. Pojemniki nale¿y sprawdzaæ co dwie godziny. Raporty sk³adaj bezpoœrednio u mnie. Kod do g³ównego pomieszczenia laboratoryjnego to 9524. Dyrektor laboratorium X-18, Piotr Iljicz Ka³ugin.</text>
 	</string>
 	<string id="st_yan_saharov_message">
 		<text>Co za szczêœcie, ¿yjesz! Pamiêtaj, m³odzieñcze, ¿e koniecznie musimy zbadaæ urz¹dzenie w g³êbi laboratorium. Postaraj je wy³¹czyæ, abyœmy mogli dok³adnie siê mu przyjrzeæ.</text>
@@ -560,14 +562,6 @@
 		<text>Z³ama³eœ zasady! Uk³ad z frakcj¹ %s niewa¿ny!</text>
 	</string>
 	
-<!-- UPD -->
-	<string id="st_upd_low">
-		<text>Niska moc baterii</text>
-	</string>
-	<string id="st_upd_disconnected">
-		<text>Nie posiadasz uniwersalnego zasilacza (UPD)</text>
-	</string>
-	
 <!-- Goodwill -->
 	<string id="st_news_goodwill_update_title">
 		<text>Zmiana porz¹dku</text>
@@ -594,19 +588,19 @@
 		<text>Zosta³eœ wydalony z tej grupy!</text>
 	</string>
 	<string id="st_bad_turn_into_bandit_news">
-		<text>%c[0,255,0,0]Zosta³eœ wydalony z tej grupy!</text>
+		<text>Zosta³eœ wydalony z tej grupy!</text>
 	</string>
 	<string id="st_bad_turn_into_zombie">
 		<text>Krytyczny poziom promieniowania psi. Zosta³eœ zombifikowany.</text>
 	</string>
 	<string id="st_bad_turn_into_zombie_news">
-		<text>%c[0,255,64,0]Krytyczny poziom promieniowania psi. Zosta³eœ zombifikowany.</text>
+		<text>Krytyczny poziom promieniowania psi. Zosta³eœ zombifikowany.</text>
 	</string>
 	<string id="st_bad_turn_dezombification">
 		<text>Dezombifikacja zakoñczona sukcesem!</text>
 	</string>
 	<string id="st_bad_turn_dezombification_news">
-		<text>%c[0,255,64,0]Dezombifikacja zakoñczona sukcesem!</text>
+		<text>Dezombifikacja zakoñczona sukcesem!</text>
 	</string>
 	
 <!-- Travel -->
@@ -655,9 +649,6 @@
 	</string>
 	<string id="st_sleep_awake_slept_well">
 		<text>Spa³eœ bardzo dobrze przez %s godzin</text>
-	</string>
-	<string id="st_sleep_awake">
-		<text>Nie potrzebujesz odpoczynku</text>
 	</string>
 	<string id="st_sleep_awake_wired">
 		<text>Masz w organizmie za du¿o kofeiny - nie zaœniesz</text>
@@ -805,13 +796,13 @@
 	</string>
 
 	<string id="st_pri_special_trader_mlr_message2">
-		<text>Cichy:\nDotar³o twoje zamówienie. Mo¿esz wpaœæ i je odebraæ.</text>
+		<text>Cichy: Dotar³o twoje zamówienie. Mo¿esz wpaœæ i je odebraæ.</text>
 	</string>
 	<string id="st_pri_special_trader_mlr_message">
-		<text>Gryf:\nStalkerze, przebywasz na terytorium Syndykatu. Nie zostaniesz zaatakowany, dopóki bêdziesz siê w³aœciwie zachowywa³. Jeœli szukasz pracy, mo¿e bêdê mia³ coœ dla ciebie.</text>
+		<text>Gryf: stalkerze, przebywasz na terytorium Syndykatu. Nie zostaniesz zaatakowany, dopóki bêdziesz siê w³aœciwie zachowywa³. Jeœli szukasz pracy, mo¿e bêdê mia³ coœ dla ciebie.</text>
 	</string>
 	
-	<!-- Lost to the Zone -->
+<!-- Lost to the Zone -->
 	<string id="st_lttz_eidolon_strelok_message">
 		<text>Oddzia³ zwiadowczy gryzie ziemiê. Czas przeprowadziæ ostateczny atak na centrum Prypeci.</text>
 	</string>

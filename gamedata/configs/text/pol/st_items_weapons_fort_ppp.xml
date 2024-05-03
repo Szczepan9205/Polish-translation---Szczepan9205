@@ -8,7 +8,7 @@ fort
 -->
 	<string id="st_wpn_fort12">
 		<text>Fort-12</text>
-	</string>
+	</string> 
 	<string id="st_wpn_fort12_descr">
 		<text>Potrzebuj¹c pistoletu, który zast¹pi³by PM produkcji rosyjskiej, Ukraina stworzy³a Fort-12. Jest to potê¿na broñ, w du¿ej mierze uznawana za sukces, choæ w porównaniu z niezawodnoœci¹ PM wypada blado. Na szczêœcie Fort-12 nadrabia to celnoœci¹, wielkoœci¹ magazynka i ergonomi¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n

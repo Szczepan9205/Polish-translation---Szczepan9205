@@ -1,88 +1,94 @@
 <string_table>
+
     <string id="st_player_skill_stats">
         <text>\nSTATYSTYKI:</text>
     </string>
 
-    <!-- £upienie -->
+<!--
+	ZBIERACTWO
+-->
     <string id="st_player_skills_hint_scavenging">
-		<text>Przyznaje zwiêkszone dropy ze stalkerów.\n\n
-		\nPoziomy zdobywa siê poprzez pl¹drowanie zw³ok stalkerów, stalkerzy wy¿szej rangi daj¹ wiêcej expa.\n\n</text>
+		<text>Przyznaje zwiêkszone dropy ze stalkerów.\n \n
+		Poziomy zdobywa siê poprzez pl¹drowanie zw³ok stalkerów.\n
+		Stalkerzy wy¿szej rangi daj¹ wiêcej expa.
+		</text>
 	</string>
 	<string id="st_skills_stats_scavenging_skill_positive">
-        <text>\n%c[255,86,102,255]•%c[ui_6] Szansa na dodatkowy ³up: %c[d_green]$stat%</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Szansa na dodatkowy ³up: %c[d_green]$stat%\n</text>
     </string>
     <string id="st_skills_stats_scavenging_skill_negative">
-        <text>\n%c[255,86,102,255]•%c[ui_6] Szansa na stracenie ³upu: %c[d_red]$stat%</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Szansa na stracenie ³upu: %c[d_red]$stat%\n</text>
     </string>
 
-
-    <!-- Si³a -->
+<!--
+	SI£A
+-->
     <string id="st_player_skills_hint_strength">
 		<text>Przyznaje zwiêkszony udŸwig i obra¿enia w walce wrêcz.\n
 		nPoziomy s¹ zdobywane za podró¿owanie z ciê¿kimi ³adunkami i walkê wrêcz.\n 
 		Im bli¿ej jesteœ maksymalnego udŸwigu, tym wiêcej zdobywasz expa.\n\n
 		</text>
 	</string>
-
     <string id="st_skills_stats_weight_modifer_positive">
-        <text>\n%c[255,255,201,86]•%c[ui_6] Modyfikator noœnoœci: %c[d_green]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator noœnoœci: %c[d_green]x$stat\n</text>
     </string>
     <string id="st_skills_stats_weight_modifer_negative">
-        <text>\n%c[255,255,201,86]•%c[ui_6] Modyfikator noœnoœci: %c[d_red]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator noœnoœci: %c[d_red]x$stat\n</text>
     </string>
 
     <string id="st_skills_stats_melee_damage_positive">
-        <text>\n%c[255,255,201,86]•%c[ui_6] Modyfikator obra¿eñ w walce wrêcz: %c[d_green]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator obra¿eñ w walce wrêcz: %c[d_green]x$stat\n</text>
     </string>
     <string id="st_skills_stats_melee_damage_negative">
-        <text>\n%c[255,255,201,86]•%c[ui_6] Modyfikator obra¿eñ w walce wrêcz: %c[d_red]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator obra¿eñ w walce wrêcz: %c[d_red]x$stat\n</text>
     </string>
 
     <string id="st_skills_stats_base_weight">
-        <text>\n%c[255,255,201,86]•%c[ui_6] Bonus do noœnoœci: %c[d_green]+$stat kg</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Bonus do noœnoœci: %c[d_green]+$stat kg\n</text>
     </string>
 
     <!-- Przetrwanie -->
     <string id="st_player_skills_hint_survival">
-		<text>Zapewnia zwiêkszon¹ odpornoœæ na obra¿enia i szansê na zdobycie dodatkowej czêœci podczas skórowania.\n\n
-		Poziomy s¹ zdobywane poprzez otrzymywanie obra¿eñ (tylko obra¿enia od pocisków i mutantów) i skórowanie mutantów, bardziej niebezpieczne mutanty daj¹ wiêcej expa. \n \n</text>
+		<text>Zapewnia zwiêkszon¹ odpornoœæ na obra¿enia i szansê na zdobycie dodatkowej czêœci podczas skórowania.\n
+		Poziomy s¹ zdobywane poprzez otrzymywanie obra¿eñ (tylko obra¿enia od pocisków i mutantów) i skórowanie mutantów.\n
+		Bardziej niebezpieczne mutanty daj¹ wiêcej expa.\n \n</text>
 	</string>
     <string id="st_skills_stats_resistance_positive">
-        <text>\n%c[255,135,255,86]•%c[ui_6] Redukcja obra¿eñ zwiêkszona o: %c[d_green]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Redukcja obra¿eñ zwiêkszona o: %c[d_green]x$stat\n</text>
     </string>
     <string id="st_skills_stats_resistance_negative">
-        <text>\n%c[255,135,255,86]•%c[ui_6] Zwiêkszone obra¿enia otrzymywane przez: %c[d_red]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Zwiêkszone obra¿enia otrzymywane przez: %c[d_red]x$stat\n</text>
     </string>
 
     <string id="st_skills_stats_bleed_restore">
-        <text>\n%c[255,135,255,86]•%c[ui_6] Zwiêkszona redukcja krwawienia o: %c[d_green]$stat%</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Zwiêkszona redukcja krwawienia o: %c[d_green]$stat%\n</text>
     </string>
 
      <string id="st_skills_stats_hunting_skill_positive">
-        <text>\n%c[255,135,255,86]•%c[ui_6] Szansa na zdobycie dodatkowej czêœci mutanta: %c[d_green]$stat%</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Szansa na zdobycie dodatkowej czêœci mutanta: %c[d_green]$stat%\n</text>
     </string>
     <string id="st_skills_stats_hunting_skill_negative">
-        <text>\n%c[255,135,255,86]•%c[ui_6] Szansa na stracenie dodatkowej czêœci mutanta: %c[d_red]$stat%</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Szansa na stracenie dodatkowej czêœci mutanta: %c[d_red]$stat%\n</text>
     </string>
 
     <!-- Wytrzyma³oœæ -->
     <string id="st_player_skills_hint_endurance">
-		<text>Zapewnia zwiêkszon¹ wytrzyma³oœæ i szybkoœæ.\n\n
-		Poziomy zdobywa siê podró¿uj¹c nie bêd¹c prze³adowanym.\n\n
-		Im bli¿ej jesteœ zerowego obci¹¿enia, tym wiêcej zdobytego expa.\n\n
-		</text>
+		<text>Zapewnia zwiêkszon¹ wytrzyma³oœæ i szybkoœæ.\n
+		Poziomy zdobywa siê podró¿uj¹c nie bêd¹c prze³adowanym.\n
+		Im bli¿ej jesteœ zerowego obci¹¿enia, tym wiêcej zdobytego expa.\n \n</text>
 	</string>
     <string id="st_skills_stats_power_loss_positive">
-        <text>\n%c[255,255,86,86]•%c[ui_6] Modyfikator zu¿ycia wytrzyma³oœci: %c[d_green]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator zu¿ycia wytrzyma³oœci: %c[d_green]x$stat\n</text>
     </string>
     <string id="st_skills_stats_power_loss_negative">
-        <text>\n%c[255,255,86,86]•%c[ui_6] Modyfikator zu¿ycia wytrzyma³oœci: %c[d_red]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator zu¿ycia wytrzyma³oœci: %c[d_red]x$stat\n</text>
     </string>
 
     <string id="st_skills_stats_speed_modifier_positive">
-        <text>\n%c[255,255,86,86]•%c[ui_6] Modyfikator prêdkoœci: %c[d_green]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator prêdkoœci: %c[d_green]x$stat\n</text>
     </string>
     <string id="st_skills_stats_speed_modifier_negative">
-        <text>\n%c[255,255,86,86]•%c[ui_6] Modyfikator prêdkoœci: %c[d_red]x$stat</text>
+        <text>\n%c[d_purple] • %c[0,255,255,255]Modyfikator prêdkoœci: %c[d_red]x$stat\n</text>
     </string>
+	
 </string_table>

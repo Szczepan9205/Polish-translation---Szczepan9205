@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
-	<string id="st_placeable_piano">
+
+    <string id="st_placeable_piano">
 		<text>Przenośny Keyboard</text>
 	</string>
 	<string id="st_placeable_piano_descr">
 		<text>Luksusowy keyboard rzadko spotykany w Zonie. Chociaż nie oferuje żadnej ochrony przed mutantami lub wrogimi stalkerami, może zapewnić krótkie wytchnienie przed wrogością Zony. Wygląda na to, że ma w zestawie wiele arkuszy muzycznych o różnym stopniu trudności i wiele syntetycznie brzmiących instrumentów.\n \n
-		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[d_blue] • %c[ui_gray_2] cenny\n</text>
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
+		%c[d_orange] • %c[ui_gray_2] można na nim grać\n
+		</text>
 	</string>
+	
 </string_table>

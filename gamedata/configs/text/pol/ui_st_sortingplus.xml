@@ -1,8 +1,9 @@
-<!-- 
-	Anomaly Modconfiguration Menu strings	
+<string_table>
+
+<!--
+	UI
 -->
 
-<string_table>
 	<string id="st_rax_fav">
 		<text>Oznacz jako ulubione</text>
 	</string>
@@ -15,9 +16,15 @@
 	<string id="st_rax_unjunk">
 		<text>Odznacz jako œmieæ</text>
 	</string>
+
+<!--
+	MCM
+-->
+
 	<string id="ui_mcm_title_SortingPlus">
 		<text>Sortowanie Plus</text>
 	</string>
+
 	<string id="ui_mcm_menu_SortingPlus">
 		<text>Sortowanie Plus</text>
 	</string>
@@ -51,13 +58,13 @@
 	<string id="ui_mcm_SortingPlus_useltx_desc">
 		<text>Ignoruje poni¿sze ustawienia na korzyœæ tych w sortingplus.ltx, które oferuj¹ bardziej szczegó³ow¹ kontrolê.</text>
 	</string>
+
 	<string id="ui_mcm_SortingPlus_iconjunk">
 		<text>Oznacz œmieci</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_iconjunk_desc">
 		<text>Oznacz elementy oznaczone jako œmieci ikon¹</text>
 	</string>
-
 	<string id="ui_mcm_SortingPlus_hilitejunk">
 		<text>Podœwietl œmieci</text>
 	</string>
@@ -71,7 +78,7 @@
 		<text>Sortuje elementy-œmieci do ich w³asnej kategorii, domyœlnie ostatniej.</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk">
-		<text>"Auto" sprzedaj œmieci</text>
+		<text>"Auto" sprzedawanie œmieci</text>
 	</string>
 	<string id="ui_mcm_SortingPlus_selljunk_desc">
 		<text>Œmieci, które kupi handlarz, zostan¹ umieszczone w panelu sprzeda¿y. Nadal musisz nacisn¹æ przycisk sprzeda¿y, aby sfinalizowaæ transakcjê.</text>
@@ -164,10 +171,6 @@
 	</string>
 	<string id="ui_mcm_SortingPlus_150parts">
 		<text>Czêœci</text>
-	</string>
-	
-	<string id="ui_mcm_SortingPlus_usefunctors">
-		<text>U¿ywaj funkcji</text>
 	</string>
 
 </string_table>

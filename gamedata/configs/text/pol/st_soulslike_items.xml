@@ -6,11 +6,13 @@
 	</string>
     
 	<string id="st_soulslike_rescuers_radio_frequency_note_desc">
-		<text>Notatka napisana przez jednego ze stalkerów, którzy ciê uratowali.</text>
+		<text>Notatka napisana przez jednego ze stalkerów, którzy ciê uratowali.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n</text>
 	</string>
 
 	<string id="st_soulslike_rescuers_radio_frequency_note_message">
-		<text>Notatka zawiera informacje o tym, gdzie znajduj¹ siê przedmioty. Mówi, aby u¿yæ odbiornika RF na czêstotliwoœci %s w %s</text>
+		<text>Notatka zawiera informacje o tym, gdzie znajduj¹ siê przedmioty.\n
+		Mówi, aby u¿yæ odbiornika RF na czêstotliwoœci %s w %s</text>
 	</string>
 
 </string_table>

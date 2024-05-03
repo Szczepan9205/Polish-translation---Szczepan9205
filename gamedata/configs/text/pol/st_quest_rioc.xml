@@ -1,29 +1,44 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-	<string id="st_rioc_sid_desc">
-		<text>Zapieczętowany pojemnik, który znalazłem przy martwym stalkerze, to pewnie przesyłka, o której mówił Sidorowicz. </text>
-	</string>
+
+<!--
+	PRZEDMIOTY
+-->
 
 	<string id="st_rioc_sid">
 		<text>Zapasy Sidorowicza</text>
 	</string>
-
-	<string id="st_rioc_duty_desc">
-		<text>To PDA potwierdza, że zaginiony żołnierz Pietrenki nie żyje. Wygląda na to, że dał z siebie wszystko.</text>
+	<string id="st_rioc_sid_desc">
+		<text>Zapieczętowany pojemnik, który znalazłem przy martwym stalkerze, to pewnie przesyłka, o której mówił Sidorowicz.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
 	</string>
 
 	<string id="st_rioc_duty">
 		<text>PDA zabitego żołnierza Powinności</text>
 	</string>
-
-	<string id="st_rioc_ecolog_desc">
-		<text>Urządzenie zamknięte we wzmocnionym pojemniku - według naukowców jest to zupełnie nowy prototyp detektora, który ma zmienić realia polowania na artefakty. Niestety żaden z wyświetlanych wykresów i liczb nie ma dla Ciebie sensu.</text>
+	<string id="st_rioc_duty_desc">
+		<text>To PDA potwierdza, że zaginiony żołnierz Pietrenki nie żyje. Wygląda na to, że dał z siebie wszystko.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
 	</string>
 
 	<string id="st_rioc_ecolog">
 		<text>Prototypowy detektor</text>
 	</string>
+	<string id="st_rioc_ecolog_desc">
+		<text>Urządzenie zamknięte we wzmocnionym pojemniku - według naukowców jest to zupełnie nowy prototyp detektora, który ma zmienić realia polowania na artefakty. Niestety żaden z wyświetlanych wykresów i liczb nie ma dla ciebie sensu.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		</text>
+	</string>
+
+<!--
+	ZADANIA
+-->
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_d">
 		<text>Jeden stalker miał mi przynieść specjalne zapasy od innego handlarza, ale od kilku dni nie daje znaku życia, na początku myślałem, że po prostu uciekł z zapasami, ale ten kretyn nawet nie ukrył swojej lokalizacji i to od tego czasu nie zrobił nawet kroku. Być może zgubił PDA lub nawet został‚ zabity, w każdym razie potrzebuję kogoś, kto pójdzie w tamto miejsce i sprawdzi, co się stało. Jeśli zginął i przez przypadek nadal ma te rzeczy przy sobie to przynieś je z powrotem. </text>

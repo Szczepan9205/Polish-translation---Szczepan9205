@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="windows-1250" ?>
-<!--
-    Linia fabularna: Ukryte zagrożenie
-	Wersja:   1.0
-    Autor:     Longreed
-	Ostatnia edycja: 06/07/2023 - spolszczenie by Szczepan9205
--->
+
 <string_table>
     
 	<!---------------------- Task 1 ------------------------------------------->
@@ -18,7 +13,8 @@
 	    <text>Ukryte zagrożenie: ocalały</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_1_stage_1_descr">
-	    <text>Kuzniecow nie przekazał mi żadnych istotnych informacji dotyczących mojego zadania. Pułkownik polecił mi również sprawdzić, co stało się ze stalkerami w Mrocznym Parowie. Na farmie, która znajduje się na Kordonie, jest stalker, który przeżył atak na Tartak. Będę musiał użyć przebrania, aby z nim porozmawiać.</text>
+	    <text>Kuzniecow nie przekazał mi żadnych istotnych informacji dotyczących mojego zadania. Pułkownik polecił mi również sprawdzić, co stało się ze stalkerami w Mrocznym Wąwozie.\n
+		Na farmie, która znajduje się na Kordonie, jest stalker, który przeżył atak na Tartak. Będę musiał użyć przebrania, aby z nim porozmawiać.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_1_stage_2_title">
 	    <text>Ukryte zagrożenie: wróć do pułkownika Kuzniecowa.</text>
@@ -74,7 +70,8 @@
 	    <text>Ukryte zagrożenie: zbadaj ciała napastników</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_3_stage_2_descr">
-	    <text>Żołnierze nie żyją, nie udało się ich uratować. Jaką misję wykonywali w fabryce, wie tylko Diegtiariow. Nieznani stalkerzy przywitali mnie bardzo ciepło... Szukali czegoś w fabryce. Hmm... Naszywki z nieznanymi mi symbolami. Może pułkownik wie więcej. Powinienem zabrać ze sobą przynajmniej jeden.</text>
+	    <text>Żołnierze nie żyją, nie udało się ich uratować. Jaką misję wykonywali w fabryce, wie tylko Diegtiariow. Nieznani stalkerzy przywitali mnie bardzo ciepło... szukali czegoś w fabryce.\n
+		Hmm... naszywki z nieznanymi mi symbolami? Może pułkownik wie więcej... powinienem zabrać ze sobą przynajmniej jedną.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_3_stage_3_title">
 	    <text>Ukryte zagrożenie: porozmawiaj z pułkownikiem Kuzniecowem.</text>
@@ -93,7 +90,7 @@
 	    <text>Ukryte zagrożenie: przejmij radiostację wojskową w Dolinie Mroku</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_4_stage_1_descr">
-	    <text>Wystarczy trochę popracować jako listonosz Peczkin... Myślę, że sobie z tym poradzę. Oddział wojskowych pilnuje wejścia do "X-18" w Dolinie Mroku i czeka na moją przesyłkę.</text>
+	    <text>Wystarczy trochę popracować jako listonosz Pieczkin... Myślę, że sobie z tym poradzę. Oddział wojskowych pilnuje wejścia do "X-18" w Dolinie Mroku i czeka na moją przesyłkę.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_4_stage_2_title">
 	    <text>Ukryte zagrożenie: odeprzyj atak ISG</text>

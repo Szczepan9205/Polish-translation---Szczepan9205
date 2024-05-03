@@ -16,7 +16,7 @@
 	<string id="ui_mcm_ssfx_module_general">
 		<text>Ogólne</text>
 	</string>
-	
+
 	<!-- General Settings -->
 	<string id="ui_mcm_menu_ssfx_rain_module">
 		<text>Poprawki deszczu</text>
@@ -61,6 +61,10 @@
 		<text>MODU£ NIE JEST ZAINSTALOWANY</text>
 	</string>
 
+	<string id="ui_mcm_lst_ssfx_quality_very_low">
+		<text>Bardzo niska</text>
+	</string>
+
 	<string id="ui_mcm_lst_ssfx_quality_low">
 		<text>Niska</text>
 	</string>
@@ -76,5 +80,9 @@
 	<string id="ui_mcm_lst_ssfx_quality_veryhigh">
 		<text>Bardzo wysoka</text>
 	</string>
-	
+
+	<string id="ui_mcm_lst_ssfx_quality_ultra">
+		<text>Ultra</text>
+	</string>
+
 </string_table>

@@ -10,28 +10,45 @@
 		<text>T³umik CKIB do ASz-12</text>
 	</string>
 	<string id="st_addon_sil_ash12_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] broñ kalibru 12.7x55mm\n \n%c[ui_gray_1]T³umik dla ASz-12.\n \n%c[d_purple] • %c[ui_gray_2] T³umienie dŸwiêku: %c[ui_gray_1]œrednie</text>
+		<text>T³umik dla ASz-12.\n \n
+		%c[ui_gray_2]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] broñ kalibru 12.7x55mm\n
+		%c[d_purple] • %c[ui_gray_2] t³umienie dŸwiêku: %c[ui_gray_1]œrednie</text>
 	</string>
 
 	<string id="st_addon_scope_specterup">
 		<text>S.U.P. Special Upgrade Pack do SA-58</text>
 	</string>
 	<string id="st_addon_scope_specterup_descr">
-		<text>Specjalny pakiet ulepszeñ, który zawiera celowniki SpecterDR, Trijicon RMR i ANPEQ15 LAM. Ta kombinacja zapewnia u¿ytkownikowi celowniki dalekiego i bliskiego zasiêgu oraz pomoc ANPEQ15 w celowaniu z biodra.</text>
+		<text>Specjalny pakiet ulepszeñ, który zawiera celowniki SpecterDR, Trijicon RMR i ANPEQ15 LAM. Ta kombinacja zapewnia u¿ytkownikowi celowniki dalekiego i bliskiego zasiêgu oraz pomoc ANPEQ15 w celowaniu z biodra.
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] ANPEQ15 LAM\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] SA-58\n \n
+		</text>
 	</string>
 
 	<string id="st_addon_scope_sup">
 		<text>S.U.P. Special Upgrade Pack</text>
 	</string>
 	<string id="st_addon_scope_sup_descr">
-		<text>Specjalny pakiet ulepszeñ zawieraj¹cy celownik SpecterDR i Trijicon RMR. Ta kombinacja zapewnia u¿ytkownikowi celowniki dalekiego i bliskiego zasiêgu wspomagaj¹ce celowanie.</text>
+		<text>Specjalny pakiet ulepszeñ zawieraj¹cy celownik SpecterDR i Trijicon RMR. Ta kombinacja zapewnia u¿ytkownikowi celowniki dalekiego i bliskiego zasiêgu wspomagaj¹ce celowanie.\n \n
+		%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n
+		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		</text>
 	</string>
 
 	<string id="st_addon_sil_silencerco">
 		<text>SilencerCO Salvo 12</text>
 	</string>
 	<string id="st_addon_sil_silencerco_descr">
-		<text>\n \n%c[ui_gray_2]KOMPATYBILNY:\n \n%c[d_cyan] • %c[ui_gray_2] broñ kalibru 12-gauge\n \n%c[ui_gray_1]T³umik SilencerCO Salvo 12.\n \n%c[d_purple] • %c[ui_gray_2] T³umienie dŸwiêku: %c[ui_gray_1]œrednie</text>
+		<text>T³umik SilencerCO Salvo dla broni kalibru 12.\n \n
+		%c[ui_gray_2]KOMPATYBILNY:\n
+		%c[d_cyan] • %c[ui_gray_2] broñ kalibru 12-gauge\n
+		%c[d_purple] • %c[ui_gray_2] t³umienie dŸwiêku: %c[ui_gray_1]œrednie</text>
 	</string>
 
 </string_table>

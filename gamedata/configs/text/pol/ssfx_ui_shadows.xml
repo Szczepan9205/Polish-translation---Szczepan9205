@@ -99,6 +99,14 @@
 		<text>Intensywnoœæ wolumetryki</text>
 	</string>
 
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm">
+		<text>Rozdzielczoœæ wolumetryczna</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm_desc">
+		<text>Rozdzielczoœæ renderowania wolumetrycznego. Procent bie¿¹cej rozdzielczoœci. [ min: 14% ~ max: 100% ]</text>
+	</string>
+
 	<string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm_desc">
 		<text>Ustawia intensywnoœæ efektu wolumetrycznego.</text>
 	</string>

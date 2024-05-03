@@ -3,24 +3,9 @@
 <!--===========================================================
 <
 < TEXT  STRINGS FOR TASKS ON MARSH (SWAMPS) MAP
-<	CoC 1.4.10 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 14, 2016
 <
 <===========================================================-->
 <string_table>
-
-
-	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
-	<!--
-	<!-- STORYLINE TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 14, 2016
-	<!--
-	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Cold (Clear Sky Honcho) Default Storyline Task -->
@@ -172,16 +157,9 @@
 		<text>Œwietnie, stary. Dziêki.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 14, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -201,16 +179,9 @@
 		<text>Dobrze. Nie martw siê, Zona skrywa jeszcze mnóstwo tajemnic. Popytaj wœród naszych ludzi, ktoœ na pewno bêdzie mieæ dla ciebie coœ do roboty.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- DYNAMIC TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 	
@@ -249,7 +220,7 @@
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
+	<!-- Cold (Clear Sky Honcho) Defend the pump station Task -->
 
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_title">
 		<text>Ochroñ Stacjê Pomp</text>

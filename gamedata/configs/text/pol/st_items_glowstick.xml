@@ -1,29 +1,51 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
+
 	<string id="st_device_glowstick">
 		<text>Glowstick (zielony)</text>
 	</string>
 	<string id="st_device_glowstick_descr">
-		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje zielone światło, ma zrównoważony zasięg i oświetlenie, dobre do prawie wszystkiego.\n \n%c[0,140,140,140]WŁAŚCIWOŚCI:\n%c[0,153,255,255] • %c[0,140,140,140] przedmiot technologiczny\n%c[0,153,255,255] • %c[0,140,140,140] 40 realnych minut świecenia \n%c[0,153,255,255] • %c[0,140,140,140] Zasięg: 12 metrów</text>
+		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje zielone światło, ma zrównoważony zasięg i oświetlenie, dobre do prawie wszystkiego.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[0,255,255,255] Czas świecenia: %c[ui_gray_2]~40 minut\n
+		</text>
 	</string>
+
 	<string id="st_device_glowstick_red">
 		<text>Glowstick (czerwony)</text>
 	</string>
 	<string id="st_device_glowstick_red_descr">
-		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje czerwone światło, które ma większy zasięg, ale słabiej oświetla, co jest popularne wśród żołnierzy. \n \n%c[0,140,140,140]WŁAŚCIWOŚCI:\n%c[0,153,255,255] • %c[0,140,140,140] przedmiot technologiczny\n%c[0,153,255,255] • %c[0,140,140,140] 60 realnych minut świecenia \n%c[0,153,255,255] • %c[0,140,140,140] Zasięg: 24 metry</text>
+		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje czerwone światło, które ma większy zasięg, ale słabiej oświetla, co jest popularne wśród żołnierzy. \n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[0,255,255,255] Czas świecenia: %c[ui_gray_2]~60 minut\n
+		</text>
 	</string>
+
 	<string id="st_device_glowstick_orange">
 		<text>Glowstick (pomarańczowy)</text>
 	</string>
 	<string id="st_device_glowstick_orange_descr">
-		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje pomarańczowe światło, osiągając prawie to samo, co wariant zielony, ale z mniejszym oświetleniem, lepiej nadającym się dla osób o wrażliwych oczach.\n \n%c[0,140,140,140]WŁAŚCIWOŚCI:\n%c[0,153,255,255] • %c[0,140,140,140] przedmiot technologiczny\n%c[0,153,255,255] • %c[0,140,140,140] 40 realnych minut świecenia \n%c[0,153,255,255] • %c[0,140,140,140] Zasięg: 10 metrów</text>
+		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje pomarańczowe światło, osiągając prawie to samo, co wariant zielony, ale z mniejszym oświetleniem, lepiej nadającym się dla osób o wrażliwych oczach.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[0,255,255,255] Czas świecenia: %c[ui_gray_2]~40 minut\n
+		</text>
 	</string>
+
 	<string id="st_device_glowstick_blue">
 		<text>Glowstick (cyjanowy)</text>
 	</string>
 	<string id="st_device_glowstick_blue_descr">
-		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje światło cyjanowe, choć ma znacznie mniejszy zasięg niż przeciętny, zapewnia najlepsze możliwe oświetlenie. Idealny do podziemi, a nawet w świetle dziennym do trudno widocznych zakamarków, niezależnie od tego, czy są w cieniu, czy nie.\n \n%c[0,140,140,140]WŁAŚCIWOŚCI:\n%c[0,153,255,255] • %c[0,140,140,140] przedmiot technologiczny\n%c[0,153,255,255] • %c[0,140,140,140] 30 realnych minut świecenia \n%c[0,153,255,255] • %c[0,140,140,140] Zasięg: 6 metrów</text>
+		<text>Generuje światło poprzez wywołanie reakcji chemicznej. Chemiczne źródła światła są szeroko stosowane przez stalkerów jako autonomiczne źródła światła w różnych sytuacjach awaryjnych i innych przypadkach, gdy nie ma dostępu do innych źródeł światła. Dzięki temu, że są całkowicie samowystarczalne, trwałe, ognioodporne, wodoodporne i nadają się do długotrwałego przechowywania, ich zakres zastosowań jest niezwykle szeroki. \nTen wariant emituje światło cyjanowe, choć ma znacznie mniejszy zasięg niż przeciętny, zapewnia najlepsze możliwe oświetlenie. Idealny do podziemi, a nawet w świetle dziennym do trudno widocznych zakamarków, niezależnie od tego, czy są w cieniu, czy nie.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[0,255,255,255] Czas świecenia: %c[ui_gray_2]~30 minut\n
+		</text>
 	</string>
+
+<!--
+	MCM
+-->
+
 	<string id="ui_mcm_menu_glowsticks">
 		<text>Glowsticks</text>
 	</string>
@@ -54,4 +76,5 @@
     <string id="ui_mcm_glowsticks_throw_key_desc">
         <text>Klawisz do przytrzymania, aby rzucić glowstick.</text>
     </string>
+	
 </string_table>

@@ -70,7 +70,7 @@
 	</string>
 	<string id="encyclopedia_achievements_heavy_pockets_text">
 		<text>
-			%c[pda_white]Pe³ne kieszenie%c[ui_gray_1] wymagaj¹ posiadania w jednym momencie 10.000.000 RU w gotówce.\n
+			%c[pda_white]Pe³ne kieszenie%c[ui_gray_1] wymagaj¹ posiadania w jednym momencie 10000000 RU w gotówce.\n
 			\n%c[pda_blue]Premia%c[ui_gray_1]
 			\nWiêkszoœæ handlarzy zacznie oferowaæ ci wyposa¿enie, które w innym przypadku bêdzie dostêpne tylko, gdy bêdziesz z frakcj¹ w doskona³ych relacjach.
 		</text>

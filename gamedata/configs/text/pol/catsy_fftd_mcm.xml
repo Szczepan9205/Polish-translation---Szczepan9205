@@ -177,86 +177,69 @@
 		<text>Wynajmowanie przewodników do szybkiej podró¿y z mapy PDA</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_ftcfg_travel_cooldown">
 		<text>Czas odnowienia szybkiej podró¿y</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_bpcfg_travel_cooldown">
 		<text>Czas odnowienia podró¿y z plecakiem</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_gtcfg_travel_cooldown">
 		<text>Czas odnowienia podró¿y z przewodnikiem</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_ftcfg_travel_cooldown_desc">
 		<text>Musisz odczekaæ tyle sekund w czasie rzeczywistym pomiêdzy szybkimi podró¿ami. Aby wy³¹czyæ tê funkcjê, ustaw j¹ na zero.</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_bpcfg_travel_cooldown_desc">
 		<text>Musisz odczekaæ tyle sekund w czasie rzeczywistym pomiêdzy podró¿ami z plecakiem. Aby wy³¹czyæ tê funkcjê, ustaw j¹ na zero.</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_gtcfg_travel_cooldown_desc">
 		<text>Musisz odczekaæ tyle sekund w czasie rzeczywistym pomiêdzy podró¿ami z przewodnikiem. Aby wy³¹czyæ tê funkcjê, ustaw wartoœæ zero.</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_gtcfg_add_travel_time">
 		<text>Tyle czasu przewodnicy potrzebuj¹, aby do ciebie dotrzeæ.</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_gtcfg_add_travel_time_desc">
 		<text>Jeœli w³¹czone, czas trwania podró¿y bêdzie zawiera³ obliczenia, ile czasu zajmuje przewodnikowi podró¿ z punktu pocz¹tkowego do miejsca, w którym znajduje siê gracz.</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_gtcfg_local_only">
 		<text>Przewodnicy tylko lokalni</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_gtcfg_local_only_desc">
 		<text>Jeœli w³¹czone, przewodnicy bêd¹ dostêpni tylko wtedy, gdy jeden z nich znajduje siê poza bie¿¹c¹ map¹.</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_gtcfg_guides_loyal">
 		<text>Przewodnicy s¹ lojalni wobec swojej frakcji</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_gtcfg_guides_loyal_desc">
 		<text>Jeœli opcja ta jest w³¹czona, przewodnicy bêd¹ odmawiaæ prowadzenia interesów z graczami, którzy s¹ wrogami ich frakcji. Przewodnicy bêd¹ jednak patrzeæ w inn¹ stronê, jeœli gracz jest odpowiednio przebrany.</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_gen_shared_cooldown">
 		<text>Wszystkie typy podró¿y maj¹ wspólny wyzwalacz czasu odnowienia</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_gen_shared_cooldown_desc">
 		<text>Jeœli ta opcja jest w³¹czona, czasy odnowienia dla wszystkich typów podró¿y s¹ powi¹zane - to znaczy, gdy jeden z nich zostanie uruchomiony, wszystkie zostan¹ uruchomione. Na przyk³ad, podró¿ do plecaka uruchomi równie¿ czasy odnowienia, jeœli takie istniej¹, dla szybkiej podró¿y i podró¿y z przewodnikiem. Jeœli opcja jest wy³¹czona, ka¿dy typ podró¿y œledzi swój czas odnowienia osobno, jeœli ma to zastosowanie.</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_gen_debuglogs_enabled">
 		<text>W³¹cz rejestrowanie debugowania</text>
 	</string>
 
-
 	<string id="ui_mcm_fftd_gen_allow_debug_travel">
 		<text>Zezwól na podró¿ do debugowanych miejsc na mapach</text>
 	</string>
-
 
 	<string id="ui_mcm_fftd_gen_allow_debug_travel_desc">
 		<text>Po uruchomieniu w trybie debugowania, waniliowe Anomaly pozwala na szybk¹ podró¿ do stalkerów, znaczników obszaru i ró¿nych innych punktów debugowania, które normalnie nie s¹ wa¿nymi celami. Mo¿e to byæ niepo¿¹dane, poniewa¿ znaczniki te mog¹ przeszkadzaæ i powodowaæ teleportacjê w niew³aœciwe miejsce, na przyk³ad za Barmana lub innego handlarza. Domyœlnie FFT je odfiltrowuje. W³¹czenie tego ustawienia przywróci zachowanie waniliowe. Jeœli nie testujesz czegoœ lub nie utkn¹³eœ na mapie i musisz siê wydostaæ, zaleca siê pozostawienie tej opcji wy³¹czonej przez ca³y czas.</text>
@@ -295,7 +278,7 @@
 	</string>
 
 	<string id="ui_mcm_fftd_getpaw">
-		<text>Funkcja Podró¿y szpilk¹ wymaga dodatku Osobisty regulowany punkt trasy:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
+		<text>Funkcja Podró¿y szpilk¹ wymaga dodatku PAW:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
 	</string>
 
 	<string id="ui_mcm_fftd_usedisguisefix_desc">
@@ -365,6 +348,7 @@
 	</string>
 
 <!-- Added in 2.3.1 -->
+
 	<string id="ui_mcm_fftd_gen_cond_dmg_mode">
 		<text>Funkcja stanu ekwipunku</text>
 	</string>
@@ -372,7 +356,7 @@
 	<string id="ui_mcm_fftd_gen_cond_dmg_mode_desc">
 		<text>Ca³y ekwipunek: utrata stanu dotyczy ca³ego wyposa¿onego ekwipunku\n
 			Losowo: utrata stanu jest stosowana losowo do jednego wyposa¿onego przedmiotu\n
-			Pancerz: utrata stanu dotyczy wyposa¿onego kombinezonu i he³mu\n
+			Kombinezon: utrata stanu dotyczy wyposa¿onego kombinezonu i he³mu\n
 			Broñ: utrata stanu jest stosowana do wyposa¿onej broni\n
 			Wy³¹czone: wy³¹cza utratê stanu wyposa¿enia dla wszystkich typów podró¿y, niezale¿nie od ich indywidualnych ustawieñ.
 		</text>
@@ -413,5 +397,172 @@
 	<string id="ui_mcm_fftd_gen_minimum_satiety_desc">
 		<text>Jeœli gracz normalnie nie móg³by podró¿owaæ z powodu promieniowania lub krwawienia, nie bêdzie móg³ równie¿ podró¿owaæ, jeœli jego "sytoœæ" (g³ód/pragnienie) jest poni¿ej tego procentu. Ustawienie tej wartoœci na zero skutecznie wy³¹cza tê funkcjê.</text>
 	</string>
+
+<!-- Added in 2.4 -->
+
+	<string id="ui_mcm_fftd_ftcfg_enabled">
+		<text>Zezwól na korzystanie ze zwyk³ej szybkiej podró¿y</text>
+	</string>
+
+<!-- Added in 2.5 -->
+
+	<string id="ui_mcm_fftd_gtcfg_npc_guides_too">
+		<text>Niektóre ustawienia dotycz¹ równie¿ przewodników NPC</text>
+	</string>
+
+<!-- Added in 2.6 -->
+
+	<string id="st_fftd_farepaid_npcguide">
+		<text>Zap³aci³eœ przewodnikowi %s by zaprowadzi³ ciê do celu.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_progressive_cost">
+		<text>Skala cen oparta na randze gracza</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_progressive_cost_desc">
+		<text>Jeœli opcja ta jest w³¹czona, wszystkie koszty szybkiej podró¿y bêd¹ ros³y zgodnie z krzyw¹ opart¹ na randze gracza. Wzrost kosztów jest pocz¹tkowo powolny i osi¹ga maksimum przy poni¿szym mno¿niku.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_coef_max">
+		<text>Mno¿nik kosztu przy maksymalnej randze</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_coef_max_desc">
+		<text>Gdy gracz osi¹gnie maksymaln¹ rangê okreœlon¹ poni¿ej, wszystkie koszty szybkiej podró¿y zostan¹ zwiêkszone o ten mno¿nik. Poni¿ej tej rangi mno¿nik bêdzie skalowany wzd³u¿ krzywej rosn¹cej od zera do tego ustawienia. [Curve func: 1 - cos((x * pi) / 2)]</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_rank_cap">
+		<text>Progresywny limit rangi</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_rank_cap_desc">
+		<text>Jeœli w³¹czone jest progresywne ustawienie kosztów, jest to wartoœæ rangi, przy której koszty przestaj¹ rosn¹æ.</text>
+	</string>
+	
+	<string id="ui_mcm_fftd_gtcfg_npc_cost_coef">
+		<text>Koszt wynajêcia NPC w oknie dialogowym</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_npc_cost_coef_desc">
+		<text>Podczas wynajmowania przewodnika NPC twarz¹ w twarz podczas dialogu, ten koszt za metr jest u¿ywany zamiast zwyk³ej wartoœci.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_force_vanilla_fares">
+		<text>Wymuœ vanillowe ceny przewodników</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_force_vanilla_fares_desc">
+		<text>Jeœli opcja ta jest w³¹czona, podczas osobistego wynajmowania przewodników NPC zamiast obliczeñ FFT stosowane bêd¹ ceny z Anomaly.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_nice_round_numbers">
+		<text>Wygenerowane op³aty zaokr¹glaj¹ siê do setek</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_nice_round_numbers_desc">
+		<text>Jeœli opcja ta jest w³¹czona, taryfy generowane przez FFT bêd¹ zaokr¹glane w dó³ do najbli¿szych 100, aby przypomina³y czystszy wygl¹d cen z Anomaly.</text>
+	</string>
+
+<!-- Added in 2.7 -->
+
+	<string id="st_fftd_mapspot_kilometers">
+		<text>km</text>
+	</string>
+
+	<string id="st_fft_travel_psyblocked">
+		<text>Potê¿ne pole psioniczne uniemo¿liwia podró¿ do tego miejsca</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_northgate">
+		<text>Mózgozwêglacz blokuje mo¿liwoœæ podró¿owania</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_northgate_desc">
+		<text>Jeœli to ustawienie jest w³¹czone, pole psioniczne Mózgozwêglacza bêdzie blokowaæ wszystkie szybkie podró¿e (w tym podró¿e z przewodnikiem) miêdzy pó³nocn¹, a po³udniow¹ czêœci¹ Zony, dopóki Zwêglacz nie zostanie wy³¹czony. To ustawienie nie ma ¿adnego wp³ywu, chyba ¿e w³¹czony jest tryb fabularny.</text>
+	</string>
+
+	<string id="ui_mcm_header_gameplay">
+		<text>Rozgrywka i balans</text>
+	</string>
+
+	<string id="ui_mcm_header_ui">
+		<text>Interfejs i wygl¹d</text>
+	</string>
+
+	<string id="ui_mcm_header_debug">
+		<text>Rozwi¹zywanie problemów i kompatybilnoœæ</text>
+	</string>	
+
+	<string id="ui_mcm_fftd_gen_show_distdur">
+		<text>Wyœwietlanie odleg³oœci i czasu trwania w menu kontekstowym</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_show_distdur_desc">
+		<text>Jeœli ta opcja jest w³¹czona, wszystkie opcje szybkiej podró¿y bêd¹ pokazywaæ odleg³oœæ i czas trwania w menu kontekstowym mapy PDA. Wy³¹czenie tej opcji spowoduje usuniêcie tych przydatnych informacji, dziêki czemu menu bêdzie wygl¹daæ bardziej jak w Anomaly.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_verbose_enabled">
+		<text>Bardzo szczegó³owy dziennik debugowania</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_verbose_enabled_desc">
+		<text>"Verbose"/bardzo szczegó³owy to w jêzyku programistów "naprawdê spamerski". Ta opcja umieszcza maksymaln¹ iloœæ informacji w dzienniku i musi byæ w³¹czona, jeœli zg³aszasz problem.</text>
+	</string>
+
+	<string id="pol_smart_terrain_1_1">
+		<text>Skrzy¿owanie na £¹ce</text>
+	</string>
+
+	<string id="pol_smart_terrain_1_3">
+		<text>Obóz bandytów na £¹ce</text>
+	</string>
+
+<!--
+	not ready yet
+	<string id="ui_mcm_fftd_gen_custom_context">
+		<text>Dostosowywanie tekstu menu kontekstowego</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_custom_context_desc">
+		<text>
+			Umo¿liwia ca³kowite dostosowanie formatu i zawartoœci opcji menu kontekstowego wyœwietlanych dla wszystkich typów szybkiej podró¿y. Mo¿na u¿yæ nastêpuj¹cych tokenów zastêpczych:\n
+        	------------------------------------------------------\n
+			$go_to: 	"Szybka podró¿ do plecaka do" lub "Wynajêcie przewodnika do"\n
+			$dest:		zlokalizowana nazwa miejsca docelowego\n
+			$distdur: 	tekst odleg³oœci i czasu trwania poni¿ej, jeœli jest w³¹czony\n
+			$farestr: 	tekst wyœwietlany poni¿ej, jeœli koszt przekracza 0\n
+			$level: 	nazwa poziomu miejsca docelowego, jeœli jest znana\n
+			$distm:		odleg³oœæ do miejsca docelowego, w metrach\n
+			$distkm:	odleg³oœæ wyœwietlana w kilometrach, jeœli przekracza 1000 m\n
+			$fareval:	ostateczna skorygowana cena\n
+			$estdur: 	jeœli w³¹czono losowy czas trwania, zlokalizowane "co najmniej "\n
+			$time:		czas trwania podró¿y w formacie hh:mm\n
+			$dur_t:		ca³kowity czas trwania podró¿y w minutach\n
+			$dur_h:		godzinowa czêœæ hh:mm trwania podró¿y\n
+			$dur_m:		minutowa czêœæ hh:mm trwania podró¿y\n
+			$rubles: 	lokalny skrót waluty\n
+			$gated: 	Ostrze¿enie wyœwietlane, jeœli Zwêglacz blokuje trasê P³n.-Po³.\n
+        	------------------------------------------------------\n
+			Jeœli siê pomylisz i chcesz przywróciæ oryginalny format, po prostu usuñ zawartoœæ tego pola i zastosuj zmiany.
+		</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_custom_fare">
+		<text>Dostosuj wyœwietlany tekst taryfy</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_custom_fare_desc">
+		<text>Umo¿liwia dostosowanie formatu, w jakim wyœwietlana jest cena, gdy istnieje koszt podró¿y. Mo¿esz u¿yæ wszystkich tych samych tokenów, co w opcji menu kontekstowego, z wyj¹tkiem $distdur i $farestr.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_custom_distdur">
+		<text>Dostosuj tekst odleg³oœci i czasu trwania</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_custom_distdur_desc">
+		<text>Umo¿liwia dostosowanie formatu wyœwietlania odleg³oœci i czasu trwania podró¿y, gdy opcja ta jest w³¹czona. Mo¿na u¿yæ wszystkich tych samych tokenów, co w opcji menu kontekstowego, z wyj¹tkiem $distdur i $farestr.</text>
+	</string>
+-->
 
 </string_table>

@@ -5,7 +5,6 @@
 <!--
 overwrites st_wpn_glock17
 -->
-
 	<string id="st_wpn_glock17">
 		<text>Glock 17</text>
 	</string>
@@ -15,7 +14,8 @@ overwrites st_wpn_glock17
 	<string id="st_wpn_glock17_descr">
 		<text>Klasyczny pistolet z polimerowym szkieletem i krótkim odrzutem, Glock 17 Gen 4, jeœli grawerunek na suwadle nie by³ oczywisty, zosta³ zaprojektowany i wyprodukowany przez austriackiego producenta Glock Ges.m.b.H. Broñ ta wesz³a do austriackiej s³u¿by wojskowej i policyjnej w 1982 roku po tym, jak uzyska³a najlepsze wyniki w testach niezawodnoœci i bezpieczeñstwa. Od tego czasu by³ eksportowany do wielu innych krajów, w tym na Ukrainê dla si³ specjalnych. Ze wzglêdu na nisk¹ wagê, bardzo dobry odrzut i kaliber 9 mm, jest to bardzo popularny pistolet wœród ka¿dej frakcji i s³usznie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech (po modyfikacji)\n</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech (po modyfikacji)\n
+		</text>
 	</string>
 
 	<string id="st_up_glock17_45acp_name">

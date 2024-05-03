@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 
-<!--
-	Basic items (Some are not used anymore)
--->
-
 <string_table>
-
-	<string id="st_itm_campfire">
-		<text>Ognisko</text>
-	</string>
-	<string id="st_itm_campfire_descr">
-		<text>Ogniska jako tako nie możesz przenieść. Zresztą, w ogóle nie powinieneś tego widzieć, sio! No, już! Idź, postrzelaj do mięsaczy, czy coś.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
-		%c[0,100,255,255] • %c[ui_gray_2] ulubione miejsce stalkerów\n
-		%c[0,100,255,255] • %c[ui_gray_2] można użyć do gotowania\n
-		%c[0,100,255,255] • %c[ui_gray_2] można opowiadać historie\n
-		%c[0,100,255,255] • %c[ui_gray_2] można połączyć z gitarą i wódką\n
-		</text>
-	</string>
 	
 	<string id="st_poxod_rukzak">
 		<text>Anomalny plecak</text>
 	</string>
 	<string id="st_poxod_rukzak_descr">
-		<text>Na pierwszy rzut oka, ten plecak nie posiada, żadnych użytecznych właściwości. Jednak umieszczone w nim przedmioty z czasem tracą na wadze. Plotka głosi, że jest to wynikiem transportu plecaków dla wojska, przypadkowo złapanego w anomalię. Próby odtworzenia jego unikalnych właściwości przez naukowców zakończyły się niepowodzeniem. Partie anomalnych plecaków zostały zakupione przez wpływowych ludzi w Strefie, którzy nadal eksportują je na cały świat.\n \n
-		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
-		%c[d_blue] • %c[ui_gray_2] unikalny przedmiot\n
+		<text>Na pierwszy rzut oka, ten plecak nie posiada, żadnych użytecznych właściwości. Jednak umieszczone w nim przedmioty z czasem tracą na wadze. Plotka głosi, że jest to wynikiem transportu plecaków dla wojska, przypadkowo złapanego w anomalię. Próby odtworzenia jego unikalnych właściwości przez naukowców zakończyły się niepowodzeniem. Partie anomalnych plecaków zostały zakupione przez wpływowych ludzi w Strefie, którzy nadal eksportują je na cały świat.\n
 		</text>
 	</string>
 
@@ -32,8 +14,9 @@
 		<text>Śruba</text>
 	</string>
 	<string id="st_bolt_descr">
-		<text>Typowa, zardzewiała śruba. Stalkerzy dzięki takim przedmiotom mogą wyznaczać bezpieczne ścieżki przez pola anomalii.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
-		%c[ui_gray_2] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		<text>Typowa, zardzewiała śruba. Stalkerzy dzięki takim przedmiotom mogą wyznaczać bezpieczne ścieżki przez pola anomalii.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] mogą być rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
 		</text>
 	</string>
 	
@@ -41,8 +24,9 @@
 		<text>Śruba</text>
 	</string>
 	<string id="st_bolty_descr">
-		<text>Typowa, zardzewiała śruba. Stalkerzy dzięki takim przedmiotom mogą wyznaczać bezpieczne ścieżki przez pola anomalii.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
-		%c[ui_gray_2] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		<text>Typowa, zardzewiała śruba. Stalkerzy dzięki takim przedmiotom mogą wyznaczać bezpieczne ścieżki przez pola anomalii.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] mogą być rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
 		</text>
 	</string>
 	
@@ -50,18 +34,48 @@
 		<text>Pusta łuska</text>
 	</string>
 	<string id="st_bolt_bullet_descr">
-		<text>Czasem stalkerzy korzystają z łusek po nabojach zamiast śrub do wyznaczania bezpiecznych ścieżek przez pola anomalii.\n \n%c[ui_gray_2]WŁAŚCIWOŚCI:\n
-		%c[ui_gray_2] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		<text>Czasem stalkerzy korzystają z łusek po nabojach zamiast śrub do wyznaczania bezpiecznych ścieżek przez pola anomalii.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] mogą być rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
 		</text>
 	</string>
 	
+	<string id="st_energy">
+		<text>nic</text>
+	</string>
+	<string id="st_energy_descr">
+		<text>Jednostka skumulowanej energii to amperogodzina (Ah)</text>
+	</string>
+	
+	<string id="sleep_itm_warning_blowout">
+		<text>Spanie w tym momencie nie jest bezpieczne!</text>
+	</string>
+
+	<string id="st_itm_campfire">
+		<text>Ognisko</text>
+	</string>
+	<string id="st_itm_campfire_descr">
+		<text>Nie powinieneś tego mieć!\n \n
+		</text>
+	</string>
+
+	<string id="green_bug_name">
+		<text>Zielony żuk</text>
+	</string>
+	<string id="green_bug_description">
+		<text>Zielony żuk to nieodłączny towarzysz każdego stalkera. Nie ma w Zonie nikogo, kto by go nie spotkał. Jeśli spotkasz zielonego żuka tylko raz, czy dwa przez całe swoje życie - jesteś prawdziwym farciarzem. Psucie się twojego nastroju jest wprost proporcjonalne do ilości spotkań z zielonym żuczkiem.\n
+		</text>
+	</string>
+
+<!-- NIEUŻYWANE
+
 	<string id="st_identity_card">
 		<text>Dowód osobisty USS </text>
 	</string>
 	<string id="st_identity_card_descr">
 		<text>To jest twój dowód osobisty, który ujawnia Twoją prawdziwą tożsamość. Trzymaj go w ukryciu. Jako Szturmowiec USS specjalizujesz się w karabinach szturmowych i ciężkiej broni. Specjalizujesz się także w kontroli odrzutu broni. Niska prędkość sprintu.\n \n
-		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot osobisty\n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
 		</text>
 	</string>
 	<string id="st_identity_card_assaulter_descr">
@@ -73,7 +87,7 @@
 		%c[d_cyan]BROŃ\n
 		%c[d_blue] • %c[default]Walka nożem: %c[d_red_1]A+\n
 		%c[d_blue] • %c[default]Specjalizacja w obsłudze: %c[d_red_1]Broni z dużym odrzutem\n
-		%c[d_blue] • %c[default]Specjalność w konserwacji: %c[d_red_1]Broni ciężkiej\n\n
+		%c[d_blue] • %c[default]Specjalność w konserwacji: %c[d_red_1]Broni ciężkiej\n \n
 		%c[d_cyan]MEDYCYNA\n
 		%c[d_blue] • %c[default]Zręczność w używaniu bandaży/apteczek: %c[d_red_1]B\n
 		%c[d_blue] • %c[default]Umiejętności medyczne: %c[d_red_1]C\n
@@ -84,7 +98,7 @@
 		%c[d_blue] • %c[default]Wysokość skoku: %c[d_red_1]niska\n
 		%c[d_blue] • %c[default]Zwinność w upadku/skoku: %c[d_red_1]niska\n
 		%c[d_blue] • %c[default]Bazowa wytrzymałość: %c[d_red_1]niska\n
-		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_1] %c[d_red_1]wysoki\n\n
+		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_2]%c[d_red_1]wysoki\n \n
 		%c[d_cyan]PROFIL ZDROWOTNY\n
 		%c[d_blue] • %c[default]Wskaźnik spożycia żywności: %c[d_red_1]wysoki\n
 		%c[d_blue] • %c[default]Potrzeba snu: %c[d_red_1]wysoka\n\n
@@ -92,7 +106,7 @@
 		%c[d_blue] • %c[default]Leki/alkohol: %c[d_red_1]A+\n
 		%c[d_blue] • %c[default]Niezdrowe jedzenie: %c[d_red_1]B\n
 		%c[d_blue] • %c[default]Artefakty: %c[d_red_1]C\n
-		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_1] %c[d_red_1]C\n
+		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_2]%c[d_red_1]C\n
 		</text>
 	</string>
 	<string id="st_identity_card_recon_descr">
@@ -115,7 +129,7 @@
 		%c[d_blue] • %c[default]Wysokość skoku: %c[d_red_1]wysoka\n
 		%c[d_blue] • %c[default]Zwinność w upadku/skoku: %c[d_red_1]wysoka\n
 		%c[d_blue] • %c[default]Bazowa wytrzymałość: %c[d_red_1]wysoka\n
-		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_1] %c[d_red_1]niska\n\n
+		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_2] %c[d_red_1]niska\n \n
 		%c[d_cyan]PROFIL ZDROWOTNY\n
 		%c[d_blue] • %c[default]Wskaźnik spożycia żywności: %c[d_red_1]niska\n
 		%c[d_blue] • %c[default]Potrzeba snu: %c[d_red_1]średnia\n\n
@@ -123,7 +137,7 @@
 		%c[d_blue] • %c[default]Leki/alkohol: %c[d_red_1]C\n
 		%c[d_blue] • %c[default]Niezdrowe jedzenie: %c[d_red_1]C\n
 		%c[d_blue] • %c[default]Artefakty: %c[d_red_1]A\n
-		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_1] %c[d_red_1]A\n
+		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_2]%c[d_red_1]A\n
 		</text>
 	</string>
 	<string id="st_identity_card_sniper_descr">
@@ -149,7 +163,7 @@
 		%c[d_red_1]wysoka\n
 		%c[d_blue] • %c[default]Kondycja podczas sprintu: 
 		%c[d_red_1]średnia\n
-		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_1] %c[d_red_1]średni\n\n
+		%c[d_blue] • %c[default]Maksymalny udźwig: %c[ui_gray_2]%c[d_red_1]średni\n\n
 		%c[d_cyan]PROFIL ZDROWOTNY\n
 		%c[d_blue] • %c[default]Wskaźnik spożycia żywności : %c[d_red_1]średni\n
 		%c[d_blue] • %c[default]Potrzeba snu: %c[d_red_1]niska\n\n
@@ -157,30 +171,10 @@
 		%c[d_blue] • %c[default]Leki/alkohol: %c[d_red_1]B\n
 		%c[d_blue] • %c[default]Niezdrowe jedzenie: %c[d_red_1]A+\n
 		%c[d_blue] • %c[default]Artefakty: %c[d_red_1]B\n
-		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_1] %c[d_red_1]B\n
+		%c[d_blue] • %c[default]Radiacja: %c[ui_gray_2]%c[d_red_1]B\n
 		</text>
-	</string>
-	
-	<string id="st_energy">
-		<text>nic</text>
-	</string>
-	<string id="st_energy_descr">
-		<text>Jednostka skumulowanej energii to amperogodzina (Ah)</text>
 	</string>
 
-	<string id="green_bug_name">
-		<text>Zielony żuk</text>
-	</string>
-	<string id="green_bug_description">
-		<text>Zielony żuk to nieodłączny towarzysz każdego stalkera. Nie ma w Zonie nikogo, kto by go nie spotkał. Jeśli spotkasz zielonego żuka tylko raz, czy dwa przez całe swoje życie - jesteś prawdziwym farciarzem. Psucie się twojego nastroju jest wprost proporcjonalne do ilości spotkań z zielonym żuczkiem.\n \n%c[ui_gray_3]WŁAŚCIWOŚCI:\n
-		%c[d_blue] • %c[ui_gray_2] znacznie zwiększa szansę na crash gry\n
-		%c[d_blue] • %c[ui_gray_2] nie można wyrzucić\n
-		%c[d_blue] • %c[ui_gray_2] nie można sprzedać\n
-		</text>
-	</string>
-	
-	<string id="sleep_itm_warning_bniskaout">
-		<text>Nie jest bezpiecznie teraz spać!</text>
-	</string>
+-->
 	
 </string_table>

@@ -3,10 +3,6 @@
 <!--===========================================================
 <
 < TEXT  STRINGS FOR TASKS ON BAR (ROSTOK) MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
 <
 <===========================================================-->
 
@@ -16,10 +12,6 @@
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- STORYLINE TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 
@@ -154,16 +146,9 @@
 		<text>Dziêki brachu. Oto obiecany karabin. Mam nadziejê, ¿e bêdziesz mia³ wiêcej szczêœcia, ni¿ jego poprzedni w³aœciciel... biedny facet. Dobrze, ¿e zanim zmar³ zd¹¿y³ mi zap³aciæ, he he.</text>
 	</string>
 
-	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
-	<!--
-	<!--	Modified by DoctorX
-	<!--	for DoctorX Questlines 1.6
-	<!--	October 07, 2016
 	<!--
 	<!-- ----------------------------------------------------------------------------------------- -->
 

@@ -2,24 +2,30 @@
 
 <!--===========================================================
 <
-< TEX-T STRINGS FOR LOST TO THE ZONE: HOLLOW BOUNDARIES TASKS
+< TEXT STRINGS FOR LOST TO THE ZONE: HOLLOW BOUNDARIES TASKS
 <	Anomaly 1.5 - Lost to the Zone: Hollow Boundaries
-<
-<	Made by: Tronex
-<	Last revised: 10 September 2019
 <
 <===========================================================-->
 
 <string_table>
 
-	<!-- Dushman intel -->
+<!--
+	PRZEDMIOTY
+-->
+
 	<string id="st_hb_isg_dushman_intel_name">
 		<text>Dane wywiadowcze Duszmana</text>
 	</string>
 	<string id="st_hb_isg_dushman_intel_desc">
-		<text>Jeœli Duszman dotrzyma³ s³owa, ta teczka zawiera mapy i informacje bezcenne z punktu widzenia UNISG. Przekazane dane powinny znacznie zmniejszyæ ryzyko niepowodzenia operacji prowadzonych przez oddzia³y ONZ.</text>
+		<text>Jeœli Duszman dotrzyma³ s³owa, ta teczka zawiera mapy i informacje bezcenne z punktu widzenia UNISG. Przekazane dane powinny znacznie zmniejszyæ ryzyko niepowodzenia operacji prowadzonych przez oddzia³y ONZ.\n \n
+		%c[0,255,255,255]W£AŒCIWOŒCI:\n
+		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n		
+		</text>
 	</string>
 
+<!--
+	QUESTY
+-->
 
 	<!-- Hollow Boundaries Arc 1 -->
 	<string id="lttz_hb_task_1_1_dushman_intel_name">

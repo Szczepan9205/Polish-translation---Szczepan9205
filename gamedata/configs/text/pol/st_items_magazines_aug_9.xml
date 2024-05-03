@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-    
-<!--
-Aug 9mm
--->
 
 	<string id="st_mag_aug_9x19_fmj">
 		<text>Standardowy magazynek 9x19 mm do AUG</text>
 	</string>
 	<string id="st_mag_aug_9x19_fmj_descr">
-		<text>32-nabojowy magazynek do pistoletu AUG 9 mm. Ten wariant broni AUG jest używany przez stalkerów, ponieważ zapewnia większą kontrolę na bliskich dystansach.
+		<text>32-nabojowy magazynek do pistoletu AUG 9 mm. Ten wariant broni AUG jest używany przez stalkerów, ponieważ zapewnia większą kontrolę na bliskich dystansach.\n \n
+		%c[0,255,255,255]WŁAŚCIWOŚCI:
 		</text>
 	</string>
 	

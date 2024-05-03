@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <!--
-	Repair Kits
+	ZESTAWY CZYSZCĄCE
 -->
 
 <string_table>
@@ -57,6 +57,10 @@
 		</text>
 	</string>
 
+<!--
+	ZESTAWY NAPRAWCZE
+-->
+
     <string id="st_toolkit_p_new">
         <text>Zestaw naprawczy do broni typu A</text>
     </string>
@@ -66,7 +70,7 @@
 		%c[d_orange] • Może być używany do zastępowania części w pistolecie częściami z zestawu\n 
 		%c[d_orange] • Kliknij PPM na broń typu A > konserwacja części > wymień żądaną część\n
         %c[0,255,255,255]KOMPATYBILNOŚĆ:\n
-        %c[d_orange] • %c[ui_gray_2] Głównie z bronią małego kalibru\n
+		%c[d_orange] • %c[ui_gray_2] Głównie z bronią małego kalibru\n
         </text>
     </string>
 
@@ -79,7 +83,7 @@
 		%c[d_orange] • Może być używany do zastępowania części w pistolecie częściami z zestawu\n
 		%c[d_orange] • Kliknij PPM na broń typu B > konserwacja części > wymień żądaną część\n
         %c[0,255,255,255]KOMPATYBILNY Z:\n
-        %c[d_orange] • %c[ui_gray_2] Głównie ze strzelbami i prostymi karabinami\n
+		%c[d_orange] • %c[ui_gray_2] Głównie ze strzelbami i prostymi karabinami\n
         </text>
     </string>
 
@@ -105,7 +109,8 @@
 		%c[d_orange] • Może być używany do zastępowania części w pistolecie częściami z zestawu\n
 		%c[d_orange] • Kliknij PPM na broń typu D > konserwacja części > wymień żądaną część\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-        %c[d_orange] • %c[ui_gray_2] Głównie dla broni dużego kalibru i/lub bardziej skomplikowanej broni\n
+		%c[d_orange] • %c[ui_gray_2] Głównie dla broni dużego kalibru i/lub bardziej skomplikowanej broni\n
         </text>
     </string>
+
 </string_table>

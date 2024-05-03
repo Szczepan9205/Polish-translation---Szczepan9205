@@ -126,7 +126,7 @@
 				<text>Zombifikowani</text>
 			</string>
 		<string id="ui_mm_menu_dynamic_news">
-			<text>Wieœci</text>
+			<text>Dynamiczne wiadomoœci</text>
 		</string>
 
 <!-- Buttons -->
@@ -143,7 +143,7 @@
 		<text>Anuluj</text>
 	</string>
 	<string id="ui_mm_preset">
-		<text>Wstêpne</text>
+		<text>(NIE U¯YWAÆ)</text>
 	</string>
 	
 <!-- Messages -->
@@ -191,16 +191,16 @@
 		<text>DirectX 11 (Rozszerzony)</text>
 	</string>
 	<string id="ui_mm_lst_pres_default">
-		<text>8GB RAM i/lub 4GB VRAM</text>
+		<text>Œredni</text>
 	</string>
 	<string id="ui_mm_lst_pres_extreme">
-		<text>24GB RAM i/lub 6GB VRAM</text>
+		<text>Ekstremalny</text>
 	</string>
 	<string id="ui_mm_lst_pres_high">
-		<text>16GB RAM i/lub 4GB VRAM</text>
+		<text>Wysoki</text>
 	</string>
 	<string id="ui_mm_lst_pres_low">
-		<text>8GB RAM i/lub 2GB VRAM</text>
+		<text>Niski</text>
 	</string>
 	<string id="ui_mm_lst_pres_minimum">
 		<text>Tryb ziemniaka</text>
@@ -253,16 +253,16 @@
 	</string>
 	
 	<string id="ui_mm_prst_video_default">
-		<text>8GB RAM i/lub 4GB VRAM</text>
+		<text>Œredni</text>
 	</string>
 	<string id="ui_mm_prst_video_extreme">
-		<text>24GB RAM i/lub 6GB VRAM</text>
+		<text>Ekstremalny</text>
 	</string>
 	<string id="ui_mm_prst_video_high">
-		<text>16GB RAM i/lub 4GB VRAM</text>
+		<text>Wysoki</text>
 	</string>
 	<string id="ui_mm_prst_video_low">
-		<text>8GB RAM i/lub 2GB VRAM</text>
+		<text>Niski</text>
 	</string>
 	<string id="ui_mm_prst_video_minimum">
 		<text>Tryb ziemniaka</text>
@@ -319,7 +319,7 @@
 	<string id="ui_mm_lst_combined">
 		<text>Oba</text>
 	</string>
-
+	
 	<string id="ui_mm_video_advanced_ai_torch">
 		<text>Latarki NPC-ów</text>
 	</string>
@@ -333,20 +333,21 @@
 		<text>Limiter FPS </text>
 	</string>
 	<string id="ui_mm_video_advanced_framelimit_desc">
-		<text>Ten suwak umo¿liwia ustawienie niestandardowego limitu liczby klatek na sekundê. „0” oznacza brak ograniczenia. </text>
+		<text>Ten suwak umo¿liwia ustawienie niestandardowego limitu liczby klatek na sekundê.\n
+		„0” oznacza brak ograniczenia.</text>
 	</string>
-
+	
 	<string id="ui_mm_header_rendering_dist">
 		<text>Rendering</text>
 	</string>
 	<string id="ui_mm_video_advanced_vis_distance">
-		<text>Odleg³oœæ rysowania</text>
+		<text>Œwiat</text>
 	</string>
 	<string id="ui_mm_video_advanced_optimize_static_geom">
-		<text>Odleg³oœæ renderowania (ob. statyczne)</text>
+		<text>Obiekty statyczne</text>
 	</string>
 	<string id="ui_mm_video_advanced_optimize_dynamic_geom">
-		<text>Odleg³oœæ renderowania (ob. dynamiczne)</text>
+		<text>Obiekty dynamiczne</text>
 	</string>
 	<string id="ui_mm_video_advanced_optimize_shadow_geom">
 		<text>Odleg³oœæ renderowania (cienie)</text>
@@ -356,7 +357,7 @@
 		Mo¿e powodowaæ usuwanie bardzo d³ugich cieni (zauwa¿alne podczas wschodu/zachodu s³oñca).
 		</text>
 	</string>
-
+	
 	<string id="ui_mm_header_rendering_quality">
 		<text>Jakoœæ renderowania</text>
 	</string>
@@ -409,14 +410,13 @@
 	<string id="ui_mm_video_advanced_detail_height">
 		<text>Wielkoœæ trawy</text>
 	</string>
-
 	<string id="ui_mm_video_advanced_grass_shadow">
 		<text>Cieñ trawy</text>
 	</string>
 	<string id="ui_mm_video_advanced_sun_details">
 		<text>Cienie trawy</text>
 	</string>
-
+	
 	<string id="ui_mm_header_lighting">
 		<text>Oœwietlenie</text>
 	</string>
@@ -444,21 +444,11 @@
 	<string id="ui_mm_video_advanced_sunshafts_quality">
 		<text>Jakoœæ promieni s³onecznych (dla oœ. wolumetrycznego) </text>
 	</string>
-	<string id="ui_mm_video_advanced_sun_shafts_value">
-		<text>Intensywnoœæ promieni s³onecznych</text>
-	</string>
 	<string id="ui_mm_video_advanced_sunshafts_value">
 		<text>G³ówne natê¿enie promieni s³onecznych</text>
 	</string>
-	<string id="ui_mm_video_advanced_sun_shafts_min">
-		<text>Podst. intensywnoœæ promieni s³onecznych</text>
-	</string>
 	<string id="ui_mm_video_advanced_sunshafts_min">
 		<text>Natê¿enie podstawy promieni s³onecznych</text>
-	</string>
-
-	<string id="ui_mm_video_advanced_sun_shafts">
-		<text>Promienie s³onecznie</text>
 	</string>
 	<string id="ui_mm_video_advanced_ssao_mode">
 		<text>Tryb SSAO</text>
@@ -469,8 +459,8 @@
 	<string id="ui_mm_video_advanced_volumetric_lights">
 		<text>Œwiat³o wolumetryczne</text>
 	</string>
-
-
+	
+	
 	<string id="ui_mm_video_advanced_msaa_alphatest">
 		<text>Wyg³adzanie A-test objects</text>
 	</string>
@@ -502,10 +492,9 @@
 	<string id="ui_mm_video_advanced_volumetric_smoke">
 		<text>Dym wolumetryczny</text>
 	</string>
-	<string id="ui_mm_video_advanced_fxaa">
-		<text>FXAA</text>
-	</string>
+	
 
+	
 	<!-- Video - HUD -->
 	<string id="ui_mm_title_hud">
 		<text>Interfejs</text>
@@ -797,7 +786,7 @@
 		<text>Klawisz dostêpu do menu opcji radia</text>
 	</string>
 	<string id="ui_mm_sound_radio_access_call">
-		<text>Klawisz dostêpu do menu radio settings.txt (?)</text>
+		<text>Klawisz dostêpu do menu ustawieñ radia</text>
 	</string>
 	<string id="ui_mm_sound_radio_1_play">
 		<text>W³./Wy³. Radio</text>
@@ -900,10 +889,10 @@
 		<text>Tryb prostego PDA</text>
 	</string>
 	<string id="ui_mm_control_general_simple_pda_mode_desc">
-		<text>%c[ui_gray_1]•%c[ui_gray_2]W³¹czone: tryb prosty.
-		\nPDA przejdzie w tryb fokusu (interfejsu) tylko wtedy, gdy gracz trzyma je blisko (klawisz prze³adowania).
-		\n \n%c[ui_gray_1]•%c[ui_gray_2]Wy³¹czone: tryb zaawansowany.
-		\nGracz mo¿e prze³¹czaæ siê miêdzy trybami skupienia/ruchu, naciskaj¹c klawisz granatu, niezale¿nie od tego, czy PDA jest trzymane blisko, czy daleko od punktu widzenia. 
+		<text>%c[ui_gray_1]•%c[ui_gray_2]W³¹czone: tryb prosty.\n
+		PDA przejdzie w tryb fokusu (interfejsu) tylko wtedy, gdy gracz trzyma je blisko (klawisz prze³adowania).\n\n
+		%c[ui_gray_1]•%c[ui_gray_2]Wy³¹czone: tryb zaawansowany.\n
+		Gracz mo¿e prze³¹czaæ siê miêdzy trybami skupienia/ruchu, naciskaj¹c klawisz granatu, niezale¿nie od tego, czy PDA jest trzymane blisko, czy daleko od punktu widzenia. 
 		</text>
 	</string>
 	<string id="ui_mm_control_general_disassembly_warning">
@@ -932,7 +921,8 @@
 		<text>OpóŸnienie napraw u mechaników</text>
 	</string>
 	<string id="ui_mm_gameplay_general_mechanic_feature_desc">
-		<text>Kiedy jest w³¹czona, gracz musi zaczekaæ dzieñ lub wiêcej, ¿eby mechanik wykona³ wszystkie naprawy uszkodzonego przedmiotu przed zwróceniem go.</text>
+		<text>Kiedy jest w³¹czona, gracz musi zaczekaæ dzieñ lub wiêcej, ¿eby mechanik wykona³ wszystkie naprawy uszkodzonego przedmiotu przed zwróceniem go.\n
+		Przedmioty s¹ zwracane gdy naprawy zostan¹ ukoñczone.</text>
 	</string>
 	<string id="ui_mm_gameplay_general_player_name">
 		<text>Imiê gracza</text>
@@ -941,7 +931,8 @@
 		<text>Portret gracza wed³ug stroju</text>
 	</string>
 	<string id="ui_mm_gameplay_general_outfit_portrait_desc">
-		<text>Zmienia portret gracza razem zale¿nie od noszonych ubrañ. Wy³¹czenie przywróci portret do domyœlnego, wybranego w menu Nowej Gry.</text>
+		<text>Zmienia portret gracza razem zale¿nie od noszonych ubrañ.\n
+		Wy³¹czenie przywróci portret do domyœlnego, wybranego w menu Nowej Gry.</text>
 	</string>
 	<string id="ui_mm_gameplay_general_char_portrait">
 		<text>Domyœlny portret</text>
@@ -953,36 +944,37 @@
 		<text>Licznik usuwania cia³</text>
 	</string>
 	<string id="ui_mm_gameplay_general_corpse_max_count_desc">
-		<text>Cia³a s¹ usuwane z gry w celu poprawy wydajnoœci gry i silnika A-life.
-		\nProces usuwania cia³ zacznie siê po przekroczeniu licznika i odleg³oœci od gracza.
+		<text>Cia³a s¹ usuwane z gry w celu poprawy wydajnoœci gry i silnika A-life.\n
+		Proces usuwania cia³ zacznie siê po przekroczeniu licznika i odleg³oœci od gracza.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_general_corpse_min_dist">
 		<text>Odleg³oœæ usuwania cia³ [w metrach]</text>
 	</string>
 	<string id="ui_mm_gameplay_general_corpse_min_dist_desc">
-		<text>Cia³a s¹ usuwane z gry w celu poprawy wydajnoœci gry i silnika A-life.
-		\nProces usuwania cia³ zacznie siê po przekroczeniu licznika i odleg³oœci od gracza.
+		<text>Cia³a s¹ usuwane z gry w celu poprawy wydajnoœci gry i silnika A-life.\n
+		Proces usuwania cia³ zacznie siê po przekroczeniu licznika i odleg³oœci od gracza.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_general_npc_loot_distance">
 		<text>Odleg³oœæ ³upów ze zw³ok [w metrach]</text>
 	</string>
 	<string id="ui_mm_gameplay_general_npc_loot_distance_desc">
-		<text>Zw³oki s¹ ³upione przez innych stalkerów tylko wtedy, gdy gracz znajduje siê daleko od nich.
-		\nPowinno to uniemo¿liwiæ im kradzie¿ ciê¿ko zdobytego towaru.
+		<text>Zw³oki s¹ ³upione przez innych stalkerów tylko wtedy, gdy gracz znajduje siê daleko od nich.\n
+		Powinno to uniemo¿liwiæ im kradzie¿ ciê¿ko zdobytego towaru.
 		</text>
 	</string>
-		<string id="ui_mm_gameplay_general_max_tasks">
+	
+	<string id="ui_mm_gameplay_general_max_tasks">
 		<text>Maksymalna liczba zadañ na NPC</text>
 	</string>
 	<string id="ui_mm_gameplay_general_max_tasks_desc">
 		<text>Ile zadañ mo¿esz mieæ aktywnych naraz od tego samego NPC.</text>
 	</string>
-
+	
 	<string id="ui_mm_gameplay_general_need_equipped_hkit">
 		<text>Zestaw myœliwski musi byæ wyposa¿ony jako plecak, aby otrzymaæ bonus</text>
-	</string>	
+	</string>
 	
 	<!-- Gameplay difficulty -->
 	<string id="ui_mm_title_gameplay_diff">
@@ -1019,16 +1011,16 @@
 		<text>Ochrona Gracza</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_actor_immunities_desc">
-		<text>Ta opcja kontroluje odpornoœæ gracza na wszelkiego rodzaju uszkodzenia.
-		\nIm lepsza ochrona, tym wiêcej obra¿eñ gracz mo¿e przyj¹æ.</text>
+		<text>Ta opcja kontroluje odpornoœæ gracza na wszelkiego rodzaju uszkodzenia.\n
+		Im lepsza ochrona, tym wiêcej obra¿eñ gracz mo¿e przyj¹æ.</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_hit_power">
 		<text>Wspó³czynnik mocy obalaj¹cej pocisków</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_hit_power_desc">
-		<text>Ten mno¿nik odpowiada za iloœæ obra¿eñ zadawanych przez pociski.
-		\n \n%c[pda_yellow]Uwaga:%c[ui_gray_2]
-		\nUstawienie dotyczy tylko pocisków wystrzelonych przez gracza, nie wp³ywa na pociski wystrzelone przez NPC.
+		<text>Ten mno¿nik odpowiada za iloœæ obra¿eñ zadawanych przez pociski.\n\n
+		%c[pda_yellow]Uwaga:%c[ui_gray_2]\n
+		Ustawienie dotyczy tylko pocisków wystrzelonych przez gracza, nie wp³ywa na pociski wystrzelone przez NPC.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_dispersion_base">
@@ -1063,15 +1055,15 @@
 		<text>Radioaktywne powietrze w ci¹gu dnia</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_radiation_day_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e gracz bêdzie otrzymywa³ sta³e dawki promieniowania przebywaj¹c na zewn¹trz w ci¹gu dnia, a podziemia bêd¹ du¿o bardziej radioaktywne.
-		\nHe³my i stroje ze znaczn¹ ochron¹ przed promieniowaniem mog¹ z³agodziæ ten efekt.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e gracz bêdzie otrzymywa³ sta³e dawki promieniowania przebywaj¹c na zewn¹trz w ci¹gu dnia, a podziemia bêd¹ du¿o bardziej radioaktywne.\n
+		He³my i stroje ze znaczn¹ ochron¹ przed promieniowaniem mog¹ z³agodziæ ten efekt.</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_notify_geiger">
 		<text>DŸwiêki dozymetru tylko z Licznika Geigera</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_notify_geiger_desc">
 		<text>%c[ui_gray_1]Wy³¹czone:%c[ui_gray_2] Zbli¿aj¹c siê do radioaktywnego miejsca gracz us³yszy dŸwiêk dozymetru.
-		\n \n%c[ui_gray_1]W³¹czone:%c[ui_gray_2] Gracz us³yszy dŸwiêk dozymetru tylko, gdy posiada Licznik Geigera z na³adowan¹ bateri¹ w swoim ekwipunku.
+		\n\n%c[ui_gray_1]W³¹czone:%c[ui_gray_2] Gracz us³yszy dŸwiêk dozymetru tylko, gdy posiada Licznik Geigera z na³adowan¹ bateri¹ w swoim ekwipunku.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_gameplay_diff_notify_anomaly">
@@ -1099,7 +1091,7 @@
 	<string id="ui_mm_prst_economy_hard">
 		<text>Mistrz przetrwania</text>
 	</string>
-
+	
 	<string id="ui_mm_lst_progressive">
 		<text>Progresywny</text>
 	</string>
@@ -1168,25 +1160,22 @@
 		<text>Wspó³czynnik zu¿ycia broni</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_weapon_degradation_desc">
-		<text>Broñ zu¿ywa siê przez strzelanie. U¿ywanie w³aœciwej amunicji ma wp³yw na zu¿ycie.
-		\nTen wspó³czynnik odpowiada za ogólne zu¿ywanie siê przedmiotów.</text>
+		<text>Broñ zu¿ywa siê przez strzelanie. U¿ywanie w³aœciwej amunicji ma wp³yw na zu¿ycie.\n
+		Ten wspó³czynnik odpowiada za ogólne zu¿ywanie siê przedmiotów.</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_battery_consumption">
 		<text>Wspó³czynnik zu¿ycia baterii</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_battery_consumption_desc">
-		<text>Urz¹dzenia elektroniczne pobieraj¹ moc z baterii, zu¿ywaj¹c je. Ró¿ne urz¹dzenia maj¹ inny pobór mocy.
-		\nTen wspó³czynnik odpowiada za ogólne zu¿ywanie siê baterii.</text>
+		<text>Urz¹dzenia elektroniczne pobieraj¹ moc z baterii, zu¿ywaj¹c je. Ró¿ne urz¹dzenia maj¹ inny pobór mocy.\n
+		Ten wspó³czynnik odpowiada za ogólne zu¿ywanie siê baterii.</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_limited_bolts">
 		<text>Ograniczona iloœæ œrub</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_limited_bolts_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e œruby w kieszeni nie bêd¹ ju¿ nieskoñczone.
-		\nGracz musi znaleŸæ œruby samodzielnie lub kupiæ zapas u handlarza.
-		\n \n%c[pda_green]Dobra rada:%c[ui_gray_2]
-		\nRzucone œruby mo¿na podnosiæ z powrotem. Przynajmniej dopóki nie wpadn¹ w anomaliê.
-		\nNie tylko œrubami mo¿na rzucaæ.
+		<text>W³¹czenie tej opcji sprawi, ¿e œruby w kieszeni nie bêd¹ ju¿ nieskoñczone.\n
+		%c[0,255,255,255]Wskazówka:%c[ui_gray_2] Rzucone œruby mo¿na podnosiæ z powrotem. Przynajmniej dopóki nie wpadn¹ w anomaliê.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_arty_degradation">
@@ -1199,7 +1188,8 @@
 		<text>Pe³na skala stanu czêœci</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_percentage_parts_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e czêœci uzyskane z demonta¿u przedmiotów bêd¹ mia³y pe³n¹ skalê uszkodzeñ (stan od 1 do 100%) zamiast czterech ogólnych statystyk.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e czêœci uzyskane z demonta¿u przedmiotów bêd¹ mia³y pe³n¹ skalê uszkodzeñ (stan od 1 do 100%).\n
+		Gdy ta opcja jest wy³¹czona, elementy u¿ywaj¹ jednej z czterech kategorii stanu (25%, 50%, 75% i 100% stanu).</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_restock">
 		<text>Cykl wymiany u handlarzy (w godzinach)</text>
@@ -1211,16 +1201,15 @@
 		<text>Szansa respawnu artefaktów</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_arty_chance_desc">
-		<text>Artefakty zwykle powstaj¹ w trakcie emisji i (rzadziej) burzy psionicznych w polach anomalii.
-		\nTa opcja wp³ywa na szansê utworzenia siê artefaktu w polu anomalii.</text>
+		<text>Artefakty zwykle powstaj¹ w trakcie emisji i (rzadziej) burzy psionicznych w polach anomalii.\n
+		Ta opcja wp³ywa na szansê utworzenia siê artefaktu w polu anomalii.</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_outfit_drops">
 		<text>Wspó³czynnik ³upów w postaci kombinezonu</text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_outfit_drops_desc">
 		<text>Kontroluj, jak kombinezony mo¿na znaleŸæ przy zw³okach.\n\n
-		"Progresywny" oznacza, ¿e zdobywane kombinezony zale¿¹ od postêpów gracza. Wy¿sze rangi umo¿liwi¹ znalezienie lepszych kombinezonów z ³upów.
-		</text>
+		"Progresywny" oznacza, ¿e zdobywane kombinezony zale¿¹ od postêpów gracza. Wy¿sze rangi umo¿liwi¹ znalezienie lepszych kombinezonów z ³upów.</text>
 	</string>
 	
 <!-- Gameplay - Disguise -->
@@ -1228,9 +1217,7 @@
 		<text>Ustawienia przebrañ</text>
 	</string>
 	<string id="ui_mm_desc_disguise">
-		<text>Mo¿esz podszyæ siê pod cz³onka innej frakcji, by (z ró¿nych powodów) ukryæ swoj¹ prawdziw¹ przynale¿noœæ.
-		\nPoni¿sze ustawienia u³atwi¹ ci dostosowanie systemu podszywania siê.
-		\n \nW Encyklopedii znajdziesz obszerny artyku³ poœwiêcony tej funkcji.</text>
+		<text>Mo¿esz podszyæ siê pod cz³onka innej frakcji, by (z ró¿nych powodów) ukryæ swoj¹ prawdziw¹ przynale¿noœæ. Poni¿sze ustawienia u³atwi¹ ci dostosowanie systemu podszywania siê. W Encyklopedii znajdziesz obszerny artyku³ poœwiêcony tej funkcji.</text>
 	</string>
 	
 	<string id="ui_mm_gameplay_disguise_state">
@@ -1240,8 +1227,8 @@
 		<text>Rozwa¿aj aktywny przedmiot</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_active_item_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan trzymanego przez gracza (w rêkach) przedmiotu bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.
-		\n \nTym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan trzymanego przez gracza (w rêkach) przedmiotu bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.\n\n
+		Tym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_active_item_factor">
 		<text>Wspó³cz. podejrzliwoœci aktywnego przedmiotu</text>
@@ -1250,8 +1237,8 @@
 		<text>Rozwa¿aj broñ gracza</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_weapon_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan broni, któr¹ gracz niesie na plecach (w polu broni w ekwipunku) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.
-		\n \nTym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan broni, któr¹ gracz niesie na plecach (w polu broni w ekwipunku) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.\n\n
+		Tym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_weapon_factor">
 		<text>Wspó³cz. podejrzliwoœci broni gracza</text>
@@ -1260,11 +1247,8 @@
 		<text>Rozwa¿aj strój gracza</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_outfit_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan stroju noszonego przez gracza (w polu kombinezonu w ekwipunku) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.
-		\n \nTym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.
-		\n \n%c[pda_green]Dobra rada:%c[ui_gray_2]
-		\nStan stroju to istotny element systemu podszywania siê. W zniszczonych ciuchach mo¿esz zwracaæ na siebie niepotrzebn¹ uwagê.
-		</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan stroju noszonego przez gracza (w polu kombinezonu w ekwipunku) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.\n
+		%c[0,255,255,255]Dobra rada:%c[ui_gray_2] Stan stroju to istotny element systemu podszywania siê. W zniszczonych ciuchach mo¿esz zwracaæ na siebie niepotrzebn¹ uwagê.</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_outfit_factor">
 		<text>Wspó³cz. podejrzliwoœci stroju gracza</text>
@@ -1273,10 +1257,8 @@
 		<text>Rozwa¿aj nakrycie g³owy gracza</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_helmet_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan noszonego nakrycia g³owy (osobnego, lub zintegrowanego ze strojem) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.
-		\n \nTym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.
-		\n \n%c[pda_green]Dobra rada:%c[ui_gray_2]
-		\nNakrycie g³owy to istotny element systemu podszywania siê. W koñcu zas³ania twoj¹ twarz.
+		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan noszonego nakrycia g³owy (osobnego, lub zintegrowanego ze strojem) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.\n
+		%c[0,255,255,255]Dobra rada:%c[ui_gray_2] Nakrycie g³owy to istotny element systemu podszywania siê. W koñcu zas³ania twoj¹ twarz.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_helmet_factor">
@@ -1286,11 +1268,8 @@
 		<text>Rozwa¿aj plecak gracza</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_backpack_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan noszonego plecaka (w polu plecaka w ekwipunku) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.
-		\n \nTym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.
-		\n \n%c[pda_green]Dobra rada:%c[ui_gray_2]
-		\nDu¿e plecaki to du¿o niepotrzebnej uwagi.
-		\nTen wspó³czynnik ma niewielki wp³yw na ca³y system.
+		<text>W³¹czenie tej opcji sprawi, ¿e typ i stan noszonego plecaka (w polu plecaka w ekwipunku) bêdzie przez NPC brany pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.\n
+		%c[0,255,255,255]Dobra rada:%c[ui_gray_2] Du¿e plecaki to du¿o niepotrzebnej uwagi, ale ten wspó³czynnik ma niewielki wp³yw na ca³y system.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_backpack_factor">
@@ -1300,11 +1279,8 @@
 		<text>Rozwa¿aj ekwipunek gracza</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_inventory_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e iloœæ, waga i wielkoœæ przedmiotów znajduj¹cych siê w ekwipunku gracza bêd¹ przez NPC brane pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.
-		\n \nTym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.
-		\n \n%c[pda_green]Dobra rada:%c[ui_gray_2]
-		\nNoszenie ze sob¹ zbyt wielu przedmiotów oznacza przeci¹¿ony, prze³adowany plecak. Zabieraj ze sob¹ tylko niezbêdne przedmioty i nie przenoœ zbyt wielu broni.
-		\nTen wspó³czynnik ma niewielki wp³yw na ca³y system.
+		<text>W³¹czenie tej opcji sprawi, ¿e iloœæ, waga i wielkoœæ przedmiotów znajduj¹cych siê w ekwipunku gracza bêd¹ przez NPC brane pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.\n\n
+		%c[0,255,255,255]Dobra rada:%c[ui_gray_2] Noszenie ze sob¹ zbyt wielu przedmiotów oznacza przeci¹¿ony, prze³adowany plecak. Zabieraj ze sob¹ tylko niezbêdne przedmioty i nie przenoœ zbyt wielu broni, ale ten wspó³czynnik ma niewielki wp³yw na ca³y system.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_inventory_factor">
@@ -1314,10 +1290,8 @@
 		<text>Rozwa¿aj ruchy gracza</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_speed_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e sposób i szybkoœæ poruszania siê gracza bêd¹ przez NPC brane pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.
-		\n \nTym wspó³czynnikiem mo¿esz regulowaæ, jak du¿y wp³yw bêdzie on mia³ na twoj¹ zdolnoœæ podszywania siê.
-		\n \n%c[pda_green]Dobra rada:%c[ui_gray_2]
-		\nPrzestañ biegaæ!
+		<text>W³¹czenie tej opcji sprawi, ¿e sposób i szybkoœæ poruszania siê gracza bêd¹ przez NPC brane pod uwagê, co wp³ynie na ³¹czny wskaŸnik podejrzliwoœci.\n
+		%c[0,255,255,255]Dobra rada:%c[ui_gray_2] Staraj siê wtopiæ w otoczenie. Nie biegaj i nie skacz, gdy w pobli¿u znajduj¹ siê postacie niezale¿ne.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_speed_factor">
@@ -1328,7 +1302,6 @@
 	</string>
 	<string id="ui_mm_gameplay_disguise_distance_desc">
 		<text>W³¹czenie tej opcji sprawi, ¿e zbli¿anie siê do NPC (poni¿ej bezpiecznej odleg³oœci) pozwoli im lepiej przyjrzeæ siê graczowi.
-		\n \nModyfikuj¹c wartoœæ minimalnej bezpiecznej odleg³oœci mo¿esz okreœliæ, jak du¿y wp³yw bêdzie ona mia³a na twoj¹ zdolnoœæ podszywania siê.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_distance_factor">
@@ -1338,10 +1311,8 @@
 		<text>Rozwa¿aj przebywanie gracza na widoku</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_stay_time_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e przebywanie w pobli¿u NPC (przekraczaj¹c bezpieczny czas przebywania) pozwoli im lepiej przyjrzeæ siê graczowi.
-		\n \nModyfikuj¹c wartoœæ maksymalnego bezpiecznego czasu przebywania mo¿esz okreœliæ, jak du¿y wp³yw bêdzie ona mia³a na twoj¹ zdolnoœæ podszywania siê.
-		%c[pda_green]Dobra rada:%c[ui_gray_2]\n
-		Czynnik ten obejmuje czas spêdzony na rozmowie, wiêc nie nale¿y zbyt d³ugo zwlekaæ.
+		<text>W³¹czenie tej opcji sprawi, ¿e przebywanie w pobli¿u NPC (przekraczaj¹c bezpieczny czas przebywania) pozwoli im lepiej przyjrzeæ siê graczowi.\n\n
+		%c[0,255,255,255]Dobra rada:%c[ui_gray_2] Czynnik ten obejmuje czas spêdzony na rozmowie, wiêc nie nale¿y zbyt d³ugo zwlekaæ.
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_stay_time_factor">
@@ -1428,9 +1399,8 @@
 		<text>Wspó³czynnik iloœci stalkerów</text>
 	</string>
 	<string id="ui_mm_alife_general_alife_stalker_pop_desc">
-		<text>Mno¿nik spawnu stalkerów. Im wiêksza liczba, tym wiêcej stalkerów bêdzie przebywaæ w Zonie.
-		\n \n%c[pda_yellow]Uwaga:%c[ui_gray_2]
-		\nNajbardziej zauwa¿aln¹ zmianê widaæ przy rozpoczêciu nowej gry. Efekt modyfikacji tego wspó³czynnika w trakcie rozgrywki mo¿e staæ siê zauwa¿alny po jakimœ czasie ze wzglêdu na stalkerów ju¿ znajduj¹cych siê w Zonie.
+		<text>Mno¿nik spawnu stalkerów. Im wiêksza liczba, tym wiêcej stalkerów bêdzie przebywaæ w Zonie.\n\n
+		%c[0,255,255,255]Uwaga:%c[ui_gray_2] Najbardziej zauwa¿aln¹ zmianê widaæ przy rozpoczêciu nowej gry. Efekt modyfikacji tego wspó³czynnika w trakcie rozgrywki mo¿e staæ siê zauwa¿alny po jakimœ czasie ze wzglêdu na stalkerów ju¿ znajduj¹cych siê w Zonie.
 		</text>
 	</string>
 	<string id="ui_mm_alife_general_alife_mutant_pop">
@@ -1446,36 +1416,35 @@
 		<text>Walka offline</text>
 	</string>
 	<string id="ui_mm_alife_general_offline_combat_desc">
-		<text>Ta opcja zwiêksza dynamiczny aspekt A-life, pozwalaj¹c stalkerom w innych czêœciach Zony walczyæ z wrogami.
-		Mo¿e wp³yn¹æ na populacjê stalkerów i mutantów, zale¿nie od wyników bitew.
-		\n \n%c[pda_yellow]Uwaga:%c[ui_gray_2]
-		\n%c[ui_gray_1]•%c[ui_gray_2] Kiedy opcja dynamicznych relacji jest aktywna, walka offline odgrywa du¿¹ rolê w zmianie relacji ze wzglêdu na bitwy tocz¹ce siê miêdzy cz³onkami frakcji.
-		\n%c[ui_gray_1]•%c[ui_gray_2] Ta funkcja dzia³a we wszystkich trybach gry, w³¹czaj¹c Wojny Frakcji.
-		\n%c[ui_gray_1]•%c[ui_gray_2] Ta funkcja mo¿e w pewnym stopniu zmniejszyæ populacjê Zony. Nie w³¹czaj jej, jeœli chcesz mieæ Zonê pe³n¹ ¿ycia.
+		<text>Ta opcja zwiêksza dynamiczny aspekt A-life, pozwalaj¹c stalkerom w innych czêœciach Zony walczyæ z wrogami. Mo¿e wp³yn¹æ na populacjê stalkerów i mutantów, zale¿nie od wyników bitew.\n\n
+		%c[0,255,255,255]Uwaga:%\n
+		•%c[ui_gray_2] Kiedy opcja dynamicznych relacji jest aktywna, walka offline odgrywa du¿¹ rolê w zmianie relacji ze wzglêdu na bitwy tocz¹ce siê miêdzy cz³onkami frakcji.\n
+		%c[0,255,255,255]•%c[ui_gray_2] Ta funkcja dzia³a we wszystkich trybach gry, w³¹czaj¹c Wojny Frakcji.\n
+		%c[0,255,255,255]•%c[ui_gray_2] Ta funkcja mo¿e w pewnym stopniu zmniejszyæ populacjê Zony. Nie w³¹czaj jej, jeœli chcesz mieæ Zonê pe³n¹ ¿ycia.
 		</text>
 	</string>
 	<string id="ui_mm_alife_general_excl_dist">
 		<text>Promieñ wykluczenia</text>
 	</string>
 	<string id="ui_mm_alife_general_excl_dist_desc">
-		<text>Oddzia³y nie pojawi¹ siê, jeœli ich punkty spawnu (smart terrains) znajd¹ siê wewn¹trz promienia wykluczenia gracza.
-		\nCelem tej funkcji jest wykluczenie dziwnego spawnu tu¿ przed oczami/za plecami gracza.
+		<text>Oddzia³y nie pojawi¹ siê, jeœli ich punkty spawnu (smart terrains) znajd¹ siê wewn¹trz promienia wykluczenia gracza.\n
+		Celem tej funkcji jest wykluczenie dziwnego spawnu tu¿ przed oczami/za plecami gracza.
 		</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_anomalies">
 		<text>Dynamiczne anomalie</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_anomalies_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e emisje mog¹ wp³yn¹æ na wszystkie anomalie w Zonie.
-		\nAnomalie mog¹ pojawiaæ siê lub znikaæ po ka¿dej emisji.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e emisje mog¹ wp³yn¹æ na wszystkie anomalie w Zonie.\n
+		Anomalie mog¹ pojawiaæ siê lub znikaæ po ka¿dej emisji.</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_relations">
 		<text>Dynamiczne relacje miêdzy frakcjami</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_relations_desc">
-		<text>W³¹czenie tej opcji sprawi, ¿e relacje miêdzy frakcjami mog¹ siê zmieniaæ (na lepsze lub gorsze) ze wzglêdu na bitwy tocz¹ce siê w Zonie.
-		\nŒmieræ wspólnych wrogów mo¿e wp³yn¹æ na relacje pozytywnie. Œmieræ sojuszników przeciwnie.
-		\nStopieñ zmiany relacji zale¿y od tego, jak wa¿n¹ rolê we frakcji odgrywa³y ofiary.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e relacje miêdzy frakcjami mog¹ siê zmieniaæ (na lepsze lub gorsze) ze wzglêdu na bitwy tocz¹ce siê w Zonie.\n
+		Œmieræ wspólnych wrogów mo¿e wp³yn¹æ na relacje pozytywnie. Œmieræ sojuszników przeciwnie.\n
+		Stopieñ zmiany relacji zale¿y od tego, jak wa¿n¹ rolê we frakcji odgrywa³y ofiary.</text>
 	</string>
 	<string id="ui_mm_alife_general_war_goodwill_reset">
 		<text>Zresetuj przychylnoœæ z wrogimi frakcjami</text>
@@ -1595,113 +1564,98 @@
 		<text>Losowa lokacja startowa</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_starting_locations_desc">
-		<text>PL: Losowa lokacja startowa.
-		\nW³¹czenie tej opcji sprawi, ¿e gracz pojawi siê w losowej bazie w Zonie. Ka¿da inna baza zostanie zaludniona za pomoc¹ opcji random_stalker_chance i random_mutant_chance.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e gracz pojawi siê w losowej bazie w Zonie. Ka¿da inna baza zostanie zaludniona za pomoc¹ opcji random_stalker_chance i random_mutant_chance.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_starting_character">
 		<text>Losowa postaæ startowa</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_starting_character_desc">
-		<text>PL: Losowa postaæ startowa.
-		\nW³¹czenie tej opcji sprawi, ¿e gra dobierze losowo nazwê i frakcjê gracza po rozpoczêciu nowej gry; najlepiej u¿ywaæ w po³¹czeniu z opcj¹ random_starting_location.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e gra dobierze losowo nazwê i frakcjê gracza po rozpoczêciu nowej gry; najlepiej u¿ywaæ w po³¹czeniu z opcj¹ random_starting_location.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_stalker_chance">
 		<text>Mo¿liwoœæ pojawienia siê stalkerów</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_stalker_chance_desc">
-		<text>PL: Mo¿liwoœæ pojawienia siê stalkerów.
-		\nOznacza szansê (miêdzy 0 a 100) pojawienia siê pojedynczego oddzia³u stalkerów w bazie lub punkcie zasobów, gdy jest aktywna opcja random_starting_location. Jeœli baza/punkt ma maksymaln¹ populacjê ustawion¹ na 2, a random_stalker_chance jest ustawione na 50, jest 50% szansy, ¿e pojawi siê w niej pierwszy oddzia³ i 50% szansy, ¿e pojawi siê w niej drugi oddzia³.</text>
+		<text>Oznacza szansê (miêdzy 0 a 100) pojawienia siê pojedynczego oddzia³u stalkerów w bazie lub punkcie zasobów, gdy jest aktywna opcja random_starting_location. Jeœli baza/punkt ma maksymaln¹ populacjê ustawion¹ na 2, a random_stalker_chance jest ustawione na 50, jest 50% szansy, ¿e pojawi siê w niej pierwszy oddzia³ i 50% szansy, ¿e pojawi siê w niej drugi oddzia³.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_monster_chance">
 		<text>Losowa mo¿liwoœæ pojawienia siê mutantów</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_monster_chance_desc">
-		<text>PL: Mo¿liwoœæ pojawienia siê mutantów.
-		\nOznacza szansê (miêdzy 0 a 100) pojawienia siê mutantów w punkcie terytorium (territory point), gdy opcja random_starting_locations jest aktywna. Pojawi siê tylko jeden mutant na punkt.</text>
+		<text>nOznacza szansê (miêdzy 0 a 100) pojawienia siê mutantów w punkcie terytorium (territory point), gdy opcja random_starting_locations jest aktywna. Pojawi siê tylko jeden mutant na punkt.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture">
 		<text>W³¹cz automatyczne przechwytywanie.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_desc">
-		<text>PL: W³¹cz automatyczne przechwytywanie.
-		\nW³¹czenie tej opcji sprawi, ¿e gracz bêdzie w stanie przechwyciæ punkty stoj¹c w odleg³oœci okreœlonej przez auto_capture_distance w czasie okreœlonym przez auto_capture_time. Jeœli stoisz w pobli¿u kilku punktów, zostanie wybrana najbli¿sza baza, po niej kolejne i w koñcu punkty zasobów; punkty terytorium (territory points) nie s¹ przechwytywane automatycznie.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e gracz bêdzie w stanie przechwyciæ punkty stoj¹c w odleg³oœci okreœlonej przez auto_capture_distance w czasie okreœlonym przez auto_capture_time. Jeœli stoisz w pobli¿u kilku punktów, zostanie wybrana najbli¿sza baza, po niej kolejne i w koñcu punkty zasobów; punkty terytorium (territory points) nie s¹ przechwytywane automatycznie.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_max_distance">
 		<text>Maks. dystans auto. przechwytywania.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_max_distance_desc">
-		<text>PL: Maksymalny dystans automatycznego przechwytywania.
-		\nPunkty znajduj¹ce siê w mniejszej b¹dŸ równej okreœlonej odleg³oœci od gracza zostan¹ automatycznie przejête; jeœli odleg³oœæ miêdzy graczem a przechwytywanym punktem siê zwiêkszy, przestanie on byæ przechwytywany.</text>
+		<text>Punkty znajduj¹ce siê w mniejszej b¹dŸ równej okreœlonej odleg³oœci od gracza zostan¹ automatycznie przejête; jeœli odleg³oœæ miêdzy graczem a przechwytywanym punktem siê zwiêkszy, przestanie on byæ przechwytywany.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_wait_time">
 		<text>Czas automatycznego przechwytywania</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_wait_time_desc">
-		<text>PL: Czas automatycznego przechwytywania.
-		\nIloœæ czasu (w minutach czasu gry) potrzebna do przechwycenia punktu rêcznie.</text>
+		<text>Iloœæ czasu (w minutach czasu gry) potrzebna do przechwycenia punktu rêcznie.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_fog_of_war">
 		<text>W³¹cz Mg³ê Wojny</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_fog_of_war_desc">
-		<text>PL: Mg³a Wojny.
-		\nW³¹czenie tej opcji sprawi, ¿e wszystko poni¿ej zasiêgu fog_of_war_distance wzglêdem gracza lub innego dowolnego oddzia³u tej samej frakcji bêdzie widoczne. Funkcje show_unfriendly_squads i hide_smarts zadzia³aj¹ niezale¿nie, czy obiekty bêd¹ widoczne w PDA.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e wszystko poni¿ej zasiêgu fog_of_war_distance wzglêdem gracza lub innego dowolnego oddzia³u tej samej frakcji bêdzie widoczne. Funkcje show_unfriendly_squads i hide_smarts zadzia³aj¹ niezale¿nie, czy obiekty bêd¹ widoczne w PDA.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_fog_of_war_distance">
 		<text>Odleg³oœæ Mg³y Wojny</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_fog_of_war_distance_desc">
-		<text>PL: Odleg³oœæ Mg³y Wojny.
-		\nGdy opcja fog_of_war jest w³¹czona, wszystko poni¿ej tej wartoœci wzglêdem gracza lub innego dowolnego oddzia³u tej samej frakcji bêdzie widoczne. Funkcje show_unfriendly_squads i hide_smarts zadzia³aj¹ niezale¿nie, czy obiekty bêd¹ widoczne w PDA.</text>
+		<text>Gdy opcja fog_of_war jest w³¹czona, wszystko poni¿ej tej wartoœci wzglêdem gracza lub innego dowolnego oddzia³u tej samej frakcji bêdzie widoczne. Funkcje show_unfriendly_squads i hide_smarts zadzia³aj¹ niezale¿nie, czy obiekty bêd¹ widoczne w PDA.\n
+		%c[0,255,255,255]Dobra rada:%c[ui_gray_2] show_unfriendly_squads i hide_smarts nadal bêdzie mieæ wp³yw na to, czy obiekt jest wyœwietlany na PDA.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_hide_unfriendly_squads">
 		<text>Ukryj oddzia³y wroga</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_hide_unfriendly_squads_desc">
-		<text>PL: Ukryj oddzia³y wroga.
-		\nW³¹czenie tej opcji sprawi, ¿e oddzia³y neutralne i wrogowie nie bêd¹ wyœwietlani w PDA.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e oddzia³y neutralne i wrogowie nie bêd¹ wyœwietlani w PDA.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_hide_smarts">
 		<text>Ukryj smart terrains</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_hide_smarts_desc">
-		<text>PL: Ukryj smart terrains.
-		\nW³¹czenie tej opcji sprawi, ¿e ikony smart terrain nie bêd¹ wyœwietlane w PDA. Cele frakcji gracza bêd¹ wci¹¿ wyœwietlane w PDA.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e ikony smart terrain nie bêd¹ wyœwietlane w PDA. Cele frakcji gracza bêd¹ wci¹¿ wyœwietlane w PDA.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_hide_underground_smarts">
 		<text>Ukryj smart ter. podziemi na mapie</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_hide_underground_smarts_desc">
-		<text>PL: Ukryj smart terrains podziemi na mapie.
-		\nW³¹czenie tej opcji sprawi, ¿e smart terrains znajduj¹ce siê w podziemnych lokacja nie bêd¹ wyœwietlane w PDA</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e smart terrains znajduj¹ce siê w podziemnych lokacja nie bêd¹ wyœwietlane w PDA</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enemy_new_game_bonus">
 		<text>W³. bonus startowy oddzia³ów wroga</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enemy_new_game_bonus_desc">
-		<text>PL: Bonus startowy oddzia³ów wroga.
-		\nW³¹czenie tej opcji sprawi, ¿e oddzia³y wroga bêd¹ mia³y wiêksz¹ pocz¹tkow¹ liczbê cz³onków, gdy oddzia³y neutralne i sojuszników bêd¹ mia³y mniejsz¹ pocz¹tkow¹ liczbê cz³onków.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e oddzia³y wroga bêd¹ mia³y wiêksz¹ pocz¹tkow¹ liczbê cz³onków, gdy oddzia³y neutralne i sojuszników bêd¹ mia³y mniejsz¹ pocz¹tkow¹ liczbê cz³onków.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enemy_base_boost">
 		<text>Wiêcej baz wroga</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enemy_base_boost_desc">
-		<text>PL: Wiêcej baz wroga.
-		\nWszystkie frakcje wrogie wobec frakcji gracza bêd¹ traktowane tak, jakby posiada³y okreœlon¹ liczbê baz wiêcej, ni¿ w rzeczywistoœci.</text>
+		<text>Wszystkie frakcje wrogie wobec frakcji gracza bêd¹ traktowane tak, jakby posiada³y okreœlon¹ liczbê baz wiêcej, ni¿ w rzeczywistoœci.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enemy_resource_boost">
 		<text>Wiêksze zasoby wroga</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enemy_resource_boost_desc">
-		<text>PL: Wiêksze zasoby wroga.
-		\nWszystkie frakcje wrogie wobec frakcji gracza bêd¹ traktowane tak, jakby posiada³y okreœlon¹ liczbê zasobów wiêcej, ni¿ w rzeczywistoœci. Zasoby maj¹ wp³yw na czas respawnu oddzia³ów defensywnych / ofensywnych / patrolowych i na umiejêtnoœci spawnowanych oddzia³ów; wiêkszy wskaŸnik zasobów oznacza krótszy czas respawnu silniejszych oddzia³ów.</text>
+		<text>Wszystkie frakcje wrogie wobec frakcji gracza bêd¹ traktowane tak, jakby posiada³y okreœlon¹ liczbê zasobów wiêcej, ni¿ w rzeczywistoœci. Zasoby maj¹ wp³yw na czas respawnu oddzia³ów defensywnych / ofensywnych / patrolowych i na umiejêtnoœci spawnowanych oddzia³ów; wiêkszy wskaŸnik zasobów oznacza krótszy czas respawnu silniejszych oddzia³ów.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_actor_influence_weight">
 		<text>Waga wp³ywu postaci gracza</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_actor_influence_weight_desc">
-		<text>PL: Waga wp³ywu postaci gracza. (?)
-		\nJaki priorytet ka¿dy punkt wp³ywu dodaje do celu. Standardowo numery priorytetu wahaj¹ siê od 1 do 10; wiêksza liczba oznacza wiêksze prawdopodobieñstwo, ¿e punkty wp³ywu zostan¹ dodane do celu.</text>
+		<text>nJaki priorytet ka¿dy punkt wp³ywu dodaje do celu. Standardowo numery priorytetu wahaj¹ siê od 1 do 10; wiêksza liczba oznacza wiêksze prawdopodobieñstwo, ¿e punkty wp³ywu zostan¹ dodane do celu.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_novice_squad_price">
 		<text>Cena oddzia³u wsparcia nowicjuszy</text>
@@ -1731,64 +1685,55 @@
 		<text>Nagroda za rangê pokonanego przeciwnika</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight_desc">
-		<text>PL: Nagroda za rangê pokonanego przeciwnika.
-		\nKiedy zabijesz wroga, otrzymasz nagrodê wg. wzoru: actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)</text>
+		<text>Kiedy zabijesz wroga, otrzymasz nagrodê wg. wzoru: actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_actor_support_reward_money">
 		<text>Nagroda pieniê¿na</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_actor_support_reward_money_desc">
-		<text>PL: Nagroda pieniê¿na.
-		\nKiedy zabijesz wroga, otrzymasz nagrodê wg. wzoru: actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)</text>
+		<text>Kiedy zabijesz wroga, otrzymasz nagrodê wg. wzoru: actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_actor_support_reward_influence">
 		<text>Nagroda w punktach wp³ywu</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_actor_support_reward_influence_desc">
-		<text>PL: Nagroda w punktach wp³ywu.
-		\nKiedy zabijesz wroga, otrzymasz w nagrodê wskazan¹ tutaj iloœæ punktów wp³ywu.</text>
+		<text>Kiedy zabijesz wroga, otrzymasz w nagrodê wskazan¹ tutaj iloœæ punktów wp³ywu.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level">
 		<text>Maks. liczba mutantów na poziom</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level_desc">
-		<text>PL: Maksymalna liczba mutantów na poziom.
-		\nKiedy liczba mutantów na poziomie bêdzie mniejsza od wskazanej, pojawi¹ siê na nim (w niezajêtych punktach i le¿ach) inne mutanty wed³ug ustawieñ monster_min_faction_respawn i monster_max_faction_respawn.</text>
+		<text>Kiedy liczba mutantów na poziomie bêdzie mniejsza od wskazanej, pojawi¹ siê na nim (w niezajêtych punktach i le¿ach) inne mutanty wed³ug ustawieñ monster_min_faction_respawn i monster_max_faction_respawn.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn">
 		<text>Min. czas respawnu mutantów</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn_desc">
-		<text>PL: Minimalny czas respawnu mutantów.
-		\nNajmniejsza iloœæ czasu, który musi min¹æ zanim w le¿u lub niezajêtej bazie/zasobie pojawi¹ siê mutanty, o ile jest ich mniej ni¿ w monster_max_squads_per_level.</text>
+		<text>Najmniejsza iloœæ czasu, który musi min¹æ zanim w le¿u lub niezajêtej bazie/zasobie pojawi¹ siê mutanty, o ile jest ich mniej ni¿ w monster_max_squads_per_level.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn">
 		<text>Maks. czas respawnu mutantów</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn_desc">
-		<text>PL: Maksymalny czas respawnu mutantów.
-		\nMaksymalna iloœæ czasu, który musi min¹æ zanim w le¿u lub niezajêtej bazie/zasobie pojawi¹ siê mutanty, o ile jest ich mniej ni¿ w monster_max_squads_per_level.</text>
+		<text>Maksymalna iloœæ czasu, który musi min¹æ zanim w le¿u lub niezajêtej bazie/zasobie pojawi¹ siê mutanty, o ile jest ich mniej ni¿ w monster_max_squads_per_level.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_zombies_act_as_faction">
 		<text>Zombie traktowani jak frakcja</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_zombies_act_as_faction_desc">
-		<text>PL: Zombie traktowani jak frakcja.
-		\nW³¹czenie tej opcji sprawi, ¿e zzombifikowani stalkerzy bêd¹ brali udzia³ w wojnach frakcji.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e zombifikowani stalkerzy bêd¹ brali udzia³ w wojnach frakcji.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat">
 		<text>W³. walki mutantów offline</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat_desc">
-		<text>PL: W³¹cz walki mutantów offline.
-		\nW³¹czenie tej opcji sprawi, ¿e mutanty bêd¹ bra³y udzia³ w walkach offline. Gdy opcja jest wy³¹czona, obecnoœæ mutantów w Zonie jest bardziej znacz¹ca.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e mutanty bêd¹ bra³y udzia³ w walkach offline. Gdy opcja jest wy³¹czona, obecnoœæ mutantów w Zonie jest bardziej znacz¹ca.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_disable_smart_pop_cap">
 		<text>Wy³. nak³adkê populacji smart</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_disable_smart_pop_cap_desc">
-		<text>PL: Wy³¹cz nak³adkê populacji smart.
-		\nW³¹czenie tej opcji sprawi, ¿e smart terrains nie bêdzie automatycznie usuwa³ nadmiarowych oddzia³ów.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e smart terrains nie bêdzie automatycznie usuwa³ nadmiarowych oddzia³ów.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_purge_zone_on_emission">
 		<text>Oczyœæ Zonê w czasie Emisji</text>
@@ -1833,8 +1778,7 @@
 		<text>Agresja ekspansywna</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_expansion_aggression_desc">
-		<text>PL: Agresja ekspansywna.
-		\nZawsze, kiedy baza ma mniej celów ni¿ powinna i uruchomiony zostanie process_targets, zostanie wygenerowana losowa liczba od 0 do 100. Jeœli liczba ta bêdzie mniejsza b¹dŸ równa wskaŸnikowi expansion_aggression, frakcja wybierze nowy cel. W innym wypadku frakcja nie wybierze ¿adnych nowych celów.</text>
+		<text>Zawsze, kiedy baza ma mniej celów ni¿ powinna i uruchomiony zostanie process_targets, zostanie wygenerowana losowa liczba od 0 do 100. Jeœli liczba ta bêdzie mniejsza b¹dŸ równa wskaŸnikowi expansion_aggression, frakcja wybierze nowy cel. W innym wypadku frakcja nie wybierze ¿adnych nowych celów.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_night_activity_chance">
 		<text>Mo¿liwoœæ nocnej aktywnoœci</text>
@@ -1847,15 +1791,13 @@
 		<text>Min. czas respawnu</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_faction_respawn_desc">
-		<text>PL: Minimalny czas respawnu.
-		\nNajmniejsza iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ defensywny. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu defensywy w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy minimum a maximum faction respawn time z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+		<text>Najmniejsza iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ defensywny. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu defensywy w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy minimum a maximum faction respawn time z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_faction_respawn">
 		<text>Maks. czas respawnu</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_faction_respawn_desc">
-		<text>PL: Maksymalny czas respawnu.
-		\nMaksymalna iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ defensywny. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu defensywy w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy min_faction_respawn a max_faction_respawn z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn </text>
+		<text>Maksymalna iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ defensywny. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu defensywy w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy min_faction_respawn a max_faction_respawn z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn </text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_keep_last_base">
 		<text>Utrzymaj ostatni¹ bazê</text>
@@ -1865,17 +1807,13 @@
 		<text>Wspó³czynnik najmn. populacji inwazji</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_invasion_size_desc">
-		<text>PL: Wspó³czynnik najmniejszej populacji inwazji.
-		\nTen mno¿nik u¿ywany jest razem z max_invasion_size i liczb¹ baz, które frakcja posiada w celu obliczenia koñcowego invasion_size. To wspó³czynnik dla smart terrains max_population wiêc wspó³czynnik iloœci stalkerów z opcji rozgrywki wp³ynie na koñcowy wynik invasion_size.
-		\nWzór: Current invasion size = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). Current invasion population = min(1, target.max_population * Current invasion size)</text>
+		<text>Ten mno¿nik u¿ywany jest razem z max_invasion_size i liczb¹ baz, które frakcja posiada w celu obliczenia koñcowego invasion_size. To wspó³czynnik dla smart terrains max_population wiêc wspó³czynnik iloœci stalkerów z opcji rozgrywki wp³ynie na koñcowy wynik invasion_size. Wzór: Current invasion size = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). Current invasion population = min(1, target.max_population * Current invasion size)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_invasion_size">
 		<text>Wspó³czynnik najw. populacji inwazji</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_invasion_size_desc">
-		<text>PL: Wspó³czynnik najwiêkszej populacji inwazji.
-		\nTen mno¿nik u¿ywany jest razem z max_invasion_size i liczb¹ baz, które frakcja posiada w celu obliczenia koñcowego invasion_size. To wspó³czynnik dla smart terrains max_population wiêc wspó³czynnik iloœci stalkerów z opcji rozgrywki wp³ynie na koñcowy wynik invasion_size.
-		\nWzór: Current invasion size = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). Current invasion population = min(1, target.max_population * Current invasion size)</text>
+		<text>Ten mno¿nik u¿ywany jest razem z max_invasion_size i liczb¹ baz, które frakcja posiada w celu obliczenia koñcowego invasion_size. To wspó³czynnik dla smart terrains max_population wiêc wspó³czynnik iloœci stalkerów z opcji rozgrywki wp³ynie na koñcowy wynik invasion_size. Wzór: Current invasion size = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). Current invasion population = min(1, target.max_population * Current invasion size)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_invasion_depart_time">
 		<text>Min. czas wyruszenia inwazji</text>
@@ -1888,29 +1826,25 @@
 		<text>Min. wspó³czynnik populacji patroli</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_patrol_squads_desc">
-		<text>PL: Minimalny wspó³czynnik populacji patroli.
-		\nKiedy frakcja nie posiada baz, ka¿da baza powinna (teoretycznie) posiadaæ iloœæ patroli wg. wzoru: min_patrol_squads * max_population. Current patrol squad factor = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Current allowed patrols quads = base.max_population * current patrol squad factor.</text>
+		<text>Kiedy frakcja nie posiada baz, ka¿da baza powinna (teoretycznie) posiadaæ iloœæ patroli wg. wzoru: min_patrol_squads * max_population. Current patrol squad factor = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Current allowed patrols quads = base.max_population * current patrol squad factor.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_patrol_squads">
 		<text>Maks. wspó³czynnik populacji patroli</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_patrol_squads_desc">
-		<text>PL: Maksymalny wspó³czynnik populacji patroli.
-		\nKiedy frakcja nie posiada baz, ka¿da baza powinna (teoretycznie) posiadaæ iloœæ patroli wg. wzoru: max_patrol_squads * max_population. Current patrol squad factor = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Current allowed patrols quads = base.max_population * current patrol squad factor.</text>
+		<text>Kiedy frakcja nie posiada baz, ka¿da baza powinna (teoretycznie) posiadaæ iloœæ patroli wg. wzoru: max_patrol_squads * max_population. Current patrol squad factor = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Current allowed patrols quads = base.max_population * current patrol squad factor.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_patrol_time">
 		<text>Min. czas patrolu</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_patrol_time_desc">
-		<text>PL: Minimalny czas patrolu.
-		\nNajmniejsza iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ patrolowy. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu oddzia³u patrolowego w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy min_patrol_time and max_patrol_time z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time.</text>
+		<text>Najmniejsza iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ patrolowy. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu oddzia³u patrolowego w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy min_patrol_time and max_patrol_time z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_patrol_time">
 		<text>Maks. czas patrolu</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_patrol_time_desc">
-		<text>PL: Maksymalny czas patrolu.
-		\nNajwiêksza iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ patrolowy. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu oddzia³u patrolowego w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy min_patrol_time and max_patrol_time z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time</text>
+		<text>Najwiêksza iloœæ czasu, który musi up³yn¹æ, zanim w bazie pojawi siê oddzia³ patrolowy. WskaŸnik ten, razem z dostêpnymi zasobami ustala czas respawnu oddzia³u patrolowego w bazie. Dostêpne zasoby ustalane s¹ na podstawie wzoru: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Czas respawnu w bazie ustalany jest przez wybór wartoœci miêdzy min_patrol_time and max_patrol_time z wspó³czynnikiem resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_patrol_hunt_chance">
 		<text>Mo¿liwoœæ tropienia patrolu</text>
@@ -1940,22 +1874,19 @@
 		<text>Losowa iloœæ cz³onków oddzia³u</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_random_squad_count_desc">
-		<text>PL: Losowa iloœæ cz³onków oddzia³u/
-		\nW³¹czenie tej opcji sprawi, ¿e ka¿dy oddzia³ tej frakcji bêdzie posiada³ losow¹ liczbê cz³onków NPC pomiêdzy min_random_squad_count a max_random_squad_count.</text>
+		<text>W³¹czenie tej opcji sprawi, ¿e ka¿dy oddzia³ tej frakcji bêdzie posiada³ losow¹ liczbê cz³onków NPC pomiêdzy min_random_squad_count a max_random_squad_count.</text>
 	</string>	
 	<string id="ui_mm_alife_warfare_faction_min_random_squad_count">
 		<text>Min. liczba cz³onków oddzia³u</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_random_squad_count_desc">
-		<text>PL: Minimalna liczba cz³onków oddzia³u.
-		\nGdy opcja random_squad_count jest w³¹czona, to jest minimalna liczba cz³onków NPC, któr¹ bêdzie posiada³ oddzia³ tej frakcji.</text>
+		<text>Gdy opcja random_squad_count jest w³¹czona, to jest minimalna liczba cz³onków NPC, któr¹ bêdzie posiada³ oddzia³ tej frakcji.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_random_squad_count">
 		<text>Maks. liczba cz³onków oddzia³u</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_random_squad_count_desc">
-		<text>PL: Maksymalna liczba cz³onków oddzia³u.
-		\nGdy opcja random_squad_count jest w³¹czona, to jest maksymalna liczba cz³onków NPC, któr¹ bêdzie posiada³ oddzia³ tej frakcji.</text>
+		<text>Gdy opcja random_squad_count jest w³¹czona, to jest maksymalna liczba cz³onków NPC, któr¹ bêdzie posiada³ oddzia³ tej frakcji.</text>
 	</string>
 	
 	<string id="ui_mm_alife_warfare_faction_random_patrols">
@@ -1975,8 +1906,7 @@
 		<text>Mo¿liwoœæ wyruszenia inwazji.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_invasion_departure_chance_desc">
-		<text>PL: Mo¿liwoœæ wyruszenia inwazji.
-		\nMo¿liwoœæ, ¿e inwazja wyruszy w czasie obecnej aktualizacji process_targets. Odbywa siê co 1 - 5 minut czasu gry.</text>
+		<text>Mo¿liwoœæ, ¿e inwazja wyruszy w czasie obecnej aktualizacji process_targets. Odbywa siê co 1 - 5 minut czasu gry.</text>
 	</string>
 	
 	<string id="ui_mm_alife_warfare_faction_base_priority">
@@ -2394,9 +2324,9 @@
 	<string id="ui_mm_other_debug_error_desc">
 		<text>Pokazuje powiadomienie na HUD, jeœli w konsoli zostanie zarejestrowany b³¹d.</text>
 	</string>
-
-
-
+	
+	
+	
 	<string id="st_sk_desc">
 		<text>Funkcja eksperymentalna umo¿liwiaj¹ca ciche zabijanie nieœwiadomych NPCów.\n
 		Aby wykonaæ ciche zabójstwo, musisz trafiæ NPC odpowiedni¹ broni¹ (domyœlnie no¿em Specnazu lub strza³em w g³owê z wyciszonego pistoletem), inny NPC nie mo¿e zobaczyæ ciebie, ani cia³a ofiary.\n 
@@ -2454,7 +2384,7 @@
 		<text>Minimalny stan przedmiotu do sprzeda¿y </text>
 	</string>
 	<string id="ui_mm_gameplay_economy_diff_condition_buy_override_desc">
-		<text>Jest to wartoœæ w %% stanu przedmiotu by handlarz móg³ zaakceptowaæ wymianê.\n
+		<text>Jest to wartoœæ podawana w procentach, stanu przedmiotu by handlarz móg³ zaakceptowaæ wymianê.\n
 		Jeœli jest ustawiona na 0, to minimalny stan przedmiotów jest okreœlany przez ka¿dy plik konfiguracyjny handlarza.</text>
 	</string>
 

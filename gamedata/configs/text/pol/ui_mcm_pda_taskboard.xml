@@ -10,18 +10,6 @@
 	<string id="ui_mcm_pda_taskboard_scanning_range">
 		<text>Zasiêg skanowania</text>
 	</string>
-	<string id="ui_mcm_pda_taskboard_trim_text">
-		<text>Przytnij d³ugi tekst</text>
-	</string>
-	<string id="ui_mcm_pda_taskboard_trim_text_desc">
-		<text>Wy³¹cz tê opcjê, jeœli chcesz wy³¹czyæ przycinanie szczegó³ów i opisu zadania. Pamiêtaj, ¿e prawdopodobnie bêdziesz musia³ równie¿ zmodyfikowaæ wysokoœæ wiersza listy poni¿ej, aby bardzo d³ugie opisy nie nak³ada³y siê na nastêpne zadanie.</text>
-	</string>
-	<string id="ui_mcm_pda_taskboard_list_row_height">
-		<text>Wysokoœæ wiersza listy</text>
-	</string>
-	<string id="ui_mcm_pda_taskboard_list_row_height_desc">
-		<text>U¿ywana razem z powy¿szym prze³¹cznikiem przycinania. Ta opcja zwiêkszy wysokoœæ wiersza zadania, dziêki czemu nieprzyciêty tekst nie bêdzie na siebie nachodzi³. Nale¿y pamiêtaæ, ¿e zmiany te maj¹ miejsce dopiero po ponownym wczytaniu zapisanej gry.</text>
-	</string>
 	<string id="ui_mcm_pda_taskboard_taskboard_key">
 		<text>Klawisz do tablicy zadañ w PDA</text>
 	</string>

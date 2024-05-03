@@ -11629,7 +11629,7 @@
 	<string id="st_dyn_news_companion_rep_2_4">
 		<text>Moje PDA nie mówi za wiele na twój temat, $name. To chyba dobrze.</text>
 	</string>
-
+	
 	<string id="st_dyn_news_companion_rep_2_5">
 		<text>Nie odbierz tego Ÿle, $name, ale jesteœ trochê nudnym goœciem.</text>
 	</string>
@@ -11643,6 +11643,7 @@
 		<text>Wokó³ mnóstwo przera¿aj¹cych ludzi, $name. Czy jesteœ goœciem, któremu mogê zaufaæ?</text>
 	</string>
 
+	
 	<string id="st_dyn_news_companion_rep_3_1">
 		<text>Ty jesteœ $name, tak? S³ysza³em o tobie same dobre rzeczy. Oby tak dalej.</text>
 	</string>
@@ -11658,7 +11659,7 @@
 	<string id="st_dyn_news_companion_rep_3_5">
 		<text>Wszyscy twierdz¹, ¿e jesteœ cz³owiekiem s³owa i czynu, $name. Cieszê siê, ¿e razem pracujemy.</text>
 	</string>
-
+	
 	<string id="st_dyn_news_companion_rep_3_6">
 		<text>Wiem, ¿e nie jesteœ taki jak ci inni goœcie tutaj, $name. Oni wszyscy to banda zdrajców, mówiê ci.</text>
 	</string>
@@ -11748,7 +11749,7 @@
 	<string id="st_dyn_news_warfare_capture_group_1">
 		<text>Tu $speaker. Mamy pod kontrol¹ obszar w $location. Zasadzka siê uda³a.</text>
 	</string>
-	<string id="st_dyn_news_warfare_capture_group2">
+	<string id="st_dyn_news_warfare_capture_group_2">
 		<text>$map, tu wszystko pod kontrol¹. Przejêliœmy obszar w $location, wróg szybko siê wycofa³. $speaker, bez odbioru.</text>
 	</string>
 	<string id="st_dyn_news_warfare_capture_group_3">

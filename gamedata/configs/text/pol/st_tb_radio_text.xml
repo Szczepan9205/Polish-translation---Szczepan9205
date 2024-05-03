@@ -57,7 +57,7 @@
 	<string id="tb_the_mhz">
 		<text> MHz.</text>
 	</string>
-
+	
 	<string id="cb_package_lost">
 		<text>Paczka zosta³a zgubiona, now¹ mo¿na znaleŸæ gdzieœ w </text>
 	</string>
@@ -95,7 +95,7 @@
 		<text>Bagien</text>
 	</string>
 	<string id="tb_loc_dsc">
-		<text>Mrocznego Parowu</text>
+		<text>Mrocznego W¹wozu</text>
 	</string>
 	<string id="tb_loc_esc">
 		<text>Kordonu</text>

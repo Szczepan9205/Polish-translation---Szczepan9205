@@ -8,7 +8,7 @@ colt1911_custom
 -->
 	<string id="st_wpn_svi">
 		<text>Strayer Voigt Infinity</text>
-	</string> 
+	</string>
 	<string id="st_wpn_svi_s">
 		<text>SVI 2011</text>
 	</string>
@@ -22,7 +22,7 @@ colt1911_custom
 <!--
 Overwrites
 colt1911_camo
---> 
+-->
 	<string id="st_wpn_coonan357">
 		<text>Coonan .357 Magnum Compact</text>
 	</string>

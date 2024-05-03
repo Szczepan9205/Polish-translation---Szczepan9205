@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 
-<!-- Butcher -->
+<!-- Rzeźnik -->
 	<string id="hunter_gar_trader_task_1_name">
 		<text>Sezon łowiecki</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_text">
-		<text>Oczyść legowisko mutantów</text>
+		<text>Oczyść legowisko mutantów.</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_about">
-		<text>Potrzeba mi twojej pomocy przy wybiciu kilku mutantów. To współrzędne ich legowiska.</text>
+		<text>Hmm. Namierzyłem legowisko mutantów, którą przydałoby się oczyścić. Mutanty zaczynają sprawiać kłopoty miejscowym stalkerom, ale dobrze przygotowany łowca nie powinien mieć z nimi większego problemu. Masz dziś ochotę na polowanie? Zapłacę ci za twoje umiejętności, a po powrocie możesz sprzedać mi mięso lub trofea.</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_finish">
-		<text>Dobra robota, oto twoja zapłata.</text>
+		<text>Po raz kolejny lokalny ekosystem odzyskał równowagę... he he. Oto nagroda za dobrze wykonaną pracę.</text>
 	</string>
 
 	<string id="hunter_gar_trader_task_2_name">
 		<text>Każde polowanie jest inne</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_text">
-		<text>Zlecenie Rzeźnika - dostarcz %s.</text>
+		<text>Zlecenie Rzeźnika - dostarcz mu %s.</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_about">
 		<text>Niektórzy nieźle płacą za mięso mutantów.</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_fetch_about">
-		<text>Chcesz sobie trochę dorobić? Znam paru "koneserów", którym smakuje mięso tutejszych mutantów. Oszczędzę ci szczegółów - dasz radę zdobyć %s?</text>
+		<text>Od czasu do czasu obrabiam i przygotowuję mięso mutantów by było zdatne do jedzenia bez narażenia na promieniowanie, a następnie wysyłam je do Barmana i innych handlarzy, aby pomóc im uzupełnić importowaną żywność. W tej chwili chcę przygotować %s do wysyłki hurtowej. Jeśli zdołasz dostarczyć mi surowce do tego celu, będzie to oznaczać niezłą kasę w twojej kieszeni.</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_fetch_finish">
-		<text>No no, ładna rąbanka się trafiła. Będzie z ciebie myśliwy, jak nic.</text>
+		<text>Genialnie! Te mięsa mogą teraz wyglądać obrzydliwie, ale poczekaj tylko, aż zostaną przygotowane. Będą przepyszne!</text>
 	</string>
 
 	
-<!-- Flea Market -->
+<!-- Pchli Targ -->
 	<string id="baraholka_trader_night_task_1_name">
 		<text>Pola Cudów</text>
 	</string>
@@ -40,13 +40,13 @@
 		<text>Handlarz z Pchlego Targu poszukuje artefaktu %s.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_about">
-		<text>Ty, chcesz przytulić trochę kasy i chabaru? Potrzebuję paru rzadkich artów. Miałbym w zamian trochę niezłego sprzętu dla ciebie.</text>
+		<text>Ty! Chcesz przytulić trochę kasy i chabaru? Potrzebuję paru rzadkich artów. Miałbym w zamian trochę niezłego sprzętu dla ciebie.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_fetch_about">
-		<text>Ty, chcesz przytulić trochę kasy i chabaru? Potrzebuję paru rzadkich artów. Chyba mógłbym zaoferować ci w zamian coś ciekawego.</text>
+		<text>Ty! Chcesz przytulić trochę kasy i chabaru? Potrzebuję paru rzadkich artów. Chyba mógłbym zaoferować ci w zamian za "%s" coś ciekawego.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_fetch_finish">
-		<text>Nieźle, stalker, naprawdę nieźle. Proszę, to dla ciebie, zgodnie z umową.</text>
+		<text>Nieźle, stalkerze... naprawdę nieźle. Proszę, to dla ciebie, zgodnie z umową.</text>
 	</string>
 
 
