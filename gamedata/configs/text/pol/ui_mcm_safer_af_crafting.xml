@@ -3,29 +3,29 @@
 <string_table>
 			
 	<string id="ui_mcm_safe_af_craft_title">
-		<text>Po³¹cz i wzmocnij swoje artefakty bez pakowania i rozpakowywania ich do pojemników - promieniowanie z niezabezpieczonych artefaktów bêdzie poch³aniane przez puste o³owiane pojemniki, tak jakby by³y zapakowane.</text>
+		<text>Po³¹cz i wzmocnij swoje artefakty bez pakowania do pojemników i rozpakowywania ich z pojemników - promieniowanie z niezabezpieczonych artefaktów bêdzie poch³aniane przez OOMP, tak jakby by³y zapakowane.</text>
 	</string>
 	
 	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_enabled">
-		<text>Puste o³owiane pojemniki poch³aniaj¹ promieniowanie.</text>
+		<text>Puste o³owiane pojemniki poch³aniaj¹ promieniowanie</text>
 	</string>
 	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_enabled_desc">
 		<text>Jeœli masz w ekwipunku puste pojemniki i artefakty nie schowane do pojemników, ich promieniowanie zostanie poch³oniête. Dzia³a z przenoœnym warsztatem.</text>
 	</string>
 	
 	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_wshop_only">
-		<text>* tylko jeœli okno warsztatu Przetapiacza jest otwarte.</text>
+		<text>* tylko jeœli okno warsztatu Przetapiacza jest otwarte</text>
 	</string>
 	<string id="ui_mcm_safe_af_craft_empty_lead_absorb_wshop_only_desc">
-		<text>Absorbuj promieniowanie za pomoc¹ pustych skrzynek o³owianych tylko wtedy, gdy okno warsztatu Przetapiacza jest otwarte.</text>
+		<text>Absorbuj promieniowanie za pomoc¹ OOMP-ów tylko wtedy, gdy okno warsztatu Przetapiacza jest otwarte.</text>
 	</string>
 
 	
 	<string id="ui_mcm_safe_af_craft_melter_absorb_enabled">
-		<text>Otwarty Przetapiacz artefaktów poch³ania ca³e promieniowanie kiedy jest otwarty.</text>
+		<text>Otwarty Przetapiacz artefaktów poch³ania ca³e promieniowanie kiedy jest otwarty</text>
 	</string>
 	<string id="ui_mcm_safe_af_craft_melter_absorb_enabled_desc">
-		<text>Ca³e promieniowanie zostanie poch³oniête, gdy warsztat Przetapiacz bêdzie w u¿yciu. (Pomijaj¹c puste o³owiane pojemniki)</text>
+		<text>Ca³e promieniowanie zostanie poch³oniête, gdy warsztat Przetapiacz bêdzie w u¿yciu (pomijaj¹c OOMP).</text>
 	</string>
 
 	

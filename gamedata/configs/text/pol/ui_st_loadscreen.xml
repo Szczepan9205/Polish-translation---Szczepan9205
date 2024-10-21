@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 	<string id="ls_header">
-		<text>S.T.A.L.K.E.R. GAMMA 0.91 PL</text>
+		<text>S.T.A.L.K.E.R. GAMMA 0.92 PL</text>
 	</string>
 	<string id="ls_tip_number">
 		<text>Opowieści z Zony nr.</text>
@@ -112,7 +112,7 @@
 		<text>Wszystko szło tak gładko, dopóki nie usłyszeliśmy metalicznego stukotu pocisku rozrywającego hełm sierżanta, a potem usłyszeliśmy karabin. Wtedy już wiedzieliśmy, że mamy kłopoty. Nie mieliśmy pojęcia, skąd padł strzał ani jak daleko naprawdę znajdowali się  wrogowie. Wiedzieliśmy tylko, że będziemy tu jak kaczki na strzelnicy, jeśli się nie ruszymy.</text>
 	</string>
 	<string id="ls_tip_36">
-		<text>"Granaty nie są tanie, ale mogą oznaczać różnicę między życiem a śmiercią.	Termit jest moim faworytem, jeśli chodzi o oczyszczanie pomieszczeń". Powiedział szeptem, rzucając granat przez okno sąsiedniego budynku. Zapach spalonego ciała wciąż mnie prześladuje...</text>
+		<text>"Granaty nie są tanie, ale mogą oznaczać różnicę między życiem a śmiercią. Termit jest moim faworytem, jeśli chodzi o oczyszczanie pomieszczeń". Powiedział szeptem, rzucając granat przez okno sąsiedniego budynku. Zapach spalonego ciała wciąż mnie prześladuje...</text>
 	</string>
 	<string id="ls_tip_37">
 		<text>"Mój dziadek walczył w tej wielkiej wojnie. Staruszek nauczył mnie, co jest najlepsze dla świata, ale ty jesteś jednym z tych dobrych, chyba mylił się co do tego, że tylko martwi są dobrzy..." "Wow, mój też! Był komisarzem i nosił tą PPSzę. Będzie szczęśliwy, gdy pokażę mu kolejną do kolekcji".</text>
@@ -175,7 +175,7 @@
 		<text>Choć często pomijany zawód kuriera jest jednym z najważniejszych i najbardziej szanowanych w Zonie. W "100 Radach" poznałem kilku gości, którzy dostarczali tam i z powrotem zaopatrzenie dla Brody i jego biznesu zajmującego się parzeniem herbaty. Ci goście przeszli na emeryturę po zaledwie roku pracy. "Dlaczego więc nie odeszli?" Chłopaki mają teraz własną firmę sprzedającą buty w Paryżu.</text>
 	</string>
 	<string id="ls_tip_57">
-		<text>WOW! Zajebisty noktowizor brachu, nie mogę uwierzyć, że nie jest zielony lub czarno-biały, jak zawsze. Taa, jest fajny, ale nie idealny. Ma bardziej ograniczoną wizję i nie jest tak jasny jak FLIR lub te inne staromodne rzeczy, ale działa lepiej niż cokolwiek innego w bliskim średnim i bliskim zasięgu. </text>
+		<text>WOW! Zajebisty noktowizor brachu, nie mogę uwierzyć, że nie jest zielony lub czarno-biały, jak zawsze. Taa, jest fajny, ale nie idealny. Ma bardziej ograniczoną wizję i nie jest tak jasny jak FLIR lub te inne staromodne rzeczy, ale działa lepiej niż cokolwiek innego w bliskim średnim i bliskim zasięgu.</text>
 	</string>
 	<string id="ls_tip_58">
 		<text>Przestań zamykać oko, gdy celujesz w dół. Jeśli masz zamknięte oko, znacznie ograniczasz swoją widoczność i nigdy nie wiesz, kiedy ktoś lub coś spróbuje się do ciebie zakraść. </text>
@@ -187,7 +187,7 @@
 		<text>Myślisz, że będzie tu zasięg? Turysta wyciągnął telefon, aby zrobić zdjęcie do mediów społecznościowych i to był dokładnie ten moment, w którym wiedziałem, że Wioska Kotów zaczyna się zamieniać w turystyczną pułapkę. Kiedy natknęliśmy się na grupkę zombie, pozwoliłem jednemu z nich złapać tego gościa, po czym wbiłem mu mój Ka-Bar w głowę. Potrzebował porządnego sprawdzenia rzeczywistości.</text>
 	</string>
 	<string id="ls_tip_61">
-		<text>Handlarze z branży spożywczej, tacy jak Barman, Brodacz, a nawet Sidorowicz, zdołali zdestabilizować rynek żywności w Zonie do tego stopnia, że taniej jest kupić importowane jedzenie niż gotować samemu. Handlarze ci są również jedynymi, którzy mają powiązania z hurtowymi cenami żywności w Zonie . </text>
+		<text>Handlarze z branży spożywczej, tacy jak Barman, Brodacz, a nawet Sidorowicz, zdołali zdestabilizować rynek żywności w Zonie do tego stopnia, że taniej jest kupić importowane jedzenie niż gotować samemu. Handlarze ci są również jedynymi, którzy mają powiązania z hurtowymi cenami żywności w Zonie.</text>
 	</string>
 	<string id="ls_tip_62">
 		<text>Chciałbym poznać geniusza, który wpadł na pomysł zbudowania Sarkofagu. W praktyce było to świetne rozwiązanie, próbujące ograniczyć poziom promieniowania, aby się nie rozprzestrzeniało, ale jedyne, co udało im się zrobić, to dać Monolitowi dosłowny bunkier do planowania ataków.</text>

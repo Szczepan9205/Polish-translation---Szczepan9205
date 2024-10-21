@@ -5,10 +5,10 @@
 		<text>Ogólny dŸwiêk prze³¹cznika trybu ognia</text>
 	</string>
 	<string id="ui_mcm_menu_fmode_sound">
-		<text>Fire-mode switcher</text>
+		<text>Prze³. trybu ognia</text>
 	</string>
 	<string id="ui_mcm_fmode_sound_sound">
-		<text>DŸwiêk</text>
+		<text>DŸwiêk prze³¹czania trybu ognia</text>
 	</string>
 	<string id="ui_mcm_fmode_sound_volume">
 		<text>G³oœnoœæ</text>

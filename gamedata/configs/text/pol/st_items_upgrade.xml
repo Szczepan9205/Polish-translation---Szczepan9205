@@ -10,8 +10,7 @@
 		<text>P³yty pancerne SEVA (ulepszenie)</text>
 	</string>
 	<string id="st_broneplastina_seva_descr">
-		<text>Pancerna p³yta poprawiaj¹ca w³aœciwoœci kombinezonu SEVA.\n
-		</text>
+		<text>Pancerne p³yty poprawiaj¹ce w³aœciwoœci kombinezonu SEVA.\n</text>
 	</string>
 	
 	<string id="upgr_1_01_name">
@@ -20,8 +19,8 @@
 	<string id="upgr_1_01_description">
 		<text>Zestaw stalowych p³yt o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] stal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Stal\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci lekkich kombinezonów\n
 		</text>
 	</string>
 	
@@ -31,8 +30,8 @@
 	<string id="upgr_2_01_description">
 		<text>Zestaw ró¿nych ram i urz¹dzeñ do poprawy w³aœciwoœci ochronnych kombinezonu.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] metal i plastiki\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Metal i plastiki\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci lekkich kombinezonów\n
 		</text>
 	</string>
 	
@@ -42,8 +41,8 @@
 	<string id="upgr_3_01_description">
 		<text>Rêcznie robiona kolczuga wykonana z ma³ych stalowych pierœcieni.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] stal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Stal\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci lekkich kombinezonów\n
 		</text>
 	</string>
 	
@@ -53,8 +52,8 @@
 	<string id="upgr_1_02_description">
 		<text>Arkusz trwa³ej, gumowanej tkaniny przemys³owej.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] guma\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Guma\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci lekkich kombinezonów\n
 		</text>
 	</string>
 	
@@ -64,8 +63,8 @@
 	<string id="upgr_2_02_description">
 		<text>Du¿y kawa³ek wytrzyma³ej przemys³owej tkaniny.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] tkanina\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Tkanina\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich kombinezonów\n
 		</text>
 	</string>
 	
@@ -75,8 +74,8 @@
 	<string id="upgr_2_03_description">
 		<text>Rolka tkaniny ogniotrwa³ej, zdolnej przez krótki czas wytrzymaæ wysokie temperatury.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] tkanina\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Tkanina\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci lekkich kombinezonów\n
 		</text>
 	</string>
 	
@@ -86,8 +85,8 @@
 	<string id="upgr_1_03_description">
 		<text>Kamizelka z dodatkow¹ podszewk¹, wyposa¿ona w kilka pojemnych kieszeni.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] tkanina\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Tkanina\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci lekkich kombinezonów\n
 		</text>
 	</string>
 	
@@ -97,8 +96,8 @@
 	<string id="upgr_1_04_description">
 		<text>Zestaw p³yt poliwêglanowych o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] poliwêglany\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Poliwêglany\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -108,8 +107,8 @@
 	<string id="upgr_2_04_description">
 		<text>Dodatkowa warstwa pancerza z elementami ochronnymi, przeznaczona do u¿ycia w pancerzach osobistych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] poliwêglany\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Poliwêglany\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -119,8 +118,8 @@
 	<string id="upgr_3_02_description">
 		<text>Zestaw p³yt ceramicznych o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] ceramika\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Ceramika\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -130,8 +129,8 @@
 	<string id="upgr_1_05_description">
 		<text>Zestaw lekkich polimerów o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie, a tak¿e o ró¿nych w³aœciwoœciach.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -141,8 +140,8 @@
 	<string id="upgr_2_05_description">
 		<text>Zestaw ogniotrwa³ych, zawieraj¹cych magnez materia³ów  o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] zawiera magnez\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Zawiera magnez\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -152,8 +151,8 @@
 	<string id="upgr_2_06_description">
 		<text>Zestaw elementów z tworzyw sztucznych o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] plastik\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Plastik\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -164,7 +163,7 @@
 		<text>Zwi¹zki chemiczne do obróbki tkanin, mog¹ce poprawiæ w³aœciwoœci ochronne kombinezonu przed zagro¿eniem chemicznym.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
 		%c[d_blue] • %c[ui_gray_2] chemikalia\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -174,8 +173,8 @@
 	<string id="upgr_3_04_description">
 		<text>Rolka wytrzyma³ej, gumowanej tkaniny.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] tkanina\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Tkanina\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -185,8 +184,8 @@
 	<string id="upgr_1_06_description">
 		<text>Butla wype³niona tlenem. Jest przeznaczona do oddychania w œrodowiskach toksycznych, a tak¿e w miejscach o rozrzedzonym powietrzu, na przyk³ad w wysokich górach.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] specjalne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot specjalny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -197,19 +196,19 @@
 		<text>Z³o¿one urz¹dzenie medyczne zaprojektowane do automatycznego podawania niezbêdnych leków.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
 		%c[d_blue] • %c[ui_gray_2] skomplikowany produkt medyczny\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_08_name">
-		<text>Mocownia rozk³adaj¹ce obci¹¿enie</text>
+		<text>Mocowania rozk³adaj¹ce obci¹¿enie</text>
 	</string>
 	<string id="upgr_2_08_description">
 		<text>Zestaw ró¿nych elementów mocuj¹cych do roz³o¿enia obci¹¿enia.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -219,8 +218,8 @@
 	<string id="upgr_3_05_description">
 		<text>Dodatkowe uchwyty do umieszczenia na pasie wiêkszej liczby jednoczeœnie u¿ywanych modu³ów i pojemników na artefakty. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -230,21 +229,21 @@
 	<string id="upgr_1_07_description">
 		<text>Udoskonalone, prototypowe serwomotory dla egzoszkieletów I i II generacji, pozwalaj¹ce u¿ytkownikowi na bieganie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_06_name">
-		<text>Zestaw tkanin Suweren</text>
+		<text>Zestaw tkanin "Suweren"</text>
 	</string>
 	<string id="upgr_3_06_description">
 		<text>Specjalne wzmacniane tkaniny, zaprojektowane w celu zwiêkszenia wytrzyma³oœci i trwa³oœci. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] chemiczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot chemiczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -254,8 +253,8 @@
 	<string id="upgr_2_09_description">
 		<text>Dodatkowe uchwyty do umieszczenia na pasie wiêkszej liczby jednoczeœnie u¿ywanych modu³ów i pojemników na artefakty. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -266,7 +265,7 @@
 		<text>Zestaw p³yt kevlarowych o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
 		%c[d_blue] • %c[ui_gray_2] kevlar\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywane do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -274,10 +273,10 @@
 		<text>Druga warstwa pancerza</text>
 	</string>
 	<string id="upgr_2_10_description">
-		<text>Specjalnie wy³o¿ona warstwa pancerza z dodatkowymi elementami ochronnymi, przeznaczona do u¿ycia w pancerzach osobistych.\n \n
+		<text>Specjalnie wy³o¿ona warstwa pancerza z dodatkowymi elementami ochronnymi, przeznaczona do u¿ycia w kombinezonach osobistych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] p³yty pancerne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] P³yty pancerne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -287,8 +286,8 @@
 	<string id="upgr_1_09_description">
 		<text>Specjalnie wy³o¿one gumowe wstawki do kamizelek kuloodpornych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] guma\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Guma\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -298,8 +297,8 @@
 	<string id="upgr_2_11_description">
 		<text>Specjalna, gumowa podszewka zapewniaj¹ca odpornoœæ na dzia³anie promieniowania i chemikaliów, przeznaczona do monta¿u w kombinezonach w celu poprawy ich w³aœciwoœci ochronnych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] guma\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci lekkich i œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Guma\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów lekkiej i œredniej klasy\n
 		</text>
 	</string>
 	
@@ -309,21 +308,21 @@
 	<string id="upgr_3_07_description">
 		<text>Rama dopasowana do obwodu kamizelki kuloodpornej, zaprojektowana w celu poprawy w³aœciwoœci ochronnych kombinezonów opancerzonych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_08_name">
-		<text>System podtrzymywania ¿ycia Wariag</text>
+		<text>System podtrzymywania ¿ycia "Wariag"</text>
 	</string>
 	<string id="upgr_3_08_description">
 		<text>Z³o¿one urz¹dzenie medyczne przeznaczone do automatycznego podawania leków. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -333,8 +332,8 @@
 	<string id="upgr_3_09_description">
 		<text>Polimerowe materia³y ochronne wykonane z bizmutu o podwy¿szonej odpornoœci na dzia³ania chemikaliów i wysokich temperatur. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -344,8 +343,8 @@
 	<string id="upgr_3_10_description">
 		<text>Zwyk³a o³owiowa siatka.  \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] o³ów\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] O³ów\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -355,8 +354,8 @@
 	<string id="upgr_1_10_description">
 		<text>Specjalnie wykonane p³yty pancerne, nieznacznie zwiêkszaj¹ce odpornoœæ na ostrza³.  \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] metal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Metal\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -366,8 +365,8 @@
 	<string id="upgr_2_12_description">
 		<text>Uniwersalna aluminiowa rama do wmontowania w œrednie pancerze. Zastêpuje ramy stalowe i tytanowe. Pozwala zmniejszyæ ciê¿ar pancerza, jednak kosztem obni¿onej wytrzyma³oœci. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] aluminium\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Aluminium\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci œrednich kombinezonów\n
 		</text>
 	</string>
 	
@@ -377,8 +376,8 @@
 	<string id="upgr_3_11_description">
 		<text>Zestaw matryc tytanowych i berylowych po³¹czonych z solidn¹ p³yt¹ pancern¹ wysokiej jakoœci.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] wzmocnione p³yty pancerne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Wzmocnione p³yty pancerne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -388,8 +387,8 @@
 	<string id="upgr_1_11_description">
 		<text>Specjalne polimerowe wstawki do zamontowania w lekkich i œrednich kombinezonach opancerzonych zamiast tkaniny. Zwiêksza wytrzyma³oœæ i ¿ywotnoœæ kombinezonu. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -399,8 +398,8 @@
 	<string id="upgr_2_13_description">
 		<text>Specjalna warstwa izolacji termicznej z konstantanu.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] konstantan\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Konstantan\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci œrednich kombinezonów\n
 		</text>
 	</string>
 	
@@ -410,20 +409,20 @@
 	<string id="upgr_3_12_description">
 		<text>Specjalny zestaw zwiêkszaj¹cy odpornoœæ na dzia³anie chemikaliów i promieniowania.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] guma\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Guma\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_12_name">
-		<text>System gojenia ran Doktor</text>
+		<text>System gojenia ran "Doktor"</text>
 	</string>
 	<string id="upgr_1_12_description">
 		<text>Urz¹dzenie medyczne przeznaczone do ci¹g³ego podawania leków w warunkach bojowych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -433,8 +432,8 @@
 	<string id="upgr_3_13_description">
 		<text>Lekkie p³yty pancerne z w³ókna wêglowego o wysokiej lepkoœci i doskona³ym dzia³aniu hamuj¹cym.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -444,8 +443,8 @@
 	<string id="upgr_2_14_description">
 		<text>Zestaw p³yt z pleksiglasu o ró¿nych d³ugoœciach, szerokoœciach, gruboœciach i kszta³tach\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -455,8 +454,8 @@
 	<string id="upgr_2_15_description">
 		<text>Zestaw elastycznych, plastikowych elementów o ró¿nej d³ugoœci, szerokoœci, gruboœci i kszta³cie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -467,30 +466,30 @@
 		<text>Lekkie, ognioodporne wk³adki wykonane z niklu.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
 		%c[d_blue] • %c[ui_gray_2] nikiel\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_13_name">
-		<text>Complex Marathoner</text>
+		<text>"Complex Marathoner"</text>
 	</string>
 	<string id="upgr_1_13_description">
 		<text>Urz¹dzenie medyczne przeznaczone do ci¹g³ego podawania leków w warunkach bojowych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_16_name">
-		<text>Elektrostatyczny system ochrony Skat</text>
+		<text>Elektrostatyczny system ochrony "SKAT"</text>
 	</string>
 	<string id="upgr_2_16_description">
 		<text>Specjalne urz¹dzenie mierz¹ce napiêcie i natê¿enie pr¹du. Zwiêksza ochronê przed pora¿eniem elektrycznym.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -500,21 +499,21 @@
 	<string id="upgr_1_14_description">
 		<text>Urz¹dzenie medyczne przeznaczone do ci¹g³ego podawania leków w warunkach bojowych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_17_name">
-		<text>Biostymulator Solar</text>
+		<text>Biostymulator "Solar"</text>
 	</string>
 	<string id="upgr_2_17_description">
 		<text>Urz¹dzenie medyczne wyposa¿one w ogniwa s³oneczne do ci¹g³ego podawania leków w warunkach bojowych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -524,9 +523,9 @@
 	<string id="upgr_3_15_description">
 		<text>Przenoœne urz¹dzenie badawcze, mierz¹ce wp³yw fal psionicznych na organizmy ¿ywe.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -536,8 +535,8 @@
 	<string id="upgr_1_15_description">
 		<text>Trwa³e p³yty pancerne ze stopu tytanu i aluminium. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] stop metali\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Stop metali\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -547,9 +546,9 @@
 	<string id="upgr_1_16_description">
 		<text>Przenoœne urz¹dzenie naukowe do trójwymiarowego pomiaru po³o¿enia artefaktów\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -559,8 +558,8 @@
 	<string id="upgr_3_16_description">
 		<text>Zestaw ochronnych wk³adek magnezowych, zaprojektowanych w celu zmniejszenia wp³ywu ³adunków elektrycznych na pancerz.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] zawiera magnez\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Zawiera magnez\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -570,8 +569,8 @@
 	<string id="upgr_1_17_description">
 		<text>Specjalne lekkie wk³adki wykonane z organicznego polimeru.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -581,8 +580,8 @@
 	<string id="upgr_2_18_description">
 		<text>Zestaw ochronnych p³yt pancernych, które mo¿na ze sob¹ ³¹czyæ w celu zwiêkszenia powierzchni. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -592,8 +591,8 @@
 	<string id="upgr_2_19_description">
 		<text>Zestaw ochronnych p³yt pancernych wykonanych z tytanu i aluminium. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] metal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Metal\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -603,8 +602,8 @@
 	<string id="upgr_3_17_description">
 		<text>Syntetyczne kryszta³y wykonane z szafiru. Bardzo wytrzyma³e.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] zawiera magnez\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Zawiera magnez\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -614,8 +613,8 @@
 	<string id="upgr_2_20_description">
 		<text>Zestaw p³ytek wykonanych z konstantanu, zwiêkszaj¹cy ochronê przed pora¿eniem elektrycznym.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] u¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -625,8 +624,8 @@
 	<string id="upgr_2_21_description">
 		<text>Zestaw p³ytek wykonanych z w³ókna szklanego, zwiêkszaj¹cy ochronê przed wysok¹ temperatur¹.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -636,45 +635,45 @@
 	<string id="upgr_2_22_description">
 		<text>Przenoœne urz¹dzenie medyczne do filtrowania toksyn z ludzkiego organizmu.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_18_name">
-		<text>Iniektor Furia</text>
+		<text>Iniektor "Furia"</text>
 	</string>
 	<string id="upgr_1_18_description">
 		<text>Przenoœne urz¹dzenie medyczne do iniekcji do¿ylnych w warunkach bojowych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_23_name">
-		<text>Iniektor Furia</text>
+		<text>Iniektor "Furia"</text>
 	</string>
 	<string id="upgr_2_23_description">
 		<text>Przenoœne urz¹dzenie medyczne do iniekcji do¿ylnych w warunkach bojowych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_18_name">
-		<text>System uzdrawiania Feniks</text>
+		<text>System uzdrawiania "Feniks"</text>
 	</string>
 	<string id="upgr_3_18_description">
 		<text>Przenoœne urz¹dzenie medyczne do iniekcji do¿ylnych w warunkach bojowych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -684,19 +683,19 @@
 	<string id="upgr_2_24_description">
 		<text>Bardzo ciê¿kie p³yty z o³owiu.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] o³ów\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] O³ów\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_25_name">
-		<text>Kamizelka Druga Skóra</text>
+		<text>Kamizelka "Druga Skóra"</text>
 	</string>
 	<string id="upgr_2_25_description">
 		<text>Pancerna podszewka kamizelki, zapewniaj¹ca dodatkow¹ ochronê przed pociskami.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] podszewka\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Podszewka\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -706,8 +705,8 @@
 	<string id="upgr_2_26_description">
 		<text>Kevlarowe p³yty pancerza, zainstalowane jako dodatkowe lub rezerwowe opancerzenie dla œrednich i ciê¿kich kombinezonów.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] p³yty pancerne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] P³yty pancerne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -717,8 +716,8 @@
 	<string id="upgr_3_19_description">
 		<text>Grube i wzmocnione p³yty ceramiczne do umieszczenia w ciê¿kich kombinezonach.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] ceramika\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Ceramika\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -728,8 +727,8 @@
 	<string id="upgr_3_20_description">
 		<text>Syntetyczne i plastikowe czêœci z ró¿nych kombinezonów, opracowane w celu zmniejszenia ciê¿aru pancerza oraz zwiêkszenia mobilnoœci i wytrzyma³oœci.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -739,8 +738,8 @@
 	<string id="upgr_1_19_description">
 		<text>Mocna tkanina syntetyczna do wszywania w stroje i pancerze.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -750,8 +749,8 @@
 	<string id="upgr_2_27_description">
 		<text>Urz¹dzenie do monta¿u w kombinezonach opancerzonych, maj¹ce na celu zwiêkszenie udŸwigu.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -761,20 +760,20 @@
 	<string id="upgr_1_20_description">
 		<text>Wbudowany system ochrony przeciwpy³owej z wymiennymi filtrami.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_28_name">
-		<text>Stymulator psioniczny Wyrocznia</text>
+		<text>Stymulator psioniczny "Wyrocznia"</text>
 	</string>
 	<string id="upgr_2_28_description">
 		<text>Urz¹dzenie naukowe, który nieznacznie zmniejsza wra¿liwoœæ na oddzia³ywania psioniczne.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -784,9 +783,9 @@
 	<string id="upgr_3_21_description">
 		<text>Przenoœny system podtrzymywania ¿ycia do stabilizacji stanów krytycznych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -796,8 +795,8 @@
 	<string id="upgr_1_21_description">
 		<text>Wbudowany system filtrów aktywnych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -807,9 +806,9 @@
 	<string id="upgr_2_29_description">
 		<text>Os³ona ekranuj¹ca do he³mów i kombinezonów opancerzonych, nieznacznie zmniejszaj¹ca efekty dzia³ania fal psionicznych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] specjalne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot specjalny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -819,9 +818,9 @@
 	<string id="upgr_2_30_description">
 		<text>Wojskowe urz¹dzenie noktowizyjne do prowadzenia dzia³añ w ciemnoœci.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -831,21 +830,21 @@
 	<string id="upgr_3_22_description">
 		<text>Specjalna podszewka do he³mu, zmniejszaj¹ca efekty dzia³ania fal psionicznych \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot naukowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot naukowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_23_name">
-		<text>System ch³odzenia Wiatr Jonowy</text>
+		<text>System ch³odzenia "Wiatr Jonowy"</text>
 	</string>
 	<string id="upgr_3_23_description">
 		<text>System ch³odzenia do stosowania w œrednich i ciê¿kich kombinezonach pancerza, zwiêkszaj¹cy wytrzyma³oœæ.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] wyposa¿enie naukowe\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Wyposa¿enie naukowe\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -855,9 +854,9 @@
 	<string id="upgr_2_31_description">
 		<text>Cyfrowy noktowizor wojskowy do prowadzenia dzia³añ w ciemnoœci. Generuje obraz w odcieniach szaroœci.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -867,9 +866,9 @@
 	<string id="upgr_2_32_description">
 		<text>Cyfrowy noktowizor wojskowy do prowadzenia dzia³añ w ciemnoœci. Podœwietla obraz na fioletowo.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	
@@ -879,8 +878,8 @@
 	<string id="upgr_1_22_description">
 		<text>Zintegrowany system oczyszczania masek przeciwgazowych oraz he³mów.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -890,8 +889,8 @@
 	<string id="upgr_2_33_description">
 		<text>Dodatkowy, wymienny filtr wêglowy.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -901,8 +900,8 @@
 	<string id="upgr_3_24_description">
 		<text>Antena ochronna przeznaczona do monta¿u w maskach gazowych i he³mach. Zapewnia niewielk¹ ochronê przed wp³ywem fal psionicznych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] wyposa¿enie naukowe\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci œrednich i ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Wyposa¿enie naukowe\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci kombinezonów œredniej i ciê¿kiej klasy\n
 		</text>
 	</string>
 	
@@ -912,8 +911,8 @@
 	<string id="upgr_1_23_description">
 		<text>Element maski zastêpuj¹cy jeden filtr dwoma.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -923,8 +922,8 @@
 	<string id="upgr_1_24_description">
 		<text>Filtr ochronny, zapobiegaj¹cy przedostawaniu siê do organizmu szkodliwych cz¹stek przez uk³ad oddechowy.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -934,8 +933,8 @@
 	<string id="upgr_2_34_description">
 		<text>Filtr ochronny, zapobiegaj¹cy przedostawaniu siê do organizmu toksyn i chemikaliów przez uk³ad oddechowy.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -946,7 +945,7 @@
 		<text>Maska ochronna wykonana z konstantanu, zwiêkszaj¹ca odpornoœæ na chemikalia i wysokie temperatury.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
 		%c[d_blue] • %c[ui_gray_2] konstantan\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -956,8 +955,8 @@
 	<string id="upgr_1_25_description">
 		<text>Filtr z dodatkow¹ pow³ok¹ ochronn¹, zapobiegaj¹cy przedostawaniu siê do organizmu toksyn i chemikaliów przez uk³ad oddechowy.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -967,8 +966,8 @@
 	<string id="upgr_2_36_description">
 		<text>Nowoczesny system ochrony, zwiêkszaj¹cy ochronê przed wp³ywem fal psionicznych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] wyposa¿enie naukowe\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci he³mów\n
+		%c[d_blue] • %c[ui_gray_2] Wyposa¿enie naukowe\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci he³mów\n
 		</text>
 	</string>
 	
@@ -978,8 +977,8 @@
 	<string id="upgr_1_26_description">
 		<text>Wzmacniane czêœci egzoszkieletu wykonane z tytanu i jego stopów.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] tytanowe\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Tytan\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -987,10 +986,10 @@
 		<text>P³yty ruchome</text>
 	</string>
 	<string id="upgr_2_37_description">
-		<text>Dodatkowe, stalowe p³yty ochronne przeznaczone do egzoszkieletów i ciê¿kich pancerzy.\n \n
+		<text>Dodatkowe, stalowe p³yty ochronne przeznaczone do egzoszkieletów i ciê¿kich kombinezonów.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] stal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Stal\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1000,8 +999,8 @@
 	<string id="upgr_2_38_description">
 		<text>Zestaw cienkich p³yt pancernych o ró¿nej d³ugoœci, szerokoœci i kszta³cie do umieszczenia w egzoszkieletach i ciê¿kich kombinezonach opancerzonych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] stal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Stal\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1011,8 +1010,8 @@
 	<string id="upgr_3_25_description">
 		<text>Wzmocnione tytanowe p³yty pancerza o ró¿nych d³ugoœciach, szerokoœciach i kszta³tach do umieszczenia w egzoszkieletach i ciê¿kich kombinezonach opancerzonych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] tytanowe\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Tytan\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1022,8 +1021,8 @@
 	<string id="upgr_3_26_description">
 		<text>Wielowarstwowe polimerowo-ceramiczne p³yty pancerne o ró¿nych d³ugoœciach, szerokoœciach i kszta³tach do umieszczenia w egzoszkieletach i ciê¿kich kombinezonach opancerzonych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] ceramika\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Ceramika\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywana do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1033,8 +1032,8 @@
 	<string id="upgr_1_27_description">
 		<text>Wzmocnione amortyzatory silikonowe, przeznaczone do zast¹pienia amortyzatorów gumowych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do ulepszenia ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do ulepszenia ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1044,8 +1043,8 @@
 	<string id="upgr_3_27_description">
 		<text>Ochronna podszewka kombinezonu wykonana z materia³ów polimerowych z du¿¹ iloœci¹ bizmutu. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] polimery\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Polimery\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1055,8 +1054,8 @@
 	<string id="upgr_3_28_description">
 		<text>Aluminiowe odpowiedniki kilku czêœci z tworzyw sztucznych, przeznaczone do egzoszkieletów i ciê¿kich kombinezonów opancerzonych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] aluminium\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Aluminium\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywane do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1066,8 +1065,8 @@
 	<string id="upgr_1_28_description">
 		<text>Zintegrowany system kontroli temperatury do monta¿u w systemach podtrzymywania ¿ycia egzoszkieletów i ciê¿kich kombinezonów opancerzonych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie medyczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie medyczne\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1077,19 +1076,19 @@
 	<string id="upgr_2_39_description">
 		<text>Zestaw ochronnych p³yt pancernych o ró¿nych d³ugoœciach, szerokoœciach i kszta³tach do wstawiania w ruchome elementy egzoszkieletów i ciê¿kich kombinezonów opancerzonych.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] stal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Stal\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_29_name">
-		<text>System ruchowy Piechur</text>
+		<text>System ruchowy "Piechur"</text>
 	</string>
 	<string id="upgr_3_29_description">
 		<text>System z dodatkowymi sprê¿ynami i ruchomymi czêœciami do egzoszkieletów i ciê¿kich kombinezonów opancerzonych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] stal\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
+		%c[d_blue] • %c[ui_gray_2] Stal\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
 		</text>
 	</string>
 	
@@ -1099,9 +1098,9 @@
 	<string id="upgr_3_30_description">
 		<text>Hydrauliczny system wspomagaj¹cy dla serwomotorów egzoszkieletów i ciê¿kich kombinezonów opancerzonych. \n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] techniczne\n
-		%c[d_blue] • %c[ui_gray_2] u¿ywany do poprawy w³aœciwoœci ciê¿kich pancerzy\n
-		%c[d_blue] • %c[ui_gray_2] wartoœciowe\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] U¿ywany do poprawy w³aœciwoœci ciê¿kich kombinezonów\n
+		%c[d_blue] • %c[ui_gray_2] Wartoœciowe\n
 		</text>
 	</string>
 	

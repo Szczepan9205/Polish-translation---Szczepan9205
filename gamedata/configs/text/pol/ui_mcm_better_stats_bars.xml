@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-	
 	<string id="ui_mcm_better_stats_bars_title">
 		<text>Lepsze paski statystyk</text>
 	</string>
 	<string id="ui_mcm_menu_better_stats_bars">
 		<text>Lepsze statystyki</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_positive_color_help">
 		<text>Kolor rozszerzonego paska statystyk</text>
 	</string>
@@ -24,7 +22,6 @@
 	<string id="ui_mcm_better_stats_bars_positive_color_b">
 		<text>Niebieski</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_negative_color_help">
 		<text>Kolor zmniejszonego paska statystyk</text>
 	</string>
@@ -40,7 +37,6 @@
 	<string id="ui_mcm_better_stats_bars_negative_color_b">
 		<text>Niebieski</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_neutral_color_help">
 		<text>Kolor niezmienionego paska statystyk</text>
 	</string>
@@ -56,7 +52,6 @@
 	<string id="ui_mcm_better_stats_bars_neutral_color_b">
 		<text>Niebieski</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_position">
 		<text>Pozycja</text>
 	</string>
@@ -72,13 +67,14 @@
 	<string id="ui_mcm_lst_better_stats_bars_position_justify">
 		<text>Wypełnij całą wysokość</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_use_game_values">
 		<text>Użyj wartości gry</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_use_game_values_desc">
-		<text>Włączenie tej opcji sprawi, że paski będą reprezentować ochronę przed rzeczywistymi zagrożeniami w grze (NPC, mutantami, anomaliami), w oparciu o ich wartości obrażeń, typy żywiołów, a także poprawione zachowanie ochrony kombinezonu i hełmu. Można wybrać następujące opcje \n \n Brak: wyłączenie opcji \n \n Maksimum: maksimum paska reprezentuje maksymalne możliwe do otrzymania obrażenia. W tym przypadku 1/3 paska reprezentuje zazwyczaj ogień, pola kwasowe i psioniczne, słabe mutanty i broń palną kalibru pistoletowego. 2/3 paska reprezentuje pola anomalii, takie jak elektryczne, grawitacyjne anomalie, spalacze i baseny kwasowe, ataki psi-psów, mutanty o średniej sile i broń palną średniego kalibru. Pełny pasek oznacza ochronę przed najsilniejszymi polami anomalii, atakami kontrolerów, najsilniejszymi mutantami i bronią palną wysokiego kalibru. \n \n Maksimum (bez pól anomalii): Tak samo jak Maksimum, ale pola anomalii nie są brane pod uwagę. Przydatne, jeśli chcesz znać dokładną ochronę przed polami i planujesz je omijać, a nie przekonać się na własnej skórze, ile obrażeń od nich otrzymasz.</text>
-		<!-- <text>Włączenie tej opcji sprawi, że paski będą reprezentować ochronę przed rzeczywistymi zagrożeniami w grze (NPC, mutantami, anomaliami), w oparciu o ich wartości obrażeń, typy żywiołów, a także poprawione zachowanie ochrony kombinezonu i hełmu. Możesz wybrać następujące opcje \n Brak: wyłączenie opcji \n Maksimum: maksymalna wartość słupka reprezentuje maksymalne możliwe do otrzymania obrażenia \n Środek: maksymalna wartość słupka reprezentuje średnią arytmetyczną możliwych obrażeń \n Mediana: maksymalna wartość słupka reprezentuje medianę możliwych obrażeń, co spowoduje dokładniejsze odwzorowanie typowych otrzymywanych obrażeń.</text> -->
+		<text>Włączenie tej opcji sprawi, że paski będą reprezentować ochronę przed rzeczywistymi zagrożeniami w grze (NPC, mutantami, anomaliami), w oparciu o ich wartości obrażeń, typy żywiołów, a także poprawione zachowanie ochrony kombinezonu i hełmu. Można wybrać następujące opcje \n \n 
+Brak: wyłączenie opcji \n \n
+Maksimum: maksimum paska reprezentuje maksymalne możliwe do otrzymania obrażenia. W tym przypadku 1/3 paska reprezentuje zazwyczaj ogień, pola kwasowe i psioniczne, słabe mutanty i broń palną kalibru pistoletowego. 2/3 paska reprezentuje pola anomalii, takie jak elektryczne, anomalie grawitacyjne, Spalacze i baseny kwasowe, ataki psi-psów, mutanty o średniej sile i broń palną średniego kalibru. Pełny pasek oznacza ochronę przed najsilniejszymi polami anomalii, atakami kontrolerów, najsilniejszymi mutantami i bronią palną wysokiego kalibru. \n \n Maksimum (bez pól anomalii): Tak samo jak Maksimum, ale pola anomalii nie są brane pod uwagę. Przydatne, jeśli chcesz znać dokładną ochronę przed polami i planujesz je omijać, a nie przekonać się na własnej skórze, ile obrażeń od nich otrzymasz.</text>
+<!-- <text>Włączenie tej opcji sprawi, że paski będą reprezentować ochronę przed rzeczywistymi zagrożeniami w grze (NPC, mutantami, anomaliami), w oparciu o ich wartości obrażeń, typy żywiołów, a także poprawione zachowanie ochrony kombinezonu i hełmu. Możesz wybrać następujące opcje \n Brak: wyłączenie opcji \n Maksimum: maksymalna wartość słupka reprezentuje maksymalne możliwe do otrzymania obrażenia \n Środek: maksymalna wartość słupka reprezentuje średnią arytmetyczną możliwych obrażeń \n Mediana: maksymalna wartość słupka reprezentuje medianę możliwych obrażeń, co spowoduje dokładniejsze odwzorowanie typowych otrzymywanych obrażeń.</text> -->
 	</string>
 	<string id="ui_mcm_lst_better_stats_bars_use_game_values_none">
 		<text>Brak</text>
@@ -89,7 +85,6 @@
 	<string id="ui_mcm_lst_better_stats_bars_use_game_values_max_no_mines">
 		<text>Maksimum (Bez pól anomalii)</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_position">
 		<text>Położenie dodatkowych pasków względem pasków podstawowych</text>
 	</string>
@@ -102,40 +97,34 @@
 	<string id="ui_mcm_lst_better_stats_bars_position_justify">
 		<text>Wypełnij całą wysokość</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility">
 		<text>Kompatybilność z EFP UI (Modern UI)</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility_desc">
 		<text>Lepsze wyświetlanie pasków podczas korzystania z modpacka Escape From Pripyat (EFP). Zaleca się również ustawienie pozycji na "Wypełnij całą wysokość" i zmniejszenie krycia wszystkich rodzajów pasków.</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility">
 		<text>Kompatybilność z G.A.M.M.A. UI (dotyczy również starych modów na głód, pragnienie i sen)</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility_desc">
 		<text>Lepsze wyświetlanie pasków podczas korzystania z modpacka G.A.M.M.A. lub starej wersji moda na paski głodu, pragnienia i snu.</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_arx_compatibility">
 		<text>Kompatybilność z ARX</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_arx_compatibility_desc">
 		<text>Poprawniejsze wyświetlanie statystyk podczas korzystania z moda ARX (Artefact Restoration eXperiment).</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_abf_compatibility">
 		<text>Kompatybilność z ABF</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_abf_compatibility_desc">
 		<text>Poprawniejsze wyświetlanie statystyk podczas korzystania z moda ABF (Anomalous Balance Fix).</text>
 	</string>
-
 	<string id="ui_mcm_better_stats_bars_acid_bar_fix">
 		<text>Alternatywny wyświetlacz paska ochr. chemicznej</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_acid_bar_fix_desc">
 		<text>W trybie "Użyj maksymalnych wartości gry" pasek ochr. chemicznej jest bardziej użyteczny i ma większy zasięg, sztucznie zmniejszając siłę trafienia min kosztem precyzji wyświetlania.</text>
 	</string>
-		
 </string_table>

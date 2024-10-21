@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="windows-1250"?>
-
 <string_table>
 	<string id="ui_mcm_exo_servo_sounds_title">
 		<text>Exo servo sounds</text>
@@ -8,33 +7,33 @@
 		<text>Exo servo sounds</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_volume_walk">
-		<text>Dźwięk (podczas chodzenia)</text>
+		<text>Głośność (chodzenia)</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_volume_walk_desc">
-		<text>Dźwięk chodzenia</text>
+		<text>Głośność dźwięków chodzenia.</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_volume_land">
-		<text>Dźwięk (przy lądowaniu po skoku)</text>
+		<text>Głośność (przy lądowaniu po skoku)</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_volume_land_desc">
-		<text>Dźwięk lądowania</text>
+		<text>Głośność dźwięków lądowania postaci po skoku.</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_volume_jump">
-		<text>Dźwięk (podczas skoku)</text>
+		<text>Głośność (skoku)</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_volume_jump_desc">
-		<text>Dźwięk skoku</text>
+		<text>Głośność dźwięku skoku.</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_discharge">
-		<text>Rozładowanie</text>
+		<text>Wyładowanie</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_discharge_desc">
-		<text>Ilość utraconego ładunku po trafieniu przez anomalię elektryczną</text>
+		<text>Poziom naładowania utracony po otrzymaniu obrażeń od anomalii elektrycznej.</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_scale_freq">
 		<text>Skalowanie częstotliwości</text>
 	</string>
 	<string id="ui_mcm_exo_servo_sounds_scale_freq_desc">
-		<text>Skalowanie częstotliwości dźwięku w zależności od stanu (chodzenie, czołganie się, sprint itp.)</text>
+		<text>Skalowanie częstotliwości dźwięku w zależności od stanu (chodzenie, czołganie się, sprint itp.).</text>
 	</string>
 </string_table>

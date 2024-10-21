@@ -11,8 +11,8 @@
 	</string>
 	<string id="ammo_23x75_shrapnel_descr">
 		<text>Loftka ze œrutem. Zakres zastosowania do 25 metrów. S³u¿y do strzelania z KS-23. Ze wzglêdu na to, ¿e lufa posiada gwint w tym karabinku, œrut pokonuje du¿y dystans, co pozwala strzelaæ z rêki, praktycznie bez celowania.
-		\n%c[ui_gray_2] - %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]BR3 (6 x 6)
-		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]285 (47.5 x 6)</text>
+		\n%c[ui_gray_2] • %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]BR3 (6 x 6)
+		\n%c[ui_gray_2] • %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]285 (47.5 x 6)</text>
 	</string>
 	
 	<string id="ammo_23x75_barrikada">
@@ -20,17 +20,17 @@
 	</string>
 	<string id="ammo_23x75_barrikada_descr">
 		<text>Nabój ze stalowym, spiczastym pociskiem. S³u¿y do przymusowego zatrzymywania pojazdów poprzez ich uszkodzenie. Zasiêg strza³u to ok. 100 metrów. S³u¿y do strzelania z karabinka KS-23.
-		\n%c[ui_gray_2] - %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]BR5 (51)
-		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]133</text>
+		\n%c[ui_gray_2] • %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]BR5 (51)
+		\n%c[ui_gray_2] • %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]133</text>
 	</string>
 
 		<string id="ammo_9x21_sp10">
 		<text>Naboje 9x21 mm SP10</text>
 	</string>
 	<string id="ammo_9x21_sp10_descr">
-		<text>Nabój pistoletowy o zwiêkszonej sile penetracji. Zaprojektowany do niszczenia si³ l¹dowych wyposa¿onych œrodki ochrony osobistej. Czêœæ przednia rdzenia stalowego, wzmacnianego termicznie, wystaje z ³uski, dziêki czemu uzyskuje siê wysoki efekt penetracji pocisku.\n \n%c[ui_gray_2] - %c[ui_gray_2] Umo¿liwia przebicie pancerza klasy: %c[ui_gray_1]BR4\n%c[ui_gray_2] - %c[ui_gray_2] Obra¿enia zadawane miêkkiej tkance: %c[ui_gray_1]œrednie
-		\n%c[ui_gray_2] - %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]BR3 (32)
-		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]24</text>
+		<text>Nabój pistoletowy o zwiêkszonej sile penetracji. Zaprojektowany do niszczenia si³ l¹dowych wyposa¿onych œrodki ochrony osobistej. Czêœæ przednia rdzenia stalowego, wzmacnianego termicznie, wystaje z ³uski, dziêki czemu uzyskuje siê wysoki efekt penetracji pocisku.\n \n%c[ui_gray_2] • %c[ui_gray_2] Umo¿liwia przebicie pancerza klasy: %c[ui_gray_1]BR4\n%c[ui_gray_2] • %c[ui_gray_2] Obra¿enia zadawane miêkkiej tkance: %c[ui_gray_1]œrednie
+		\n%c[ui_gray_2] • %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]BR3 (32)
+		\n%c[ui_gray_2] • %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]24</text>
 	</string>
 
 	<string id="ammo_20x70_buck">
@@ -38,8 +38,8 @@
 	</string>
 	<string id="ammo_20x70_buck_descr">
 		<text>Standardowy nabój kalibru 20, wype³niony œrutem 6 mm. Bardzo zabójczy z bliskiej odleg³oœci. Nadaje siê tylko do u¿ytku z broni¹ g³adkolufow¹.\n \n%c[d_purple] • %c[ui_gray_2] Umo¿liwia przebicie pancerza klasy: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] Obra¿enia zadawane miêkkiej tkance: %c[ui_gray_1]œrednie - wysokie\n \n%c[ui_gray_1]SPECYFIKA:\n \n%c[d_purple] • %c[ui_gray_2] tworzy rój œrucin skutecznych na krótkim zasiêgu
-		\n%c[ui_gray_2] - %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]brak (3 x 9)
-		\n%c[ui_gray_2] - %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]143 (16 x 9)</text>
+		\n%c[ui_gray_2] • %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]brak (3 x 9)
+		\n%c[ui_gray_2] • %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]143 (16 x 9)</text>
 	</string>
 	<string id="ammo_20x70_buck_s">
 		<text>Œrut 20x70</text>

@@ -17,7 +17,7 @@
 	<string id="st_recipe_basic_descr">
 		<text>Ten poradnik zawiera podstawowe zagadnienia dotycz¹ce przetrwania. Posiada te¿ opis najpopularniejszych zestawów surwiwalowych. Ostatnie rozdzia³y informuj¹, jak z dostêpnych materia³ów stworzyæ podstawowe wyposa¿enie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,0,128,128] • %c[ui_gray_2] receptura wytwarzania\n
+		%c[0,0,128,128] • %c[ui_gray_2] Receptura wytwarzania\n
 		</text>
 	</string>
 	
@@ -36,7 +36,7 @@
 	<string id="st_recipe_advanced_descr">
 		<text>Podrêcznik zawieraj¹cy specyfikacje techniczne. Niektórzy czytaj¹ tego typu opracowania by pog³êbiæ swoj¹ wiedzê i dowiedzieæ siê wiêcej na temat dzia³ania kompleksów i fabryk w Zonie. Zawiera szczegó³owe informacje o mechanice i elektronice.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,0,128,128] • %c[ui_gray_2] receptura wytwarzania\n
+		%c[0,0,128,128] • %c[ui_gray_2] Receptura wytwarzania\n
 		</text>
 	</string>
 	
@@ -55,7 +55,7 @@
 	<string id="st_recipe_expert_descr">
 		<text>Ksi¹¿ka do nauki in¿ynierii przemys³owej, zawiera szczegó³owe instrukcje dotycz¹ce tworzenia i pos³ugiwania siê zaawansowan¹ elektronik¹. Pojawiaj¹ siê tu pojêcia takie, jak: wzmacniacz operacyjny, dioda pó³przewodnikowa, tranzystor bipolarny, tranzystor polowy. Druga czêœæ ksi¹¿ki zawiera poradnik rozwi¹zywania problemów dotycz¹cych urz¹dzeñ elektronicznych.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,0,128,128] • %c[ui_gray_2] receptura wytwarzania\n
+		%c[0,0,128,128] • %c[ui_gray_2] Receptura wytwarzania\n
 		</text>
 	</string>
 	
@@ -74,7 +74,7 @@
 	<string id="st_recipe_drug_descr">
 		<text>Kilka stron wyrwanych z notesu. Zapisane niebieskim atramentem, rozmazanym na skutek wp³ywu œrodowiska. Tekst jest ledwie czytelny, ale zawiera sposób przygotowania ró¿nych rodzajów u¿ywek i lekarstw, korzystaj¹c z ogólnodostêpnych wyrobów medycznych.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,0,128,128] • %c[ui_gray_2] receptura wytwarzania\n
+		%c[0,0,128,128] • %c[ui_gray_2] Receptura wytwarzania\n
 		</text>
 	</string>
 	
@@ -93,7 +93,7 @@
 	<string id="st_recipe_ammo_descr">
 		<text>Ka¿dy stalker powinien wiedzieæ, jak dopasowaæ pod siebie broñ, ale tak¿e, jak dobraæ do niej w³aœciw¹ amunicjê. Te instrukcje zawieraj¹ precyzyjne informacje na temat ró¿nych rodzajów amunicji, dodatkowo opisuj¹c podstawowe elementy pocisków ró¿nego kalibru.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,0,128,128] • %c[ui_gray_2] receptura wytwarzania\n
+		%c[0,0,128,128] • %c[ui_gray_2] Receptura wytwarzania\n
 		</text>
 	</string>
 	
@@ -103,7 +103,7 @@
 	<string id="st_recipe_cooking_descr">
 		<text>Plik rêcznie sporz¹dzonych zapisków. Zawiera szczegó³owe przepisy i porady, jak marynowaæ miêso mutantów w alkoholu. Wed³ug notatek, alkohol wyci¹ga z miêsa czêœæ promieniowania. Autorem zapisków musia³ byæ doœwiadczony stalker.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,0,128,128] • %c[ui_gray_2] receptura wytwarzania\n
+		%c[0,0,128,128] • %c[ui_gray_2] Receptura wytwarzania\n
 		</text>
 	</string>
 	

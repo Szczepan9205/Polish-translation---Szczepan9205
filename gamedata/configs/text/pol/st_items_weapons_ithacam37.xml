@@ -8,8 +8,8 @@
 	<string id="st_wpn_ithacam37_descr">
 		<text>Ithaca M37 to jedna z najbardziej rozpoznawalnych strzelb pump-action w Stanach Zjednoczonych, produkowana w du¿ych iloœciach dla cywilów, policji i wojska. Oparta na patencie projektanta broni palnej z 1915 roku, Johna Browninga, strzelba pocz¹tkowo nazwana Remington Model 17, wykorzystuje nowatorsk¹ kombinacjê portu wyrzutowego i ³aduj¹cego na spodzie broni, który pozostawia boki zamkniête dla oddzia³ywañ zewnêtrznych. Z 4-nabojowym magazynkiem i prost¹ konstrukcj¹, która przetrwa³a od 1937 roku, jest to godna uwagi tania broñ do nabycia.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ithaca Gun Company\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ithaca Gun Company\n
 		</text>
 	</string>
 		
@@ -19,8 +19,8 @@
 	<string id="st_wpn_ithacam37_trench_descr">
 		<text>Wariant strzelby okopowej Ithaca M37, wyposa¿ony w os³onê termiczn¹ i uchwyt bagnetu. Os³ona termiczna pomaga broni pozostaæ ch³odnym, co zapewnia lepszy chwyt broni, ale co najwa¿niejsze, ch³odzi lufê, co zmniejsza ryzyko niecelnoœci. Niewielka dodatkowa waga zmniejsza te¿ nieco odrzut. Ten wariant jest znacznie bardziej znany z faktu, ¿e znacznie ³atwiej jest z niego strzelaæ ogniem ci¹g³ym.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ithaca Gun Company\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ithaca Gun Company\n
 		</text>
 	</string>
 		
@@ -30,10 +30,10 @@
 	<string id="st_wpn_ithacam37_extmag_descr">
 		<text>"Defense" jest wariantem strzelby Ithaca M37, który dodaje rozszerzony magazynek, daj¹c miejsce na 3 dodatkowe pociski, co czyni j¹ w sumie 7-nabojow¹. Wykorzystuje równie¿ polimer zamiast drewna, z wykoñczeniem ze stali nierdzewnej, co powinno jeszcze bardziej poprawiæ i tak ju¿ œwietn¹ niezawodnoœæ i nieco zmniejszyæ ogóln¹ wagê.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_blue] • %c[0,255,255,255] powiêkszony magazynek\n \n
+		%c[d_blue] • %c[0,255,255,255] Powiêkszony magazynek\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ithaca Gun Company\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ithaca Gun Company\n
 		</text>
 	</string>
 		
@@ -43,8 +43,8 @@
 	<string id="st_wpn_ithacam37_stakeout_descr">
 		<text>Stakeout to "oficjalny" skrócony wariant Ithaca M37, wykorzystuj¹cy chwyt pistoletowy i lufê skrócon¹ do 330 mm. Stworzony dla cywilów, wiêkszoœæ z nich u¿ywa³aby go do nielegalnego zabijania z ukrycia w USA. W Zonie jest idealna jako alternatywa dla "pistoletu œrutowego", jeœli ¿aden z TOZ-ów nie by³ dla ciebie wystarczaj¹co dobry.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ithaca Gun Company\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ithaca Gun Company\n
 		</text>
 	</string>
 		
@@ -54,8 +54,8 @@
 	<string id="st_wpn_ithacam37_sawnoff_descr">
 		<text>"Nieoficjalny" skrócony wariant strzelby Ithaca M37, innymi s³owy, jej polowa modyfikacja. Odciêcie kolby zmniejsza wagê i skraca d³ugoœæ strzelby, czyni¹c j¹ lepsz¹ do noszenia w ukryciu. Robi¹ to g³ównie Bandyci i Renegaci, którzy równie¿ nosz¹ takie strzelby. Jedn¹ z prawdziwych zalet jest to, ¿e jest przynajmniej odrobinê lepsza ni¿ Stakeout, zachowuj¹c tê sam¹ d³ugoœæ lufy, dziêki czemu nie ma tak powa¿nej utraty celnoœci.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ithaca Gun Company\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ithaca Gun Company\n
 		</text>
 	</string>
 	

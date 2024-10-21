@@ -8,8 +8,8 @@
 	<string id="st_wpn_9a91n_descr">
 		<text>9A91 jest broni¹ gazow¹ z obrotowym ryglem, która wykorzystuje t³ok gazowy o d³ugim skoku, umieszczony nad luf¹, oraz obrotowy rygiel z 4 wystêpami. G³owica wykonana jest ze stali, a przednia czêœæ i chwyt pistoletowy z polimeru. Stalowa kolba sk³ada siê do góry, gdy nie jest u¿ywana. Odchylany tylny celownik ma ustawienia dla zasiêgu 100 i 200 metrów, ale stosunkowo krótka podstawa celownika i stroma trajektoria pocisku poddŸwiêkowego ograniczaj¹ zasiêg 9A-91 do oko³o 100 metrów.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9A-91/WSK-94\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: do 9A-91/WSK-94\n
 		</text>
 	</string>
 
@@ -19,9 +19,9 @@
 	<string id="st_wpn_vsk94n_descr">
 		<text>Oparty na kompaktowym karabinie szturmowym 9A-91, VSK-94 jest karabinem wyborowym z t³umikiem zaprojektowanym w 1995 roku przez Wasilija Gryazewa. Zachowuje gazow¹ zasadê dzia³ania 9A-91 z obrotow¹ œrub¹ i m³otkowym mechanizmem ognia i jest u¿ywany g³ównie przez si³y specjalne i organy œcigania w Rosji. Gwintowana lufa jest zaprojektowana do u¿ycia specjalnie zaprojektowanego t³umika.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik 9A-91/WSK-94\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik do 9A-91/WSK-94\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
 		</text>
 	</string>
 

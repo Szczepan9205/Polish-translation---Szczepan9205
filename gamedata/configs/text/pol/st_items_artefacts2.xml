@@ -8,8 +8,8 @@
 	<string id="st_af_atom_descr">
 		<text>Dosyæ rzadka i piêkna forma artefaktu. Nazwê zawdziêcza swojemu wygl¹dowi. Stanowi s³abe Ÿród³o ciep³a. Nie ma innych u¿ytecznych w³aœciwoœci ani nie emituje promieniowania. Bardzo ceniony przez kolekcjonerów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_ball_name">
@@ -18,8 +18,8 @@
 	<string id="st_af_ball_descr">
 		<text>Nie ma ¿adnych informacji na temat warunków, w jakich powstaje siê ten okr¹g³y artefakt, ale najczêœciej znajdowany jest w okolicy stref zwiêkszonej elektrycznoœci. Bardzo ¿wawy i skoczny twór. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_bat_name">
@@ -28,8 +28,8 @@
 	<string id="st_af_bat_descr">
 		<text>Bardzo estetyczna formacja anomalna. Nie posiada u¿ytecznych w³aœciwoœci ani nie emituje promieniowania, ale jest dosyæ ciê¿ki. Ceniony przez kolekcjonerów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_lighthouse_name">
@@ -38,8 +38,8 @@
 	<string id="st_af_lighthouse_descr">
 		<text>Grudka niezwykle gêstej substancji zbudowanej z cennych pierwiastków wykorzystywanych w przemyœle. Nie emituje promieniowania, nie ma u¿ytecznych w³aœciwoœci.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_black_angel_name">
@@ -48,8 +48,8 @@
 	<string id="st_af_black_angel_descr">
 		<text>Artefakt przypominaj¹cy korzeñ. Jego powierzchnia zdaje siê parowaæ, o ile niczego nie dotyka. Bardzo ceniony przez kolekcjonerów. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_chelust_name">
@@ -58,8 +58,8 @@
 	<string id="st_af_chelust_descr">
 		<text>Bardzo dziwny artefakt. Generuje silne pole grawitacyjne, o ile z niczym siê nie styka. Nie ma u¿ytecznych w³aœciwoœci. Bardzo ciê¿ki. Ceniony przez kolekcjonerów spoza Zony.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_cocoon_name">
@@ -68,8 +68,8 @@
 	<string id="st_af_cocoon_descr">
 		<text>Twór natury grawitacyjnej. Bezu¿yteczny bibelot, chocia¿ budzi zainteresowanie kolekcjonerów i jubilerów. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_cell_name">
@@ -78,8 +78,8 @@
 	<string id="st_af_cell_descr">
 		<text>Twór natury grawitacyjnej. Bezu¿yteczny bibelot, chocia¿ wartoœciowy dla kolekcjonerów i jubilerów. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_kogot_name">
@@ -88,8 +88,8 @@
 	<string id="st_af_kogot_descr">
 		<text>Piêkny, przypominaj¹cy szk³o twór anomalii elektrostatycznej. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania. Nie wzbudza zainteresowania poza Zon¹.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_dragon_eye_name">
@@ -98,8 +98,8 @@
 	<string id="st_af_dragon_eye_descr">
 		<text>Artefakt zwykle powstaje w anomaliach ogniowych i przyjmuje wygl¹d gadziego oka. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_elektron_name">
@@ -108,8 +108,8 @@
 	<string id="st_af_elektron_descr">
 		<text>Artefakt jest produktem anomalii elektrycznych. Bardzo ciê¿ki. Nie ma u¿ytecznych w³aœciwoœci, nie emituje promieniowania. Niezwykle ceniony za Kordonem.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_fountain_name">
@@ -118,8 +118,8 @@
 	<string id="st_af_fountain_descr">
 		<text>Artefakt prawdopodobnie pochodzenia grawitacyjnego. Nie posiada ¿adnych u¿ytecznych w³aœciwoœci, ale ze wzglêdu na swój dziwaczny kszta³t stanowi gratkê dla kolekcjonerów. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_generator_name">
@@ -128,8 +128,8 @@
 	<string id="st_af_generator_descr">
 		<text>Artefakt wytwarza pr¹d elektryczny o niewielkim napiêciu i s³abe pole elektromagnetyczne. Stanowi Ÿród³o energii i z tego wzglêdu jest bardzo ceniony za Kordonem. Poza tym, nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_grapes_name">
@@ -138,8 +138,8 @@
 	<string id="st_af_grapes_descr">
 		<text>Substancja podobna do bursztynu o lekkim, zielonkawym odcieniu. Powstaje tylko w najpotê¿niejszych anomaliach. Z tego powodu jest dosyæ ciê¿ki. Bardzo ceniony przez kolekcjonerów. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_ear_name">
@@ -148,8 +148,8 @@
 	<string id="st_af_ear_descr">
 		<text>Artefakt o dziwnym kszta³cie. Struktura jego rdzenia przypomina ludzkie cia³o. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania. Ceniony przez kolekcjonerów spoza Zony.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_fonar_name">
@@ -158,8 +158,8 @@
 	<string id="st_af_fonar_descr">
 		<text>Artefakt posiada w³aœciwoœci elektryczne - generuje niezbyt wysokie napiêcie elektryczne i lekk¹ poœwiatê. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania. Kolekcjonerzy raczej rzadko okazuj¹ nimi zainteresowanie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_medallion_name">
@@ -168,8 +168,8 @@
 	<string id="st_af_medallion_descr">
 		<text>Niewielkie ko³o z czterema uczepionymi po bokach elementami w kszta³cie zaokr¹glonych trójk¹tów. Ceniony przez kolekcjonerów. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 
@@ -179,8 +179,8 @@
 	<string id="st_af_peas_descr">
 		<text>Artefakt kszta³tem przypominaj¹cy sierp. Wytwarza przyciemnione, niezbyt silne œwiat³o. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania. Ceniony przez kolekcjonerów i jubilerów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_moh_name">
@@ -189,8 +189,8 @@
 	<string id="st_af_moh_descr">
 		<text>Artefakt elektryczny. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania. Bezwartoœciowy.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_star_phantom_name">
@@ -199,8 +199,8 @@
 	<string id="st_af_star_phantom_descr">
 		<text>Stworzona w Anomalii. To podobna do plazmy substancja w przeŸroczystej, pulsuj¹cej skorupie. Generuje s³abe pole grawitacyjne. Nie posiada u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_sandstone_name">
@@ -209,8 +209,8 @@
 	<string id="st_af_sandstone_descr">
 		<text>Artefakt tworzy siê w strefach niezwykle wysokiej temperatury. Nie emituje promieniowania i nie ma u¿ytecznych w³aœciwoœci. Z powodu wygl¹du nie interesuj¹ siê nim kolekcjonerzy, aczkolwiek zawiera w sobie niewielk¹ iloœæ z³ota, co nieznacznie podnosi jego wartoœæ.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_zhelch_name">
@@ -219,8 +219,8 @@
 	<string id="st_af_zhelch_descr">
 		<text>Artefakt dzia³a uspokajaj¹co na ludzki uk³ad nerwowy. Tworzy wokó³ siebie bardzo s³abe pole grawitacyjne i elektryczne. Oprócz tego nie ma u¿ytecznych w³aœciwoœci. Bardzo ceniony przez jubilerów. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_serofim_name">
@@ -229,8 +229,8 @@
 	<string id="st_af_serofim_descr">
 		<text>Artefakt elektryczny. Generuje chwilowe pola grawitacyjne. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_signet_name">
@@ -239,8 +239,8 @@
 	<string id="st_af_signet_descr">
 		<text>Czêœæ stalkerów nazywa go Amuletem. Raczej bezu¿yteczny, choæ wed³ug niektórych przynosi szczêœcie. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_kislushka_name">
@@ -249,8 +249,8 @@
 	<string id="st_af_kislushka_descr">
 		<text>Pusta, kulista formacja przypominaj¹ca pewnego rodzaju pó³przezroczysty pergamin. Pokryta cienk¹, przyjemn¹ w dotyku b³on¹. Nie emituje promieniowania i nie ma u¿ytecznych w³aœciwoœci. Ceniona przez kolekcjonerów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_spaika_name">
@@ -259,8 +259,8 @@
 	<string id="st_af_spaika_descr">
 		<text>Przypomina skamielinê. Najprawdopodobniej ma pochodzenie grawitacyjne. Nie posiada u¿ytecznych w³aœciwoœci, nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_sun_name">
@@ -269,8 +269,8 @@
 	<string id="st_af_sun_descr">
 		<text>Dosyæ rzadki twór, niezwykle ceniony przez kolekcjonerów. Poza tym, ¿e jest niewyczerpanym Ÿród³em œwiat³a, nie ma u¿ytecznych w³aœciwoœci. Bardzo ciê¿ki. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_tapeworm_name">
@@ -279,8 +279,8 @@
 	<string id="st_af_tapeworm_descr">
 		<text>Czysty dwutlenek krzemu, przynajmniej wed³ug masy cz¹steczkowej. Wykazuje dziwne zachowania. Nie ma u¿ytecznych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 <!---
@@ -293,8 +293,8 @@
 	<string id="st_af_vaselisk_descr">
 		<text>Jeden z niewielu artefaktów, który zabezpiecza posiadacza przed ka¿dym dzia³aj¹cym na niego czynnikiem fizycznym.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_arty_save">
@@ -303,8 +303,8 @@
 	<string id="st_arty_save_descr">
 		<text>Jeden z najbardziej tajemniczych artefaktów w Zonie. Oko Noosfery potrafi swego u¿ytkownika cofaæ w czasie, pozwalaj¹c nawet wyrwaæ siê œmierci. Lekkie œciœniêcie artefaktu aktywuje jego zdolnoœæ, tworz¹c "punkt przywracania" po ponownym œciœniêciu lub po zgonie. Czêste u¿ycie mo¿e powodowaæ zmianê koloru tworu, a zbyt czêste korzystanie z mocy mo¿e sprawiæ, ¿e ca³kowicie przestanie dzia³aæ. Oko Noosfery z biegiem czasu odnawia swoje w³aœciwoœci, co sugeruje, ¿e mo¿e byæ napêdzane przez energiê anomaln¹ Zony.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[0,255,215,0] nadartefakt\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[0,255,215,0] Nadartefakt\n</text>
 	</string>
 
 	<string id="st_af_gimlet_name">
@@ -313,8 +313,8 @@
 	<string id="st_af_gimlet_descr">
 		<text>P³atki artefaktu w kszta³cie misy uwalniaj¹ potê¿ny, gazowy stymulant. Ma bardzo pozytywny wp³yw na na gospodarkê hormonaln¹ cz³owieka.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_geliy_name">
@@ -323,8 +323,8 @@
 	<string id="st_af_geliy_descr">
 		<text>Jasny (dos³ownie) reprezentant artefaktów pochodz¹cych z anomalii elektrostatycznych. Wydziela gazow¹ substancjê maj¹c¹ pozytywny wp³yw na cia³o posiadacza. Ze wzglêdu na wysok¹ wydajnoœæ, popyt na niego utrzymuje siê na wysokim poziomie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_fire_loop_name">
@@ -333,7 +333,7 @@
 	<string id="st_af_fire_loop_descr">
 		<text>Warunkiem do powstania tego artefaktu jest gwa³towny wzrost temperatury wewn¹trz anomalii termicznej. Posiada doœæ dziwny kszta³t, dziêki któremu ceniony jest przez kolekcjonerów. Nie emituje promieniowania i nie ma u¿ytecznych w³aœciwoœci.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_skull_miser_name">
@@ -342,8 +342,8 @@
 	<string id="st_af_skull_miser_descr">
 		<text>Bardzo lekki i delikatny artefakt. Nie ma absolutnie ¿adnych w³aœciwoœci. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 	<string id="st_af_repei_name">
@@ -352,8 +352,8 @@
 	<string id="st_af_repei_descr">
 		<text>Dosyæ czêsto tworzy siê w anomaliach grawitacyjnych. Nie posiada u¿ytecznych w³aœciwoœci, ani cech szkodliwych. Wielu stalkerów - nie wiedzieæ czemu - nie wyobra¿a sobie wyjœcia w Zonê bez tego tworu. Jest lekki i ceniony przez jubilerów oraz kolekcjonerów. Nie emituje promieniowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿na umieœciæ w pojemniku na artefakty\n</text>
 	</string>
 
 </string_table>

@@ -8,9 +8,9 @@
 	<string id="st_brewed_coffee_descr">
 		<text>Kawa parzona. Nale¿y piæ j¹ zaraz po zaparzeniu, gdy jest jeszcze gor¹ca.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] napój\n
-		%c[d_green] • %c[ui_gray_2] stymulant\n
-		%c[d_green] • %c[ui_gray_2] silny efekt otrzeŸwiaj¹cy po alkoholu\n
+		%c[d_cyan] • %c[ui_gray_2] Napój\n
+		%c[d_green] • %c[ui_gray_2] Stymulant\n
+		%c[d_green] • %c[ui_gray_2] Silny efekt otrzeŸwiaj¹cy po alkoholu\n
 		</text>
 	</string>
 	

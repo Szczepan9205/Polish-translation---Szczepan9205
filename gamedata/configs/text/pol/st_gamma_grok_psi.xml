@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 	<string id="st_gamma_psi_danger">
-		<text>Niebezpieczne poziomy promieniowania psionicznego. Powtarzające się wizje instalacji psionicznej rozdzierają twój umysł.</text>
+		<text>Niebezpieczne poziomy promieniowania psionicznego. Powtarzające się wizje wytwarzane przez instalację psioniczną ranią twój mózg!</text>
 	</string>
 </string_table>

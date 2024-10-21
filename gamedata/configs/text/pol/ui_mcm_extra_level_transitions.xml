@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-	
 	<string id="ui_mcm_extra_level_transitions_title">
 		<text>Dodatkowe przejścia między lokacjami</text>
 	</string>
@@ -20,5 +19,4 @@
 	<string id="ui_mcm_extra_level_transitions_delete_level_transitions_desc">
 		<text>Dodatkowe przejścia między lokacjami zostaną usunięte z gry. Opcja jest przeznaczona do bezpiecznego usunięcia moda</text>
 	</string>
-	
 </string_table>

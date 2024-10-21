@@ -240,10 +240,10 @@
 		Mody
 	-->
 	<string id="ui_utjan_recipe_read">
-		<text>przeczytane</text>
+		<text>Przeczyt.</text>
 	</string>
 	<string id="ui_utjan_recipe_unread">
-		<text>nieprzeczytane</text>
+		<text>Nieprzeczyt.</text>
 	</string>
 	<string id="ui_utjan_ruble">
 		<text>ru</text>

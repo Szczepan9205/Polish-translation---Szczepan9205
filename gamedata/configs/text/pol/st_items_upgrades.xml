@@ -23,6 +23,33 @@
 		</text>
 	</string>
 	
+	<string id="st_upgr_o_power">
+		<text>Czêœci plastikowe i syntetyczne</text>
+	</string>
+	<string id="st_upgr_o_power_desc">
+		<text>Ten pakiet zawiera czêœci syntetyczne i plastikowe z ró¿nych kombinezonów opancerzonych. Zaprojektowany w celu zmniejszenia ciê¿aru pancerza, oraz zwiêkszenia mobilnoœci i wytrzyma³oœci.\n \n</text>
+	</string>
+	<string id="st_upgr_o_carry">
+		<text>System mocowania do roz³o¿enia obci¹¿enia</text>
+	</string>
+	<string id="st_upgr_o_carry_desc">
+		<text>Ten pakiet zawiera zestaw ró¿nych elementów mocuj¹cych do rozk³adania obci¹¿enia.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_arty">
+		<text>Dodatkowe mocowania</text>
+	</string>
+	<string id="st_upgr_o_arty_desc">
+		<text>Ten pakiet zawiera pas mocuj¹cy do kombinezonu, aby zwiêkszyæ liczbê jednoczeœnie u¿ywanych modu³ów i pojemników na artefakty.\n \n</text>
+	</string>
+	
+	<string id="st_upgr_o_run">
+		<text>Hydrauliczny system wzmacniania serwomotorów</text>
+	</string>
+	<string id="st_upgr_o_run_desc">
+		<text>Pakiet ten zawiera udoskonalone, prototypowe serwomotory dla egzoszkieletów I i II generacji, umo¿liwiaj¹c u¿ytkownikowi bieganie.\n \n</text>
+	</string>	
+	
 	<string id="st_upgr_o_armor">
 		<text>Wzmocnione wk³adki balistyczne</text>
 	</string>
@@ -44,12 +71,7 @@
 		<text>Ten pakiet zawiera trwa³e p³yty pancerne z tytanu i stopu aluminium do ciê¿kiego wyposa¿enia oraz polimerowe wk³adki do wyposa¿enia lekkiego.\n \n</text>
 	</string>
 	
-	<string id="st_upgr_o_power">
-		<text>Czêœci plastikowe i syntetyczne</text>
-	</string>
-	<string id="st_upgr_o_power_desc">
-		<text>Ten pakiet zawiera czêœci syntetyczne i plastikowe z ró¿nych kombinezonów opancerzonych. Zaprojektowany w celu zmniejszenia ciê¿aru pancerza, oraz zwiêkszenia mobilnoœci i wytrzyma³oœci.\n \n</text>
-	</string>
+
 	
 	<string id="st_upgr_o_chem">
 		<text>Chemiczne wk³adki ogniotrwa³e</text>
@@ -80,32 +102,13 @@
 	</string>
 	
 	<string id="st_upgr_o_rad">
-		<text>Filtry aktywne i materia³y os³aniaj¹ce przed promieniowaniem</text>
+		<text>Filtry aktywne i materia³y chroni¹ce przed promieniowaniem</text>
 	</string>
 	<string id="st_upgr_o_rad_desc">
 		<text>Zestaw filtrów ochronnych, zapobiegaj¹cych przedostawaniu siê ró¿nych trucizn i chemikaliów do organizmu przez uk³ad oddechowy. Dodatkowo zawiera materia³y o wysokiej gêstoœci, by filtrowaæ cz¹steczki alfa i gamma.\n \n</text>
 	</string>
 	
-	<string id="st_upgr_o_carry">
-		<text>System mocowania do roz³o¿enia obci¹¿enia</text>
-	</string>
-	<string id="st_upgr_o_carry_desc">
-		<text>Ten pakiet zawiera zestaw ró¿nych elementów mocuj¹cych do rozk³adania obci¹¿enia.\n \n</text>
-	</string>
-	
-	<string id="st_upgr_o_arty">
-		<text>Dodatkowe mocowania</text>
-	</string>
-	<string id="st_upgr_o_arty_desc">
-		<text>Ten pakiet zawiera pas mocuj¹cy do kombinezonu, aby zwiêkszyæ liczbê jednoczeœnie u¿ywanych modu³ów i pojemników na artefakty.\n \n</text>
-	</string>
-	
-	<string id="st_upgr_o_run">
-		<text>Hydrauliczny system wzmacniania serwomotorów</text>
-	</string>
-	<string id="st_upgr_o_run_desc">
-		<text>Pakiet ten zawiera udoskonalone, prototypowe serwomotory dla egzoszkieletów I i II generacji, umo¿liwiaj¹c u¿ytkownikowi bieganie.\n \n</text>
-	</string>
+
 	
 	<string id="st_upgr_o_weight">
 		<text>Lekkie materia³y</text>
@@ -165,10 +168,10 @@
 	</string>
 	
 	<string id="st_upgr_w_scope">
-		<text>Zestaw do monta¿u lunet optycznych</text>
+		<text>Zestaw do monta¿u celowników optycznych</text>
 	</string>
 	<string id="st_upgr_w_scope_desc">
-		<text>Pakiet ten umo¿liwia monta¿ lunety do walki na bliskim, œrednim i d³ugim dystansie do ró¿nych rodzajów broni.\n \n</text>
+		<text>Pakiet ten umo¿liwia monta¿ celowników do walki na bliskim, œrednim i d³ugim dystansie do ró¿nych rodzajów broni.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_dispersion">

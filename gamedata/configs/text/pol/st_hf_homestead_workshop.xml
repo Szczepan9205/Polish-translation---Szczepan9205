@@ -8,9 +8,9 @@
 	<string id="st_placeable_workshop_descr">
 		<text>Po³¹czenie rozk³adanego sto³u, narzêdzi warsztatowych i zintegrowanego schowka. Pozwala to stalkerom byæ bardziej samowystarczalnymi w mniej przyjaznych obszarach, choæ jego waga zniechêca do tworzenia w czasie wypraw.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ jako schowek\n
-		%c[d_orange] • %c[ui_gray_2] przydatny do naprawy sprzêtu\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿e byæ u¿yty jako schowek\n
+		%c[d_orange] • %c[ui_gray_2] Przydatny do naprawy sprzêtu\n
 		</text>
 	</string>
 	

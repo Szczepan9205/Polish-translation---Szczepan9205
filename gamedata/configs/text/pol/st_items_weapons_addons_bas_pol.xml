@@ -102,7 +102,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]C-More Systems\n
-		%c[d_cyan] • %c[0,255,255,255] magnification: %c[ui_gray_2]4.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]4.0x\n \n
 		</text>
     </string>
 		
@@ -114,7 +114,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Belgia\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n 
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 5.7x28 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 5.7x28 mm\n
 		</text>
 	</string>
 			
@@ -126,7 +126,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Ró¿ne kraje\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 9 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 9 mm\n
 		</text>
 	</string>
 		
@@ -138,7 +138,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 5.56x45 mm i 7.62 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 5.56x45 mm i 7.62 mm\n
 		</text>
 	</string>
 	
@@ -150,7 +150,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 9 mm i .45 ACP\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 9 mm i .45 ACP\n
 		</text>
 	</string>
 	
@@ -162,7 +162,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 7.62 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 7.62 mm\n
 		</text>
 	</string>
 	
@@ -174,7 +174,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Belgia\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru .45 ACP, 5.56x45 mm i 7.62 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru .45 ACP, 5.56x45 mm i 7.62 mm\n
 		</text>
 	</string>
 	
@@ -186,7 +186,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 7.62 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 7.62 mm\n
 		</text>
 	</string>
 	
@@ -198,7 +198,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 5.45 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 5.45 mm\n
 		</text>
 	</string>
 		
@@ -210,7 +210,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 5.45 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 5.45 mm\n
 		</text>
 	</string>
 		
@@ -222,7 +222,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 5.56x45 mm \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 5.56x45 mm \n
 		</text>
 	</string>
 		
@@ -451,7 +451,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[0,255,255,255] Broñ kalibru 12\n
+		%c[d_cyan] • %c[0,255,255,255] Broni¹ kalibru 12\n
 		</text>
 	</string>
 	
@@ -501,7 +501,7 @@
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Brak informacji\n
 		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]Regulowane od 1.0x do 8.0x\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Gaussa i wybrane bronie\n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Gaussa i wybranymi broniami\n
 		</text>
 	</string>
 	
@@ -513,7 +513,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 7.62x39 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 7.62x39 mm\n
 		</text>
 	</string>
 	
@@ -634,7 +634,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 7.62x54 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 7.62x54 mm\n
 		</text>
 	</string>
 	
@@ -644,8 +644,8 @@
 	<string id="st_addon_scope_trijicon_rmr_descr">
 		<text>Zestaw taktyczny zawiera kombinacjê dwóch lunet amerykañskiej firmy Trijicon. Daje mo¿liwoœæ zainstalowania dwóch lunet Trijicon Acog BAC 5.56 BDC i Trijicon RMR, na karabinach z szynami monta¿owymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na wygodne u¿ywanie karabinu na krótkich i d³ugich dystansach.
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG BAC 5.56 BDC\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon ACOG BAC 5.56 BDC\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n \n
 		</text>
 	</string>	
 	
@@ -655,8 +655,8 @@
 	<string id="st_addon_scope_mark8_rmr_descr">
 		<text>Ten zestaw taktyczny zawiera kombinacjê dwóch lunet amerykañskich firm Leupold i Trijicon. Daje mo¿liwoœæ zainstalowania dwóch lunet Leupold Mark 8 CQBSS i Trijicon RMR, na karabinach z szynami monta¿owymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na wygodne u¿ywanie karabinu na krótkich i d³ugich dystansach.
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Leupold Mark 8 CQBSS\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Leupold Mark 8 CQBSS\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n \n
 		</text>
 	</string>
 
@@ -666,8 +666,8 @@
 	<string id="st_addon_scope_spec_alt_descr">
 		<text>Ten zestaw taktyczny zawiera kombinacjê dwóch lunet kanadyjskiej firmy ELCAN i amerykañskiej firmy Trijicon. Daje mo¿liwoœæ zainstalowania dwóch lunet SpectreDR DFOV14-C2 1-4x oraz Trijicon RMR, na karabinach z szynami monta¿owymi Picatinny lub Weaver. Taka konfiguracja pozwala strzelcowi na komfortowe u¿ywanie karabinu na krótkich i d³ugich dystansach.
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Elcan SpecterDR DFOV14-C2\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n \n
 		</text>
 	</string>
 	
@@ -677,8 +677,8 @@
 	<string id="st_addon_scope_kashtan_rmr_descr">
 		<text>Ten zestaw taktyczny zawiera kombinacjê dwóch lunet wyprodukowanych przez CBK "Toczpribor" i amerykañskie firmy Trijicon. Daje mo¿liwoœæ zainstalowania dwóch lunet 1P78 Kasztan i Trijicon RMR, na karabinach wyposa¿onych w szyny monta¿owe typu Jaskó³czy Ogon i Picatinny. Taka konfiguracja pozwala strzelcowi na wygodne u¿ywanie karabinu na krótkich i d³ugich dystansach.
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Toczpribor 1P78 Kasztan\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Toczpribor 1P78 Kasztan\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n \n
 		</text>
 	</string>
 	
@@ -687,8 +687,8 @@
 	</string>
 	<string id="st_addon_scope_psicho_rmr_descr">
 		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] celownik BelOMO PSO-1M2-1\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik BelOMO PSO-1M2-1\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n \n
 		</text>
 	</string>
 
@@ -700,7 +700,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 23 mm\n \n 
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 23 mm\n \n 
 		</text>
 	</string>		
 	
@@ -712,7 +712,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 7.62x54 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 7.62x54 mm\n \n
 		</text>
 	</string>
 	
@@ -724,7 +724,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 7.62x54 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 7.62x54 mm\n \n
 		</text>
 	</string>		
 	
@@ -736,7 +736,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 9 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 9 mm\n \n
 		</text>
 	</string>
 
@@ -748,7 +748,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 9 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 9 mm\n \n
 		</text>
 	</string>
 
@@ -760,7 +760,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 7.62x54 mm, 5.45 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 7.62x54 mm, 5.45 mm\n \n
 		</text>
 	</string>
 
@@ -772,7 +772,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 12 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 12 mm\n \n
 		</text>
 	</string>
 
@@ -784,7 +784,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ kalibru 9 mm i .45 ACP\n \n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ kalibru 9 mm i .45 ACP\n \n
 		</text>
 	</string>
 
@@ -795,8 +795,8 @@
 		<text>Krótka i lekka lufa do karabinka KS-23. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[0,255,255,255]KOMPATYBILNA Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Strzelba KS-23\n \n
+		%c[0,255,255,255]KOMPATYBILNA ZE:\n
+		%c[d_cyan] • %c[ui_gray_2] Strzelb¹ KS-23\n \n
 		</text>
 	</string>
 
@@ -808,7 +808,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Remington Model 700\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Remington Model 700\n \n
 		</text>
 	</string>
 
@@ -820,7 +820,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet SR1MP 9x21 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem SR1MP kalibru 9x21 mm\n \n
 		</text>
 	</string>
 
@@ -832,7 +832,7 @@
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
 		%c[d_cyan] • %c[ui_gray_2] adapter lub urz¹dzenie wylotowe do u¿ytku z t³umikiem\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Mauser 98k "Leœnik"\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Mauser 98k "Leœnik"\n \n
 		</text>
 	</string>
 
@@ -844,7 +844,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Mauser 98k "Leœnik"\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Mauser 98k "Leœnik"\n \n
 		</text>
 	</string>
 
@@ -858,7 +858,7 @@
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
 		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]1.0x\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet PL-15 "Lebiediew"\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem PL-15 "Lebiediew"\n \n
 		</text>
 	</string>
 
@@ -870,7 +870,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700 .338 Lapua Magnum\n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Remington M700 .338 Lapua Magnum\n
 		</text>
 	</string>
 
@@ -882,7 +882,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %cui_gray_2] Pistolet PL-15 "Lebiediew"\n
+		%c[d_cyan] • %cui_gray_2] Pistoletem PL-15 "Lebiediew"\n
 		</text>
 	</string>
 
@@ -894,7 +894,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Broñ ISG kalibru 5.45 mm/7.62x54 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Broni¹ ISG kalibru 5.45 mm/7.62x54 mm\n
 		</text>
 	</string>
 
@@ -920,7 +920,7 @@
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
 		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]4.0x\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet maszynowy SR-2M\n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem maszynowym SR-2M\n
 		</text>
 	</string>
 
@@ -932,7 +932,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet maszynowy SR-2M\n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem maszynowym SR-2M\n
 		</text>
 	</string>
 
@@ -956,7 +956,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Austria\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Aug Steyr\n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Aug Steyr\n
 		</text>
 	</string>
 
@@ -968,7 +968,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin M4A1 RAS, karabin L85A2\n
+		%c[d_cyan] • %c[ui_gray_2] Karabinami M4A1 RAS i L85A2\n
 		</text>
 	</string>
 
@@ -982,7 +982,7 @@
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Royal Armament Research Development\n
 		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]4.0x\n \n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Taktyczny L85A2\n \n
+		%c[d_cyan] • %c[ui_gray_2] Taktycznym L85A2\n \n
 		</text>
 	</string>
 
@@ -994,7 +994,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin taktyczny M4\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem taktycznym M4\n \n
 		</text>
 	</string>
 
@@ -1006,7 +1006,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Belgia\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin FN SCAR\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem FN SCAR\n \n
 		</text>
 	</string>
 
@@ -1018,7 +1018,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Taktyczny L85A2\n \n
+		%c[d_cyan] • %c[ui_gray_2] Taktycznym L85A2\n \n
 		</text>
 	</string>
 
@@ -1030,7 +1030,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Japonia\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Howa Type 20\n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Howa Type 20\n
 		</text>
 	</string>
 
@@ -1043,10 +1043,10 @@
 	<string id="st_addon_scope_mono_kit_descr">
 		<text>W sk³ad zestawu wchodz¹: ergonomiczna lufa umo¿liwiaj¹ca monta¿ podlufowego granatnika 30mm oraz przyrz¹dy celownicze na krótkie i œrednie dystanse: Trijicon ACOG oraz AN/PEQ-16 LAM. W zestawie znajduje siê równie¿ komplet magazynków na 60 naboi. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] ergonomiczne ramiê do monta¿u granatnika podlufowego 30 mm\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG\n
+		%c[d_cyan] • %c[ui_gray_2] Ergonomiczne ramiê do monta¿u granatnika podlufowego 30 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon ACOG\n
 		%c[d_cyan] • %c[ui_gray_2] TNVC AN/PEQ-16 LAM illumination module\n
-		%c[d_cyan] • %c[ui_gray_2] magazynek bêbnowy na 60 naboi\n
+		%c[d_cyan] • %c[ui_gray_2] Magazynek bêbnowy na 60 naboi\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
 		%c[d_cyan] • %c[ui_gray_2] AK-12 Monolitu\n \n
 		</text>
@@ -1058,14 +1058,14 @@
 	<string id="st_addon_scope_kit_aus_tri_descr">
 		<text>Zestaw zamieniaj¹cy broñ w œwietny karabin wyborowy. W sk³ad zestawu wchodz¹: chwyt pistoletowy Fab AG FAL, os³ona przeciwkurzowa DS Arms Extreme Duty z szyn monta¿owych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostêpne s¹ równie¿ dwie lunety: Aimpoint T1 na NcStar 45 i Trijicon ACOG. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] chwyt pistoletowy Fab AG FAL\n
-		%c[d_cyan] • %c[ui_gray_2] os³onê przeciwkurzow¹ SA-58 Extreme Duty\n
-		%c[d_cyan] • %c[ui_gray_2] szynê Picatinny\n
-		%c[d_cyan] • %c[ui_gray_2] chwyt przedni Vltor CASV\n
-		%c[d_cyan] • %c[ui_gray_2] lufê 21" \n
-		%c[d_cyan] • %c[ui_gray_2] kolbê DSA BRS \n
-		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG\n \n
+		%c[d_cyan] • %c[ui_gray_2] Chwyt pistoletowy Fab AG FAL\n
+		%c[d_cyan] • %c[ui_gray_2] Os³onê przeciwkurzow¹ SA-58 Extreme Duty\n
+		%c[d_cyan] • %c[ui_gray_2] Szynê Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] Chwyt przedni Vltor CASV\n
+		%c[d_cyan] • %c[ui_gray_2] Lufê 21" \n
+		%c[d_cyan] • %c[ui_gray_2] Kolbê DSA BRS \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Aimpoint T1\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon ACOG\n \n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
 		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS "Styl Austriacki"\n \n
 		</text>
@@ -1077,14 +1077,14 @@
 	<string id="st_addon_scope_kit_fal_leup_descr">
 		<text>Zestaw zamieniaj¹cy broñ w œwietny karabin wyborowy. W sk³ad zestawu wchodz¹: chwyt pistoletowy Fab AG FAL, os³ona przeciwkurzowa DS Arms Extreme Duty z szyn monta¿owych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostêpne s¹ równie¿ dwie lunety: Aimpoint T1 na NcStar 45 i Leupold Mark 8 CQBSS. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] chwyt pistoletowy Fab AG FAL\n
-		%c[d_cyan] • %c[ui_gray_2] os³onê przeciwkurzow¹ SA-58 Extreme Duty\n
-		%c[d_cyan] • %c[ui_gray_2] szynê Picatinny\n
-		%c[d_cyan] • %c[ui_gray_2] chwyt przedni Vltor CASV\n
-		%c[d_cyan] • %c[ui_gray_2] lufê 21" \n
-		%c[d_cyan] • %c[ui_gray_2] kolbê DSA BRS \n
-		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Leupold Mark 8 CQBSS\n \n
+		%c[d_cyan] • %c[ui_gray_2] Chwyt pistoletowy Fab AG FAL\n
+		%c[d_cyan] • %c[ui_gray_2] Os³onê przeciwkurzow¹ SA-58 Extreme Duty\n
+		%c[d_cyan] • %c[ui_gray_2] Szynê Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] Chwyt przedni Vltor CASV\n
+		%c[d_cyan] • %c[ui_gray_2] Lufê 21" \n
+		%c[d_cyan] • %c[ui_gray_2] Kolbê DSA BRS \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Aimpoint T1\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Leupold Mark 8 CQBSS\n \n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
 		%c[d_cyan] • %c[ui_gray_2] SA-58 AUS "Styl Austriacki"\n \n
 		</text>
@@ -1096,14 +1096,14 @@
 	<string id="st_addon_scope_kit_sa5x_spec_descr">
 		<text>Zestaw zamieniaj¹cy broñ w œwietny karabin wyborowy. W sk³ad zestawu wchodz¹: chwyt pistoletowy Fab AG FAL, os³ona przeciwkurzowa DS Arms Extreme Duty z szyn monta¿owych Picatinny, chwyt przedni Vltor CASV do FAL, lufa 21" do kolby SA-58 7,62x51 i DSA BRS. Dostêpne s¹ równie¿ dwie lunety: Aimpoint T1 na NcStar 45 i ELCAN SpectreDR. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] chwyt pistoletowy Fab AG FAL\n
-		%c[d_cyan] • %c[ui_gray_2] os³onê przeciwkurzow¹ SA-58 Extreme Duty\n
-		%c[d_cyan] • %c[ui_gray_2] szynê Picatinny\n
-		%c[d_cyan] • %c[ui_gray_2] chwyt przedni Vltor CASV\n
-		%c[d_cyan] • %c[ui_gray_2] lufê 21" \n
-		%c[d_cyan] • %c[ui_gray_2] kolbê DSA BRS \n
-		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n \n
+		%c[d_cyan] • %c[ui_gray_2] Chwyt pistoletowy Fab AG FAL\n
+		%c[d_cyan] • %c[ui_gray_2] Os³onê przeciwkurzow¹ SA-58 Extreme Duty\n
+		%c[d_cyan] • %c[ui_gray_2] Szynê Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] Chwyt przedni Vltor CASV\n
+		%c[d_cyan] • %c[ui_gray_2] Lufê 21" \n
+		%c[d_cyan] • %c[ui_gray_2] Kolbê DSA BRS \n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Aimpoint T1\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Elcan SpecterDR DFOV14-C2\n \n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
 		%c[d_cyan] • %c[ui_gray_2] DS Arms SA-58 AUS "Styl Austriacki"\n \n
 		</text>
@@ -1115,10 +1115,10 @@
 	<string id="st_addon_scope_226sig_kit_descr">
 		<text>Zestaw zawiera: Lufê gwintowan¹ do stosowania z t³umikiem, ergonomiczne p³ytki chwytowe oraz celownik Trijicon RMR na podczerwieñ z szyn monta¿owych monta¿ow¹. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] gwintowan¹ lufê do u¿ytku z t³umikiem\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] Gwintowan¹ lufê do u¿ytku z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet SIG Sauer P226R\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem SIG Sauer P226R\n \n
 		</text>
 	</string>
 
@@ -1128,11 +1128,11 @@
 	<string id="st_addon_scope_mod9_descr">
 		<text>W sk³ad zestawu wchodz¹: lufa gwintowana do stosowania z t³umikiem, celowniki Tritium oraz celownik laserowy Viridian X5L. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] gwintowan¹ lufê do u¿ytku z t³umikiem\n
-		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrz¹dów celowniczych\n
-		%c[d_cyan] • %c[ui_gray_2] celownik laserowy Viridian X5L\n
+		%c[d_cyan] • %c[ui_gray_2] Gwintowan¹ lufê do u¿ytku z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Wstawki trytowe do przyrz¹dów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik laserowy Viridian X5L\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet Walther P99\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem Walther P99\n \n
 		</text>
 	</string>
 
@@ -1142,12 +1142,12 @@
 	<string id="st_addon_scope_upg220_descr">
 		<text>Zestaw zawiera: Lufê gwintowan¹ do stosowania z t³umikiem, celowniki Tritium i celownik laserowy Viridian X5L oraz rozszerzony magazynek o pojemnoœci na 12 naboi. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] gwintowan¹ lufê do u¿ytku z t³umikiem\n
-		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrz¹dów celowniczych\n
-		%c[d_cyan] • %c[ui_gray_2] celownik laserowy Viridian X5L\n
-		%c[d_cyan] • %c[ui_gray_2] magazynek na 12 naboi\n
+		%c[d_cyan] • %c[ui_gray_2] Gwintowan¹ lufê do u¿ytku z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Wstawki trytowe do przyrz¹dów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik laserowy Viridian X5L\n
+		%c[d_cyan] • %c[ui_gray_2] Magazynek na 12 naboi\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet SIG Sauer P220
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem SIG Sauer P220
 		</text>
 	</string>
 
@@ -1157,11 +1157,11 @@
 	<string id="st_addon_scope_sr1upgr1_descr">
 		<text>Zestaw zawiera przyrz¹dy celownicze z trytowymi wstawkami, modu³ celowania laserowego oraz d³ug¹ lufê umo¿liwiaj¹c¹ monta¿ t³umika. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] gwintowan¹ lufê do u¿ytku z t³umikiem\n
-		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrz¹dów celowniczych\n
-		%c[d_cyan] • %c[ui_gray_2] modu³ celownika laserowego\n
+		%c[d_cyan] • %c[ui_gray_2] Gwintowan¹ lufê do u¿ytku z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Wstawki trytowe do przyrz¹dów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] Modu³ celownika laserowego\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet SR1MP 9x21 mm\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem SR1MP 9x21 mm\n \n
 		</text>
 	</string>
 
@@ -1171,10 +1171,10 @@
 	<string id="st_addon_scope_kab_up_descr">
 		<text>W zestawie zestawu zestawu: Lufa gwintowana do stosowania z t³umikiem oraz celownik Trijicon RMR z szyn monta¿owych monta¿ow¹. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] gwintowan¹ lufê do u¿ytku z t³umikiem\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
-		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Strzelba KS-23M "Drozd"\n \n
+		%c[d_cyan] • %c[ui_gray_2] Gwintowan¹ lufê do u¿ytku z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n
+		%c[0,255,255,255]KOMPATYBILNY ZE:\n
+		%c[d_cyan] • %c[ui_gray_2] Strzelb¹ KS-23M "Drozd"\n \n
 		</text>
 	</string>
 
@@ -1184,10 +1184,10 @@
 	<string id="st_addon_scope_archangel_descr">
 		<text>Polimerowa kolba Archangel do karabinu Remington Model 700. Zawiera zestaw 20 magazynków nabojowych. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] kolbê polimerow¹ Archangel\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw 20-nabojowych magazynków\n
+		%c[d_cyan] • %c[ui_gray_2] Kolbê polimerow¹ Archangel\n
+		%c[d_cyan] • %c[ui_gray_2] Zestaw 20-nabojowych magazynków\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Remington M700\n \n
 		</text>
 	</string>
 
@@ -1197,11 +1197,11 @@
 	<string id="st_addon_scope_magpul_pro_descr">
 		<text>PRO 700 to lekka, ergonomiczna obudowa zaprojektowana dla Remington Model 700 przez firmê Magpul. W zestawie znalaz³o siê 12 okr¹g³ych magazynków i celownik kolimatorowy Trijicon RMR, do monta¿u na szynie pod k¹tem 45 stopni. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] kolbê polimerow¹ Magpul PRO 700\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw 12-nabojowych magazynków\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] Kolbê polimerow¹ Magpul PRO 700\n
+		%c[d_cyan] • %c[ui_gray_2] Zestaw 12-nabojowych magazynków\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Remington M700\n \n
 		</text>
 	</string>
 
@@ -1211,11 +1211,11 @@
 	<string id="st_addon_scope_mod_x_gen3_descr">
 		<text>Modu³owy System Karabinów A*B Arms MOD X GEN III to lekka, ergonomiczna i wytrzyma³a obudowa zaprojektowana dla Remington Model 700. Zawiera zestaw 12 okr¹g³ych magazynków i kolimator Leupold DeltaPoint PRO wraz z szyn monta¿owych do monta¿u pod k¹tem 45 stopni. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] modularny system karabinowy ABAC MOD X GEN III\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw 12-nabojowych magazynków\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Leupold DeltaPoint PRO\n
+		%c[d_cyan] • %c[ui_gray_2] Modularny system karabinowy ABAC MOD X GEN III\n
+		%c[d_cyan] • %c[ui_gray_2] Zestaw 12-nabojowych magazynków\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Leupold DeltaPoint PRO\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Remington M700\n \n
 		</text>
 	</string>
 
@@ -1225,15 +1225,15 @@
 	<string id="st_addon_scope_swamp_descr">
 		<text>Bardzo rzadki i niezbyt popularny zestaw do AK-105, g³ównie ze wzglêdu na wysok¹ cenê. Bardzo podobny do zestawu u¿ywanego przez Powinnoœæ. Wystêpuje g³ównie wœród weteranów frakcji Czyste Niebo. W sk³ad zestawu wchodzi wyd³u¿ony czubek, ergonomiczna kolba oraz wygodniejszy chwyt pistoletowy. Ponadto, zestaw zawiera ulepszony spust oraz trzy przyrz¹dy celownicze, które zamieniaj¹ broñ w „idealnego towarzysza” do walki na bliskim i œrednim dystansie. Lunety do³¹czone do zestawu to Elcan SpectreDR, kalimator Trijicon RMR montowany pod k¹tem 45 stopni i AN/PEQ-15 LAM. W zestawie znajduje siê równie¿ komplet 45-nabojowych magazynków. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] przed³u¿ony chwyt przedni\n
-		%c[d_cyan] • %c[ui_gray_2] ergonomiczn¹ kolbê i uchwyt pistoletowy\n
-		%c[d_cyan] • %c[ui_gray_2] ulepszony spust\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Elcan SpecterDR DFOV14-C2\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
-		%c[d_cyan] • %c[ui_gray_2] modu³ laserowy AN/PEQ-15 LAM\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw 45-nabojowych magazynków\n
+		%c[d_cyan] • %c[ui_gray_2] Przed³u¿ony chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] Ergonomiczn¹ kolbê i uchwyt pistoletowy\n
+		%c[d_cyan] • %c[ui_gray_2] Ulepszony spust\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Elcan SpecterDR DFOV14-C2\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] Modu³ laserowy AN/PEQ-15 LAM\n
+		%c[d_cyan] • %c[ui_gray_2] Zestaw 45-nabojowych magazynków\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin AK-105\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem AK-105\n \n
 		</text>
 	</string>
 
@@ -1243,12 +1243,12 @@
 	<string id="st_addon_scope_lapua700_descr">
 		<text>Zestaw do konwersji karabinu Remingtona Model 700 z kalibru .308 na mocniejszy .338 Lapua Magnum, do zwalczania celów na bardzo d³ugich dystansach. Zawiera lufê 338 z gwintem na t³umik .338, kolbê Magpul Pro z blokad¹ lufy, komplet magazynków na 338LM oraz ulepszony celownik Leupold. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] .338 barrel for use with a suppressor\n
-		%c[d_cyan] • %c[ui_gray_2] kolbê Magpul Pro\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw magazynków na amunicjê kalibru .338LM\n
-		%c[d_cyan] • %c[ui_gray_2] ulepszony celownik Leupold\n
+		%c[d_cyan] • %c[ui_gray_2] Lufê kalibru.338 do u¿ycia z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Kolbê Magpul Pro\n
+		%c[d_cyan] • %c[ui_gray_2] Zestaw magazynków na amunicjê kalibru .338LM\n
+		%c[d_cyan] • %c[ui_gray_2] Ulepszony celownik Leupold\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin Remington M700\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem Remington M700\n \n
 		</text>
 	</string>
 
@@ -1258,11 +1258,11 @@
 	<string id="st_addon_scope_gurza_up_descr">
 		<text>Zestaw zawiera celowniki LAM, Trijicon RMR oraz szyny monta¿owe niezbêdne do monta¿u modyfikacji na pistolecie. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
-		%c[d_cyan] • %c[ui_gray_2] szynê Quadrail\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] Szynê Quadrail\n
 		%c[d_cyan] • %c[ui_gray_2] LAM\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet SR1MP 9x21 mm "¯mija"\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem SR1MP 9x21 mm "¯mija"\n \n
 		</text>
 	</string>
 
@@ -1272,12 +1272,12 @@
 	<string id="st_addon_scope_u2p2g0r_descr">
 		<text>Zestaw ten zawiera gwintowan¹ lufê przystosowan¹ do kalibru 9x19 mm do stosowania z t³umikiem, przyrz¹dy celownicze z trytowymi wstawkami i celownik laserowy Viridian X5L, rozszerzony magazynek na 19 naboi oraz polimerowe zamienniki obudowy. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] gwintowan¹ lufê do u¿ytku z t³umikiem\n
-		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrz¹dów celowniczych\n
-		%c[d_cyan] • %c[ui_gray_2] modu³ laserowy Viridian X5L\n
+		%c[d_cyan] • %c[ui_gray_2] Gwintowan¹ lufê do u¿ytku z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Wstawki trytowe do przyrz¹dów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] Modu³ laserowy Viridian X5L\n
 		%c[d_cyan] • %c[ui_gray_2] 19-nabojowy magazynek\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet SIG Sauer P220\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem SIG Sauer P220\n \n
 		</text>
 	</string>
 
@@ -1287,14 +1287,14 @@
 	<string id="st_addon_scope_shakal_descr">
 		<text>Rzadki i kosztowny zestaw do dla AK-105. Bardzo podobny do zestawu u¿ywanego przez Czyste Niebo. Wystêpuje g³ównie wœród weteranów grupy Powinnoœæ. W sk³ad zestawu wchodzi wyd³u¿ony czubek, ergonomiczna kolba oraz wygodniejszy chwyt pistoletowy. Ponadto zestaw zawiera ulepszony spust oraz trzy przyrz¹dy celownicze, które zamieniaj¹ broñ w „idealnego towarzysza” do walki na bliskim i œrednim dystansie. Lunety do³¹czone do zestawu to Trijicon ACOG, kolimator Trijicon RMR montowany pod k¹tem 45 stopni i AN/PEQ-15 LAM. W zestawie znajduje siê równie¿ komplet 45-nabojowych magazynków. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] przed³u¿ony chwyt przedni\n
-		%c[d_cyan] • %c[ui_gray_2] ergonomiczn¹ kolbê i uchwyt pistoletowy\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon ACOG\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Trijicon RMR\n
-		%c[d_cyan] • %c[ui_gray_2] modu³ laserowy AN/PEQ-15 LAM\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw 45-nabojowych magazynków\n
+		%c[d_cyan] • %c[ui_gray_2] Przed³u¿ony chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] Ergonomiczn¹ kolbê i uchwyt pistoletowy\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon ACOG\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon RMR\n
+		%c[d_cyan] • %c[ui_gray_2] Modu³ laserowy AN/PEQ-15 LAM\n
+		%c[d_cyan] • %c[ui_gray_2] Zestaw 45-nabojowych magazynków\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin AK-105\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem AK-105\n \n
 		</text>
 	</string>
 
@@ -1305,9 +1305,9 @@
 		<text>Zestaw ten zawiera lunetê LAM, lunetê Aimpoint T1 i szyny monta¿owe niezbêdne do zastosowania modyfikacji. Tego ulepszenia nie mo¿na usun¹æ.\n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
 		%c[d_cyan] • %c[ui_gray_2] LAM\n
-		%c[d_cyan] • %c[ui_gray_2] celownik Aimpoint T1\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Aimpoint T1\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet PL-15 "Lebiediew"\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem PL-15 "Lebiediew"\n \n
 		</text>
 	</string>
 
@@ -1317,11 +1317,11 @@
 	<string id="st_addon_scope_apsabigo_descr">
 		<text>W sk³ad zestawu wchodz¹: gwintowana lufa do stosowania z t³umikiem dŸwiêku APB, przyrz¹dy celownicze z trytowymi wstawkami oraz ergonomiczna gumka do chwytu pistoletowego. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] gwintowan¹ lufê do u¿ytku z t³umikiem\n
-		%c[d_cyan] • %c[ui_gray_2] wstawki trytowe do przyrz¹dów celowniczych\n
-		%c[d_cyan] • %c[ui_gray_2] ergonomiczny uchwyt pistoletowy\n
+		%c[d_cyan] • %c[ui_gray_2] Gwintowan¹ lufê do u¿ytku z t³umikiem\n
+		%c[d_cyan] • %c[ui_gray_2] Wstawki trytowe do przyrz¹dów celowniczych\n
+		%c[d_cyan] • %c[ui_gray_2] Ergonomiczny uchwyt pistoletowy\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet APS\n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem APS\n
 		</text>
 	</string>
 
@@ -1331,12 +1331,12 @@
 	<string id="st_addon_scope_sr2_upkit_descr">
 		<text>W sk³ad zestawu wchodz¹: przednia czêœæ taktyczna z szynami monta¿owymi Picatinny, luneta LAM oraz celownik refleksyjny kompatybilny z pistoletem maszynowym KP SR-2. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] taktyczny chwyt przedni\n
-		%c[d_cyan] • %c[ui_gray_2] szynê Picatinny\n
+		%c[d_cyan] • %c[ui_gray_2] Taktyczny chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] Szynê Picatinny\n
 		%c[d_cyan] • %c[ui_gray_2] LAM\n
-		%c[d_cyan] • %c[ui_gray_2] celownik KP-SR2 Reflex\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik KP-SR2 Reflex\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Pistolet maszynowy SR-2M\n \n
+		%c[d_cyan] • %c[ui_gray_2] Pistoletem maszynowy SR-2M\n \n
 		</text>
 	</string>	
 
@@ -1346,14 +1346,14 @@
 	<string id="st_addon_scope_5c_tik_descr">
 		<text>Zestaw dodatków do AK 5C. Przekszta³ca standardowy AK 5C w skrócon¹ wersjê, dostosowan¹ do ka¿dych warunków. Zestaw pojawi³ siê w Zonie wkrótce po powstaniu ISG. W sk³ad zestawu wchodz¹: niskoprofilowy chwyt przedni, celowniki LA5 LAM, Leupold LCO i D'evo x6 oraz krótka lufa ze wszystkimi niezbêdnymi do jej monta¿u komponentami. W zestawie równie¿ zmodyfikowany modu³ gazowy zwiêkszaj¹cy szybkostrzelnoœæ. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZESTAW ZAWIERA:\n
-		%c[d_cyan] • %c[ui_gray_2] skrócon¹ lufê\n
-		%c[d_cyan] • %c[ui_gray_2] niskoprofilowy chwyt przedni\n
+		%c[d_cyan] • %c[ui_gray_2] Skrócon¹ lufê\n
+		%c[d_cyan] • %c[ui_gray_2] Niskoprofilowy chwyt przedni\n
 		%c[d_cyan] • %c[ui_gray_2] LA5 LAM\n
-		%c[d_cyan] • %c[ui_gray_2] celownik optyczny Leupold Carbine\n
-		%c[d_cyan] • %c[ui_gray_2] celownik D-EVO 6.0x\n
-		%c[d_cyan] • %c[ui_gray_2] zmodyfikowany modu³ gazowy zwiêkszaj¹cy szybkostrzelnoœæ\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik optyczny Leupold Carbine\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik D-EVO 6.0x\n
+		%c[d_cyan] • %c[ui_gray_2] Zmodyfikowany modu³ gazowy zwiêkszaj¹cy szybkostrzelnoœæ\n
 		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_cyan] • %c[ui_gray_2] Karabin AK 5C\n \n
+		%c[d_cyan] • %c[ui_gray_2] Karabinem AK 5C\n \n
 		</text>
 	</string>
 

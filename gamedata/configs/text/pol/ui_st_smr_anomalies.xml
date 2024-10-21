@@ -10,13 +10,13 @@
 		<text>Iloœæ dynamicznych anomalii</text>
     </string>
     <string id="ui_mcm_SMR_smr_anomalies_dyn_ano_chance_desc">
-      <text>Jeœli w³¹czone s¹ dynamiczne anomalie, zwiêkszy/zmniejszy to szansê na ich pojawienie siê. Bez ZCP gra zawsze u¿ywa wartoœci 35%.</text>
+      <text>Jeœli w³¹czone s¹ dynamiczne anomalie, ta opcja zwiêksz lub zmniejszy szansê na pojawienie siê ich. Bez ZCP gra zawsze u¿ywa wartoœci 35%.</text>
     </string>
 	<string id="ui_mcm_SMR_smr_anomalies_pulse">
 		<text>W³¹cz anomaliê "Puls"</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_anomalies_pulse_desc">
-		<text>"Puls" to anomalia, która czasami pojawia siê jako œwiat³o nad tob¹ i powoduje grzmot i b³yskawicê uderzaj¹c¹ w ziemiê.</text>
+		<text>"Puls" to anomalia, która czasami pojawia siê jako œwiat³o na niebie, powoduje grzmot i b³yskawicê uderzaj¹c¹ w ziemiê.</text>
 	</string>
     <string id="ui_mcm_smr_anomalies_anomalies_types_title">
 		<text>Typy anomalii</text>

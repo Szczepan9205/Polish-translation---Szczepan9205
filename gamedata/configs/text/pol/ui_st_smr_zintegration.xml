@@ -9,7 +9,7 @@
 		<text>Glowsticki</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_glowsticks_info">
-		<text>Mod znajdziesz na: https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. Umo¿liwia pojawianie siê glowstick'ów jako przydatnych przedmiotów.</text>
+		<text>Ten dodatek znajdziesz na: https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks. Umo¿liwia pojawianie siê glowstick'ów jako przydatnych przedmiotów.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux">
 		<text>Anomaly Magazines Redux</text>
@@ -18,7 +18,7 @@
 		<text>Szansa spawnu magazynków</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_mags_redux_info">
-		<text>Mod znajdziesz na: https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. Umo¿liwia spawn magazynków do aktualnie wyposa¿onej broni jako dodatkowego przedmiotu w schowkach.</text>
+		<text>Ten dodatek znajdziesz na: https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-magazines-redux. Umo¿liwia spawn magazynków do aktualnie wyposa¿onej broni jako dodatkowego przedmiotu w schowkach.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes">
 		<text>Skrzynie z ³upem z Anomaly</text>
@@ -27,6 +27,6 @@
 		<text>Szansa na spawn skrzyni z ³upem</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zzintegration_lootboxes_info">
-		<text>Mod znajdziesz na: https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. Umo¿liwia pojawianie siê wytrychów jako przydatnych przedmiotów, a tak¿e skrzynek z ³upami w ich w³asnej kategorii.</text>
+		<text>Ten dodatek znajdziesz na: https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes. Umo¿liwia pojawianie siê wytrychów jako przydatnych przedmiotów, a tak¿e skrzynek z ³upami w ich w³asnej kategorii.</text>
 	</string>
 </string_table>

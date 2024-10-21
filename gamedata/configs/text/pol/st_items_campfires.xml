@@ -8,7 +8,7 @@
 	<string id="st_itms_campfire_descr">
 		<text>Chocia¿ ³atwo jest znaleŸæ drewno w Zonie, ale wysokiej jakoœci drewno opa³owe nadaj¹ce siê do ogniska jest rzadkoœci¹. Pomimo tego, ¿e jest rzadkie, jest bardzo tanie, ale tak¿e ciê¿kie. Mo¿e staæ siê niezbêdn¹ rzecz¹ podczas wêdrówek i rajdów. Pomaga utrzymaæ ciep³o w nocy i daje mo¿liwoœæ gotowania jedzenia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] przydatne do rozpalania ognisk\n
+		%c[d_orange] • %c[ui_gray_2] Przydatne do rozpalania ognisk\n
 		</text>
 	</string>
 

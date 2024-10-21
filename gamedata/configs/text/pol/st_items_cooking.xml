@@ -8,7 +8,7 @@
 	<string id="st_matches_descr">
 		<text>Zestaw do rozpalania ognia z³o¿ony z sosnowych listewek impregnowanych ¿ywic¹. Ka¿dy, kto kiedykolwiek próbowa³ rozpaliæ ognisko na wolnym powietrzu wie, ¿e ka¿dy podmuch wiatru potrafi zagasiæ ogieñ. Krzesiwo pozwala wytworzyæ niewielki, ale stabilny p³omieñ, którego temperatura jest znacznie wy¿sza ni¿ papieru czy parafiny. Przedmiot niezbêdny na ka¿dym kempingu - rozpala siê nawet zawilgocony.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n	
-		%c[d_orange] • %c[ui_gray_2] u¿ywane do rozpalania ognisk</text>
+		%c[d_orange] • %c[ui_gray_2] U¿ywane do rozpalania ognisk</text>
 	</string>
 	
 	<string id="st_wood_stove">
@@ -17,10 +17,10 @@
 	<string id="st_wood_stove_descr">
 		<text>Ten porêczny, sk³adany piecyk przeznaczony jest do przygotowania pojedynczego dania przy wykorzystaniu drewna. Jednak drewno, jakie mo¿na znaleŸæ w Zonie, jest zbyt ska¿one, dlatego stalkerzy stosuj¹ zazwyczaj importowany wêgiel drzewny jako najtañszy i naj³atwiej dostêpny zamiennik.\n \nPiecyk osi¹ga temperatury wystarczaj¹ce do ugotowania mniej zanieczyszczonych miês mutantów, lecz przygotowanie dañ zawieraj¹cych znacznie bardziej toksyczne sk³adniki wymaga bardziej zaawansowanych przyrz¹dów. Wykonany ze stali nierdzewnej i bardzo lekkiego tytanu.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] paliwo: %c[ui_gray_1] wêgiel drzewny\n
-		%c[d_orange] • %c[ui_gray_2] podstawowy sprzêt do gotowania\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do ugotowania miês ni¿szego poziomu\n
-		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_cyan] • %c[0,255,255,255] Paliwo: %c[ui_gray_1] wêgiel drzewny\n
+		%c[d_orange] • %c[ui_gray_2] Podstawowy sprzêt do gotowania\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na u¿yæ do ugotowania miês ni¿szego poziomu\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
 		</text>
 	</string>
 	
@@ -30,11 +30,11 @@
 	<string id="st_cooking_descr">
 		<text>Zestaw do gotowania w warunkach polowych. Zawiera wszystkie niezbêdne akcesoria i sprzêty potrzebne do przyrz¹dzania posi³ków w czasie kempingów, czy pieszych wypraw. Generuje mnóstwo ha³asu, a przez swoj¹ wagê i iloœæ elementów jest bardzo nieporêczna. Chêtnie korzystaj¹ z niej wiêksze grupy przebywaj¹cych ze sob¹ stalkerów.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] paliwo: %c[ui_gray_2] wêgiel drzewny\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na wykorzystaæ przy ogniskach\n
-		%c[d_orange] • %c[ui_gray_2] podstawowy sprzêt do gotowania\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do ugotowania miês ni¿szego poziomu\n
-		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_cyan] • %c[0,255,255,255] Paliwo: %c[ui_gray_2] wêgiel drzewny\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na wykorzystaæ przy ogniskach\n
+		%c[d_orange] • %c[ui_gray_2] Podstawowy sprzêt do gotowania\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na u¿yæ do ugotowania miês ni¿szego poziomu\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
 		</text>
 	</string>
 	
@@ -44,12 +44,12 @@
 	<string id="st_army_bowler_descr">
 		<text>Wojskowa mena¿ka ma charakterystyczny wklês³o-wypuk³y kszta³t. Posiada r¹czkê z drutu do zawieszania i przenoszenia. Nosz¹c mena¿kê przy pasie, powinna przylegaæ wklês³¹ stron¹ do cia³a. Pokrywki mo¿na u¿ywaæ jak patelni do podgrzania, czy przyrz¹dzania drugiego dania. Jej osobna r¹czka jest zaprojektowana tak, by wytrzymywaæ wysokie temperatury. Przy okazji stanowi bezpieczne zamkniêcie ca³ego pojemnika. Do zestawu do³¹czona jest niewielka ³y¿ka, wetkniêta w perforacjê w r¹czce.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] paliwo: %c[ui_gray_2] wêgiel\n
+		%c[d_cyan] • %c[0,255,255,255] Paliwo: %c[ui_gray_2] wêgiel\n
 		%c[d_green] • %c[ui_gray_2] zaawansowany sprzêt do gotowania\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na wykorzystaæ przy ogniskach\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na wykorzystaæ przy ogniskach\n
 		%c[d_green] • %c[ui_gray_2] mo¿na u¿yæ ugotowania miês ni¿szego poziomu\n
-		%c[d_blue] • %c[ui_gray_2] wysoka jakoœæ wykonania\n
-		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_blue] • %c[ui_gray_2] Wysoka jakoœæ wykonania\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
 		</text>
 	</string>
 	
@@ -59,11 +59,11 @@
 	<string id="st_fieldcooker_descr">
 		<text>Kuchenki tego typu s¹ od lat poddawane wielu testom, by³y i nadal s¹ u¿ywane w czasie najró¿niejszych wypraw. S¹ niezwykle wytrzyma³e i niezawodne - w koñcu zosta³y zaprojektowane, by radziæ sobie w wymagaj¹cych sytuacjach, na ekstremalnych wysokoœciach i w skrajnych temperaturach.\n \nJest bardzo wydajna, pozwala na zastosowanie niemal ka¿dego rodzaju paliwa, w³¹czaj¹c butan, benzynê, olej, naftê, a nawet paliwo lotnicze. Ergonomiczne pokrêt³o pozwala dostosowaæ intensywnoœæ p³omienia, nawet jeœli dotykasz go przez rêkawice.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] paliwo: %c[ui_gray_1]benzyna, gaz ziemny, nafta\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do ugotowania miês wszystkich mutantów\n
-		%c[d_green] • %c[ui_gray_2] profesjonalny sprzêt do gotowania\n
-		%c[d_blue] • %c[ui_gray_2] wysoka jakoœæ wykonania\n
-		%c[d_blue] • %c[ui_gray_2]obiekt techniczny\n
+		%c[d_cyan] • %c[0,255,255,255] Paliwo: %c[ui_gray_1]benzyna, gaz ziemny, nafta\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na u¿yæ do ugotowania miês wszystkich mutantów\n
+		%c[d_green] • %c[ui_gray_2] Profesjonalny sprzêt do gotowania\n
+		%c[d_blue] • %c[ui_gray_2] Wysoka jakoœæ wykonania\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
 		</text>
 	</string>
 	
@@ -73,8 +73,8 @@
 	<string id="st_box_matches_descr">
 		<text>Paczka zapa³ek to druga najpotrzebniejsza rzecz w Zonie, zaraz po broni. Z pomoc¹ zapa³ek mo¿esz rozpaliæ ogieñ, odpaliæ kumplowi szluga, albo oœwietliæ niewielk¹ przestrzeñ. Ta paczka zosta³a wyprodukowana w jakiejœ podziemnej fabryce na obrze¿ach Zony. Nie s¹ bardzo drogie, ale nie oczekuj od nich zbyt wysokiej jakoœci wykonania. Pude³eczko jest zmiête, siarka pokruszona, a zapa³ki wilgotne i po³amane. Tylko niewielka czêœæ zawartoœci pozostaje u¿yteczna. Rozpalanie ognia zapa³kami, czy odpalanie nimi papierosów to sztuka - wiêkszoœæ stalkerów woli nosiæ dro¿sze, ale bardziej praktyczne zapalniczki.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego u¿ytku\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do rozpalania ognia, odpalania papierosów\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot codziennego u¿ytku\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na u¿yæ do rozpalania ognia, odpalania papierosów\n
 		</text>
 	</string>
 	
@@ -84,8 +84,8 @@
 	<string id="st_kerosene_descr">
 		<text>Nafta znajduje zastosowanie w wielu dziedzinach, np. w lotnictwie, jako paliwo rakietowe czy te¿ jako paliwo do produktów szklanych, w domu i w urz¹dzeniach grzewczych. Jest równie¿ œwietnym rozpuszczalnikiem i mo¿e bez problemu dotrzeæ do wewnêtrznych czêœci mechanizmów; w zwi¹zku z tym mo¿na j¹ wykorzystaæ do czyszczenia i napraw wyposa¿enia.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] paliwo wysokiej jakoœci\n
-		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] • %c[ui_gray_2] Paliwo wysokiej jakoœci\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n
 		</text>
 	</string>
 	
@@ -95,8 +95,8 @@
 	<string id="st_charcoal_descr">
 		<text>Wêgiel drzewny przeznaczony do sma¿enia miêsa, ryb i warzyw w piecyku i na ro¿nie.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] paliwo niskiej jakoœci\n
-		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n		
+		%c[d_cyan] • %c[ui_gray_2] Paliwo niskiej jakoœci\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot techniczny\n		
 		</text>
 	</string>
 

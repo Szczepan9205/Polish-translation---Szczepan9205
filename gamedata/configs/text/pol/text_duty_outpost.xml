@@ -15,7 +15,7 @@
 		<text>Zgodzi³em siê oczyœciæ legowisko mutantów dla przywódcy placówki.</text>
 	</string>
 	<string id="red_duty_outpost_trader_task_1_about">
-		<text>Nadal istnieje legowisko mutantów, do likwidacji którego nie przydzielono nam ¿adnego oddzia³u. Czy mo¿esz siê tym zaj¹æ?</text>
+		<text>Nadal istnieje legowisko mutantów, do likwidacji którego nie jesteœmy w stanie przydzieliæ ¿adnego oddzia³u. Czy mo¿esz siê tym zaj¹æ?</text>
 	</string>
 	<string id="red_duty_outpost_trader_task_1_finish">
 		<text>Dobra robota. Kolejna pozycja na liœcie zadañ odhaczona.</text>
@@ -28,7 +28,7 @@
 		<text>Zgodzi³em siê zaj¹æ agresywnym stalkerem dla przywódcy placówki.</text>
 	</string>
 	<string id="red_duty_outpost_trader_task_2_about">
-		<text>Mam cel o wysokim priorytecie, który wymaga usuniêcia. Widziano go atakuj¹cego lokalnych stalkerów i naukowców. Obiecana jest nagroda dla tego, kto go zlikwiduje.</text>
+		<text>Mam cel o wysokim priorytecie, który wymaga usuniêcia. Widziano go atakuj¹cego lokalnych stalkerów i naukowców. Dla tego, kto go zlikwiduje przewidziana jest nagroda.</text>
 	</string>
 	<string id="red_duty_outpost_trader_task_2_finish">
 		<text>Nie lubiê zabijania, ale ta szumowina na to zas³u¿y³a... Oto nagroda.</text>

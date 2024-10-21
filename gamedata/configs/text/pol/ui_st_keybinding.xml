@@ -7,7 +7,7 @@
 		<text>Rozkaz ataku</text>
 	</string>
 	<string id="kb_always_run">
-		<text>Chód/Niskie kucniêcie</text>
+		<text>Chód/niskie przykucniêcie</text>
 	</string>
 	<string id="kb_artefact">
 		<text>Artefakt</text>
@@ -22,10 +22,10 @@
 		<text>Menu handlu</text>
 	</string>
 	<string id="kb_chat">
-		<text>Rozmowa</text>
+		<text>Czat</text>
 	</string>
 	<string id="kb_chat_team">
-		<text>Rozmowa dru¿ynowa</text>
+		<text>Czat dru¿ynowy</text>
 	</string>
 	<string id="kb_console">
 		<text>Konsola</text>
@@ -40,7 +40,7 @@
 		<text>Kucnij</text>
 	</string>
 	<string id="kb_walk">
-		<text>Chód/Niskie przykucniêcie</text>
+		<text>Chód/niskie przykucniêcie</text>
 	</string>
 	<string id="kb_crouch_toggle">
 		<text>Zawsze kucaj</text>
@@ -58,10 +58,10 @@
 		<text>Strza³</text>
 	</string>
 	<string id="kb_firemode_next">
-		<text>Nastêpny rodzaj ognia</text>
+		<text>Nastêpny tryb ostrza³u</text>
 	</string>
 	<string id="kb_firemode_prev">
-		<text>Poprzedni rodzaj ognia</text>
+		<text>Poprzedni tryb ostrza³u</text>
 	</string>
 	<string id="kb_suppressor">
 		<text>T³umik</text>
@@ -73,7 +73,7 @@
 		<text>Roz³aduj wszystkie bronie</text>
 	</string>
 	<string id="kb_lower_weapon">
-		<text>Opuœæ/Podnieœ broñ</text>
+		<text>Opuœæ/podnieœ broñ</text>
 	</string>
 	
 	<string id="kb_grp_pda">
@@ -189,7 +189,7 @@
 	</string>
 	
 	<string id="kb_grp_companions">
-		<text>Towarzysze </text>
+		<text>Towarzysze</text>
 	</string>
 	<string id="kb_companion_wheel">
 		<text>Ko³o towarzyszy</text>
@@ -313,7 +313,7 @@
 		<text>Widok trzecioosobowy (2)</text>
 	</string>
 	<string id="kb_cam_autoaim">
-		<text>Autocelowanie z widoku TPP</text>
+		<text>Autocelowanie w widoku TPP</text>
 	</string>
 	<string id="kb_cam_zoom_in">
 		<text>Wytrzyj maskê</text> <!--text>Camera zoom in</text-->
@@ -342,7 +342,7 @@
 	</string>
 
 	<string id="kb_custom7">
-		<text>Mapa w PDA Map</text>
+		<text>Mapa w PDA</text>
 	</string>
 	<string id="kb_custom8">
 		<text>Relacje w PDA</text>

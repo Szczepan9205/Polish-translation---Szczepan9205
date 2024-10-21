@@ -8,7 +8,7 @@
 	<string id="st_psy_helmet_desc">
 		<text>He³m psioniczny skonstruowany tak, by móc dopasowaæ go pod zwyczajne he³my. Opracowany przez zespó³ naukowców pod kierownictwem prof. Sacharowa w laboratorium mobilnym w Jantarze. Jego nietuzinkowoœæ polega na zastosowaniu energii artefaktów pochodzenia elektrycznego i anten zamocowanych w he³mie w charakterze os³ony. nPo uruchomieniu he³m otacza u¿ytkownika niewidzialnym dla ludzkiego oka polem, dzia³aj¹cym dziêki wysokoenergetycznym cz¹steczkom artefaktu Muszla, których zadaniem jest st³umienie oddzia³ywañ psionicznych. Pozosta³e fale s¹ odbijane przez bardziej konwencjonalny system ochronny wbudowany w sam¹ konstrukcjê he³mu.\n \nNiezwyk³oœæ tego urz¹dzenia le¿y w mo¿liwoœci ochrony u¿ytkownika przed nietypowymi, wp³ywaj¹cymi na rozum czêstotliwoœciami psionicznymi emitowanymi przez anteny systemu Duga znajduj¹ce siê w Strefie Wykluczenia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>
 	
@@ -18,7 +18,7 @@
 	<string id="st_bad_psy_helmet_desc">
 		<text>Nieskalibrowany he³m psioniczny skonstruowany tak, by móc dopasowaæ go pod zwyczajne he³my. Opracowany przez zespó³ naukowców pod kierownictwem prof. Sacharowa w laboratorium mobilnym w Jantarze. Jego nietuzinkowoœæ polega na zastosowaniu energii artefaktów pochodzenia elektrycznego i anten zamocowanych w he³mie w charakterze os³ony. Po uruchomieniu, he³m otacza u¿ytkownika niewidzialnym dla ludzkiego oka polem, dzia³aj¹cym dziêki wysokoenergetycznym cz¹steczkom artefaktu Muszla, których zadaniem jest st³umienie oddzia³ywañ psionicznych. Pozosta³e fale s¹ odbijane przez bardziej konwencjonalny system ochronny wbudowany w sam¹ konstrukcjê he³mu. Niezwyk³oœæ tego urz¹dzenia le¿y w mo¿liwoœci ochrony u¿ytkownika przed nietypowymi, wp³ywaj¹cymi na rozum czêstotliwoœciami psionicznymi emitowanymi przez anteny systemu Duga znajduj¹ce siê w Strefie Wykluczenia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>
 	
@@ -108,7 +108,7 @@
 	</string>
 
 	<string id="st_helm_cloth_mask">
-		<text>Maska p³ócienna</text>
+		<text>P³ócienna maska</text>
 	</string>
 	<string id="st_helm_cloth_mask_descr">
 		<text>Zwyk³y kawa³ek tkaniny pe³ni¹cy funkcjê maski przeciwpy³owej. Czêsto u¿ywana przez stalkerów do ochrony przed py³em radioaktywnym. Noszona niezale¿nie od pory, warunków i obszaru jako swego rodzaju œrodek zapobiegawczy. Maski nale¿y regularnie wymieniaæ - po wch³oniêciu okreœlonej iloœci promieniowania staj¹ siê zagro¿eniem dla u¿ytkownika!\n \n
@@ -252,7 +252,7 @@
 	</string>
 	
 	<string id="helm_dolg_tactic_red">
-		<text>Sfera 08 Krasnyj Powinnoœci</text>
+		<text>Sfera 08 "Krasnyj" Powinnoœci</text>
 	</string>
 	<string id="helm_dolg_tactic_red_descr">
 		<text>USUNIÊTO Z GRY. Zestaw nakrycia g³owy Sfera 08 zmodyfikowany i u¿ywany przez Powinnoœæ, zwykle w po³¹czeniu z ich wersj¹ kombinezonu pancernego Beryl. Podobnie jak reszta sprzêtu Powinnoœci z serii Krasnyj, he³m ten ma s³u¿yæ jako sprzêt bojowy chroni¹cy zarówno przed zagro¿eniami ze strony ludzi, jak i mutantów; jest wiêc jeszcze bardziej podatny na zagro¿enia œrodowiskowe ni¿ orygina³, ale z kolei zapewnia lepsz¹ ochronê fizyczn¹ i psioniczn¹. \n \n
@@ -265,7 +265,7 @@
 		<text>Lekki p³aszcz</text>
 	</string>
 	<string id="novice_outfit_description">
-		<text>Ciep³y, skórzany anorak narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty trekkingowe. Strój wybierany przez niedoœwiadczonych stalkerów. Weterani jednak uwa¿aj¹, ¿e ubieranie siê w ten sposób jest równoznaczne z hasaniem po Zonie ca³kiem nago.\n \n
+		<text>Ciep³y, skórzany anorak narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty trekkingowe. P³aszcz ten wybierany jest zazwyczaj przez niedoœwiadczonych stalkerów. Weterani jednak uwa¿aj¹, ¿e ubieranie siê w ten sposób jest równoznaczne z hasaniem po Zonie ca³kiem nago.\n \n
 		</text>                                                                                                                                     
 	</string>                                                                                                                                       
 																																				    
@@ -273,7 +273,7 @@
 		<text>P³aszcz zapalonego militarysty</text>                                                                                                 
 	</string>                                                                                                                                       
 	<string id="novice_outfit_camo_description">                                                                                                    
-		<text>Ciep³y, skórzany anorak narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty trekkingowe. Wczeœniej w posiadaniu typowego mi³oœnika militariów. Mimo u¿ycia wzoru maskuj¹cego i systemu równomiernie rozk³adaj¹cego ciê¿ar, strój wci¹¿ nie jest adekwatny do trudnych warunków Zony.\n \n
+		<text>Ciep³y, skórzany anorak narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty trekkingowe. Wczeœniej w posiadaniu typowego mi³oœnika militariów. Mimo u¿ycia wzoru maskuj¹cego i systemu równomiernie rozk³adaj¹cego ciê¿ar, p³aszcz ten wci¹¿ nie jest adekwatny do trudnych warunków Zony.\n \n
 		</text>
 	</string>
 
@@ -321,7 +321,7 @@
 		<text>Stylowy p³aszcz</text>
 	</string>
 	<string id="redline_novice_outfit_description">
-		<text>Stylowy, jasnoczerwony skórzany anorak narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty trekkingowe. Ju¿ sam kolor powinien byæ wystarczaj¹cym powodem do nie zak³adania tego stroju w Zonie.\n \n
+		<text>Stylowy, jasnoczerwony skórzany anorak narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty trekkingowe. Ju¿ sam kolor powinien byæ wystarczaj¹cym powodem do nie zak³adania tego p³aszczu w Zonie.\n \n
 		</text>
 	</string>
 
@@ -329,7 +329,7 @@
 		<text>Lekki p³aszcz Wolnoœci</text>
 	</string>
 	<string id="svoboda_novice_outfit_description">
-		<text>Skórzany anorak w barwach maskuj¹cych narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty wojskowe. Takiego stroju u¿ywaj¹ Wolnoœciowcy, kiedy czuj¹ siê absolutnie bezpiecznie - innymi s³owy, praktycznie nigdy.\n \n
+		<text>Skórzany anorak w barwach maskuj¹cych narzucony na komfortowy golf, wciœniêty w solidne jeansy. Dodatkowo w sk³ad zestawu wchodz¹ buty wojskowe. Takich p³aszczów u¿ywaj¹ Wolnoœciowcy, kiedy czuj¹ siê absolutnie bezpiecznie - innymi s³owy, praktycznie nigdy.\n \n
 		</text>
 	</string>
 
@@ -349,7 +349,7 @@
 		<text>Ciê¿ki p³aszcz</text>
 	</string>
 	<string id="trenchcoat_outfit_description">
-		<text>D³ugi, gruby skórzany p³aszcz. Oferowane w³aœciwoœci ochronne œciœle zale¿¹ od krawca, który go uszy³, choæ zazwyczaj taki strój jest tylko trochê mniej bezu¿yteczny, ni¿ najzwyklejsza skórzana kurtki. Mimo to wielu nowicjuszy wybiera je ze wzglêdu na szpanerski krój.\n \n
+		<text>D³ugi, gruby skórzany p³aszcz. Oferowane w³aœciwoœci ochronne œciœle zale¿¹ od krawca, który go uszy³, choæ zazwyczaj taki p³aszcz jest tylko trochê mniej bezu¿yteczny, ni¿ najzwyklejsza skórzana kurtki. Mimo to wielu nowicjuszy wybiera je ze wzglêdu na szpanerski krój.\n \n
 		</text>
 	</string>
 
@@ -380,7 +380,7 @@
 
 <!-- Exploration -->
 	<string id="travel_outfit_name">
-		<text>Kombinezon W³óczêga</text>
+		<text>Kombinezon "W³óczêga"</text>
 	</string>
 	<string id="travel_outfit_description">
 		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Wykonano go z materia³ów wysokiej jakoœci i s³u¿y g³ównie do eksploracji - posiada zadziwiaj¹co zadowalaj¹cy system rozk³adania masy i zdecydowanie wystarczaj¹c¹ ochronê przed czynnikami œrodowiskowymi Zony, zw³aszcza zagro¿eniem chemicznym i radiologicznym. Kombinezon ten wybierany jest g³ównie przez poszukiwaczy artefaktów, choæ korzystaj¹ z niego tak¿e niektórzy ³owcy mutantów. Jego najwiêksz¹ wad¹ - oprócz relatywnie wysokiej ceny na tle innych kombinezonów tego typu - jest ca³kowita bezu¿ytecznoœæ, jeœli chodzi o ostrza³ z broni palnej. Ma³o prawdopodobne, ¿e poprzedni w³aœciciel rozsta³ siê z nim dobrowolnie.\n \n
@@ -388,18 +388,18 @@
 	</string>
 	
 	<string id="nomad_outfit_name">
-		<text>Kombinezon Nomad</text>
+		<text>Kombinezon "Nomad"</text>
 	</string>
 	<string id="nomad_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Wykonano go z materia³ów wysokiej jakoœci. Jest zaskakuj¹co lekki i komfortowy, a przy tym zapewnia znacznie wiêksz¹ ochronê, ni¿ reszta kombinezonów stalkerskich. Wydaje siê oczywiste, ¿e ktokolwiek stworzy³ ten strój, zna³ Zonê jak w³asn¹ kieszeñ i poœwiêci³ mnóstwo uwagi swojemu dzie³u - czego na pewno nie mo¿na powiedzieæ o ostatnim w³aœcicielu. Tak, czy inaczej najlepszym wyznacznikiem jakoœci Nomada jest jego cena.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Wykonano go z materia³ów wysokiej jakoœci. Jest zaskakuj¹co lekki i komfortowy, a przy tym zapewnia znacznie wiêksz¹ ochronê, ni¿ reszta kombinezonów stalkerskich. Wydaje siê oczywiste, ¿e ktokolwiek stworzy³ ten kombinezon, zna³ Zonê jak w³asn¹ kieszeñ i poœwiêci³ mnóstwo uwagi swojemu dzie³u - czego na pewno nie mo¿na powiedzieæ o ostatnim w³aœcicielu. Tak, czy inaczej najlepszym wyznacznikiem jakoœci "Nomada" jest jego cena.\n \n
 		</text>
 	</string>
 	
 	<string id="antirad_outfit_name">
-		<text>Kombinezon GP-5MvC Antyrad</text>
+		<text>Kombinezon GP-5MvC "Antyrad"</text>
 	</string>
 	<string id="antirad_outfit_description">
-		<text>Kombinezon GP-5 Antyrad zosta³ opracowany jeszcze przed odkryciem Mózgozwêglacza. Nosili go pionierzy, którzy jako pierwsi dostarczyli informacji o niezwykle silnym polu psionicznym na pó³noc od Magazynów Wojskowych. Strój opracowali stali bywalcy 100 Radów z osobist¹ pomoc¹ Barmana, który finansowa³ projekt - dziêki czemu dorobi³ siê póŸniej niema³ej fortuny na ich sprzeda¿y. Od tamtej pory kombinezon wiele razy modyfikowano, ale jego podstawa (oparta o kombinezon Œwit) pozosta³a taka sama. W obecnej, zmodernizowanej wersji (ozn. GP-5M) g³ówne i najbardziej charakterystyczne elementy - w³¹czaj¹c nas¹czane chemikaliami tkaniny i czêœci gumowe, tak samo z reszt¹, jak du¿¹ iloœæ kieszeni - wci¹¿ pochodz¹ z kombinezonu Œwit. Leciwa, choæ wci¹¿ popularna i niezawodna maska przeciwgazowa GP-5 zosta³a na sta³e po³¹czona z butlami z tlenem umieszczonymi na plecach. G³ównym celem Antyradu by³o uzyskanie wiêkszej ochrony przed wp³ywem promieniowania, ni¿ w przypadku klasycznego Œwitu, dziêki czemu wyprawy na pó³noc sta³yby siê mniej niebezpieczne. Choæ niektórzy nazywaj¹ go SEV¥ dla ubogich, Antyrad nawet nie zbli¿a siê do jej charakterystyk wzglêdem ochrony przed anomaliami. Przeznaczeniem kombinezonu jest mo¿liwoœæ bezpiecznego przebywania w obszarach o wysokim poziomie promieniowania, ale nie nadaje siê on do wkraczania w du¿e pola anomalii. Wersja C kombinezonu dodatkowo posiada barwy maskuj¹ce w ró¿nych odcieniach zieleni, pozwalaj¹c u¿ytkownikowi na ³atwiejsze ukrycie siê wœród gêstej roœlinnoœci.\n \n
+		<text>Kombinezon GP-5 "Antyrad" zosta³ opracowany jeszcze przed odkryciem Mózgozwêglacza. Nosili go pionierzy, którzy jako pierwsi dostarczyli informacji o niezwykle silnym polu psionicznym na pó³noc od Magazynów Wojskowych. Kombinezon ten opracowali stali bywalcy "100 Radów" z osobist¹ pomoc¹ Barmana, który finansowa³ projekt - dziêki czemu dorobi³ siê póŸniej niema³ej fortuny na ich sprzeda¿y. Od tamtej pory kombinezon wiele razy modyfikowano, ale jego podstawa (oparta o stalkerski kombinezon "Œwit") pozosta³a taka sama. W obecnej, zmodernizowanej wersji (ozn. GP-5M) g³ówne i najbardziej charakterystyczne elementy - w³¹czaj¹c nas¹czane chemikaliami tkaniny i czêœci gumowe, tak samo z reszt¹, jak du¿¹ iloœæ kieszeni - wci¹¿ pochodz¹ z kombinezonu "Œwit". Leciwa, choæ wci¹¿ popularna i niezawodna maska przeciwgazowa GP-5 zosta³a na sta³e po³¹czona z butlami z tlenem umieszczonymi na plecach. G³ównym celem "Antyradu" by³o uzyskanie wiêkszej ochrony przed wp³ywem promieniowania, ni¿ w przypadku klasycznego "Œwitu", dziêki czemu wyprawy na pó³noc sta³yby siê mniej niebezpieczne. Choæ niektórzy nazywaj¹ go SEV¥ dla ubogich, "Antyrad" nawet nie zbli¿a siê do jej charakterystyk wzglêdem ochrony przed anomaliami. Przeznaczeniem kombinezonu jest mo¿liwoœæ bezpiecznego przebywania w obszarach o wysokim poziomie promieniowania, ale nie nadaje siê on do wkraczania w du¿e pola anomalii. Wersja C kombinezonu dodatkowo posiada barwy maskuj¹ce w ró¿nych odcieniach zieleni, pozwalaj¹c u¿ytkownikowi na ³atwiejsze ukrycie siê wœród gêstej roœlinnoœci.\n \n
 		</text>
 	</string>
 	
@@ -407,15 +407,15 @@
 		<text>Hybrydowy kombinezon pancerny</text>
 	</string>
 	<string id="hybrid_outfit_description">
-		<text>Kombinezon opracowany przez jeden z kijowskich instytutów badawczych do ochrony badaczy w Zonie. Stalkerzy przezywaj¹ go czêsto "brzydkim kacz¹tkiem". Wydaje siê oczywistym, ¿e wytwarzano go po kosztach - instalacja os³on balistycznych os³abi³a w³aœciwoœci ochronne przed anomaliami, a mimo to kombinezon zapewnia mniejsz¹ odpornoœæ w walce, ni¿ kamizelka kuloodporna Beryl. Prawdopodobnie z tego powodu nie otrzyma³y one zezwolenia ukraiñskiego rz¹du. Mimo tego, kilka egzemplarzy w jakiœ sposób dotar³o do Zony. Czêsty wybór stalkerów szukaj¹cych przyzwoitej ochrony, a nie mog¹cych pozwoliæ sobie na coœ lepszego.\n \n
+		<text>Kombinezon opracowany przez jeden z kijowskich instytutów badawczych do ochrony badaczy w Zonie. Stalkerzy przezywaj¹ go czêsto "brzydkim kacz¹tkiem". Wydaje siê oczywistym, ¿e wytwarzano go po kosztach - instalacja os³on balistycznych os³abi³a w³aœciwoœci ochronne przed anomaliami, a mimo to kombinezon zapewnia mniejsz¹ odpornoœæ w walce, ni¿ kamizelka kuloodporna "Beryl". Prawdopodobnie z tego powodu nie otrzyma³y one zezwolenia ukraiñskiego rz¹du. Mimo tego, kilka egzemplarzy w jakiœ sposób dotar³o do Zony. Czêsty wybór stalkerów szukaj¹cych przyzwoitej ochrony, a nie mog¹cych pozwoliæ sobie na coœ lepszego.\n \n
 		</text>
 	</string>
 	
 	<string id="wastelander_outfit_name">
-		<text>Kombinezon Pustelnik</text>
+		<text>Kombinezon "Pustelnik"</text>
 	</string>
 	<string id="wastelander_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Wykonano go z materia³ów wysokiej jakoœci, ponadto posiada zintegrowan¹ maskê przeciwgazow¹ czeskiej produkcji M10.\n \nCharakterystyk¹ porównywalny do innych produkowanych w Zonie kombinezonów, aczkolwiek wielu stalkerów zniechêca siê do niego przez zamontowan¹ na sta³e maskê, przez któr¹ strój traci na uniwersalnoœci.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Wykonano go z materia³ów wysokiej jakoœci, ponadto posiada zintegrowan¹ maskê przeciwgazow¹ czeskiej produkcji M10.\n \nCharakterystyk¹ porównywalny do innych produkowanych w Zonie kombinezonów, aczkolwiek wielu stalkerów zniechêca siê do niego przez zamontowan¹ na sta³e maskê, przez któr¹ kombinezon traci na uniwersalnoœci.\n \n
 		</text>
 	</string>
 
@@ -448,38 +448,38 @@
 		<text>Kombinezon CS-3b</text>
 	</string>
 	<string id="csky_heavy_outfit_description">
-		<text>Kiedyœ stanowi³ standardowy strój oddzia³ów szturmowych Czystego Nieba. Po klêsce frakcji w bitwie o Elektrowniê w 2011 roku sta³ siê namacalnym dowodem tego, ¿e nawet doskona³e opancerzenie nie gwarantuje pe³nego bezpieczeñstwa daleko za Kordonem. Kombinezon jest w stanie zatrzymaæ pociski pistoletowe, a przy tym zapewnia dobr¹ ochronê przed anomaliami.\n \n
+		<text>Kombinezon ten kiedyœ stanowi³ standardowe wyposa¿enie oddzia³ów szturmowych Czystego Nieba. Po klêsce frakcji w bitwie o Czarnobylsk¹ Elektrowniê J¹drow¹ w 2011 roku sta³ siê namacalnym dowodem tego, ¿e nawet doskona³e opancerzenie nie gwarantuje pe³nego bezpieczeñstwa daleko za Kordonem. Kombinezon jest w stanie zatrzymaæ pociski pistoletowe, a przy tym zapewnia dobr¹ ochronê przed anomaliami.\n \n
 		</text>
 	</string>
 	
 
 <!-- NBC outfits -->
 	<string id="nbc_outfit_name">
-		<text>Kombinezon NBC</text>
+		<text>Kombinezon "NBC"</text>
 	</string>
 	<string id="nbc_outfit_description">
-		<text>Bud¿etowy kombinezon NBC (brytyjski skrót oznaczaj¹cy broñ masowego ra¿enia, jego rozwiniêciem jest "Nuclear, Biological, Chemical"; w Polsce wyra¿ony oznaczeniem ABC) z kevlarow¹ kamizelk¹. Odzie¿ ochronna tego typu produkowana jest na ca³ym œwiecie i przeznaczona jest dla wojsk i s³u¿b porz¹dkowych jako ochrona osobista w czasie klêsk i katastrof. Kombinezon w standardzie wyposa¿ony jest w maskê przeciwgazow¹ GP-5 po³¹czon¹ wê¿em z nowoczesnym filtropoch³aniaczem. Chocia¿ nie zosta³y opracowane stricte z myœl¹ o Zonie, korzystaj¹ z nich stalkerzy, którym zale¿y na wydajnym systemie roz³o¿enia ciê¿aru. Ogólna odpornoœæ zapewniana przez NBC porównywalna jest do œredniej klasy kombinezonów stalkerskich.\n \n
+		<text>Bud¿etowy kombinezon "NBC" (brytyjski skrót oznaczaj¹cy broñ masowego ra¿enia, jego rozwiniêciem jest "Nuclear, Biological, Chemical"; w Polsce wyra¿ony oznaczeniem "ABC") z kevlarow¹ kamizelk¹. Odzie¿ ochronna tego typu produkowana jest na ca³ym œwiecie i przeznaczona jest dla wojsk i s³u¿b porz¹dkowych jako ochrona osobista w czasie klêsk i katastrof. Kombinezon w standardzie wyposa¿ony jest w maskê przeciwgazow¹ GP-5 po³¹czon¹ wê¿em z nowoczesnym filtropoch³aniaczem. Chocia¿ nie zosta³y opracowane stricte z myœl¹ o Zonie, korzystaj¹ z nich stalkerzy, którym zale¿y na wydajnym systemie roz³o¿enia ciê¿aru. Ogólna odpornoœæ zapewniana przez "NBC" porównywalna jest do œredniej klasy kombinezonów stalkerskich.\n \n
 		</text>
 	</string>
 	
 	<string id="monolith_nbc_outfit_name">
-		<text>Czarnobylski kombinezon NBC</text>
+		<text>Kombinezon "NBC" Monolitu</text>
 	</string>
 	<string id="monolith_nbc_outfit_description">
-		<text>Doœæ wiekowy kombinezon NBC z kevlarow¹ kamizelk¹, obecnie najczêœciej kojarzony z fanatykami broni¹cymi dostêpu do centrum Zony przed innymi stalkerami. Posiada odnowion¹, zintegrowan¹ maskê przeciwgazow¹ GP-5. Tych kombinezonów u¿ywa³ personel wojskowy po katastrofie z 1986 roku w celu przyspieszenia likwidacji skutków awarii. Ju¿ na pierwszy rzut oka widaæ odciœniête na nich piêtno czasu i znaczny stopieñ zu¿ycia. Jakim sposobem tak wiele kombinezonów uchowa³o siê do dziœ i w jaki sposób Monolit wszed³ w ich posiadanie, pozostaje tajemnic¹.\n \n
+		<text>Doœæ wiekowy kombinezon "NBC" z kevlarow¹ kamizelk¹, obecnie najczêœciej kojarzony z fanatykami broni¹cymi dostêpu do centrum Zony przed innymi stalkerami. Posiada odnowion¹, zintegrowan¹ maskê przeciwgazow¹ GP-5. Tych kombinezonów u¿ywa³ personel wojskowy po katastrofie z 1986 roku w celu przyspieszenia likwidacji skutków awarii. Ju¿ na pierwszy rzut oka widaæ odciœniête na nich piêtno czasu i znaczny stopieñ zu¿ycia. Jakim sposobem tak wiele kombinezonów uchowa³o siê do dziœ i w jaki sposób Monolit wszed³ w ich posiadanie, pozostaje tajemnic¹.\n \n
 		</text>
 	</string>
 
 	<string id="cs_nbc_outfit_name">
-		<text>Kombinezon NBC CS-3</text>
+		<text>Kombinezon "NBC" CS-3</text>
 	</string>
 	<string id="cs_nbc_outfit_description">
-		<text>Kombinezon NBC z kevlarow¹ kamizelk¹, niedawno odnawiany i modyfikowany przez cz³onków Czystego Nieba. Odzie¿ ochronna tego typu produkowana jest na ca³ym œwiecie i przeznaczona jest dla wojsk i s³u¿b porz¹dkowych jako ochrona osobista w czasie klêsk i katastrof. Kombinezon w standardzie wyposa¿ony jest w maskê przeciwgazow¹ GP-5 po³¹czon¹ wê¿em z nowoczesnym filtropoch³aniaczem. Ka¿dy kombinezon NBC trafiaj¹cy w rêce Czystego Nieba przechodzi kontrolê jakoœci u Nowikowa, który sprawdza, czy strój zapewnia wystarczaj¹c¹ ochronê w trudnych warunkach Zony.\n \n
+		<text>Kombinezon "NBC" z kevlarow¹ kamizelk¹, niedawno odnawiany i modyfikowany przez cz³onków Czystego Nieba. Odzie¿ ochronna tego typu produkowana jest na ca³ym œwiecie i przeznaczona jest dla wojsk i s³u¿b porz¹dkowych jako ochrona osobista w czasie klêsk i katastrof. Kombinezon w standardzie wyposa¿ony jest w maskê przeciwgazow¹ GP-5 po³¹czon¹ wê¿em z nowoczesnym filtropoch³aniaczem. Ka¿dy kombinezon "NBC" trafiaj¹cy w rêce Czystego Nieba przechodzi kontrolê jakoœci u Nowikowa, który sprawdza, czy kombinezon zapewnia wystarczaj¹c¹ ochronê w trudnych warunkach Zony.\n \n
 		</text>
 	</string>
 
 	<string id="nbc_merc_outfit_name">
-		<text>Kombinezon NBC Najemników</text>
+		<text>Kombinezon "NBC" Najemników</text>
 	</string>
 	<string id="nbc_merc_outfit_description">
 		<text>Kombinezon NBC z kevlarow¹ kamizelk¹, g³ównie u¿ywany przez oszczêdnych najemników. Odzie¿ ochronna tego typu produkowana jest na ca³ym œwiecie i przeznaczona jest dla wojsk i s³u¿b porz¹dkowych jako ochrona osobista w czasie klêsk i katastrof. Kombinezon w standardzie wyposa¿ony jest w maskê przeciwgazow¹ GP-5 po³¹czon¹ wê¿em z nowoczesnym filtropoch³aniaczem. Chocia¿ nie zosta³y opracowane stricte z myœl¹ o Zonie, korzystaj¹ z nich stalkerzy, którym zale¿y na wydajnym systemie roz³o¿enia ciê¿aru. Ten egzemplarz dodatkowo zapewnia ochronê œrodowiskow¹ porównywaln¹ do wiêkszoœci kombinezonów wytwarzanych lokalnie.\n \n
@@ -490,78 +490,78 @@
 		<text>Stra¿nik Wolnoœci</text>
 	</string>
 	<string id="nbc_freedom_outfit_description">
-		<text>Kombinezon powsta³ dziêki zdolnemu rzemieœlnikowi Wolnoœci. Oparty jest o standardowy kombinezon NBC u¿ywany przez neutralnych stalkerów. Choæ w niektórych warunkach nie oferuje takiej ochrony, jak klasyczny NBC, frakcji uda³o siê znacznie poprawiæ odpornoœæ na chemikalia. Ten kombinezon jest jednym z najczêstszych wyborów poœród cz³onków Wolnoœci, chc¹cych eksplorowaæ niezliczone ruiny Zony, bez obaw co do zagro¿enia chemicznego i wysokiego promieniowania. Posiada zintegrowan¹ maskê przeciwgazow¹ GP-5 i wydajny stela¿ rozk³adaj¹cy ciê¿ar.\n \n
+		<text>Kombinezon powsta³ dziêki zdolnemu rzemieœlnikowi Wolnoœci. Oparty jest o standardowy kombinezon "NBC" u¿ywany przez neutralnych stalkerów. Choæ w niektórych warunkach nie oferuje takiej ochrony, jak klasyczny "NBC", frakcji uda³o siê znacznie poprawiæ odpornoœæ na chemikalia. Ten kombinezon jest jednym z najczêstszych wyborów poœród cz³onków Wolnoœci, chc¹cych eksplorowaæ niezliczone ruiny Zony, bez obaw co do zagro¿enia chemicznego i wysokiego promieniowania. Posiada zintegrowan¹ maskê przeciwgazow¹ GP-5 i wydajny stela¿ rozk³adaj¹cy ciê¿ar.\n \n
 		</text>
 	</string>
 
 	<string id="nbc_dolg_outfit_name">
-		<text>Kombinezon NBC PS5-Md</text>
+		<text>Kombinezon "NBC" PS5-Md</text>
 	</string>
 	<string id="nbc_dolg_outfit_description">
-		<text>£owcy artefaktów stanowi¹ niewielki u³amek wszystkich cz³onków Powinnoœci, a mimo to zaprojektowano dla nich ten - oparty o standardy NBC - kombinezon. Powsta³ g³ównie po to, by u³atwiæ im ¿ycie i pomóc wywi¹zaæ siê im z obowi¹zków wobec Naukowców. W porównaniu do standardowego PS5-M ten strój posiada zintegrowan¹ maskê przeciwgazow¹ GP-5, uchwyty na pasie s³u¿¹ce przenoszeniu aplikatorów artefaktów i wydajny stela¿ rozk³adaj¹cy ciê¿ar, wspieraj¹cy przenoszenie przepisowego wyposa¿enia. Nie jest najlepszym kombinezonem w swojej klasie. Wy¿si rang¹ cz³onkowie frakcji zwykle otrzymuj¹ coœ bardziej solidnego.\n \n
+		<text>£owcy artefaktów stanowi¹ niewielki u³amek wszystkich cz³onków Powinnoœci, a mimo to zaprojektowano dla nich ten - oparty o standardy "NBC" - kombinezon. Powsta³ g³ównie po to, by u³atwiæ im ¿ycie i pomóc wywi¹zaæ siê im z obowi¹zków wobec Naukowców. W porównaniu do standardowego PS5-M ten kombinezon posiada zintegrowan¹ maskê przeciwgazow¹ GP-5, uchwyty na pasie s³u¿¹ce przenoszeniu aplikatorów artefaktów i wydajny stela¿ rozk³adaj¹cy ciê¿ar, wspieraj¹cy przenoszenie przepisowego wyposa¿enia. Nie jest najlepszym kombinezonem w swojej klasie. Wy¿si rang¹ cz³onkowie frakcji zwykle otrzymuj¹ coœ bardziej solidnego.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_nbc_outfit_name">
-		<text>Zdobyczny kombinezon NBC</text>
+		<text>Zdobyczny kombinezon "NBC"</text>
 	</string>
 	<string id="bandit_nbc_outfit_description">
-		<text>Kombinezon NBC z kevlarow¹ kamizelk¹. Dobrze izoluje mimo, ¿e nie jest w najlepszym stanie. Zanim trafi³ w rêce Bandytów, prawdopodobnie musia³ zostaæ zmontowany na nowo z ga³ganów pozosta³ych po brutalnie zamordowanym stalkerze. Kombinezon w standardzie wyposa¿ony jest w maskê przeciwgazow¹ GP-5 po³¹czon¹ wê¿em z nowoczesnym filtropoch³aniaczem. Choæ nie zosta³ odnowiony tak, by sprostaæ warunkom Zony, jest doœæ popularny wœród wata¿ków, którym zale¿y na rozk³adaj¹cym ciê¿ar stela¿u.\n \n
+		<text>Kombinezon "NBC" z kevlarow¹ kamizelk¹. Dobrze izoluje mimo, ¿e nie jest w najlepszym stanie. Zanim trafi³ w rêce Bandytów, prawdopodobnie musia³ zostaæ zmontowany na nowo z ga³ganów pozosta³ych po brutalnie zamordowanym stalkerze. Kombinezon w standardzie wyposa¿ony jest w maskê przeciwgazow¹ GP-5 po³¹czon¹ wê¿em z nowoczesnym filtropoch³aniaczem. Choæ nie zosta³ odnowiony tak, by sprostaæ warunkom Zony, jest doœæ popularny wœród wata¿ków, którym zale¿y na rozk³adaj¹cym ciê¿ar stela¿u.\n \n
 		</text>
 	</string>
 	
 	
 <!-- Assault vest -->
 	<string id="light_loner_outfit_name">
-		<text>Kombinezon IBA</text>
+		<text>Kombinezon "IBA"</text>
 	</string>
 	<string id="light_loner_outfit_description">
-		<text>Stary kombinezon IBA (ang. Interceptor Body Armor) importowany z Zachodu i dostosowany do warunków Zony. Jest dosyæ ciê¿ki, ale zapewnia wystarczaj¹c¹ ochronê przed anomaliami i ma dobre w³aœciwoœci balistyczne. Czasem korzystaj¹ z nich stalkerzy zaci¹gaj¹cy siê do frakcji celem wsparcia jej w wojnie z innymi ugrupowaniami. Kombinezon w porównaniu do typowych strojów stalkerskich znacznie zwiêksza szanse wyjœcia ca³o z potyczek i strzelanin.\n \n
+		<text>Stary kombinezon IBA (ang. Interceptor Body Armor) importowany z Zachodu i dostosowany do warunków Zony. Jest dosyæ ciê¿ki, ale zapewnia wystarczaj¹c¹ ochronê przed anomaliami i ma dobre w³aœciwoœci balistyczne. Czasem korzystaj¹ z nich stalkerzy zaci¹gaj¹cy siê do frakcji celem wsparcia jej w wojnie z innymi frakcjami. Kombinezon w porównaniu do typowych kombinezonów stalkerskich znacznie zwiêksza szanse wyjœcia ca³o z potyczek i strzelanin.\n \n
 		</text>
 	</string>
 	
 	<string id="light_freedom_outfit_name">
-		<text>Obroñca Wolnoœci</text>
+		<text>"Obroñca Wolnoœci"</text>
 	</string>
 	<string id="light_freedom_outfit_description">
-		<text>Wed³ug plotek, Wolnoœæ otrzymuje te kombinezony z nieznanych Ÿróde³ zewnêtrznych. Kombinezon oparty jest o nieco przestarza³y system IBA (ang. Interceptor Body Armor) zmodyfikowany tak, by spe³nia³ swoje zadanie w trudnych warunkach Zony. Posiada dobr¹ ochronê balistyczn¹. U¿ywany jest g³ównie do ochrony oddzia³ów szturmowych atakuj¹cych niezbyt silnie umocnione pozycje wroga.\n \n
+		<text>Wed³ug plotek, Wolnoœæ otrzymuje te kombinezony z nieznanych Ÿróde³ zewnêtrznych. Kombinezon oparty jest o nieco przestarza³y system "IBA" (ang. Interceptor Body Armor) zmodyfikowany tak, by spe³nia³ swoje zadanie w trudnych warunkach Zony. Posiada dobr¹ ochronê balistyczn¹. U¿ywany jest g³ównie do ochrony oddzia³ów szturmowych atakuj¹cych niezbyt silnie umocnione pozycje wroga.\n \n
 		</text>
 	</string>
 
 	<string id="light_voen_outfit_name">
-		<text>Wojskowy kombinezon IBA-Z</text>
+		<text>Wojskowy kombinezon "IBA-Z"</text>
 	</string>
 	<string id="light_voen_outfit_description">
-		<text>Kombinezon typu IBA-Z ("Z" oznacza w tym przypadku Zonê) nale¿¹cy wczeœniej do wojskowego stalkera. W porównaniu do standardowego modelu, ten jest zdecydowanie wygodniejszy i posiada du¿¹ odpornoœæ na czynniki œrodowiskowe, w tym pola anomalii wszelkiego typu. Kombinezon nie jest przepisowym strojem operatorów Specnazu. Specjalni wojskowi stalkerzy zwykle musz¹ sk³adaæ wnioski o wydanie im IBA-Z we w³asnym zakresie.\n \n
+		<text>Kombinezon typu "IBA-Z" ("Z" oznacza w tym przypadku Zonê) nale¿¹cy wczeœniej do wojskowego stalkera. W porównaniu do standardowego modelu, ten jest zdecydowanie wygodniejszy i posiada du¿¹ odpornoœæ na czynniki œrodowiskowe, w tym pola anomalii wszelkiego typu. Kombinezon nie jest przepisowym kombinezonem operatorów Specnazu. Specjalni wojskowi stalkerzy zwykle musz¹ sk³adaæ wnioski o wydanie im "IBA-Z" we w³asnym zakresie.\n \n
 		</text>
 	</string>
 
 	<string id="light_monolit_outfit_name">
-		<text>Kombinezon IBA-Z Monolitu</text>
+		<text>Kombinezon "IBA-Z" Monolitu</text>
 	</string>
 	<string id="light_monolit_outfit_description">
-		<text>Kombinezon typu IBA-Z ("Z" oznacza w tym przypadku Zonê), który w jakiœ sposób trafi³ w rêce cz³onka Monolitu. W porównaniu do standardowego modelu, ten jest nieco bardziej ergonomiczny i posiada zwiêkszon¹ ochronê przed wp³ywem fal psionicznych. Kombinezony tego typu zwykle trafiaj¹ do fanatyków przez nierozwa¿nych stalkerów próbuj¹cych przedrzeæ siê za Barierê. Tacy zwykle pojawiaj¹ siê w Zonie ponownie dopiero w trakcie inwazji Monolitu na Magazyny Wojskowe.\n \n
+		<text>Kombinezon typu "IBA-Z" ("Z" oznacza w tym przypadku Zonê), który w jakiœ sposób trafi³ w rêce cz³onka Monolitu. W porównaniu do standardowego modelu, ten jest nieco bardziej ergonomiczny i posiada zwiêkszon¹ ochronê przed wp³ywem fal psionicznych. Kombinezony tego typu zwykle trafiaj¹ do fanatyków przez nierozwa¿nych stalkerów próbuj¹cych przedrzeæ siê za Barierê. Tacy zwykle pojawiaj¹ siê w Zonie ponownie dopiero w trakcie inwazji Monolitu na Magazyny Wojskowe.\n \n
 		</text>
 	</string>
 
 	<string id="light_dolg_outfit_name">
-		<text>Uniwersalna ochrona IBA-Z</text>
+		<text>Uniwersalna ochrona "IBA-Z"</text>
 	</string>
 	<string id="light_dolg_outfit_description">
-		<text>Stary kombinezon IBA (ang. Interceptor Body Armor) importowany z Zachodu i dostosowany do warunków Zony. Niekomfortowy tak w u¿ytkowaniu, jak i w utrzymaniu. Wariant Powinnoœci otrzyma³ ulepszenia zwiêkszaj¹ce odpornoœæ na dzia³anie chemikaliów. Powinnoœæ raczej nie zamawia tych kombinezonów bezpoœrednio. Bardziej prawdopodobne wydaje siê to, ¿e odnawiaj¹ stroje zdobyte po pokonaniu anarchistów.\n \n
+		<text>Stary kombinezon "IBA" (ang. Interceptor Body Armor) importowany z Zachodu i dostosowany do warunków Zony. Niekomfortowy tak w u¿ytkowaniu, jak i w utrzymaniu. Wariant Powinnoœci otrzyma³ ulepszenia zwiêkszaj¹ce odpornoœæ na dzia³anie chemikaliów. Powinnoœæ raczej nie zamawia tych kombinezonów bezpoœrednio. Bardziej prawdopodobne wydaje siê to, ¿e naprawiaj¹ kombinezony zdobyte po pokonaniu anarchistów.\n \n
 		</text>
 	</string>
 
 	<string id="light_merc_outfit_name">
-		<text>Kombinezon IBA-Z Najemników</text>
+		<text>Kombinezon "IBA-Z" Najemników</text>
 	</string>
 	<string id="light_merc_outfit_description">
-		<text>Dobrze utrzymany kombinezon IBA sprzedany bezpoœrednio najemnikom, prawdopodobnie przez zachodnich dystrybutorów. Kombinezon, choæ nie jest zbyt komfortowy, posiada lepsze w³aœciwoœci ni¿ standardowe modele IBA kr¹¿¹ce po Zonie. Jego przeznaczeniem jest umo¿liwienie najemnikom wype³niania kontraktów polegaj¹cych na przejmowaniu umocnionych pozycji przeciwników.\n \n
+		<text>Dobrze utrzymany kombinezon "IBA" sprzedany bezpoœrednio najemnikom, prawdopodobnie przez zachodnich dystrybutorów. Kombinezon, choæ nie jest zbyt komfortowy, posiada lepsze w³aœciwoœci ni¿ standardowe modele "IBA" kr¹¿¹ce po Zonie. Jego przeznaczeniem jest umo¿liwienie najemnikom wype³niania kontraktów polegaj¹cych na przejmowaniu umocnionych pozycji przeciwników.\n \n
 		</text>
 	</string>
 	
 	<string id="light_isg_outfit_name">
-		<text>Kombinezon IBA-Z UNISG</text>
+		<text>Kombinezon "IBA-Z" UNISG</text>
 	</string>
 	<string id="light_isg_outfit_description">
 		<text>Mocny, choæ nieco przestarza³y kombinezon bojowy zmodyfikowany tak, by zapewniaæ u¿ytkownikowi w³aœciw¹ ochronê przed anomaliami. Ten kombinezon stanowi absolutne minimum dla kogoœ, komu kontakt z uzbrojonymi si³ami SBU wydaje siê nieunikniony. Jest te¿ dobrym wyborem dla zwiadowców ONZ, prowadz¹cych operacje obejmuj¹ce eksploracjê tajnych laboratoriów.\n \n
@@ -571,10 +571,10 @@
 
 <!-- Sunrise suits -->
 	<string id="stalker_outfit_name">
-		<text>Kombinezon Œwit</text>
+		<text>Kombinezon "Œwit"</text>
 	</string>
 	<string id="stalker_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Wykonany z podwójnie gumowanej tkaniny ze wstawkami z pleksiglasu oraz kamizelki kuloodpornej, Œwit jest jednym z najstarszych istniej¹cych projektów kombinezonu stalkerskiego. Stanowi ABSOLUTNE MINIMUM, gdy chodzi o ochronê w trakcie powa¿nych wypraw w Zonê. Jest popularny zarówno wœród nowicjuszy, jak i weteranów, g³ównie ze wzglêdu na niski koszt i ogromne mo¿liwoœci dalszej modyfikacji pod konkretnego u¿ytkownika.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Wykonany z podwójnie gumowanej tkaniny ze wstawkami z pleksiglasu oraz kamizelki kuloodpornej, "Œwit" jest jednym z najstarszych istniej¹cych projektów kombinezonu stalkerskiego. Stanowi ABSOLUTNE MINIMUM, gdy chodzi o ochronê w trakcie powa¿nych wypraw w Zonê. Jest popularny zarówno wœród nowicjuszy, jak i weteranów, g³ównie ze wzglêdu na niski koszt i ogromne mo¿liwoœci dalszej modyfikacji pod konkretnego u¿ytkownika.\n \n
 		</text>
 	</string>
 	
@@ -595,26 +595,26 @@
 	</string>
 	
 	<string id="stalker_drought_outfit_name">
-		<text>Kombinezon Suszarka</text>
+		<text>Kombinezon "Suszarka"</text>
 	</string>
 	<string id="stalker_drought_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Na tle innych kombinezonów wyró¿nia siê nieznacznie lepsz¹ ochron¹ balistyczn¹, ale z tego wzglêdu jest zdecydowanie mniej komfortowy w u¿ytkowaniu. Posiada dodatkowe uchwyty przy pasie, które - choæ teoretycznie przeznaczone na artefakty - zwykle zajête s¹ kamelbakami. Dodatkowy ciê¿ar p³yt pancernych i zwi¹zana z nim trudnoœæ w poruszaniu siê sprawi³y, ¿e stalkerzy przezywaj¹ te kombinezony "Suszarkami" ze wzglêdu na wynikaj¹ce z ich u¿ytkowania szybie odwadnianie organizmu. Popularnoœci¹ dorównuje klasycznemu Œwitowi, g³ównie przez niski koszt i ogromne mo¿liwoœci dalszej modyfikacji pod konkretnego u¿ytkownika.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Na tle innych kombinezonów wyró¿nia siê nieznacznie lepsz¹ ochron¹ balistyczn¹, ale z tego wzglêdu jest zdecydowanie mniej komfortowy w u¿ytkowaniu. Posiada dodatkowe uchwyty przy pasie, które - choæ teoretycznie przeznaczone na artefakty - zwykle zajête s¹ kamelbakami. Dodatkowy ciê¿ar p³yt pancernych i zwi¹zana z nim trudnoœæ w poruszaniu siê sprawi³y, ¿e stalkerzy przezywaj¹ te kombinezony "Suszarkami" ze wzglêdu na wynikaj¹ce z ich u¿ytkowania szybie odwadnianie organizmu. Popularnoœci¹ dorównuje klasycznemu "Œwitowi", g³ównie przez niski koszt i ogromne mo¿liwoœci dalszej modyfikacji pod konkretnego u¿ytkownika.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_predator_outfit_name">
-		<text>Kombinezon Drapie¿nik</text>
+		<text>Kombinezon "Drapie¿nik"</text>
 	</string>
 	<string id="stalker_predator_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Zasadniczo jest to Suszarka po gruntownej modernizacji. Drapie¿nik oferuje podobn¹ ochronê przed ostrza³em, ale jest du¿o bardziej komfortowy. Z tego powodu ceni¹ go stalkerzy potrzebuj¹cy nieco wiêkszej odpornoœci balistycznej i o wiele wiêkszej mobilnoœci od tych, które zapewniaj¹ typowe kombinezony. Jak wiêkszoœæ strojów tego typu, popularny jest zarówno wœród ¿ó³todziobów, jak i starych wygów dziêki niewielkiej cenie i ogromnym mo¿liwoœciom dalszej modyfikacji pod konkretnego u¿ytkownika.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Zasadniczo jest to "Suszarka" po gruntownej modernizacji. Drapie¿nik oferuje podobn¹ ochronê przed ostrza³em, ale jest du¿o bardziej komfortowy. Z tego powodu ceni¹ go stalkerzy potrzebuj¹cy nieco wiêkszej odpornoœci balistycznej i o wiele wiêkszej mobilnoœci od tych, które zapewniaj¹ typowe kombinezony. Jak wiêkszoœæ kombinezonów tego typu, popularny jest zarówno wœród ¿ó³todziobów, jak i starych wygów dziêki niewielkiej cenie i ogromnym mo¿liwoœciom dalszej modyfikacji pod konkretnego u¿ytkownika.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_autumn_outfit_name">
-		<text>Kombinezon Jesieñ</text>
+		<text>Kombinezon "Jesieñ"</text>
 	</string>
 	<string id="stalker_autumn_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Ten strój jest ulubieñcem niedoœwiadczonych poszukiwaczy artefaktów i ³owców g³ów, jako ¿e pozwala wzglêdnie bezpiecznie przechodziæ - lub ukrywaæ siê - przez pola anomalii chemicznych. Zapewnia znacznie wiêksz¹ ochronê przed toksynami, ni¿ typowy kombinezon stalkerski. Poza tym jest doœæ wygodny i to mimo zwiêkszonej os³ony balistycznej. Jego cena jest nieznacznie wy¿sza ni¿ standardowego Œwitu. To dobra inwestycja dla tych, którzy próbuj¹ siê dalej rozwijaæ.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Ten kombinezon jest ulubieñcem niedoœwiadczonych poszukiwaczy artefaktów i ³owców g³ów, jako ¿e pozwala wzglêdnie bezpiecznie przechodziæ - lub ukrywaæ siê - przez pola anomalii chemicznych. Zapewnia znacznie wiêksz¹ ochronê przed toksynami, ni¿ typowy kombinezon stalkerski. Poza tym jest doœæ wygodny i to mimo zwiêkszonej os³ony balistycznej. Jego cena jest nieznacznie wy¿sza ni¿ standardowego "Œwitu". To dobra inwestycja dla tych, którzy próbuj¹ siê dalej rozwijaæ.\n \n
 		</text>
 	</string>
 	
@@ -622,44 +622,44 @@
 		<text>Kombinezon "Liœæ winoroœli"</text>
 	</string>
 	<string id="stalker_vineleaf_outfit_description">
-		<text>NIE WYSTÊPUJE W GRZE. Wy¿szej jakoœci wersja zwyk³ego kombinezonu Œwit, wykonana z bardziej wytrzyma³ych i dro¿szych materia³ów. G³ówna konstrukcja kombinezonu jest prawie taka sama jak w przypadku podstawowego Œwit, ale u¿ycie materia³ów wy¿szej jakoœci prowadzi do zwiêkszenia w³aœciwoœci ochronnych bez znacznego wzrostu wagi. Kombinezon jest równie¿ bardziej wytrzyma³y i ma potencja³ do bardziej zaawansowanych modyfikacji. Wersja "Liœæ winoroœli" koncentruje siê g³ównie na zwiêkszeniu mobilnoœci i komfortu u¿ytkownika bez zmniejszania jego w³aœciwoœci ochronnych. Cel ten osi¹gniêto dziêki zastosowaniu bardziej elastycznego, termoaktywnego materia³u; kombinezon nieznacznie kurczy siê pod wp³ywem wysokiej temperatury. Stalkerzy, którzy w³aœnie kupili strój, udaj¹ siê do najbli¿szej anomalii termicznej i stoj¹ obok niej przez chwilê - kombinezon kurczy siê i idealnie dopasowuje do ich cia³a. Choæ brzmi to groŸnie, nikt nigdy nie zg³osi³, by kombinezon zak³óca³ przep³yw krwi. Materia³ ten wydaje siê byæ równie¿ nieco trudniejszy do przeciêcia, dziêki czemu kombinezon zapewnia lepsz¹ ochronê przed atakami s³abszych mutantów. Ostatni¹ cech¹ tego kombinezonu jest to, ¿e jego wewnêtrzna warstwa jest pokryta zwi¹zkiem, który lekko ch³odzi cia³o, zwiêkszaj¹c komfort. Jak sama nazwa wskazuje, "Liœæ winoroœli" ma kamufla¿ w kolorach podobnych do liœci winoroœli lub bluszczu. Wzór sk³ada siê z du¿ych, nieregularnych plam w jaœniejszych i ciemniejszych odcieniach.\n \n
+		<text>NIE WYSTÊPUJE W GRZE. Wy¿szej jakoœci wersja zwyk³ego kombinezonu "Œwit", wykonana z bardziej wytrzyma³ych i dro¿szych materia³ów. G³ówna konstrukcja kombinezonu jest prawie taka sama jak w przypadku podstawowego "Œwit", ale u¿ycie materia³ów wy¿szej jakoœci prowadzi do zwiêkszenia w³aœciwoœci ochronnych bez znacznego wzrostu wagi. Kombinezon jest równie¿ bardziej wytrzyma³y i ma potencja³ do bardziej zaawansowanych modyfikacji. Wersja "Liœæ winoroœli" koncentruje siê g³ównie na zwiêkszeniu mobilnoœci i komfortu u¿ytkownika bez zmniejszania jego w³aœciwoœci ochronnych. Cel ten osi¹gniêto dziêki zastosowaniu bardziej elastycznego, termoaktywnego materia³u; kombinezon nieznacznie kurczy siê pod wp³ywem wysokiej temperatury. Stalkerzy, którzy w³aœnie kupili kombinezon, udaj¹ siê do najbli¿szej anomalii termicznej i stoj¹ obok niej przez chwilê - kombinezon kurczy siê i idealnie dopasowuje do ich cia³a. Choæ brzmi to groŸnie, nikt nigdy nie zg³osi³, by kombinezon zak³óca³ przep³yw krwi. Materia³ ten wydaje siê byæ równie¿ nieco trudniejszy do przeciêcia, dziêki czemu kombinezon zapewnia lepsz¹ ochronê przed atakami s³abszych mutantów. Ostatni¹ cech¹ tego kombinezonu jest to, ¿e jego wewnêtrzna warstwa jest pokryta zwi¹zkiem, który lekko ch³odzi cia³o, zwiêkszaj¹c komfort. Jak sama nazwa wskazuje, "Liœæ winoroœli" ma kamufla¿ w kolorach podobnych do liœci winoroœli lub bluszczu. Wzór sk³ada siê z du¿ych, nieregularnych plam w jaœniejszych i ciemniejszych odcieniach.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_bear_outfit_name">
-		<text>Kombinezon NiedŸwiedŸ</text>
+		<text>Kombinezon "NiedŸwiedŸ"</text>
 	</string>
 	<string id="stalker_bear_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Nieznacznie ciê¿szy od innych tego typu strojów, ale mimo tego niektórzy korzystaj¹ z nich ze wzglêdu na du¿¹ odpornoœæ na ostrza³ i ca³kiem niez³¹ izolacjê przed wysok¹ temperatur¹. Niestety, izolacji nie wykonano za pomoc¹ specjalistycznych tkanin, a cha³upnicz¹ metod¹ prób i b³êdów. Z tego wzglêdu u¿ytkownik NiedŸwiedzia bêdzie du¿o bardziej nara¿ony na pora¿enie pr¹dem. Z zalet tych kombinezonów korzystaj¹ najczêœciej stalkerzy pracuj¹cy przy Spalaczach w pobli¿u jeziora Jantar.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Nieznacznie ciê¿szy od innych tego typu kombinezonów, ale mimo tego niektórzy korzystaj¹ z nich ze wzglêdu na du¿¹ odpornoœæ na ostrza³ i ca³kiem niez³¹ izolacjê przed wysok¹ temperatur¹. Niestety, izolacji nie wykonano za pomoc¹ specjalistycznych tkanin, a cha³upnicz¹ metod¹ prób i b³êdów. Z tego wzglêdu u¿ytkownik "NiedŸwiedzia" bêdzie du¿o bardziej nara¿ony na pora¿enie pr¹dem. Z zalet tych kombinezonów korzystaj¹ najczêœciej stalkerzy pracuj¹cy przy Spalaczach w pobli¿u jeziora Jantar.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_salamander_outfit_name">
-		<text>Kombinezon Salamandra</text>
+		<text>Kombinezon "Salamandra"</text>
 	</string>
 	<string id="stalker_salamander_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Ten model zosta³ zaprojektowany dla stalkerów, którzy ceni¹ sobie wartoœæ obserwacji i eksploracji. Nie gwarantuje zbyt dobrej ochrony w walce (której mo¿na unikn¹æ), ani przeciw anomaliom (które mo¿na wypatrzyæ i omin¹æ), ale posiada du¿¹ odpornoœæ na promieniowanie. Salamandra stanowi rozs¹dny wybór dla tych, którzy s¹ œwiadomi swojego otoczenia i potrzebuj¹ kombinezonu, który pomo¿e im stawiæ czo³a "niewidzialnemu wrogowi". Co zaskakuj¹ce, jak na kombinezon nazywaj¹cy siê w taki sposób, raczej s³abo radzi sobie z wysok¹ temperatur¹. Tak, jak i wiêkszoœæ kombinezonów stalkerskich, jest stosunkowo niedrogi i ma ogromne mo¿liwoœci dalszej modyfikacji.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Ten model zosta³ zaprojektowany dla stalkerów, którzy ceni¹ sobie wartoœæ obserwacji i eksploracji. Nie gwarantuje zbyt dobrej ochrony w walce (której mo¿na unikn¹æ), ani przeciw anomaliom (które mo¿na wypatrzyæ i omin¹æ), ale posiada du¿¹ odpornoœæ na promieniowanie. "Salamandra" stanowi rozs¹dny wybór dla tych, którzy s¹ œwiadomi swojego otoczenia i potrzebuj¹ kombinezonu, który pomo¿e im stawiæ czo³a "niewidzialnemu wrogowi". Co zaskakuj¹ce, jak na kombinezon nazywaj¹cy siê w taki sposób, raczej s³abo radzi sobie z wysok¹ temperatur¹. Tak, jak i wiêkszoœæ kombinezonów stalkerskich, jest stosunkowo niedrogi i ma ogromne mo¿liwoœci dalszej modyfikacji.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_graphite_outfit_name">
-		<text>Kombinezon Grafit</text>
+		<text>Kombinezon "Grafit"</text>
 	</string>
 	<string id="stalker_graphite_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Opracowany niezale¿nie przez kilku optymistów, którym wydawa³o siê, ¿e dadz¹ radê dokonaæ pomiarów burz psionicznych, samemu pozostaj¹c na otwartej przestrzeni. Co raczej oczywiste, plan ca³kowicie zawiód³, ale pomys³ zosta³ wykorzystany do stworzenia kombinezonu zdolnego os³oniæ uk³ad nerwowy u¿ytkownika. Przez modyfikacje strój sta³ siê podatny na przegrzanie i straci³ odpornoœæ na toksyny. Czasem starsi stalkerzy wykonuj¹ z pomoc¹ tego kombinezonu nieco zapomniany, ale niegdyœ bardzo popularny ¿art sytuacyjny, w którym to ktoœ rzuca Grafit na ziemiê i udaje, ¿e wcale go tam nie ma.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Opracowany niezale¿nie przez kilku optymistów, którym wydawa³o siê, ¿e dadz¹ radê dokonaæ pomiarów burz psionicznych, samemu pozostaj¹c na otwartej przestrzeni. Co raczej oczywiste, plan ca³kowicie zawiód³, ale pomys³ zosta³ wykorzystany do stworzenia kombinezonu zdolnego os³oniæ uk³ad nerwowy u¿ytkownika. Przez modyfikacje kombinezon sta³ siê podatny na przegrzanie i straci³ odpornoœæ na toksyny. Czasem starsi stalkerzy wykonuj¹ z pomoc¹ tego kombinezonu nieco zapomniany, ale niegdyœ bardzo popularny ¿art sytuacyjny, w którym to ktoœ rzuca "Grafit" na ziemiê i udaje, ¿e wcale go tam nie ma.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_tigerstripe_outfit_name">
-		<text>Kombinezon Tygrys</text>
+		<text>Kombinezon "Tygrys"</text>
 	</string>
 	<string id="stalker_tigerstripe_outfit_description">
-		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Jeden z najciê¿szych dostêpnych kombinezonów stalkerskich. Opracowany dla tych, którzy ponad zbieranie artefaktów i patroszenie mutantów ceni¹ zabójstwa na zlecenie i walki miêdzy frakcjami. W porównaniu do typowego kombinezonu, ten zapewnia nieco lepsz¹ ochronê przed ostrza³em i jest du¿o bardziej odporny na od³amki, ciêcia i uderzenia têpymi narzêdziami. Porównywalny ze strojami stricte bojowymi, ale sporo tañszy i prostszy w utrzymaniu.\n \n
+		<text>Stworzony przez tutejszych rzemieœlników kombinezon u³atwiaj¹cy przetrwanie w trudnych warunkach Zony. Jeden z najciê¿szych dostêpnych kombinezonów stalkerskich. Opracowany dla tych, którzy ponad zbieranie artefaktów i patroszenie mutantów ceni¹ zabójstwa na zlecenie i walki miêdzy frakcjami. W porównaniu do typowego kombinezonu, ten zapewnia nieco lepsz¹ ochronê przed ostrza³em i jest du¿o bardziej odporny na od³amki, ciêcia i uderzenia têpymi narzêdziami. Porównywalny z kombinezonami stricte bojowymi, ale sporo tañszy i prostszy w utrzymaniu.\n \n
 		</text>
 	</string>
 
 	<string id="ecologist_guard_outfit_name">
-		<text>Kombinezon grupy Iskra</text>
+		<text>Kombinezon grupy "Iskra"</text>
 	</string>
 	<string id="ecologist_guard_outfit_description">
 		<text>Tego typu kombinezony przeznaczone by³y dla cz³onków naukowo-operacyjnej grupy badawczej Iskra zarz¹dzanej przez prof. Hermanna. Okaza³y siê na tyle skuteczne, ¿e zaczêli ich u¿ywaæ tak¿e inni Naukowcy dzia³aj¹cy w terenie. Jak na produkt w tej klasie cenowej, zapewnia lepsz¹ ni¿ dobr¹ ochronê przed anomaliami, ale nie radzi sobie z ostrza³em z broni potê¿niejszej, ni¿ pistolety. Wiêkszoœæ pracowników terenowych wymienia je na kombinezony SEVA lub SSP-99M, kiedy tylko stan¹ siê dla nich osi¹galne. Ci z kolei, którzy spodziewaj¹ siê wziêcia udzia³u w strzelaninie raczej zaopatruj¹ siê bojowe kombinezony wojskowe.\n \n
@@ -670,14 +670,14 @@
 		<text>Kombinezon CS-2b</text>
 	</string>
 	<string id="cs_stalker_outfit_description">
-		<text>W przeciwieñstwie do innych kombinezonów serii CS-1, 2 i 3, ten model opracowano ju¿ po zakoñczonym klêsk¹ szturmie na Elektrowniê w 2011 roku. Przez cz³onków frakcji uwa¿any za pierwszego pe³noprawnego nastêpcê kombinezonu CS-1. Nie tylko zapewnia ochronê przed anomaliami, ale posiada te¿ spor¹ odpornoœæ na ostrza³ z broni palnej i inne czynniki fizyczne.\n \n
+		<text>W przeciwieñstwie do innych kombinezonów serii CS-1, 2 i 3, ten model opracowano ju¿ po zakoñczonym klêsk¹ szturmie na Czarnobylsk¹ Elektrowniê J¹drow¹ w 2011 roku. Przez cz³onków frakcji uwa¿any za pierwszego pe³noprawnego nastêpcê kombinezonu CS-1. Nie tylko zapewnia ochronê przed anomaliami, ale posiada te¿ spor¹ odpornoœæ na ostrza³ z broni palnej i inne czynniki fizyczne.\n \n
 		</text>
 	</string>
 
 
 <!-- STS (Special Tactical Suits) -->
 	<string id="svoboda_light_outfit_name">
-		<text>Powiew Wolnoœci</text>
+		<text>"Powiew Wolnoœci"</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
 		<text>Ten wygodny kombinezon opracowali technicy Wolnoœci. Tkaniny, z których zosta³ stworzony potraktowano wczeœniej œrodkiem "Horyzont" - p³ynem opracowanym przez Wolnoœæ metod¹ prób i b³êdów, zwiêkszaj¹cym w³aœciwoœci ochronne przeciw anomaliami chemicznymi. Czarny Stalker jeden wie, jakie mog¹ byæ skutki uboczne tego specyfiku.\n \n
@@ -685,31 +685,31 @@
 	</string>
 
 	<string id="monolith_outfit_name">
-		<text>Kombinezon X-18 Monolitu</text>
+		<text>Kombinezon "X-18" Monolitu</text>
 	</string>
 	<string id="monolith_outfit_description">
-		<text>Tajemniczy strój w barwach Monolitu. Zawiera ochronê œrodowiskow¹ zapewniaj¹c¹ bardzo dobr¹ odpornoœæ na chemikalia i promieniowanie. Do³¹czona kamizelka skutecznie zatrzymuje ostrza³ z pistoletu, jednak os³ona przed anomaliami jest poni¿ej œredniej. Pierwotne przeznaczenie tych kombinezonów pozostaje nieznane. Dwa tuziny nowych kompletów X-18 znaleziono kiedyœ w szafkach pracowniczych w podziemnym laboratorium w Dolinie Mroku. Interesuj¹cy wydaje siê fakt, ¿e stalkerzy, którzy dokonali odkrycia, nied³ugo potem zaginêli w niewyjaœnionych okolicznoœciach - co skutkowa³o pojawieniem siê setek ró¿nych teorii spiskowych, g³oszonych przez cz³onków ró¿nych frakcji. Wielu uwa¿a, ¿e kombinezony X-18 zosta³y opracowane jeszcze przed powstaniem Zony.\n \n
+		<text>Tajemniczy kombinezon w barwach Monolitu. Zawiera ochronê œrodowiskow¹ zapewniaj¹c¹ bardzo dobr¹ odpornoœæ na chemikalia i promieniowanie. Do³¹czona kamizelka skutecznie zatrzymuje ostrza³ z pistoletu, jednak os³ona przed anomaliami jest poni¿ej œredniej. Pierwotne przeznaczenie tych kombinezonów pozostaje nieznane. Dwa tuziny nowych kompletów "X-18" znaleziono kiedyœ w szafkach pracowników w podziemnym laboratorium w Dolinie Mroku. Interesuj¹cy wydaje siê fakt, ¿e stalkerzy, którzy dokonali odkrycia, nied³ugo potem zaginêli w niewyjaœnionych okolicznoœciach - co skutkowa³o pojawieniem siê setek ró¿nych teorii spiskowych, g³oszonych przez cz³onków ró¿nych frakcji. Wielu uwa¿a, ¿e kombinezony "X-18" zosta³y opracowane jeszcze przed powstaniem Zony.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_sun_outfit_name">
-		<text>Kombinezon taktyczny Zmierzch</text>
+		<text>Kombinezon taktyczny "Zmierzch"</text>
 	</string>
 	<string id="bandit_sun_outfit_description">
-		<text>Dostosowany przez tutejszych rzemieœlników kombinezon taktyczny, maj¹cy u³atwiæ przetrwanie w trudnych warunkach Zony. Jego krój sugeruje, ¿e twórcy inspirowali siê kombinezonem STS (Special Tactical Suit), ale ca³oœæ niepokoj¹co przypomina kombinezon X-18 Monolitu, w którym ktoœ poprawi³ izolacjê termiczn¹ i elektryczn¹ kosztem odpornoœci na pozosta³e zagro¿enia. U¿ywany g³ównie przez bandytów wybijaj¹cych w Dolinie Mroku poltergeisty, które od czasu do czasu wydostaj¹ siê z tamtejszego laboratorium.\n \n
+		<text>Dostosowany przez tutejszych rzemieœlników kombinezon taktyczny, maj¹cy u³atwiæ przetrwanie w trudnych warunkach Zony. Jego krój sugeruje, ¿e twórcy inspirowali siê kombinezonem "STS" (Special Tactical Suit), ale ca³oœæ niepokoj¹co przypomina kombinezon "X-18" Monolitu, w którym ktoœ poprawi³ izolacjê termiczn¹ i elektryczn¹ kosztem odpornoœci na pozosta³e zagro¿enia. U¿ywany g³ównie przez bandytów wybijaj¹cych w Dolinie Mroku poltergeisty, które od czasu do czasu wydostaj¹ siê z tamtejszego laboratorium.\n \n
 		</text>
 	</string>
 
 	<string id="merc_sun_outfit_name">
-		<text>Kombinezon taktyczny Brzask</text>
+		<text>Kombinezon taktyczny "Brzask"</text>
 	</string>
 	<string id="merc_sun_outfit_description">
-		<text>Dostosowany przez tutejszych rzemieœlników kombinezon taktyczny, maj¹cy u³atwiæ przetrwanie w trudnych warunkach Zony. Najemnicy wykonuj¹cy kontrakty w Zonie podpatrzyli co nieco od wolnych stalkerów i zaczêli wytwarzaæ kombinezony dla w³asnych celów. Brzask z wygl¹du przypomina nieco kombinezon X-18 Monolitu - nikt nie ma w¹tpliwoœci, ¿e najemnicy odzyskiwali, co tylko siê da, po doœæ kosztownych potyczkach w Limañsku. Strój jest wykonany solidnie. Wiêkszoœæ ¿o³nierzy korzysta z nich w trakcie operacji przeprowadzanych na po³udnie od Radaru, gdzie sprawdzaj¹ siê wyœmienicie.\n \n
+		<text>Dostosowany przez tutejszych rzemieœlników kombinezon taktyczny, maj¹cy u³atwiæ przetrwanie w trudnych warunkach Zony. Najemnicy wykonuj¹cy kontrakty w Zonie podpatrzyli co nieco od wolnych stalkerów i zaczêli wytwarzaæ kombinezony dla w³asnych celów. "Brzask" z wygl¹du przypomina nieco kombinezon "X-18" Monolitu - nikt nie ma w¹tpliwoœci, ¿e najemnicy odzyskiwali, co tylko siê da, po doœæ kosztownych potyczkach w Limañsku. Kombinezon jest wykonany solidnie. Wiêkszoœæ ¿o³nierzy korzysta z nich w trakcie operacji przeprowadzanych na po³udnie od Radaru, gdzie sprawdzaj¹ siê wyœmienicie.\n \n
 		</text>
 	</string>
 
 	<string id="merc_nighthunter_outfit_name">
-		<text>Kombinezon STS-N Najemników</text>
+		<text>Kombinezon "STS-N" Najemników</text>
 	</string>
 	<string id="merc_nighthunter_outfit_description">
 		<text>Ten dosyæ ciê¿ki kombinezon typu STS (Special Tactical Suit), przez niektórych zwany "Nocnym £owc¹" u¿ywany jest przez najemników w Zonie do przeprowadzania operacji w warunkach nocnych i miejskich. Pod wzglêdem konstrukcyjnym i wydajnoœciowym plasuje siê miêdzy typowym pancerzem ¿o³nierza Specnazu a standardowym kombinezonem stalkerskim. Posiada zwiêkszon¹ odpornoœæ na ostrza³ z broni palnej, w zwi¹zku z czym bardziej nadaje siê dla ³owcy g³ów, ni¿ poszukiwacza artefaktów.\n \n
@@ -717,7 +717,7 @@
 	</string>
 
 	<string id="merc_wolven_outfit_name">
-		<text>Kombinezon STS-W Najemników</text>
+		<text>Kombinezon "STS-W" Najemników</text>
 	</string>
 	<string id="merc_wolven_outfit_description">
 		<text>Ten ca³kiem komfortowy kombinezon typu STS (Special Tactical Suit), przez niektórych zwany "Wilczurem", wykorzystywany jest przez najemników zarówno w czasie ekspedycji eksploracyjnych, jak i operacji prowadzonych z ukrycia. Kombinezon posiada wystarczaj¹c¹, jak na swoj¹ klasê, odpornoœæ na anomalie. Pozwala u¿ytkownikowi na wzglêdnie bezpieczne poruszanie siê przez, lub ukrywanie wewn¹trz pól anomalii. Ca³kiem u¿yteczny dla ³owców artefaktów, ale najemnicy zwykle zak³adaj¹ Wilczury, gdy urz¹dzaj¹ zasadzki na cele, których pokonanie bardziej tradycyjnymi metodami wydaje siê trudne do zrealizowania.\n \n
@@ -725,49 +725,49 @@
 	</string>
 
 	<string id="isg_outfit_name">
-		<text>Kombinezon taktyczny UNISG Mk1</text>
+		<text>Kombinezon taktyczny "UNISG Mk1"</text>
 	</string>
 	<string id="isg_outfit_description">
-		<text>Skonstruowany w oparciu o standardy zachodnich jednostek specjalnych. Tego typu stroje wykorzystywane s¹ przez grupy militarne na ca³ym œwiecie. Dla operatorów UNISG kombinezony Mk1 to absolutne minimum do prowadzenia dzia³añ w Zonie. W porównaniu choæby z kombinezonem typu LC najemników, Mk1 jest zarówno ciê¿szy, jak i s³abszy pod wzglêdem odpornoœci na tutejsze warunki. Mimo to wci¹¿ plasuje siê wy¿ej, ni¿ uniformy poborowych ukraiñskiej armii.\n \n
+		<text>Skonstruowany w oparciu o standardy zachodnich jednostek specjalnych. Tego typu kombinezony wykorzystywane s¹ przez grupy militarne na ca³ym œwiecie. Dla ¿o³nierzy UNISG kombinezony typu "Mk1" to ABSOLUTNE MINIMUM do prowadzenia dzia³añ w Zonie. W porównaniu choæby z kombinezonem typu "LC" najemników, "Mk1" jest zarówno ciê¿szy, jak i s³abszy pod wzglêdem odpornoœci na tutejsze warunki. Mimo to wci¹¿ plasuje siê wy¿ej, ni¿ uniformy poborowych ukraiñskiej armii.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_merc_outfit_name">
-		<text>Kombinezon taktyczny UNISG Mk2</text>
+		<text>Kombinezon taktyczny "UNISG Mk2"</text>
 	</string>
 	<string id="isg_merc_outfit_description">
-		<text>Kombinezon Mk2 jest usprawnionym, lepiej dostosowanym do warunków panuj¹cych w Zonie kombinezonem Mk1. Zapewnia dobr¹ ochronê przed anomaliami, ma zwiêkszon¹ odpornoœæ na chemikalia, toksyny i wysok¹ temperaturê. UNISG przeprowadzi³o modernizacje kombinezonów w oparciu o niewielk¹ iloœæ danych uzyskanych dziêki niepowodzeniom operatorów ubranych w stroje Mk1. Mimo tego ich u¿ytkownikom zaleca siê unikanie jakichkolwiek kontaktów z lokalnymi stalkerami, o ile tylko jest to mo¿liwe.\n \n
+		<text>Kombinezon "UNISG Mk2" jest usprawnionym, lepiej dostosowanym do warunków panuj¹cych w Zonie kombinezonem "UNISG Mk1". Zapewnia dobr¹ ochronê przed anomaliami, ma zwiêkszon¹ odpornoœæ na chemikalia, toksyny i wysok¹ temperaturê. UNISG przeprowadzi³o modernizacje kombinezonów w oparciu o niewielk¹ iloœæ danych uzyskanych dziêki niepowodzeniom operatorów ubranych w kombinezony "Mk1". Mimo tego ich u¿ytkownikom zaleca siê unikanie jakichkolwiek kontaktów z lokalnymi stalkerami, o ile tylko jest to mo¿liwe.\n \n
 		</text>
 	</string>
 	
 	
 <!-- LCS (Light Combat Suit) -->
 	<string id="merc_outfit_name">
-		<text>Kombinezon LC najemników</text>
+		<text>Kombinezon "LC" Najemników</text>
 	</string>
 	<string id="merc_outfit_description">
-		<text>Kombinezon typu LCS (ang. Light Combat Suit, Lekki Kombinezon Bojowy) to najbardziej powszechny strój przebywaj¹cych w Zonie najemników. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Dziêki specjalnie traktowanym materia³om, pancerz ma wiêksz¹ stabilnoœæ podczas fizycznego przemieszczania siê p³yt. Kombinezon LC nadaje siê do przeprowadzania podstawowych operacji, ale w porównaniu do przepisowego wyposa¿enia ¿o³nierza Specnazu wydaje siê raczej s³aby. Nie by³ projektowany z myœl¹ o zagro¿eniach ze strony anomalii.\n \n
+		<text>Kombinezon typu LCS (ang. Light Combat Suit, Lekki Kombinezon Bojowy) to najbardziej powszechny kombinezon przebywaj¹cych w Zonie najemników. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Dziêki specjalnie traktowanym materia³om, pancerz ma wiêksz¹ stabilnoœæ podczas fizycznego przemieszczania siê p³yt. Kombinezon LC nadaje siê do przeprowadzania podstawowych operacji, ale w porównaniu do przepisowego wyposa¿enia ¿o³nierza Specnazu wydaje siê raczej s³aby. Nie by³ projektowany z myœl¹ o zagro¿eniach ze strony anomalii.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_fighter_outfit_name">
-		<text>Kombinezon LC-F najemników</text>
+		<text>Kombinezon "LC-F" Najemników</text>
 	</string>
 	<string id="merc_fighter_outfit_description">
-		<text>Niektórzy najemnicy sarkastycznie nazywaj¹ ten kombinezon "Fighter". De facto jest to modyfikacja standardowego stroju LCS, w której kosztem ogólnej odpornoœci zwiêkszono mobilnoœæ, odpornoœæ na wysok¹ temperaturê i wzmocniono pas na artefakty. Kombinezon nadaje siê do przeprowadzania operacji, które wymagaj¹ szybkoœci, precyzji i dzia³ania w ukryciu. Zwykle korzystaj¹ z nich zwiadowcy i dzia³aj¹cy w pojedynkê zabójcy maj¹cy cele wyznaczone w mniej ska¿onych promieniowaniem czêœciach Zony.\n \n
+		<text>Niektórzy najemnicy sarkastycznie nazywaj¹ ten kombinezon "Fighter". De facto jest to modyfikacja standardowego kombinezonu "LCS", w której kosztem ogólnej odpornoœci zwiêkszono mobilnoœæ, odpornoœæ na wysok¹ temperaturê i wzmocniono pas na artefakty. Kombinezon nadaje siê do przeprowadzania operacji, które wymagaj¹ szybkoœci, precyzji i dzia³ania w ukryciu. Zwykle korzystaj¹ z nich zwiadowcy i dzia³aj¹cy w pojedynkê zabójcy maj¹cy cele wyznaczone w mniej ska¿onych promieniowaniem czêœciach Zony.\n \n
 		</text>
 	</string>
 
 	<string id="banditmerc_outfit_name">
-		<text>Kradziony kombinezon LC</text>
+		<text>Kradziony kombinezon "LC"</text>
 	</string>
 	<string id="banditmerc_outfit_description">
-		<text>Lekki kombinezon bojowy, z niewiadomych przyczyn teraz bêd¹cy w rêkach bandytów. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Jak na ironiê, ktoœ, kto dostarczy³ te kombinezony bandytom, sam nieŸle ich obrobi³. Ogólna odpornoœæ oferowana przez te stroje jest, jak na warunki Zony, zatrwa¿aj¹co s³aba - w ¿aden sposób nie dorównuj¹ oryginalnym kombinezonom LCS u¿ywanym przez najemników. Powiedzmy jednak, ¿e wci¹¿ s¹ lepsze, ni¿ szpej, który dostaj¹ ukraiñscy poborowi. Powiedzmy.\n \n
+		<text>Lekki kombinezon bojowy, z niewiadomych przyczyn teraz bêd¹cy w rêkach bandytów. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Jak na ironiê, ktoœ, kto dostarczy³ te kombinezony bandytom, sam nieŸle ich obrobi³. Ogólna odpornoœæ oferowana przez te kombinezony jest, jak na warunki Zony, zatrwa¿aj¹co s³aba - w ¿aden sposób nie dorównuj¹ oryginalnym kombinezonom "LCS" u¿ywanym przez najemników. Powiedzmy jednak, ¿e wci¹¿ s¹ lepsze, ni¿ szpej, który dostaj¹ ukraiñscy poborowi. Powiedzmy.\n \n
 		</text>
 	</string>
 	
 	<string id="renegademerc_outfit_name">
-		<text>Renegacki kombinezon LC</text>
+		<text>Kombinezon "LC" Renegatów</text>
 	</string>
 	<string id="renegademerc_outfit_description">
 		<text>Lekki kombinezon bojowy, z niewiadomych przyczyn teraz bêd¹cy w rêkach Renegatów. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Jest zadziwiaj¹co komfortowy w u¿ytkowaniu i zapewnia bardzo dobr¹ odpornoœæ na ostrza³, rozdarcia i zab³¹kane od³amki, jednak nie chroni przed zagro¿eniami ze strony anomalii i promieniowania.\n \n
@@ -775,82 +775,82 @@
 	</string>
 	
 	<string id="merc_sunset_outfit_name">
-		<text>Kombinezon LC-Z najemników</text>
+		<text>Kombinezon "LC-Z" Najemników</text>
 	</string>
 	<string id="merc_sunset_outfit_description">
-		<text>Zasadniczo to wci¹¿ podstawowy lekki kombinezon bojowy najemników, zmodyfikowany pod k¹tem zwiêkszenia u¿ytecznoœci w warunkach Zony.\n \nOgólnie, przewy¿sza w³aœciwoœciami standardowy strój LCS. Lepiej spisuje siê w walce, choæ wci¹¿ nie jest najlepszym wyborem, jeœli chodzi o anomalie. Mimo to, najemnicy chêtnie z nich korzystaj¹. Mo¿e byæ te¿ wykorzystany zamiast typowych kombinezonów taktycznych oferowanych przez frakcje.\n \n
+		<text>Zasadniczo to wci¹¿ podstawowy lekki kombinezon bojowy najemników, zmodyfikowany pod k¹tem zwiêkszenia u¿ytecznoœci w warunkach Zony.\n \nOgólnie, przewy¿sza w³aœciwoœciami standardowy kombinezon "LCS". Lepiej spisuje siê w walce, choæ wci¹¿ nie jest najlepszym wyborem, jeœli chodzi o anomalie. Mimo to, najemnicy chêtnie z nich korzystaj¹. Mo¿e byæ te¿ wykorzystany zamiast typowych kombinezonów taktycznych oferowanych przez frakcje.\n \n
 		</text>
 	</string>
 
 	<string id="merc_scout_outfit_name">
-		<text>Kombinezon LC-S najemników</text>
+		<text>Kombinezon "LC-S" Najemników</text>
 	</string>
 	<string id="merc_scout_outfit_description">
-		<text>Litera "S" w tym przypadku oznacza "Scout" (ang. Zwiadowca). Ten kombinezon to modyfikacja stroju oznaczonego symbolem LC-F w celu wype³nienia pewnej niszy w jego w³aœciwoœciach. Choæ jest nieco ciê¿szy i mniej odporny, ni¿ standardowy LC-F, nadal jest bardzo wygodny w u¿ytkowaniu. Przystosowano go do radzenia sobie z warunkami tutejszego œrodowiska, wiêc œwietnie sprawdzi siê jako kombinezon dla najemników, którzy wzglêdnie niskim kosztem chc¹ eksplorowaæ pola anomalii.\n \n
+		<text>Litera "S" w tym przypadku oznacza "Scout" (ang. Zwiadowca). Ten kombinezon to modyfikacja kombinezonu oznaczonego symbolem "LC-F" w celu wype³nienia pewnej niszy w jego w³aœciwoœciach. Choæ jest nieco ciê¿szy i mniej odporny, ni¿ standardowy "LC-F", nadal jest bardzo wygodny w u¿ytkowaniu. Przystosowano go do radzenia sobie z warunkami tutejszego œrodowiska, wiêc œwietnie sprawdzi siê jako kombinezon dla najemników, którzy wzglêdnie niskim kosztem chc¹ eksplorowaæ pola anomalii.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_jackal_outfit_name">
-		<text>Kombinezon LTS-Sz najemników</text>
+		<text>Kombinezon "LTS-Sz" Najemników</text>
 	</string>
 	<string id="merc_jackal_outfit_description">
-		<text>Lekki kombinezon taktyczny, wzorowany na tym, z którego szeœæ lat temu korzysta³ Szakal (st¹d "Sz" w nazwie) - nie¿yj¹cy ju¿ najemnik, którego zadaniem by³o otwarcie laboratorium X-8. Ten strój zapewnia co najwy¿ej wystarczaj¹c¹ odpornoœæ na zagro¿enia Zony, ale jest niezwykle wygodny ze wzglêdu na bardzo dobrze dopasowany stela¿ rozk³adaj¹cy ciê¿ar. Stanowi rozs¹dny wybór dla nieco bardziej doœwiadczonych najemników.\n \n
+		<text>Lekki kombinezon taktyczny, wzorowany na tym, z którego szeœæ lat temu korzysta³ Szakal (st¹d "Sz" w nazwie) - nie¿yj¹cy ju¿ najemnik, którego zadaniem by³o otwarcie laboratorium X-8. Ten kombinezon zapewnia co najwy¿ej wystarczaj¹c¹ odpornoœæ na zagro¿enia Zony, ale jest niezwykle wygodny ze wzglêdu na bardzo dobrze dopasowany stela¿ rozk³adaj¹cy ciê¿ar. Stanowi rozs¹dny wybór dla nieco bardziej doœwiadczonych najemników.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_coyote_outfit_name">
-		<text>Kombinezon MTS-K najemników</text>
+		<text>Kombinezon MTS-K Najemników</text>
 	</string>
 	<string id="merc_coyote_outfit_description">
-		<text>Œredni kombinezon taktyczny (MTS, ang. Medium Tactical Suit), nazywany przez niektórych "Kojotem". nJest to rozwojowa wersja kombinezonu LTS-Sz, zapewniaj¹ca du¿o lepsz¹ odpornoœæ na czynniki fizyczne i posiadaj¹ca jeszcze bardziej wydajny stela¿ rozk³adaj¹cy ciê¿ar. Oczywiœcie, cena kompletu jest odpowiednio wy¿sza, ale nie przeszkadza to doœwiadczonym najemnikom.\n \n
+		<text>Kombinezon taktyczny (MTS, ang. Medium Tactical Suit), nazywany przez niektórych "Kojotem". \nJest to rozwojowa wersja kombinezonu "LTS-Sz", zapewniaj¹ca du¿o lepsz¹ odpornoœæ na czynniki fizyczne i posiadaj¹ca jeszcze bardziej wydajny stela¿ rozk³adaj¹cy ciê¿ar. Oczywiœcie, cena kompletu jest odpowiednio wy¿sza, ale nie przeszkadza to doœwiadczonym najemnikom.\n \n
 		</text>
 	</string>
 
 	<string id="greh_armored_outfit_name">
-		<text>Kombinezon przeciwod³amkowy Irij</text>
+		<text>Kombinezon przeciwod³amkowy "Irij"</text>
 	</string>
 	<string id="greh_armored_outfit_description">
-		<text>Komfortowy i ergonomiczny strój, masowo wykorzystywany przez wyznawców Grzechu.\n \nJest to kombinezon œrodowiskowy z dodatkow¹ kamizelk¹ balistyczn¹. Zapewnia wystarczaj¹c¹ odpornoœæ przed anomaliami i dobr¹ przed ostrza³em. Stroje klasy Irij w pe³ni spe³niaj¹ swoj¹ funkcjê wœród i tak niezwykle odpornych na ból wojowników Grzechu.\n \n
+		<text>Komfortowy i ergonomiczny kombinezon, masowo wykorzystywany przez wyznawców Grzechu.\n \nJest to kombinezon œrodowiskowy z dodatkow¹ kamizelk¹ balistyczn¹. Zapewnia wystarczaj¹c¹ odpornoœæ przed anomaliami i dobr¹ przed ostrza³em. Kombinezony klasy "Irij" w pe³ni spe³niaj¹ swoj¹ funkcjê wœród i tak niezwykle odpornych na ból wojowników Grzechu.\n \n
 		</text>
 	</string>
 	
 	<string id="greh_armored_camo_outfit_name">
-		<text>Kombinezon przeciwod³amkowy Wyraj</text>
+		<text>Kombinezon przeciwod³amkowy "Wyraj"</text>
 	</string>
 	<string id="greh_armored_camo_outfit_description">
-		<text>Bardziej zaawansowany wariant standardowego kombinezonu wyznawcy Grzechu. Zwykle oferowany w podziêce najbardziej lojalnym i gorliwym cz³onkom. W porównaniu do kombinezonu Irij, ten zwiêksza odpornoœæ u¿ytkownika na dzia³anie anomalii i jeszcze bardziej podnosi w³aœciwoœci balistyczne kamizelki kuloodpornej.\n \n
+		<text>Bardziej zaawansowany wariant standardowego kombinezonu wyznawcy Grzechu. Zwykle oferowany w podziêce najbardziej lojalnym i gorliwym cz³onkom. W porównaniu do kombinezonu "Irij", ten zwiêksza odpornoœæ u¿ytkownika na dzia³anie anomalii i jeszcze bardziej podnosi w³aœciwoœci balistyczne kamizelki kuloodpornej.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_voin_outfit_name">
-		<text>Kombinezon PS6-W Wojownik</text>
+		<text>Kombinezon PS6-W "Wojownik"</text>
 	</string>
 	<string id="dolg_voin_outfit_description">
-		<text>Wspó³czesny, ulepszony wariant uniwersalnego kombinezonu PS5-M. Jest bardziej odporny na wszystkie zagro¿enia Zony, a przy tym nieco bardziej komfortowy, ni¿ wiêkszoœæ strojów Powinnoœci. Pierwotnie mia³ ca³kowicie zast¹piæ kombinezony typu PS5-M, jednak koszt jego produkcji okaza³ siê zbyt wysoki, zw³aszcza w okresie, gdy frakcja zaczê³a traciæ swoje wp³ywy.\n \n
+		<text>Wspó³czesny, ulepszony wariant uniwersalnego kombinezonu PS5-M. Jest bardziej odporny na wszystkie zagro¿enia Zony, a przy tym nieco bardziej komfortowy, ni¿ wiêkszoœæ kombinezonów Powinnoœci. Pierwotnie mia³ ca³kowicie zast¹piæ kombinezony typu PS5-M, jednak koszt jego produkcji okaza³ siê zbyt wysoki, zw³aszcza w okresie, gdy frakcja zaczê³a traciæ swoje wp³ywy.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_lcs_outfit_name">
-		<text>Lekki kombinezon bojowy UNISG LC</text>
+		<text>Lekki kombinezon bojowy "UNISG LC"</text>
 	</string>
 	<string id="isg_lcs_outfit_description">
-		<text>Standardowy kombinezon typu LCS (ang. Light Combat Suit), dostosowany do potrzeb jednostek UNISG. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. W porównaniu z wariantem u¿ywanym przez najemników, ten zapewnia lepsz¹ odpornoœæ przed anomaliami, ale ma gorsze w³aœciwoœci balistyczne. Posiada zintegrowany pancerz i mo¿liwoœæ modu³owej instalacji dodatkowych p³yt przeciwpancernych, ale mimo tego w Zonie nadaje siê tylko do przeprowadzania najbardziej podstawowych operacji.\n \n
+		<text>Standardowy kombinezon typu "LCS" (ang. Light Combat Suit), dostosowany do potrzeb jednostek UNISG. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. W porównaniu z wariantem u¿ywanym przez najemników, ten zapewnia lepsz¹ odpornoœæ przed anomaliami, ale ma gorsze w³aœciwoœci balistyczne. Posiada zintegrowany pancerz i mo¿liwoœæ modu³owej instalacji dodatkowych p³yt przeciwpancernych, ale mimo tego w Zonie nadaje siê tylko do przeprowadzania najbardziej podstawowych operacji.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_lcs_camo_outfit_name">
-		<text>Lekki kombinezon bojowy UNISG LC-C</text>
+		<text>Lekki kombinezon bojowy "UNISG LC-C"</text>
 	</string>
 	<string id="isg_lcs_camo_outfit_description">
-		<text>Zmodyfikowany kombinezon typu LCS (ang. Light Combat Suit), dostosowany do potrzeb bojowych jednostek UNISG. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Pomijaj¹c nisk¹ wagê i komfort u¿ytkowania, ten strój zapewnia dobr¹ odpornoœæ przed anomaliami i w trakcie walki przeciw s³abo uzbrojonym przeciwnikom. Niestety, nie zapewnia ochrony przed od³amkami, uderzeniami i rozciêciami.\n \n
+		<text>Zmodyfikowany kombinezon typu "LCS" (ang. Light Combat Suit), dostosowany do potrzeb bojowych jednostek UNISG. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Pomijaj¹c nisk¹ wagê i komfort u¿ytkowania, ten kombinezon zapewnia dobr¹ odpornoœæ przed anomaliami i w trakcie walki przeciw s³abo uzbrojonym przeciwnikom. Niestety, nie zapewnia ochrony przed od³amkami, uderzeniami i rozciêciami.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_lcs_urban_outfit_name">
-		<text>Lekki kombinezon bojowy UNISG LC-UC</text>
+		<text>Lekki kombinezon bojowy "UNISG LC-UC"</text>
 	</string>
 	<string id="isg_lcs_urban_outfit_description">
-		<text>Zmodyfikowany kombinezon typu LCS (ang. Light Combat Suit), dostosowany do potrzeb bojowych jednostek UNISG. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Posiada w³aœciwoœci porównywalne do innych strojów tego typu, ale nie ma szans w konfrontacji z odzie¿¹ wykorzystywan¹ przez operatorów Specnazu. Kombinezon LC-UC nie zapewnia ochrony w œrodowiskach silnie ska¿onych promieniowaniem i w pobli¿u silnych anomalii.\n \n
+		<text>Zmodyfikowany kombinezon typu "LCS" (ang. Light Combat Suit), dostosowany do potrzeb bojowych jednostek UNISG. Zosta³ stworzony w oparciu o kombinezony u¿ywane przez jednostki specjalne armii zachodniej Europy. Posiada w³aœciwoœci porównywalne do innych kombinezonów tego typu, ale nie ma szans w konfrontacji z odzie¿¹ wykorzystywan¹ przez operatorów Specnazu. Kombinezon "LC-UC" nie zapewnia ochrony w œrodowiskach silnie ska¿onych promieniowaniem i w pobli¿u silnych anomalii.\n \n
 		</text>
 	</string>
 
@@ -865,10 +865,10 @@
 	</string>
 
 	<string id="specops_outfit_name">
-		<text>Kombinezon pancerny Beryl-5M</text>
+		<text>Kombinezon pancerny "Beryl-5M"</text>
 	</string>
 	<string id="specops_outfit_description">
-		<text>Kombinezony te powsta³y w oparciu o seriê wojskowych pancerzy typu PS5 zmodyfikowanych za pomoc¹ berylu do stosowania w warunkach Zony. Zaprojektowany do przeprowadzania szybkich operacji szturmowych. Najczêœciej korzystaj¹ z nich operatorzy Specnazu. Nale¿y jednak pamiêtaæ o korzystaniu z dobrej jakoœci maski przeciwgazowej jako, ¿e Beryl-5M posiada dosyæ s³ab¹ odpornoœæ przeciw promieniowaniu i anomaliom. Zdarza siê, ¿e ca³kowicie nowy kombinezon mo¿na zdobyæ dziêki odpowiednim "przys³ugom".\n \n
+		<text>Kombinezony te powsta³y w oparciu o seriê wojskowych pancerzy typu PS5 zmodyfikowanych za pomoc¹ berylu do stosowania w warunkach Zony. Zaprojektowany do przeprowadzania szybkich operacji szturmowych. Najczêœciej korzystaj¹ z nich operatorzy Specnazu. Nale¿y jednak pamiêtaæ o korzystaniu z dobrej jakoœci maski przeciwgazowej jako, ¿e "Beryl-5M" posiada dosyæ s³ab¹ odpornoœæ przeciw promieniowaniu i anomaliom. Zdarza siê, ¿e ca³kowicie nowy kombinezon mo¿na zdobyæ dziêki odpowiednim "przys³ugom".\n \n
 		</text>
 	</string>
 	
@@ -881,7 +881,7 @@
 	</string>
 	
 	<string id="specops_merc_outfit_name">
-		<text>Beryl 5-M Najemników</text>
+		<text>"Beryl 5-M" Najemników</text>
 	</string>
 	<string id="specops_merc_outfit_description">
 		<text>Pancerz operatorów Specnazu "nabyty" i przerobiony przez pracuj¹cych w Zonie najemników. Ma dobre w³aœciwoœci balistyczne, a przy tym jest dosyæ komfortowy, jednak ze wzglêdu na s³ab¹ ochronê przed zagro¿eniami œrodowiskowymi, zaleca siê korzystaæ równie¿ z dobrej jakoœci masek przeciwgazowych i he³mów. Kombinezony tego typu najczêœciej posiadaj¹ najemnicy bêd¹cy by³ymi agentami SBU.\n \n
@@ -889,7 +889,7 @@
 	</string>
 	
 	<string id="specops_bandit_outfit_name">
-		<text>Kradziony kombinezon B-5M</text>
+		<text>Kradziony kombinezon "Beryl-5M"</text>
 	</string>
 	<string id="specops_bandit_outfit_description">
 		<text>Typowy pancerz serii PS5 wzmocniony berylem, który w "tajemniczy" sposób dosta³ siê w rêce bandytów. Chocia¿ widaæ na nim œlady u¿ytkowania i kilka rozdaræ, wci¹¿ œwietnie nadaje siê do walk, w czasie których potrzebna jest zarówno os³ona balistyczna, jak i mobilnoœæ. Nie zaleca siê jednak korzystaæ z niego w pobli¿u anomalii.\n \n
@@ -897,7 +897,7 @@
 	</string>
 
 	<string id="svoboda_heavy_outfit_name">
-		<text>Opiekun Wolnoœci</text>
+		<text>"Opiekun Wolnoœci"</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
 		<text>Kombinezon bojowy Specnazu, którym "zaopiekowali siê" cz³onkowie Wolnoœci. Jego elementy potraktowano œrodkiem "Suweren" - substancj¹ opracowan¹ przez techników Wolnoœci metod¹ prób i b³êdów. Wygl¹da na to, ¿e kombinezon jest dosyæ wielozadaniowy - nie straci³ w³aœciwoœci balistycznych, a zyska³ odpornoœæ na zagro¿enia Zony. Ka¿dy Wolnoœciowiec skierowany do obrony Bariery zrobi, co tylko siê da, by otrzymaæ na w³asnoœæ Opiekuna, albo przynajmniej coœ do niego podobnego.\n \n
@@ -905,17 +905,17 @@
 	</string>
 
 	<string id="dolg_specops_red_outfit_name">
-		<text>Kombinezon bojowy PS5-B2 Weteran</text>
+		<text>Kombinezon bojowy PS5-B2 "Weteran"</text>
 	</string>
 	<string id="dolg_specops_red_outfit_description">
-		<text>Ten kombinezon stanowi modyfikacjê odzie¿y operatorów Specnazu. Posiada dodatkowe os³ony chroni¹ce najwa¿niejsze organy wewnêtrzne. Jest doskona³ym strojem bojowym, ale nie zapewnia u¿ytkownikowi ¿adnej ochrony przed anomaliami, zw³aszcza najsilniejszymi. Mimo tego weterani Powinnoœci nie unikaj¹ korzystania z PS5-B2 twierdz¹c, ¿e nie potrzebuj¹ os³on przed anomaliami, skoro potrafi¹ je wczeœniej dojrzeæ i omin¹æ.\n \n
+		<text>Ten kombinezon stanowi modyfikacjê odzie¿y operatorów Specnazu. Posiada dodatkowe os³ony chroni¹ce najwa¿niejsze organy wewnêtrzne. Jest doskona³ym kombinezonem bojowym, ale nie zapewnia u¿ytkownikowi ¿adnej ochrony przed anomaliami, zw³aszcza najsilniejszymi. Mimo tego weterani Powinnoœci nie unikaj¹ korzystania z PS5-B2 twierdz¹c, ¿e nie potrzebuj¹ os³on przed anomaliami, skoro potrafi¹ je wczeœniej dojrzeæ i omin¹æ.\n \n
 		</text>
 	</string>
 
 
 <!-- PS5-M Universal protection suit -->
 	<string id="dolg_outfit_name">
-		<text>Kombinezon PS5-M Uniwersalna Ochrona</text>
+		<text>Kombinezon PS5-M "Uniwersalna Ochrona"</text>
 	</string>
 	<string id="dolg_outfit_description">
 		<text>Ta dosyæ wiekowa wersja munduru Powinnoœci najbardziej pasuje nowym rekrutom, którym wygodniej w kombinezonach zbli¿onych do stalkerskich, ni¿ w pe³nym umundurowaniu bojowym. W przeciwieñstwie do serii PSZ, kombinezony PS-5 oprócz w³aœciwoœci balistycznych posiadaj¹ te¿ ochronê przed anomaliami.\n \n
@@ -931,7 +931,7 @@
 	</string>
 
 	<string id="dolg_red_outfit_name">
-		<text>Kombinezon PS5-M £owcy</text>
+		<text>Kombinezon PS5-M "£owca"</text>
 	</string>
 	<string id="dolg_red_outfit_description">
 		<text>Nieco ciê¿szy kuzyn kombinezonu uniwersalnego PS5-M, stworzony z myœl¹ o cz³onkach Powinnoœci zajmuj¹cych siê eliminacj¹ mutantów. Zwiêkszono odpornoœæ na ataki najczêœciej wystêpuj¹cych przedstawicieli tutejszej fauny i anomalie, lecz modyfikacjê wykonano kosztem w³aœciwoœci balistycznych. W porównaniu do obecnie u¿ywanych kombinezonów nadal wypada ca³kiem nieŸle.\n \n
@@ -939,10 +939,10 @@
 	</string>
 
 	<string id="svoboda_heavy_outfit_2_name">
-		<text>Wartownik Wolnoœci</text>
+		<text>"Wartownik Wolnoœci"</text>
 	</string>
 	<string id="svoboda_heavy_outfit_2_description">
-		<text>Doœæ posuniêty w latach i nieco ciê¿szy od reszty kombinezon stworzony dawno temu przez rzemieœlników frakcji. Choæ œlady u¿ytkowania i rozdarcia s¹ dobrze widoczne, strój wci¹¿ mo¿e równaæ siê w³aœciwoœciami z wiêkszoœci¹ podstawowych kombinezonów stalkerskich. Zwykle korzystaj¹ z nich weterani Wolnoœci. M³odsi cz³onkowie frakcji gotowi s¹ zrobiæ naprawdê wiele, by posi¹œæ jeden z takich kombinezonów, g³ównie ze wzglêdu na niezwyk³e historie, które uzbiera³y siê przez te wszystkie lata na temat Wartowników i ich u¿ytkowników.\n \n
+		<text>Doœæ posuniêty w latach i nieco ciê¿szy od reszty kombinezon stworzony dawno temu przez rzemieœlników frakcji. Choæ œlady u¿ytkowania i rozdarcia s¹ dobrze widoczne, kombinezon ten wci¹¿ mo¿e równaæ siê w³aœciwoœciami z wiêkszoœci¹ podstawowych kombinezonów stalkerskich. Zwykle korzystaj¹ z nich weterani Wolnoœci. M³odsi cz³onkowie frakcji gotowi s¹ zrobiæ naprawdê wiele, by posi¹œæ jeden z takich kombinezonów, g³ównie ze wzglêdu na niezwyk³e historie, które uzbiera³y siê przez te wszystkie lata na temat Wartowników i ich u¿ytkowników.\n \n
 		</text>
 	</string>
 	
@@ -950,15 +950,15 @@
 		<text>Kradziony PS5-M</text>
 	</string>
 	<string id="bandit_ps5_outfit_description">
-		<text>Pierwsze kombinezony tego typu trafi³y do bandytów za poœrednictwem kwatermistrza Morgana - skorumpowanego zaopatrzeniowca Powinnoœci. Strój przerobiono tak, by by³ wygodniejszy i lepiej chroni³ przed anomaliami. Niestety, odby³o siê to kosztem odpornoœci na czynniki fizyczne. Powinnoœæ ma prawdziwy ból pewnej czêœci cia³a o te kombinezony. Odbieranie ich z r¹k anarchistów, kryminalistów i wszelkiej maœci zbirów to czêsto ich nieoficjalny priorytet.\n \n
+		<text>Pierwsze kombinezony tego typu trafi³y do bandytów za poœrednictwem kwatermistrza Morgana - skorumpowanego zaopatrzeniowca Powinnoœci. Kombinezon ten przerobiono tak, by by³ wygodniejszy i lepiej chroni³ przed anomaliami. Niestety, odby³o siê to kosztem odpornoœci na czynniki fizyczne. Powinnoœæ ma prawdziwy ból pewnej czêœci cia³a o te kombinezony. Odbieranie ich z r¹k anarchistów, kryminalistów i wszelkiej maœci zbirów to czêsto ich nieoficjalny priorytet.\n \n
 		</text>
 	</string>
 	
 	<string id="greh_ps5_outfit_name">
-		<text>Kombinezon przeciwod³amkowy Wo³os</text>
+		<text>Kombinezon przeciwod³amkowy "Wo³os"</text>
 	</string>
 	<string id="greh_ps5_outfit_description">
-		<text>Bazê tych kombinezonów stanowi strój PS5-M Uniwersalna Ochrona. Nie wiadomo, w jaki sposób Grzech wszed³ w ich posiadanie. Powinnoœæ nie jest zbyt zadowolona faktem, ¿e projekt ich kombinezonu doceniony zosta³ przez bandê wierz¹cych w sprawcz¹ moc Zony fanatyków i nieoficjalnym priorytetem cz³onków frakcji jest odbieranie ich sekciarzom. Kombinezon sam w sobie jest dobrej jakoœci i zapewnia bardzo dobr¹ odpornoœæ na zagro¿enia Zony.\n \n
+		<text>Bazê tych kombinezonów stanowi kombinezon PS5-M "Uniwersalna Ochrona". Nie wiadomo, w jaki sposób Grzech wszed³ w ich posiadanie. Powinnoœæ nie jest zbyt zadowolona faktem, ¿e projekt ich kombinezonu doceniony zosta³ przez bandê wierz¹cych w sprawcz¹ moc Zony fanatyków i nieoficjalnym priorytetem cz³onków frakcji jest odbieranie ich sekciarzom. Kombinezon sam w sobie jest dobrej jakoœci i zapewnia bardzo dobr¹ odpornoœæ na zagro¿enia Zony.\n \n
 		</text>
 	</string>
 	
@@ -974,7 +974,7 @@
 		<text>Kombinezon SKAT-9 Monolitu</text>
 	</string>
 	<string id="military_freedom_outfit_name">
-		<text>Wyzwolony kombinezon SKAT-9</text>
+		<text>Kombinezon SKAT-9 Wolnoœci</text>
 	</string>
 	<string id="military_sky_outfit_name">
 		<text>Kombinezon CS-4b</text>
@@ -984,7 +984,7 @@
 	</string>
 	
 	<string id="military_outfit_description">
-		<text>Kombinezon ochronny bardzo dobrze radz¹cy sobie w trudnych warunkach Zony.\n \nTen nowoczesny kombinezon bojowy zaprojektowano dla szturmowców dzia³aj¹cych w najbardziej ekstremalnych warunkach. Zbudowano go dziêki po³¹czeniu trzech osobnych warstw: ciê¿kiego kombinezonu bojowego PSZ-12p, kombinezonu chroni¹cego przed anomaliami oraz kombinezonu roboczego gwarantuj¹cego ponadprzeciêtn¹ wygodê u¿ytkowania. Zapewnia doskona³¹ ochronê przed pociskami i od³amkami, jedynie minimalnie ograniczaj¹c mobilnoœæ u¿ytkownika. Choæ pierwotnie przeznaczone jedynie dla wojskowych stalkerów i doœwiadczonych operatorów Specnazu, pancerze serii Skat-9 czasem w nieznany sposób trafiaj¹ do Zony poza oficjalnym obiegiem.\n \n
+		<text>Kombinezon ochronny bardzo dobrze radz¹cy sobie w trudnych warunkach Zony.\n \nTen nowoczesny kombinezon bojowy zaprojektowano dla szturmowców dzia³aj¹cych w najbardziej ekstremalnych warunkach. Zbudowano go dziêki po³¹czeniu trzech osobnych warstw: ciê¿kiego kombinezonu bojowego PSZ-12p, kombinezonu chroni¹cego przed anomaliami oraz kombinezonu roboczego gwarantuj¹cego ponadprzeciêtn¹ wygodê u¿ytkowania. Zapewnia doskona³¹ ochronê przed pociskami i od³amkami, jedynie minimalnie ograniczaj¹c mobilnoœæ u¿ytkownika. Choæ pierwotnie przeznaczone jedynie dla wojskowych stalkerów i doœwiadczonych operatorów Specnazu, pancerze serii SKAT-9 czasem w nieznany sposób trafiaj¹ do Zony poza oficjalnym obiegiem.\n \n
 		</text>
 	</string>
 	
@@ -1000,7 +1000,7 @@
 		<text>Kombinezon poœredni PSZ-7p</text>
 	</string>
 	<string id="dolg_pantsir_outfit_description">
-		<text>Ten kombinezon ma lepsze w³aœciwoœci ni¿ standardowy, uniwersalny PS5, ale jego proces produkcji jest tañszy i mniej skomplikowany ni¿ przy PSZ-9d. Strój œwietnie nadaje siê do potyczek strzeleckich, posiada w³aœciwoœci balistyczne i ochronê przed wysokimi temperaturami na poziomie klasy PSZ, ale jest s³abszy wzglêdem innych odpornoœci. £atwoœæ jego utrzymania i ewentualnej naprawy sprawia, ¿e jest popularnym wyborem cz³onków frakcji wykonuj¹cych zadania poza w³asnym terytorium. Ogólnie jest to bardzo dobry kombinezon, którego g³ównymi wadami jest wysoka przewodnoœæ elektryczna - mo¿e okazaæ siê œmierteln¹ pu³apk¹ w kontaktach z elektrami, poltergeistami i w czasie burz.\n \n
+		<text>Ten kombinezon ma lepsze w³aœciwoœci ni¿ standardowy, uniwersalny PS5, ale jego proces produkcji jest tañszy i mniej skomplikowany ni¿ przy PSZ-9d. Kombinezon tego typu œwietnie nadaje siê do potyczek strzeleckich, posiada w³aœciwoœci balistyczne i ochronê przed wysokimi temperaturami na poziomie klasy PSZ, ale jest s³abszy wzglêdem innych odpornoœci. £atwoœæ jego utrzymania i ewentualnej naprawy sprawia, ¿e jest popularnym wyborem cz³onków frakcji wykonuj¹cych zadania poza w³asnym terytorium. Ogólnie jest to bardzo dobry kombinezon, którego g³ównymi wadami jest wysoka przewodnoœæ elektryczna - mo¿e okazaæ siê œmierteln¹ pu³apk¹ w kontaktach z elektrami, poltergeistami i w czasie burz.\n \n
 		</text>
 	</string>
 	
@@ -1008,7 +1008,7 @@
 		<text>Kombinezon PSZ-9kl dowódcy</text>
 	</string>
 	<string id="dolg_heavy_redline_outfit_description">
-		<text>Wariant kombinezonu typu PSZ, poœwiêcaj¹cy odpornoœæ na anomalie celem zwiêkszenia bezpieczeñstwa przy eksplozjach i atakach têpymi przedmiotami. Z tego stroju czêsto korzysta³ podpu³kownik Szulga, który - choæ rzadko opuszcza³ swoj¹ bazê w Janowie - obawia³ siê zabójstwa ze strony Wolnoœci. Poziom ochrony oferowanej przez PSZ-9kl by³ dla niego wystarczaj¹cy. Szulga wraz z prowadzonym przez siebie kontyngentem otrzymali status zaginionych akcji po przeprowadzeniu masowego szturmu na Prypeæ. Podpu³kownik prawdopodobnie poniós³ œmieræ z r¹k Monolitu. Stalkerzy sympatyzuj¹cy z frakcj¹ uznaj¹, ¿e jego poœwiêcenie znacz¹co spowolni³o odrodzenie siê od³amu fanatyków, a weterani Powinnoœci czasem zak³adaj¹ kombinezony typu 9kl szykuj¹c siê do walki, by uhonorowaæ jego mêstwo.\n \n
+		<text>Wariant kombinezonu typu PSZ, poœwiêcaj¹cy odpornoœæ na anomalie celem zwiêkszenia bezpieczeñstwa przy eksplozjach i atakach têpymi przedmiotami. Z takiego w³aœnie kombinezonu czêsto korzysta³ podpu³kownik Szulga, który - choæ rzadko opuszcza³ swoj¹ bazê w Janowie - obawia³ siê zabójstwa ze strony Wolnoœci. Poziom ochrony oferowanej przez PSZ-9kl by³ dla niego wystarczaj¹cy. Szulga wraz z prowadzonym przez siebie kontyngentem otrzymali status zaginionych akcji po przeprowadzeniu masowego szturmu na Prypeæ. Podpu³kownik prawdopodobnie poniós³ œmieræ z r¹k Monolitu. Stalkerzy sympatyzuj¹cy z frakcj¹ uznaj¹, ¿e jego poœwiêcenie znacz¹co spowolni³o odrodzenie siê od³amu fanatyków, a weterani Powinnoœci czasem zak³adaj¹ kombinezony typu 9kl szykuj¹c siê do walki, by uhonorowaæ jego mêstwo.\n \n
 		</text>
 	</string>
 
@@ -1023,7 +1023,7 @@
 	</string>
 
 	<string id="svoboda_scientific_outfit_name">
-		<text>Poszukiwacz Wolnoœci</text>
+		<text>"Poszukiwacz Wolnoœci"</text>
 	</string>
 	<string id="svoboda_scientific_outfit_description">
 		<text>Stworzony przez zdolnych rzemieœlników Wolnoœci specjalnie w celu obserwacji anomalii.\n \nZamkniêty obieg powietrza i wykorzystanie specjalistycznych materia³ów zapewnia doskona³¹ ochronê przed promieniowaniem i polami anomalii. Jednak zastosowana w Poszukiwaczu kamizelka kuloodporna "Wartownik" nie jest najwy¿szej klasy i ³atwo siê psuje, przez co kombinezon raczej nie nadaje siê do brania udzia³u w strzelaninach.\n \n
@@ -1042,15 +1042,15 @@
 		<text>Kombinezon SEVA CS-4a</text>
 	</string>
 	<string id="cs_scientific_outfit_description">
-		<text>Nieoficjalna wersja kombinezonu naukowego SEVA, z ostatniej partii przerzuconej do Zony. Zwykle wykorzystywana przez grupy eksploracyjne Czystego Nieba. Oferuje dobr¹ ochronê przed promieniowaniem, ale pozosta³e w³aœciwoœci ma na ni¿szym poziomie, ni¿ stroje tego typu z bardziej oficjalnych Ÿróde³.\n \n
+		<text>Nieoficjalna wersja kombinezonu naukowego SEVA, z ostatniej partii przerzuconej do Zony. Zwykle wykorzystywana przez grupy eksploracyjne Czystego Nieba. Oferuje dobr¹ ochronê przed promieniowaniem, ale pozosta³e w³aœciwoœci ma na ni¿szym poziomie, ni¿ kombinezony tego typu z bardziej oficjalnych Ÿróde³.\n \n
 		</text>
 	</string>
 
 	<string id="cs_scientific_outfit_good_name">
-		<text>Kombinezon CS-4a Tropiciel</text>
+		<text>Kombinezon CS-4a "Tropiciel"</text>
 	</string>
 	<string id="cs_scientific_outfit_good_description">
-		<text>Nieoficjalna wersja kombinezonu naukowego SEVA, obszernie zmodernizowana przez Nowikowa, technika Czystego Nieba.\n \nZe wzglêdu na u¿yte materia³y, kombinezon sta³ siê bardziej ³atwopalny, wiêc autor modyfikacji nie zaleca zbli¿aæ siê w nim do anomalii termicznych. Jednak oprócz tego, wszystkie inne odpornoœci zosta³y znacznie zwiêkszone sprawiaj¹c, ¿e Tropiciel to doskona³y wybór dla najbardziej doœwiadczonych badaczy Czystego Nieba. Dziêki wysi³kom Nowikowa jest ponadto niezwykle komfortowy, jak na kombinezon klasy SEVA.\n \n
+		<text>Nieoficjalna wersja kombinezonu naukowego SEVA, obszernie zmodernizowana przez Nowikowa, technika Czystego Nieba.\n \nZe wzglêdu na u¿yte materia³y, kombinezon sta³ siê bardziej ³atwopalny, wiêc autor modyfikacji nie zaleca zbli¿aæ siê w nim do anomalii termicznych. Jednak oprócz tego, wszystkie inne odpornoœci zosta³y znacznie zwiêkszone sprawiaj¹c, ¿e "Tropiciel" to doskona³y wybór dla najbardziej doœwiadczonych badaczy Czystego Nieba. Dziêki wysi³kom Nowikowa jest ponadto niezwykle komfortowy, jak na kombinezon klasy SEVA.\n \n
 		</text>
 	</string>
 
@@ -1058,7 +1058,7 @@
 		<text>Zdobyczny kombinezon SEVA</text>
 	</string>
 	<string id="bandit_scientific_outfit_description">
-		<text>Bandyci nigdy nie interesowali siê zbyt mocno nauk¹ i badaniami fenomenów Zony, jednak wykorzystuj¹ te kombinezony, by urz¹dzaæ zasadzki na stalkerów tam, gdzie nikt siê ich nie spodziewa - w polach anomalii i "gor¹cych plamach" promieniowania.\n \nKombinezon posiada zamkniêty obieg powietrza i zewnêtrzn¹ pow³okê izolacyjn¹, co zapewnia dobr¹ ochronê przed wszystkimi rodzajami anomalii. Ze wzglêdu na brak jakichkolwiek wk³adek balistycznych, strój nie os³ania przed ostrza³em, od³amkami i uderzeniami.\n \n
+		<text>Bandyci nigdy nie interesowali siê zbyt mocno nauk¹ i badaniami fenomenów Zony, jednak wykorzystuj¹ te kombinezony, by urz¹dzaæ zasadzki na stalkerów tam, gdzie nikt siê ich nie spodziewa - w polach anomalii i "gor¹cych plamach" promieniowania.\n \nKombinezon posiada zamkniêty obieg powietrza i zewnêtrzn¹ pow³okê izolacyjn¹, co zapewnia dobr¹ ochronê przed wszystkimi rodzajami anomalii. Ze wzglêdu na brak jakichkolwiek wk³adek balistycznych, kombinezon tego typu nie os³ania przed ostrza³em, od³amkami i uderzeniami.\n \n
 		</text>
 	</string>
 
@@ -1066,7 +1066,7 @@
 		<text>Kombinezon SEVA UNISG</text>
 	</string>
 	<string id="isg_scientific_outfit_description">
-		<text>Zatwierdzony przez UNISG kombinezon opracowany przez jeden z kijowskich instytutów badawczych specjalnie z myœl¹ o Zonie. Po³¹czenie zamkniêtego obiegu powietrza ze specjalistycznymi materia³ami sprawia, ¿e zapewnia lepsz¹ ochronê przed promieniowaniem i anomaliami ni¿ inne kombinezony klasy SEVA. Jednak zastosowana w nim kamizelka kuloodporna nie jest najwy¿szej klasy i ³atwo siê psuje, przez co strój nie nadaje siê do brania udzia³u w strzelaninach.\n \n
+		<text>Zatwierdzony przez UNISG kombinezon opracowany przez jeden z kijowskich instytutów badawczych specjalnie z myœl¹ o Zonie. Po³¹czenie zamkniêtego obiegu powietrza ze specjalistycznymi materia³ami sprawia, ¿e zapewnia lepsz¹ ochronê przed promieniowaniem i anomaliami ni¿ inne kombinezony klasy SEVA. Jednak zastosowana w nim kamizelka kuloodporna nie jest najwy¿szej klasy i ³atwo siê psuje, przez co taki kombinezon nie nadaje siê do brania udzia³u w strzelaninach.\n \n
 		</text>
 	</string>
 
@@ -1079,10 +1079,10 @@
 	</string>
 	
 	<string id="merc_combat_scientific_outfit_name">
-		<text>Kombinezon Tropiciel Najemników</text>
+		<text>Kombinezon "Tropiciel" Najemników</text>
 	</string>
 	<string id="merc_combat_scientific_outfit_description">
-		<text>W dowód uznania (i by pokryæ czêœæ kosztów wspólnych akcji) Czyste Niebo czasem wytwarza kombinezony klasy Tropiciel i przekazuje je przedstawicielom innych frakcji. W porównaniu do standardowej SEVY, ten model jest od niej lepszy pod ka¿dym wzglêdem. Patrz¹c jednak przez pryzmat kombinezonu CS-4a Czystego Nieba, wersja do u¿ytku najemników zapewnia mniejsz¹ odpornoœæ na wysokie promieniowanie, fale psioniczne i uderzenia, ale ca³oœæ jest nieco l¿ejsza i wci¹¿ posiada dobre w³aœciwoœci ochronne.\n \n
+		<text>W dowód uznania (i by pokryæ czêœæ kosztów wspólnych akcji) Czyste Niebo czasem wytwarza kombinezony klasy "Tropiciel" i przekazuje je przedstawicielom innych frakcji. W porównaniu do standardowego kombinezonu SEVA, ten model jest od niej lepszy pod ka¿dym wzglêdem. Patrz¹c jednak przez pryzmat kombinezonu CS-4a Czystego Nieba, wersja do u¿ytku najemników zapewnia mniejsz¹ odpornoœæ na wysokie promieniowanie, fale psioniczne i uderzenia, ale ca³oœæ jest nieco l¿ejsza i wci¹¿ posiada dobre w³aœciwoœci ochronne.\n \n
 		</text>
 	</string>
 	
@@ -1103,18 +1103,18 @@
 	</string>
 	
 	<string id="dolg_scientific_wood_outfit_name">
-		<text>Kombinezon PS5-9Md Tropiciel</text>
+		<text>Kombinezon PS5-9Md "Tropiciel"</text>
 	</string>
 	<string id="dolg_scientific_wood_outfit_description">
-		<text>W dowód uznania (i by pokryæ czêœæ kosztów wspólnych akcji) Czyste Niebo czasem wytwarza kombinezony klasy Tropiciel i przekazuje je przedstawicielom innych frakcji. Ten model ró¿ni siê nieco od bazowego stroju CS-4a. Zmian dokonano na zlecenie Powinnoœci.\n \nPoœwiêcono czêœæ ochrony przed promieniowaniem, by wzmocniæ odpornoœæ na dzia³ania chemikaliów; izolacjê elektryczn¹ po czêœci zast¹piono materia³ami ogniotrwa³ymi, a zamiast odpornoœci na uderzenia, kombinezon jest lepiej zabezpieczony przed rozdarciami. To niemal doskona³y i bardzo komfortowy strój dla cz³onków Powinnoœci cechuj¹cych siê du¿¹ ciekawoœci¹ otaczaj¹cego ich œwiata.\n \n
+		<text>W dowód uznania (i by pokryæ czêœæ kosztów wspólnych akcji) Czyste Niebo czasem wytwarza kombinezony klasy "Tropiciel" i przekazuje je przedstawicielom innych frakcji. Ten model ró¿ni siê nieco od bazowego kombinezonu CS-4a. Zmian dokonano na zlecenie Powinnoœci.\n \nPoœwiêcono czêœæ ochrony przed promieniowaniem, by wzmocniæ odpornoœæ na dzia³ania chemikaliów, izolacjê elektryczn¹ po czêœci zast¹piono materia³ami ogniotrwa³ymi, a zamiast odpornoœci na uderzenia, kombinezon jest lepiej zabezpieczony przed rozdarciami. To niemal doskona³y i bardzo komfortowy kombinezon dla cz³onków Powinnoœci cechuj¹cych siê du¿¹ ciekawoœci¹ otaczaj¹cego ich œwiata.\n \n
 		</text>
 	</string>
 	
 	<string id="bandit_scientific_dark_outfit_name">
-		<text>Kombinezon SEBA</text>
+		<text>Kombinezon "SEBA"</text>
 	</string>
 	<string id="bandit_scientific_dark_outfit_description">
-		<text>Kombinezon zbudowany w stylu klasycznej, naukowej SEVY przez jednego z bardziej utalentowanych bandyckich rzemieœlników. W porównaniu do zdobycznych kombinezonów tej klasy, samoróbka SEBA mo¿e poszczyciæ siê bardzo dobr¹ ochron¹ przed wysok¹ temperatur¹, dzia³aniem chemikaliów, promieniowaniem i zagro¿eniami fizycznymi. Z drugiej jednak strony - wci¹¿ nie ma porównania z nowym kombinezonem wyprodukowanym poza Zon¹. Mimo to, jego stylówa i komfort u¿ytkowania sprawiaj¹, ¿e najwiêksze cwaniaki zaopatruj¹c siê w SEBY, g³ównie ¿eby popisywaæ siê przed mniej wp³ywowymi bandziorami.\n \n
+		<text>Kombinezon zbudowany w stylu klasycznej, naukowej SEVY przez jednego z bardziej utalentowanych bandyckich rzemieœlników. W porównaniu do zdobycznych kombinezonów tej klasy, samoróbka "SEBA" mo¿e poszczyciæ siê bardzo dobr¹ ochron¹ przed wysok¹ temperatur¹, dzia³aniem chemikaliów, promieniowaniem i zagro¿eniami fizycznymi. Z drugiej jednak strony - wci¹¿ nie ma porównania z nowym kombinezonem wyprodukowanym poza Zon¹. Mimo to, jego stylówa i komfort u¿ytkowania sprawiaj¹, ¿e najwiêksze cwaniaki zaopatruj¹c siê w "SEBY", g³ównie ¿eby popisywaæ siê przed mniej wp³ywowymi bandziorami.\n \n
 		</text>
 	</string>
 	
@@ -1122,7 +1122,7 @@
 		<text>Kombinezon SEVA Renegatów</text>
 	</string>
 	<string id="renegade_scientific_outfit_description">
-		<text>Komfortowy kombinezon, pierwotnie przeznaczony do prowadzenia w Zonie badañ, stanowi œwietn¹ alternatywê dla strojów klasy LCS czy wszelkiej maœci samoróbek. Zapewnia dobr¹ odpornoœæ przed wysok¹ temperatur¹, dzia³aniem chemikaliów i zagro¿eniami fizycznymi. Wci¹¿ jednak - jak ka¿dy inny kombinezon klasy SEVA - ochrona balistyczna tego stroju jest poni¿ej œredniej.\n \n
+		<text>Komfortowy kombinezon, pierwotnie przeznaczony do prowadzenia w Zonie badañ, stanowi œwietn¹ alternatywê dla kombinezonów klasy LCS czy wszelkiej maœci samoróbek. Zapewnia dobr¹ odpornoœæ przed wysok¹ temperatur¹, dzia³aniem chemikaliów i zagro¿eniami fizycznymi. Wci¹¿ jednak - jak ka¿dy inny kombinezon klasy SEVA - ochrona balistyczna tego kombinezonu jest poni¿ej œredniej.\n \n
 		</text>
 	</string>
 	
@@ -1130,30 +1130,30 @@
 		<text>Kombinezon SEVA Najemników</text>
 	</string>
 	<string id="merc_scientific_armored_outfit_description">
-		<text>Wariant kombinezonu SEVA wykorzystywany przez najemników.\n \nCzêœæ os³on œrodowiskowych usuniêto, a w ich miejsce wstawiono p³yty pancerne tak, by nie krêpowa³y ruchów. Kombinezony u¿ywane przez najemników-weteranów pracuj¹cych jako przewodnicy, prowadz¹cy grupy badaczy i ³owców artefaktów w bardziej niebezpieczne czêœci Zony.\n \nJak na strój klasy SEVA, posiada dobr¹ odpornoœæ na wysok¹ temperaturê, chemikalia i czynniki fizyczne, ale lepiej nie zbli¿aæ siê w nim do innych typów anomalii.\n \n
+		<text>Wariant kombinezonu SEVA wykorzystywany przez najemników.\n \nCzêœæ os³on œrodowiskowych usuniêto, a w ich miejsce wstawiono p³yty pancerne tak, by nie krêpowa³y ruchów. Kombinezony u¿ywane przez najemników-weteranów pracuj¹cych jako przewodnicy, prowadz¹cy grupy badaczy i ³owców artefaktów w bardziej niebezpieczne czêœci Zony.\n \nJak na kombinezon klasy SEVA, posiada dobr¹ odpornoœæ na wysok¹ temperaturê, chemikalia i czynniki fizyczne, ale lepiej nie zbli¿aæ siê w nim do innych typów anomalii.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_scientific_light_outfit_name">
-		<text>Samoróbka naukowa Monolitu</text>
+		<text>Kombinezon SEVA Monolitu (samoróbka)</text>
 	</string>
 	<string id="monolith_scientific_light_outfit_description">
-		<text>Kombinezon zbudowany w stylu klasycznej, naukowej SEVY przez nieznanych wytwórców. W porównaniu do klasycznego stroju tego typu, zapewnia lepsz¹ odpornoœæ na poparzenia termiczne i chemiczne. Inne w³aœciwoœci ma jednak na gorszym poziomie. Nie wiadomo, jak¹ rolê spe³nia we frakcji, choæ istnieje wiele przes³anek by uznaæ, ¿e stanowi strój ceremonialny.\n \n
+		<text>Kombinezon zbudowany w stylu klasycznej, naukowej SEVY przez nieznanych wytwórców. W porównaniu do klasycznego kombinezonu tego typu, zapewnia lepsz¹ odpornoœæ na poparzenia termiczne i chemiczne. Inne w³aœciwoœci ma jednak na gorszym poziomie. Nie wiadomo, jak¹ rolê spe³nia we frakcji, choæ istnieje wiele przes³anek by uznaæ, ¿e stanowi kombinezon ceremonialny.\n \n
 		</text>
 	</string>
 
 	<string id="ace_outfit_name">
-		<text>Kombinezon naukowy ACE Najemników</text>
+		<text>Kombinezon naukowy "ACE" Najemników</text>
 	</string>
 	<string id="ace_outfit_description">
-		<text>Jeden z najbardziej zaawansowanych - jeœli nie najbardziej zaawansowany - kombinezonów dostêpnych w Zonie. ACE to klasa sama w sobie, projekt prawdziwie godny warunków Zony. Nie tylko zapewnia ochronê przed ostrza³em z karabinu, ale te¿ zwiêksza odpornoœæ na czynniki œrodowiskowe. Kombinezon stworzono tak, by da³o siê go dalej modyfikowaæ pod k¹tem konkretnego u¿ytkownika za pomoc¹ najnowoczeœniejszych technologii, ale jednoczeœnie z zachowaniem wysokiego komfortu u¿ytkowania, dziêki wykorzystaniu specjalistycznych, selektywnie przepuszczalnych materia³ów.\n \nKombinezony ACE wykorzystywane s¹ przez najbardziej doœwiadczonych i najbogatszych najemników w trakcie wykonywania kontraktów wysokiego ryzyka w miejscach takich, jak Czerwony Las - innymi s³owy takich, w których nale¿y spodziewaæ siê absolutnie wszystkiego.\n \n
+		<text>Jeden z najbardziej zaawansowanych - jeœli nie najbardziej zaawansowany - kombinezonów dostêpnych w Zonie. "ACE" to klasa sama w sobie, projekt prawdziwie godny warunków Zony. Nie tylko zapewnia ochronê przed ostrza³em z karabinu, ale te¿ zwiêksza odpornoœæ na czynniki œrodowiskowe. Kombinezon stworzono tak, by da³o siê go dalej modyfikowaæ pod k¹tem konkretnego u¿ytkownika za pomoc¹ najnowoczeœniejszych technologii, ale jednoczeœnie z zachowaniem wysokiego komfortu u¿ytkowania, dziêki wykorzystaniu specjalistycznych, selektywnie przepuszczalnych materia³ów.\n \nKombinezony "ACE" wykorzystywane s¹ przez najbardziej doœwiadczonych i najbogatszych najemników w trakcie wykonywania kontraktów wysokiego ryzyka w miejscach takich, jak Czerwony Las - innymi s³owy takich, w których nale¿y spodziewaæ siê absolutnie wszystkiego.\n \n
 		</text>
 	</string>
 
 
 <!-- SSP-99 -->
 	<string id="st_ecologist_outfit_orange_name">
-		<text>Kombinezon SSP-99 Ekolog</text>
+		<text>Kombinezon SSP-99 "Ekolog"</text>
 	</string>
 	<string id="st_ecologist_outfit_orange_description">
 		<text>SSP-99 to kombinezon specjalnie przystosowany do warunków panuj¹cych w Strefie Wykluczenia. U¿ywany jest przez ekspedycje badawcze i wspó³pracuj¹cych z nimi stalkerów. Posiada zintegrowany system filtracji powietrza i wewnêtrzny klimatyzator. Doskonale sprawdza siê przeciw zanieczyszczeniom chemicznym i promieniotwórczym py³om oraz zapewnia œwietn¹ ochronê przed wysok¹ temperatur¹ i pora¿eniem pr¹dem. Nie zaleca siê jednak stosowaæ go w walce ze wzglêdu na brak wk³adek kuloodpornych.\n \n
@@ -1169,34 +1169,34 @@
 	</string>
 
 	<string id="st_ecologist_outfit_white_name">
-		<text>Kombinezon SSP-99 Diament</text>
+		<text>Kombinezon SSP-99 "Diament"</text>
 	</string>
 	<string id="st_ecologist_outfit_white_description">
-		<text>SSP-99 to kombinezon specjalnie przystosowany do warunków panuj¹cych w Strefie Wykluczenia. U¿ywany jest przez ekspedycje badawcze i wspó³pracuj¹cych z nimi stalkerów. Posiada zintegrowany system filtracji powietrza i wewnêtrzny klimatyzator, dziêki czemu dobrze zabezpiecza przed wp³ywem promieniowania. Model Diament zapewnia dodatkow¹ ochronê przed elektrycznoœci¹. Kombinezon posiada równie¿ zintegrowany system t³umienia pól anomalii, dziêki któremu w pewnym stopniu zmniejsza wp³yw chemikaliów i wysokiej temperatury na u¿ytkownika. Nie projektowano go pod k¹tem prowadzenia operacji wojskowych, wiêc nie posiada ¿adnych zabezpieczeñ przed ostrza³em i od³amkami.\n \n
+		<text>SSP-99 to kombinezon specjalnie przystosowany do warunków panuj¹cych w Strefie Wykluczenia. U¿ywany jest przez ekspedycje badawcze i wspó³pracuj¹cych z nimi stalkerów. Posiada zintegrowany system filtracji powietrza i wewnêtrzny klimatyzator, dziêki czemu dobrze zabezpiecza przed wp³ywem promieniowania. Model "Diament" zapewnia dodatkow¹ ochronê przed elektrycznoœci¹. Kombinezon posiada równie¿ zintegrowany system t³umienia pól anomalii, dziêki któremu w pewnym stopniu zmniejsza wp³yw chemikaliów i wysokiej temperatury na u¿ytkownika. Nie projektowano go pod k¹tem prowadzenia operacji wojskowych, wiêc nie posiada ¿adnych zabezpieczeñ przed ostrza³em i od³amkami.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_blue_name">
-		<text>Kombinezon SSP-99M Szafir</text>
+		<text>Kombinezon SSP-99M "Szafir"</text>
 	</string>
 	<string id="st_ecologist_outfit_blue_description">
-		<text>Zmodyfikowany kombinezon SSP-99. Zapewnia lepsz¹ ochronê przed obra¿eniami fizycznymi, g³ównie przed ostrza³em i zadrapaniami. Model Szafir posiada doskona³e w³aœciwoœci ekranuj¹ce oddzia³ywania psioniczne. Ponadto, zapewnia dobr¹ ochronê przed anomaliami biologicznymi i promieniowaniem. Jest odporny na wiêkszoœæ substancji ¿r¹cych i chroni u¿ytkownika przed wieloma innymi innymi niebezpieczeñstwami.\n \n
+		<text>Zmodyfikowany kombinezon SSP-99. Zapewnia lepsz¹ ochronê przed obra¿eniami fizycznymi, g³ównie przed ostrza³em i zadrapaniami. Model "Szafir" posiada doskona³e w³aœciwoœci ekranuj¹ce oddzia³ywania psioniczne. Ponadto, zapewnia dobr¹ ochronê przed anomaliami biologicznymi i promieniowaniem. Jest odporny na wiêkszoœæ substancji ¿r¹cych i chroni u¿ytkownika przed wieloma innymi innymi niebezpieczeñstwami.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_red_name">
-		<text>Kombinezon SSP-99M Rubin</text>
+		<text>Kombinezon SSP-99M "Rubin"</text>
 	</string>
 	<string id="st_ecologist_outfit_red_description">
-		<text>Zmodyfikowany kombinezon SSP-99. Zapewnia lepsz¹ ochronê przed obra¿eniami fizycznymi, g³ównie przed ostrza³em i zadrapaniami. Model Rubin skonstruowano pod k¹tem ochrony u¿ytkownika przed atakami mutantów. Kombinezon posiada zintegrowany system tamowania krwawienia. Ponadto, zapewnia dobr¹ ochronê przed anomaliami biologicznymi i promieniowaniem. Jest odporny na wiêkszoœæ substancji ¿r¹cych i chroni u¿ytkownika przed innymi wieloma innymi niebezpieczeñstwami.\n \n
+		<text>Zmodyfikowany kombinezon SSP-99. Zapewnia lepsz¹ ochronê przed obra¿eniami fizycznymi, g³ównie przed ostrza³em i zadrapaniami. Model "Rubin" skonstruowano pod k¹tem ochrony u¿ytkownika przed atakami mutantów. Kombinezon posiada zintegrowany system tamowania krwawienia. Ponadto, zapewnia dobr¹ ochronê przed anomaliami biologicznymi i promieniowaniem. Jest odporny na wiêkszoœæ substancji ¿r¹cych i chroni u¿ytkownika przed innymi wieloma innymi niebezpieczeñstwami.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_yello_name">
-		<text>Kombinezon SSP-99 Topaz</text>
+		<text>Kombinezon SSP-99 "Topaz"</text>
 	</string>
 	<string id="st_ecologist_outfit_yello_description">
-		<text>Kombinezon przeciwchemiczny SSP-99 specjalnie przystosowany do warunków panuj¹cych w Strefie Wykluczenia. U¿ywany jest przez ekspedycje badawcze i wspó³pracuj¹cych z nimi stalkerów. Model Topaz posiada dobre w³aœciwoœci ochronne przed wp³ywem promieniowania. Zawiera zintegrowany system filtracji powietrza i wewnêtrzny klimatyzator. Kombinezon jest ogniotrwa³y i dobrze izoluje od pr¹du elektrycznego, ponadto zapewnia dobr¹ ochronê przed anomaliami biologicznymi i promieniowaniem. Nie projektowano go pod k¹tem prowadzenia operacji wojskowych, wiêc nie posiada ¿adnych zabezpieczeñ przed ostrza³em i od³amkami.\n \n
+		<text>Kombinezon przeciwchemiczny SSP-99 specjalnie przystosowany do warunków panuj¹cych w Strefie Wykluczenia. U¿ywany jest przez ekspedycje badawcze i wspó³pracuj¹cych z nimi stalkerów. Model "Topaz" posiada dobre w³aœciwoœci ochronne przed wp³ywem promieniowania. Zawiera zintegrowany system filtracji powietrza i wewnêtrzny klimatyzator. Kombinezon jest ogniotrwa³y i dobrze izoluje od pr¹du elektrycznego, ponadto zapewnia dobr¹ ochronê przed anomaliami biologicznymi i promieniowaniem. Nie projektowano go pod k¹tem prowadzenia operacji wojskowych, wiêc nie posiada ¿adnych zabezpieczeñ przed ostrza³em i od³amkami.\n \n
 		</text>
 	</string>
 
@@ -1206,7 +1206,7 @@
 		<text>Baza egzoszkieletu</text>
 	</string>
 	<string id="exolight_outfit_description">
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Strój sk³ada siê z wzmocnionego kombinezonu œrodowiskowego, posiada zintegrowany he³m taktyczny i ciê¿k¹ kamizelkê kuloodporn¹.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Kombinezon ten sk³ada siê z wzmocnionego kombinezonu œrodowiskowego, posiada zintegrowany he³m taktyczny i ciê¿k¹ kamizelkê kuloodporn¹.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
@@ -1214,15 +1214,15 @@
 		<text>Kombinezon bojowy PSZ-10d</text>                                                                                                                                                                                                                                                                                                                                                                                                                                
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="dolg_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                            
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Ze stroju PSZ-10d korzystaj¹ elitarni wojownicy Powinnoœci, zw³aszcza eskortuj¹cy VIPów i wykonuj¹cy najbardziej niebezpieczne zadania.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z kombinezonów PSZ-10d korzystaj¹ elitarni ¿o³nierze Powinnoœci, zw³aszcza eskortuj¹cy VIPów i wykonuj¹cy najbardziej niebezpieczne zadania.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
 	<string id="svoboda_exolight_outfit_name">                                                                                                                                                                                                                                                                                                                                                                                                                                
-		<text>Bojownik Wolnoœci</text>                                                                                                                                                                                                                                                                                                                                                                                                                                        
+		<text>"Bojownik Wolnoœci"</text>                                                                                                                                                                                                                                                                                                                                                                                                                                        
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="svoboda_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                         
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Tylko najbardziej szanowani cz³onkowie Wolnoœci otrzymuj¹ takie kombinezony i to wy³¹cznie wtedy, gdy s¹ im absolutnie niezbêdne do prowadzenia dzia³añ.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Tylko najbardziej szanowani cz³onkowie Wolnoœci otrzymuj¹ takie kombinezony i to wy³¹cznie wtedy, gdy s¹ im absolutnie niezbêdne do prowadzenia dzia³añ.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
@@ -1230,7 +1230,7 @@
 		<text>Baza egzoszkieletu Najemników</text>                                                                                                                                                                                                                                                                                                                                                                                                                            
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="merc_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                            
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet tego stroju korzystaj¹ g³ównie kapitanowie kompanii najemników aktywnie uczestnicz¹cy w dzia³aniach operacyjnych.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet tego kombinezonu korzystaj¹ g³ównie kapitanowie kompanii najemników aktywnie uczestnicz¹cy w dzia³aniach operacyjnych.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
@@ -1238,7 +1238,7 @@
 		<text>Zdobyczna baza egzoszkieletu</text>                                                                                                                                                                                                                                                                                                                                                                                                                             
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="bandit_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                          
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Strój wygl¹da bardzo imponuj¹co, dziêki czemu jego u¿ytkownik wydaje siê byæ jeszcze groŸniejszy, ni¿ w rzeczywistoœci. Korzystaj¹ z nich najpotê¿niejsi i najbardziej bezlitoœni cz³onkowie bandyckiego pó³œwiatka.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Kombinezon ten wygl¹da bardzo imponuj¹co, dziêki czemu jego u¿ytkownik wydaje siê byæ jeszcze groŸniejszy, ni¿ w rzeczywistoœci. Korzystaj¹ z nich najpotê¿niejsi i najbardziej bezlitoœni cz³onkowie bandyckiego pó³œwiatka.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
@@ -1246,7 +1246,7 @@
 		<text>Baza egzoszkieletu Monolitu</text>                                                                                                                                                                                                                                                                                                                                                                                                                              
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="monolith_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                        
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Strój najczêœciej wybierany przez kapelanów i taktyków Monolitu, wed³ug których pewnie jest on tak przytulny i koj¹cy, jak trzewia samego Sarkofagu.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Kombinezon ten najczêœciej wybierany jest przez kapelanów i taktyków Monolitu, wed³ug których pewnie jest on tak przytulny i koj¹cy, jak trzewia samego Sarkofagu.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
@@ -1254,7 +1254,7 @@
 		<text>Baza egzoszkieletu wojskowego</text>                                                                                                                                                                                                                                                                                                                                                                                                                            
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="military_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                        
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Wed³ug rz¹du Ukrainy, ten typ wyposa¿enia jest jeszcze w zbyt eksperymentalnej fazie, by móg³ zostaæ oficjalnie wprowadzony do s³u¿by. Mimo tego, ¿o³nierzom - g³ównie wojskowym stalkerom i najstarszym weteranom - udaje siê czasem zdobyæ egzemplarze baz do egzoszkieletów. Zapewne wykorzystuj¹ do tego zdobyte podczas s³u¿by kontakty.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Wed³ug rz¹du Ukrainy, ten typ wyposa¿enia jest jeszcze w zbyt eksperymentalnej fazie, by móg³ zostaæ oficjalnie wprowadzony do s³u¿by. Mimo tego, ¿o³nierzom - g³ównie wojskowym stalkerom i najstarszym weteranom - udaje siê czasem zdobyæ egzemplarze baz do egzoszkieletów. Zapewne wykorzystuj¹ do tego zdobyte podczas s³u¿by kontakty.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
@@ -1262,7 +1262,7 @@
 		<text>Baza egzoszkieletu CS-5</text>                                                                                                                                                                                                                                                                                                                                                                                                                                  
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="cs_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                              
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Stroje CS-5 przemycane s¹ do Zony bezpoœrednio z ukraiñskich fabryk i dopiero na miejscu dostosowywane s¹ do potrzeb frakcji przez ich g³ównego technika.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Kombinezony CS-5 przemycane s¹ do Zony bezpoœrednio z ukraiñskich fabryk i dopiero na miejscu dostosowywane s¹ do potrzeb frakcji przez ich g³ównego technika.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
@@ -1270,15 +1270,15 @@
 		<text>Baza egzoszkieletu UNISG</text>                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="isg_exolight_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                             
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. ONZ kupuje te stroje dla swoich najlepszych agentów i najbardziej utalentowanych dowódców.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. ONZ kupuje te kombinezony dla swoich najlepszych agentów i najbardziej utalentowanych dowódców.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 																																																																																																																			  
 	<string id="exo_wood_outfit_name">                                                                                                                                                                                                                                                                                                                                                                                                                                        
-		<text>Baza egzoszkieletu Knieja</text>                                                                                                                                                                                                                                                                                                                                                                                                                                
+		<text>Baza egzoszkieletu "Knieja"</text>                                                                                                                                                                                                                                                                                                                                                                                                                                
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 	<string id="exo_wood_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                                 
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. W porównaniu do typowego stroju tego typu, ten zwiêksza odpornoœæ na zagro¿enia œrodowiskowe kosztem os³on balistycznych.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. W porównaniu do typowego kombinezonu tego typu, ten zwiêksza odpornoœæ na zagro¿enia œrodowiskowe kosztem os³on balistycznych.\n \n
 		</text>
 	</string>
 	
@@ -1286,15 +1286,15 @@
 		<text>Ograniczony egzoszkielet</text>
 	</string>
 	<string id="bandit_exo_earth_outfit_description">
-		<text>NIE WYSTÊPUJE W GRZE. Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Sk³ada siê ze zintegrowanego he³mu taktycznego, ciê¿kiej kamizelki pancernej i wzmocnionego kombinezonu œrodowiskowego.\n \n
+		<text>NIE WYSTÊPUJE W GRZE. Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Sk³ada siê ze zintegrowanego he³mu taktycznego, ciê¿kiej kamizelki pancernej i wzmocnionego kombinezonu œrodowiskowego.\n \n
 		</text>
 	</string>
 	
 	<string id="freedom_exo_vineleaf_outfit_name">
-		<text>Bohater Wolnoœci</text>
+		<text>"Bohater Wolnoœci"</text>
 	</string>
 	<string id="freedom_exo_vineleaf_outfit_description">
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Doœæ lekki i niezwykle komfortowy, jak na strój tej klasy. Przez to jest zauwa¿alnie mniej odporny na od³amki i zagro¿enia chemiczne.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Doœæ lekki i niezwykle komfortowy, jak na kombinezon tej klasy. Przez to jest zauwa¿alnie mniej odporny na od³amki i zagro¿enia chemiczne.\n \n
 		</text>
 	</string>
 	
@@ -1302,23 +1302,23 @@
 		<text>Kombinezon bojowy PSZ-10d</text>
 	</string>
 	<string id="exo_dolg_outfit_description">
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Ze stroju PSZ-10d korzystaj¹ elitarni wojownicy Powinnoœci, zw³aszcza eskortuj¹cy VIPów i wykonuj¹cy najbardziej niebezpieczne zadania.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z kombinezonów PSZ-10d korzystaj¹ elitarni ¿o³nierze Powinnoœci, zw³aszcza eskortuj¹cy VIPów i wykonuj¹cy najbardziej niebezpieczne zadania.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_dolg_red_outfit_name">
-		<text>Kombinezon PSZ-10d Traper</text>
+		<text>Kombinezon PSZ-10d "Traper"</text>
 	</string>
 	<string id="exo_dolg_red_outfit_description">
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika.\n  \nTakie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Ze stroju PSZ-10d Traper korzystaj¹ elitarni ³owcy mutantów Powinnoœci, którzy ponad odpornoœci na anomalie stawiaj¹ ochronê przed atakami najbardziej niebezpiecznych kreatur.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika.\n  \nTakie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Ze kombinezonów PSZ-10d "Traper" korzystaj¹ elitarni ³owcy mutantów Powinnoœci, którzy ponad odpornoœci na anomalie stawiaj¹ ochronê przed atakami najbardziej niebezpiecznych kreatur.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 																																																																																																																				   
 	<string id="exo_dolg_wood_outfit_name">                                                                                                                                                                                                                                                                                                                                                                                                                                        
-		<text>Kombinezon PSZ-10d Leœnik</text>                                                                                                                                                                                                                                                                                                                                                                                                                                     
+		<text>Kombinezon PSZ-10d "Leœnik"</text>                                                                                                                                                                                                                                                                                                                                                                                                                                     
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 	<string id="exo_dolg_wood_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                                 
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika.\n  \nTakie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Ze stroju PSZ-10d Leœnik korzystaj¹ elitarni wojownicy Powinnoœci, zw³aszcza prowadz¹cy operacje wysokiego ryzyka w miejscach takich, jak Czerwony Las - innymi s³owy takich, w których nale¿y spodziewaæ siê absolutnie wszystkiego.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika.\n  \nTakie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Ze kombinezonów PSZ-10d "Leœnik" korzystaj¹ elitarni wojownicy Powinnoœci, zw³aszcza prowadz¹cy operacje wysokiego ryzyka w miejscach takich, jak Czerwony Las - innymi s³owy takich, w których nale¿y spodziewaæ siê absolutnie wszystkiego.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 																																																																																																																				   
@@ -1326,15 +1326,15 @@
 		<text>Kombinezon miejski PSZ-10g</text>                                                                                                                                                                                                                                                                                                                                                                                                                                    
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 	<string id="exo_dolg_urban_outfit_description">                                                                                                                                                                                                                                                                                                                                                                                                                                
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika.\n  \nTakie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Nieco przestarza³y i dosyæ ciê¿ki. Powinnoœæ korzysta³a z tego typu strojów w trakcie szturmu na Prypeæ i walk z Wolnoœci¹ o pó³nocne tereny Zony w 2012 roku.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika.\n  \nTakie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Nieco przestarza³y i dosyæ ciê¿ki. Powinnoœæ korzysta³a z tego typu kombinezonów w trakcie szturmu na Prypeæ i walk z Wolnoœci¹ o pó³nocne tereny Zony w 2012 roku.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_merc_outfit_name">
-		<text>Ciê¿ki kombinezon najemników TB-1</text>
+		<text>Ciê¿ki kombinezon najemników "TB-1"</text>
 	</string>
 	<string id="exo_merc_outfit_description">
-		<text>NIE WYSTÊPUJE W GRZE. Ten ciê¿ki kombinezon pancerny, znany jako TB-1, posiada wysok¹ ochronê fizyczn¹ w porównaniu do oryginalnych ciê¿kich pancerzy. Pod wzglêdem wszystkich innych parametrów jest identyczny z egzoszkieletem, z wyj¹tkiem nieco mniejszej ochrony balistycznej i przed rozerwaniem. Sk³ada siê z trzech elementów: he³mu taktycznego, ciê¿kiej kamizelki pancernej i wzmocnionego kombinezonu. U¿ywany przez doœwiadczonych najemników na misjach na pó³nocy, do likwidowania elitarnych oddzia³ów Monolitu. Posiada standardowy ciemnoniebieski wzór kamufla¿u, odpowiedni do operacji w œrodowisku miejskim (lub gdziekolwiek indziej, ale tylko w nocy).\n \n
+		<text>NIE WYSTÊPUJE W GRZE. Ten ciê¿ki kombinezon pancerny, znany jako "TB-1", posiada wysok¹ ochronê fizyczn¹ w porównaniu do oryginalnych ciê¿kich pancerzy. Pod wzglêdem wszystkich innych parametrów jest identyczny z egzoszkieletem, z wyj¹tkiem nieco mniejszej ochrony balistycznej i przed rozerwaniem. Sk³ada siê z trzech elementów: he³mu taktycznego, ciê¿kiej kamizelki pancernej i wzmocnionego kombinezonu. U¿ywany przez doœwiadczonych najemników na misjach na pó³nocy, do likwidowania elitarnych oddzia³ów Monolitu. Posiada standardowy ciemnoniebieski wzór kamufla¿u, odpowiedni do operacji w œrodowisku miejskim (lub gdziekolwiek indziej, ale tylko w nocy).\n \n
 		</text>
 	</string>
 	
@@ -1342,7 +1342,7 @@
 		<text>Kombinezon miejski najemników</text>
 	</string>
 	<string id="exo_merc_urban_outfit_description">
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet tego stroju korzystaj¹ g³ównie kapitanowie kompanii najemników dzia³aj¹cy w miejscach takich, jak Limañsk czy Prypeæ.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet takich kombinezonów korzystaj¹ g³ównie kapitanowie oddzia³ów najemników dzia³aj¹cy w miejscach takich, jak Limañsk czy Prypeæ.\n \n
 		</text>                                                                                                                                                                                                                                                                        
 	</string>                                                                                                                                                                                                                                                                          
 																																																																					   
@@ -1350,7 +1350,7 @@
 		<text>Kombinezon leœny najemników</text>                                                                                                                                                                                                                                       
 	</string>                                                                                                                                                                                                                                                                          
 	<string id="exo_merc_wood_outfit_description">                                                                                                                                                                                                                                     
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet tego stroju korzystaj¹ g³ównie kapitanowie kompanii najemników dzia³aj¹cy w strefach wystêpowania silnych anomalii termicznych.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet takich kombinezonów korzystaj¹ g³ównie kapitanowie kompanii najemników dzia³aj¹cy w strefach wystêpowania silnych anomalii termicznych.\n \n
 		</text>                                                                                                                                                                                                                                                                        
 	</string>                                                                                                                                                                                                                                                                          
 																																																																					   
@@ -1358,17 +1358,17 @@
 		<text>Kombinezon stepowy najemników</text>                                                                                                                                                                                                                                     
 	</string>                                                                                                                                                                                                                                                                          
 	<string id="exo_merc_grass_outfit_description">                                                                                                                                                                                                                                    
-		<text>Ten strój stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet tego stroju korzystaj¹ g³ównie kapitanowie kompanii najemników dzia³aj¹cy w strefach wystêpowania silnych anomalii termicznych.\n \n
+		<text>Ten kombinezon stanowi "podszewkê" egzoszkieletu. Niektórzy - ca³kiem niepoprawnie - nazywaj¹ go "kombinezonem radiacyjnym". Ubiór zapewnia os³ony niemal tak dobre, jak pe³ny egzoszkielet, jednak ze wzglêdu na brak uk³adów wspomagaj¹cych, nie zwiêksza si³y u¿ytkownika. Takie rozwi¹zanie u³atwia utrzymywanie kombinezonu w dobrym stanie, upraszcza ewentualne naprawy i - w przeciwieñstwie do pe³nego egzoszkieletu - nie utrudnia u¿ytkownikowi biegania. Z zalet takich kombinezonów korzystaj¹ g³ównie kapitanowie kompanii najemników dzia³aj¹cy w strefach wystêpowania silnych anomalii termicznych.\n \n
 		</text>
 	</string>
 
 
 <!-- Proptotype Exoskeleton -->
 	<string id="stalker_proto_exo_outfit_name">
-		<text>Egzoszkielet Œwit</text>
+		<text>Egzoszkielet "Œwit"</text>
 	</string>
 	<string id="stalker_proto_exo_outfit_description">
-		<text>Kombinezon stalkerski zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu, ale brak mu pe³nowymiarowego pancerza. W porównaniu do pe³nego egzoszkieletu ten zapewnia s³absz¹ ochronê, a jego serwomotory s¹ mniej wydajne. Z drugiej strony, jest sporo tañszy w utrzymaniu.\n \n
+		<text>Jest to stalkerski "Œwit" zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu, ale brak mu pe³nowymiarowego pancerza. W porównaniu do pe³nego egzoszkieletu ten zapewnia s³absz¹ ochronê, a jego serwomotory s¹ mniej wydajne. Z drugiej strony, jest sporo tañszy w utrzymaniu.\n \n
 		</text>
 	</string>
 
@@ -1376,7 +1376,7 @@
 		<text>Egzoszkielet Wolnoœci</text>
 	</string>
 	<string id="svoboda_light_proto_exo_outfit_description">
-		<text>Kombinezon Powiew Wolnoœci zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu, ale brak mu pe³nowymiarowego pancerza. W porównaniu do pe³nego egzoszkieletu ten zapewnia s³absz¹ ochronê, a jego serwomotory s¹ mniej wydajne. Z drugiej strony, jest sporo tañszy w utrzymaniu.\n \n
+		<text>Kombinezon "Powiew Wolnoœci" zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu, ale brak mu pe³nowymiarowego pancerza. W porównaniu do pe³nego egzoszkieletu ten zapewnia s³absz¹ ochronê, a jego serwomotory s¹ mniej wydajne. Z drugiej strony, jest sporo tañszy w utrzymaniu.\n \n
 		</text>
 	</string>
 
@@ -1397,18 +1397,18 @@
 	</string>
 
 	<string id="military_proto_exo_outfit_name">
-		<text>Egzoszkielet Skat-9</text>
+		<text>Egzoszkielet SKAT-9</text>
 	</string>
 	<string id="military_proto_exo_outfit_description">
-		<text>Kombinezon pancerny Skat-9 zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu. W porównaniu do pe³nego egzoszkieletu, ten ma podobne - jeœli nie lepsze - w³aœciwoœci ochronne, a przy tym jest bardziej uniwersalny ze wzglêdu na mo¿liwoœæ wymiany he³mu. Serwomotory prawdopodobnie pochodz¹ z kombinezonu poprzedniej generacji, przez co ich wydajnoœæ jest ni¿sza, ni¿ najnowszych modeli.\n \n
+		<text>Kombinezon pancerny SKAT-9 zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu. W porównaniu do pe³nego egzoszkieletu, ten ma podobne - jeœli nie lepsze - w³aœciwoœci ochronne, a przy tym jest bardziej uniwersalny ze wzglêdu na mo¿liwoœæ wymiany he³mu. Serwomotory prawdopodobnie pochodz¹ z kombinezonu poprzedniej generacji, przez co ich wydajnoœæ jest ni¿sza, ni¿ najnowszych modeli.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_proto_exo_outfit_name">
-		<text>Egzoszkielet X-18</text>
+		<text>Egzoszkielet "X-18"</text>
 	</string>
 	<string id="monolith_proto_exo_outfit_description">
-		<text>Kombinezon opracowany przez cz³onków Monolitu, choæ mimo wszystko bardziej prawdopodobnym wydaje siê, ¿e fanatyczni bojownicy otrzymuj¹ je z nieznanych Ÿróde³ zewnêtrznych. To standardowy X-18 zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu, ale brak mu pe³nowymiarowego pancerza. W porównaniu do pe³nego egzoszkieletu ten zapewnia s³absz¹ ochronê, a jego serwomotory s¹ mniej wydajne. Z drugiej strony, jest sporo tañszy w utrzymaniu.\n \n
+		<text>Kombinezon opracowany przez cz³onków Monolitu, choæ mimo wszystko bardziej prawdopodobnym wydaje siê, ¿e fanatyczni bojownicy otrzymuj¹ je z nieznanych Ÿróde³ zewnêtrznych. To standardowy "X-18" zmodyfikowany za pomoc¹ serwomotorów i akumulatorów pochodz¹cych z egzoszkieletu. Pozwala u¿ytkownikowi na znaczne zwiêkszenie udŸwigu, ale brak mu pe³nowymiarowego pancerza. W porównaniu do pe³nego egzoszkieletu ten zapewnia s³absz¹ ochronê, a jego serwomotory s¹ mniej wydajne. Z drugiej strony, jest sporo tañszy w utrzymaniu.\n \n
 		</text>
 	</string>
 
@@ -1421,10 +1421,10 @@
 	</string>
 	
 	<string id="ecolog_proto_exo_outfit_name">
-		<text>Egzoszkielet Ekolog</text>
+		<text>Egzoszkielet "Ekolog"</text>
 	</string>
 	<string id="ecolog_proto_exo_outfit_description">
-		<text>Kombinezon opancerzony Ekologów, opracowany do przeprowadzania operacji szturmowych i wsparcia w strefach wystêpowania anomalii. Chocia¿ pancerz nie zapewnia ochrony na poziomie pe³nego egzoszkieletu, jego wydajnoœæ w walce zosta³a zwiêkszona. Ramê przystosowano do przenoszenia ciê¿kich ³adunków, takich jak o³owiane pojemniki na artefakty, czy naukowa aparatura pomiarowa. Dziêki temu egzoszkielet Ekolog doskonale wspiera naukowców w czasie badañ przeprowadzanych w terenie.\n \n
+		<text>Egzoszkielet opracowany przez Naukowców do przeprowadzania operacji szturmowych i wsparcia w strefach wystêpowania anomalii. Chocia¿ jego pancerz nie zapewnia ochrony na poziomie pe³nego egzoszkieletu, jego wydajnoœæ w walce zosta³a zwiêkszona. Ramê przystosowano do przenoszenia ciê¿kich ³adunków, takich jak o³owiane pojemniki na artefakty, czy naukowa aparatura pomiarowa. Dziêki temu egzoszkielet "Ekolog" doskonale wspiera naukowców w czasie badañ przeprowadzanych w terenie.\n \n
 		</text>
 	</string>
 	
@@ -1455,10 +1455,10 @@
 	</string>
 
 	<string id="svoboda_exo_outfit_name">
-		<text>Bastion Wolnoœci</text>
+		<text>"Bastion Wolnoœci"</text>
 	</string>
 	<string id="svoboda_exo_outfit_description">
-		<text>Kombinezon bojowy wyprodukowany przez najzdolniejszych rzemieœlników Wolnoœci. Po serii eksperymentów i niezliczonej iloœci prób terenowych, frakcji uda³o siê opracowaæ naprawdê solidny produkt. Choæ nie jest to najbardziej praktyczny z dostêpnych kombinezonów, niezaprzeczalnie stoi w czo³ówce najpotê¿niejszych oferowanych przez Wolnoœæ strojów. Liderzy frakcji powierzaj¹ Bastiony tylko najlepszym wojownikom i stra¿nikom. Egzoszkielet sk³ada siê z czterech elementów: taktycznego he³mu, taktycznej kamizelki kuloodpornej i wykonanego z kevlaru kombinezonu œrodowiskowego uzupe³nionego nowoczesnymi serwomotorami. \n \n
+		<text>Kombinezon bojowy wyprodukowany przez najzdolniejszych techników Wolnoœci. Po serii eksperymentów i niezliczonej iloœci prób terenowych, frakcji uda³o siê opracowaæ naprawdê solidny produkt. Choæ nie jest to najbardziej praktyczny z dostêpnych kombinezonów, niezaprzeczalnie stoi w czo³ówce najpotê¿niejszych oferowanych przez Wolnoœæ kombinezonów. Liderzy frakcji powierzaj¹ "Bastiony" tylko najlepszym wojownikom i stra¿nikom. Egzoszkielet sk³ada siê z czterech elementów: taktycznego he³mu, taktycznej kamizelki kuloodpornej i wykonanego z kevlaru kombinezonu œrodowiskowego uzupe³nionego nowoczesnymi serwomotorami. \n \n
 		</text>
 	</string>
 
@@ -1474,7 +1474,7 @@
 		<text>Egzoszkielet Monolitu</text>
 	</string>
 	<string id="monolith_exo_outfit_description">
-		<text>Pancerz stworzony dziêki najnowszym dostêpnym technologiom w oparciu o egzoszkielet wojskowy. Zdobyte próbki ujawni³y, ¿e serwomotory wykonano ze stopów i materia³ów nieznanych obecnej nauce. Sk³ada siê z czterech elementów: taktycznego he³mu, taktycznej kamizelki kuloodpornej i wykonanego z kevlaru, balistycznego kombinezonu œrodowiskowego uzupe³nionego nowoczesnymi - acz nieznanymi - serwomotorami. Noszenie tego stroju przypomina dobrowolne pochowanie w betonowym Sarkofagu - wed³ug wiêkszoœci stalkerów kombinezon po za³o¿eniu sprawia wra¿enie niezwykle klaustrofobiczne, jednak prawdziwym s³ugom Monolitu wydaje siê to co najmniej nie przeszkadzaæ.\n \n
+		<text>Pancerz stworzony dziêki najnowszym dostêpnym technologiom w oparciu o egzoszkielet wojskowy. Zdobyte próbki ujawni³y, ¿e serwomotory wykonano ze stopów i materia³ów nieznanych obecnej nauce. Sk³ada siê z czterech elementów: taktycznego he³mu, taktycznej kamizelki kuloodpornej i wykonanego z kevlaru, balistycznego kombinezonu œrodowiskowego uzupe³nionego nowoczesnymi - acz nieznanymi - serwomotorami. Noszenie tego egzoszkieletu przypomina dobrowolne pochowanie w betonowym Sarkofagu - wed³ug wiêkszoœci stalkerów kombinezon po za³o¿eniu sprawia niezwykle klaustrofobiczne wra¿enie, jednak prawdziwym s³ugom Monolitu wydaje siê to co najmniej nie przeszkadzaæ...\n \n
 		</text>
 	</string>
 
@@ -1490,7 +1490,7 @@
 		<text>Egzoszkielet wojskowy</text>
 	</string>
 	<string id="military_exo_outfit_description">
-		<text>Oficjalna, dopuszczona przez rz¹d wersja wojskowego egzoszkieletu. Wyprodukowana w bardzo niewielkiej iloœci na specjalne zamówienie wojskowych stalkerów, którzy za ka¿dy kombinezon musieli zap³aciæ z w³asnych pieniêdzy. Opracowany tak, by u³atwiaæ przenoszenie ciê¿kiego uzbrojenia - granatników, karabinów maszynowych wraz z zapasem amunicji - oraz ¿ywnoœci i leków pozwalaj¹cych jednostkom na samowystarczalnoœæ przez d³ugi czas. Egzoszkielety czasem wykorzystywane s¹ zamiast lekkich pojazdów.\n \n
+		<text>Oficjalna, dopuszczona do u¿ytku przez rz¹d wersja wojskowego egzoszkieletu. Wyprodukowana w bardzo niewielkiej iloœci na specjalne zamówienie wojskowych stalkerów, którzy za ka¿dy kombinezon musieli zap³aciæ z w³asnych pieniêdzy. Opracowany tak, by u³atwiaæ przenoszenie ciê¿kiego uzbrojenia - granatników, karabinów maszynowych wraz z zapasem amunicji - oraz ¿ywnoœci i leków pozwalaj¹cych jednostkom na samowystarczalnoœæ przez d³ugi czas. Egzoszkielety czasem wykorzystywane s¹ zamiast lekkich pojazdów.\n \n
 		</text>
 	</string>
 
@@ -1503,10 +1503,10 @@
 	</string>
 
 	<string id="ecolog_exo_outfit_name">
-		<text>Egzoszkielet naukowy</text>
+		<text>Naukowy egzoszkielet</text>
 	</string>
 	<string id="ecolog_exo_outfit_description">
-		<text>Oficjalna, dopuszczona przez rz¹d wersja wojskowego egzoszkieletu, opracowana specjalnie z myœl¹ o znajduj¹cych siê w Zonie pracownikach naukowych. Kombinezon wydaje siê niemal ca³kowicie niewra¿liwy na ostrza³ z broni ma³okalibrowej, a dziêki zaawansowanym serwomotorom u¿ytkownik mo¿e szybko wycofaæ siê na bezpieczniejsze pozycje. U³atwia tak¿e pos³ugiwanie siê ciê¿k¹ broni¹ o charakterze defensywnym. Naukowcy pracuj¹cy w terenie korzystaj¹ z egzoszkieletów, by móc swobodnie przenosiæ wrêcz niedorzeczne iloœci baterii, akumulatorów, pojemników izoluj¹cych na artefakty i innych, niezbêdnych do prowadzenia badañ naukowych w Zonie przyborów.\n \n
+		<text>Oficjalna, dopuszczona do u¿ytku przez rz¹d wersja wojskowego egzoszkieletu, opracowana specjalnie z myœl¹ o znajduj¹cych siê w Zonie pracownikach naukowych. Kombinezon wydaje siê niemal ca³kowicie niewra¿liwy na ostrza³ z broni ma³okalibrowej, a dziêki zaawansowanym serwomotorom u¿ytkownik mo¿e szybko wycofaæ siê na bezpieczniejsze pozycje. U³atwia tak¿e pos³ugiwanie siê ciê¿k¹ broni¹ o charakterze defensywnym. Naukowcy pracuj¹cy w terenie korzystaj¹ z egzoszkieletów, by móc swobodnie przenosiæ wrêcz niedorzeczne iloœci baterii, akumulatorów, pojemników izoluj¹cych na artefakty i innych, niezbêdnych do prowadzenia badañ naukowych w Zonie przyborów.\n \n
 		</text>
 	</string>
 
@@ -1514,7 +1514,7 @@
 		<text>Egzoszkielet Renegatów</text>
 	</string>
 	<string id="renegade_exo_outfit_description">
-		<text>Jeden z kilku egzoszkieletów zmontowanych przez Renegatów w 2011 roku na potrzeby ich ostatecznego szturmu na bazê Czystego Nieba. Przez interwencjê tajemniczego, uzbrojonego w karabin wyborowy najemnika w p³aszczu, Renegaci zostali starci z powierzchni ziemi na d³ugo przed swoim ostatecznym zwyciêstwem. Obecni wykolejeñcy korzystaj¹cy z tych egzoszkieletów znani s¹ ze swojej niepowstrzymanej woli walki. W boju zachowuj¹ siê jak opêtañcy, szukaj¹cy zemsty na swoich najbardziej znienawidzonych wrogach - czyli, zasadniczo, na ka¿dym innym w Zonie.\n \n
+		<text>Jeden z kilku egzoszkieletów zmontowanych przez Renegatów w 2011 roku na potrzeby ich ostatecznego szturmu na bazê Czystego Nieba. Przez interwencjê tajemniczego, uzbrojonego w karabin wyborowy najemnika w p³aszczu, Renegaci zostali starci z powierzchni ziemi na d³ugo przed swoim ostatecznym zwyciêstwem. Obecni wykolejeñcy korzystaj¹cy z tych egzoszkieletów znani s¹ ze swojej niepowstrzymanej woli walki. W boju zachowuj¹ siê jak opêtañcy, szukaj¹cy zemsty na swoich najbardziej znienawidzonych wrogach - czyli, zasadniczo, na ka¿dym stalkerze w Zonie.\n \n
 		</text>
 	</string>
 
@@ -1527,41 +1527,41 @@
 	</string>
 	
 	<string id="greh_exo_outfit_name">
-		<text>Egzoszkielet wspomagany Wyraj</text>
+		<text>Egzoszkielet wspomagany "Wyraj"</text>
 	</string>
 	<string id="greh_exo_outfit_description">
-		<text>Pancerz stworzony dziêki najnowszym dostêpnym technologiom w oparciu o egzoszkielet wojskowy. Zdobyte próbki ujawni³y, ¿e serwomotory wykonano ze stopów i materia³ów nieznanych obecnej nauce. Sk³ada siê z czterech elementów: taktycznego he³mu, taktycznej kamizelki kuloodpornej i wykonanego z kevlaru, balistycznego kombinezonu œrodowiskowego uzupe³nionego nowoczesnymi - acz nieznanymi - serwomotorami. Noszenie tego stroju powoduje w u¿ytkowniku nienaturalne uczucie b³ogoœci i spokoju. Trudno jednak powiedzieæ, czy to poczucie bezpieczeñstwa jest prawdziwe, czy to tylko u³uda.\n \n
+		<text>Egzoszkielet stworzony dziêki najnowszym dostêpnym technologiom w oparciu o egzoszkielet wojskowy. Zdobyte próbki ujawni³y, ¿e serwomotory wykonano ze stopów i materia³ów nieznanych obecnej nauce. Sk³ada siê z czterech elementów: taktycznego he³mu, taktycznej kamizelki kuloodpornej i wykonanego z kevlaru, balistycznego kombinezonu œrodowiskowego uzupe³nionego nowoczesnymi - acz nieznanymi - serwomotorami. Noszenie tego egzoszkieletu powoduje w u¿ytkowniku nienaturalne uczucie b³ogoœci i spokoju. Trudno jednak powiedzieæ, czy to poczucie bezpieczeñstwa jest prawdziwe, czy to tylko u³uda.\n \n
 		</text>
 	</string>
 
 
 <!-- Nosorog exskeletal armour -->
 	<string id="dolg_nosorog_outfit_name">
-		<text>Kombinezon PSZ-10d Nosorog</text>
+		<text>Egzoszkielet PSZ-10d "Nosorog"</text>
 	</string>
 	<string id="merc_nosorog_outfit_name">
-		<text>Kombinezon Nosorog Najemników</text>
+		<text>Egzoszkielet "Nosorog" Najemników</text>
 	</string>
 	<string id="army_nosorog_outfit_name">
-		<text>Kombinezon wojskowy Nosorog</text>
+		<text>Egzoszkielet wojskowy "Nosorog"</text>
 	</string>
 	<string id="monolith_nosorog_outfit_name">
-		<text>Kombinezon Nosorog Monolitu</text>
+		<text>Egzoszkielet "Nosorog" Monolitu</text>
 	</string>
 	<string id="isg_nosorog_outfit_name">
-		<text>Kombinezon Nosorog UNISG</text>
+		<text>Egzoszkielet "Nosorog" UNISG</text>
 	</string>
 	
 	<string id="nosorog_outfit_description">
-		<text>Egzoszkielet nowej generacji, sk³adaj¹cy siê z obustronnie wzmocnionego kombinezonu bazowego i he³mu z funkcj¹ maski przeciwgazowej Cz-M10. Wed³ug plotek pierwsz¹ osob¹, która wpad³a na pomys³ stworzenia stroju tej klasy by³ nie¿yj¹cy ju¿ stalker Kie³ - ta historia mo¿e mieæ w sobie ziarnko prawdy, jako ¿e wiele z jego idei zosta³o póŸniej wykorzystanych przez prawie wszystkie licz¹ce siê w Zonie frakcje. Jeœli stalkera w klasycznym egzoszkielecie mo¿na przyrównaæ do lekkiego pojazdu, tak kombinezon Nosorog zmienia go w prawdziwy czo³g. Umo¿liwia prze¿ycie najbardziej dynamicznych i krwawych staræ, strzelanin i wybuchów, a przy tym pozwala na przenoszenie olbrzymiej iloœci uzbrojenia i wyposa¿enia. Nosorogi zwykle dostêpne s¹ wy³¹cznie dla najbardziej licz¹cych siê cz³onków danej frakcji i to tylko podczas niebywale niebezpiecznych misji.\n \n
+		<text>Egzoszkielet nowej generacji, sk³adaj¹cy siê z obustronnie wzmocnionego kombinezonu bazowego i he³mu z funkcj¹ maski przeciwgazowej Cz-M10. Wed³ug plotek pierwsz¹ osob¹, która wpad³a na pomys³ stworzenia egzoszkieletu tej klasy by³ nie¿yj¹cy ju¿ stalker Kie³ - ta historia mo¿e mieæ w sobie ziarnko prawdy, jako ¿e wiele z jego idei zosta³o póŸniej wykorzystanych przez prawie wszystkie licz¹ce siê w Zonie frakcje. Jeœli stalkera w klasycznym egzoszkielecie mo¿na przyrównaæ do lekkiego pojazdu, tak kombinezon "Nosorog" zmienia go w prawdziwy czo³g. Umo¿liwia prze¿ycie najbardziej dynamicznych i krwawych staræ, strzelanin i wybuchów, a przy tym pozwala na przenoszenie olbrzymiej iloœci uzbrojenia i wyposa¿enia. "Nosorogi" zwykle dostêpne s¹ wy³¹cznie dla najbardziej licz¹cych siê cz³onków danej frakcji i to tylko podczas niebywale niebezpiecznych misji.\n \n
 		</text>                                                                                                                                                                                                                                                                                                                                                                                                                        
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                          
 																																																																																																									   
 	<string id="freedom_nosorog_outfit_name">                                                                                                                                                                                                                                                                                                                                                                                          
-		<text>G³osiciel Wolnoœci</text>                                                                                                                                                                                                                                                                                                                                                                                                
+		<text>"G³osiciel Wolnoœci"</text>                                                                                                                                                                                                                                                                                                                                                                                                
 	</string>                                                                                                                                                                                                                                                                                                                                                                                                                          
 	<string id="freedom_nosorog_outfit_desc">                                                                                                                                                                                                                                                                                                                                                                                          
-		<text>Egzoszkielet nowej generacji, sk³adaj¹cy siê z obustronnie wzmocnionego kombinezonu bazowego i he³mu z funkcj¹ maski przeciwgazowej Cz-M10. Wed³ug plotek pierwsz¹ osob¹, która wpad³a na pomys³ stworzenia stroju tej klasy by³ nie¿yj¹cy ju¿ stalker Kie³ - ta historia mo¿e mieæ w sobie ziarnko prawdy, jako ¿e wiele z jego idei zosta³o póŸniej wykorzystanych przez prawie wszystkie licz¹ce siê w Zonie frakcje. Jeœli stalkera w klasycznym egzoszkielecie mo¿na przyrównaæ do lekkiego pojazdu, tak kombinezon Nosorog zmienia go w prawdziwy czo³g. Umo¿liwia prze¿ycie najbardziej dynamicznych i krwawych staræ, strzelanin i wybuchów, a przy tym pozwala na przenoszenie olbrzymiej iloœci uzbrojenia i wyposa¿enia. Nosorogi zwykle dostêpne s¹ wy³¹cznie dla najbardziej licz¹cych siê cz³onków danej frakcji i to tylko podczas niebywale niebezpiecznych misji.\n \n
+		<text>Egzoszkielet nowej generacji, sk³adaj¹cy siê z obustronnie wzmocnionego kombinezonu bazowego i he³mu z funkcj¹ maski przeciwgazowej Cz-M10. Wed³ug plotek pierwsz¹ osob¹, która wpad³a na pomys³ stworzenia egzoszkieletu tej klasy by³ nie¿yj¹cy ju¿ stalker Kie³ - ta historia mo¿e mieæ w sobie ziarnko prawdy, jako ¿e wiele z jego idei zosta³o póŸniej wykorzystanych przez prawie wszystkie licz¹ce siê w Zonie frakcje. Jeœli stalkera w klasycznym egzoszkielecie mo¿na przyrównaæ do lekkiego pojazdu, tak kombinezon "Nosorog" zmienia go w prawdziwy czo³g. Umo¿liwia prze¿ycie najbardziej dynamicznych i krwawych staræ, strzelanin i wybuchów, a przy tym pozwala na przenoszenie olbrzymiej iloœci uzbrojenia i wyposa¿enia. "Nosorogi" zwykle dostêpne s¹ wy³¹cznie dla najbardziej licz¹cych siê cz³onków danej frakcji i to tylko podczas niebywale niebezpiecznych misji.\n \n
 		</text>
 	</string>
 
@@ -1571,7 +1571,7 @@
 		<text>Kombinezon Ghillie</text>
 	</string>
 	<string id="ghillie_outfit_description">
-		<text>Tego typu kombinezony opracowano by (ca³kiem dos³ownie) symulowa³y stertê liœci. Zwykle korzystaj¹ z nich snajperzy i ³owcy mutantów, którym zale¿y na wtopieniu siê w otoczenie i ukrycie przed wzrokiem wrogów. Kombinezony Ghillie s¹ produktem komercyjnym, jednak zarówno personel wojskowy, jak i stosuj¹cy je cywile dokonuj¹ poprawek wedle w³asnego zapotrzebowania. Niestety, stroje tego typu maj¹ dwie g³ówne wady zmniejszaj¹ce ich praktycznoœæ - nawet w umiarkowanym klimacie bardzo ³atwo siê przegrzewaj¹, a przy tym s¹ bardzo ciê¿kie i utrudniaj¹ swobodne poruszanie siê.\n \n
+		<text>Tego typu kombinezony opracowano by (ca³kiem dos³ownie) symulowa³y stertê liœci. Zwykle korzystaj¹ z nich snajperzy i ³owcy mutantów, którym zale¿y na wtopieniu siê w otoczenie i ukrycie przed wzrokiem wrogów. Kombinezony Ghillie s¹ produktem komercyjnym, jednak zarówno personel wojskowy, jak i stosuj¹cy je cywile dokonuj¹ poprawek wedle w³asnego zapotrzebowania. Niestety, kombinezony tego typu maj¹ dwie g³ówne wady zmniejszaj¹ce ich praktycznoœæ - nawet w umiarkowanym klimacie bardzo ³atwo siê przegrzewaj¹, a przy tym s¹ bardzo ciê¿kie i utrudniaj¹ swobodne poruszanie siê.\n \n
 		</text>
 	</string>
 

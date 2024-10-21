@@ -82,7 +82,7 @@
 		<text>Podró¿ do innej mapy</text>
 	</string>
 
-	<string id="st_fftd_rub">
+	<string id="st_currency_rub">
 		<text>RU</text>
 	</string>
 
@@ -278,11 +278,11 @@
 	</string>
 
 	<string id="ui_mcm_fftd_getpaw">
-		<text>Funkcja Podró¿y szpilk¹ wymaga dodatku PAW:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
+		<text>Funkcja Podró¿y do pinezki wymaga dodatku PAW:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
 	</string>
 
 	<string id="ui_mcm_fftd_usedisguisefix_desc">
-		<text>B³¹d w waniliowym Anomaly powoduje, ¿e przebrania s¹ wysadzane, jeœli szybko podró¿ujesz w pobli¿u postaci niezale¿nych z w³¹czonym up³ywem czasu. To ustawienie naprawia b³¹d poprzez wy³¹czenie podejrzeñ opartych na czasie w ustawieniach przebrania do czasu zakoñczenia przeskoku czasowego. To ustawienie nie powinno byæ nigdy wy³¹czane, z wyj¹tkiem rozwi¹zywania problemów.</text>
+		<text>B³¹d w waniliowym Anomaly powoduje, ¿e twoje przebrania s¹ odkrywane, jeœli u¿ywasz szybkiej podró¿y w pobli¿u NPCów z w³¹czonym up³ywem czasu. To ustawienie naprawia b³¹d poprzez wy³¹czenie podejrzeñ opartych na czasie w ustawieniach przebrania do czasu zakoñczenia przeskoku czasowego. To ustawienie nie powinno byæ nigdy wy³¹czane, z wyj¹tkiem rozwi¹zywania problemów.</text>
 	</string>
 
 	<string id="ui_mcm_fftd_useoldcalcs_desc">
@@ -290,7 +290,7 @@
 	</string>
 
 	<string id="ui_mcm_fftd_cost_coef_desc">
-		<text> Domyœlnie tylko Guide Travel ma koszt. Mo¿esz opcjonalnie ustawiæ pozosta³e dwa typy podró¿y, aby równie¿ mia³y koszt, a jeœli ta wartoœæ jest wiêksza od zera, bêd¹ one korzystaæ z tych samych obliczeñ, co podró¿ przewodnika.</text>
+		<text>Domyœlnie tylko Podró¿ z przewodnikiem ma koszt. Mo¿esz opcjonalnie ustawiæ pozosta³e dwa typy podró¿y, aby równie¿ mia³y koszt, a jeœli ta wartoœæ jest wiêksza od zera, bêd¹ one korzystaæ z tych samych obliczeñ, co podró¿ przewodnika.</text>
 	</string>
 
 	<string id="st_fftd_farepaid_noguide">
@@ -518,51 +518,235 @@
 		<text>Obóz bandytów na £¹ce</text>
 	</string>
 
-<!--
-	not ready yet
-	<string id="ui_mcm_fftd_gen_custom_context">
-		<text>Dostosowywanie tekstu menu kontekstowego</text>
+<!-- Added in 2.8 -->
+
+	<string id="st_fft_travel_zoneblocked_1">
+		<text>Mo¿esz inicjowaæ %s tylko z baz nale¿¹cych do przyjaznych frakcji</text>
 	</string>
 
-	<string id="ui_mcm_fftd_gen_custom_context_desc">
-		<text>
-			Umo¿liwia ca³kowite dostosowanie formatu i zawartoœci opcji menu kontekstowego wyœwietlanych dla wszystkich typów szybkiej podró¿y. Mo¿na u¿yæ nastêpuj¹cych tokenów zastêpczych:\n
-        	------------------------------------------------------\n
-			$go_to: 	"Szybka podró¿ do plecaka do" lub "Wynajêcie przewodnika do"\n
-			$dest:		zlokalizowana nazwa miejsca docelowego\n
-			$distdur: 	tekst odleg³oœci i czasu trwania poni¿ej, jeœli jest w³¹czony\n
-			$farestr: 	tekst wyœwietlany poni¿ej, jeœli koszt przekracza 0\n
-			$level: 	nazwa poziomu miejsca docelowego, jeœli jest znana\n
-			$distm:		odleg³oœæ do miejsca docelowego, w metrach\n
-			$distkm:	odleg³oœæ wyœwietlana w kilometrach, jeœli przekracza 1000 m\n
-			$fareval:	ostateczna skorygowana cena\n
-			$estdur: 	jeœli w³¹czono losowy czas trwania, zlokalizowane "co najmniej "\n
-			$time:		czas trwania podró¿y w formacie hh:mm\n
-			$dur_t:		ca³kowity czas trwania podró¿y w minutach\n
-			$dur_h:		godzinowa czêœæ hh:mm trwania podró¿y\n
-			$dur_m:		minutowa czêœæ hh:mm trwania podró¿y\n
-			$rubles: 	lokalny skrót waluty\n
-			$gated: 	Ostrze¿enie wyœwietlane, jeœli Zwêglacz blokuje trasê P³n.-Po³.\n
-        	------------------------------------------------------\n
-			Jeœli siê pomylisz i chcesz przywróciæ oryginalny format, po prostu usuñ zawartoœæ tego pola i zastosuj zmiany.
+	<string id="st_fft_travel_zoneblocked_2">
+		<text>Mo¿esz inicjowaæ %s tylko z baz nale¿¹cych do twojej frakcji</text>.
+	</string>
+
+	<string id="ui_mcm_fft_zone_mode">
+		<text>Zezwól na podró¿owanie tylko z baz frakcji</text>
+	</string>
+
+	<string id="ui_mcm_fft_zone_mode_desc">
+		<text>Opcjonalnie ogranicz miejsce, z którego gracz mo¿e rozpocz¹æ podró¿:\n
+			Wy³¹czone: podró¿ mo¿na rozpocz¹æ z dowolnego miejsca, tak jak w vanilla Anomaly.\n
+			Przyjazne: podró¿ mo¿na rozpocz¹æ tylko wtedy, gdy gracz znajduje siê w bazie przyjaznej frakcji. Zalecane dla wiêkszoœci graczy.\n
+			W³asna frakcja: podró¿ mo¿na rozpocz¹æ tylko wtedy, gdy gracz znajduje siê w bazie w³asnej frakcji. Bêdzie to mia³o wiêkszy wp³yw na niektóre frakcje.\n
 		</text>
 	</string>
 
-	<string id="ui_mcm_fftd_gen_custom_fare">
-		<text>Dostosuj wyœwietlany tekst taryfy</text>
+	<string id="ui_mcm_lst_fft_zonetravel_any">
+		<text>Wy³¹czone</text>
 	</string>
 
-	<string id="ui_mcm_fftd_gen_custom_fare_desc">
-		<text>Umo¿liwia dostosowanie formatu, w jakim wyœwietlana jest cena, gdy istnieje koszt podró¿y. Mo¿esz u¿yæ wszystkich tych samych tokenów, co w opcji menu kontekstowego, z wyj¹tkiem $distdur i $farestr.</text>
+	<string id="ui_mcm_lst_fft_zonetravel_friend">
+		<text>Przyjazne</text>
 	</string>
 
-	<string id="ui_mcm_fftd_gen_custom_distdur">
-		<text>Dostosuj tekst odleg³oœci i czasu trwania</text>
+	<string id="ui_mcm_lst_fft_zonetravel_ally">
+		<text>W³asna frakcja</text>
 	</string>
 
-	<string id="ui_mcm_fftd_gen_custom_distdur_desc">
-		<text>Umo¿liwia dostosowanie formatu wyœwietlania odleg³oœci i czasu trwania podró¿y, gdy opcja ta jest w³¹czona. Mo¿na u¿yæ wszystkich tych samych tokenów, co w opcji menu kontekstowego, z wyj¹tkiem $distdur i $farestr.</text>
+	<string id="ui_mcm_fftd_gen_zones_use_disguises">
+		<text>Gracz mo¿e korzystaæ z baz wrogich frakcji, gdy jest w przebraniu</text>
 	</string>
--->
+
+	<string id="ui_mcm_fftd_gen_zones_use_disguises_desc">
+		<text>Jeœli opcja "podró¿uj tylko z baz frakcji" jest w³¹czona, w³¹czenie tej opcji pozwoli równie¿ graczom nosz¹cym odpowiednie przebranie na szybkie podró¿owanie z baz nieprzyjaznych frakcji. Bez tej opcji, noszenie przebrania nie bêdzie mia³o wp³ywu na umo¿liwienie szybkiej podró¿y.</text>
+	</string>
+
+<!-- Added in 2.9 -->
+
+    <string id="st_fft_costfree">
+        <text>Za darmo</text>
+    </string>
+
+	<string id="ui_mcm_fftd_gen_show_zone_status_icon">
+		<text>Poka¿ ikonê statusu, gdy znajdujesz siê w strefie "szybkiej podró¿y"</text>.
+	</string>
+
+	<string id="ui_mcm_fftd_gen_show_zone_status_icon_desc">
+		<text>Gdy to ustawienie jest w³¹czone, unikalna ikona pojawia siê w normalnym obszarze wskaŸnika stanu, gdy gracz znajduje siê w strefie szybkiego ruchu, która jest wa¿na dla gracza. To ustawienie jest bez znaczenia, jeœli nie ograniczysz rozpoczêcia podró¿y do baz frakcji.
+		Do wyboru s¹ trzy style - jeden vanillowy i dwa, które powinny pasowaæ do stylu alternatywnego zestawu ikon (czarno-bia³y i kolorowy).</text>
+	</string>
+
+	<string id="ui_mcm_fft_campfire_base">
+		<text>Ogniska obozowe s¹ uwa¿ane za bazy frakcji</text>
+	</string>
+
+	<string id="ui_mcm_fft_campfire_base_desc">
+		<text>Jeœli w³¹czone, przebywanie w promieniu 5 metrów od zapalonego ogniska jest uwa¿ane za przebywanie w bazie frakcji dla celów szybkiej podró¿y.</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_disabled">
+		<text>Wy³¹czone</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_vanilla">
+		<text>Vanilla</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_altbw">
+		<text>Alternatywne ikony [cz./bia³.]</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_altcolor">
+		<text>Alternatywne ikony [kolorowe]</text>
+	</string>
+
+	<string id="ui_mcm_fft_camp_mode">
+		<text>Ogniska to miejsca do szybkiego podró¿owania</text>
+	</string>
+
+	<string id="ui_mcm_fft_camp_mode_desc">
+		<text>Jeœli w³¹czone, pozwala na u¿ywanie ognisk jako miejsc docelowych szybkiej podró¿y:\n
+			Dowolne: ka¿de znane ognisko mo¿e byæ u¿yte jako cel szybkiej podró¿y.\n
+			Rozpalone: ognisko musi byæ zapalone, aby mog³o byæ u¿yte jako cel szybkiej podró¿y.\n
+			Ogniska nie s¹ wyœwietlane na mapie w vanilli, wiêc dodatek taki jak Haruka's Display Campfires on Map (zawarty w GAMMA) jest wymagany, aby u¿ywaæ ich jako miejsc docelowych szybkiej podró¿y:\n
+			https://www.moddb.com/mods/stalker-anomaly/addons/displaycampfiresonmap
+		</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_campmode_dis">
+		<text>Wy³¹czone</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_campmode_any">
+		<text>Dowolne</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_campmode_lit">
+		<text>Rozpalone</text>
+	</string>
+
+	<string id="st_fft_campfire">
+		<text>Ognisko</text>
+	</string>
+
+<!-- Added in 2.10 -->
+
+	<string id="ui_mcm_fftd_gen_squad_local_travel">
+		<text>Teleport towarzyszy dla podró¿y lokalnych.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_squad_local_travel_desc">
+		<text>Vanilla Anomaly zostawia towarzyszy gracza w tyle podczas podró¿y w obrêbie tej samej mapy. Jeœli opcja ta jest w³¹czona, Fair Fast Travel spróbuje teleportowaæ wszystkich towarzyszy tak, aby podró¿owali razem z graczem. Nale¿y pamiêtaæ, ¿e ze wzglêdu na ograniczenia silnika zwi¹zane z teleportacj¹ NPC, nie zawsze dzia³a to niezawodnie. Nie jest to kwestia dodatku.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_squad_tp_bind">
+		<text>Teleportuj oddzia³ do pozycji gracza</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_squad_tp_bind_desc">
+		<text>Fair Fast Travel spróbuje sprowadziæ towarzyszy do bie¿¹cej lokacji. Dzieje siê to automatycznie z lokaln¹ szybk¹ podró¿¹, jeœli opcja jest w³¹czona, ale mo¿esz rêcznie teleportowaæ ich do siebie. Nie uratowani zak³adnicy i towarzysze, którym nakazano czekaæ, nie zostan¹ teleportowani.</text>
+	</string>
+
+<!-- Added in 2.14 -->
+
+	<string id="ui_mcm_fftd_gen_psyblock_mapspots">
+		<text>Zablokowane miejsca docelowe maj¹ inne ikony</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_psyblock_mapspots_desc">
+		<text>Jeœli szybka podró¿ jest zablokowana do okreœlonego miejsca docelowego z powodu wci¹¿ aktywnego Mózgozwêglacza (lub z jakiegokolwiek innego powodu), ikona u¿ywana przez punkt szybkiej podró¿y zmieni siê, aby to odzwierciedliæ.</text>
+	</string>
+
+<!-- Added in 2.15 -->
+
+	<string id="encyclopedia_addons">
+		<text>Dodatki</text>
+	</string>
+
+	<string id="encyclopedia_addons_fair_fast_travel">
+		<text>Sprawiedliwa szybka podró¿</text>
+	</string>
+
+	<string id="encyclopedia_addons_fair_fast_travel_text">
+		<text>
+			%c[pda_white]Omówienie: %c[255,0,200,220]https://www.youtube.com/watch?v=lzywMbXErVo\n
+			%c[ui_gray_1]
+			\n%c[pda_yellow]Sprawiedliwa szybka podró¿%c[ui_gray_1] to kompleksowe ulepszenie systemu szybkiej podró¿y i podró¿y do plecaka w Anomaly. Daje ci ca³kowit¹ kontrolê nad tym, jak zachowuje siê podró¿ w twojej grze, pozwalaj¹c ci uczyniæ j¹ tak restrykcyjn¹ lub tak ³agodn¹, jak chcesz.\n 
+
+			\nKa¿d¹ funkcjê mo¿na dostosowaæ do w³asnych upodobañ w menu MCM. Nie chcesz, aby jakikolwiek typ podró¿y mia³ koszt? Ustaw koszt za metr na zero. Chcesz, abyœ móg³ szybko podró¿owaæ tylko do i od rozpalonych ognisk? Mo¿esz to zrobiæ! %c[pda_white]Jeœli coœ ci siê nie podoba, sprawdŸ najpierw MCM!\n
+
+			\n%c[pda_white]Z %c[pda_yellow]MCM > Sprawiedliwa szybka podró¿%c[pda_white]:\n
+			%c[pda_yellow]Ogólne%c[pda_white]: Ustawienia wp³ywaj¹ce na interfejs u¿ytkownika lub maj¹ce zastosowanie do wszystkich typów podró¿y\n
+			%c[pda_yellow]Szybka podró¿%c[pda_white]: Ustawienia typu podró¿y, tylko dla opcji u¿ywaj¹cych dok³adnych s³ów „szybka podró¿”\n
+			%c[pda_yellow]Podró¿ do plecaka%c[pda_white]: Ustawienia typu podró¿y, stosowane tylko podczas podró¿y do schowka stworzonego z plecaka\n
+			%c[pda_yellow]Podró¿ z przewodnikiem%c[pda_white]: Ustawienia typu podró¿y maj¹ zastosowanie tylko do podró¿y zainicjowanych z przewodnikami NPC, zarówno z PDA, jak i (z zainstalowanym Guide Travel Overhaul) osobiœcie\n \n
+
+			%c[pda_red]Nadal masz problemy? Przewiñ w dó³, aby uzyskaæ informacje na temat rozwi¹zania.\n
+			%c[ui_gray_1]
+			\n%c[pda_green]LISTA FUNKCJI\n
+			%c[pda_yellow]• Lepsze czasy podró¿y%c[ui_gray_1]
+			\nDomyœlnie podró¿owanie w obrêbie tej samej lokacji zajmuje 10 minut na ka¿de 100 metrów odleg³oœci (konfigurowalne w MCM) i - w przeciwieñstwie do vanillowej Anomaly - nie ma elementu losowego. Jest to w przybli¿eniu równe czasowi, jaki zajê³oby pokonanie tej samej odleg³oœci z normaln¹ prêdkoœci¹ chodzenia postaci w grze - zak³ada, ¿e nie biegniesz sprintem, ani nie jesteœ nadmiernie opóŸniony. Podró¿ na inne lokacje wykorzystuje tê sam¹ formu³ê, ale mo¿na j¹ dostosowaæ osobno.\n \n
+
+			%c[pda_yellow]• Lepsze UI menu kontekstowego%c[ui_gray_1]
+			\nPo klikniêciu PPM na ikony na mapie, opcja szybkiej podró¿y bêdzie teraz równie¿ informowaæ o tym, jak daleko siê znajduje i ile czasu zajmie dotarcie na miejsce oraz (jeœli dotyczy) ile bêdzie to kosztowaæ.\n \n
+
+			%c[pda_yellow]• Podró¿ z przewodnikiem z mapy w PDA%c[ui_gray_1]
+			\nZona jest pe³na doœwiadczonych przewodników wszystkich frakcji, którzy s¹ gotowi nieœæ twoje ³upy lub przyjœæ ci z pomoc¹ - oczywiœcie za odpowiedni¹ op³at¹. Teraz mo¿esz ich wynaj¹æ, klikaj¹c prawym przyciskiem myszy na mapie, aby przejœæ do dowolnego wa¿nego punktu szybkiej podró¿y. Zak³ada siê, ¿e wynajêci przewodnicy zabior¹ ze sob¹ prowiant na podró¿, a twoje statystyki przetrwania zostan¹ wstrzymane podczas podró¿y. Co wiêcej, podró¿ z przewodnikiem zignoruje zasady „ranny” i „przeci¹zony”, jeœli s¹ one w³¹czone w podstawowych ustawieniach Anomaly.\n \n
+
+			%c[pda_yellow]• NPC Guide Travel Overhaul%c[ui_gray_1]
+			\nJeœli zainstalowa³eœ tê opcjê, przewodnicy NPC zostali ca³kowicie przerobieni, aby dostosowaæ ich do reszty systemu szybkiej podró¿y - z takimi szczegó³ami, jak czas trwania i koszt w pe³ni zarz¹dzany przez Sprawiedliw¹ szybk¹ podró¿. Podró¿owanie z wynajêtym przewodnikiem NPC trwa teraz tyle samo czasu, co ka¿da inna szybka podró¿ i jest zgodne ze wszystkimi ustawieniami podró¿y z przewodnikiem - w tym wstrzymywaniem statystyk przetrwania.\n \n
+
+			%c[pda_yellow]• Opcjonalne pogarszanie siê stanu wyposa¿enia%c[ui_gray_1]
+			\nNiezale¿nie od tego, czy chodzi o zab³¹kan¹ kulê, czy fakt, ¿e musia³eœ j¹ wystrzeliæ, wiêkszoœæ podró¿y w Zonie pozostawia œlad na twoim sprzêcie w postaci normalnego zu¿ycia. Jeœli chcesz, SSP (Sprawiedliwa szybka podró¿) pozwala to symulowaæ, stosuj¹c konfigurowaln¹ iloœæ utraty kondycji do wyposa¿onych przedmiotów, z oddzielnymi wartoœciami dla ka¿dego typu podró¿y. Ustawienie jej na zero wy³¹czy tê funkcjê i podobnie jak wszystko inne, mo¿na j¹ skonfigurowaæ w MCM.\n \n
+
+			%c[pda_yellow]• Konfigurowalny czas odnowienia%c[ui_gray_1]
+			\nKa¿dy z trzech typów szybkiej podró¿y mo¿na teraz skonfigurowaæ z czasem odnowienia do dwóch godzin przed ponownym u¿yciem tego typu podró¿y. Pozosta³y czas bêdzie zawsze wyœwietlany w opcji menu kontekstowego. Ka¿dy typ podró¿y mo¿e mieæ swój w³asny czas odnowienia lub mo¿na po³¹czyæ je wszystkie, aby po uruchomieniu jednego czasu odnowienia wszystkie zosta³y uruchomione. Oczywiœcie wszystkie czasy odnowienia s¹ opcjonalne - i domyœlnie wy³¹czone.\n \n
+
+			%c[pda_yellow]• Ogranicz podró¿ tylko do zaprzyjaŸnionych baz%c[ui_gray_1]
+			\nTa opcjonalna funkcja mo¿e oddzielnie ograniczaæ ka¿dy typ podró¿y, tak aby gracz móg³ zainicjowaæ podró¿ tylko wtedy, gdy znajduje siê w przyjaznej bazie. Pozwala to zachowaæ QoL szybkiej podró¿y, jednoczeœnie uniemo¿liwiaj¹c graczowi tanie teleportowanie siê z pól anomalii lub innych niebezpieczeñstw. Wszystko jest konfigurowalne, w tym to, czy odpowiednie przebranie frakcji „oszuka” tê funkcjê.\n \n
+
+			%c[pda_yellow]• Opcje podró¿y do ognisk i wskaŸnik podró¿y%c[ui_gray_1]
+			\nOgniska mog¹ byæ opcjonalnie u¿ywane jako miejsca docelowe szybkiej podró¿y. Domyœlnie opcja ta jest w³¹czona tylko w przypadku podró¿y z przewodnikiem, aby odzwierciedliæ wartoœæ dodan¹ znajomoœci lokalnych tras przez przewodnika. Jeœli u¿ywasz opcji, która ogranicza szybk¹ podró¿ tylko do baz, mo¿esz teraz opcjonalnie wybraæ, aby zapalone ogniska liczy³y siê równie¿ jako przyjazne bazy do celów podró¿y. Po zainstalowaniu, funkcja ta ma równie¿ opcjonalny wskaŸnik stanu, który poka¿e, kiedy aktualnie znajdujesz siê w wa¿nej strefie podró¿y.\n \n
+
+			%c[pda_yellow]• Ograniczenie podró¿y na pó³noc postêpem fabu³y%c[ui_gray_1]
+			\nJeœli grasz jako wiêkszoœæ frakcji w trybie fabularnym, a Mózgozwêglacz nie zosta³ jeszcze wy³¹czony, niektóre œcie¿ki przewodników i szybkiej podró¿y bêd¹ niedostêpne, dopóki nie wy³¹czysz "zabawek naukowych" Monolitu. Oczywiœcie, jak wszystko inne, mo¿na to wy³¹czyæ w MCM.\n \n
+
+			%c[pda_yellow]• Odfiltowywanie debugowanych mapspotów%c[ui_gray_1]
+			\nWielu z nas gra w Anomaly w trybie debugowania w celu rozwi¹zywania problemów, ale gra w tym trybie umo¿liwia nieograniczon¹ szybk¹ podró¿ do dowolnej widocznej ikony mapy - nawet do rzeczy takich jak przejœcia miêdzy lokacjami lub handlarze, którzy nie powinni byæ celami podró¿y, czêsto powoduj¹c wypadki, takie jak teleportacja za Barmana lub do niew³aœciwej ikony. Domyœlnie SSP (z ang. FFT) odfiltrowuje wszystkie te nieprawid³owe mapspoty, gdy w³¹czony jest tryb debugowania - ale jeœli naprawdê chcesz je mieæ, istnieje opcja w MCM, aby je ponownie w³¹czyæ.\n \n
+
+			%c[pda_yellow]• Lepsza detekcja walki%c[ui_gray_1]
+			\nDecyduj¹c o tym, czy jesteœ w walce do celów podró¿y, SSP korzysta z listy postaci niezale¿nych Anomaly w walce, ale odfiltrowuje wszystkie, które znajduj¹ siê w odleg³oœci wiêkszej ni¿ 100 metrów lub które nie widzia³y ciê w ci¹gu ostatnich dziesiêciu sekund.\n \n
+
+			%c[pda_yellow]• Integracja z systemem umiejêtnoœci%c[ui_gray_1]
+			\nJeœli posiadasz %c[pda_white]System umiejêtnoœci by Haruka%c[ui_gray_1] lub jeden z dodatków rozszerzaj¹cych opartych na nim, mo¿esz opcjonalnie wybraæ, aby Szybka podró¿ dostosowywa³a wszystkie czasy podró¿y w oparciu o modyfikator z umiejêtnoœci "Wytrzyma³oœæ".\n \n
+
+			%c[pda_yellow]• Podró¿ do pinezek z Personal Adjustable Waypoint%c[ui_gray_1]
+			\nJeœli korzystasz z %c[pda_white]Personal Adjustable Waypoint (PAW)%c[ui_gray_1], mo¿esz teraz opcjonalnie zezwoliæ na szybk¹ podró¿ do Szybkich pinezek, które umieœci³eœ w œwiecie, umo¿liwiaj¹c ustawienie niestandardowych punktów szybkiej podró¿y praktycznie wszêdzie, gdzie da siê dotrzeæ!\n \n
+
+			%c[pda_yellow]• Wsparcie dodatku Western Goods%c[ui_gray_1]
+			\nNajnowsza wersja dodatku %c[pda_white]Western Goods%c[ui_gray_1] zawiera funkcjê dynamicznego przewodnika, która dodaje kilka nowych przewodników i umo¿liwia ³atwe dodawanie kolejnych. Sprawiedliwa szybka podró¿ jest kompatybilna z t¹ funkcj¹ od razu po dodaniu, bez koniecznoœci dokonywania ustawieñ lub instalacji. Przewodnicy z Western Goods bêd¹ obliczaæ i pokazywaæ odleg³oœæ i czas podró¿y, tak jak wszyscy inni.\n \n
+
+			%c[pda_yellow]• Poprawki systemu przebrañ%c[ui_gray_1]
+			\nSSP naprawia b³¹d vanillowej Anomaly, który powodowa³ ujawnienie przebrania, jeœli u¿ywa³eœ szybkiej podró¿y przed NPC z w³¹czon¹ opcj¹ „uwzglêdniaj czas spêdzony w pobli¿u NPC”.\n \n
+			
+			--------------------------------------------------------------------------------\n \n
+			
+			%c[pda_red]Q: %c[pda_white]Dlaczego wyskakuje mi informacja o „potê¿nym polu psionicznym”, gdy próbujê klikn¹æ prawym przyciskiem myszy niektóre miejsca docelowe?\n
+			%c[pda_green]A: %c[pda_white]Poniewa¿ najprawdopodobniej grasz w trybie fabularnym, a Mózgozwêglacz jest nadal aktywny. Mo¿esz wy³¹czyæ tê opcjê w MCM: %c[pda_yellow]Sprawiedliwa szybka podró¿ > Ogólne > Mózgozwêglacz blokuje mo¿liwoœæ podró¿owania\n \n
+
+			%c[pda_red]Q: %c[pda_white]Dlaczego nie mogê u¿yæ szybkiej podró¿y do pinezki, któr¹ umieœci³em za pomoc¹ Personal Adjustable Waypoint?\n
+			%c[pda_green]A: %c[pda_white]Tylko Szybkie pinezki mog¹ byæ u¿ywane jako miejsca docelowe, poniewa¿ mo¿na je umieszczaæ tylko w miejscach, do których gracz mo¿e dotrzeæ. Jeœli jest to szybka pinezka, a nastêpnie podró¿ do pinezki nie jest w³¹czona w MCM dla tego typu podró¿y.\n \n
+
+			%c[pda_red]••• WA¯NE: Aby zg³osiæ b³¹d, nale¿y wykonaæ nastêpuj¹ce czynnoœci: •••\n \n
+			%c[pda_white]1. Wejœæ w %c[pda_yellow]MCM > Sprawiedliwa szybka podró¿ > Ogólne\n
+			%c[pda_white]2. W³¹czyæ %c[pda_yellow]Debugowanie%c[pda_white] i %c[pda_yellow]Bardzo szczegó³owy dziennik debugowania\n
+			%c[pda_white]3. Wyjœæ z gry i j¹ zrestartowaæ\n
+			%c[pda_white]4. Odtworzyæ problem w najprostszy mo¿liwy sposób\n
+			%c[pda_white]5. Skopiowaæ log gry z %c[pda_yellow](Twój folder z czystym Anomaly)\appdata\logs%c[pda_white] i opublikowaæ go gdzieœ w internecie\n \n
+			
+			%c[ui_gray_1]Jeœli tego nie zrobisz, jest ma³o prawdopodobne, ¿e twój dziennik bêdzie zawiera³ informacje, których mo¿e potrzebowaæ autor do rozwi¹zania problemu.\n
+
+			\nOd autora: "Nie otrzymujê powiadomieñ o komentarzach na Moddb, wiêc generalnie najszybsz¹ odpowiedŸ otrzymacie na Discordzie GAMMY, na kanale dyskusyjnym Fair Fast Travel. Niepo¿¹dane wiadomoœci bezpoœrednio do mnie bêd¹ przeze mnie ignorowane."\n
+		</text>
+	</string>
 
 </string_table>

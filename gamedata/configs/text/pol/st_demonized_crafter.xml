@@ -3,7 +3,7 @@
 <string_table>
 
 	<string id="st_demonized_crafter">
-		<text>stwórz</text>
+		<text>Stwórz</text>
 	</string>
 
 	<string id="st_demonized_crafter_craft_success">
@@ -23,11 +23,11 @@
 	</string>
 
 	<string id="st_demonized_crafter_craft_or">
-		<text>LUB</text>
+		<text>lub</text>
 	</string>
 
 	<string id="st_demonized_crafter_craft_all">
-		<text>wszystko</text>
+		<text>Wszystko</text>
 	</string>
 
 	<string id="st_demonized_crafter_craft_check_pda_news">

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-	
 	<string id="ui_mcm_perk_based_artefacts_title">
 		<text>Artefakty oparte na atutach</text>
 	</string>
@@ -15,22 +14,21 @@
 		<text>Włącz spam wiadomości w konsoli</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers">
-		<text>Zezwalaj na artefakty w pojemnikach</text>
+		<text>Zezwalaj na trzymanie artefaktów z atutami w pojemnikach</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_allow_arty_containers_desc">
-		<text>Umożliwia artefaktom z profitami w kontenerach korzystanie z ich profitów. Opisy atutów będą nadal dostępne tylko dla artefaktów bez pojemników.</text>
+		<text>Pozwala na trzymanie artefaktów z atutami w pojemnikach. Opisy atutów będą wtedy dostępne tylko dla artefaktów z atutami, które nie znajdują się w pojemnikach.</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_treasure_chance">
 		<text>Regularność artefaktów w schowkach</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_treasure_chance_desc">
-		<text>Im mniejsza liczba, tym rzadsze artefakty atutowe będą znajdować się w schowkach.</text>
+		<text>Im mniejsza liczba, tym rzadsze artefakty z atutami będą znajdować się w schowkach.</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_timed_degradation">
 		<text>Degradacja stanu</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_timed_degradation_desc">
-		<text>Co 20 sekund artefakty atutowe będą tracić swój stan o ten procent.</text>
+		<text>Co 20 sekund artefakty z atutami będą tracić swój stan o ten procent.</text>
 	</string>
-	
 </string_table>

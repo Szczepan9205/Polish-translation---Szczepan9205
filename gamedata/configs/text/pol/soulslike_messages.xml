@@ -27,7 +27,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_radio_generic">
-        <text>Znajdujesz równie¿ notatkê wyjaœniaj¹c¹, ¿e twój sprzêt znajduje siê w ukrytym schowku i aby go namierzyæ, nale¿y u¿yæ odbiornika RF o czêstotliwoœci %s, który zacznie emitowaæ sygna³ dŸwiêkowy, gdy bêdziesz wystarczaj¹co blisko.</text>
+        <text>Znajdujesz równie¿ notatkê wyjaœniaj¹c¹, ¿e twój sprzêt znajduje siê w ukrytym schowku i aby go namierzyæ, musisz u¿yæ odbiornika RF ustawiaj¹c czêstotliwoœæ %s. Wtedy schowek zacznie emitowaæ sygna³ dŸwiêkowy, gdy znajdziesz siê wystarczaj¹co blisko niego.</text>
     </string>
 
     <string id="st_soulslike_rescuer_pda_generic">
@@ -39,7 +39,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_initial_2">
-        <text>Nie mogê uwierzyæ, ¿e wci¹¿ jesteœ z nami! Tak samo nie mog³em uwierzyæ, ¿e wci¹¿ oddychasz, kiedy ciê znalaz³em.</text>
+        <text>Nie mogê uwierzyæ, ¿e wci¹¿ jesteœ wœród nas! Tak samo nie mog³em uwierzyæ, ¿e wci¹¿ oddychasz, kiedy ciê znalaz³em.</text>
     </string>
 
     <string id="st_soulslike_rescuer_initial_3">
@@ -51,7 +51,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_initial_5">
-        <text>Hej, mam nadziejê, ¿e ju¿ doszed³eœ do siebie. Martwi³em siê, gdy znalaz³em ciê w tak z³ym stanie.</text>
+        <text>Hej, mam nadziejê, ¿e ju¿ doszed³eœ do siebie? Martwi³em siê, gdy znalaz³em ciê w tak kiepskim stanie.</text>
     </string>
 
     <string id="st_soulslike_rescuer_food_1">
@@ -75,23 +75,23 @@
     </string>
 
     <string id="st_soulslike_rescuer_pda_1">
-        <text>Doda³em znacznik, gdzie ciê znalaz³em do twojego PDA. Mam nadziejê, ¿e uda ci siê odzyskaæ czêœæ swoich rzeczy.</text>
+        <text>Doda³em znacznik miejsca, w którym ciê znalaz³em do mapy w twoim PDA. Mam nadziejê, ¿e uda ci siê odzyskaæ czêœæ swoich rzeczy.</text>
     </string>
 
     <string id="st_soulslike_rescuer_pda_2">
-        <text>Doda³em znacznik do twojego PDA, abyœ móg³ odzyskaæ czêœæ swoich rzeczy z miejsca, w którym ciê znalaz³em.</text>
+        <text>Doda³em znacznik miejsca, w którym ciê znalaz³em do mapy w twoim PDA, abyœ móg³ odzyskaæ czêœæ swoich rzeczy z miejsca, w którym ciê znalaz³em.</text>
     </string>
 
     <string id="st_soulslike_rescuer_pda_3">
-        <text>Do twojego PDA zosta³ dodany znacznik, który pomo¿e ci zlokalizowaæ miejsce, w którym zosta³eœ znaleziony, w nadziei, ¿e uda ci siê odzyskaæ czêœæ utraconych przedmiotów.</text>
+        <text>Do mapy w twoim PDA zosta³ dodany znacznik, który pomo¿e ci zlokalizowaæ miejsce, w którym zosta³eœ znaleziony, w nadziei, ¿e uda ci siê odzyskaæ czêœæ utraconych przedmiotów.</text>
     </string>
 
     <string id="st_soulslike_rescuer_pda_4">
-        <text>Na swoim PDA masz teraz znacznik wskazuj¹cy lokalizacjê, w której ciê znalaz³em, co mo¿e pomóc ci odzyskaæ niektóre z twoich rzeczy.</text>
+        <text>Na mapie w swoim PDA masz teraz znacznik wskazuj¹cy lokalizacjê, w której ciê znalaz³em, co mo¿e pomóc ci odzyskaæ niektóre z twoich rzeczy.</text>
     </string>
 
     <string id="st_soulslike_rescuer_pda_5">
-        <text>Aby pomóc ci odzyskaæ czêœæ twoich rzeczy, doda³em do twojego PDA znacznik wskazuj¹cy lokalizacjê, w której ciê znalaz³em.</text>
+        <text>Aby pomóc ci odzyskaæ czêœæ twoich rzeczy, doda³em do mapy w twoim PDA znacznik wskazuj¹cy miejsce, w którym ciê znalaz³em.</text>
     </string>
 
     <string id="st_soulslike_rescuer_used_items_1">
@@ -99,7 +99,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_used_items_2">
-        <text>Aby uratowaæ ci ¿ycie, musia³em u¿yæ niektórych przedmiotów, które mia³eœ przy sobie.</text>
+        <text>Aby uratowaæ ci ¿ycie, musia³em u¿yæ niektórych rzeczy, które mia³eœ przy sobie.</text>
     </string>
 
     <string id="st_soulslike_rescuer_used_items_3">
@@ -115,7 +115,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_stay_safe_1">
-        <text>B¹dŸ bezpieczny, Stalkerze.</text>
+        <text>Uwa¿aj na siebie, stalkerze.</text>
     </string>
 
     <string id="st_soulslike_rescuer_stay_safe_2">
@@ -127,7 +127,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_stay_safe_4">
-        <text>Uwa¿aj na siebie, stalkerze.</text>
+        <text>Trzymaj siê, stalkerze.</text>
     </string>
 
     <string id="st_soulslike_rescuer_stay_safe_5">
@@ -135,7 +135,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_enemy_tarkov_looter_1">
-        <text>Jak tylko natkn¹³em siê na ciebie, zauwa¿y³em %s, który nazywa siê %s, majstruj¹cego przy twojej broni. Wygl¹da³o na to, ¿e coœ z niej wyjmowa³. Na szczêœcie uda³o mi siê go odstraszyæ, ale sprawdŸ swój sprzêt, gdy go odzyskasz.</text>
+        <text>Jak tylko natkn¹³em siê na ciebie, zauwa¿y³em %s, którego wo³aj¹ %s, majstruj¹cego przy twojej broni. Wygl¹da³o na to, ¿e coœ z niej wyjmowa³. Na szczêœcie uda³o mi siê go odstraszyæ, ale sprawdŸ swój sprzêt, gdy go odzyskasz.</text>
     </string>
 
     <string id="st_soulslike_rescuer_enemy_tarkov_looter_2">
@@ -151,7 +151,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_enemy_tarkov_looter_5">
-        <text>W momencie, w którym ciê znalaz³em, by³em œwiadkiem, jak typ o pseudonimie %s majstrowa³ przy twojej broni. Widzia³em, jak coœ z niej wyjmuje. Chocia¿ uda³o mi siê go odstraszyæ, upewnij siê, ¿e dok³adnie sprawdzi³eœ swój sprzêt, gdy go odzyskasz.</text>
+        <text>W momencie, w którym ciê znalaz³em, by³em œwiadkiem, jak typ o ksywce %s majstrowa³ przy twojej broni. Widzia³em, jak coœ z niej wyjmuje. Chocia¿ uda³o mi siê go odstraszyæ, upewnij siê, ¿e dok³adnie sprawdzi³eœ swój sprzêt, gdy go odzyskasz.</text>
     </string>
 
     <string id="st_soulslike_rescuer_enemy_looter_1">
@@ -175,7 +175,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_radio_freq_1">
-        <text>Twój ekwipunek zosta³ pozostawiony bez opieki, wiêc wróci³em i ukry³em go, aby by³ bezpieczny. Jeœli chcesz go znaleŸæ, u¿yj odbiornika RF i ustaw czêstotliwoœæ na %s. Gdy zbli¿ysz siê wystarczaj¹co blisko, urz¹dzenie zacznie emitowaæ sygna³ dŸwiêkowy. Zostawi³em ci równie¿ notatkê w kieszeni z czêstotliwoœci¹, na wypadek gdybyœ zapomnia³.</text>
+        <text>Twój ekwipunek zosta³ bez opieki, wiêc wróci³em i ukry³em go, aby by³ bezpieczny. Jeœli chcesz go znaleŸæ, u¿yj odbiornika RF i ustaw czêstotliwoœæ na %s. Gdy zbli¿ysz siê wystarczaj¹co blisko, urz¹dzenie zacznie emitowaæ sygna³ dŸwiêkowy. Zostawi³em ci równie¿ notatkê w kieszeni z czêstotliwoœci¹, na wypadek gdybyœ zapomnia³.</text>
     </string>
 
     <string id="st_soulslike_rescuer_radio_freq_2">
@@ -195,23 +195,23 @@
     </string>
 
     <string id="st_soulslike_hidden_stash_1">
-        <text>Twoje rzeczy s¹ schowane w ukrytym miejscu, które zaznaczy³em w twoim PDA.</text>
+        <text>Twoje rzeczy s¹ schowane w ukrytym miejscu, które zaznaczy³em na mapie w twoim PDA.</text>
     </string>
 
     <string id="st_soulslike_hidden_stash_2">
-        <text>Ukry³em twoje rzeczy w bezpiecznym schowku i oznaczy³em jego lokalizacjê w twoim PDA.</text>
+        <text>Ukry³em twoje rzeczy w bezpiecznym schowku i oznaczy³em jego lokalizacjê na mapie w twoim PDA.</text>
     </string>
 
     <string id="st_soulslike_hidden_stash_3">
-        <text>Ukry³em twoje rzeczy w sekretnym miejscu i oznaczy³em jego lokalizacjê w twoim PDA.</text>
+        <text>Ukry³em twoje rzeczy w sekretnym miejscu i oznaczy³em jego lokalizacjê na mapie w twoim PDA.</text>
     </string>
 
     <string id="st_soulslike_hidden_stash_4">
-        <text>Twoje rzeczy s¹ bezpiecznie schowane w schowku, który zaznaczy³em w twoim PDA.</text>
+        <text>Twoje rzeczy s¹ bezpiecznie schowane w schowku, który zaznaczy³em na mapie w twoim PDA.</text>
     </string>
 
     <string id="st_soulslike_hidden_stash_5">
-        <text>Ukry³em twoje przedmioty w dyskretnym schowku i oznaczy³em jego lokalizacjê w twoim PDA - tak dla bezpieczeñstwa.</text>
+        <text>Ukry³em twoje przedmioty w dyskretnym schowku i oznaczy³em jego lokalizacjê na mapie w twoim PDA - tak dla bezpieczeñstwa.</text>
     </string>
 
     <string id="st_soulslike_rescuer_indoor_1">
@@ -223,7 +223,7 @@
     </string>
 
     <string id="st_soulslike_rescuer_indoor_3">
-        <text>Hej, szczêœciarzu! Jestem zdumiony, ¿e uda³o ci siê dostaæ do %s. Dziêki Bogu, ¿e siê na ciebie natknêliœmy! Wraz z kilkoma innymi stalkerami po³¹czyliœmy si³y, by uratowaæ ciebie i twój ekwipunek i ju¿ wszystko za³atwiliœmy.</text>
+        <text>Hej, szczêœciarzu! Jestem zdumiony, ¿e uda³o ci siê dostaæ do %s. Dziêki Bogu, ¿e siê na ciebie natknêliœmy! Wraz z kilkoma innymi stalkerami po³¹czyliœmy si³y, by uratowaæ ciebie i twój ekwipunek. Ju¿ wszystko za³atwione.</text>
     </string>
 
     <string id="st_soulslike_rescuer_indoor_4">

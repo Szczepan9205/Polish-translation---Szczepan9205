@@ -152,7 +152,7 @@
 	<string id="st_prt_i_triggermechanism_descr">
 		<text>Mechanizm spustowy i elementy do jego monta¿u pochodz¹ce z nieznanej broni. Wiêkszoœæ systemów spustu jest do siebie bardzo podobna, ten równie¿ pewnie mo¿na spi³owaæ tak, by pasowa³ do niemal ka¿dej broni.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] materia³ podstawowy\n
+		%c[d_cyan] • %c[ui_gray_2] Materia³ podstawowy\n
 		</text>
 	</string>
 	
@@ -162,7 +162,7 @@
 	<string id="st_prt_i_spring_descr">
 		<text>Niewielka sprê¿yna pochodz¹ca z mechanizmu spustowego, lub innego mechanizmu broni. Prawdopodobnie mo¿na jej u¿yæ do wymiany prawie ka¿dej uszkodzonej sprê¿yny.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] materia³ podstawowy\n
+		%c[d_cyan] • %c[ui_gray_2] Materia³ podstawowy\n
 		</text>
 	</string>
 	
@@ -172,7 +172,7 @@
 	<string id="st_prt_i_pistolgrip_descr">
 		<text>Rêkojeœæ pochodz¹ca z nieznanej broni. Gumowany uchwyt prawdopodobnie mo¿na dopasowaæ do niemal ka¿dej broni.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] materia³ podstawowy\n
+		%c[d_cyan] • %c[ui_gray_2] Materia³ podstawowy\n
 		</text>
 	</string>
 
@@ -467,10 +467,10 @@
 	</string>
 
 	<string id="st_bolt_carrier_6">
-		<text>Mechanizmy ryglowy</text>
+		<text>Mechanizm ryglowy</text>
 	</string>
 	<string id="st_bolt_carrier_6_descr">
-		<text>Mechanizmy ryglowy.\n \n
+		<text>Mechanizm ryglowy.\n \n
 		</text>
 	</string>
 

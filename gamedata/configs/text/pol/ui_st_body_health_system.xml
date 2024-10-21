@@ -17,7 +17,7 @@
 		<text>Zmiana tekstu HUD</text>
 	</string>
 	<string id="ui_mcm_body_health_system_TEXT_BASED_PATCH_desc">
-		<text>Wersja tekstowa HUD (Ponowne uruchomienie wymagane).</text>
+		<text>Wersja tekstowa HUD (WYMAGA RESTARTU).</text>
 	</string>
 
 	<string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE">
@@ -30,43 +30,43 @@
 		<text>Nowe dŸwiêki urazów</text>
 	</string>
 	<string id="ui_mcm_body_health_system_new_voice_sounds_desc">
-		<text>W³¹czenie tej opcji aktywuje nowe dŸwiêki podczas sprintu z uszkodzonymi nogami. Wy³¹czenie przywraca domyœlne.</text>
+		<text>W³¹czenie tej opcji aktywuje nowe dŸwiêki podczas sprintu ze zranionymi nogami. Wy³¹czenie przywraca dŸwiêki domyœlne.</text>
 	</string>
 	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp">
 		<text>Minimalny stan zdrowia nóg przed w³¹czeniem efektu ko³ysania siê kamery</text>
 	</string>
 	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp_desc">
-		<text>Stan zdrowia przynajmniej jednej z nóg musi spaœæ poni¿ej tego poziomu, aby pojawi³ siê efekt kontuzji. Suwak domyœlnie ustawiony na 5 oznacza, ze efekt pojawi siê po spadku stanu zdrowia koñczyny do 4 lub mniej. (Kara do szybkoœci poruszania siê nadal bêdzie aktywna)</text>
+		<text>Stan zdrowia przynajmniej jednej z nóg musi spaœæ poni¿ej tego poziomu, aby pojawi³ siê efekt kontuzji. Suwak domyœlnie ustawiony na 5 oznacza, ¿e efekt pojawi siê po spadku stanu zdrowia koñczyny do 4 lub mniej (kara do szybkoœci poruszania siê nadal bêdzie aktywna).</text>
 	</string>
 	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp">
 		<text>Minimalny stan zdrowia nóg przed otrzymaniem obra¿eñ podczas biegu</text>
 	</string>
 	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp_desc">
-		<text>Sprint z uszkodzonymi nogami mo¿e spowodowaæ dalsz¹ utratê zdrowia. Suwak definiuje minimalny stan zdrowia nóg zanim pojawi siê efekt urazu. (Ustawienie na -1 wy³¹cza te funkcje)</text>
+		<text>Sprint ze zranionymi nogami mo¿e powodowaæ dalsz¹ utratê zdrowia. Suwak definiuje minimalny stan zdrowia nóg zanim pojawi siê efekt urazu (ustawienie na -1 wy³¹cza t¹ funkcjê).</text>
 	</string>
 	<string id="ui_mcm_body_health_system_leg_animation_power">
 		<text>Intensywnoœæ efektów kamery urazu nóg</text>
 	</string>
 	<string id="ui_mcm_body_health_system_leg_animation_power_desc">
-		<text>Mno¿nik intensywnoœci efektu ko³ysania siê kamery podczas biegu z uszkodzonymi nogami. Domyœlnie: 1.0.</text>
+		<text>Mno¿nik intensywnoœci efektu ko³ysania siê kamery podczas biegu ze zranionymi nogami. Domyœlnie: 1.0.</text>
 	</string>
 	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp">
 		<text>Minimalny stan zdrowia ramion przed w³¹czeniem efektu ko³ysania siê kamery</text>
 	</string>
 	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp_desc">
-		<text>Sumaryczny stan zdrowia ramion musi spaœæ poni¿ej tego poziomu, ¿eby pojawi³ siê efekt urazu. Domyœlne ustawienie suwana na 10 oznacza, ze efektu uraz pojawi siê jeœli stan zdrowia ramion spadnie poni¿ej 10P¯.</text>
+		<text>Sumaryczny stan zdrowia ramion musi spaœæ poni¿ej tego poziomu, ¿eby pojawi³ siê efekt urazu. Domyœlne ustawiona wartoœæ czyli 10 oznacza, ¿e efekt urazu pojawi siê jeœli stan zdrowia ramion spadnie poni¿ej 10P¯.</text>
 	</string>
 	<string id="ui_mcm_body_health_system_arm_animation_power">
 		<text>Intensywnoœæ efektów kamery urazu ramion</text>
 	</string>
 	<string id="ui_mcm_body_health_system_arm_animation_power_desc">
-		<text>Mno¿nik intensywnoœci  efektów urazu ramion. Domyœlnie: 1.0.</text>
+		<text>Mno¿nik intensywnoœci efektów urazu ramion. Domyœlnie: 1.0.</text>
 	</string>
 	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp">
 		<text>Minimalne stan zdrowia g³owy przed w³¹czeniem siê efektu urazu</text>
 	</string>
 	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp_desc">
-		<text>Obra¿enia, które trzeba ponieœæ ¿eby wyœwietli³ siê efekt urazu g³owy. Ustawienie suwaka na 2 spowoduje, ¿e uraz g³owy musi przekraczaæ 2PZ aby wyœwietli³ siê efekt urazu.</text>
+		<text>Obra¿enia, które trzeba ponieœæ ¿eby wyœwietli³ siê efekt urazu g³owy. Ustawienie suwaka na 2 spowoduje, ¿e uraz g³owy musi przekraczaæ 2P¯, aby wyœwietli³ siê efekt urazu.</text>
 	</string>
 	<string id="ui_mcm_body_health_system_head_animation_power">
 		<text>Intensywnoœæ efektów urazu g³owy</text>

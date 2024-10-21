@@ -2,76 +2,76 @@
 <string_table>
 	<!-- Sorter -->
 	<string id="st_gamma_recipe_basic_1">
-		<text>Przewodnik przetrwania Vol. 1</text>
+		<text>Przewodnik przetrwania Tom. 1</text>
 	</string>
     <string id="st_gamma_recipe_basic_1_descr">
 		<text>Zawiera wskazówki dotycz¹ce przetrwania w nieprzyjaznym œrodowisku, a tak¿e przepisy na tworzenie podstawowych przedmiotów zwi¹zanych z przetrwaniem, takich jak plecaki, p³yty kevlarowe, mocowania do pasów, zestawy do gotowania, namioty i œpiwory.</text>
 	</string>
 	<string id="st_gamma_recipe_advanced_1">
-		<text>Przewodnik przetrwania Vol. 2</text>
+		<text>Przewodnik przetrwania Tom. 2</text>
 	</string>
     <string id="st_gamma_recipe_advanced_1_descr">
 		<text>Zawiera wskazówki dotycz¹ce przetrwania w nieprzyjaznym œrodowisku, a tak¿e przepisy na tworzenie zaawansowanych przedmiotów zwi¹zanych z przetrwaniem, takich jak plecaki, p³yty kevlarowe, mocowania do pasów, zestawy do gotowania, namioty i œpiwory.</text>
 	</string>	
 	<string id="st_gamma_recipe_expert_1">
-		<text>Przewodnik przetrwania Vol. 3</text>
+		<text>Przewodnik przetrwania Tom. 3</text>
 	</string>
     <string id="st_gamma_recipe_expert_1_descr">
 		<text>Zawiera wskazówki dotycz¹ce przetrwania w nieprzyjaznym œrodowisku, a tak¿e przepisy na tworzenie przedmiotów zwi¹zanych z przetrwaniem, takich jak plecaki, p³yty kevlarowe, mocowania do pasów, zestawy do gotowania, namioty i œpiwory.</text>
 	</string>		
 
 	<string id="st_gamma_recipe_basic_2">
-		<text>Podrêcznik elektroniki Vol. 1</text>
+		<text>Podrêcznik elektroniki Tom. 1</text>
 	</string>
     <string id="st_gamma_recipe_basic_2_descr">
 		<text>Ten podrêcznik zawiera wskazówki i plany do tworzenia p³ytek elektronicznych, chipów i planów. Mog¹ one zostaæ wykorzystane do stworzenia podstawowych systemów noktowizji, detektorów artefaktów i pojemników na artefakty.</text>
 	</string>
 	<string id="st_gamma_recipe_advanced_2">
-		<text>Podrêcznik elektroniki Vol. 2</text>
+		<text>Podrêcznik elektroniki Tom. 2</text>
 	</string>
     <string id="st_gamma_recipe_advanced_2_descr">
 		<text>Ten podrêcznik zawiera wskazówki i plany tworzenia elektronicznych p³ytek, chipów i planów. Mo¿na je wykorzystaæ do tworzenia zaawansowanych systemów noktowizji, detektorów artefaktów i pojemników na artefakty.</text>
 	</string>	
 	<string id="st_gamma_recipe_expert_2">
-		<text>Podrêcznik elektroniki Vol. 3</text>
+		<text>Podrêcznik elektroniki Tom. 3</text>
 	</string>
     <string id="st_gamma_recipe_expert_2_descr">
 		<text>Ten podrêcznik zawiera wskazówki i plany tworzenia elektronicznych p³ytek, chipów i planów. Mog¹ one zostaæ wykorzystane do stworzenia eksperckich systemów noktowizji, detektorów artefaktów i pojemników na artefakty.</text>
 	</string>		
 	
 	<string id="st_gamma_recipe_basic_3">
-		<text>Podstawy ulepszeñ broni i kombinezonów Vol. 1</text>
+		<text>Podstawy ulepszeñ broni i kombinezonów Tom. 1</text>
 	</string>
     <string id="st_gamma_recipe_basic_3_descr">
-		<text>Ta kompleksowa ksi¹¿ka zawiera wskazówki i plany do tworzenia podstawowych systemów ulepszeñ dla broni, kombinezonów i he³mów.</text>
+		<text>Ta obszerna ksi¹¿ka zawiera wskazówki i plany do tworzenia podstawowych systemów ulepszeñ dla broni, kombinezonów i he³mów.</text>
 	</string>
 	<string id="st_gamma_recipe_advanced_3">
-		<text>Podstawy ulepszeñ broni i kombinezonów Vol. 2</text>
+		<text>Podstawy ulepszeñ broni i kombinezonów Tom. 2</text>
 	</string>
     <string id="st_gamma_recipe_advanced_3_descr">
 		<text>Ta obszerna ksi¹¿ka zawiera wskazówki i plany tworzenia zaawansowanych systemów ulepszeñ dla broni, kombinezonów i he³mów.</text>
 	</string>	
 	<string id="st_gamma_recipe_expert_3">
-		<text>Podstawy ulepszeñ broni i kombinezonów Vol. 3</text>
+		<text>Podstawy ulepszeñ broni i kombinezonów Tom. 3</text>
 	</string>
     <string id="st_gamma_recipe_expert_3_descr">
-		<text>Ta kompleksowa ksi¹¿ka zawiera wskazówki i plany tworzenia eksperckich systemów ulepszeñ dla broni, kombinezonów i he³mów.</text>
+		<text>Ta obszerna ksi¹¿ka zawiera wskazówki i plany tworzenia eksperckich systemów ulepszeñ dla broni, kombinezonów i he³mów.</text>
 	</string>		
 		
 	<string id="st_gamma_recipe_basic_4">
-		<text>Sztuka fuzji artefaktów Vol. 1</text>
+		<text>Sztuka fuzji artefaktów Tom. 1</text>
 	</string>
     <string id="st_gamma_recipe_basic_4_descr">
 		<text>Ta ksi¹¿ka zawiera drukowane wersje najnowszych publikacji profesora Sacharowa dotycz¹cych przetapiania i fuzji artefaktów. Zawiera ona kilka przepisów na przetapianie artefaktów za pomoc¹ urz¹dzenia Przetapiacz Artefaktów, które umo¿liwia ³¹czenie zwyk³ych artefaktów w ich niezwyk³e odmiany.</text>
 	</string>
 	<string id="st_gamma_recipe_advanced_4">
-		<text>Sztuka fuzji artefaktów Vol. 2</text>
+		<text>Sztuka fuzji artefaktów Tom. 2</text>
 	</string>
     <string id="st_gamma_recipe_advanced_4_descr">
 		<text>Ta ksi¹¿ka zawiera drukowane wersje najnowszych publikacji profesora Sacharowa dotycz¹cych przetapiania i fuzji artefaktów. Zawiera ona kilka przepisów na przetapianie rzadkich artefaktów za pomoc¹ urz¹dzenia Przetapiacz Artefaktów, które umo¿liwia ³¹czenie zwyk³ych artefaktów w ich rzadkie odmiany.</text>
 	</string>	
 	<string id="st_gamma_recipe_expert_4">
-		<text>Sztuka fuzji artefaktów Vol. 3</text>
+		<text>Sztuka fuzji artefaktów Tom. 3</text>
 	</string>
     <string id="st_gamma_recipe_expert_4_descr">
 		<text>Ta ksi¹¿ka zawiera drukowane wersje najnowszych publikacji profesora Sacharowa dotycz¹cych przetapiania i fuzji artefaktów. Zawiera ona kilka przepisów na przetapianie artefaktów, dziêki którym rzadkie artefakty mog¹ zostaæ po³¹czone w niezwykle rzadkie i unikalne artefakty.</text>

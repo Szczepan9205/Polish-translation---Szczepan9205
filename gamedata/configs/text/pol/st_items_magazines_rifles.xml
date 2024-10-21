@@ -563,19 +563,19 @@ sniper rifles / full size rifles
 	</string>
 
 	<string id="st_mag_vepr_12x70">
-		<text>Standardowy magazynek 12x70 mm do Wepr-12</text>
+		<text>Standardowy magazynek 12x70 mm do Vepr-12</text>
 	</string>
 	<string id="st_mag_vepr_12x70_descr">
-		<text>Standardowy magazynek na 10 nabojów do pistoletu Wepr-12. Pomimo podobieñstw, Wepr nie mo¿e dzieliæ magazynków z Saig¹.\n \n
+		<text>Standardowy magazynek na 10 nabojów do pistoletu Vepr-12. Pomimo podobieñstw, Vepr nie mo¿e dzieliæ magazynków z Saig¹.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 
 	<string id="st_mag_vepr_compact_12x70">
-		<text>Kompaktowy magazynek 12x70 mm do Wepr-12</text>
+		<text>Kompaktowy magazynek 12x70 mm do Vepr-12</text>
 	</string>
 	<string id="st_mag_vepr_compact_12x70_descr">
-		<text>Ma³y magazynek do Wepr-12 o pojemnoœci zaledwie piêciu nabojów. Nie daj siê zwieœæ - magazynek mieœci siê w kieszeni i jest niezwykle ³atwy do za³adowania.\n \n
+		<text>Ma³y magazynek do Vepr-12 o pojemnoœci zaledwie piêciu nabojów. Nie daj siê zwieœæ - magazynek mieœci siê w kieszeni i jest niezwykle ³atwy do za³adowania.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>

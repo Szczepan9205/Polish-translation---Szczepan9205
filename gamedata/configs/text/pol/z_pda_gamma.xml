@@ -196,7 +196,7 @@
 	<string id="article_gamma_arty_text">
 		<text>%c[pda_white]Reinwencja artefaktów \n \n
 		%c[pda_white]Podstawy systemu artefaktów w G.A.M.M.A. s¹ nastêpuj¹ce:\n
-		%c[pda_white]• %c[ui_gray_1]Nowy wykrywacz Grizzly do znajdowania wszystkich artefaktów nawet z w³¹czon¹ noktowizj¹. Mo¿na go wytworzyæ za pomoc¹ zaawansowanego zestawu narzêdzi.\n
+		%c[pda_white]• %c[ui_gray_1]Nowy detektor Grizzly do znajdowania wszystkich artefaktów nawet z w³¹czon¹ noktowizj¹. Mo¿na go wytworzyæ za pomoc¹ zaawansowanego zestawu narzêdzi.\n
 		%c[pda_white]• Nowy system odradzania siê artefaktów: %c[ui_gray_1]Artefakty odradzaj¹ siê losowo na bie¿¹cej lokacji zwiedzanej przez gracza w anomalnych polach, wiêc upewnij siê, ¿e sprawdzasz je za ka¿dym razem, gdy siê wokó³ nich poruszasz!\n
 		%c[pda_white]• %c[ui_gray_1]Rzadkie artefakty odradzaj¹ siê równie¿ w laboratoriach po emisji.\n
 		%c[pda_white]• Nowy system jakoœci artefaktów: %c[ui_gray_1]Artefakty odradzaj¹ siê z losowo niskim stanem (lub "jakoœci¹"), aby naœladowaæ to, ¿e ka¿dy artefakt jest inny. Dziêki nowemu Przetapiaczowi artefaktów mo¿esz ³¹czyæ artefakty, aby je wzmocniæ i zwiêkszyæ ich jakoœæ.\n \n

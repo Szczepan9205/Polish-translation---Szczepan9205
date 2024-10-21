@@ -10,19 +10,19 @@
 		<text>Broñ siê zaciê³a</text>
 	</string>
 	<string id="st_mag_eject_magazine">
-		<text>wysuñ magazynek</text>
+		<text>Wysuñ magazynek</text>
 	</string>
 	<string id="st_mag_unload_ammo">
-		<text>roz³aduj amunicjê</text>
+		<text>Roz³aduj amunicjê</text>
 	</string>
 	<string id="st_mag_loadout_remove">
-		<text>usuñ z wyposa¿enia</text>
+		<text>Usuñ z wyposa¿enia</text>
 	</string>
 	<string id="st_mag_loadout_add">
-		<text>dodaj do wyposa¿enia</text>
+		<text>Dodaj do wyposa¿enia</text>
 	</string>
 	<string id="st_mag_retool">
-		<text>retool</text>
+		<text>Retool</text>
 	</string>
 	
 	<string id="st_mag_err_retool">
@@ -229,7 +229,7 @@
 		<text>U¿yj "trzeciej rêki", aby umieœciæ wyrzucony magazynek z powrotem w ekwipunku po prze³adowaniu bojowym.</text>
 	</string>
 	<string id="ui_mcm_magazines_gameplay_three_hands_desc">
-		<text>Raven nadal uwa¿a, ¿e to jest z³e.</text>
+		<text>Raven nadal uwa¿a, ¿e to z³e.</text>
 	</string>
 	<string id="ui_mcm_magazines_gameplay_deathquality">
 		<text>Jakoœæ magazynków NPC</text>
@@ -278,13 +278,13 @@
 		<text>%c[0,255,255,255]Rozmiar magazynka: %c[ui_gray_2]</text>
 	</string>
 	<string id="st_mag_size_small">
-		<text>ma³y</text>
+		<text>Ma³y</text>
 	</string>
 	<string id="st_mag_size_medium">
-		<text>œredni</text>
+		<text>Œredni</text>
 	</string>
 	<string id="st_mag_size_large">
-		<text>du¿y</text>
+		<text>Du¿y</text>
 	</string>
 
 	<string id="st_mag_loaded">
@@ -316,7 +316,7 @@
 		%c[pda_white]• %c[ui_gray_1]Aby dodaæ magazynek do wyposa¿enia, kliknij go "%c[pda_white]Prawym przyciskiem myszy%c[ui_gray_1]". Pojawi siê opcja "%c[pda_white]dodaj do wyposa¿enia%c[ui_gray_1]". T³o magazynka zmieni kolor i pojawi siê ikona: oznacza to, ¿e magazynek zosta³ dodany do wyposa¿enia. Od tego momentu, jeœli trzymasz kwalifikuj¹c¹ siê broñ, prze³adowanie broni wykorzysta magazynek w twoim ekwipunku.\n \n
 		%c[pda_white]• %c[ui_gray_1]Mod spróbuje automatycznie wybraæ magazynek, który ma najwiêkszy rozmiar i ma górny nabój równy typowi amunicji. Magazynki mo¿na równie¿ wk³adaæ i wyrzucaæ rêcznie. Kliknij '%c[pda_white]Prawym przyciskiem myszy%c[ui_gray_1]' na broñ by znaleŸæ opcjê '%c[pda_white]Od³¹cz magazynek%c[ui_gray_1]'. Ko³o amunicji mo¿e byæ równie¿ u¿ywane do wymiany magazynków. Magazynki s¹ podzielone na kategorie wed³ug ostatniego za³adowanego naboju.\n \n
 		%c[pda_green]Znajdowanie magazynków:\n
-		%c[pda_white]• %c[ui_gray_1]Sprzedawcy oferuj¹cy broñ bêd¹ oferowaæ magazynki. UWAGA: opcja "%c[pda_white]Mags Buyable at Traders%c[ui_gray_1]" musi byæ w³¹czona w kategorii "G.A.M.M.A. Fixes" w ModOrganizerze.
+		%c[pda_white]• %c[ui_gray_1]Sprzedawcy oferuj¹cy broñ bêd¹ oferowaæ magazynki. UWAGA: opcja "%c[pda_white]Kupowanie magazynków u handlarzy%c[ui_gray_1]" musi byæ w³¹czona w kategorii "G.A.M.M.A. Fixes" w ModOrganizerze.
 		%c[pda_white]• %c[ui_gray_1]Postacie niezale¿ne, zw³aszcza te o wysokiej randze, maj¹ niewielk¹ szansê na upuszczenie ulepszonych magazynków. Magazynki te ³aduj¹ siê szybciej, maj¹ wiêksz¹ pojemnoœæ lub jedno i drugie.\n \n		
 		%c[pda_green]Opcje MCM:\n
 		%c[pda_white]• Jakoœæ ³upów: %c[ui_gray_1]Wp³ywa na iloœæ upuszczonych magazynków, iloœæ nape³nienia i szansê na ulepszenie magazynków.\n

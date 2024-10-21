@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+   <string id="st_placeable_wall">
+		<text>Ściana kuloodporna 5x3 m</text>
+	</string>
+	<string id="st_placeable_wall_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Element konstrukcyjny, używany do tworzenia dodatkowych pomieszczeń w bazach, kryjówkach, obozach itd.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall_metal">
+		<text>Metalowa ściana kuloodporna 5x3 m</text>
+	</string>
+	<string id="st_placeable_wall_metal_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Element konstrukcyjny, używany do tworzenia dodatkowych pomieszczeń w bazach, kryjówkach, obozach itd.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall02">
+		<text>Ściana kuloodporna 2x3 m</text>
+	</string>
+	<string id="st_placeable_wall02_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Element konstrukcyjny, używany do tworzenia dodatkowych pomieszczeń w bazach, kryjówkach, obozach itd.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall02_metal">
+		<text>Metalowa ściana kuloodporna 2x3 m</text>
+	</string>
+	<string id="st_placeable_wall02_metal_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Element konstrukcyjny, używany do tworzenia dodatkowych pomieszczeń w bazach, kryjówkach, obozach itd.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall_doorway">
+		<text>Kuloodporna drewniana ścianka z drzwiami 5x3 m</text>
+	</string>
+	<string id="st_placeable_wall_doorway_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] kompatybilna z drzwiami: 100x190 cm\n
+		%c[d_green] • %c[ui_gray_2] Element konstrukcyjny, używany do tworzenia dodatkowych pomieszczeń w bazach, kryjówkach, obozach itd.\n</text>
+	</string>	
+	
+   <string id="st_placeable_wall_doorway_metal">
+		<text>Metalowa ściana z kuloodpornymi drzwiami 5x3 m</text>
+	</string>
+	<string id="st_placeable_wall_doorway_metal_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] kompatybilna z drzwiami: 100x190 cm\n
+		%c[d_green] • %c[ui_gray_2] Element konstrukcyjny, używany do tworzenia dodatkowych pomieszczeń w bazach, kryjówkach, obozach itd.\n</text>
+	</string>		
+</string_table>

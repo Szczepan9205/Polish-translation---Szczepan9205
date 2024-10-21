@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+  <string id="st_rotten_meat">
+      <text>Zgniłe mięso</text>
+    </string>
+  <string id="st_rotten_meat_raw_descr">
+		<text>Surowe mięso z Zony, które nie zostało ugotowane na czas. Po dwóch dniach ta bryła śmierdzącego mięsa jest nie do uratowania. Nie ruszą jej nawet psy. Najlepszym sposobem działania jest pozbycie się go tak szybko, jak to możliwe, ponieważ zapach może przyciągnąć niektóre stworzenia, które mogą nie być tak wybredne...</text>
+	</string>
+  <string id="st_rotten_meat_cooked_descr">
+		<text>Posiłek wyprodukowany w Zonie, który nie został zjedzony na czas. Po upływie pięciu dni ta miska śmierdzących resztek jedzenia jest nie do uratowania... Ojej, cóż za strata. Najlepiej pozbyć się tego jak najszybciej, ponieważ zapach może przyciągnąć niektóre stworzenia, które mogą nie być tak wybredne...</text>
+	</string>
+  <string id="st_rotten_meat_snork_descr">
+    <text>Zgniła ręka snorka, która nie została ugotowana na czas... Zdecydowanie widziała lepsze czasy. Skoro nie masz już z niej żadnego pożytku, najlepszym wyjściem będzie wyrzucenie jej jak najdalej, by na pewno nie zdołała wpełznąć z powrotem do kryjówki...</text>
+  </string>
+  <string id="ui_mcm_menu_meat_spoiling">
+    <text>Gnicie mięsa</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_cooked">
+    <text>Czas gnicia gotowanego mięsa (w godz.)</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_raw">
+    <text>Czas gnicia surowego mięsa (w godz.)</text>
+  </string>
+</string_table>

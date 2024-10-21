@@ -17,7 +17,7 @@
 		<text>Promieñ instalacji ogniska</text>
 	</string>
 	<string id="ui_mcm_campfire_placeable_place_radius_desc">
-		<text>Promieñ powierzchni wokó³ gracza, który powinien byæ mniej wiêcej p³aski, aby mo¿liwe by³o rozpalenie ogniska. \n
+		<text>Promieñ powierzchni wokó³ gracza, który powinien byæ mniej wiêcej p³aski, aby mo¿liwe by³o tam umieszczenie i rozpalenie ogniska. \n
 					\n Domyœlnie: 3.0</text>
 	</string>
 
@@ -25,15 +25,15 @@
 		<text>Kontrola powierzchni</text>
 	</string>
 	<string id="ui_mcm_campfire_placeable_dot_dist_diff_desc">
-		<text>Limit ró¿nicy w odleg³oœci miêdzy promieniami rzucanymi na powierzchniê, u¿ywany do okreœlenia, czy powierzchnia jest p³aska. Zwiêksz suwak, jeœli chcesz móc umieszczaæ ogniska na bardziej nierównych powierzchniach. \n
+		<text>Limit ró¿nicy w odleg³oœci miêdzy promieniami rzucanymi na powierzchniê, u¿ywany do okreœlenia, czy powierzchnia jest p³aska. Zwiêksz wartoœæ na suwaku, jeœli chcesz móc umieszczaæ ogniska na bardziej nierównych powierzchniach. \n
 					\n Domyœlnie: 0.4</text>
 	</string>
 
 	<string id="ui_mcm_campfire_placeable_transition_delete_items">
-		<text>Usuñ umieszczone ogniska przy zmianie lokacji</text>
+		<text>Usuñ umieszczone przez gracza ogniska przy zmianie lokacji</text>
 	</string>
 	<string id="ui_mcm_campfire_placeable_transition_delete_items_desc">
-		<text>Usuwa umieszczone ogniska przy ka¿dej zmianie lokacji. \n
+		<text>Usuwa umieszczone przez gracza ogniska przy ka¿dej zmianie lokacji. \n
 					\n Domyœlnie: W³.</text>
 	</string>
 

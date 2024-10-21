@@ -3,11 +3,11 @@
 <string_table>
 
 	<string id="st_pba_sacrifice">
-		<text>poœwiêæ</text>
+		<text>Poœwiêæ</text>
 	</string>
 
 	<string id="st_pba_transmutate">
-		<text>transmutuj</text>
+		<text>Transmutuj</text>
 	</string>
 
 	<string id="st_af_lucifer_name">
@@ -20,11 +20,11 @@
 		%c[d_cyan] • %c[ui_gray_2]Lucyfer bêdzie zawsze dzia³a³, nawet z plecaka\n \n
 		%c[d_cyan] • %c[ui_gray_2]Energia artefaktu jest wyczerpywana w miarê up³ywu czasu, a efekty zmniejszaj¹ siê z ka¿dym straconym procentem\n \n
 		%c[d_cyan] • %c[0,255,255,255]Przy maksymalnym stanie otrzymujesz:\n
-		%c[0,255,255,255] • %c[ui_gray_2]redukcjê wszelkich obra¿eñ o 15%\n
-		%c[0,255,255,255] • %c[ui_gray_2]wzrost prêdkoœci poruszania siê o 35%\n
-		%c[0,255,255,255] • %c[ui_gray_2]regeneracjê zdrowia 1%s\n
-		%c[0,255,255,255] • %c[ui_gray_2]regeneracjê zdrowia psi 3%/s\n
-		%c[0,255,255,255] - %c[ui_gray_2]+50kg do udŸwigu\n
+		%c[0,255,255,255] • %c[ui_gray_2]Redukcjê wszelkich obra¿eñ o 15%\n
+		%c[0,255,255,255] • %c[ui_gray_2]Wzrost prêdkoœci poruszania siê o 35%\n
+		%c[0,255,255,255] • %c[ui_gray_2]Regeneracjê zdrowia 1%s\n
+		%c[0,255,255,255] • %c[ui_gray_2]Regeneracjê zdrowia psi 3%/s\n
+		%c[0,255,255,255] • %c[ui_gray_2]+50kg do udŸwigu\n
 		%c[d_yellow] • %c[ui_gray_2]Przy 50% energii artefaktu nie bêdziesz mieæ ¿adnych mocy\n
 		%c[d_orange] • %c[ui_gray_2]Poni¿ej 50% artefakt zacznie zu¿ywaæ twoj¹ duszê, powoduj¹c pocz¹tkowo niewielk¹ utratê wytrzyma³oœci\n
 		%c[d_red] • %c[ui_gray_2]Poni¿ej 40% twoje zdrowie zacznie zanikaæ, najpierw powoli, a nastêpnie coraz bardziej wraz ze spadkiem kondycji\n \n
@@ -33,7 +33,7 @@
 		%c[0,255,255,255] • %c[ui_gray_2]Artefakty poziomu 2 przywracaj¹ 6-9%\n
 		%c[0,255,255,255] • %c[ui_gray_2]Artefakty poziomu 3 przywracaj¹ 10-13%\n
 		%c[0,255,255,255] • %c[ui_gray_2]Artefakty "Œmieciowe" przywracaj¹ 20-30%\n \n
-		%c[0,255,255,255] • %c[ui_red] Nie mo¿esz pozbyæ siê artefaktu w ¿aden sposób.\n
+		%c[0,255,255,255] • %c[ui_red]Nie mo¿esz pozbyæ siê artefaktu w ¿aden sposób.\n
 		</text>
 	</string>
 

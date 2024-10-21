@@ -5,16 +5,16 @@
 	</string>
 	<!-- tekst podstawowy -->
 	<string id="igi_task_text_title">
-		<text>Igi Tasks: Nie znaleziono tytu³u</text>
+		<text>Igi Tasks: nie znaleziono tytu³u.</text>
 	</string>
 	<string id="igi_task_text_descr">
-		<text>Igi Tasks: Nie znaleziono opisu</text>
+		<text>Igi Tasks: nie znaleziono opisu.</text>
 	</string>
 	<string id="igi_task_text_job_descr">
-		<text>Igi Tasks: Nie znaleziono opisu zadania</text>
+		<text>Igi Tasks: nie znaleziono opisu zadania.</text>
 	</string>
 	<string id="igi_task_text_finish">
-		<text>Igi Tasks: Nie znaleziono zakoñczenia, ale i tak gratulacje</text>
+		<text>Igi Tasks: nie znaleziono zakoñczenia, ale i tak gratulacje.</text>
 	</string>
 	
 	<!-- UI -->

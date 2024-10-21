@@ -1686,23 +1686,68 @@ Ta wiadomoœæ nie bêdzie ciê wiêcej niepokoiæ. Udanych ³owów, %s.</text>
 		<text>U¿yj nazwy obiektu</text>
 	</string>
 
-<!-- Added in 2.2 (not yet implemented) -->
+<!-- Added in 2.2 -->
 
-    <string id="ui_mcm_pawsys_pawret_autotag_pdas">
-        <text>W³¹cz Autotag dla nastêpuj¹cych urz¹dzeñ:</text>
-    </string>
+	<string id="ui_mcm_pawsys_pawbinds_raytrace_wp_targets">
+		<text>Punkty trasy nie wymagaj¹ obiektów docelowych</text>
+	</string>
 
-    <string id="ui_mcm_pawsys_pawret_device_pda_1">
-        <text>PDA 1.0</text>
-    </string>
-    <string id="ui_mcm_pawsys_pawret_device_pda_2">
-        <text>PDA 2.0</text>
-    </string>
-    <string id="ui_mcm_pawsys_pawret_device_pda_3">
-        <text>PDA 3.1</text>
-    </string>
-    <string id="ui_mcm_pawsys_pawret_device_pda_milspec">
-        <text>Milspec PDA (wymaga dodatku)</text>
-    </string>
+	<string id="ui_mcm_pawsys_pawbinds_raytrace_wp_targets_desc">
+		<text>Zwykle celowanie w punkt trasy w PAW wymaga prawid³owego obiektu w miejscu wskazywanym przez kursor, takiego jak NPC. Gdy ta opcja jest w³¹czona, a w miejscu wskazywanym przez kursor nie ma ¿adnego obiektu, niestandardowy punkt trasy zostanie ustawiony na dowolnym punkcie w przestrzeni, który jest celem gracza.</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_uninstall">
+		<text>Odinstaluj PAW (usuñ dane z zapisu gry)</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawgen_uninstall_desc">
+		<text>Dzia³a podobnie jak "Wyczyœæ wszystko", ale ca³kowicie usuwa wszystkie dane PAW z zapisu i ustawia tymczasow¹ flagê, aby dane PAW nie by³y zapisywane podczas zapisywania gry. Pozwala to na „wyczyszczenie” zapisu w razie potrzeby.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_clear_nearby">
+		<text>Usuñ pobliskie pinezki</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_clear_radius">
+		<text>Promieñ dla wyraŸnych pinezek w pobli¿u (w metrach)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_clear_radius_desc">
+		<text>
+		Po u¿yciu opcji "Wyczyœæ pobliskie pinezki" wszystkie pinezki znajduj¹ce siê w tym promieniu wokó³ klikniêtego punktu zostan¹ nieodwracalnie usuniête.\n\n
+		Aby upewniæ siê, ¿e wszystkie znaczniki zosta³y wyczyszczone, wszystkie mapspoty zostan¹ równie¿ usuniête z tych pinów. Nale¿y pamiêtaæ, ¿e jeœli spowoduje to usuniêcie systemowego mapspotu, zostanie on ponownie dodany przez Anomaly przy nastêpnym zapisie lub zmianie mapy.</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawret_notify_pin_target">
+		<text>Wyœwietlanie porady dotycz¹cej wiadomoœci podczas rêcznego oznaczania celu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_verbose">
+		<text>Szczegó³owe rejestrowanie debugowania</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_verbose_desc">
+		<text>Szczegó³owe (z ang.„Verbose”) to w jêzyku programistów "naprawdê spamerski". Ta opcja umieszcza maksymaln¹ iloœæ informacji w dzienniku i musi byæ w³¹czona, jeœli zg³aszasz problem.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_persistent">
+		<text>Pinezka jest trwa³a</text>
+	</string>
+
+	<string id="ui_paw_hint_check_pers_desc">
+		<text>$clr_whtToggle niezale¿nie czy pinezka jest $clr_yelpersistent$clr_wht i pozostanie w miejscu do momentu jej usuniêcia. Pinezki, które s¹ $clr_yelnot trwa³e $clr_wht mog¹ mieæ w³asny czas wygaœniêcia w zale¿noœci od ustawieñ MCM i zawsze bêd¹ usuwane przy nastêpnym zapisie lub przejœciu na inn¹ lokacjê.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_hide_intro_header">
+		<text>Ukryj nag³ówek wprowadzaj¹cy do PAW</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_hide_intro_header_desc">
+		<text>PAW ma kolorow¹ wiadomoœæ wprowadzaj¹c¹ dla nowych graczy, ale jeœli jesteœ ju¿ zaznajomiony z PAW, zajmuje ona tylko miejsce w menu. Ta opcja ukrywa lub pokazuje nag³ówek.</text>
+	</string>
+
+	<string id="ui_paw_hide_intro_header">
+		<text>$clr_tgrNie pokazuj ponownie tej wiadomoœci wprowadzaj¹cej</text>
+	</string>
 
 </string_table>

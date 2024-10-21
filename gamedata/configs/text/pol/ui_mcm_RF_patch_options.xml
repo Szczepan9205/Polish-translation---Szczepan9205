@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 	<string id="ui_mcm_RF_package_patch_title">
-		<text>Opcje paczki odbiornika RF</text>
+		<text>Opcje paczek z odbiornika RF</text>
 	</string>
 	
 	<string id="ui_mcm_menu_RF_package_patch">
@@ -13,27 +13,27 @@
 	</string>
 	
 	<string id="ui_mcm_lst_switch_mode_transition">
-		<text>Każdym przejściu na zewnątrz</text>
+		<text>Każdym przejściu na inną lokację</text>
 	</string>
 	
 	<string id="ui_mcm_lst_switch_mode_local">
-		<text>Przejście do obszaru z paczką</text>
+		<text>Przejściu do obszaru z paczką</text>
 	</string>
 	
 	<string id="ui_mcm_lst_switch_mode_never">
-		<text>Brak przypomnień</text>
+		<text>Bez przypomnień</text>
 	</string>
 	
 	<string id="ui_mcm_RF_package_patch_upgrades">
-		<text>Ulepszenia jako nagroda</text>
+		<text>Ulepszenia jako zawartość paczek</text>
 	</string>
 	
 	<string id="ui_mcm_lst_switch_mode_vanilla">
-		<text>Vanillowe ulepszenia jako nagroda</text>
+		<text>Vanillowe ulepszenia</text>
 	</string>
 	
 	<string id="ui_mcm_lst_switch_mode_streamlined">
-		<text>Ulepszone przedmioty ulepszeń by Arti</text>
+		<text>Ulepszone ulepszenia by Arti</text>
 	</string>
 	
 	<string id="ui_mcm_RF_package_patch_unpacking">
@@ -41,11 +41,11 @@
 	</string>
 	
 	<string id="ui_mcm_lst_switch_mode_manual_unpack">
-		<text>Opcja ręcznego rozpakowywania po kliknięciu prawym przyciskiem myszy</text>
+		<text>Rozpakowywanie ręczne po kliknięciu PPM</text>
 	</string>
 	
 	<string id="ui_mcm_lst_switch_mode_auto_unpack">
-		<text>Rozpakowywanie automatycznie przy podniesieniu paczki</text>
+		<text>Automatyczne rozpakowywanie po podniesieniu paczki</text>
 	</string>
 	
 </string_table>

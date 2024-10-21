@@ -7,11 +7,11 @@
 	</string>
 	<string id="st_af_misery_bread_descr">
 		<text>Kawa³ek chleba. Gêsty jak diament i absolutnie niejadalny. Z pewnoœci¹ niezwyk³y artefakt.\n \n
-		%c[0,255,255,255]Emisje radioaktywne::\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony\n 
-		%c[d_red] • %c[d_red] pozytony
+		%c[0,255,255,255]Emisje radioaktywne:\n
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony\n 
+		%c[d_red] • %c[d_red] Pozytony
 		</text>
 	</string>
 
@@ -25,7 +25,7 @@
 		Artefakt jest bardzo lekki, a co za tym idzie, ³atwy do przenoszenia.\n \n																																																								 
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -40,9 +40,9 @@
 		Dziêki piêknej, b³êkitnej aurze, któr¹ roztacza, jest ceniony przez jubilerów na ca³ym œwiecie.\n \n																						   
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -63,8 +63,8 @@
 		Noszenie artefaktu daje te¿ niewielk¹ ochronê przed szkodliwym dzia³aniem anomalii psionicznych i fal generowanych przez niektóre mutanty.\n \n																															   																																
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -77,9 +77,9 @@
 		Poza tym B¹bel posiada wiele negatywnych cech. Jedn¹ z jego wad jest znacz¹ce wzmocnienie oddzia³ywania fal i pól psionicznych. Niektórzy stalkerzy opowiadaj¹, ¿e nosz¹c B¹bel, czuli tak du¿y wp³yw psioniczny, ¿e mieli wra¿enie, jakby ich g³owy mia³y pêkn¹æ od œrodka, a jedyne, co mog¹ zrobiæ do krzyczeæ z bólu i uciekaæ, byle dalej, bez ¿adnego celu i sensu.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -93,9 +93,9 @@
 		Udowodniono te¿, ¿e os³abia cia³o u¿ytkownika, zmniejszaj¹c jego kondycjê i zwiêkszaj¹c tempo krwawienia. Najwiêkszym problemem jednak jest bardzo wysoki poziom emitowanego promieniowania, znacznie przekraczaj¹cy emisjê pochodz¹c¹ z innych artefaktów znajduj¹cych siê na skali porównawczej.\n 
 		Kompas umieszczony w pobli¿u cia³a mo¿e doprowadziæ do œmierci w ci¹gu zaledwie kilku minut.\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n							  
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -109,8 +109,8 @@
 		Zaleca siê jednak zachowanie ostro¿noœci podczas planowania zakupu.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -126,10 +126,10 @@
 		Wed³ug skali promieniowania artefaktów plasuje siê na bardzo wysokim poziomie.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony\n 
-		%c[d_red] • %c[d_red] pozytony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony\n 
+		%c[d_red] • %c[d_red] Pozytony
 		</text>
 	</string> 
 
@@ -143,8 +143,8 @@
 		Z drugiej jednak strony, dziêki tym cechom artefakt posiada zdolnoœæ do zmniejszania tarcia - mo¿e zwiêkszaæ odpornoœæ na uderzenia.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string> 
 
@@ -158,8 +158,8 @@
 		Artefakt ten znany jest równie¿ pod potoczn¹ nazw¹ "miedzianego oka", poniewa¿ przewodzi pr¹d i wzmacnia jego niebezpieczne efekty w taki sam sposób jak miedŸ.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -172,9 +172,9 @@
 		Niebezpieczeñstwa p³yn¹ce ze stosowania Kuli Ognistej dotycz¹ jej du¿ej przewodnoœci elektrycznej. Prawdopodobieñstwo pora¿enia pr¹dem jest wiêc znacznie wy¿sze w trakcie korzystania z artefaktu, zw³aszcza podczas burzy i w okolicy anomalii elektrycznych. Jest dosyæ ciê¿ki ze wzglêdu na du¿¹ gêstoœæ kryszta³o-podobnego budulca.\n	\n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -189,9 +189,9 @@
 		Niestety, Œwietlik to bardzo rzadko spotykany artefakt.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 	
@@ -207,9 +207,9 @@
 		P³omieñ mo¿e s³u¿yæ przede wszystkim jako przenoœna, wielorazowa apteczka, gdy¿ bardzo szybko leczy rany.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -222,9 +222,9 @@
 		Z drugiej strony spowalnia proces leczenia, dlatego zaleca siê ostro¿ne u¿ywanie, jeœli jesteœ ranny lub krwawisz. Artefakt jest niezmiernie lekki, a wiêc bardzo ³atwy w przenoszeniu.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -238,9 +238,9 @@
 		Pe³ny Pustak - bêd¹cy niejako "lepsz¹ wersj¹" Pustaka - znacznie zwiêksza odpornoœæ na uderzenia. Niektórzy twierdz¹, ¿e potrafi zatrzymaæ bezpoœredni ostrza³ z broni kalibru 9 mm.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -255,9 +255,9 @@
 		Z tym potê¿nym polem antygrawitacyjnym wi¹¿e siê jednak du¿y minus: drastycznie zwiêksza szybkoœæ obiektów znajduj¹cych siê w jego zasiêgu co mo¿e powodowaæ niebezpieczne kolizje z otoczeniem, w³¹czaj¹c u¿ytkownika.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -271,8 +271,8 @@
 		Inn¹ jego wad¹ jest wzmocnienie dzia³ania fal psionicznych.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -285,9 +285,9 @@
 		\nMawia siê, ¿e Serce jest bardzo wra¿liwe na zewnêtrzne Ÿród³a energii i otoczenie. Z tego powodu zbli¿anie siê do pól anomalii mo¿e spowodowaæ œmieræ posiadacza tego niezwyk³ego artefaktu.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 	
@@ -300,7 +300,7 @@
 		Nie zaleca siê zbli¿aæ ze Œwierzbem do anomalii chemicznych i kwasowych, gdy¿ wzmacnia niekorzystne dzia³anie kwasów i toksyn w krwiobiegu u¿ytkownika.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu.\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -313,7 +313,7 @@
 		Meduzy zwykle s¹ dosyæ ciê¿kie - prawdopodobnie pole grawitacyjne zawy¿a jego rzeczywist¹ masê. Innym minusem artefaktu jest to, ¿e zwiêksza wp³yw fal psionicznych i jest skutecznym przewodnikiem elektrycznym.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -328,8 +328,8 @@
 		Dosyæ lekki, nie ma wiêkszych trudnoœci w przenoszeniu go.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -343,8 +343,8 @@
 		Ze wzglêdu na gêstoœæ, Racze Oczy s¹ dosyæ ciê¿kie.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -358,7 +358,7 @@
 		Waga artefaktu jest nieproporcjonalne du¿a jak na obiekt tej wielkoœci, co sugeruje, ¿e odznacza siê on du¿¹ gêstoœci¹.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -372,8 +372,8 @@
 		Co wiêcej, Kotlet przewodzi pr¹d w stopniu porównywalnym do cia³a ¿ywej istoty.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 	
@@ -385,8 +385,8 @@
 		Warto zauwa¿yæ, ¿e Blask Ksiê¿yca mo¿e zaj¹æ siê ogniem podczas wystawiania go na bezpoœredni kontakt z p³omieniem. Czasem zdarza siê, ¿e dochodzi do samozap³onu.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -400,7 +400,7 @@
 		Mawia siê, ¿e artefakt po zbli¿eniu do Ÿród³a ciep³a zaczyna wydzielaæ smród podobny do palonego cia³a. D³uga ekspozycja na wysok¹ temperaturê mo¿e zwiêkszyæ jego palnoœæ i spowodowaæ zap³on.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -413,8 +413,8 @@
 		Agrafka daje niewielk¹ ochronê psioniczn¹. Pod wp³ywem fal tego typu zaczyna rezonowaæ. Z drugiej strony, nie zaleca siê zbli¿aæ do anomalii chemicznych i kwasowych, jako ¿e zwiêksza niekorzystne dzia³anie kwasów i toksyn w krwiobiegu u¿ytkownika.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -428,8 +428,8 @@
 		Niestety, Pierœcieñ jest tworem ³atwopalnym. D³ugotrwa³e wystawienie na Ÿród³o ciep³a jeszcze bardziej zwiêksza palnoœæ i w odpowiednich warunkach mo¿e doprowadziæ do zap³onu artefaktu.\n \nWed³ug skali promieniowania artefaktów plasuje siê na œrednim poziomie.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -445,8 +445,8 @@
 		Artefakt jest niezwykle lekki i bardzo ³atwy do przenoszenia.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 
@@ -461,9 +461,9 @@
 		Artefakt jest bardzo lekki - niemal dos³ownie jak œnie¿ynka - dziêki czemu przenoszenie go nie jest uci¹¿liwe.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma\n
-		%c[d_orange] • %c[d_orange] neutrony
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma\n
+		%c[d_orange] • %c[d_orange] Neutrony
 		</text>
 	</string>
 
@@ -476,7 +476,7 @@
 		Ponadto redukuje efekty dzia³ania fal psionicznych i powodowane nimi uszkodzenia mózgu. Warto jednak zauwa¿yæ, ¿e Dusza wysysa z u¿ytkownika energiê. Gêstoœæ jego struktury nie jest zbyt du¿a, jest raczej lekki.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -489,7 +489,7 @@
 		Z drugiej strony nale¿y zauwa¿yæ, ¿e obecnoœæ artefaktu wzmaga w³aœciwoœci ¿r¹ce kwasów, prowadz¹c do szybszego niszczenia wyposa¿enia i zwiêkszenia obra¿eñ zadawanych tkankom organizmu.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -502,8 +502,8 @@
 		G¹bka dzia³a jak potê¿ny opornik. Absorbuje nawet œmiertelne dawki pr¹du elektrycznego. Z drugiej strony, po wystawieniu na dzia³anie p³omienia potrafi zaj¹æ siê ogniem, czasem zdarza siê te¿ samozap³on.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string> 
 	
@@ -515,7 +515,7 @@
 		Innym pozytywnym efektem jest przyspieszenie gojenia siê ran, o ile artefakt znajdzie siê w ich pobli¿u. Nie zaleca siê jednak trzymaæ go blisko cia³a przez d³u¿szy okres ze wzglêdu na mo¿liwoœæ wyst¹pienia niebezpiecznych dla zdrowia zakrzepów.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -529,7 +529,7 @@
 		Ze wzglêdu na gêstoœæ, waga artefaktu jest znacznie wiêksza ni¿ sugerowa³aby jego wielkoœæ, przez co stanowi on jeden z najciê¿szych anomalnych tworów Zony.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta
 		</text>
 	</string>
 
@@ -559,8 +559,8 @@
 		Skrêtak mo¿e generowaæ niewielkie, kierowane pola grawitacyjne zwiêkszaj¹ce jego masê. Z tego powodu waga artefaktu jest dosyæ du¿a.\n \n
 		%c[d_yellow] NIE ulega degradacji z up³ywem czasu\n \n
 		%c[0,255,255,255]Emisje radioaktywne:\n
-		%c[d_blue] • %c[d_blue] cz¹steczki beta\n
-		%c[d_green] • %c[d_green] promienie gamma
+		%c[d_blue] • %c[d_blue] Cz¹steczki beta\n
+		%c[d_green] • %c[d_green] Promienie gamma
 		</text>
 	</string>
 

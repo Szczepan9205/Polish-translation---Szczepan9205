@@ -4,7 +4,7 @@
 		<text>Polowanie na chimerê</text>
 	</string>
 	<string id="duty_girl_hunting_chimera_descr_1">
-		<text>Zgodzi³am siê pomóc Annie w polowaniu na chimerê. Mam siê z ni¹ spotkaæ na Pchlim Targu.</text>
+		<text>Zgodzi³em siê pomóc Annie w polowaniu na chimerê. Mam siê z ni¹ spotkaæ na Pchlim Targu.</text>
 	</string>
 	<string id="duty_girl_hunting_chimera_descr_2">
 		<text>Zgodzi³em siê pomóc Annie w polowaniu na chimerê. Atakujemy legowisko mutanta.</text>
@@ -20,7 +20,7 @@
 		<text>Powinnoœæ ma zamiar przeprowadziæ atak na dobrze wyszkolony oddzia³ Monolitu. Ka¿da pomoc jest mile widziana, a i nagroda nie jest najgorsza.</text>
 	</string>
 	<string id="duty_girl_monolith_elite_descr_2">
-		<text>Atak siê rozpocz¹³. Muszê pomóc Powinnoœci w walce z wrogami.</text>
+		<text>Atak siê rozpocz¹³. Muszê pomóc Powinnoœci w walce z fanatykami.</text>
 	</string>
 	<string id="duty_girl_monolith_elite_descr_3">
 		<text>Atak siê powiód³. Czas odebraæ nagrodê.</text>
@@ -37,10 +37,10 @@
 		<text>Przechwyæ most w Czerwonym Lesie</text>
 	</string>
 	<string id="duty_girl_capture_the_brirge_descr_1">
-		<text>Powinnoœæ chce przej¹æ most w Czerwonym Lesie. S¹ bliscy ataku. Ka¿da pomoc jest mile widziana, a i nagroda nie jest najgorsza.</text>
+		<text>Powinnoœæ chce przej¹æ most w Czerwonym Lesie. S¹ bliscy ataku i ka¿da pomoc jest mile widziana, a i nagroda nie jest najgorsza.</text>
 	</string>
 	<string id="duty_girl_capture_the_brirge_descr_2">
-		<text>Atak siê rozpocz¹³. Muszê pomóc Powinnoœci w walce z wrogami.</text>
+		<text>Atak siê rozpocz¹³. Muszê pomóc Powinnoœci w walce z fanatykami.</text>
 	</string>
 	<string id="duty_girl_capture_the_brirge_descr_3">
 		<text>Atak zakoñczy³ siê sukcesem. Czas odebraæ nagrodê.</text>

@@ -4,14 +4,12 @@
 -->
 
 <string_table>
-
 	<string id="ui_mcm_menu_bountysquads">
-		<text>Rozszerzenie Bounty Squads</text>
+		<text>Bounty Squads</text>
 	</string>
 	<string id="ui_mcm_title_bountysquads">
 		<text>Rozszerzenie Bounty Squads</text>
 	</string>
-
 	<string id="ui_mcm_bountysquads_delay">
 		<text>OpóŸnienie miêdzy potencjalnym spawnem</text>
 	</string>
@@ -42,6 +40,4 @@
 	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment_desc">
 		<text>Jeœli gracz jest szczególnie agresywny w stosunku do konkretnej frakcji, bêdzie mia³ wiêksz¹ szansê na wys³anie przez ni¹ oddzia³ów ³owców nagród. Za ka¿dym razem, gdy gracz zabije STALKERA, frakcja ofiary zwiêkszy swój mno¿nik do odrodzenia oddzia³u nagród, faction_multiplier, o tê wartoœæ. Na przyk³ad, jeœli ta wartoœæ jest ustawiona na 0,5, za pierwszym razem, gdy gracz zabije cz³onka frakcji, zwiêkszy mno¿nik do 1,5. Kolejna ofiara zwiêkszy go do 2,0 itd. Wartoœæ ta jest nastêpnie mno¿ona przez bazow¹ szansê odrodzenia za ka¿dym razem, gdy dana frakcja rozwa¿a spawn oddzia³u ³owców.</text>
 	</string>
-
-
 </string_table>

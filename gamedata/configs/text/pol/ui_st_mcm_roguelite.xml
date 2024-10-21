@@ -11,7 +11,7 @@
         <text>Ustawienia ogólne</text>
     </string>
     <string id="ui_mcm_roguelite_is_roguelite_enabled">
-        <text>W³¹czone</text>
+        <text>W³¹czony</text>
     </string>
 
     <!--Player Stash Settings-->
@@ -22,7 +22,7 @@
         <text>Przywracanie schowków w³¹czone</text>
     </string>
     <string id="ui_mcm_roguelite_show_stashes_on_pda">
-        <text>Pokazuj przywrócone schowki gracza na urz¹dzeniu PDA</text>
+        <text>Pokazuj przywrócone schowki gracza na PDA</text>
     </string>
     <string id="ui_mcm_roguelite_stash_item_condition_loss_percent">
         <text>Procentowa utrata kondycji przedmiotu miêdzy kolejnymi przejœciami</text>
@@ -42,7 +42,7 @@
         <text>Procentowa szansa na utratê przedmiotu z ekwipunku</text>
     </string>
 	<string id="ui_mcm_roguelite_drop_player_inventory_item_loss_chance_desc">
-		<text>Jest to szansa, a nie gwarancja.  Przyk³ad: 25% szansy oznacza, ¿e ka¿dy przedmiot na twoich zw³okach jest rzucany kostk¹ i ma 25% szansy na utratê.</text>
+		<text>Jest to szansa, a nie gwarancja. Przyk³ad: 25% szansy oznacza, ¿e ka¿dy przedmiot na twoich zw³okach ma 25% szansy na znikniêcie (przeliczane jest to na takiej samej zasadzie jak rzut kostk¹).</text>
 	</string>
     <string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_enabled">
         <text>W³¹czony czas utraty</text>
@@ -51,10 +51,10 @@
         <text>Czas utraty (w sekundach) dla maksymalnej procentowej szansy utraty przedmiotu</text>
     </string>
 	<string id="ui_mcm_roguelite_drop_player_inventory_item_loss_max_ingame_time_seconds_desc">
-		<text>Twoje ustawienia to np. Szansa na utratê przedmiotu 25%, Czas utraty przedmiotu 1 godzina.
-Za³ó¿my, ¿e giniesz w Magazynach Wojskowych jako Samotnik.
-Przy nastêpnym uruchomieniu gry dotarcie do Magazynów zajmuje 45 minut, a ty pl¹drujesz swoje zw³oki.
-Procent utraty przedmiotów wyniesie 0,75 * 0,25, poniewa¿ dotarcie do zw³ok zajê³o 3/4 godziny.
+		<text>Twoje ustawienia to np. szansa na utratê przedmiotu - 25%, czas utraty przedmiotu - 1 godzina.
+Za³ó¿my, ¿e giniesz w Magazynach Wojskowych graj¹c jako Samotnik.
+Przy nastêpnym uruchomieniu gry dotarcie do Magazynów zajmie 45 minut, a ty pl¹drujesz swoje zw³oki.
+Procent utraty przedmiotów wyniesie 0,75 * 0,25, poniewa¿ dotarcie do zw³ok zajê³o 3/4 jednej godziny.
 </text>
 	</string>
 
@@ -66,7 +66,7 @@ Procent utraty przedmiotów wyniesie 0,75 * 0,25, poniewa¿ dotarcie do zw³ok zajê
         <text>Przywróæ reputacjê handlarza</text>
     </string>
     <string id="ui_mcm_roguelite_trader_rep_penalty_percent">
-        <text>Procentowa utrata reputacji handlarza miêdzy przejœciami</text>
+        <text>Procentowa utrata reputacji handlarza miêdzy rozgrywkami</text>
     </string>
 
     <!--Charater Reputation Settings-->
@@ -77,10 +77,10 @@ Procent utraty przedmiotów wyniesie 0,75 * 0,25, poniewa¿ dotarcie do zw³ok zajê
         <text>Przywracanie reputacji postaci</text>
     </string>
     <string id="ui_mcm_roguelite_character_rep_penalty_percent">
-        <text>Utrata % reputacji postaci miêdzy kolejnymi przejœciami</text>
+        <text>Utrata % reputacji postaci miêdzy kolejnymi rozgrywkami</text>
     </string>
     <string id="ui_mcm_roguelite_character_rank_penalty_percent">
-        <text>Utrata rangi postaci w % pomiêdzy przejœciami</text>
+        <text>Utrata rangi postaci w % miêdzy rozgrywkami</text>
     </string>
     
     <string id="ui_mcm_roguelite_debug_description">

@@ -85,4 +85,12 @@
 		<text>Ultra</text>
 	</string>
 
+	<string id="ui_mcm_lst_ssfx_enable">
+		<text>W³.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ssfx_disable">
+		<text>Wy³.</text>
+	</string>
+
 </string_table>

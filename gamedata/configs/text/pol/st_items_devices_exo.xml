@@ -15,12 +15,10 @@
 	</string>
 	<string id="st_itm_exo_psu_descr">
 		<text>Dodatkowe Ÿród³o zasilania, w które wyposa¿one s¹ egzoszkielety w celu zwiêkszenia ich pojemnoœci energetycznej. Popularny wœród wiêkszoœci stalkerów, bior¹c pod uwagê raczej nieefektywne zasilacze dostarczane ze standardowymi egzoszkieletami. Aby u¿yæ, przeci¹gnij na egzoszkielet.\n \nTen rodzaj zasilania jest chaotycznie z³o¿ony i doœæ nieefektywny. Choæ jest lekki, oferuje jedynie marginalny wzrost wydajnoœci energetycznej. Jedn¹ z g³ównych wad wiêkszoœci egzoszkieletów jest to, ¿e s¹ one przeznaczone do u¿ycia przez krótki czas, zwykle w bitwach, przed powrotem do bazy w celu uzupe³nienia energii. Zewnêtrzne Ÿród³a zasilania, takie jak te, mog¹ czêœciowo z³agodziæ ten problem, ale, jak wyraŸnie pokazuje ten przyk³ad, niekoniecznie s¹ skuteczne.\n\n
-		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
-		%c[d_blue] • %c[ui_gray_2] moc: 150\n
-		%c[d_blue] • %c[ui_gray_2] pojemnoœæ mocy: 150\n
-		%c[d_blue] • %c[ui_gray_2] wskaŸnik poboru mocy: 100%\n
-		%c[d_blue] • %c[ui_gray_2] aby u¿yæ, przeci¹gnij i upuœæ na egzoszkielet.\n
+		%c[ui_gray_3]W£AŒCIWOŒCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Moc: 150\n
+		%c[d_blue] • %c[ui_gray_2] WskaŸnik poboru mocy: 100%\n
 		</text>
 	</string>
 
@@ -29,12 +27,11 @@
 	</string>
 	<string id="st_itm_exo_psu_mili_descr">
 		<text>Dodatkowe Ÿród³o zasilania, w które wyposa¿one s¹ egzoszkielety w celu zwiêkszenia ich pojemnoœci energetycznej. Popularny wœród wiêkszoœci stalkerów, bior¹c pod uwagê raczej nieefektywne zasilacze dostarczane ze standardowymi egzoszkieletami. Aby u¿yæ, zainstaluj na egzoszkielecie.\n \nTen model jest profesjonalnie wykonany w fabryce i bezproblemowo montuje siê go na egzoszkielecie. Jest solidny, ale bardzo wytrzyma³y i doœæ energooszczêdny, zapewniaj¹c znaczny wzrost pojemnoœci energetycznej i niewielk¹ korzyœæ w zakresie wydajnoœci energetycznej. \n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
-		%c[d_blue] • %c[ui_gray_2] pojemnoœæ mocy: 250\n
-		%c[d_blue] • %c[ui_gray_2] wskaŸnik poboru mocy: 85%\n
-		%c[d_blue] • %c[ui_gray_2] aby u¿yæ, przeci¹gnij i upuœæ na egzoszkielet.\n
+		%c[ui_gray_3]W£AŒCIWOŒCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] Moc: 250\n
+		%c[d_blue] • %c[ui_gray_2] WskaŸnik poboru mocy: 85%\n
 		</text>
 	</string>
 	
@@ -43,13 +40,12 @@
 	</string>
 	<string id="st_itm_exo_psu_sci_descr">
 		<text>Dodatkowe Ÿród³o zasilania, w które wyposa¿one s¹ egzoszkielety w celu zwiêkszenia ich pojemnoœci energetycznej. Popularny wœród wiêkszoœci stalkerów, bior¹c pod uwagê raczej nieefektywne zasilacze dostarczane ze standardowymi egzoszkieletami. Aby u¿yæ, przeci¹gnij na egzoszkielet.\n \nTen model jest eksperymentalnym prototypem zbudowanym w oparciu o schematy uzyskane od naukowców, wykorzystuj¹cym ukryte w³aœciwoœci statyczne artefaktu "Bateria" do generowania nieskoñczonych iloœci mocy. Zamkniêta pêtla sprzê¿enia zwrotnego artefaktu stale generuje niewielkie iloœci mocy i pasywnie ³aduje zasilanie istniej¹cych egzoszkieletów - chocia¿ jest to niemal nieograniczone Ÿród³o mocy, dodatkowa moc zosta³a usuniêta w celu odpowiedniego zamkniêcia artefaktu.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] przedmiot technologiczny\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie prototypowe\n
-		%c[d_blue] • %c[ui_gray_2] pojemnoœæ mocy: 400\n
-		%c[d_blue] • %c[ui_gray_2] wskaŸnik poboru mocy: 50%\n
-		%c[d_blue] • %c[ui_gray_2] kliknij podwójnie $$ACTION_SPRINT_TOGGLE$$ aby uruchomiæ elektryczn¹ Novê\n
-		%c[d_blue] • %c[ui_gray_2] aby u¿yæ, przeci¹gnij i upuœæ na egzoszkielet.\n
+		%c[ui_gray_3]W£AŒCIWOŒCI:\n
+		%c[d_cyan] • %c[ui_gray_2] Przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie prototypowe\n
+		%c[d_blue] • %c[ui_gray_2] Moc: 400\n
+		%c[d_blue] • %c[ui_gray_2] WskaŸnik poboru mocy: 50%\n
+		%c[d_blue] • %c[ui_gray_2] Kliknij podwójnie $$ACTION_SPRINT_TOGGLE$$, aby uruchomiæ elektryczn¹ Novê\n
 		</text>
 	</string>
 	
@@ -58,14 +54,13 @@
 	</string>
 	<string id="st_itm_exo_psu_tank_descr">
 		<text>Dodatkowe Ÿród³o zasilania, w które wyposa¿one s¹ egzoszkielety w celu zwiêkszenia ich pojemnoœci energetycznej. Popularny wœród wiêkszoœci stalkerów, bior¹c pod uwagê raczej nieefektywne zasilacze dostarczane ze standardowymi egzoszkieletami. Aby u¿yæ, przeci¹gnij na egzoszkielet.\n \nTen model jest eksperymentalnym prototypem zbudowanym w oparciu o schematy uzyskane od naukowców. Zaprojektowany jako uzupe³nienie oddzia³ów pierwszej linii, które musz¹ przeæ naprzód w ciê¿kim ostrzale, prototyp ten wykorzystuje w³aœciwoœci grawitacyjne artefaktu "Pustak" do generowania zlokalizowanej strefy anomalii w momencie aktywacji. Strefa anomalii skupia siê na u¿ytkowniku i skutecznie spowalnia pociski i od³amki o du¿ej prêdkoœci, a tak¿e czyni ataki mutantów bezu¿ytecznymi. Studnia grawitacyjna zak³óca jednak ruch u¿ytkownika. \n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
-		%c[d_blue] • %c[ui_gray_2] urz¹dzenie prototypowe\n
-		%c[d_blue] • %c[ui_gray_2] pojemnoœæ mocy: 500\n
-		%c[d_blue] • %c[ui_gray_2] wskaŸnik poboru mocy: 135%\n
-		%c[d_blue] • %c[ui_gray_2] kliknij podwójnie $$ACTION_SPRINT_TOGGLE$$ w celu redukcji powa¿nych uszkodzeñ\n
-		%c[0,255,255,255]- %c[ui_gray_2] koszt energii 20, czas dzia³ania 8 sekund, czas odnowienia 20 sekund\n
-		%c[d_blue] • %c[ui_gray_2] aby u¿yæ, przeci¹gnij i upuœæ na egzoszkielet.\n
+		%c[ui_gray_3]W£AŒCIWOŒCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Urz¹dzenie prototypowe\n
+		%c[d_blue] • %c[ui_gray_2] Moc: 500\n
+		%c[d_blue] • %c[ui_gray_2] WskaŸnik poboru mocy: 135%\n
+		%c[d_blue] • %c[ui_gray_2] Kliknij podwójnie $$ACTION_SPRINT_TOGGLE$$ w celu redukcji powa¿nych uszkodzeñ\n
+		%c[d_blue] • %c[ui_gray_2] Koszt energii 20, czas dzia³ania 8 sekund, czas odnowienia 20 sekund\n
 		</text>
 	</string>
 
@@ -74,16 +69,15 @@
 	</string>
 	<string id="st_itm_exo_psu_sprint_descr">
 		<text>Dodatkowe Ÿród³o zasilania, w które wyposa¿one s¹ egzoszkielety w celu zwiêkszenia ich pojemnoœci energetycznej. Popularny wœród wiêkszoœci stalkerów, bior¹c pod uwagê raczej nieefektywne zasilacze dostarczane ze standardowymi egzoszkieletami. Aby u¿yæ, przeci¹gnij na egzoszkielet.\n \nTen model jest eksperymentalnym prototypem zbudowanym w oparciu o schematy uzyskane od naukowców. Zaprojektowany w celu dodania opcji mobilnoœci dla ¿o³nierzy uderzeniowych, prototyp ten wykorzystuje w³aœciwoœci artefaktu "B³ysk" do zasilania niestandardowego zestawu serwomotorów. Artefakt "B³ysk" mo¿na tymczasowo aktywowaæ, aby znacznie zwiêkszyæ mobilnoœæ u¿ytkownika. Znacznie zwiêkszona prêdkoœæ poruszania siê pozwala równie¿ u¿ytkownikowi zadawaæ ogromne obra¿enia ka¿demu stworzeniu lub osobie, która znajdzie siê na jego drodze.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
-		%c[d_blue] • %c[ui_gray_2] cenny\n
-		%c[d_blue] • %c[ui_gray_2] pojemnoœæ mocy: 300\n
-		%c[d_blue] • %c[ui_gray_2] wskaŸnik poboru mocy: 85%\n
-		%c[d_blue] • %c[ui_gray_2] umiarkowane zu¿ycie energii elektrycznej\n
-		%c[d_blue] • %c[ui_gray_2] kliknij podwójnie $$ACTION_SPRINT_TOGGLE$$ dla znacznego wzrostu prêdkoœci\n
-		%c[d_blue] • %c[ui_gray_2] wbiegnij we wrogów, aby zadaæ obra¿enia\n
+		%c[ui_gray_3]W£AŒCIWOŒCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Cenny\n
+		%c[d_blue] • %c[ui_gray_2] Moc: 300\n
+		%c[d_blue] • %c[ui_gray_2] WskaŸnik poboru mocy: 85%\n
+		%c[d_blue] • %c[ui_gray_2] Umiarkowane zu¿ycie energii elektrycznej\n
+		%c[d_blue] • %c[ui_gray_2] Kliknij podwójnie $$ACTION_SPRINT_TOGGLE$$ dla znacznego wzrostu prêdkoœci\n
+		%c[d_blue] • %c[ui_gray_2] Wbiegnij we wrogów, aby zadaæ obra¿enia\n
 		%c[d_blue] • %c[ui_gray_2] Koszt energii 20, czas dzia³ania 8 sekund, czas odnowienia 20 sekund\n
-		%c[d_orange] • %c[ui_gray_2] aby u¿yæ, przeci¹gnij i upuœæ na egzoszkielet.\n
 		</text>
 	</string>
 
@@ -92,9 +86,9 @@
 	</string>
 	<string id="st_batteries_ccell_descr">
 		<text>Ciê¿ka bateria wojskowa do zasilania egzoszkieletów. Opracowane przez ukraiñskie oœrodki badawcze w oparciu o badania Zony, te wysokiej gêstoœci zestawy zasilaj¹ce mog¹ zast¹piæ zu¿yte ogniwa w elektrowniach egzoszkieletów lub przenieœæ energiê do pok³adowego magazynu. Przeci¹gnij na egzoszkielet, aby na³adowaæ jego moc.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] bateria do egzoszkieletu\n
-		%c[d_orange] • %c[ui_gray_2] aby u¿yæ, przeci¹gnij i upuœæ na egzoszkielet.\n
+		%c[ui_gray_3]W£AŒCIWOŒCI:\n
+		%c[d_blue] • %c[ui_gray_2] Bateria do egzoszkieletu\n
+		%c[d_blue] • %c[ui_gray_2] Zasila egzoszkielety\n
 		</text>
 	</string>
 
@@ -104,10 +98,10 @@
 	</string>
 	<string id="st_exo_recipe_1_descr">
 		<text>Artyku³ naukowy napisany przez W.R. Solenowa i R.R. Romanowicza, szczegó³owo opisuj¹cy zachowanie i zaobserwowane efekty artefaktów "Bateria" poddanych dzia³aniu pól elektromagnetycznych o ró¿nym natê¿eniu. Przy pewnych poziomach VPM zaobserwowano, ¿e "Bateryjka" emituje krótkie, intensywne impulsy pr¹du sta³ego z artefaktu, przy czym efekt nie ma ¿adnej korelacji z si³¹ pola. Artyku³ jest bardzo obszerny i rozwlek³y, a tekstowi i równaniom towarzyszy kilka wykresów, czarno-bia³ych zdjêæ i dzienników testów. Z ty³u dokumentu znajduj¹ siê schematy dotycz¹ce tego, w jaki sposób umieœciæ taki artefakt w baterii, aby spowodowaæ, ¿e bêdzie on wytwarza³ wiêcej napiêcia, gdy zostanie poddany dodatniemu pr¹dowi. Zeszyt jest opatrzony oficjaln¹ pieczêci¹ ukraiñskiego Ministerstwa Nauki.\n\n
-			%c[0,255,255,255]W£AŒCIWOŒCI:\n
-			%c[d_green] • %c[ui_gray_2] Ÿród³o informacji\n
-			%c[d_blue] • %c[ui_gray_2] instrukcja do wytwarzania\n
-			%c[d_blue] • %c[ui_gray_2] cenny\n</text>
+			%c[ui_gray_3]W£AŒCIWOŒCI:\n
+			%c[d_green] • %c[ui_gray_2] ród³o informacji\n
+			%c[d_blue] • %c[ui_gray_2] Instrukcja do wytwarzania\n
+			%c[d_blue] • %c[ui_gray_2] Cenny\n</text>
 	</string>
 	
 	<string id="st_exo_recipe_2">
@@ -115,10 +109,10 @@
 	</string>
 	<string id="st_exo_recipe_2_descr">
 		<text>Artyku³ naukowy autorstwa A.N. Perczenowa i W.R. Solenowa, szczegó³owo opisuj¹cy obserwacje osobliwych efektów grawitacyjnych artefaktu "Pe³ny Pustak". Zgodnie z dokumentem, przestrzeñ pomiêdzy pustymi dyskami jest konsekwencj¹ tego, ¿e dwa dyski czêœciowo zniekszta³caj¹ czasoprzestrzeñ wzglêdem siebie, tworz¹c miniaturow¹ anomaliê grawitacyjn¹. Zawartoœæ "pe³nej" czêœci "Pe³nego Pustaka" pozostaje nieznana i spekuluje siê, ¿e jest to widzialna forma cz¹stek powietrza na³adowanych wysoce wzbudzon¹ energi¹ punktu zerowego. Pod wp³ywem pr¹du zmiennego o okreœlonym natê¿eniu w warunkach pró¿ni, zawartoœæ tymczasowo rozprasza siê, a anomalia grawitacyjna zawarta miêdzy dwoma dyskami rozszerza siê, tworz¹c prawie nieprzepuszczaln¹ "pow³okê", w której wszelkie sta³e obiekty wchodz¹ce w przestrzeñ s¹ wychwytywane i odchylane od ich pierwotnej trajektorii. Odkrycie tego zachowania podobno zrani³o czterech sta¿ystów i dwóch asystentów laboratoryjnych, gdy wybrano prawid³ow¹ konfiguracjê. W dzienniku eksperymentu znajduje siê schemat pró¿niowego urz¹dzenia zabezpieczaj¹cego wymaganego do odtworzenia tego zachowania.\n\n
-			%c[0,255,255,255]W£AŒCIWOŒCI:\n
-			%c[d_green] • %c[ui_gray_2] Ÿród³o informacji\n
-			%c[d_blue] • %c[ui_gray_2] instrukcja do wytwarzania\n
-			%c[d_blue] • %c[ui_gray_2] cenny\n</text>
+			%c[ui_gray_3]W£AŒCIWOŒCI:\n
+			%c[d_green] • %c[ui_gray_2] ród³o informacji\n
+			%c[d_blue] • %c[ui_gray_2] Instrukcja do wytwarzania\n
+			%c[d_blue] • %c[ui_gray_2] Cenny\n</text>
 	</string>
 	
 	<string id="st_exo_recipe_3">
@@ -126,10 +120,10 @@
 	</string>
 	<string id="st_exo_recipe_3_descr">
 		<text>Artyku³ naukowy napisany przez R.R. Romanowicza i A.N. Perczenowa, szczegó³owo opisuj¹cy dziwne efekty, jakie artefakty "B³ysk" wywieraj¹ na maszyny zasilane elektrycznie. Kiedy artefakt "B³ysk" jest poddawany dodatniemu pr¹dowi elektrycznemu w pró¿ni, artefakt wytwarza anomalne pole o ró¿nej wielkoœci, które znacznie zwiêksza fizyczn¹ wydajnoœæ maszyn elektrycznych w okolicy - silniki dzia³aj¹ szybciej, procesory s¹ podkrêcane, a nawet mechaniczne zegarki poruszaj¹ siê szybciej. Ró¿ne dzienniki eksperymentalne odnotowuj¹ sk³onnoœæ maszyn do spalania siê z powodu wysokiej temperatury i tarcia generowanego, jeœli pole jest utrzymywane przez d³u¿szy czas, a wiêkszoœæ artyku³u to spekulacje na temat tego, co mo¿e powodowaæ takie zachowanie. Najnowsz¹ dominuj¹c¹ teori¹ jest wp³yw poziomu kwantowego zwiêkszaj¹cy przep³yw energii elektrycznej i si³ê magnetyzmu. Jednak takie teorie s¹ niepotwierdzone. W œrodku artyku³u znajduje siê schemat szczegó³owo opisuj¹cy konstrukcjê komory przechowalniczej artefaktu u¿ywanego w eksperymentach.\n\n
-			%c[0,255,255,255]W£AŒCIWOŒCI:\n
-			%c[d_green] • %c[ui_gray_2] Ÿród³o informacji\n
-			%c[d_blue] • %c[ui_gray_2] instrukcja do wytwarzania\n
-			%c[d_blue] • %c[ui_gray_2] cenny\n</text>
+			%c[ui_gray_3]W£AŒCIWOŒCI:\n
+			%c[d_green] • %c[ui_gray_2] ród³o informacji\n
+			%c[d_blue] • %c[ui_gray_2] Instrukcja do wytwarzania\n
+			%c[d_blue] • %c[ui_gray_2] Cenny\n</text>
 	</string>
 	
 	<string id="st_power">
@@ -142,13 +136,13 @@
 		<text>Brak</text>
 	</string>
 	<string id="st_charge_exo">
-		<text>na³aduj kombinezon</text>
+		<text>Na³aduj kombinezon</text>
 	</string>
 	<string id="st_install_psu">
-		<text>zainstaluj</text>
+		<text>Zainstaluj</text>
 	</string>
 	<string id="st_remove_psu">
-		<text>zdemontuj zasilacz</text>
+		<text>Zdemontuj zasilacz</text>
 	</string>
 	<string id="kb_power">
 		<text>Aktywuj moce</text>

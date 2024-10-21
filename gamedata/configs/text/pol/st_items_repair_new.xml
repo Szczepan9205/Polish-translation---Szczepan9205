@@ -14,7 +14,7 @@
 		%c[d_orange] • Mo¿e byæ u¿ywany do czyszczenia zabrudzonych czêœci w broni (stan powy¿ej 60%)\n
 		%c[d_orange] • Kliknij PPM na broñ typu A > konserwacja czêœci > wyczyœæ czêœæ\n
 		%c[0,255,255,255]KOMPATYBILNOŒÆ:\n
-		%c[d_orange] • %c[ui_gray_2]G³ównie z broni¹ ma³ego kalibru\n
+		%c[d_orange] • %c[ui_gray_2] G³ównie z broni¹ ma³ego kalibru\n
 		</text>
 	</string>
     
@@ -40,7 +40,7 @@
 		%c[d_orange] • Mo¿e byæ u¿ywany do czyszczenia zabrudzonych czêœci (stan powy¿ej 60%) w broni\n 
 		%c[d_orange] • Kliknij PPM na broñ typu C > konserwacja czêœci > wyczyœæ czêœæ\n
 		%c[0,255,255,255]KOMPATYBILNOŒÆ:\n
-		%c[d_orange] • %c[ui_gray_2] G³ównie z standardow¹ broni¹ wojskow¹ i konkretnymi pistoletami maszynowymi\n
+		%c[d_orange] • %c[ui_gray_2] G³ównie ze standardow¹ broni¹ wojskow¹ i konkretnymi pistoletami maszynowymi\n
 		</text>
 	</string>
 	
@@ -53,7 +53,7 @@
 		%c[d_orange] • Mo¿e byæ u¿ywany do czyszczenia zabrudzonych czêœci (stan powy¿ej 60%) w broni\n 
 		%c[d_orange] • Kliknij PPM na broñ typu D > konserwacja czêœci > wyczyœæ czêœæ\n
 		%c[0,255,255,255]KOMPATYBILNOŒÆ:\n
-		%c[d_orange] • %c[ui_gray_2] G³ównie dla broni du¿ego kalibru i/lub bardziej skomplikowanej broni\n
+		%c[d_orange] • %c[ui_gray_2] G³ównie z broni¹ du¿ego kalibru i/lub bardziej skomplikowanej broni\n
 		</text>
 	</string>
 
@@ -69,7 +69,7 @@
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • Mo¿e byæ u¿ywany do zastêpowania czêœci w pistolecie czêœciami z zestawu\n 
 		%c[d_orange] • Kliknij PPM na broñ typu A > konserwacja czêœci > wymieñ ¿¹dan¹ czêœæ\n
-        %c[0,255,255,255]KOMPATYBILNOŒÆ:\n
+        %c[0,255,255,255]KOMPATYBILNY:\n
 		%c[d_orange] • %c[ui_gray_2] G³ównie z broni¹ ma³ego kalibru\n
         </text>
     </string>
@@ -82,7 +82,7 @@
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • Mo¿e byæ u¿ywany do zastêpowania czêœci w pistolecie czêœciami z zestawu\n
 		%c[d_orange] • Kliknij PPM na broñ typu B > konserwacja czêœci > wymieñ ¿¹dan¹ czêœæ\n
-        %c[0,255,255,255]KOMPATYBILNY Z:\n
+        %c[0,255,255,255]KOMPATYBILNY:\n
 		%c[d_orange] • %c[ui_gray_2] G³ównie ze strzelbami i prostymi karabinami\n
         </text>
     </string>
@@ -95,8 +95,8 @@
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • Mo¿e byæ u¿ywany do zastêpowania czêœci w pistolecie czêœciami z zestawu\n 
 		%c[d_orange] • Kliknij PPM na broñ typu C > konserwacja czêœci > wymieñ ¿¹dan¹ czêœæ\n
-		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_orange] • %c[ui_gray_2] G³ównie z standardow¹ broni¹ wojskow¹ i konkretnymi pistoletami maszynowymi\n
+		%c[0,255,255,255]KOMPATYBILNY:\n
+		%c[d_orange] • %c[ui_gray_2] G³ównie ze standardow¹ broni¹ wojskow¹ i konkretnymi pistoletami maszynowymi\n
         </text>
     </string>
 
@@ -108,8 +108,8 @@
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • Mo¿e byæ u¿ywany do zastêpowania czêœci w pistolecie czêœciami z zestawu\n
 		%c[d_orange] • Kliknij PPM na broñ typu D > konserwacja czêœci > wymieñ ¿¹dan¹ czêœæ\n
-		%c[0,255,255,255]KOMPATYBILNY Z:\n
-		%c[d_orange] • %c[ui_gray_2] G³ównie dla broni du¿ego kalibru i/lub bardziej skomplikowanej broni\n
+		%c[0,255,255,255]KOMPATYBILNY:\n
+		%c[d_orange] • %c[ui_gray_2] G³ównie z broni¹ du¿ego kalibru i/lub bardziej skomplikowanej broni\n
         </text>
     </string>
 

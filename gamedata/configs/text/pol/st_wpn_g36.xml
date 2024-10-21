@@ -6,7 +6,7 @@
 	<string id="st_wpn_g36new_descr">
 		<text>HK G36 by³ znany jako projekt HK-50 na pocz¹tku lat 90-tych. Po anulowaniu projektów G11 i G41, Bundeswehra zosta³a z przestarza³ymi karabinami G3. Heckler und Koch mia³ opracowaæ nowy karabin szturmowy zarówno dla niemieckiej armii, jak i na eksport. Nowy karabin szturmowy 5,56x45 mm zosta³ przyjêty przez Bundeswehrê w 1995 roku, a tak¿e trafi³ w rêce ró¿nych organów œcigania na ca³ym œwiecie, w tym policji brytyjskiej i niektórych departamentów policji w USA. Jak dot¹d, skarg na ten karabin by³o bardzo niewiele. Najczêstsze z nich to przegrzewanie siê os³on podczas d³ugotrwa³ego ognia i utrata zera na wbudowanej lunecie karabinów G36KE. Niektórzy niemieccy ¿o³nierze skar¿yli siê równie¿ na po³o¿enie podwójnych celowników optycznych i ich ³atwe zaparowywanie przy z³ej pogodzie. Poza tym karabin jest celny, niezawodny i prosty w konserwacji.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n \n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n \n
 		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Niemcy\n
 		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Heckler und Koch\n
 		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]1996\n
@@ -18,8 +18,8 @@
 	<string id="st_wpn_g36new_k_descr">
 		<text>Karabinek (K oznacza "Kurz", krótki) w wersji G36. Maj¹c krótsz¹ lufê ni¿ orygina³, zapewnia lepsz¹ obs³ugê i ni¿sz¹ wagê, a jednoczeœnie ma nieco gorszy odrzut i celnoœæ, ale nadal nie jest to szkodliwe. Nie posiada równie¿ zintegrowanej lunety, zamiast tego jest wyposa¿ony w przyrz¹dy celownicze z szynami Picatinny pasuj¹cymi do wielu lunet NATO. Ten wariant jest najpopularniejszy wœród wszystkich u¿ytkowników, zarówno wojskowych, jak i stró¿ów prawa, uwa¿any za ogromny postêp w stosunku do G36. \n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-MORE, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki ACOG, Barska ES AC10632, C-MORE, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n \n
 		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Niemcy\n
 		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Heckler und Koch\n
 		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]1996\n
@@ -31,8 +31,8 @@
 	<string id="st_wpn_g36new_c_descr">
 		<text>Kompaktowa wersja G36. Maj¹c znacznie krótsz¹ lufê ni¿ orygina³, zapewnia lepsz¹ obs³ugê i znacznie ni¿sz¹ wagê, ale ma gorszy odrzut i celnoœæ. Najlepiej nadaje siê do bliskich staræ, choæ nie jest to z³y pistolet do walki na odleg³oœæ. G36C zosta³ stworzony, aby jeszcze bardziej skompaktowaæ i tak ju¿ kompaktowy G36K, jest prawdziwym faworytem wœród operatorów SWAT i okaza³ siê bardzo przydatny w walce miejskiej. Jest dostarczany z osobliwym celownikiem, pochodz¹cym z litewskiej wersji G36, co wskazuje, ¿e jest to miszmasz oryginalnego G36C i litewskiej wersji, tak to ju¿ jest z modyfikacjami w Zonie...\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-MORE, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki ACOG, Barska ES AC10632, C-MORE, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n \n
 		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Niemcy\n
 		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Heckler und Koch\n
 		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]1996\n
@@ -44,9 +44,9 @@
 	<string id="st_wpn_g36new_nimble_descr">
 		<text>Jeden z dziwnych wariantów G36. Wygl¹da na to, ¿e u¿ywa³ go by³y wojskowy Litewskich Si³ Zbrojnych, wprowadzaj¹c w nim pewne osobiste zmiany. Karabin ten jest podobny do G36K, ale znacznie l¿ejszy, a mimo to nie zmniejsza celnoœci, a odrzut jest równie znoœny. Rygiel zosta³ osobiœcie zmodyfikowany, aby strzela³ jeszcze szybciej ni¿ przeciêtnie. Os³ona jest litewsk¹ wersj¹ G36K, która jest l¿ejsza i ma szyny Picatinny, co pozwala na zamocowanie na niej granatnika M203. Posiada równie¿ przyrz¹dy celownicze KAC ze zintegrowanymi celownikami trytowymi, przy czym przednie s¹ znacznie bardziej kontrastowe ni¿ tylne, co zapewnia lepsz¹ widocznoœæ, a sam zestaw KAC zawiera szyny Picatinny do mocowania lunety. Cudowny, choæ nieco osobliwy wariant karabinu G36. \n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-MORE, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy M203\n \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki ACOG, Barska ES AC10632, C-MORE, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy M203\n \n
 		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Niemcy\n
 		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Heckler und Koch\n
 		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]1996\n \n

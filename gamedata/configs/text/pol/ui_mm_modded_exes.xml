@@ -21,43 +21,43 @@
 		<text>Shadery celowników - czu³oœæ myszki zmienia siê przy przybli¿eniu (sds_speed_enable)</text>
 	</string>
 	<string id="ui_mm_modded_exes_sds_zoom_enable">
-		<text>Shadery celowników - Prawid³owy wspó³czynnik przybli¿enia (sds_zoom_enable)</text>
+		<text>Shadery celowników - prawid³owy wspó³czynnik przybli¿enia (sds_zoom_enable)</text>
 	</string>
 	<string id="ui_mm_modded_exes_new_zoom_enable">
-		<text>Shadery celowników - G³adka zmiana przybli¿enia (new_zoom_enable)</text>
+		<text>Shadery celowników - g³adka zmiana przybli¿enia (new_zoom_enable)</text>
 	</string>
 	<string id="ui_mm_modded_exes_zoom_step_count">
-		<text>Shadery celowników - Liczba kroków p³ynnego zoomu (zoom_step_count)</text>
+		<text>Shadery celowników - liczba kroków p³ynnego zoomu (zoom_step_count)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_blur_inner">
-		<text>Shadery celowników - Rozmycie wewn¹trz celownika (scope_blur_inner)</text>
+		<text>Shadery celowników - rozmycie wewn¹trz celownika (scope_blur_inner)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_blur_outer">
-		<text>Shadery celowników - Rozmycie na zewn¹trz celownika (scope_blur_outer)</text>
+		<text>Shadery celowników - rozmycie na zewn¹trz celownika (scope_blur_outer)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_brightness">
-		<text>Shadery celowników - Jasnoœæ zewnêtrzna (scope_brightness)</text>
+		<text>Shadery celowników - jasnoœæ zewnêtrzna (scope_brightness)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_ca">
-		<text>Shadery celowników - Aberacja chromatyczna (scope_ca)</text>
+		<text>Shadery celowników - aberacja chromatyczna (scope_ca)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_fog_radius">
-		<text>Shadery celowników - Zasiêg rysowania mg³y (scope_fog_radius)</text>
+		<text>Shadery celowników - zasiêg rysowania mg³y (scope_fog_radius)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_fog_interp">
-		<text>Shadery celowników - Prêdkoœæ poruszania siê mg³y (scope_fog_interp)</text>
+		<text>Shadery celowników - prêdkoœæ poruszania siê mg³y (scope_fog_interp)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_fog_sharp">
-		<text>Shadery celowników - Ostroœæ mg³y (scope_fog_sharp)</text>
+		<text>Shadery celowników - ostroœæ mg³y (scope_fog_sharp)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_fog_swayAim">
-		<text>Shadery celowników - Ko³ysanie mg³y podczas celowania (scope_fog_swayAim)</text>
+		<text>Shadery celowników - ko³ysanie mg³y podczas celowania (scope_fog_swayAim)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_fog_swayMove">
-		<text>Shadery celowników - Mg³a ko³ysze siê przy ruchu (scope_fog_swayMove)</text>
+		<text>Shadery celowników - mg³a ko³ysze siê przy ruchu (scope_fog_swayMove)</text>
 	</string>
 	<string id="ui_mm_modded_exes_scope_fog_travel">
-		<text>Shadery celowników - Maksymalna odleg³oœæ przemieszczania siê mg³y (scope_fog_travel)</text>
+		<text>Shadery celowników - maksymalna odleg³oœæ przemieszczania siê mg³y (scope_fog_travel)</text>
 	</string>
 
 	<string id="ui_mm_modded_exes_particle_update_mod">

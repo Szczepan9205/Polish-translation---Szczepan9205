@@ -15,7 +15,7 @@
 		<text>Tryb debugowania</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_debug_mode_desc">
-		<text>W³¹cza spam wiadomoœci w konsoli</text>
+		<text>W³¹cza spam wiadomoœci w konsoli.</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_items_help">
 		<text>
@@ -25,7 +25,7 @@
 		</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_guns">
-		<text>Maksymalna iloœæ broni dwurêcznych na stanie</text>
+		<text>Maksymalna iloœæ broni karabinów na stanie</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_handguns">
 		<text>Maksymalna iloœæ pistoletów na stanie</text>
@@ -52,34 +52,34 @@
 		<text>Maksymalny procent amunicji z pocz¹tkowego zapasu do sprzedania</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_ammo_percent_desc">
-		<text>-10 nie dotknie amunicji</text>
+		<text>Ustawienie tej wartoœci na -10 nie zmieni amunicji.</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_sell_only_guns_ammo">
 		<text>Sprzeda¿ amunicji tylko do broni na stanie</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_food">
-		<text>Maksymalna iloœæ produktów spo¿ywczych (jedzenie, napoje, papierosy) na stanie.</text>
+		<text>Maksymalna iloœæ produktów spo¿ywczych (jedzenie, napoje, papierosy) na stanie</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_food_desc">
-		<text>Handlarze niebêd¹cy barmanami bêd¹ mieli 50% rzeczy do zaoferowania mniej ni¿ zdefiniowana iloœæ.</text>
+		<text>Handlarze nie bêd¹cy barmanami bêd¹ mieli o 50% przedmiotów do zaoferowania mniej ni¿ zdefiniowana iloœæ.</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_heal">
-		<text>Maksymalna iloœæ przedmiotów medycznych na stanie.</text>
+		<text>Maksymalna iloœæ przedmiotów medycznych na stanie</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_heal_desc">
-		<text>Handlarze nie bêd¹cy medykami bêd¹ mieli na stanie 50% medykamentów mniej ni¿ zdefiniowana iloœæ</text>
+		<text>Handlarze nie bêd¹cy medykami bêd¹ mieli na stanie o 50% medykamentów mniej ni¿ zdefiniowana iloœæ.</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_repair">
-		<text>Maksymalna iloœæ zestawów naprawczych na stanie.</text>
+		<text>Maksymalna iloœæ zestawów naprawczych na stanie</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_repair_desc">
-		<text>Handlarze nie bêd¹cy technikami bêd¹ mieli na stanie 50% mniej zestawów naprawczych ni¿ zdefiniowana iloœæ</text>
+		<text>Handlarze nie bêd¹cy technikami bêd¹ mieli na stanie o 50% mniej zestawów naprawczych ni¿ zdefiniowana iloœæ.</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_randomize">
 		<text>Losowoœæ</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_randomize_desc">
-		<text>Iloœæ przedmiotów bêdzie siê wahaæ od zdefiniowanej iloœci w MCM</text>
+		<text>Iloœæ przedmiotów bêdzie siê wahaæ od zdefiniowanej iloœci w MCM.</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_randomize_deviation">
 		<text>Losowoœæ odchylenia (%)</text>
@@ -87,7 +87,7 @@
 	<string id="ui_mcm_trader_destockifier_randomize_deviation_desc">
 		<text>
 			100% - iloœæ przedmiotów waha siê od 0 do 2x\n
-			50% - iloœæ przedmiotów waha siê od 0,5x do 1,5x kwoty
+			50% - iloœæ przedmiotów waha siê od 0,5x do 1,5x kwoty.
 		</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_compatibility_help">
@@ -96,7 +96,7 @@
 		</text>
 	</string>
 	<string id="ui_mcm_trader_destockifier_max_mags">
-		<text>Maksymalna liczba magazynków na stanie. (mod Mags Redux)</text>
+		<text>Maksymalna liczba magazynków na stanie (Mags Redux)</text>
 	</string>
 	
 </string_table>

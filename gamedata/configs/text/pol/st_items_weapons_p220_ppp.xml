@@ -10,7 +10,7 @@
 	<string id="st_wpn_sig229_descr">
 		<text>P229 to kompaktowy, zmodernizowany P228 z komor¹ kalibru 9 mm, przeznaczony do s³u¿by policyjnej i noszenia z ukrycia. Poniewa¿ jest to wariant "LEGION", mo¿na bezpiecznie za³o¿yæ, ¿e jest to cudo wœród zachodnich frakcji, takich jak najemnicy. Pomimo komory nabojowej w s³abszym kalibrze 9 mm zamiast mocniejszego .45 ACP, nadal jest to stosunkowo dobry ma³y pistolet dla tych, którzy wol¹ SIG-Sauera strzelaj¹cego amunicj¹ kalibru 9 mm zamiast .45 ACP.\n \n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik 9x19</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9x19 mm</text>
 	</string>
 
 	<string id="st_wpn_sig320">
@@ -19,7 +19,7 @@
 	<string id="st_wpn_sig320_descr">
 		<text>To niesamowity pistolet znaleziony przez ¯wawego, bardzo niedawny dodatek do pistoletów SIG-Sauer, wiêc uwa¿aj siê za wyj¹tkowego szczêœciarza. Jest to pistolet kalibru 9 mm, ale mo¿na go ³atwo przerobiæ na kaliber 45 ACP, wystarczy tylko znaleŸæ technika. Wykorzystuje mechanizm "Strike-Action", który powinien znacznie zmniejszyæ odrzut nawet w przypadku .45 ACP. Ma niezrównan¹ niezawodnoœæ, bardzo dobr¹ celnoœæ i doskona³y odrzut. Najlepszy pistolet, jaki mo¿na dostaæ, zw³aszcza .45 ACP, jeœli jest do tego przystosowany. \n \n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik 9x19</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9x19 mm</text>
 	</string>
 	<string id="st_up_p320_c7_name">
 		<text>Zmiana kalibru na .45 ACP</text>

@@ -12,8 +12,8 @@
 	<string id="st_pda_descr">
 		<text>PDA zawierajπce informacje o Zonie, cyfrowe zapisy, szczegÛ≥owe mapy z naniesionymi polami anomalii. Cena moøe byÊ wysoka, o ile znajdziesz odpowiedniego kupca.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] niskie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Niskie zuøycie energii elektrycznej\n
 		</text>
 	</string>
 	
@@ -23,8 +23,8 @@
 	<string id="st_pda_1_descr">
 		<text>Kieszonkowe urzπdzenie elektroniczne majπce zawieraÊ podstawowe, najwaøniejsze funkcje komputera. PDA jest niezbÍdne do dzielenia siÍ informacjami. Posiada wbudowany modu≥ GPS celem lokalizacji urzπdzenia i wyúwietlania w≥aúciwego czasu.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] niskie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Niskie zuøycie energii elektrycznej\n
 		</text>
 	</string>
 	
@@ -35,9 +35,9 @@
 		<text>Kieszonkowe urzπdzenie elektroniczne majπce zawieraÊ podstawowe, najwaøniejsze funkcje komputera. PDA jest niezbÍdne do dzielenia siÍ informacjami. Posiada wbudowany modu≥ GPS celem lokalizacji urzπdzenia i wyúwietlania w≥aúciwego czasu. W tej wersji modu≥ zosta≥ usprawniony. Potrafi odbieraÊ i przetwarzaÊ pozycjÍ innych modu≥Ûw pod≥πczonych do sieci w promieniu 300 metrÛw. DziÍki temu urzπdzenie jest siÍ jeszcze bardziej atrakcyjne dla stalkerÛw.\n \n
 		\nTo konkretne urzπdzenie jest rÛwnieø w stanie zlokalizowaÊ martwe cia≥a celÛw wyeliminowanych przez w≥aúciciela, poniewaø ktoú z≥ama≥ jego zabezpieczenia i zainstalowa≥ pirackπ wersjÍ oprogramowania IMI KilTrak.\n \n	
 		%c[0,255,255,255]W£AåCIWOåCI:\n																																																 							
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] niskie zuøycie energii elektrycznej\n
-		%c[d_purple] ï %c[ui_gray_2] pokazuje pozycjÍ znajdujπcych siÍ w pobliøu dowÛdcÛw grup\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Niskie zuøycie energii elektrycznej\n
+		%c[d_purple] ï %c[ui_gray_2] Pokazuje pozycjÍ znajdujπcych siÍ w pobliøu dowÛdcÛw grup\n
 		</text>
 	</string>
 	
@@ -47,9 +47,9 @@
 	<string id="st_pda_3_descr">
 		<text>Kieszonkowe urzπdzenie elektroniczne majπce zawieraÊ podstawowe, najwaøniejsze funkcje komputera. PDA jest niezbÍdne do dzielenia siÍ informacjami. Posiada wbudowany modu≥ GPS celem lokalizacji urzπdzenia i wyúwietlania w≥aúciwego czasu. W tej wersji modu≥ zosta≥ usprawniony. Potrafi odbieraÊ i przetwarzaÊ pozycjÍ innych modu≥Ûw pod≥πczonych do sieci w promieniu 300 metrÛw. DziÍki temu urzπdzenie jest siÍ jeszcze bardziej atrakcyjne dla stalkerÛw. W przeciwieÒstwie do typowych modu≥Ûw GPS, te polegajπ na zestawach unikalnych kodÛw udzielajπcych specjalnych przywilejÛw w kanale ≥πcznoúci celem zdobycia wiÍkszej liczby informacji.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] niskie zuøycie energii elektrycznej\n
-		%c[d_orange] ï %c[ui_gray_2] pokazuje pozycjÍ znajdujπcych siÍ w pobliøu dowÛdcÛw grup\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Niskie zuøycie energii elektrycznej\n
+		%c[d_orange] ï %c[ui_gray_2] Pokazuje pozycjÍ znajdujπcych siÍ w pobliøu dowÛdcÛw grup\n
 		</text>
 	</string>
 	
@@ -58,10 +58,10 @@
 	</string>
 	<string id="st_detector1_descr">
 		<text>Ten przestarza≥y detektor aktywnoúci anomalnych wydaje sygna≥ ostrzegawczy, kiedy anomalne czπsteczki z pobliskich anomalii dostajπ siÍ do specjalnej komory detekcyjnej. Rejestruje rÛwnieø obecnoúÊ artefaktÛw i mierzy odleg≥oúÊ do najbliøszego z nich. Wskaünikiem dystansu jest czÍstotliwoúÊ düwiÍku emitowanego przez detektor.\n \nAby przejúÊ w tryb wykrywania artefaktÛw, naleøy otworzyÊ przedniπ pokrywÍ urzπdzenia. Ze wzglÍdu na prostπ budowÍ Echo moøe wykrywaÊ tylko najbardziej rozpowszechnione rodzaje artefaktÛw.\n \n%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
 		%c[0,255,255,255] ï %c[0,255,255,255] Lokalizuje artefakty poziomu: %c[ui_gray_2]I\n
-		%c[d_orange] ï %c[ui_gray_2] moøe zlokalizowaÊ tylko najpowszechniejsze artefakty\n
+		%c[d_orange] ï %c[ui_gray_2] Moøe zlokalizowaÊ tylko najpowszechniejsze artefakty\n
 		
 		</text>
 	</string>
@@ -72,10 +72,10 @@
 	<string id="st_detector2_descr">
 		<text>Ten detektor aktywnoúci anomalnych ostatniej generacji moøe pos≥uøyÊ do lokalizacji formacji anomalnych. Ma rÛwnieø wbudowany panel z kolorowymi diodami, ktÛry nie tylko wskazuje kierunek, w ktÛrym znajdujπ siÍ artefakty, lecz takøe dystans dzielπcy je od uøytkownika. Aby przejúÊ w tryb poszukiwania artefaktÛw, naleøy otworzyÊ przedniπ pokrywÍ urzπdzenia. Niestety zaprogramowana lista artefaktÛw jest raczej przestarza≥a.\n \n
 		c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
 		%c[0,255,255,255] ï %c[0,255,255,255] Lokalizuje artefakty poziomu: %c[ui_gray_2]II\n
-		%c[d_orange] ï %c[ui_gray_2] moøe zlokalizowaÊ wiele rodzajÛw artefaktÛw, ale nie wszystkie\n
+		%c[d_orange] ï %c[ui_gray_2] Moøe zlokalizowaÊ wiele rodzajÛw artefaktÛw, ale nie wszystkie\n
 		</text>
 	</string>
 	
@@ -85,10 +85,10 @@
 	<string id="st_detector3_descr">
 		<text>Naukowy detektor nowej generacji. DziÍki wspÛ≥pracy trzech zmodernizowanych komÛr detekcyjnych pozycja artefaktÛw pokazywana jest na specjalnym ekranie. ZamkniÍte urzπdzenie rejestruje tylko promieniowanie i obecnoúÊ anomalii. Aby prze≥πczyÊ je w tryb poszukiwania artefaktÛw, naleøy otworzyÊ przedni wyúwietlacz LED. W trybie poszukiwania detektor jest w stanie zlokalizowaÊ wszystkie znane nauce artefakty.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] duøe zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Duøe zuøycie energii elektrycznej\n
 		%c[0,255,255,255] ï %c[0,255,255,255] Lokalizuje artefakty poziomu: %c[ui_gray_2]III\n
-		%c[d_orange] ï %c[ui_gray_2] moøe zlokalizowaÊ wszystkie artefakty znane nauce\n
+		%c[d_orange] ï %c[ui_gray_2] Moøe zlokalizowaÊ wszystkie artefakty znane nauce\n
 		</text>
 	</string>
 	
@@ -98,10 +98,10 @@
 	<string id="st_detector4_descr">
 		<text>Prototyp detektora czÍstotliwoúci anomalnych o rozszerzonej funkcjonalnoúci. Urzπdzenie to posiada program majπcy na celu identyfikacjÍ statycznych obszarÛw aktywnoúci tych zjawisk anomalnych, ktÛre znajdujπ siÍ w jego bazie danych. Pozycja anomalii jest wyúwietlana na specjalnym ekranie. Jak kaødy detektor, s≥uøy przede wszystkim lokalizowaniu artefaktÛw. Tryb poszukiwania artefaktÛw, aktywowany poprzez otwarcie przedniego wyúwietlacza LED, zosta≥ zmodyfikowany tak, aby mÛg≥ wykrywaÊ formacje anomalne nieznane jeszcze nauce.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] duøe zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Duøe zuøycie energii elektrycznej\n
 		%c[0,255,255,255] ï %c[0,255,255,255] Lokalizuje artefakty poziomu: %c[ui_gray_2]IV\n
-		%c[d_orange] ï %c[ui_gray_2] zmodyfikowany do wykrywania nawet anomalnych formacji obecnie nieznanych nauce\n
+		%c[d_orange] ï %c[ui_gray_2] Zmodyfikowany do wykrywania nawet anomalnych formacji obecnie nieznanych nauce\n
 		</text>
 	</string>
 	
@@ -111,8 +111,8 @@
 	<string id="st_detector9_descr">
 		<text>Odbiornik radiowy to niewielkie urzπdzenie z bardzo czu≥ym modu≥em odbioru fal radiowych uøywane do podstawowej, wrÍcz prymitywnej komunikacji. DosyÊ popularne wúrÛd øo≥nierzy, mimo przestarza≥ej technologii. Jak wskazuje nazwa, urzπdzenie odbiera sygna≥y radiowe w promieniu 200 metrÛw i w zakresie czÍstotliwoúci od 30 do 300 MHz.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
 		</text>
 	</string>
 	
@@ -122,8 +122,8 @@
 	<string id="st_detector8_descr">
 		<text>Pierwszy prototyp zaprojektowano pod przewodnictwem prof. Sacharowa w mobilnym laboratorium w Jantarze w 2008 roku. ProdukcjÍ urzπdzeÒ uruchomiono, gdy okaza≥y siÍ skuteczne w trakcie badaniach terenowych. Urzπdzenie jest w stanie rejestrowaÊ pomiary wewnπtrz pÛl anomalii. Udoskonalona konstrukcja i wzmocnione czujniki gwarantujπ wytrzyma≥oúÊ i sprawnoúÊ nawet w bardzo niebezpiecznym úrodowisku. Wysoka czu≥oúÊ pomiarÛw i moøliwoúÊ úledzenia zezwala na wykorzystanie miernika w najrÛøniejszych úrodowiskach i najtrudniejszych warunkach operacyjnych.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_orange] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_orange] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
 		</text>
 	</string>
 	
@@ -133,8 +133,8 @@
 	<string id="st_broken_pda_descr">
 		<text>To PDA wyglπda na powaønie uszkodzone. Ekran jest ca≥y popÍkany, a modu≥ GPS nie dzia≥a prawid≥owo. Elementy wewnÍtrzne wydajπ siÍ jednak dobrze zabezpieczone.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_cyan] ï %c[ui_gray_2] úmieÊ\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_cyan] ï %c[ui_gray_2] åmieÊ\n
 		</text>
 	</string>
 	
@@ -144,8 +144,8 @@
 	<string id="st_device_torch_descr">
 		<text>Standardowa latarka czo≥owa, w dobrym stanie i gotowa do uøycia. Bardzo przydatna dla stalkerÛw, ktÛrzy poruszajπ siÍ po zmroku, jednak nieroztropnie uøywana moøe przyciπgaÊ niechcianπ uwagÍ.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
 		</text>
 	</string>
 	
@@ -157,9 +157,9 @@
 		%c[0,255,255,255]W£AåCIWOåCI:\n
 		%c[d_orange] ï %c[ui_gray_2] D≥ugie naciúniÍcie klawisza przypisanego pod noktowizor spowoduje w≥πczenie noktowizora.\n
 		%c[d_orange] ï %c[ui_gray_2] KrÛtkie naciúniÍcie przycisku klawisza przypisanego pod noktowizor spowoduje dostosowanie jasnoúci NVG.\n \n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
-		%c[d_purple] ï %c[ui_gray_2] noktowizor: %c[ui_gray_1]1PN93-1\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
+		%c[d_purple] ï %c[ui_gray_2] Noktowizor: %c[ui_gray_1]1PN93-1\n
 		</text>
 	</string>
 	
@@ -171,9 +171,9 @@
 		%c[0,255,255,255]W£AåCIWOåCI:\n
 		%c[d_orange] ï %c[ui_gray_2] D≥ugie naciúniÍcie klawisza przypisanego pod noktowizor spowoduje w≥πczenie noktowizora.\n
 		%c[d_orange] ï %c[ui_gray_2] KrÛtkie naciúniÍcie przycisku klawisza przypisanego pod noktowizor spowoduje dostosowanie jasnoúci NVG.\n \n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
-		%c[d_purple] ï %c[ui_gray_2] noktowizor: %c[ui_gray_1]PN21KL\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
+		%c[d_purple] ï %c[ui_gray_2] Noktowizor: %c[ui_gray_1]PN21KL\n
 		</text>
 	</string>
 	
@@ -185,9 +185,9 @@
 		%c[0,255,255,255]W£AåCIWOåCI:\n
 		%c[d_orange] ï %c[ui_gray_2] D≥ugie naciúniÍcie klawisza przypisanego pod noktowizor spowoduje w≥πczenie noktowizora.\n
 		%c[d_orange] ï %c[ui_gray_2] KrÛtkie naciúniÍcie przycisku klawisza przypisanego pod noktowizor spowoduje dostosowanie jasnoúci NVG.\n \n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n																		
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
-		%c[d_purple] ï %c[ui_gray_2] noktowizor: %c[ui_gray_1]"Wyrocznia"\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n																		
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
+		%c[d_purple] ï %c[ui_gray_2] Noktowizor: %c[ui_gray_1]"Wyrocznia"\n
 		</text>
 	</string>
 	
@@ -196,8 +196,8 @@
 	</string>
 	<string id="st_device_flashlight_descr">
 		<text>TrochÍ staromodna, ale bardzo trwa≥a latarka. Nosi úlady uøytkowania. Niestety do jej uøycia potrzebna jest jedna wolna rÍka, przez co nie moøna jej nosiÊ razem z wiÍkszoúciπ broni, jedynie z pistoletami i noøami.\n \n%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
 		</text>
 	</string>
 	
@@ -207,8 +207,8 @@
 	<string id="st_batteries_dead_descr">
 		<text>Tylko jeden na dziesiÍÊ akumulatorkÛw znalezionych na Zatonie i w Jupiterze posiada jeszcze jakπkolwiek energiÍ. Stalkerzy zwykle wyrzucajπ baterie po roz≥adowaniu, bo znalezienie tutaj ≥adowarki graniczy z cudem. ZewnÍtrzna pow≥oka jest skorodowana i brudna, co wyraünie wskazuje, øe ich stan nie jest najlepszy. Jednakøe, jak wszystko w Zonie, majπ swojπ funkcjÍ, bowiem moøna je wykorzystaÊ do ≥adowania urzπdzeÒ.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_cyan] ï %c[ui_gray_2] úmieÊ\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_cyan] ï %c[ui_gray_2] åmieÊ\n
 		</text>
 	</string>
 	
@@ -218,8 +218,8 @@
 	<string id="st_batteries_descr">
 		<text>Zestaw niewielkich akumulatorkÛw. Ktoú musia≥ ich uøywaÊ, bo sπ w po≥owie roz≥adowane. Przeznaczone do latarki, PDA, noktowizora i innych urzπdzeÒ elektronicznych. PamiÍtaj o regularnym ≥adowaniu.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_cyan] ï %c[ui_gray_2] ürÛd≥o zasilania\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_cyan] ï %c[ui_gray_2] èrÛd≥o zasilania\n
 		</text>
 	</string>
 	
@@ -229,8 +229,8 @@
 	<string id="st_batteries_ccell_descr">
 		<text>Paczka w pe≥ni na≥adowanych baterii wojskowych. Bardzo cenne i uøyteczne, tym bardziej, øe trudno je dostaÊ w Zonie. Uøywane przez stalkerÛw wszystkich frakcji i stopni. Dostarczane handlarzom przez skorumpowanych oficerÛw, ktÛrzy chcπ trochÍ zarobiÊ na boku.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_cyan] ï %c[ui_gray_2] ürÛd≥o zasilania\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_cyan] ï %c[ui_gray_2] èrÛd≥o zasilania\n
 		</text>
 	</string>
 	
@@ -240,9 +240,9 @@
 	<string id="st_geiger_dead_descr">
 		<text>Licznik Geigera (inaczej - dozymetr) mierzy promieniowanie jonizujπce (radioaktywne). Wykrywa emisjÍ czπsteczek alfa, beta i gamma. Opracowany w 1908 roku, nadal pozostaje jednym z najpopularniejszych przedmiotÛw tego typu wykorzystywanym przez s≥uøbÍ zdrowia, fizykÛw, w przemyúle, geologii i innych dziedzinach nauk. Zbudowany z najprostszych moøliwych obwodÛw elektronicznych.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_orange] ï %c[ui_gray_2] mierzy poziom skaøenia radioaktywnego\n
-		%c[d_blue] ï %c[ui_gray_2] úrednie zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_orange] ï %c[ui_gray_2] Mierzy poziom skaøenia radioaktywnego\n
+		%c[d_blue] ï %c[ui_gray_2] årednie zuøycie energii elektrycznej\n
 		</text>
 	</string>
 	
@@ -252,11 +252,11 @@
 	<string id="st_electric power_descr">
 		<text>Opracowany w czasie Zimnej Wojny uniwersalny zasilacz. Niewielkich rozmiarÛw, a dodatkowo kompatybilny z prawie wszystkimi rodzajami baterii. Wykorzystuje ca≥π dostÍpnπ w bateriach energiÍ i dostarcza jπ urzπdzeniom elektrycznym. Cienkie przewody pasujπ do niemal kaødego sprzÍtu niezaleønie do stopnia skomplikowania i daty produkcji. Co wiÍcej, moøna dziÍki nim pod≥πczyÊ do UPD wiÍcej niø jedno urzπdzenie, nawet jeúli ma siÍ tylko jednπ bateriÍ.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_cyan] ï %c[ui_gray_2] przenoúne ürÛd≥o zasilania\n
-		%c[d_blue] ï %c[ui_gray_2] zasila wiÍkszoúÊ urzπdzeÒ elektrycznych\n
-		%c[d_blue] ï %c[ui_gray_2] kompatybilny ze wszystkimi rodzajami baterii\n
-		%c[d_blue] ï %c[ui_gray_2] pojemnoúÊ %c[ui_gray_1]3 Ah (amperogodziny)\n								
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_cyan] ï %c[ui_gray_2] Przenoúne ürÛd≥o zasilania\n
+		%c[d_blue] ï %c[ui_gray_2] Zasila wiÍkszoúÊ urzπdzeÒ elektrycznych\n
+		%c[d_blue] ï %c[ui_gray_2] Kompatybilny ze wszystkimi rodzajami baterii\n
+		%c[d_blue] ï %c[ui_gray_2] PojemnoúÊ %c[ui_gray_1]3 Ah (amperogodziny)\n								
 		</text>
 	</string>
 	
@@ -266,7 +266,7 @@
 	<string id="exten_sion_pda">
 		<text>Drogie, wodo- i wstrzπsoodporne PDA zawierajπce aplikacjÍ czatu i odtwarzacz muzyki.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_orange] ï %c[ui_gray_2] pozwala na odtwarzanie muzyki i korzystanie z sieci stalkerskiej\n
+		%c[d_orange] ï %c[ui_gray_2] Pozwala na odtwarzanie muzyki i korzystanie z sieci stalkerskiej\n
 		</text>
 	</string>
 	
@@ -276,8 +276,8 @@
 	<string id="st_gps_tracker_descr">
 		<text>Prototyp nowej generacji urzπdzeÒ nawigacyjnych GPS. Istnieje bardzo niewiele egzemplarzy. Wydawane sπ najbardziej doúwiadczonym øo≥nierzom specnazu, choÊ zdarza≥o siÍ, øe wydostawa≥y siÍ poza formacjÍ. Wzmocnione modu≥y gwarantujπ operatywnoúÊ nawet w nieprzyjaznym úrodowisku. Wysoka czu≥oúÊ i wzmocnienie sygna≥u pozwalajπ na korzystanie z modu≥u w najrÛøniejszych sytuacjach i w czasie najtrudniejszych warunkÛw bojowych. W przeciwieÒstwie do typowych modu≥Ûw GPS, te polegajπ na zestawach unikalnych kodÛw udzielajπcych specjalnych przywilejÛw podczas komunikacji. Posiada funkcjÍ wykrycie innych aktywnych modu≥Ûw GPS w promieniu 300 metrÛw. Z powodu wszystkich swoich moøliwoúci, modu≥ zuøywa znacznπ iloúÊ energii w czasie pracy. Posiada automatyczne zabezpieczenie wy≥πczajπce, aktywujπce siÍ po 20 sekundach nieprzerwanego skanowania.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] bardzo duøe zuøycie energii elektrycznej\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Bardzo duøe zuøycie energii elektrycznej\n
 		</text>
 	</string>
 
@@ -287,7 +287,7 @@
 	<string id="st_musicplayer_desc">
 		<text>Radio do komunikacji z innymi tego typu urzπdzeniami. Zmodyfikowano je, dodajπc filtr usuwajπcy zniekszta≥cenia sygna≥u.\n \n
 		%c[ui_gray_2]W£AåCIWOåCI:\n
-		%c[d_cyan] ï %c[ui_gray_2] obiekt techniczny\n
+		%c[d_cyan] ï %c[ui_gray_2] Przedmiot techniczny\n
 		</text>
 	</string>
 	
@@ -297,9 +297,9 @@
 	<string id="st_weather_radar_descr">
 		<text>Zaawansowany radar meteorologiczny wykorzystujπcy zjawisko przesuniÍcia dopplerowskiego. Pozwala na prowadzenie bardzo dok≥adnych badaÒ w dziedzinie meteorologii. Za pomocπ magnetronu po≥πczonego falowodem z antenπ parabolicznπ wysy≥a krÛtkie impulsy o dok≥adnie okreúlonej czÍstotliwoúci i czasie trwania, by rejestrowaÊ dane pogodowe. DwÛch naukowcÛw odkry≥o, øe umieszczenie artefaktu Kotlet w pobliøu anteny wzmacnia sygna≥ do tego stopnia, øe modyfikuje jony w warstwie troposfery i ca≥kowicie zmienia jej w≥aúciwoúci.\n \n
 		%c[0,255,255,255]W£AåCIWOåCI:\n
-		%c[d_blue] ï %c[ui_gray_2] obiekt techniczny\n
-		%c[d_blue] ï %c[ui_gray_2] wyposaøenie meteorologiczne\n
-		%c[d_blue] ï %c[ui_gray_2] zasilany artefaktem Kotlet\n
+		%c[d_blue] ï %c[ui_gray_2] Przedmiot techniczny\n
+		%c[d_blue] ï %c[ui_gray_2] Wyposaøenie meteorologiczne\n
+		%c[d_blue] ï %c[ui_gray_2] Zasilany artefaktem Kotlet\n
 		</text>
 	</string>
 	

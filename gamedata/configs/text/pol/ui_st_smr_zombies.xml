@@ -15,7 +15,7 @@
 		<text>Zombie szukaj¹ gracza</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_seek_enabled_desc">
-		<text>W trybie przetrwania zombie bêd¹ poruszaæ siê w kierunku gracza, gdy znajd¹ siê w okreœlonym promieniu (nawet jeœli nie zosta³y zaalarmowane). Ta funkcja odtworza to zachowanie.</text>
+		<text>W Trybie Przetrwania zombie bêd¹ poruszaæ siê w kierunku gracza, gdy znajd¹ siê w okreœlonym promieniu (nawet jeœli nie zosta³y zaalarmowane). Ta funkcja replikuje to zachowanie.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_seek_distance">
 		<text>Dystans poszukiwañ przez przeciwników</text>
@@ -28,7 +28,7 @@
 		<text>Poni¿ej mo¿esz kontrolowaæ, które warianty zombie bêd¹ siê pojawiaæ.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombiesp">
-		<text>Zombie podstawowe</text>
+		<text>Podstawowe zombie</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombies_amount">
 		<text>Liczba podstawowych zombie</text>
@@ -37,7 +37,7 @@
 		<text>Wspó³czynnik, o który mno¿one s¹ podstawowe spawny zombie (jeœli w³¹czone) w porównaniu do innych wariantów.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_blindp">
-		<text>Œlepe zobmie (psioniczne)</text>
+		<text>Œlepe zombie (psioniczne)</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_zombies_zombifiedp">
 		<text>Zombifikowani stalkerzy</text>

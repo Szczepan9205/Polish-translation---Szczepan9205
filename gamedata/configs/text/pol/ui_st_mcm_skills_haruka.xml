@@ -1,18 +1,18 @@
 <string_table>
 	<string id="ui_mcm_skill_system_exp_multiplier_strength">
-        <text>Si³a - mno¿nik doœwiadczenia</text>
+        <text>Mno¿nik doœwiadczenia (Si³a)</text>
     </string>
     <string id="ui_mcm_skill_system_exp_multiplier_endurance">
-        <text>Wytrzyma³oœæ - mno¿nik doœwiadczenia</text>
+        <text>Mno¿nik doœwiadczenia (Wytrzyma³oœæ)</text>
     </string>
     <string id="ui_mcm_skill_system_exp_multiplier_scavenging">
-        <text>Zbieractwo - mno¿nik doœwiadczenia</text>
+        <text>Mno¿nik doœwiadczenia (Zbieractwo)</text>
     </string>
     <string id="ui_mcm_skill_system_exp_multiplier_survival">
-        <text>Survival - mno¿nik doœwiadczenia</text>
+        <text>Mno¿nik doœwiadczenia (Survival)</text>
     </string>
     <string id="ui_mcm_skill_system_title">
-        <text>Konfiguracja systemu umiejêtnoœci</text>
+        <text>Ustawienia systemu umiejêtnoœci</text>
     </string>
      <string id="ui_mcm_menu_skill_system">
         <text>Umiejêtnoœci</text>
@@ -26,7 +26,7 @@
 	<string id="ui_mcm_skill_system_ui_keybind_desc">
         <text>Otwiera menu, w którym mo¿esz sprawdziæ swoje postêpy w drzewku umiejêtnoœci.</text>
     </string>
-	<string id="ui_mcm_skill_system_update_mcm">
+    <string id="ui_mcm_skill_system_update_mcm">
 		<text>Zaktualizuj MCM, aby zobaczyæ tê funkcjê. Domyœlnym ustawieniem jest klawisz K.</text>
 	</string>
 </string_table>

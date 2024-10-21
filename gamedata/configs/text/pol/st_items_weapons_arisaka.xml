@@ -8,8 +8,8 @@
 	<string id="st_wpn_arisaka_descr">
 		<text>Standardowy karabin bolt-action piechoty Cesarskiej Armii Japoñskiej od 1905 roku do koñca II wojny œwiatowej. Pomimo trudnych pocz¹tków, Arisaka zosta³a znacznie ulepszona na przestrzeni lat i okaza³a siê niezwykle celna i niezawodna nawet w niesprzyjaj¹cych warunkach. Obecnie jest to d³ugo poszukiwany relikt przesz³oœci.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Cesarstwo Japonii\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Cesarstwo Japonii\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Cesarstwo Japonii\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Cesarstwo Japonii\n
 		</text>
 	</string>
 	

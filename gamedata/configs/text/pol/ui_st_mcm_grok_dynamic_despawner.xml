@@ -6,12 +6,12 @@
         <text>Dynamiczny despawner Grok'a</text>
     </string>
     <string id="ui_mcm_grok_dd_npc_threshold">
-        <text>Maksymalna liczba NPC online utrzymywanych przy ¿yciu</text>
+        <text>Maksymalna liczba NPC online trzymanych przy ¿yciu</text>
     </string>
     <string id="ui_mcm_grok_dd_enabled">
         <text>W³¹czyæ Dynamiczny despawner Grok'a?</text>
     </string>
     <string id="ui_mcm_grok_dd_check_tasks">
-        <text>Unikaj usuwania NPC z zadaniami?</text>
+        <text>Unikaæ usuwania NPC z aktywnymi zadaniami?</text>
     </string>
 </string_table>

@@ -66,43 +66,43 @@
 		<text>Skomplikowana, zintegrowana modyfikacja mechanicznych i automatycznych czêœci broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci</text>
 	</string>
 	<string id="st_up_add_b1_name">
-		<text>Zmiana kalibru na 5x45</text>
+		<text>Zmiana kalibru na 5.45x39 mm</text>
 	</string>
 	<string id="st_up_add_b2_descr">
 		<text>Skomplikowana, zintegrowana modyfikacja mechanicznych i automatycznych czêœci broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci..</text>
 	</string>
 	<string id="st_up_add_b2_name">
-		<text>Zmiana kalibru na 5x56</text>
+		<text>Zmiana kalibru na 5.56x45 mm</text>
 	</string>
 	<string id="st_up_add_b3_descr">
 		<text>Skomplikowana, zintegrowana modyfikacja mechanicznych i automatycznych czêœci broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci.</text>
 	</string>
 	<string id="st_up_add_b3_name">
-		<text>Zmiana kalibru na 9x18</text>
+		<text>Zmiana kalibru na 9x18 mm</text>
 	</string>
 	<string id="st_up_add_b4_descr">
 		<text>Skomplikowana, zintegrowana modyfikacja mechanicznych i automatycznych czêœci broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci.</text>
 	</string>
 	<string id="st_up_add_b4_name">
-		<text>Zmiana kalibru na 9x19</text>
+		<text>Zmiana kalibru na 9x19 mm</text>
 	</string>
 	<string id="st_up_add_b5_descr">
 		<text>Kompleksowa, zintegrowana zmiana czêœci mechanicznych i zautomatyzowanych broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci.</text>
 	</string>
 	<string id="st_up_add_b5_name">
-		<text>Zmiana kalibru na 7.62x39</text>
+		<text>Zmiana kalibru na 7.62x39 mm</text>
 	</string>
 	<string id="st_up_add_b6_descr">
 		<text>Kompleksowa, zintegrowana zmiana czêœci mechanicznych i zautomatyzowanych broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci.</text>
 	</string>
 	<string id="st_up_add_b6_name">
-		<text>Zmiana kalibru na 7.62x51</text>
+		<text>Zmiana kalibru na 7.62x51 mm</text>
 	</string>
 	<string id="st_up_add_b7_descr">
 		<text>Kompleksowa, zintegrowana zmiana czêœci mechanicznych i zautomatyzowanych broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci.</text>
 	</string>
 	<string id="st_up_add_b7_name">
-		<text>Zmiana kalibru 7.62x54</text>
+		<text>Zmiana kalibru 7.62x54 mm</text>
 	</string>
 	<string id="st_up_addd_a1_descr">
 		<text>Zwiêkszenie pojemnoœci magazynka bez wyd³u¿ania broni.</text>
@@ -465,7 +465,7 @@
 		<text>Skomplikowana, zintegrowana modyfikacja mechanicznych i automatycznych czêœci broni, która pozwala na zmianê jej kalibru kosztem niezawodnoœci.</text>
 	</string>
 	<string id="st_up_bard_c6_name">
-		<text>Zmiana kalibru na 7.62x54</text>
+		<text>Zmiana kalibru na 7.62x54 mm</text>
 	</string>
 	<string id="st_up_barp_a1_descr">
 		<text>Wymiana standardowej lufy na d³u¿sz¹ zwiêksza celnoœæ i p³askoœæ toru pocisku, ale zmniejsza szybkostrzelnoœæ.</text>

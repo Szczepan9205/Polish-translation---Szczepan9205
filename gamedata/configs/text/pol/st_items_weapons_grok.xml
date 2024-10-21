@@ -13,8 +13,8 @@
 		<text>
 		RAPTR to automatyczna strzelba z magazynkiem, która narodzi³a siê w Zonie i zosta³a dostosowana do specyficznych potrzeb tej niebezpiecznej czêœci œwiata. RAPTR jest czêsto nazywany przez stalkerów "zabójc¹ pijawek". Rzeczywiœcie, jego wysoka szybkostrzelnoœæ, du¿y magazynek i niezrównana ergonomia sprawiaj¹, ¿e jest to idealna broñ do zabijania szybko poruszaj¹cych siê i niewidzialnych celów, jakimi s¹ pijawki. Uwa¿any g³ównie za fantazyjn¹ broñ w ci¹gu ostatnich kilku lat, popularnoœæ RAPTR-a wœród stalkerów zaczê³a rosn¹æ podczas niedawnego rozkwitu gniazd pijawek. Obecnie jest uwa¿any za jedn¹ z najlepszych strzelb kalibru 12x70 w Zonie.\n \n 
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Leupold M40, Eotech XPS3, Aimpoint CompM4s, Aimpoint Pro, Firefield MG Kemper XL\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 12K\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Leupold M40, Eotech XPS3, Aimpoint CompM4s, Aimpoint Pro, Firefield MG Kemper XL\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 12K\n
 		</text>
 	</string>
 	<string id="mag_raptr">

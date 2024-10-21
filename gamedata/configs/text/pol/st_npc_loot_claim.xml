@@ -19,7 +19,6 @@
 	<string id="st_npc_loot_claim_warn_6">
 		<text>Rzeczy tego goœcia nale¿¹ do nas! Zostaw je w spokoju.</text>
 	</string>
-
 	
 	<string id="st_npc_loot_claim_last_1">
 		<text>Nie bêdê ciê wiêcej ostrzega³, trzymaj siê z dala od tego ³upu!</text>
@@ -37,9 +36,8 @@
 		<text>Ostatnie ostrze¿enie! Nie dotykaj tego trupa, bo bêdziemy strzelaæ!</text>
 	</string>
 
-
 	<string id="st_npc_loot_claim_attack_1">
-		<text>Ostrzegaliœmy ciê! Nie pozwolimy ci siê okraœæ!</text>
+		<text>Ostrzegaliœmy ciê! Nie pozwolimy ci nas okradaæ!</text>
 	</string>
 	<string id="st_npc_loot_claim_attack_2">
 		<text>On próbuje ukraœæ nasze ³upy! Otworzyæ ogieñ!</text>

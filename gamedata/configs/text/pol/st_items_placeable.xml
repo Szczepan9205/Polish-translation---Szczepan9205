@@ -12,8 +12,8 @@
 	<string id="st_placeable_light_altar_descr">
 		<text>Obiekt o nieznanym pochodzeniu i przeznaczeniu. Pierwotnie ten dziwny obiekt emitowa³ œmiercionoœne fale psi i by³ przyczyn¹ œmierci wielu niczego niepodejrzewaj¹cych stalkerów, którzy zapuszczali siê na pó³nocne tereny. Ta lampa zosta³a jednak zmodyfikowana przez Sacharowa i z pomoc¹ kilku artefaktów sta³a siê Ÿród³em nieograniczonego œwiat³a i si³y mentalnej.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[d_cyan] • %c[0,255,255,255] paliwo: %c[ui_gray_2] baterie do karabinu Gaussa\n
+		%c[d_cyan] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[0,255,255,255] Zasilanie: %c[ui_gray_2] baterie do karabinu Gaussa\n
 		</text>
 	</string>
 
@@ -23,8 +23,8 @@
 	<string id="st_placeable_gas_lamp_descr">
 		<text>Generuje œwiat³o poprzez zapalenie knota oblanego naft¹. Takie lampy s¹ rzadkim Ÿród³em œwiat³a wœród stalkerów, poniewa¿ paliwo zajmuje ciê¿ar i miejsce w plecakach, które w przeciwnym razie mo¿na by wykorzystaæ na amunicjê lub bezcenne artefakty. Doœwiadczeni stalkerzy, którzy regularnie podró¿uj¹ œcie¿k¹ mniej ob³adowani ³upami, u¿ywaj¹ tych lamp w swoich kryjówkach. Ta lampa przez lata uleg³a znacznemu zu¿yciu i wygl¹da na to, ¿e straci³a swój szklany klosz.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[d_cyan] • %c[0,255,255,255] paliwo: %c[ui_gray_2] nafta\n
+		%c[d_cyan] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[0,255,255,255] Paliwo: %c[ui_gray_2] nafta\n
 		</text>
 	</string>
 
@@ -34,8 +34,8 @@
 	<string id="st_placeable_metal_torch_descr">
 		<text>Rêczna latarka z czasów radzieckich. Nieporêczny monta¿ metalowego pojemnika pozwala na efektywne wykorzystanie baterii, co jest bardziej przydatne do oœwietlania kryjówek. Ta konkretna latarka mo¿e byæ skonstruowana w terenie, choæ jej u¿ytecznoœæ jest ograniczona przez jej sto¿kowe œwiat³o. Doœwiadczeni stalkerzy wykorzystuj¹ to na swoj¹ korzyœæ, oœwietlaj¹c potencjalnych intruzów przy jednoczesnym zachowaniu w³asnego ukrycia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[d_cyan] • %c[0,255,255,255] paliwo: %c[ui_gray_2] baterie\n
+		%c[d_cyan] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[0,255,255,255] Paliwo: %c[ui_gray_2] baterie\n
 		</text>
 	</string>
 
@@ -45,10 +45,10 @@
 	<string id="st_placeable_workshop_descr">
 		<text>Po³¹czenie rozk³adanego sto³u, narzêdzi warsztatowych i zintegrowanego schowka. Pozwala to stalkerom byæ bardziej samowystarczalnymi w mniej przyjaznych obszarach, choæ jego waga zniechêca do majsterkowania w drodze.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ jako schowek\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
+		%c[d_cyan] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ jako schowka\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
 		</text>
 	</string>
 
@@ -58,7 +58,7 @@
 	<string id="st_placeable_radio_descr">
 		<text>To radio jest w dobrym stanie. Jest w stanie odbieraæ takie same sygna³y, jak te s³yszane w wielu bazach w ca³ej Zonie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[ui_gray_2] Przedmiot do umieszczenia\n
 		</text>
 	</string>
 
@@ -72,9 +72,9 @@
 	<string id="st_placeable_exo_kit_descr">
 		<text>Pusta skrzynia pozbawiona wszelkich przydatnych przedmiotów. Wielu stalkerów po prostu wyrzuca te zestawy naprawcze po naprawie swoich zaawansowanych technologicznie kombinezonów, choæ pojemnoœæ i rozmiar pojemnika do tego zestawu jest przydatny, gdy zostanie ponownie u¿yty jako schowek.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ jako schowek\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ jako schowek\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
 		</text>
 	</string>
 
@@ -84,9 +84,9 @@
 	<string id="st_placeable_case_descr">
 		<text>Pusty futera³ na broñ pozbawiony jakiejkolwiek broni. Zapewnia wiêcej miejsca ni¿ konwencjonalne plecaki kosztem wagi.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ jako schowek\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ jako schowek\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
 		</text>
 	</string>
 
@@ -96,20 +96,20 @@
 	<string id="st_placeable_blue_box_descr">
 		<text>Przestronna metalowa skrzynka przeznaczona do przechowywania przedmiotów. Zapewnia najwiêcej miejsca w porównaniu z alternatywami, ale jej nieporêcznoœæ utrudnia transport.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ jako schowek\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ jako schowek\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
 		</text>
 	</string>
 
     <string id="st_placeable_piano">
-		<text>Przenoœny Keyboard</text>
+		<text>Przenoœny keyboard</text>
 	</string>
 	<string id="st_placeable_piano_descr">
 		<text>Luksusowy keyboard rzadko spotykany w Zonie. Chocia¿ nie oferuje ¿adnej ochrony przed mutantami lub wrogimi stalkerami, mo¿e zapewniæ krótkie wytchnienie przed wrogoœci¹ Zony. Wygl¹da na to, ¿e ma w zestawie wiele arkuszy muzycznych o ró¿nym stopniu trudnoœci i wiele syntetycznie brzmi¹cych instrumentów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na na nim graæ\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na na nim graæ\n
 		</text>
 	</string>
 
@@ -119,9 +119,9 @@
 	<string id="st_placeable_sumka6_descr">
 		<text>Ma³e p³achty materia³u zszyte ze sob¹ w celu utworzenia prostego worka. Choæ nie jest szczególnie przydatny w sta³ych bazach, znajduje swoj¹ niszê w tworzeniu ma³ego schowka, gdy zajdzie taka potrzeba.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ jako schowek\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ jako schowek\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
 		</text>
 	</string>
 

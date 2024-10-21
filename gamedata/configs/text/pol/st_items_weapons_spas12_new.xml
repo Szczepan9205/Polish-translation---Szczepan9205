@@ -9,7 +9,7 @@
 	<string id="st_wpn_spas12_descr_new">
 		<text>SPAS-12 to strzelba dwutrybowa, zaprojektowana do dzia³añ bojowych i przeciw zamieszkom. Jest u¿ywana przez wiele specjalnych jednostek wojskowych i policyjnych na ca³ym œwiecie. Dziêki charakterystycznej os³onie termicznej i sk³adanej kolbie, SPAS-12 jest kultow¹ broni¹ paln¹. Wyró¿nia siê niezawodnoœci¹ i elastycznoœci¹ taktyczn¹. Pomimo du¿ej wagi, z³o¿onego mechanizmu i znacznych kosztów, jest poszukiwana w Zonie ze wzglêdu na swoj¹ skutecznoœæ przeciwko mutantom.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Salvo® 12\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
 	</string>
 

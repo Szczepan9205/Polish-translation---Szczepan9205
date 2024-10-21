@@ -35,7 +35,7 @@
 		<text>Okres widocznoœci ka³u¿y krwi (w sekundach)</text>
 	</string>
 	<string id="ui_mcm_blood_pool_pool_lifetime_desc">
-		<text>Okres widocznoœci ka³u¿y krwi od czasu pojawienia siê jej ( pool_lifetime - num_of_updates * update_freq = ka³u¿a znika w tym czasie ca³kowicie).</text>
+		<text>Okres widocznoœci ka³u¿y krwi od czasu pojawienia siê jej ( pool_lifetime - num_of_updates * update_freq = ka³u¿a w tym czasie znika ca³kowicie).</text>
 	</string>
 
 </string_table>

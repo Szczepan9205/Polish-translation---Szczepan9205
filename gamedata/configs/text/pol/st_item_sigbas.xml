@@ -11,9 +11,9 @@
 	<string id="st_wpn_sig550_descr">
 		<text>Znany z wysokiej jakoœci produkcji i dobrych osi¹gów, SG 550 jest czêsto okreœlany jako najlepszy karabin kalibru 5,56 mm, jaki kiedykolwiek wyprodukowano. Posiada sk³adan¹ na bok szkieletow¹ kolbê i lekki aluminiowy dwójnóg, który sk³ada siê do rowków w dolnej os³onie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ELCAN SpecterDR, Acog, Barsca AC10632, Kobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, Kemper\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203\n</text>
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ELCAN SpecterDR, Acog, Barsca AC10632, Kobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, Kemper\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203\n</text>
 	</string>
 	
 	<string id="st_wpn_sig550_strelok">
@@ -22,8 +22,8 @@
 	<string id="st_wpn_sig550_strelok_descr">
 		<text>Bêd¹cy wariantem popularnego karabinu SG 550 dla strzelców wyborowych, 550-1 stanowi idealny œrodek pomiêdzy karabinem snajperskim a szturmowym, zachowuj¹c jednoczeœnie mocne strony obu typów broni. Choæ brakuje mu nieco si³y obalaj¹cej i celnoœci w porównaniu do dedykowanego karabinu snajperskiego, zachowuje niezawodnoœæ i jakoœæ wykonania SG 550. Chocia¿ nie jest nowy, widaæ, ¿e poprzedni w³aœciciel bardzo o niego dba³: broñ zosta³a rozebrana i z³o¿ona z powrotem, a ka¿dy element zosta³ dostrojony pod k¹tem optymalnej wydajnoœci, zwiêkszaj¹c si³ê ra¿enia. Na kolbie wyryto literê "S" wraz z 16 ma³ymi naciêciami.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ELCAN SpecterDR, Acog, Barsca AC10632, Kobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, Kemper\n</text>
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ELCAN SpecterDR, Acog, Barsca AC10632, Kobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, Kemper\n</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 	</string>
 	
 	<string id="st_wpn_sig552">
@@ -32,8 +32,8 @@
 	<string id="st_wpn_sig552_descr">
 		<text>SG 552 Commando zosta³ zaprojektowany do walki w mieœcie, co czyni go najbardziej kompaktowym cz³onkiem renomowanej rodziny SG 550 firmy SIG, co zwiêksza jego mo¿liwoœci CQC. Podobnie jak SG 550, s³ynie z wysokiej jakoœci produkcji i wydajnoœci i czêsto jest nadal okreœlany jako najlepszy karabin 5,56 mm, jaki kiedykolwiek wyprodukowano.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ELCAN SpecterDR, Acog, Barsca AC10632, Kobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, Kemper\n</text>
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ELCAN SpecterDR, Acog, Barsca AC10632, Kobra EKP-8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, C-More, Aimpoint CompM4s, Eotech, Kemper\n</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 	</string>
 	
 <!-- UNUSED

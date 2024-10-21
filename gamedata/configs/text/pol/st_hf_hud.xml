@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
     <string id="st_hf_holding_msg">
-	<text>$key_interact - Umieść obiekt\n
-            $key_collision - Wł./wył. wykrywanie kolizji\n
-            $key_align - Wł./wył. wyrównanie względem powierzchni\n
-            $key_mode - Przełącz do trybu zaawansowanego\n
+	<text>$key_interact - Ulokuj obiekt\n
+            $key_collision - Wl./wyl. wykrywanie kolizji\n
+            $key_align - Wl./wyl. wyrownanie wzgledem powierzchni\n
+            $key_mode - Tryb zaawansowany\n
             ESCAPE - Anuluj umieszczanie
         </text>
 	</string>
 
     <string id="st_hf_advanced_msg">
-	<text>$key_interact - Umieść obiekt\n
-            Przekształcenia:\n
-            MOUSE1 - Ruch w płaszczyźnie poziomej\n
-            MOUSE2 - Obrót wokół osi pionowej\n
-            LSHIFT + MOUSE1 - Ruch wzdłuż osi pionowej\n
+	<text>$key_interact - Ulokuj obiekt\n
+            Przeksztalcenia:\n
+            MOUSE1 - Ruch w osi poziomej\n
+            MOUSE2 - Obracanie wokol osi pionowej\n
+            LSHIFT + MOUSE1 - Ruch wzdluz osi pionowej\n
             Modyfikatory:\n
-            LALT - Złam\n
+            LALT - Ukryj\n
             LCTRL - Precyzyjna kontrola\n
-            $key_mode - Przejście do trybu podglądu\n
-            ESCAPE - Przejście do trybu normalnego\n
+            $key_mode - Tryb podgladu\n
+            ESCAPE - Trybu normalny\n
         </text>
 	</string>
 
     <string id="st_hf_preview_msg">
-	<text>$key_interact - Umieść obiekt\n
+	<text>$key_interact - Ulokuj obiekt\n
             ESCAPE - Anuluj umieszczenie\n
-            $key_mode - Przełącz na tryb zaawansowany
+            $key_mode - Tryb zaawansowany
         </text>
 	</string>
 </string_table>

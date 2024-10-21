@@ -12,7 +12,7 @@
 	<string id="st_rioc_sid_desc">
 		<text>Zapieczêtowany pojemnik, który znalaz³em przy martwym stalkerze, to pewnie przesy³ka, o której mówi³ Sidorowicz.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>
 
@@ -22,7 +22,7 @@
 	<string id="st_rioc_duty_desc">
 		<text>To PDA potwierdza, ¿e zaginiony ¿o³nierz Pietrenki nie ¿yje. Wygl¹da na to, ¿e da³ z siebie wszystko.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>
 
@@ -32,7 +32,7 @@
 	<string id="st_rioc_ecolog_desc">
 		<text>Urz¹dzenie zamkniête we wzmocnionym pojemniku - wed³ug naukowców jest to zupe³nie nowy prototyp detektora, który ma zmieniæ realia polowania na artefakty. Niestety ¿aden z wyœwietlanych wykresów i liczb nie ma dla ciebie sensu.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>
 

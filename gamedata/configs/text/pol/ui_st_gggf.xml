@@ -4,8 +4,6 @@
 -->
 
 <string_table>
-
-
 	<string id="ui_mcm_gggf_title">
 		<text>Konfiguracja prêdkoœci poruszania siê postaci</text>
 	</string>
@@ -13,7 +11,7 @@
 		<text>Gotta Go Fast</text>
 	</string>
 	<string id="ui_mcm_gggf_gotta_go_fast_run">
-		<text>Mno¿nik prêdkoœci biegu</text>
+		<text>Mno¿nik prêdkoœci chodu</text>
 	</string>
 	<string id="ui_mcm_gggf_gotta_go_fast_run_desc">
 		<text>Mno¿y prêdkoœæ poruszania siê postaci (gdy poruszasz siê bez wciœniêtego ¿adnego innego klawisza) przez okreœlony wspó³czynnik.</text>
@@ -24,6 +22,4 @@
 	<string id="ui_mcm_gggf_gotta_go_fast_sprint_desc">
 		<text>Mno¿y prêdkoœæ sprintu postaci (gdy poruszasz siê z wciœniêtym przyciskiem "Sprint") przez okreœlony wspó³czynnik.</text>
 	</string>
-
-
 </string_table>

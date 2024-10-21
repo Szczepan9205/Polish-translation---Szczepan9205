@@ -12,7 +12,7 @@
 	<string id="st_rasp_tool_descr">
 		<text>Prosty pilnik s³u¿¹cy do naprawy czêœci broni takich jak wytarte, czy pordzewia³e lufy i komory zamkowe.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do utrzymania czêœci broni\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw elementów broni\n
 		</text>
 	</string>
 
@@ -23,7 +23,7 @@
 		<text>Wys³u¿ony, ale w pe³ni funkcjonalny Multitool. Mo¿na go u¿yæ do demonta¿u broni lub strojów oraz do regulacji zu¿ytych i zardzewia³ych mechanizmów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_cyan] • %c[ui_gray_2] narzêdzie do demonta¿u\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do utrzymania czêœci broni\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw elementów broni\n
 		</text>
 	</string>
 	
@@ -33,7 +33,7 @@
 	<string id="st_ramrod_tool_descr">
 		<text>Stary wycior do lufy sk³adaj¹cy siê z trzech elementów z kompozytowego drewna. S³u¿y do naprawy czêœci broni takich jak wytarte, czy pordzewia³e lufy i komory gazowe.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do utrzymania czêœci broni\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw elementów broni\n
 		</text>
 	</string>
 
@@ -43,8 +43,8 @@
 	<string id="st_cleaning_kit_u_descr">
 		<text>Zaawansowany zestaw do czyszczenia, dopasowany do wszystkich standardowych kalibrów broni. Mo¿na go równie¿ stosowaæ jako zestaw naprawczy. W jego sk³ad wchodzi niewielka porcja skutecznego smaru i rozpuszczalnika, jak równie¿ kilka lekkich narzêdzi u³atwiaj¹cych dostêp do wewnêtrznych mechanizmów broni palnej. W celu zwiêkszenia skutecznoœci wykorzystaj dodatkowe przybory i specjalistyczne zestawy naprawcze.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] nadaje siê do konserwacji czêœci broni\n
-		%c[d_red] • %c[ui_gray_2] czêœci broni musz¹ zostaæ usuniête przed czyszczeniem\n
+		%c[d_orange] • %c[ui_gray_2] Nadaje siê do konserwacji elementów broni\n
+		%c[d_red] • %c[ui_gray_2] Elementy broni musz¹ zostaæ wymontowane przed czyszczeniem\n
 		%c[d_orange] • %c[0,255,255,255] Kompatybilnoœæ z: %c[ui_gray_2] ka¿d¹ broni¹\n
 		</text>
 	</string>
@@ -59,7 +59,7 @@
 	<string id="st_sewing_thread_descr">
 		<text>W zestawie tym znajdziesz nici wykonane z ró¿nych w³ókien - jest bawe³na, len, nylon, a nawet jedwab. Ka¿dy stalker wie, ¿e o rozdarcia i przetarcia ciuchów w Zonie nietrudno. Ca³kiem niez³ym pomys³em jest zabranie ze sob¹ na wyprawê kilku szpulek i paru igie³.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do utrzymania czêœci strojów\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw elementów kombinezonów\n
 		</text>
 	</string>
 
@@ -69,7 +69,7 @@
 	<string id="st_heavy_sewing_thread_descr">
 		<text>Zaawansowany zestaw narzêdzi do szycia i zgrzewania rozszczelnieñ. Zawiera nici kevlarowe - jedne z najsilniejszych i najbardziej termoodpornych nici dostêpnych na rynku. S¹ one s¹ oko³o dwa i pó³ raza mocniejsze ni¿ nylon, czy poliester, maj¹ nisk¹ rozci¹gliwoœæ i zaczynaj¹ siê topiæ dopiero w temperaturach powy¿ej 400°C. To wszystko sprawia, ¿e s¹ doskona³ym wyborem przy odzie¿y ochronnej, szczególnie przeznaczonej do bardzo ciê¿kich warunków œrodowiskowych, zapewniaj¹c jej pewne i wytrzyma³e szwy.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do utrzymania czêœci strojów\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw elementów kombinezonów\n
 		</text>
 	</string>
 
@@ -83,8 +83,8 @@
 	<string id="st_solvent_descr">
 		<text>Wysokiej jakoœci czyszcz¹cy rozpuszczalnik zachodniej produkcji, przeznaczony do czyszczenia broni w surowych warunkach otoczenia. Jeden z najczêœciej stosowanych na œwiecie roztworów.\n \nTak jak inne rozpuszczalniki, opracowano go z myœl¹ o zapobieganiu korozji, usuwaniu kurzu i zanieczyszczeñ metalu, ale jego unikaln¹ w³aœciwoœci¹ jest to, ¿e uniemo¿liwia osiadanie ciê¿kich cz¹steczek na mechanicznych elementach broni palnych. Substancja dzia³a szybko, jest bardzo wydajna, bezpieczna i ³atwa w u¿yciu. Chocia¿ przep³ywa swobodnie i szybko wnika, zaleca siê stosowanie narzêdzi lub tkanin, aby przyspieszyæ rozprzestrzenianie siê.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[d_orange] • %c[0,255,255,255] Kompatybilnoœæ z: %c[ui_gray_2] ka¿dym typem broni palnej\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[d_orange] • %c[0,255,255,255] Kompatybilny z: %c[ui_gray_2] ka¿dym typem broni palnej\n
 		</text>
 	</string>
 
@@ -94,8 +94,8 @@
 	<string id="st_gun_oil_descr">
 		<text>Puszka zawiera olej przeznaczony do smarowania i zabezpieczenia broni palnej. Czêste stosowanie zapobiega awariom i korozji broni, zw³aszcza po d³ugim okresie u¿ywania w warunkach bojowych.\n \nPrzed przyst¹pieniem do procesu smarowania nale¿y prawid³owo oczyœciæ broñ paln¹, usuwaj¹c wszelkie zanieczyszczenia, które zebra³y siê na zewn¹trz i w œrodku. ¯eby zmaksymalizowaæ skutecznoœæ konserwacji, zaleca siê korzystaæ z podstawowych narzêdzi w celu uzyskania dostêpu do wewnêtrznych czêœci broni. Dziêki Brunox'owi broñ mo¿e dzia³aæ w temperaturach nawet do -55°C. Temperatura zap³onu smaru wynosi 78°C.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[d_orange] • %c[0,255,255,255] Kompatybilnoœæ z: %c[ui_gray_2] ka¿dym typem broni palnej\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[d_orange] • %c[0,255,255,255] Kompatybilny z: %c[ui_gray_2] ka¿dym typem broni palnej\n
 		</text>
 	</string>
 
@@ -105,8 +105,8 @@
 	<string id="st_gun_oil_ru_d_descr">
 		<text>Legendarny olej Armii Czerwonej, bêd¹cy w u¿yciu od prawie siedemdziesiêciu lat. Metalowa butelka podzielona jest na dwie przegrody - jedna na olej, a druga na rozpuszczalnik.\n \nPocz¹tkowo rozpuszczalnik oparty by³ na zasadowym roztworze, skutecznie usuwaj¹cym sole konserwuj¹ce, które stosowano przy sk³adowaniu i transporcie amunicji. Od tego czasu sk³ad p³ynu zmieniano wiele razy, ale prosta i pomys³owa "podwójna" butelka pozosta³a.\n \n"Dwójka" jest bardzo popularna w Zonie ze wzglêdu na swoj¹ uniwersalnoœæ. Nale¿y jednak¿e pamiêtaæ, ¿e dostêp oleju do wewnêtrznych mechanizmów broni jest ograniczony, przez co efektywna konserwacja wymaga odpowiednich narzêdzi. "Dwójka" powinna byæ zatem traktowana bardziej jako dodatek do innych przyborów ni¿ samodzielny p³yn konserwuj¹cy.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[d_orange] • %c[0,255,255,255] Kompatybilnoœæ z: %c[ui_gray_2] ka¿dym typem broni palnej\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[d_orange] • %c[0,255,255,255] Kompatybilny z: %c[ui_gray_2] ka¿dym typem broni palnej\n
 		</text>
 	</string>
 
@@ -116,8 +116,8 @@
 	<string id="st_gun_oil_ru_descr">
 		<text>Plastikowa butelka zawieraj¹ca tani, rosyjski olej mineralny przeznaczony do konserwacji broni. Pomimo swojej niskiej ceny "Rusak" utrzyma broñ w dobrym stanie, jeœli korzysta siê z niego czêsto. W celu zwiêkszenia skutecznoœci nanosiæ pêdzlem lub szczotk¹.\n \nWed³ug producenta "Rusak" szczególnie nadaje siê do konserwacji broni automatycznej i samopowtarzalnej z powodu niskiego wspó³czynnika tarcia. W jego sk³ad wchodz¹ równie¿ œrodki antykorozyjne i konserwuj¹ce.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[d_orange] • %c[0,255,255,255] Kompatybilnoœæ z: %c[ui_gray_2] ka¿dym typem broni palnej\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[d_orange] • %c[0,255,255,255] Kompatybilny z: %c[ui_gray_2] ka¿dym typem broni palnej\n
 		</text>
 	</string>
 
@@ -131,9 +131,9 @@
 	<string id="st_sewing_kit_b_descr">
 		<text>Lekki zestaw do szycia. W jego sk³ad wchodzi rolka tkaniny, kilka stalowych igie³ i no¿yczki. Mo¿na go stosowaæ do zaszywania dziur po kulach lub pêkniêæ w delikatnych tkaninach kombinezonów.\n \nJego praktyczne zastosowanie jest ograniczone ze wzglêdu na d³ugoœæ nici i niewielk¹ trwa³oœæ igie³, wiêc zestaw bêdzie bezu¿yteczny w przypadku powa¿niejszych uszkodzeñ. Z tego samego powodu mo¿e zszyæ tylko najbardziej podstawowe i najbardziej miêkkie materia³y. Tak czy inaczej, ¿eby zwiêkszyæ skutecznoœæ zestawu, zalecane jest korzystanie z dodatkowych przyborów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] wszystkimi kombinezonami oraz lekkimi he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Wszystkimi kombinezonami, he³mami klasy lekkiej oraz maskami\n
 		</text>
 	</string>
 
@@ -143,9 +143,9 @@
 	<string id="st_sewing_kit_a_descr">
 		<text>W sk³ad zaawansowanego zestawu do szycia wchodzi wiêcej materia³ów i s¹ one lepszej jakoœci ni¿ w zestawie podstawowym. Podwójne szpule nici nylonowej i du¿y wybór wysokiej jakoœci igie³ sprawiaj¹, ¿e nadaje siê on do pracy na grubszych i twardszych materia³ach, w tym na œrednich skórach mutantów i w³óknach sztucznych. Dziêki niemu bêdziesz w stanie naprawiæ tak¿e powa¿nie uszkodzone kombinezony.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] wszystkimi kombinezonami oraz lekkimi he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Wszystkimi kombinezonami, he³mami klasy lekkiej oraz maskami\n
 		</text>
 	</string>
 	
@@ -155,9 +155,9 @@
 	<string id="st_sewing_kit_h_descr">
 		<text>Wojskowy, ciê¿ki zestaw do szycia przeznaczony do napraw pêkniêæ w nowoczesnych p³ytach ochronnych pancerzy bojowych. Zawiera wystarczaj¹c¹ iloœæ nici, by zszyæ nawet rozdarty na pó³ kombinezon. Pozwala równie¿ na przyszycie najtwardszych skór mutantów. To najlepszy jakoœciowo zestaw dostêpny w Zonie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] wszystkimi kombinezonami oraz lekkimi he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Wszystkimi kombinezonami, he³mami klasy lekkiej oraz maskami\n
 		</text>
 	</string>
 
@@ -167,9 +167,9 @@
 	<string id="st_glue_e_descr">
 		<text>M17 powsta³ jako rezultat radzieckiego, wojskowego projektu badawczego - opracowano niezwykle mocny, jednosk³adnikowy klej, który mo¿na by zastosowaæ w ka¿dej sytuacji, niezale¿nie od celu i u¿ywanych materia³ów. Podjêto decyzjê, aby korzystaæ z silnego metakrylanu, który z zasady przystosowuje siê do reagowania albo z tworzywami sztucznymi, albo z metalami.\n \nNaukowcom uda³o siê przekroczyæ te ograniczenia, dziêki czemu substancja równie skuteczne radzi sobie z materia³ami obu rodzajów. Dodatkowo, klej wystêpuje w formie cieczy, co zwiêksza jego wszechstronnoœæ: mo¿na go rozcieñczyæ wod¹ i stosowaæ w dowolnym stê¿eniu, w zale¿noœci od zapotrzebowania. Poradzi sobie praktycznie ze wszystkimi uszkodzeniami, szczególnie jeœli wspomo¿e siê go odpowiednimi przyborami. Potrafi zwi¹zaæ wszystkie dostêpne w Zonie materia³y.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] wszystkimi kombinezonami oraz lekkimi he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Wszystkimi kombinezonami, he³mami klasy lekkiej oraz maskami\n
 		</text>
 	</string>
 
@@ -179,9 +179,9 @@
 	<string id="st_glue_a_descr">
 		<text>Produkowany przez ukraiñski przemys³ chemiczny, ten zmodyfikowany klej na bazie ¿ywicy epoksydowej jest w stanie szybko zwi¹zaæ wiêkszoœæ materia³ów. Wszechstronnoœæ i prostota obs³ugi to dwa g³ówne powody, dla których "Tur" cieszy siê takim powa¿aniem wœród stalkerów, w szczególnoœci, ¿e czêœci zamienne s¹ tak trudno dostêpne. Klej wi¹¿e zarówno tkaniny, jak i l¿ejsze materia³y ochronne, np. kevlar, ale nie radzi sobie z metalami.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] wszystkimi kombinezonami oraz he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Wszystkimi kombinezonami oraz he³mami oraz maskami\n
 		</text>
 	</string>
 
@@ -191,45 +191,45 @@
 	<string id="st_glue_b_descr">
 		<text>Najtañszy syntetyczny klej dostêpny w Zonie, oparty na ¿ywicy epoksydowej. Stosowany przede wszystkim, ¿eby skleiæ porwane tkaniny i za³ataæ ma³e dziury w he³mie, jednak bezu¿yteczny w przypadku powa¿niejszych uszkodzeñ.\n \nZ drugiej strony, "Zwiezda" (ros. Gwiazda) ma œwietny stosunek jakoœci do ceny, a jeœli korzysta siê z niego regularnie, bêdzie w stanie utrzymaæ kombinezon zawsze w dobrym stanie. ¯eby zwiêkszyæ skutecznoœæ napraw, zaleca siê u¿ywaæ wszelkiego rodzaju materia³ów pomocniczych. Klej nie ³¹czy skór mutantów. U³atwia szycie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] wszystkimi kombinezonami oraz lekkimi he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Wszystkimi kombinezonami oraz he³mami klasy lekkiej oraz maskami\n
 		</text>
 	</string>
 
 	<string id="st_light_repair_kit">
-		<text>Zestaw do naprawy lekkich pancerzy</text>
+		<text>Zestaw do naprawy lekkich kombinezonów</text>
 	</string>
 	<string id="st_light_repair_kit_descr">
 		<text>Ten skomplikowany, ciê¿ki zestaw zawiera wszystko, co potrzebne - od wytrzyma³ych igie³ i nici do polimerowych ³atek - by przeprowadziæ gruntown¹ naprawê kombinezonu lub he³mu. Spe³ni swoj¹ funkcjê bez wzglêdu na materia³, niezale¿nie czy bêdzie to ciê¿ka tkanina, czy wojskowy kevlar. Dodatkowe narzêdzia i inne zestawy podnios¹ efektywnoœæ napraw.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] bardzo lekkimi i lekkimi kombinezonami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Kurtkami i lekkimi kombinezonami\n
 		</text>
 	</string>
 	
 	<string id="st_medium_repair_kit">
-		<text>Zestaw do naprawy œrednich pancerzy</text>
+		<text>Zestaw do naprawy œrednich kombinezonów</text>
 	</string>
 	<string id="st_medium_repair_kit_descr">
 		<text>Ten skomplikowany, ciê¿ki zestaw zawiera wszystko, co potrzebne - od wytrzyma³ych igie³ i nici do polimerowych ³atek - by przeprowadziæ gruntown¹ naprawê kombinezonu lub he³mu. Spe³ni swoj¹ funkcjê bez wzglêdu na materia³, niezale¿nie czy bêdzie to ciê¿ka tkanina, czy wojskowy kevlar. Dodatkowe narzêdzia i inne zestawy podnios¹ efektywnoœæ napraw.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ ze:\n
-		%c[d_orange] • %c[ui_gray_2] œrednimi kombinezonami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Kombinezonami œredniej klasy\n
 		</text>
 	</string>
 
 	<string id="st_exolight_repair_kit">
-		<text>Zestaw do naprawy ciê¿kich pancerzy</text>
+		<text>Zestaw do naprawy ciê¿kich kombinezonów</text>
 	</string>
 	<string id="st_exolight_repair_kit_descr">
 		<text>Ten skomplikowany, ciê¿ki zestaw zawiera wszystko, co potrzebne - od wytrzyma³ych igie³ i nici do polimerowych ³atek - by przeprowadziæ gruntown¹ naprawê kombinezonu lub he³mu. Spe³ni swoj¹ funkcjê bez wzglêdu na materia³, niezale¿nie czy bêdzie to ciê¿ka tkanina, czy wojskowy kevlar. Dodatkowe narzêdzia i inne zestawy podnios¹ efektywnoœæ napraw.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n
-		%c[d_orange] • %c[ui_gray_2] ciê¿kimi kombinezonami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n
+		%c[d_orange] • %c[ui_gray_2] Ciê¿kimi kombinezonami\n
 		</text>
 	</string>
 
@@ -239,9 +239,9 @@
 	<string id="st_exo_repair_kit_descr">
 		<text>Ten skomplikowany, ciê¿ki zestaw zawiera wszystko, co potrzebne - od wytrzyma³ych igie³ i nici do polimerowych ³atek - by przeprowadziæ gruntown¹ naprawê kombinezonu lub he³mu. Spe³ni swoj¹ funkcjê bez wzglêdu na materia³, niezale¿nie czy bêdzie to ciê¿ka tkanina, czy wojskowy kevlar. Dodatkowe narzêdzia i inne zestawy podnios¹ efektywnoœæ napraw.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z: 
-		%c[d_orange] • %c[ui_gray_2] egzoszkieletami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z: 
+		%c[d_orange] • %c[ui_gray_2] Egzoszkieletami\n
 		</text>
 	</string>
 
@@ -251,9 +251,9 @@
 	<string id="st_helmet_repair_kit_descr">
 		<text>Zestaw ten zawiera wszystko, co mo¿e byæ potrzebne do naprawy nowoczesnego he³mu bojowego. W jego sk³ad wchodz¹ mocny klej i ciê¿kie narzêdzia, umo¿liwiaj¹ce prace na tak twardych materia³ach, jak kevlar, stal czy tytan.\n \nJako ¿e w zestawie nie ma ¿adnego sprzêtu do szycia, nie nadaje siê on do napraw materia³ów elastycznych, z których tworzy siê zbroje, ale mo¿na u¿yæ go do rozmontowania he³mów celem zwiêkszenia efektywnoœci naprawy.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n 
-		%c[d_orange] • %c[ui_gray_2] œrednimi i ciê¿kimi he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny z:\n 
+		%c[d_orange] • %c[ui_gray_2] He³mami œredniej i ciê¿kiej klasy oraz maskami\n
 		</text>
 	</string>
 
@@ -263,9 +263,9 @@
 	<string id="st_armor_repair_fa_descr">
 		<text>Zestaw naprawczy pozwalaj¹cy u¿ytkownikowi przeprowadzaæ naprawy kombinezonów w nag³ych przypadkach. W jego sk³ad wchodzi wojskowa taœma klej¹ca i grube arkusze tkanin o ró¿nych kszta³tach i w wielu rozmiarach, umo¿liwiaj¹ce szybk¹ naprawê kombinezonów. Szczególnie u¿yteczny, ¿eby zapobiegaæ strukturalnym uszkodzeniom pancerzy. Ze wzglêdu na stosunkowo nisk¹ jakoœæ materia³ów zestaw nadaje siê jedynie do podstawowej naprawy. Jest nieskuteczny przy ciê¿szych materia³ach takich, jak kevlar czy metale, dlatego jego zastosowanie w przypadku he³mów jest bardzo ograniczone.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n 
-		%c[d_orange] • %c[ui_gray_2] wszystkimi kombinezonami i he³mami oraz maskami\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
+		%c[0,255,255,255]Kompatybilny ze:\n 
+		%c[d_orange] • %c[ui_gray_2] Wszystkimi kombinezonami i he³mami oraz maskami\n
 		</text>
 	</string>
 
@@ -279,9 +279,9 @@
 	<string id="st_sharpening_stones_descr">
 		<text>Têpe no¿e i narzêdzia? Nie musi tak byæ. Zapomnij o kamieniach szlifierskich walaj¹cych siê luzem, obt³ukuj¹cych szafki, rysuj¹cych wszystko dooko³a. Nie, teraz wszystko ma swoje miejsce! Bardzo praktyczny zestaw trzech ostrza³ek dla ka¿dego, spakowany w przyjemn¹ w dotyku poliestrow¹ torbê. Zestaw do perfekcyjnego ostrzenia zawiera kamienie o ró¿nej gruboœci ziaren, stosowane zale¿nie od potrzeb tak, by krawêdzie tn¹ce twoich no¿y by³y ostre, jak brzytwa!\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] zestaw narzêdzi\n \n
-		%c[0,255,255,255]Kompatybilnoœæ z:\n 
-		%c[d_orange] • %c[ui_gray_2] no¿ami i ostrzami\n
+		%c[d_cyan] • %c[ui_gray_2] Zestaw narzêdzi\n \n
+		%c[0,255,255,255]Kompatybilny z:\n 
+		%c[d_orange] • %c[ui_gray_2] No¿ami i ostrzami\n
 		</text>
 	</string>
 
@@ -430,7 +430,7 @@
 		%c[d_blue] • %c[ui_gray_2] obiekt techniczny\n
 		%c[d_blue] • %c[ui_gray_2] wysoka jakoœæ\n
 		%c[d_blue] • %c[ui_gray_2] wartoœciowy\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na u¿yæ do napraw wyposa¿enia\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na go u¿yæ do napraw wyposa¿enia\n
 		</text>
 	</string>
 

@@ -8,7 +8,7 @@
 	<string id="st_placeable_radio_descr">
 		<text>Radio w dobrym stanie. Jest w stanie odbieraæ takie same sygna³y, jak te s³yszane w wielu bazach w ca³ej Zonie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
 		</text>
 	</string>
 	

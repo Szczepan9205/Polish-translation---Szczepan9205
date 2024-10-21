@@ -13,7 +13,7 @@
 		<text>Im wy¿sza wartoœæ, tym bardziej losowy bêdzie rozmiar oddzia³ów stalkerów.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_stalkers_civil_war">
-		<text>Wojna domowa</text>
+		<text>Tryb Warfare</text>
 	</string>
 	<string id="ui_mcm_lst_smr_stalkers_civilwar_disabled">
 		<text>Wy³¹czone</text>
@@ -31,13 +31,13 @@
 		<text>Wojna domowa wp³ywa na populacjê bazy</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_stalkers_civil_war_base_population_desc">
-		<text>Jeœli w³¹czone, ustawienia wojny domowej wp³ywaj¹ na stalkerów nale¿¹cych do populacji baz.</text>
+		<text>Jeœli w³¹czone, ustawienia trybu Warfare wp³ywaj¹ na stalkerów nale¿¹cych do populacji baz.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied">
-		<text>Sojusznik monolitu (wojna domowa)</text>
+		<text>Sojusznik monolitu (Warfare)</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_stalkers_civil_war_monolith_allied_desc">
-		<text>Utrzymuje stalkerów Monolitu w przyjaznych stosunkach ze sob¹, niezale¿nie od ustawieñ wojny domowej.</text>
+		<text>Utrzymuje stalkerów Monolitu w przyjaznych stosunkach ze sob¹, niezale¿nie od ustawieñ trybu Warfare.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_stalkers_base_population">
 		<text>Populacja baz stalkerów</text>
@@ -65,7 +65,7 @@
 	</string>
 	<string id="ui_mcm_SMR_smr_stalkers_base_population_minimal">
 		<text>Usuwa prawie wszystkie bazy. Z tych, które pozosta³y, Rostok jest jedyn¹ bezpieczn¹ baz¹ ze stra¿nikami. Nie ma to wp³ywu na spawn poza bazami.
-		Jeœli nie zaczynasz jako samotnik, byæ mo¿e bêdziesz musia³ skorzystaæ z systemu przebrañ.
+		Jeœli nie zaczynasz jako Samotnik, byæ mo¿e bêdziesz musia³ skorzystaæ z systemu przebrañ.
 		</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_stalkers_base_population_none">

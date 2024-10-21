@@ -26,17 +26,17 @@
 	</string>
 
 	<string id="ui_mcm_drx_da_anomaly_zone_spawn_chance">
-		<text>Anomalie</text>
+		<text>Szansa na spawn anomalii</text>
 	</string>
 	<string id="ui_mcm_drx_da_anomaly_zone_spawn_chance_desc">
 		<text>Szansa na to, ¿e na danym terenie pojawi siê anomalia.</text>
 	</string>
 
 	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max">
-		<text>Odleg³oœæ anomalii</text>
+		<text>Promieñ strefy anomalii</text>
 	</string>
 	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_max_desc">
-		<text>Maksymalna odleg³oœæ pojawiania siê anomalii od centrum wyznaczonego terenu.</text>
+		<text>Maksymalna odleg³oœæ od œrodka smart terrain, która jest dozwolona dla strefy anomalii.</text>
 	</string>
 
 	<string id="ui_mcm_drx_da_anomaly_zone_anomalies_distance_min">
@@ -54,14 +54,14 @@
 	</string>
 
 	<string id="ui_mcm_drx_da_max_artefacts_per_zone">
-		<text>Maksymalna liczba artefaktów</text>
+		<text>Maksymalna liczba artefaktów na strefê</text>
 	</string>
 	<string id="ui_mcm_drx_da_max_artefacts_per_zone_desc">
 		<text>Okreœla maksymaln¹ liczbê artefaktów jakie mog¹ siê pojawiæ w powsta³ej anomalii. </text>
 	</string>
 
 	<string id="ui_mcm_drx_da_artefacts_spawn_chance">
-		<text>Szansa na pojawienie siê artefaktów</text>
+		<text>Szansa na spawn artefaktów</text>
 	</string>
 	<string id="ui_mcm_drx_da_artefacts_spawn_chance_desc">
 		<text>Okreœla prawdopodobieñstwo pojawienia siê artefaktu w anomalii.</text>
@@ -85,7 +85,7 @@
 		<text>Mno¿nik pola elektrycznego</text>
 	</string>
 	<string id="ui_mcm_drx_da_electric_field_modifier_desc">
-		<text>Modyfikator uszkodzeñ zadawanych przez anomalie energetyczne.</text>
+		<text>Modyfikator uszkodzeñ zadawanych przez anomalie elektryczne.</text>
 	</string>
 
 	<string id="ui_mcm_drx_da_enable_anomalies_behaviour">
@@ -99,19 +99,20 @@
 		<text>Zapis gry po usuniêciu anomalii</text>
 	</string>
 	<string id="ui_mcm_drx_da_save_after_cleanup_desc">
-		<text>Zapisuje grê po ka¿dej emisji, gdy dynamiczne anomalie zostaj¹ usuniête z danego terytorium.</text>
+		<text>Zapisuje grê po ka¿dej emisji i burzy psionicznej, gdy dynamiczne anomalie zostaj¹ usuniête z danego terytorium.</text>
 	</string>
 
 	<string id="ui_mcm_drx_da_disable_new_anomalies">
 		<text>Wy³¹cz nowe anomalie</text>
 	</string>
 	<string id="ui_mcm_drx_da_disable_new_anomalies_desc">
-		<text>Wy³¹cza mo¿liwoœæ pojawiania siê nowych anomalii. Opcja zadzia³a dopiero po ponownym przejœciu emisji.</text>
+		<text>Wy³¹cza mo¿liwoœæ pojawiania siê nowych anomalii. Opcja zadzia³a dopiero po nastêpnej emisji, burzy psionicznej lub rozpoczêciu nowej gry.</text>
 	</string>
 
 	<string id="ui_mcm_drx_da_choose_help">
 		<text>
-			Poni¿ej mo¿na selektywnie w³¹czyæ pojawianie siê poszczególnych typów anomalii.</text>
+			Poni¿ej mo¿na selektywnie w³¹czyæ
+			\npojawianie siê poszczególnych typów anomalii.</text>
 	</string>
 
 	 <string id="ui_mcm_drx_da_zone_mine_radar_enable">
@@ -149,7 +150,7 @@
 		<text>Usuñ dynamiczne anomalie</text>
 	</string>
 	<string id="ui_mcm_drx_da_delete_dynamic_anomalies_desc">
-		<text>Usuwa wszystkie utworzone dynamiczne anomalie z Zony. Opcja zalecana, aby bezpiecznie usun¹æ mod. Zaznacz tê opcjê, zapisz stan rozgrywki, nastêpnie wy³¹cz grê i usuñ mod.</text>
+		<text>Usuwa wszystkie utworzone dynamiczne anomalie z gry. Opcja zalecana, aby bezpiecznie usun¹æ mod. Zaznacz tê opcjê, zapisz stan rozgrywki, nastêpnie wy³¹cz grê i usuñ mod.</text>
 	</string>
 
 	<string id="ui_mcm_drx_da_debug_mode">

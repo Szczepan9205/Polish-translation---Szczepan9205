@@ -16,7 +16,7 @@
 	</string>
 	<string id="st_mag_sr1m_9x21ext_descr">
 		<text>Rozszerzony magazynek na naboje kalibru 9x21 mm SR1M o pojemnoœci 26 nabojów. SR1M jest najnowszym osi¹gniêciem rosyjskiej technologii broni rêcznej, strzelaj¹cym zastrze¿onym nabojem kalibru 9x21 mm, u¿ywanym równie¿ w SR-2 Veresk PDW.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -25,7 +25,7 @@
 	</string>
 	<string id="st_mag_pl15_9x19_fmj_descr">
 		<text>Standardowy magazynek na naboje kalibru 9x19 mm do PL15 o pojemnoœci 16 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -34,7 +34,7 @@
 	</string>
 	<string id="st_mag_pl15_9x19_fmjext_descr">
 		<text>Rozszerzony magazynek 9x19 na naboje kalibru 9x19 mm do PL15 o pojemnoœci 24 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -43,7 +43,7 @@
 	</string>
 	<string id="st_mag_sigp220_11.43x23_fmj_descr">
 		<text>Standardowy magazynek na naboje kalibru .45ACP do SIG P220 o pojemnoœci 12 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -52,7 +52,7 @@
 	</string>
 	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
 		<text>Rozszerzony magazynek na naboje kalibru .45ACP do SIG P220 o pojemnoœci 20 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -61,7 +61,7 @@
 	</string>
 	<string id="st_mag_sig226_9x19_fmj_descr">
 		<text>Standardowy magazynek na naboje kalibru 9x19 mm do SIG P226 o pojemnoœci 15 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -70,7 +70,7 @@
 	</string>
 	<string id="st_mag_sig226_9x19_fmjext_descr">
 		<text>Rozszerzony magazynek na naboje kalibru 9x19 mm do SIG P226 o pojemnoœci 20 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -79,7 +79,7 @@
 	</string>
 	<string id="st_mag_usptac_9x19_fmj_descr">
 		<text>Standardowy magazynek na naboje kalibru 9x19 mm do USP o pojemnoœci 22 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -88,7 +88,7 @@
 	</string>
 	<string id="st_mag_usptac_9x19_fmjext_descr">
 		<text>Rozszerzony magazynek na naboje kalibru 9x19 mm do USP o pojemnoœci 30 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 
@@ -97,7 +97,7 @@
 	</string>
 	<string id="st_mag_wp99_9x19_fmj_descr">
 		<text>Standardowy magazynek na naboje kalibru 9x19 mm do Walther P99 o pojemnoœci 16 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 	
@@ -106,7 +106,7 @@
 	</string>
 	<string id="st_mag_wp99_9x19_fmjext_descr">
 		<text>Rozszerzony magazynek na naboje kalibru 9x19 mm do Walther P99 o pojemnoœci 16 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 
@@ -115,7 +115,7 @@
 	</string>
 	<string id="st_mag_p220_9x19_u2p2bas_descr">
 		<text>Standardowy magazynek na naboje kalibru 9x19 mm do P220 Custom Nine o pojemnoœci 19 nabojów.\n \n
-		%c[0,255,255,255]W£AŒCIWOŒCI
+		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 

@@ -10,7 +10,7 @@
 		<text>Zmienia iloœæ przedmiotów znalezionych w œwiecie gry. Bêdzie to mia³o wp³yw tylko podczas rozpoczynania nowej gry.</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_loot_general_info">
-		<text>Poni¿sze opcje daj¹ szansê na znalezienie dodatkowych przedmiotów w schowkach i przy martwych postaciach niezale¿nych. Bardzo pomocne, jeœli grasz z podstawowym ustawieniem populacji "Brak".</text>
+		<text>Poni¿sze opcje daj¹ szansê na znalezienie dodatkowych przedmiotów w schowkach i przy martwych NPC. Bardzo pomocne, jeœli grasz z podstawowym ustawieniem populacji "Brak".</text>
 	</string>
 	<!-- PDA MESSAGES -->
 	<string id="ui_mcm_SMR_smr_loot_send_message">
@@ -44,7 +44,7 @@
 		<text>Szansa na pojawienie siê przedmiotów przy NPC</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_loot_npc_chance_desc">
-		<text>Szansa na znalezienie dodatkowych przedmiotów u postaci niezale¿nych. Jeœli siê powiedzie, zostanie wykonany drugi rzut przy u¿yciu zwyk³ej szansy na znalezienie przedmiotów w skrytkach.</text>
+		<text>Szansa na znalezienie dodatkowych przedmiotów u NPC-ów. Jeœli siê powiedzie, zostanie wykonany druga kalkulacja przy u¿yciu zwyk³ej szansy na znalezienie przedmiotów w schowkach.</text>
 	</string>
 	<!-- ITEMS -->
 	<string id="ui_mcm_SMR_smr_loot_items_title">

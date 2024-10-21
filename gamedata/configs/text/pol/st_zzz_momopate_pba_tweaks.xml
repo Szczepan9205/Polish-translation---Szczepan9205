@@ -6,8 +6,8 @@
 	<string id="st_af_sandstone_descr">
 		<text>Artefakt uformowany w ekstremalnych anomaliach termicznych. Nie jest radioaktywny i nie ma ¿adnych u¿ytecznych w³aœciwoœci. Zawiera œladowe iloœci z³ota.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] nie promieniuje\n
-		%c[d_cyan] • %c[ui_gray_2] nie mo¿e zostaæ umieszczony w pojemniku
+		%c[d_cyan] • %c[ui_gray_2] Nie promieniuje\n
+		%c[d_cyan] • %c[ui_gray_2] Nie mo¿e zostaæ umieszczony w pojemniku
 		</text>
 	</string>
 	

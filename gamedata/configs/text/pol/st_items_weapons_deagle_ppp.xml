@@ -18,7 +18,7 @@
 	<string id="st_wpn_desert_eagle_dhampyr_descr">
 		<text>Bardziej zmodernizowana wersja Desert Eagle, z wbudowanym kompensatorem i szynami Picatinny na szkielecie i suwadle. Wiedz¹c o tym, nadal ma doœæ du¿y odrzut, ale znacznie ni¿szy ni¿ jakikolwiek inny Desert Eagle, nie mówi¹c ju¿ o u¿yciu amunicji magnum, niewielkich ulepszeniach lufy, które równie¿ poprawiaj¹ nieco celnoœæ, a dodatkowo posiada on mo¿liwoœæ zainstalowania celownikow. Wygl¹da na stosunkowo nowy, ale patrz¹c na suwad³o i magazynek, nasuwa siê myœl, ¿e pistolet ten u¿ywa naboi .50AE, a jednak strzela z amunicji .357 Magnum. Bez w¹tpienia zosta³ zmodyfikowany w Zonie, byæ mo¿e przez samego ¯wawego.\n \n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, C-more Railway Tactical</text>
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical</text>
 	</string>
 	
 	<string id="st_up_deagle_127_name">

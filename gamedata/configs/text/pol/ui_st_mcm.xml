@@ -4,9 +4,10 @@
 -->
 
 <string_table>
+
 	<string id="ui_mcm_desc_mcm">
-		<text>Witaj w Mod Configuration Menu. MCM umo¿liwia wyœwietlanie i konfiguracje ustawieñ zainstalowanych modyfikacji.
-		W panelu po lewej stronie widnieje lista modów, które mo¿na skonfigurowaæ z pomoc¹ MCM.</text>
+		<text>Witamy w menu konfiguracji dodatków do Anomaly. MCM samo w sobie nie robi nic - zapewnia jednak miejsce dla innych modów/dodatków do wyœwietlania w interfejsie ustawieñ.
+		\nPo lewej stronie znajduje siê lista modów/dodatków, które wykorzystuj¹ do tego MCM.</text>
 	</string>
 	<string id="ui_mcm_desc_mcm2">
 		<text>Bugi oraz zamykanie siê gry zwi¹zane ze skryptem ui_mcm.script zwykle s¹ powodowane przez inne mody, w tej sprawie nale¿y siê wiec skontaktowaæ z ich autorami. </text>
@@ -14,11 +15,12 @@
 	<string id="ui_mm_menu_mcm">
 		<text>Mod Configuration Menu</text>
 	</string>
+
 	<string id="ui_mcm_menu_mcm">
 		<text>MCM</text>
 	</string>
 	<string id="ui_mcm_menu_mcm_about">
-		<text>O modzie</text>
+		<text>O MCM</text>
 	</string>
 	<string id="ui_mcm_mcm_mcm_about_reset">
 		<text>Prze³aduj wszystkie menu</text>
@@ -26,6 +28,8 @@
 	<string id="ui_mcm_mcm_mcm_about_reset_desc">
 		<text>Zaznaczenie tej opcji i naciœniêcie przycisku "Zastosuj" spowoduje, ¿e MCM prze³aduje wszystkie menu. Jest to narzêdzie do debugowania i nie powinno byæ konieczne w normalnym toku rzeczy.</text>
 	</string>
+
+
 	<string id="ui_mcm_menu_mcm_log">
 		<text>Rejestrowanie</text>
 	</string>
@@ -34,6 +38,7 @@
 		\nPoniewa¿ szanujemy wasze obawy dotycz¹ce opóŸnieñ i cykli zapisu SSD, udostêpni³em kilka elementów steruj¹cych, abyœcie mogli dostosowaæ zachowanie rejestrowania.
 		\nLogi bêd¹ mia³y nazwê skryptu, który je tworzy oraz numer identyfikacyjny sesji MCM. Bêd¹ one tworzone w folderze appdata/logs/mcm/</text>
 	</string>
+
 	<string id="ui_mcm_mcm_mcm_log_enable">
 		<text>W³¹cz narzêdzie rejestrowania MCM</text>
 	</string>
@@ -70,12 +75,15 @@
 	<string id="ui_mcm_mcm_mcm_log_debug_logging2_desc">
 		<text>W³¹cza to rejestrowanie debugowania MCM i powinno byæ w³¹czone przed zg³oszeniem b³êdów w MCM. Inne dodatki mog¹ równie¿ korzystaæ z tego ustawienia, aby w³¹czyæ w³asne rejestrowanie.</text>
 	</string>
+
+
 	<string id="ui_mcm_menu_mcm_kb">
 		<text>Przypisanie klawiszy MCM</text>
 	</string>
 	<string id="ui_mcm_menu_mcm_kb_main">
 		<text>G³ówne</text>
 	</string>
+
 	<string id="ui_mcm_mcm_desc_kb">
 		<text>MCM Key Binds dzia³a w stylu Minecraft: kliknij pole, a nastêpnie naciœnij klawisz. Klikniêcie lub klawisz Escape spowoduje anulowanie.
 		\nJeœli wyœwietlany klawisz nie odpowiada naciœniêtemu klawiszowi lub MCM wydaje siê ignorowaæ niektóre klawisze, prawdopodobnie nale¿y zmodyfikowaæ plik mcm_key_localization.ltx, aby odzwierciedla³ uk³ad klawiatury.
@@ -87,6 +95,7 @@
 		\n2. MCM nie wie, co dodatek mo¿e robiæ z klawiszem. Musisz zrozumieæ, w jaki sposób dodatek u¿ywa klucza, aby wiedzieæ, czy konflikt jest istotny.
 		\n3. W przypadku pojedynczej oczekuj¹cej zmiany kolor aktualizuje siê poprawnie, w przypadku wielu oczekuj¹cych zmian mo¿e nie. Zastosuj zmiany i ponownie otwórz MCM, aby zweryfikowaæ prawid³owy status konfliktu.</text>
 	</string>
+
 	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_presstime">
 		<text>Mno¿nik d³ugiego naciœniêcia</text>
 	</string>
@@ -105,6 +114,7 @@
 	<string id="ui_mcm_mcm_mcm_kb_mcm_kb_main_dtaptime2_desc">
 		<text>Jak szybko drugie naciœniêcie klawisza musi nast¹piæ po pierwszym, aby liczyæ siê jako podwójne naciœniêcie klawisza. Dotyczy tylko dodatków, które u¿ywaj¹ MCM do identyfikacji podwójnych naciœniêæ klawiszy. Czas ten mo¿e wp³ywaæ na opóŸnienie wejœcia niektórych zdarzeñ pojedynczego naciœniêcia klawisza i dlatego powinien byæ ustawiony tak ma³y, jak to mo¿liwe.</text>
 	</string>
+
 	<string id="ui_mcm_menu_mcm_all_kb">
 		<text>Przypisanie wszystkich klawiszy</text>
 	</string>
@@ -130,12 +140,16 @@
 		\nLista ta nie mo¿e jednak zawieraæ dodatkowych ustawieñ z panelu dodatków, które mog¹ wp³ywaæ na zachowanie tego klawisza.
 		\nZawsze sprawdzaj panel dodatków, z którego pobrano Key Bind, a tak¿e dokumentacjê dodatków. </text>
 	</string>
+
+	
+	
 	<string id="ui_mcm_mcm_kb_modifier">
 		<text>Z klawiszem modyfikatora</text>
 	</string>
 	<string id="ui_mcm_mcm_kb_modifier_desc">
 		<text>Powy¿sze powi¹zanie klawiszy zostanie aktywowane tylko wtedy, gdy ten klawisz jest równie¿ wciœniêty.</text>
 	</string>
+
 	<string id="ui_mcm_lst_mcm_kb_mod_none">
 		<text>Bez modyfikatora</text>
 	</string>
@@ -148,12 +162,17 @@
 	<string id="ui_mcm_lst_mcm_kb_mod_alt">
 		<text>Klawisz Alt</text>
 	</string>
+
+
+
+	
 	<string id="ui_mcm_mcm_kb_mode">
 		<text>Tryb wprowadzania danych</text>
 	</string>
 	<string id="ui_mcm_mcm_kb_mode_desc">
 		<text>Powy¿sze powi¹zanie klawiszy zostanie aktywowane, jeœli klawisz zostanie wprowadzony w ten sposób.</text>
 	</string>
+	
 	<string id="ui_mcm_lst_mcm_kb_mode_press">
 		<text>Proste klikniêcie</text>
 	</string>
@@ -163,4 +182,10 @@
 	<string id="ui_mcm_lst_mcm_kb_mode_hold">
 		<text>D³ugie klikniêcie</text>
 	</string>
+	
+
+
+
+
+
 </string_table>

@@ -5,8 +5,8 @@
 	<string id="st_wpn_groza_guns_descr">
 		<text>System automatycznego karabinu po³¹czonego z granatnikiem, w 70% zunifikowanego z karabinkami typu AKS-74U (g³ówne ró¿nice to kaliber 9x39 mm, schemat uk³adu bull-pup oraz szersze mo¿liwoœci modernizacji). Przeznaczony do uzbrojenia jednostek szybkiego reagowania. Jest wysoko ceniony przez wojsko i stalkerów za zdolnoœæ do niezawodnego ra¿enia przeciwnika chronionego kamizelk¹ kuloodporn¹ lub znajduj¹cego siê w schronie. Mo¿e byæ zmontowany w 4 ró¿nych konfiguracjach, w zale¿noœci od misji bojowej.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik PO 4x34\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy GP-25 "Kostior"\n</text>
+		%c[d_purple] • %c[ui_gray_2] Celownik: PO 4x34\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 "Kostior"\n</text>
 	</string>
 	<string id="st_wpn_groza_guns_nimble">
 		<text>OC-14-4A "Burza"</text>
@@ -14,6 +14,6 @@
 	<string id="st_wpn_groza_guns_nimble_descr">
 		<text>Modu³owy karabin szturmowy Groza "Burza" by³ przeznaczony dla ró¿nych si³ specjalnych armii rosyjskiej i Ministerstwa Spraw Wewnêtrznych jako dedykowana broñ do walki w terenie zurbanizowanym. Charakteryzuje siê konstrukcj¹ bullpup z granatnikiem 40 mm umieszczonym w miejscu zdejmowanego chwytu przedniego. "Burza" jest ciê¿k¹ modyfikacj¹ eksperymentalnego karabinu Groza-1, wyposa¿on¹ w wyd³u¿ony magazynek. Jest to wieloletnie marzenie ka¿dego weterana Powinnoœci, przyznawane tylko najbardziej godnym cz³onkom frakcji.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki PO 4x34, Night Sight PN-23, ELCAN SpecterDR, Acog, Barsca AC10632, Kobra 8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, AimpointMicro, Aimpoint, C-More, Aimpoint CompM4s, Docter, Deltapoint Pro, Eotech, Eotech 553, Kemper, Meprolight, Rakurs, RMR\n</text>
+		%c[d_purple] • %c[ui_gray_2] Celowniki: PO 4x34, Celownik nocny PN-23, ELCAN SpecterDR, Acog, Barsca AC10632, Kobra 8-18, Aimpoint PRO, March Tactical 3-24x42 FFP, OKP-7, AimpointMicro, Aimpoint, C-More, Aimpoint CompM4s, Docter, Deltapoint Pro, Eotech, Eotech 553, Kemper, Meprolight, Rakurs, RMR\n</text>
 	</string>
 </string_table>

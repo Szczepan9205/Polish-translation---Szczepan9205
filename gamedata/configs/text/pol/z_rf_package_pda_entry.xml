@@ -3,18 +3,18 @@
 <string_table>
 
 	<string id = "encyclopedia__notes_rfpackages">
-		<text>Czêstotliwoœæ radiowa paczek</text>
+		<text>Czêstotliwoœæ paczek RF</text>
 	</string>
 	
 	<string id = "encyclopedia__notes_rfpackages_text">
 		<text>
-		%c[pda_white]Frakcje ukrywaj¹ paczki, które mo¿esz znaleŸæ za pomoc¹ odbiornika RF.%c[ui_gray_1] Te paczki daj¹ zazwyczaj zestaw leków, przedmioty do naprawy lub amunicjê, a tak¿e potencjalnie pewne dodatkowe przedmioty, które mog¹ zawieraæ wiêcej leków, cennych przedmiotów, materia³y wybuchowe, pakiety ulepszeñ lub „œmieciowe” artefakty.
+		%c[pda_white]Frakcje ukrywaj¹ paczki, które mo¿esz znaleŸæ za pomoc¹ odbiornika RF.%c[ui_gray_1] Te paczki zawieraj¹ zazwyczaj trochê leków, przedmioty do naprawy lub amunicjê, a tak¿e potencjalnie pewne dodatkowe przedmioty - mog¹ zawieraæ wiêcej leków, cennych przedmiotów, materia³y wybuchowe, pakiety ulepszeñ lub "œmieciowe" artefakty.
 		\n
-		\n%c[pda_white]Paczki dzia³aj¹ w systemie kolejek, w którym ustawiaj¹ siê w kolejce co 250 punktów wartoœci reputacji, które zdobêdziesz u frakcji.%c[ui_gray_1] Miejsce, w którym Paczka znajdzie siê w kolejce i bêdzie jednym z obszarów zewnêtrznych bezpoœrednio po³¹czonych z obszarem, w którym siê znajdowa³eœ, gdy osi¹gn¹³eœ próg 250 wartoœci reputacji, aby go wywo³aæ.
+		\n%c[pda_white]Pakiety s¹ ustawiane w kolejce co 250 punktów przychylnoœci zdobytych dla frakcji.%c[ui_gray_1] Paczki te zostan¹ ustawione w kolejce w obszarach poza lokalizacj¹, w której gracz osi¹gn¹³ próg 250 punktów przychylnoœci, aby wywo³aæ nagrodê.
 		\n
-		\n%c[pda_white]Na raz, mo¿e byæ aktywna tylko jedna paczka.%c[ui_gray_1] Mo¿esz wybraæ odbiór paczki lub anulowaæ j¹, korzystaj¹c z opcji menu „Anuluj paczkê RF” po klikniêciu na zadanie z ni¹ prawym przyciskiem myszy w PDA. Anulowanie paczki powoduje usuniêcie jej z kolejki, wiêc jeœli by³a to twoja jedyna paczka w kolejce, bêdziesz musia³ osi¹gn¹æ kolejny próg 250 wartoœci reputacji, zanim otrzymasz kolejn¹.
+		\n%c[pda_white]Na raz, mo¿e byæ aktywna tylko jedna paczka.%c[ui_gray_1] Mo¿esz wybraæ odbiór paczki lub anulowaæ j¹, korzystaj¹c z opcji menu „Anuluj paczkê RF” po klikniêciu na zadanie z ni¹ prawym przyciskiem myszy w PDA. Anulowanie paczki powoduje usuniêcie jej z kolejki, wiêc jeœli by³a to twoja jedyna paczka w kolejce, bêdziesz musia³ osi¹gn¹æ kolejny próg 250 wartoœci przychylnoœci, zanim otrzymasz powiadomienie o kolejnej.
 		\n
-		\n%c[pda_white]Mo¿esz tak¿e zmieniæ czêstotliwoœæ otrzymywania przypomnieñ o paczkach, to czy paczki s¹ automatycznie rozpakowywane przy odbiorze i czy otrzymujesz zwyk³e lub zmodyfikowane ulepszenia w menu konfiguracji mod w sekcji „Opcje pakietu odbiornika RF” lub edytuj¹c ustawienia domyœlne w g³ównym skrypcie TB_RF_Receiver_Packages.script jeœli nie masz moda MCM.%c[ui_gray_1]
+		\n%c[pda_white]Mo¿esz tak¿e zmieniæ czêstotliwoœæ otrzymywania przypomnieñ o paczkach. To czy paczki s¹ automatycznie rozpakowywane przy odbiorze i czy otrzymujesz zwyk³e lub zmodyfikowane ulepszenia mo¿esz zmieniæ w MCM w sekcji "Opcje pakietu odbiornika RF" lub edytuj¹c ustawienia domyœlne w g³ównym skrypcie TB_RF_Receiver_Packages.script jeœli nie masz MCM.%c[ui_gray_1]
 		</text>
 	</string>
 </string_table>

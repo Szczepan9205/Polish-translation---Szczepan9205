@@ -26,7 +26,7 @@
 		<text>Rejestrowanie debugowania</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_smr_debug_log_desc">
-		<text>W³¹cza rejestrowanie debugowania. OSTRZE¯ENIE: Spowoduje to bardzo szybkie zawy¿enie pliku dziennika, a tak¿e oddzielnego pliku dziennika "dph_zcp.log".</text>
+		<text>W³¹cza rejestrowanie debugowania. OSTRZE¯ENIE: spowoduje to bardzo szybkie zape³nienie pliku dziennika, a tak¿e oddzielnego pliku dziennika "dph_zcp.log".</text>
 	</string>
 	<string id="ui_mcm_SMR_smr_amain_smr_persist_override">
 		<text>Nie ³aduj konfiguracji z pliku zapisu</text>

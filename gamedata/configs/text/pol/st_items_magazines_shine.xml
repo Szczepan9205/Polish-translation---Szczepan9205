@@ -3,7 +3,7 @@
 <string_table>
 
     <string id="mag_kriss45">
-		<text>Standardowy magazynek .45 ACP do Kriss Vector</text>
+		<text>Standardowy magazynek do Kriss Vector</text>
 	</string>
 	<string id="mag_kriss45_descr">
 		<text>Standardowy magazynek .45 ACP do Kriss-a Vector o pojemnoœci 30 nabojów.\n \n
@@ -12,7 +12,7 @@
 	</string>
 	
 	<string id="mag_kriss9">
-		<text>Zmodyfikowany magazynek 9x19 do Kriss Vector</text>
+		<text>Zmodyfikowany magazynek do Kriss Vector</text>
 	</string>
 	<string id="mag_kriss9_descr">
 		<text>Magazynek do Kriss-a Vector zmodyfikowany do przechowywania nabojów 9x19 Parabellum.\n \n
@@ -21,7 +21,7 @@
 	</string>
 	
 	<string id="ext_mag_kriss_drum">
-		<text>Magazynek bêbnowy .45 ACP do Kriss Vector</text>
+		<text>Magazynek bêbnowy do Kriss Vector</text>
 	</string>
 	<string id="ext_mag_kriss_drum_descr">
 		<text>Rozszerzony magazynek do Kriss-a Vector o pojemnoœci 40 nabojów.\n \n
@@ -30,7 +30,7 @@
 	</string>
 	
 	<string id="ext_mag_kriss9_drum">
-		<text>Zmodyfikowany magazynek bêbnowy 9x19 do Kriss Vector</text>
+		<text>Zmodyfikowany magazynek bêbnowy do Kriss Vector</text>
 	</string>
 	<string id="ext_mag_kriss9_drum_descr">
 		<text>Rozszerzony magazynek do Kriss-a Vector zmodyfikowany do przechowywania nabojów 9x19 Parabellum.\n \n

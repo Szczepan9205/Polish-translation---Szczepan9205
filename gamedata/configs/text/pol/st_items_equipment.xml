@@ -6,7 +6,7 @@
 		<text>Anomalny plecak</text>
 	</string>
 	<string id="st_poxod_rukzak_descr">
-		<text>Na pierwszy rzut oka, ten plecak nie posiada, ¿adnych u¿ytecznych w³aœciwoœci. Jednak umieszczone w nim przedmioty z czasem trac¹ na wadze. Plotka g³osi, ¿e jest to wynikiem transportu plecaków dla wojska, przypadkowo z³apanego w anomaliê. Próby odtworzenia jego unikalnych w³aœciwoœci przez naukowców zakoñczy³y siê niepowodzeniem. Partie anomalnych plecaków zosta³y zakupione przez wp³ywowych ludzi w Strefie, którzy nadal eksportuj¹ je na ca³y œwiat.\n
+		<text>Na pierwszy rzut oka, ten plecak nie posiada, ¿adnych u¿ytecznych w³aœciwoœci. Jednak umieszczone w nim przedmioty z czasem trac¹ na wadze. Plotka g³osi, ¿e jest to wynikiem transportu plecaków dla wojska, przypadkowo z³apanego w anomaliê. Próby odtworzenia jego unikalnych w³aœciwoœci przez naukowców zakoñczy³y siê niepowodzeniem. Partie anomalnych plecaków zosta³y zakupione przez wp³ywowych ludzi w Zonie, którzy nadal eksportuj¹ je na ca³y œwiat.\n
 		</text>
 	</string>
 
@@ -16,7 +16,7 @@
 	<string id="st_bolt_descr">
 		<text>Typowa, zardzewia³a œruba. Stalkerzy dziêki takim przedmiotom mog¹ wyznaczaæ bezpieczne œcie¿ki przez pola anomalii.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mog¹ byæ rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
+		%c[d_orange] • %c[ui_gray_2] Mog¹ byæ rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
 		</text>
 	</string>
 	
@@ -26,7 +26,7 @@
 	<string id="st_bolty_descr">
 		<text>Typowa, zardzewia³a œruba. Stalkerzy dziêki takim przedmiotom mog¹ wyznaczaæ bezpieczne œcie¿ki przez pola anomalii.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mog¹ byæ rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
+		%c[d_orange] • %c[ui_gray_2] Mog¹ byæ rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
 		</text>
 	</string>
 	
@@ -36,7 +36,7 @@
 	<string id="st_bolt_bullet_descr">
 		<text>Czasem stalkerzy korzystaj¹ z ³usek po nabojach zamiast œrub do wyznaczania bezpiecznych œcie¿ek przez pola anomalii.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mog¹ byæ rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
+		%c[d_orange] • %c[ui_gray_2] Mog¹ byæ rzucane w celu aktywacji i nawigacji po anomaliach i polach anomalii\n
 		</text>
 	</string>
 	

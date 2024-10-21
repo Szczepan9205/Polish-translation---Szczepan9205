@@ -13,7 +13,7 @@
 	<string id="st_addon_scope_m40_descr">
 		<text>Zbudowany w oparciu o zaawansowany system optyczny Leupolda, M40 zapewnia sprawdzon¹ i prawdziw¹ transmisjê œwiat³a, najlepsz¹ w swojej klasie redukcjê odblasków w ostrym œwietle oraz rozdzielczoœæ i wyrazistoœæ, których wymagaj¹ nawet najbardziej rekreacyjni stalkerzy w Zonie.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] powiêkszenie: %c[ui_gray_2]3.0x - 9.0x
+		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]3.0x - 9.0x
 		</text>
 	</string>
 	
@@ -23,7 +23,7 @@
 	<string id="st_addon_scope_h1h_descr">
 		<text>Aimpoint H1H sta³ siê bardzo popularnym celownikiem myœliwskim na ca³ym œwiecie ze wzglêdu na swój rozmiar, niewielk¹ wagê i solidn¹ jakoœæ wykonania. Zosta³ zaprojektowany z myœl¹ o myœliwych. Jest wytrzyma³y i niezawodny, co zwiêksza pewnoœæ w najtrudniejszych warunkach, idealnie pasuj¹c do Zony.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] powiêkszenie: %c[ui_gray_2]1.0x
+		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]1.0x
 		</text>
 	</string>
 
@@ -33,7 +33,7 @@
 	<string id="st_addon_scope_compm4_descr">
 		<text>Aimpoint CompM4s zosta³ zaprojektowany dla u¿ytkowników, którzy potrzebuj¹ profesjonalnej jakoœci optyki z czerwon¹ kropk¹ do u¿ytku w ekstremalnie trudnych warunkach.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] powiêkszenie: %c[ui_gray_2]1.0x
+		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]1.0x
 		</text>
 	</string>
 	
@@ -43,7 +43,7 @@
 	<string id="st_addon_scope_eoot553_descr">
 		<text>Eotech 553 zosta³ opracowany po szeroko zakrojonych testach ró¿nych celowników optycznych, a Dowództwo Operacji Specjalnych Stanów Zjednoczonych ustandaryzowa³o celownik holograficzny Eotech jako swoj¹ optykê 1X do walki w zwarciu i w terenie miejskim.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] powiêkszenie: %c[ui_gray_2]1.0x
+		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]1.0x
 		</text>
 	</string>
 	
@@ -53,7 +53,7 @@
 	<string id="st_addon_scope_kemper_descr">
 		<text>Wyposa¿ony w najwiêksz¹ na rynku soczewkê, to unikalne urz¹dzenie zosta³o zaprojektowane z myœl¹ o bliskim kontakcie, oferuj¹c szybkie namierzanie celu przy zachowaniu precyzyjnej dok³adnoœci.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[0,255,255,255] powiêkszenie: %c[ui_gray_2]1.0x
+		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]1.0x
 		</text>
 	</string>
 </string_table>

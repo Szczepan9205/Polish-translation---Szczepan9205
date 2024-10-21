@@ -17,7 +17,7 @@
 		<text>W³¹czenie ignorowania walki przez towarzysza na podstawie odleg³oœci od gracza.</text>
 	</string>
 	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_desc">
-		<text>W³¹czanie/wy³¹czanie ignorowania walki przez towarzysza na podstawie odleg³oœci od gracza</text>
+		<text>W³¹czanie/wy³¹czanie ignorowania walki przez towarzysza na podstawie odleg³oœci od gracza.</text>
 	</string>
 
 	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_player_distance">
@@ -29,7 +29,7 @@
 
 
 	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance">
-		<text>Zezwalaj na dystans bojowy (pod¹¿aj)</text>
+		<text>Zezwalaj na dystans bojowy (pod¹¿anie)</text>
 	</string>
 	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance_desc">
 		<text>Towarzysz ponownie w³¹czy siê do walki, gdy osi¹gnie okreœlon¹ odleg³oœæ od gracza (w metrach).</text>
@@ -61,7 +61,7 @@
 
 
 	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance">
-		<text>Ignorowanie dystansu bojowego (pod¹¿aj)</text>
+		<text>Ignorowanie dystansu bojowego (pod¹¿anie)</text>
 	</string>
 	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance_desc">
 		<text>Towarzysz zignoruje walkê, gdy wróg znajdzie siê poza okreœlon¹ odleg³oœci¹ od gracza (w metrach).</text>

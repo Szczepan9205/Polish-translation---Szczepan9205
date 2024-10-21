@@ -128,7 +128,7 @@
 	<string id = "st_kovalev_pda_descr">
 		<text>Laptop zawiera dane z ostatnich badañ terenowych Kowalewa dotycz¹cych anomalii wokó³ Instytutu Badawczego Agroprom. Wœród plików znajduje siê mapa z dok³adnymi lokalizacjami anomalii, które trzeba zbadaæ.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>	
 	
@@ -138,7 +138,7 @@
 	<string id = "st_pirogov_pda_descr">
 		<text>PDA zmar³ego stalkera, który pomóg³ kandydatowi Pirogowowi umieœciæ prototypy w anomaliach wokó³ Wysypiska. Zawiera pozosta³e lokalizacje, które nale¿y zeskanowaæ.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>		
 	
@@ -148,7 +148,7 @@
 	<string id = "st_strelok_pda_descr">
 		<text>PDA zmar³ego stalkera, który z powodzeniem zmapowa³ anomalie w Czerwonym Lesie, ale zosta³ zaatakowany przez Monolit w drodze powrotnej do naukowców. Wyœwietlacz jest pokryty zaschniêt¹ krwi¹, a niektóre przyciski wydaj¹ siê nie dzia³aæ.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>		
 
@@ -158,7 +158,7 @@
 	<string id = "st_chernov_pda_descr">
 		<text>Pakiet dokumentów z laboratorium X-19. Wiêkszoœæ stron jest zawilgocona i tylko strona tytu³owa jest nadal czytelna. Jednak niektóre zdjêcia i diagramy przetrwa³y i pokazuj¹, ¿e artefakty zosta³y w jakiœ sposób "wyhodowane" na drzewach w lesie na po³udnie od kompleksu X-19.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>		
 		
@@ -168,7 +168,7 @@
 	<string id = "st_vorobushkin_pda_descr">
 		<text>Stary, ale solidnie zbudowany modu³ pamiêci, odzyskany z opuszczonego kompleksu antenowego Krug. Odrestaurowany i naprawiony przez profesora Worobuszkina, zawiera spektrogram anomalnych emisji wokó³ stacji wraz ze szczegó³ow¹ map¹ ich Ÿróde³.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>	
 	
@@ -178,7 +178,7 @@
 	<string id = "ah_gramota_desc">
 		<text>Spersonalizowany list z podziêkowaniami, uznaj¹cy moje zas³ugi dla spo³ecznoœci naukowej, podpisany osobiœcie przez profesora Skabiñskiego. Zawiera on równie¿ rekomendacjê zatrudnienia posiadacza tego dokumentu na stanowisku starszego badacza terenowego w Instytucie Naukowym Badañ Anomalii w Czarnobylu.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
 	</string>
 	

@@ -10,7 +10,7 @@
 	<string id="st_wpn_fnx45_v1_descr">
 		<text>Linia pistoletów FNX zosta³a wprowadzona w 2009 roku przez FNH USA, amerykañsk¹ spó³kê zale¿n¹ belgijskiej firmy zbrojeniowej FN Herstal. Pierwotnie opracowane zgodnie z wymaganiami amerykañskiego programu Joint Combat Pistol, pistolety te s¹ produkowane w USA i przeznaczone do u¿ytku wojskowego, organów œcigania i cywilnego. Wszystkie pistolety FNX to pó³automatyczne pistolety z podwójnym/pojedynczym spustem i zewnêtrznym m³otkiem. Szkielet ka¿dego pistoletu FNX jest wykonany z odpornego na uderzenia polimeru, z odpinanymi paskami tylnymi o ró¿nych rozmiarach.\n \n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik GemTech</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech</text>
 	</string>
 
 	<string id="st_wpn_fnx45_v2">
@@ -18,9 +18,10 @@
 	</string>
 	<string id="st_wpn_fnx45_v2_descr">
 		<text>Linia pistoletów FNX zosta³a wprowadzona w 2009 roku przez FNH USA, amerykañsk¹ spó³kê zale¿n¹ belgijskiej firmy zbrojeniowej FN Herstal. Pierwotnie opracowane zgodnie z wymaganiami amerykañskiego programu Joint Combat Pistol, pistolety te s¹ produkowane w USA i przeznaczone do u¿ytku wojskowego, organów œcigania i cywilnego. Wszystkie pistolety FNX to pó³automatyczne pistolety z podwójnym/pojedynczym spustem i zewnêtrznym m³otkiem. Szkielet ka¿dego pistoletu FNX jest wykonany z odpornego na uderzenia polimeru, z odpinanymi paskami tylnymi o ró¿nych rozmiarach. FNX-45 Tactical to wyspecjalizowany wariant podstawowego FNX-45, który posiada przed³u¿on¹ gwintowan¹ lufê i podniesione przyrz¹dy celownicze, do u¿ytku z od³¹czanym t³umikiem dŸwiêku.\n \n
+		%c[ui_gray_2]ZAINSTALOWANE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celownik: FNX Tactical (zintegrowany)\n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik FNX Tactical (zintegrowany)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik GemTech</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech</text>
 	</string>
 
 	<string id="st_wpn_fn509">
@@ -28,9 +29,10 @@
 	</string>
 	<string id="st_wpn_fn509_descr">
 		<text>FN 509 to pó³automatyczny pistolet z polimerowym szkieletem, produkowany przez FN America, oddzia³ FN Herstal. Posiada komorê nabojow¹ 9-19 mm Parabellum, mechanizm podwójnego dzia³ania i celownik Venom Red Dot firmy Vortex Optics. W ramach konkursu XM17 Modular Handgun System (MHS) zainicjowanego we wrzeœniu 2015 roku, FN Herstal zg³osi³a pistolet z polimerowym szkieletem i zap³onem iskrowym, wywodz¹cy siê z FN FNS. Po tym, jak SIG Sauer wygra³ konkurs w styczniu 2017 roku ze zmodyfikowan¹ wersj¹ P320, FN America wprowadzi³a na rynek komercyjny wersjê swojego zg³oszenia, znan¹ obecnie jako FN 509.\n \n
+		%c[ui_gray_2]ZAINSTALOWANE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celownik: Venom Red Dot (zintegrowany)\n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik Venom Red Dot (zintegrowany)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik GemTech</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech</text>
 	</string>
 	
 -->

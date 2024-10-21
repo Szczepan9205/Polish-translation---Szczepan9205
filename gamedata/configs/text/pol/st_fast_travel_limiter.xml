@@ -1,21 +1,4 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-	
-	<string id="st_ftl_not_enough_money">
-		<text>Za mało pieniędzy na szybką podróż. \n
-			Koszt szybkiej podróży: %s \n
-			Twoje pieniądze: %s
-		</text>
-	</string>
-	<string id="st_ftl_next_travel_available">
-		<text>Kolejna szybka podróż będzie dostępna za %s godz.</text>
-	</string>
-	<string id="st_ftl_get_travel_cost">
-		<text>Informacje o kosztach szybkiej podróży</text>
-	</string>
-	<string id="st_ftl_show_travel_cost">
-		<text>Koszt szybkiej podróży: %s</text>
-	</string>
-	
 </string_table>

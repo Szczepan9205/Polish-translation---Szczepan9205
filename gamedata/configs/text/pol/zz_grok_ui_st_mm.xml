@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="ui_mm_originals">
+		<text>Kup Oryginalną Trylogię</text>
+	</string>
+		<string id="ui_mm_disclaimer">
+		<text>S.T.A.L.K.E.R. G.A.M.M.A. to fanowska modyfikacja łącząca pracę setek moderów, oparta na grach z serii S.T.A.L.K.E.R. od GSC Game World.</text>
+	</string>
+	<string id="ui_st_game_version">
+		<text>S.T.A.L.K.E.R. G.A.M.M.A. 0.9.2 PL by Szczepan9205</text>
+	</string>
+</string_table>

@@ -12,7 +12,7 @@
     <string id="cs_deshefrator_desc">
         <text>Urz¹dzenie u¿ywane przez Wyrzutków Monolitu do pods³uchiwania rozmów fanatyków\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -22,7 +22,7 @@
     <string id="st_wpn_bm16_ohotnik_descr">
         <text>Stara strzelba z kilkoma oznaczeniami.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -32,7 +32,7 @@
     <string id="pda_dragun_desc">
         <text>Wœród wielu wpisów znajduje siê jeden bardzo interesuj¹cy: "W³óczêga zebra³ now¹ grupê do walki z Monolitem. Plotka g³osi, ¿e wœród jego ludzi s¹ byli cz³onkowie grupy uderzeniowej Lebiediewa."\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -42,7 +42,7 @@
     <string id="bar_case_desc">
         <text>Specjalna walizka z ³upami dla Barmana.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -52,7 +52,7 @@
     <string id="cs_anom_pribor_desc">
         <text>Specjalne urz¹dzenie do badania pól anomalnych, nale¿¹ce do frakcji Czyste Niebo.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -62,7 +62,7 @@
     <string id="cs_informer_pda_desc">
         <text>Zaszyfrowane informacje zwi¹zane z frakcj¹ Czystego Nieba s¹ przechowywane w tym PDA.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -72,7 +72,7 @@
     <string id="crazy_stalker_flash_desc">
         <text>Informacje na fleszce s¹ zaszyfrowane.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -82,7 +82,7 @@
     <string id="escape_docs_desc">
         <text>Raport ekspedycji wojskowej w pó³nocnej czêœci Zony.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -92,7 +92,7 @@
     <string id="st_voen_scaner_desc">
         <text>Najnowszy i najwygodniejszy model do pomiarów, stworzony specjalnie dla wojskowych stalkerów i grup naukowych, niestety dla handlarzy nie ma specjalnej wartoœci, poniewa¿ ka¿dy skaner jest indywidualny i zaczyna dzia³aæ dopiero po wprowadzeniu kodu.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,255,140,0] • %c[ui_gray_2] przedmiot questowy\n
+		%c[0,255,140,0] • %c[ui_gray_2] Przedmiot questowy\n
 		</text>
     </string>
 
@@ -206,7 +206,7 @@
         <text>Profesor Kowalew prowadzi³ badania terenowe w Agropromie, ale jego zespó³ wpad³ w zasadzkê podczas pracy. Muszê znaleŸæ laptop, który zostawi³ w miejscu ataku i sprawdziæ znajduj¹ce siê na nim dane. Powinno mi to powiedzieæ, które anomalie powinienem przeskanowaæ w poszukiwaniu próbek.</text>
     </string>   
     <string id="ah_agr_pda_title">
-        <text>Badacze: znajdŸ laptop Kowalew a w pobli¿u anomalii Nerwojeb</text>
+        <text>Badacze: znajdŸ laptop Kowalewa w pobli¿u anomalii Nerwojeb</text>
     </string>
     <string id="ah_agr_pda_desc">
         <text>Laptop powinien znajdowaæ siê na drugim piêtrze budynku, w którym zaatakowano naukowców. Aby go zdobyæ, bêdê musia³ przebrn¹æ przez anomalie elektryczne i pole psioniczne.</text>

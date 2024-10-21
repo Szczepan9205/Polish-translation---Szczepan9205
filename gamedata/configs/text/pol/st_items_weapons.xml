@@ -11,7 +11,7 @@ PISTOLS
 	<string id="st_wpn_aps_descr">
 		<text>APS (ros. Awtomaticzeskij Pistolet Stieczkina, Automatyczny Pistolet Stieczkina) zosta³ wprowadzony do s³u¿by w ZSRR w 1951 wraz z Pistoletem Makarowa, zastêpuj¹c przestarza³¹ konstrukcjê TT-33. Wyposa¿ony w selektor ognia, zaprojektowany by³ jako broñ boczna dla artylerzystów, za³óg pojazdów i personelu lotniczego.\n \nPierwotnie zasilany pociskami 7.62x25 mm Tokariewa, w póŸniejszym okresie przystosowany do korzystania z amunicji kalibru 9x18, u¿ywanej w pistolecie Makarowa. Powodem zmiany by³o dostrze¿enie potencja³u amunicji 9 mm jako nowego naboju pistoletowego przeznaczonego dla Armii Czerwonej. Obecnie jest stopniowo wycofywany z czynnej s³u¿by.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: APS\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: do APS\n
 		</text>
 	</string>
 
@@ -27,7 +27,7 @@ PISTOLS
 	<string id="st_wpn_beretta_descr">
 		<text>Beretta 92F jest powszechnie znana jako przepisowy pistolet Si³ Zbrojnych USA, który zast¹pi³ legendarnego Colta M1911. Jest to broñ produkcji w³oskiej, wykorzystuj¹ca krótki odrzut lufy, ³adowana odtylcowo, z ram¹ wykonan¹ z aluminium i chromowanym przewodem lufy.\n \nBeretta to popularna broñ boczna, przyjêta do uzbrojenia w wielu krajach. Chêtnie wykorzystywana tak¿e przez przestêpców ze wzglêdu na moc pocisków, których u¿ywa i du¿¹ pojemnoœæ magazynka.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -40,7 +40,7 @@ PISTOLS
 	<string id="st_wpn_hpsa_descr">
 		<text>Pistolet Browning HP dzia³a na zasadzie krótkiego odrzutu lufy, a zamek ryglowany jest przez jej przekoszenie. Broñ zasilana amunicj¹ kalibru 9 mm oferuje jeden - wy³¹cznie pojedynczy - tryb ognia.\n \nPistolet oparty jest na pomys³ach amerykañskiego rusznikarza i wynalazcy, Johna Browninga. Jego konstrukcja zosta³a opatentowana w roku 1922. PóŸniej prawa do patentu przejê³a firma FN Hernstal. Po œmierci Browninga w 1926, FN zatrudni³a Dieudonne'a Saive'a, by dokoñczy³ prace nad projektem przeznaczonym do produkcji.\n \nPistolet HP ws³awi³ siê pojemnym magazynkiem mog¹cym pomieœciæ 13 naboi - dwa razy wiêcej, ni¿ podobne konstrukcje Lugera czy Mausera 1910.\n \nTen zmodyfikowany wariant Browninga Hi-Power, pomimo du¿ego wieku pierwotnej konstrukcji, wci¹¿ cieszy siê na œwiecie doœæ du¿¹ popularnoœci¹.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -59,7 +59,7 @@ PISTOLS
 	<string id="st_wpn_colt1911_descr">
 		<text>Colt M1911 by³ przepisowym pistoletem Si³ Zbrojnych USA od 1911 do 1985 roku. To wyj¹tkowo niezawodna i solidna broñ, u¿ywana przez armie, policjê i odbiorców cywilnych na ca³ym œwiecie. Bardzo popularna po dziœ dzieñ.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: .45 ACP (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru .45 ACP (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -69,7 +69,7 @@ PISTOLS
 	<string id="st_wpn_colt1911_duty_descr">
 		<text>Colt M1911 by³ przepisowym pistoletem Si³ Zbrojnych USA od 1911 do 1985 roku. To wyj¹tkowo niezawodna i solidna broñ, u¿ywana przez armie, policjê i odbiorców cywilnych na ca³ym œwiecie. Bardzo popularna po dziœ dzieñ.\n \nTen konkretny model wyró¿nia siê na tle innych wiêksz¹ moc¹ obalaj¹c¹.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: .45 ACP (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru .45 ACP (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -79,7 +79,7 @@ PISTOLS
 	<string id="st_wpn_colt1911_merc_descr">
 		<text>Colt M1911 by³ przepisowym pistoletem Si³ Zbrojnych USA od 1911 do 1985 roku. To wyj¹tkowo niezawodna i solidna broñ, u¿ywana przez armie, policjê i odbiorców cywilnych na ca³ym œwiecie. Bardzo popularna po dziœ dzieñ.\n \nTen model jest zauwa¿alnie bardziej celny i niezawodny.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: .45 ACP (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru .45 ACP (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -89,7 +89,7 @@ PISTOLS
 	<string id="st_wpn_cz75_descr">
 		<text>CZ-75 zosta³ opracowany w Czechos³owacji przez braci Koucky. Ten typ pistoletu samopowtarzalnego pierwszy raz zaprezentowano w 1975 rok. Do produkcji seryjnej, g³ównie na rynki zagraniczne, wszed³ rok póŸniej.\n \nCZ-75 posiada najlepsze cechy wielu poprzedzaj¹cych go modeli. W rezultacie, pistolet jest atrakcyjny wizualnie, jest komfortowy w u¿ytkowaniu i niezawodny. Produkowany przez CZUB (Ceska Zbrojovka Uhersky Brod) w wielu wersjach i modyfikacjach, doczeka³ siê tak¿e wielu kopii i klonów.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
 		</text>
 	</string>
 
@@ -109,7 +109,7 @@ PISTOLS
 	<string id="st_wpn_fnp45_descr">
 		<text>FN FNP to seria pó³automatycznych, wykonanych z polimerów pistoletów produkowanych w mieœcie Columbia w Karolinie Po³udniowej w USA przez FNH USA - amerykañski oddzia³ Fabrique Nationale de Herstal.\n \nZadebiutowa³ na pocz¹tku roku 2006. Mechanizm spustowy zamkniêty jest wewn¹trz polimerowej ramy.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech\n
 		</text>
 	</string>
 	
@@ -125,8 +125,8 @@ PISTOLS
 	<string id="st_wpn_fnx45_descr">
 		<text>Linia pistoletów FNX zosta³a zaprezentowana w 2009 roku przez FNH USA, amerykañski oddzia³ belgijskiej wytwórni broni FN Hernstal. Opracowany wed³ug wymogów programu US Joint Combat Pistol Program.\n \nPistolet produkowany jest w USA dla potrzeb wojskowych, policyjnych i do u¿ytku cywilnego. Ca³a seria FNX to pó³automatyczne pistolety z podwójnym/pojedynczym trybem ognia i bijnikowym mechanizmem uderzeniowym. Rama stworzona jest z odpornych na uderzenia polimerów i posiada wymienne uchwyty tylne ró¿nych rozmiarów. FNX-45 Tactical to wariant z dodatkowym gwintowaniem, dziêki któremu mo¿na zamocowaæ t³umik i specjalnymi, dedykowanymi przyrz¹dami celowniczymi.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celownik FNX Tactical sight\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech\n
+		%c[d_purple] • %c[ui_gray_2] Celownik: FNX Tactical sight\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech\n
 		</text>
 	</string>
 
@@ -136,7 +136,7 @@ PISTOLS
 	<string id="st_wpn_glock_descr">
 		<text>Glock 19 to mniejsza wersja pistoletu Glock 17. Dziêki swoim wymiarom pistolet ³atwiej ukryæ i przenosiæ. Wykorzystuj¹ to s³u¿by porz¹dkowe i si³y zbrojne na ca³ym œwiecie.\n \nBroñ produkcji Glock GmbH zadebiutowa³a w Austrii w roku 1988. Porównuj¹c go do Glocka 17 okazuje siê, ¿e model o wy¿szym numerze zachowuje tê same w³aœciwoœci, co jego wiêkszy odpowiednik. Wiele komponentów - w³¹czaj¹c magazynek - Glocka 19 jest wymienialnych z Glockiem 17. Uogólniaj¹c - Glock 19 jest kompaktow¹ wersj¹ Glocka 17.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech (po modyfikacji)\n
 		</text>
 	</string>
 	<string id="st_wpn_glock_modern">
@@ -145,7 +145,7 @@ PISTOLS
 	<string id="st_wpn_glock_modern_descr">
 		<text>Glock 19 to mniejsza wersja pistoletu Glock 17. Dziêki swoim wymiarom pistolet ³atwiej ukryæ i przenosiæ. Wykorzystuj¹ to s³u¿by porz¹dkowe i si³y zbrojne na ca³ym œwiecie.\n \nBroñ produkcji Glock GmbH zadebiutowa³a w Austrii w roku 1988. Porównuj¹c go do Glocka 17 okazuje siê, ¿e model o wy¿szym numerze zachowuje tê same w³aœciwoœci, co jego wiêkszy odpowiednik. Wiele komponentów - w³¹czaj¹c magazynek - Glocka 19 jest wymienialnych z Glockiem 17. Uogólniaj¹c - Glock 19 jest kompaktow¹ wersj¹ Glocka 17.\n \nTen model posiada modyfikacjê umo¿liwiaj¹c¹ korzystanie z automatycznego trybu ognia.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -158,8 +158,8 @@ PISTOLS
 	<string id="st_wpn_gsh18_descr">
 		<text>GSz-18 zosta³ zaprojektowany w latach dziewiêædziesi¹tych XX wieku w zak³adach zbrojeniowych KBP (ros. Konstruktorskoje Biuro Priborostrojenia, Biuro Projektowe Oprzyrz¹dowania). Swoj¹ nazwê zawdziêcza inicja³om konstruktorów - Grazjewa i Szipunowa - oraz pojemnoœci magazynka.\n \nJest w stanie przebiæ wiêkszoœæ znanych os³on kuloodpornych. Zasilany nabojami przeciwpancernymi 7N21 i 7N31, z 20 metrów potrafi przebiæ 8 mm stali.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Biuro Projektowe Oprzyrz¹dowania KBP\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Biuro Projektowe Oprzyrz¹dowania KBP\n
 		</text>
 	</string>
 
@@ -169,8 +169,8 @@ PISTOLS
 	<string id="st_wpn_hs2000_descr">
 		<text>HS2000 to pó³automatyczny pistolet samopowtarzalny, znany z doskona³ej ergonomii i wyj¹tkowych funkcji bezpieczeñstwa. Obecnie rodzina pistoletów HS, oparta na HS2000, ewoluowa³a do ponad 50 ró¿nych modeli.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Chorwacja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]HS Produkt\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Chorwacja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]HS Produkt\n
 		</text>
 	</string>
 
@@ -183,8 +183,8 @@ PISTOLS
 	<string id="st_wpn_pm_descr">
 		<text>Ten na wskroœ sowiecki pistolet to jeden z najczêœciej pojawiaj¹cych siê w Zonie typów uzbrojenia. Mimo doœæ wiekowej konstrukcji, pozostaje jedn¹ z najlepszych dostêpnych tu kompaktowych broni bocznych.\n \nPM jest niedu¿y, bardzo niezawodny i ³atwy w konserwacji. Ma jednak swoje wady, do których nale¿y m.in. krótki zasiêg, niska celnoœæ i s³aba moc obalaj¹ca. Zw³aszcza w porównaniu do wspó³czesnych projektów cechuje siê du¿¹ wag¹ i niezbyt pojemnym magazynkiem. W roku 1951 jednak "Makarow" zosta³ wybrany na podstawow¹ broñ boczn¹ ze wzglêdu na swoj¹ prostotê, ³atwy proces produkcji, celnoœæ i rozs¹dn¹ - jak na owe czasy - moc obalaj¹c¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
 		</text>
 	</string>
 	<string id="st_wpn_pm_actor">
@@ -193,8 +193,8 @@ PISTOLS
 	<string id="st_wpn_pm_actor_descr">
 		<text>Wiekowy ozdobny PM, który Diegtiariow dosta³ "za pomyœlne wykonanie rozkazów dowództwa w wysoce niebezpiecznych warunkach, a tak¿e walecznoœæ i odwagê okazane podczas pe³nienia s³u¿by".\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
 		</text>
 	</string>
 
@@ -205,8 +205,8 @@ PISTOLS
 	<string id="st_wpn_pmm_descr">
 		<text>Najbardziej znany wariant Makarowa, pistolet PMM stanowi now¹ wersj¹ swojego pierwowzoru. Na prze³omie lat 80. i 90. grupa in¿ynierów zmodyfikowa³a zasilaj¹ce broñ naboje, zwiêkszaj¹c iloœæ ³adunku prochowego. W rezultacie otrzymano o 25% wiêksze ciœnienie gazów, co zwiêkszy³o prêdkoœæ wylotow¹ pocisków. Oprócz tego, PMM posiada magazynek mieszcz¹cy 12 naboi, w przeciwieñstwie do klasycznego PM, który pierwotnie mieœci ich tylko 8.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
 		</text>
 	</string>
 
@@ -216,8 +216,8 @@ PISTOLS
 	<string id="st_wpn_mp412_descr">
 		<text>MP412 Rex to rosyjski rewolwer typu double-action. £adowanie odbywa siê przez z³amanie korpusu broni, ale bêbenek zaopatrzony jest w automatyczny wyrzutnik ³usek. Broñ zasilana jest amunicj¹ .357 magnum.\n \nZosta³ zaprojektowany na rynki zagraniczne (REX oznacza dos³ownie "Rewolwer na EXport"), ale nigdy nie trafi³ do seryjnej produkcji ze wzglêdu na niskie zapotrzebowanie. Broñ opracowano w pañstwowych zak³adach I¯MECH (I¿ewskie Zak³ady Mechaniczne), znanych z produkcji pistoletu Makarowa.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
 		</text>
 	</string>
 
@@ -227,8 +227,8 @@ PISTOLS
 	<string id="st_wpn_grach_descr">
 		<text>MP-443 Gawron (ros. "Griacz"), znany tak¿e jako PJ (pistolet Jarygina) dzia³a na zasadzie krótkiego odrzutu lufy ryglowanej przez przekoszenie. Opracowany zosta³ w zwi¹zku z og³oszonym w 1993 roku konkursem na nowy pistolet s³u¿bowy rosyjskiej armii. Do konkursu zg³oszonych zosta³o kilka projektów, jednak ostatecznie wybrano propozycjê I¿ewskich Zak³adów Mechanicznych I¿masz projektu W³adimira Jarygina.\n \nPocz¹tkowo znany jako 6P35 (oznaczenie wojskowe) w 2000 roku pomyœlnie przeszed³ testy poligonowe, a w 2003 roku ostatecznie zosta³ przyjêty jako nowa broñ s³u¿bowa rosyjskiej armii.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
 		</text>
 	</string>
 
@@ -238,7 +238,7 @@ PISTOLS
 	<string id="st_wpn_oc33_descr">
 		<text>OC-33 Piernacz (ros. "broñ pierzasta" - okreœlenie niewielkiej bu³awy lub buzdyganu zakoñczonej piórami) to jeden z ostatnich rosyjskich pistoletów automatycznych niewielkich rozmiarów. Zasada dzia³ania OC-33 opiera siê o odrzut zamka w ty³ za pomoc¹ gazów prochowych. Pistolet zasilany jest amunicj¹ 9x18 Makarowa, mo¿e strzelaæ w trybie pó³- i ca³kowicie automatycznym.\n \nPiernacz zosta³ opracowany w 1995 roku celem wymiany pistoletu APS. Zaprojektowany w CKIB SOO (Centralne Biuro Projektowe Broni Sportowej i Myœliwskiej) w Tule przez Igora Stieczkina - tego samego, który odpowiedzialny jest za konstrukcjê APS.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: APS (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: APS (po modyfikacji)\n
 		</text>
 	</string>
 	
@@ -264,7 +264,7 @@ PISTOLS
 	<string id="st_wpn_sig220_descr">
 		<text>Pistolet SIG-Sauer P220 opracowany zosta³ w póŸnych latach 70. przez firmê J.P.Sauer and Son. Czêsto uwa¿any jest za najlepszy pistolet double-action kalibru .45.\n \nP220 niemal natychmiast trafi³ na wyposa¿enie si³ samoobrony Szwajcarii i Japonii, a tak¿e do wielu s³u¿b porz¹dkowych na terenie Europy. Pistolet trafi³ równie¿ do USA, najpierw dziêki dystrybucji Browning Arms Company, a od lat 80. przez firmê SIGARMS.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: .45 ACP\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru .45 ACP\n
 		</text>
 	</string>
 
@@ -274,7 +274,7 @@ PISTOLS
 	<string id="st_wpn_sig220_nimble_descr">
 		<text>Unikatowy egzemplarz pistoletu SIG-Sauer P220 z limitowanej edycji wyprodukowanej dla nieznanej jednostki specjalnej. Posiada magazynek o zwiêkszonej pojemnoœci, bardzo wytrzyma³¹ stalow¹ lufê i niezwykle wrêcz wytrzyma³¹ polimerow¹ komorê zamkow¹.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: .45 ACP\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru .45 ACP\n
 		</text>
 	</string>
 
@@ -287,8 +287,8 @@ PISTOLS
 	<string id="wpn_tt33_descr">
 		<text>Pistolet samopowtarzalny TT (ros. Tulskij Tokariewa, oficjalnie: Pistolet Samozarjadnyj obr. 1933).\n \nIkona radzieckiej broni palnej, TT-33 to ulepszona wersja TT-30, pistoletu pó³automatycznego stworzonego w 1930 roku, by zaj¹æ miejsce leciwego rewolweru Nagant M1895. Wiele krajów bloku radzieckiego opracowywa³o rozliczne warianty tego pistoletu do chwili, gdy zosta³ on  w roku 1952 zast¹piony pistoletem Makarowa zasilanym amunicj¹ 9x18 mm.\n \nProdukcja "tetetki" w ZSRR zakoñczy³a siê w roku 1954, a mimo to z pistoletu korzysta siê tak¿e w obecnych czasach.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
 		</text>
 	</string>
 
@@ -301,7 +301,7 @@ PISTOLS
 	<string id="st_wpn_usp_descr">
 		<text>Pierwotnie przeznaczony na rynek amerykañski, USP (niem. Universale SelbstladePistole, Uniwersalny Pistolet Samopowtarzalny) da³ siê poznaæ jako niezawodna i celna broñ rêczna. Widaæ, ¿e s³u¿by porz¹dkowe i wojska USA mia³y du¿y wp³yw na projekt pistoletu - wszystkie prze³¹czniki inspirowane s¹ na wskroœ amerykañskim pistoletem Colt 1911.\n \nWszystkie pistolety USP posiadaj¹ polimerowe szkielety, usztywnione wk³adkami ze stali nierdzewnej w miejscach nara¿onych na napiêcia i tarcie. USP Compact .45 posiada najlepsze cechy wczeœniejszych pistoletów produkowanych przez HK. Dziêki niezawodnoœci niezale¿nej od œrodowiska - pistolet potrafi dzia³aæ nawet w najtrudniejszych warunkach - stosowany jest przez wiele krajów na ca³ym œwiecie jako broñ boczna s³u¿b porz¹dkowych i jednostek specjalnych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: .45 ACP (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru .45 ACP (po modyfikacji)\n
 		</text>
 	</string>
 	<string id="st_wpn_usp_match">
@@ -310,7 +310,7 @@ PISTOLS
 	<string id="st_wpn_usp_match_descr">
 		<text>Usprawniony model USP produkcji HK, opracowany na potrzeby strzelectwa sportowego. Posiada poligonaln¹ lufê typu O-ring, pierwszy raz zastosowan¹ w pistolecie Mark 23.\n \nUSP Match oprócz tego posiada ciê¿arek wywa¿aj¹cy, kompensuj¹cy i tak dosyæ ³agodny odrzut naboju 9x19 mm. Ponadto, pistolet posiada regulowan¹ szczerbinkê.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -320,7 +320,7 @@ PISTOLS
 	<string id="st_wpn_usp_nimble_descr">
 		<text>Kompaktowy pistolet zasilany nabojem du¿ego kalibru, dzia³aj¹cy na zasadzie krótkiego odrzutu lufy. Wygl¹da na modyfikacjê pistoletu USP Compact, która polega³a miêdzy innymi na wymianie lufy na l¿ejsz¹. Pistolet wczeœniej nale¿a³ do najemnika zwanego Wilczarzem.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -333,7 +333,7 @@ PISTOLS
 	<string id="st_wpn_walther_descr">
 		<text>Pistolet Walther P99 zaprojektowano ze szczególnym uwzglêdnieniem ergonomii u¿ytkowania. W tym celu zastosowano szkielet polimerowy wzmacniany w³óknem szklanym. Broñ przeznaczona dla s³u¿b mundurowych i odbiorców cywilnych. Znajduje siê na wyposa¿eniu jednostek policji w wielu krajach.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
 		</text>
 	</string>
 
@@ -352,8 +352,8 @@ PISTOLS
 	<string id="st_wpn_protecta_descr">
 		<text>Armsel Protecta to rewolwerowa pó³automatyczna strzelba g³adkolufowa. Skonstruowana w Afryce w czasach apartheidu. W porównaniu do rosyjskiej Saigi 12 i amerykañskiej AA-12 wydaje siê przestarza³a, jednak w latach 80. XX w. Protecta by³a prze³omowym wynalazkiem.\n \nZasilana amunicj¹ kalibru 12, strzelba odznacza siê magazynkiem o du¿ej pojemnoœci i du¿¹ szybkostrzelnoœci¹. Cen¹ za te udogodnienia s¹: jej nieporêcznoœæ, du¿a waga i d³ugi czas potrzebny na prze³adowanie broni. W Zonie spotykana raczej rzadko, przede wszystkim u¿ywana jest do walki przeciwko mutantom w ciasnych przestrzeniach.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Afryka Po³udniowa\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Hilton R. Walker\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Afryka Po³udniowa\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Hilton R. Walker\n
 		</text>
 	</string>
 
@@ -362,8 +362,8 @@ PISTOLS
 	</string>
 	<string id="st_wpn_protecta_aim_descr">
 		<text>Armsel Protecta to rewolwerowa pó³automatyczna strzelba g³adkolufowa. Skonstruowana w Afryce w czasach apartheidu. W porównaniu do rosyjskiej Saigi 12 i amerykañskiej AA-12 wydaje siê przestarza³a, jednak w latach 80. XX w. Protecta by³a prze³omowym wynalazkiem.\n \nZasilana amunicj¹ kalibru 12, strzelba odznacza siê magazynkiem o du¿ej pojemnoœci i du¿¹ szybkostrzelnoœci¹. Cen¹ za te udogodnienia s¹: jej nieporêcznoœæ, du¿a waga i d³ugi czas potrzebny na prze³adowanie broni. W Zonie spotykana raczej rzadko, przede wszystkim u¿ywana jest do walki przeciwko mutantom w ciasnych przestrzeniach.\n \nTen model jest doœæ mocno zmodernizowany - elementy wewnêtrzne s¹ lepiej spasowane, a prêdkoœæ wylotowa pocisku jest wy¿sza dziêki zwiêkszeniu ciœnienia gazów w lufie. By zwiêkszyæ moc obalaj¹c¹, poœwiêcono szybkostrzelnoœæ. Ten konkretny egzemplarz posiada dodatkowo szwedzki celownik kolimatorowy Aimpoint AB.\n \n
-		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik Aimpoint (zintegrowany)\n
+		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celownik: Aimpoint (zintegrowany)\n
 		</text>
 	</string>
 
@@ -373,8 +373,8 @@ PISTOLS
 	<string id="st_wpn_protecta_nimble_descr">
 		<text>Armsel Protecta to rewolwerowa pó³automatyczna strzelba g³adkolufowa. Skonstruowana w Afryce w czasach apartheidu. W porównaniu do rosyjskiej Saigi 12 i amerykañskiej AA-12 wydaje siê przestarza³a, jednak w latach 80. XX w. Protecta by³a prze³omowym wynalazkiem.\n \nZasilana amunicj¹ kalibru 12, strzelba odznacza siê magazynkiem o du¿ej pojemnoœci i du¿¹ szybkostrzelnoœci¹. Cen¹ za te udogodnienia s¹: jej nieporêcznoœæ, du¿a waga i d³ugi czas potrzebny na prze³adowanie broni. W Zonie spotykana raczej rzadko, przede wszystkim u¿ywana jest do walki przeciwko mutantom w ciasnych przestrzeniach.\n \nJeœliby wierzyæ niektórym Ÿród³om, ten egzemplarz kiedyœ nale¿a³ do najemnika o ksywie Czo³g, ale raczej nie jest to informacja do potwierdzenia.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Afryka Po³udniowa\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Hilton R. Walker\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Afryka Po³udniowa\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Hilton R. Walker\n
 		</text>
 	</string>
 
@@ -384,8 +384,8 @@ PISTOLS
 	<string id="st_wpn_fort500_descr">
 		<text>Strzelba g³adkolufowa Fort-500 zosta³a opracowana przez pañstwowe przedsiêbiorstwo Fort na zlecenie ukraiñskiego MSW pod koniec lat 90. XX wieku. Trafi³a na wyposa¿enie jednostek MSW i SBU.\n \nObecnie Fort-500 u¿ywana jest przez niektóre jednostki specjalne MSW oraz - dziêki wariantom ³owieckim - przez cywilnych myœliwych.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Ukraina\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Fort NGO\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Ukraina\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fort NGO\n
 		</text>
 	</string>
 
@@ -395,7 +395,7 @@ PISTOLS
 	<string id="st_wpn_remington870_descr">
 		<text>Remington 870 to amerykañska strzelba, zaprezentowana po raz pierwszy przez Remington Arms w roku 1950. Ze wzglêdu na charakterystyczn¹ "pompkê" jest jedn¹ z najbardziej rozpoznawalnych strzelb pump-action na œwiecie.\n \nProdukowana w wielu wersjach, znalaz³a zastosowanie w wojsku, policji, ³owiectwie, strzelectwie sportowym, jak i w charakterze broni do ochrony osobistej.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Barska ES AC10632, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Barska ES AC10632, C-more Railway Tactical\n
 		</text>
 	</string>
 
@@ -411,8 +411,8 @@ PISTOLS
 	<string id="st_wpn_toz34_descr">
 		<text>Strzelba TOZ-34 to g³adkolufowa nadlufka zaprojektowana przez N.I. Korowiakowa i W.P. Oczniewa w roku 1965. Mimo mo¿liwoœci za³adowania jedynie dwóch nabojów, konkuruje z bardziej zaawansowanymi modelami ze wzglêdu na niezawodnoœæ i celnoœæ.\n \nNiewygórowana cena, du¿a moc i mo¿liwoœæ roz³adowania obu naboi jednoczeœnie sprawi³y, ¿e jest to broñ chêtnie u¿ywana przez ¿ó³todziobów na peryferiach Zony. Szczególnie skuteczna przeciw mutantom ze wzglêdu na doœæ wysok¹ celnoœæ i moc obalaj¹c¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Fabryka broni w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka broni w Tule\n
 		</text>
 	</string>
 
@@ -428,8 +428,8 @@ PISTOLS
 	<string id="st_wpn_toz34_obrez_descr">
 		<text>Strzelba TOZ-34 to g³adkolufowa nadlufka o przeznaczeniu ³owieckim zaprojektowana przez N.I. Korowiakowa i W.P. Oczniewa w roku 1965. Broñ zmodyfikowano, usuwaj¹c spor¹ czêœæ lufy po to, by mia³a mniejszy rozmiar i by³a ³atwiejsza do przenoszenia. Taka zmiana popularna jest zw³aszcza wœród nowicjuszy i bandytów - dziêki temu z ³atwoœci¹ mog¹ ukryæ j¹ za pazuch¹ p³aszcza.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Fabryka broni w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka broni w Tule\n
 		</text>
 	</string>
 
@@ -439,7 +439,7 @@ PISTOLS
 	<string id="st_wpn_toz34_mark4_descr">
 		<text>Strzelba TOZ-34 to g³adkolufowa nadlufka zaprojektowana przez N.I. Korowiakowa i W.P. Oczniewa w roku 1965. Mimo mo¿liwoœci za³adowania jedynie dwóch nabojów, konkuruje z bardziej zaawansowanymi modelami ze wzglêdu na niezawodnoœæ i celnoœæ.\n \nNiewygórowana cena, du¿a moc i mo¿liwoœæ roz³adowania obu naboi jednoczeœnie sprawi³y, ¿e jest to broñ chêtnie u¿ywana przez ¿ó³todziobów na peryferiach Zony. Szczególnie skuteczna przeciw mutantom ze wzglêdu na doœæ wysok¹ celnoœæ i moc obalaj¹c¹.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik Leupold Mark 4 (zintegrowany)\n
+		%c[d_purple] • %c[ui_gray_2] Celownik: Leupold Mark 4 (zintegrowany)\n
 		</text>
 	</string>
 
@@ -449,8 +449,8 @@ PISTOLS
 	<string id="st_wpn_toz34_bull_descr">
 		<text>Rêcznie przeprowadzona modyfikacja strzelby TOZ-34, u¿ywaj¹ca specjalistycznej amunicji "Bull", prawdopodobnie zdolnej zatrzymaæ nawet czo³g. Zmian dokonano g³ównie w elementach zapewniaj¹cych broni moc.\n \nNa pierwszy rzut oka wygl¹da po prostu jak strzelba z dekoracjami. Jednak, jeœli przyjrzeæ siê bli¿ej, mo¿na zauwa¿yæ, ¿e lufê wykonano z nietypowego metalu, zdradzaj¹cego jej nieoryginalne pochodzenie, a kolba wykonana jest z w³ókna wêglowego. Widnieje na niej litera "F". Trudno powiedzieæ, kto jest autorem modyfikacji i w jaki sposób broñ trafi³a do Zony.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Fabryka broni w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka broni w Tule\n
 		</text>
 	</string>
 
@@ -460,8 +460,8 @@ PISTOLS
 	<string id="st_wpn_bm16_full_descr">
 		<text>Potê¿na broñ bêd¹ca w zasiêgu ka¿dego stalkera. TOZ-66 to strzelba krótkiego dystansu o du¿ej efektywnoœci i niezawodnoœci. Z drugiej strony, jest du¿a i nieporêczna, dlatego wielu stalkerów woli wydaæ swoje ciê¿ko zarobione rubelki na bardziej nowoczesn¹ broñ rêczn¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
 		</text>
 	</string>
 
@@ -471,8 +471,8 @@ PISTOLS
 	<string id="st_wpn_bm16_full_descr">
 		<text>Potê¿na broñ bêd¹ca w zasiêgu ka¿dego stalkera. TOZ-66 to strzelba krótkiego dystansu o du¿ej efektywnoœci i niezawodnoœci. Z drugiej strony, jest du¿a i nieporêczna, dlatego wielu stalkerów woli wydaæ swoje ciê¿ko zarobione rubelki na bardziej nowoczesn¹ broñ rêczn¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
 		</text>
 	</string>
 	
@@ -482,8 +482,8 @@ PISTOLS
 	<string id="st_wpn_bm16_descr">
 		<text>Dubeltówka z obciêtymi lufami. L¿ejsza i bardziej kompaktowa, efektywna na krótkim dystansie.\n \nWielu œwie¿o upieczonych stalkerów, potrzebuj¹cych taniej, ale efektywnej broni krótkiego zasiêgu obcina kolby i lufy ³atwych do zdobycia strzelb. Taki obrzyn ³atwiej przenosiæ i wyjmowaæ w sytuacji zagro¿enia, ale skrócenie lufy powoduje spadek skutecznego zasiêgu i utratê celnoœci.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
 		</text>
 	</string>
 
@@ -493,8 +493,8 @@ PISTOLS
 	<string id="st_wpn_bm16_alt_descr">
 		<text>Strzelba dwulufowa typu break-action przeznaczona do polowañ amatorskich i ogólnego u¿ytku cywilnego. Lufy i kolba zosta³y rêcznie skrócone, aby broñ by³a l¿ejsza i bardziej kompaktowa. Choæ jest szybka w u¿yciu, cierpi na tym jej zasiêg i celnoœæ, ale mimo to jest to niszczycielska broñ do walki na bliskim dystansie.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
 		</text>
 	</string>
 
@@ -504,8 +504,8 @@ PISTOLS
 	<string id="st_wpn_toz194_descr">
 		<text>TOZ-194 to strzelba pump-action kalibru 12, produkowana przez zak³ady zbrojeniowe w Tule. Choæ zosta³a opracowana w ostatnich latach istnienia Zwi¹zku Radzieckiego, produkcjê rozpoczêto ju¿ po upadku "Sojuza". Od tej pory zdoby³a uznanie i popularnoœæ zarówno wœród u¿ytkowników cywilnych w Rosji i Europie, jak i niektórych jednostek powi¹zanych z rosyjsk¹ FSB.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
 		</text>
 	</string>
 
@@ -515,8 +515,8 @@ PISTOLS
 	<string id="st_wpn_usas12_descr">
 		<text>USAS-12 (ang. Universal Sports Automatic Shotgun 12 gauge - Uniwersalna Automatyczna Strzelba Sportowa kal. 12) produkowana w Korei Po³udniowej przez Daewoo Precision Industries to automatyczna strzelba bojowa opracowana w latach 80. XX wieku. To, w jaki sposób przepisowa broñ si³ zbrojnych Republiki Koreañskiej trafi³a do Zony pozostaje tajemnic¹. Kto wie, byæ mo¿e trafi³ tu te¿ produkowany przez Daewoo karabin szturmowy K2?\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Korea Po³udniowa\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Daewoo Precision Industries\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Korea Po³udniowa\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Daewoo Precision Industries\n
 		</text>
 	</string>
 
@@ -529,8 +529,8 @@ PISTOLS
 	<string id="st_wpn_p90_descr">
 		<text>Pistolet maszynowy FN P90 opracowano w koñcówce lat 80. jako broñ g³ówn¹ dla oddzia³ów, których g³ówne zadania nie koncentruj¹ siê wokó³ korzystania z rêcznego uzbrojenia. Pistolet maszynowy powsta³ dla cz³onków za³óg pojazdów i czo³gów, artylerzystów itd.\n \nU¿ywane do tej pory pistolety i pistolety maszynowe by³y niewystarczaj¹ce przeciw wrogom korzystaj¹cym z pancerzy osobistych. FN opracowa³o now¹ amunicjê oznaczon¹ SS90 celem uzyskania du¿ych zdolnoœci penetracyjnych z zachowaniem niewielkiego odrzutu. Rezultatem prac by³ nabój wygl¹daj¹cy jak przeskalowany standardowy nabój NATO kalibru 5.56.\n \nEfektem badañ by³a broñ ochrony osobistej (PDW) FN P90, zaprezentowana w 1990 roku razem z now¹ amunicj¹ kalibru 5.7x28 typu SS190, cechuj¹c¹ siê ciê¿kim, podwójnym, stalowo-aluminiowym rdzeniem z dobrymi wynikami przebijalnoœci pancerzy osobistych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 5.7x28 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: 5.7x28 mm\n
 		</text>
 	</string>
 
@@ -540,8 +540,8 @@ PISTOLS
 	<string id="st_wpn_mp5_descr">
 		<text>MP5 to jedna z najbardziej znanych i rozpowszechnionych broni tej klasy. Kompaktowoœæ, celnoœæ i niezawodnoœæ tego pistoletu maszynowego sprawi³y, ¿e MP5 sta³ siê ulubieñcem wojsk, s³u¿b specjalnych i porz¹dkowych, a tak¿e agencji ochrony na ca³ym œwiecie.\n \nBroñ jest równie popularna w œwiatku przestêpczym, wiêc nic dziwnego, ¿e w du¿ych iloœciach trafia do Zony. MP5A3 na tle innych modeli wyró¿nia sk³adana, metalowa kolba.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -551,8 +551,8 @@ PISTOLS
 	<string id="st_wpn_mp5_alt_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Heckler und Koch\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Heckler und Koch\n
 		</text>
 	</string>
 
@@ -562,8 +562,8 @@ PISTOLS
 	<string id="st_wpn_mp5_custom_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Heckler und Koch\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Heckler und Koch\n
 		</text>
 	</string>
 
@@ -573,8 +573,8 @@ PISTOLS
 	<string id="st_wpn_mp5_nimble_descr">
 		<text>Prototypowy model pistoletu maszynowego opartego na œwietnym HK MP5A3. Opracowany jako kolejna generacja broni do walk w ciasnych przestrzeniach, cechuje siê wiêkszym kalibrem, szybkostrzelnoœci¹ i celnoœci¹.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki ACOG, Barska ES AC10632\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: GemTech (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech (po modyfikacji)\n
 		</text>
 	</string>
 	
@@ -584,7 +584,7 @@ PISTOLS
 	<string id="st_wpn_mp5sd_descr">
 		<text>Wariant MP5 ze zintegrowanym t³umikiem. W Zonie najchêtniej korzystaj¹ z niego kontraktowi najemnicy. Ten wariant posiada specjalny, zintegrowany t³umik do MP5SD.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
 		</text>
 	</string>
 
@@ -594,8 +594,8 @@ PISTOLS
 	<string id="st_wpn_mp5sd_custom_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB. Wariant SD6 jest wyposa¿ony w wysuwan¹ kolbê, zintegrowany t³umik i ma mo¿liwoœæ strzelania 3-nabojow¹ seri¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Heckler und Koch\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Heckler und Koch\n
 		</text>
 	</string>
 
@@ -605,8 +605,8 @@ PISTOLS
 	<string id="st_wpn_mp5sd_new_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB. Wariant SD6 jest wyposa¿ony w wysuwan¹ kolbê, zintegrowany t³umik i ma mo¿liwoœæ strzelania 3-nabojow¹ seri¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Heckler und Koch\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy Zachodnie\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Heckler und Koch\n
 		</text>
 	</string>
 
@@ -620,7 +620,7 @@ PISTOLS
 	<string id="st_wpn_kiparis_descr">
 		<text>OC-02 Kiparis (ros. "Cyprys") jest broni¹ samoczynno-samopowtarzaln¹ dzia³aj¹c¹ na zasadzie odrzutu zamka swobodnego. Opracowano j¹ w 1972 roku na zlecenie Ministerstwa Obrony ZSRR przez in¿ynierów CKIB COO z Tu³y. Pistolet maszynowy wzorowany jest na czechos³owackim Skorpionie wz. 61 (wariant z 1961).\n \nBy zwiêkszyæ stabilnoœæ broni, dodano sk³adan¹ kolbê, która po z³o¿eniu chwytana jest przez blokadê umieszczon¹ na komorze zamkowej. W Zonie ten pistolet maszynowy nie jest zbyt popularny. Zwykle posiadaj¹ go bandyci i samotnicy, którzy nie mog¹ sobie pozwoliæ na lepsze i dro¿sze uzbrojenie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
 		</text>
 	</string>
 
@@ -630,8 +630,8 @@ PISTOLS
 	<string id="st_wpn_bizon_descr">
 		<text>Ten pistolet automatyczny zosta³ opracowany w s³ynnych zak³adach I¿masz w I¿ewsku we wczesnych latach 90., pierwszy raz zosta³ zaprezentowany w roku 1993. Inspirowany pistoletem maszynowym Calico, Bizon ³¹czy du¿¹ pojemnoœæ magazynka œlimakowego z bardziej konwencjonalnym uk³adem elementów wewnêtrznych.\n \nZbudowany zosta³ w oparciu o skrócony korpus AKS-74 wykonany z t³oczonej stali. W zwi¹zku z u¿ywaniem s³abszej amunicji ni¿ w AKS-74U zrezygnowano z u¿ycia t³oka gazowego na rzecz swobodnego odrzutu zamka. Bizon strzela w trybie pó³- i ca³kowicie automatycznym, posiada typowy dla serii AK bezpiecznik - dŸwigniê po prawej stronie broni. Przyrz¹dy celownicze podobne s¹ do tych z AKS-74U.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
 		</text>
 	</string>
 
@@ -641,8 +641,8 @@ PISTOLS
 	<string id="st_wpn_pp2000_descr">
 		<text>PP-2000 to jeden z ostatnich pistoletów maszynowych opracowanych przez tulskie KBP (ros. Konstruktorskoje Biuro Priborostrojenia, Biuro Projektowe Oprzyrz¹dowania). Pierwszy raz zaprezentowany publicznie w 2004 roku, choæ najwczeœniejsze zwi¹zane z nim patenty pojawi³y siê ju¿ trzy lata wczeœniej.\n \nPP-2000 opracowano, by wype³niæ niszê broni ochrony osobistej dla jednostek formacji innych, ni¿ piechota, jak równie¿ jako broñ do walki w zamkniêtych przestrzeniach dla jednostek specjalnych i specjalnych oddzia³ów policyjnych.\n \nBroñ jest dosyæ kompaktowa i ceniona za swoj¹ niezawodnoœæ, ³atwy dostêp do elementów i nisk¹ cenê. Dobry wybór do walki na krótkie dystanse.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
 		</text>
 	</string>
 
@@ -652,8 +652,8 @@ PISTOLS
 	<string id="st_wpn_ump45_descr">
 		<text>UMP zosta³ opracowany w latach 90. przez HK. Do sprzeda¿y trafi³ w roku 1999. Pomys³em stoj¹cym za UMP by³a potrzeba stworzenia lekkiego, silnego pistoletu maszynowego, który bêdzie tañszy ni¿ MP5.\n \nUMP, skierowany przede wszystkim do s³u¿b porz¹dkowych. Zasilany jest amunicj¹ .45 ACP i .40 SW. PóŸniej pojawi³ siê model, który strzela nabojami kalibru 9 mm.\n \nUMP45 zapewnia wiêksz¹ moc obalaj¹c¹ ni¿ MP5, generuj¹c przez to wiêkszy odrzut. W efekcie kontrola ognia automatycznego jest utrudniona. Aby zaradziæ temu problemowi, znacz¹co obni¿ono szybkostrzelnoœæ.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Gemtech\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Gemtech\n
 		</text>
 	</string>
 
@@ -663,8 +663,8 @@ PISTOLS
 	<string id="st_wpn_ump45_custom_descr">
 		<text>UMP zosta³ opracowany w latach 90. przez HK. Do sprzeda¿y trafi³ w roku 1999. Pomys³em stoj¹cym za UMP by³a potrzeba stworzenia lekkiego, silnego pistoletu maszynowego, który bêdzie tañszy ni¿ MP5.\n \nUMP, skierowany przede wszystkim do s³u¿b porz¹dkowych. Zasilany jest amunicj¹ .45 ACP i .40 SW. PóŸniej pojawi³ siê model, który strzela nabojami kalibru 9 mm.\n \nUMP45 zapewnia wiêksz¹ moc obalaj¹c¹ ni¿ MP5, generuj¹c przez to wiêkszy odrzut. W efekcie kontrola ognia automatycznego jest utrudniona. Aby zaradziæ temu problemowi, znacz¹co obni¿ono szybkostrzelnoœæ.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Gemtech\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Gemtech\n
 		</text>
 	</string>
 
@@ -674,7 +674,7 @@ PISTOLS
 	<string id="st_wpn_vz61_descr">
 		<text>Oryginalnym kalibrem broni w momencie przyjêcia jej do armii czechos³owackiej w 1961 roku by³ .32 ACP (7.65 mm). Masowej produkcji wariantu w kalibrze 9x19 mm nigdy nie rozpoczêto. Pomimo tego du¿a liczba takich prototypowych egzemplarzy Skorpiona wz.68 trafi³a do Zony.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -684,8 +684,8 @@ PISTOLS
 	<string id="st_wpn_vz61_alt_descr">
 		<text>Opracowany do u¿ytku w si³ach bezpieczeñstwa i przyjêty przez armiê czechos³owack¹ jako osobista broñ boczna dla ni¿szego rang¹ personelu wojskowego, vz.68 jest ciê¿sz¹ wersj¹ vz.61 z wiêkszym nabojem 9x19 mm. Poniewa¿ model ten nigdy nie wszed³ do masowej produkcji, jest uwa¿any za unikalny dodatek dla ka¿dego kolekcjonera.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Czechos³owacka Republika Socjalistyczna\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ceska zbrojovka Uhersky Brod\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Czechos³owacka Republika Socjalistyczna\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ceska zbrojovka Uhersky Brod\n
 		</text>
 	</string>
 
@@ -695,8 +695,8 @@ PISTOLS
 	<string id="st_wpn_vz61_camo_descr">
 		<text>Opracowany do u¿ytku w si³ach bezpieczeñstwa i przyjêty przez armiê czechos³owack¹ jako osobista broñ boczna dla ni¿szego rang¹ personelu wojskowego, vz.68 jest ciê¿sz¹ wersj¹ vz.61 z wiêkszym nabojem 9x19 mm. Poniewa¿ model ten nigdy nie wszed³ do masowej produkcji, jest uwa¿any za unikalny dodatek dla ka¿dego kolekcjonera.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Czechos³owacka Republika Socjalistyczna\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ceska zbrojovka Uhersky Brod\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Czechos³owacka Republika Socjalistyczna\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ceska zbrojovka Uhersky Brod\n
 		</text>
 	</string>
 
@@ -706,8 +706,8 @@ PISTOLS
 	<string id="st_wpn_vz61_freedom_descr">
 		<text>Opracowany do u¿ytku w si³ach bezpieczeñstwa i przyjêty przez armiê czechos³owack¹ jako osobista broñ boczna dla ni¿szego rang¹ personelu wojskowego, vz.68 jest ciê¿sz¹ wersj¹ vz.61 z wiêkszym nabojem 9x19 mm. Poniewa¿ model ten nigdy nie wszed³ do masowej produkcji, jest uwa¿any za unikalny dodatek dla ka¿dego kolekcjonera. "Wolnoœæ" gruntownie zmodyfikowa³a t¹ wersjê pod k¹tem lepszych osi¹gów.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Czechos³owacka Republika Socjalistyczna\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Ceska zbrojovka Uhersky Brod\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Czechos³owacka Republika Socjalistyczna\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Ceska zbrojovka Uhersky Brod\n
 		</text>
 	</string>
 
@@ -725,9 +725,9 @@ PISTOLS
 	<string id="st_wpn_aek971_descr">
 		<text>Mocno oparty na poprzednich konstrukcjach ka³asznikowów, AEK-971 posiada mechanizm redukcji odrzutu, dziêki któremu ³atwiej zapanowaæ nad broni¹ w trakcie korzystania z automatycznego trybu ognia. Niewielkie partie karabinu produkowane by³y przez MWD (Ministerstwo Spraw Wewnêtrznych Rosji).\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior\n
 		</text>
 	</string>
 	
@@ -737,9 +737,9 @@ PISTOLS
 	<string id="st_wpn_aek973_descr">
 		<text>AEK-973 to wersja AEK-971 zasilana amunicj¹ 7.62x39 mm, opracowana w Kowrowskich Zak³adach Mechanicznych pod kierownictwem Stanis³awa Iwanowicza Kokszarowa na bazie systemu SA-006.\n \nMocno oparty na poprzednich konstrukcjach ka³asznikowów, AEK-973 posiada mechanizm redukcji odrzutu, dziêki któremu ³atwiej zapanowaæ nad broni¹ w trakcie korzystania z automatycznego trybu ognia. Niewielkie partie karabinu produkowane by³y przez MWD (Ministerstwo Spraw Wewnêtrznych Rosji).\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior\n
 		</text>
 	</string>
 	
@@ -749,9 +749,9 @@ PISTOLS
 	<string id="st_wpn_ak_descr">
 		<text>Karabinek AK (AK od Automat Ka³asznikowa; czasem mylnie okreœlany jako AK-47) mo¿na opisaæ jako hybrydê wczeœniejszych technologii produkcji karabinów. Michai³ Ka³asznikow opracowa³ tê broñ ³¹cz¹c najlepsze cechy amerykañskiego M1 i niemieckiego StG44.\n \nKa³asznikow jest broni¹ samoczynno-samopowtarzaln¹, dzia³aj¹c¹ na zasadzie odprowadzenia gazów przez boczny otwór w lufie do komory gazowej, umieszczonej nad luf¹. Zasilany amunicj¹ 7.62x39 mm stanowi jedn¹ z ikonicznych i najbardziej rozpowszechnionych broni drugiej po³owy XX wieku. Na przestrzeni lat ulega³ ró¿nym, wiêkszym b¹dŸ mniejszym modyfikacjom i nadal produkowany jest przez kilkanaœcie krajów na œwiecie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n \n
-		%c[d_red]• %c[d_red] brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n \n
+		%c[d_red]• %c[d_red] Brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
 		</text>
 	</string>
 
@@ -761,9 +761,9 @@ PISTOLS
 	<string id="st_wpn_ak74_old_descr">
 		<text>AK-74 to karabin szturmowy zasilany amunicj¹ 5.45x45 mm opracowany we wczesnych latach 70. przez Michai³a Ka³asznikowa celem wymiany starszej konstrukcji AKM. Zaprezentowany w 1974, pierwszy raz u¿yty w warunkach bojowych przez wojska radzieckie w Afganistanie. Zasadniczo AK-74 to karabin AKM zmodyfikowany tak, by móg³ korzystaæ z mniejszych nabojów kal. 5.45x45 mm i wyposa¿ony w wiêkszy hamulec wylotowy.\n \nTen konkretny egzemplarz najlepsze czasy ma ju¿ za sob¹.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_red] • %c[d_red] brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_red] • %c[d_red] Brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
 		</text>
 	</string>
 
@@ -785,9 +785,9 @@ PISTOLS
 	<string id="st_wpn_ak74m_descr">
 		<text>W 1991 fabryka I¿masz rozpoczê³a produkcjê karabinu szturmowego AK-74M, który by³ ulepszon¹ wersj¹ AK-74. Pomijaj¹c kilka pomniejszych usprawnieñ produkcyjnych, broñ zosta³a wyposa¿ona w now¹, sk³adan¹, syntetyczn¹ kolbê wykonan¹ z czarnego poliamidu i w³ókna szklanego. AK-74M korzysta tak¿e z nowego urz¹dzenia wylotowego i klapki wyrzutnika ³usek. Ka¿dy model posiada szynê bocznego monta¿u celownika optycznego. AK-74M zosta³y przyjête jako wyposa¿enie armii Federacji Rosyjskiej.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -797,10 +797,10 @@ PISTOLS
 	<string id="st_wpn_ak74m_pk-a_descr">
 		<text>W 1991 fabryka I¿masz rozpoczê³a produkcjê karabinu szturmowego AK-74M, który by³ usprawnion¹ wersj¹ AK-74. Pomijaj¹c kilka pomniejszych usprawnieñ produkcyjnych, broñ zosta³a wyposa¿ona w now¹, sk³adan¹, syntetyczn¹ kolbê wykonan¹ z czarnego poliamidu i w³ókna szklanego. AK-74M korzysta tak¿e z nowego urz¹dzenia wylotowego i klapki wyrzutnika ³usek. Ka¿dy model posiada szynê bocznego monta¿u celownika optycznego. AK-74M zosta³y przyjête jako wyposa¿enie armii Federacji Rosyjskiej.\n \nTen model posiada celownik PK-A zamontowany na szynie MTK-83.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zintegrowany celownik PK-A "Red Dot"\n \n
+		%c[d_purple] • %c[ui_gray_2] Broñ posiada zintegrowany celownik PK-A "Red Dot"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -819,9 +819,9 @@ PISTOLS
 	<string id="st_wpn_ak74_descr">
 		<text>AK-74 to karabin szturmowy zasilany amunicj¹ 5.45x45 mm opracowany we wczesnych latach 70. przez Michai³a Ka³asznikowa celem wymiany starszej konstrukcji AKM. Zaprezentowany w 1974, pierwszy raz u¿yty w warunkach bojowych przez wojska radzieckie w Afganistanie. Zasadniczo AK-74 to karabin AKM zmodyfikowany tak, by móg³ korzystaæ z mniejszych nabojów kal. 5.45x45 mm i wyposa¿ony w wiêkszy hamulec wylotowy.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -831,10 +831,10 @@ PISTOLS
 	<string id="st_wpn_ak74_eot_descr">
 		<text>AK-74 to karabin szturmowy zasilany amunicj¹ 5.45x45 mm opracowany we wczesnych latach .70 przez Michai³a Ka³asznikowa celem wymiany starszej konstrukcji AKM. Zaprezentowany w 1974, pierwszy raz u¿yty w warunkach bojowych przez wojska radzieckie w Afganistanie. Zasadniczo, AK-74 to karabin AKM zmodyfikowany tak, by móg³ korzystaæ z mniejszych nabojów kal. 5.45x45 mm i wyposa¿ony w wiêkszy hamulec wylotowy.\n \nTen model posiada zintegrowany celownik kolimatorowy EOTech i magazynek mieszcz¹cy 45 nabojów.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zintegrowany celownik EOTech\n \n
+		%c[d_purple] • %c[ui_gray_2] Broñ posiada zintegrowany celownik EOTech\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -847,9 +847,9 @@ PISTOLS
 	<string id="st_wpn_ak101_descr">
 		<text>AK-101 to karabin szturmowy stworzony w oparciu o ca³¹ rodzinê ka³asznikowów, opracowany na rynek zewnêtrzny. Zasilany amunicj¹ standardow¹ dla wiêkszoœci pañstw cz³onkowskich NATO kalibru 5.56x45 mm. Karabin AK-101 przeznaczony jest dla tych, którzy szukaj¹ broni prostej pod wzglêdem logistycznym i o trwa³oœci klasycznego AK, ale zasilanej amunicj¹ NATO.\n \nStworzony z u¿yciem nowoczesnych, kompozytowych materia³ów, z zastosowaniem plastików zmniejszaj¹cych wagê i zwiêkszaj¹cych celnoœæ. Wiele usprawnieñ znajdowanych w AK-101 posiadaj¹ tak¿e karabiny typu AK-103 i reszta serii AK-10x.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech, EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ATG\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech, EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ATG\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 	
@@ -859,8 +859,8 @@ PISTOLS
 	<string id="st_wpn_ak102_descr">
 		<text>AK-102 to skrócona wersja zasilanego amunicj¹ 5.56x45 mm karabinu szturmowego AK-101. Posiada krótsz¹ lufê, czyni¹c broñ poœredni¹ miêdzy pe³nymi karabinami a kompaktowym AKS-74U. Komora zamkowa wykonana jest ze stali t³oczonej, magazynek ze wzmocnionego w³ókna szklanego, a kolba z z plastiku, co czyni broñ l¿ejsz¹, bardziej wytrzyma³¹ i pozwala przechowywaæ wewn¹trz zestawy polowe.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech, celowniki EKP-8-02 Kobra, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ATG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech, celowniki EKP-8-02 Kobra, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ATG\n
 		</text>
 	</string>
 	
@@ -873,9 +873,9 @@ PISTOLS
 	<string id="st_wpn_ak103_descr">
 		<text>Karabin szturmowy AK-103 pochodzi od AK-74M z tym, ¿e zasilany jest amunicj¹ 7.62x39 mm - tak, jak AKM i pierwszy karabinek AK. Do AK-103 mo¿na doczepiæ pe³ny zakres akcesoriów, takich jak celowniki laserowe, noktowizyjne i teleskopowe, t³umiki czy granatnik podlufowy GP-25. Wszêdzie, gdzie by³o to mo¿liwe, elementy drewniane i metalowe zosta³y wymienione na plastikowe celem zmniejszenia wagi.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ATG\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ATG\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 	
@@ -885,8 +885,8 @@ PISTOLS
 	<string id="st_wpn_ak104_descr">
 		<text>AK-104 to skrócona wersja zasilanego amunicj¹ 7.62x39 mm karabinu szturmowego AK-103. Posiada krótsz¹ lufê, czyni¹c broñ poœredni¹ miêdzy pe³nymi karabinami a kompaktowym AKS-74U.\n \nKomora zamkowa wykonana jest ze stali t³oczonej, magazynek ze wzmocnionego w³ókna szklanego, a kolba z z plastiku, co czyni broñ l¿ejsz¹, bardziej wytrzyma³¹ i pozwala przechowywaæ wewn¹trz zestawy polowe.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ATG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ATG\n
 		</text>
 	</string>
 
@@ -896,9 +896,9 @@ PISTOLS
 	<string id="st_wpn_aks_descr">
 		<text>Wariant karabinka AK, wyposa¿ony w sk³adane metalowe ramiê w miejscu drewnianej, nieruchomej kolby. Przeznaczony dla za³óg wozów opancerzonych i spadochroniarzy.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
-		%c[d_red] • %c[d_red] brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_red] • %c[d_red] Brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
 		</text>
 	</string>
 
@@ -911,9 +911,9 @@ PISTOLS
 	<string id="st_wpn_aks74_descr">
 		<text>Cechuj¹cy siê wiêksz¹ celnoœci¹ i wytrzyma³oœci¹ ni¿ AKM, karabinek AK-74 wci¹¿ u¿ywany jest w wielu krajach by³ego ZSRR. Litera "S" w oznaczeniu AKS-74 informuje, ¿e broñ posiada trójk¹tn¹, metalow¹, sk³adan¹ na lewo kolbê.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -923,8 +923,8 @@ PISTOLS
 	<string id="st_wpn_ak74u_old_descr">
 		<text>AKS-74U zosta³ zaprojektowany dla jednostek Specnazu, oddzia³ów wojsk aeromobilnych, ¿o³nierzy wsparcia i za³óg pojazdów opancerzonych, które potrzebowa³y kompaktowej broni automatycznej, dysponuj¹cej wzglêdnie du¿¹ si³¹ ognia. Zdecydowanie ³atwiej jest nim manewrowaæ w ciasnych przestrzeniach ni¿ AKS-74, jednak znaczny spadek prêdkoœci wylotowej pocisków skutkuje skróceniem skutecznego zasiêgu.\n \nTen konkretny egzemplarz wygl¹da na bardzo stary.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-4\n
-		%c[d_red] • %c[d_red] brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-4\n
+		%c[d_red] • %c[d_red] Brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
 		</text>
 	</string>
 	
@@ -934,8 +934,8 @@ PISTOLS
 	<string id="st_wpn_ak74u_descr">
 		<text>AKS-74U zosta³ zaprojektowany dla jednostek Specnazu, oddzia³ów wojsk aeromobilnych, ¿o³nierzy wsparcia i za³óg pojazdów opancerzonych, które potrzebowa³y kompaktowej broni automatycznej, dysponuj¹cej wzglêdnie du¿¹ si³¹ ognia. Zdecydowanie ³atwiej jest nim manewrowaæ w ciasnych przestrzeniach ni¿ AKS-74, jednak znaczny spadek prêdkoœci wylotowej pocisków skutkuje skróceniem skutecznego zasiêgu.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-4\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-4\n
 		</text>
 	</string>
 
@@ -945,8 +945,8 @@ PISTOLS
 	<string id="st_wpn_ak74u_camo_descr">
 		<text>AKS-74U wype³nia taktyczn¹ lukê miêdzy pistoletem maszynowym a karabinem szturmowym i zosta³ zaprojektowany jako kompaktowa, ale stosunkowo mocna automatyczna alternatywa dla AKS-74. Jest znacznie l¿ejszy i bardziej zwrotny w ciasnych przestrzeniach, a jednoczeœnie mo¿e pochwaliæ siê niezawodnoœci¹ ka³asznikowa. Ka¿dy AK-74UN jest wyposa¿ony we wspornik szyny bocznej do monta¿u optyki.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Koncern Ka³asznikow\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Koncern Ka³asznikow\n
 		</text>
 	</string>
 
@@ -956,8 +956,8 @@ PISTOLS
 	<string id="st_wpn_ak74u_custom_descr">
 		<text>AKS-74U wype³nia taktyczn¹ lukê miêdzy pistoletem maszynowym a karabinem szturmowym i zosta³ zaprojektowany jako kompaktowa, ale stosunkowo mocna automatyczna alternatywa dla AKS-74. Jest znacznie l¿ejszy i bardziej zwrotny w ciasnych przestrzeniach, a jednoczeœnie mo¿e pochwaliæ siê niezawodnoœci¹ ka³asznikowa. Ka¿dy AK-74UN jest wyposa¿ony we wspornik szyny bocznej do monta¿u optyki.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Koncern Ka³asznikow\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Koncern Ka³asznikow\n
 		</text>
 	</string>
 
@@ -967,8 +967,8 @@ PISTOLS
 	<string id="st_wpn_ak74u_snag_descr">
 		<text>AKS-74U zosta³ zaprojektowany dla jednostek Specnazu, oddzia³ów wojsk aeromobilnych, ¿o³nierzy wsparcia i za³óg pojazdów opancerzonych, które potrzebowa³y kompaktowej broni automatycznej, dysponuj¹cej wzglêdnie du¿¹ si³¹ ognia. Zdecydowanie ³atwiej jest nim manewrowaæ w ciasnych przestrzeniach ni¿ AKS-74, jednak znaczny spadek prêdkoœci wylotowej pocisków skutkuje skróceniem skutecznego zasiêgu.\n \nTen konkretny egzemplarz posiada magazynek RPK mieszcz¹cy 45 nabojów, zintegrowany celownik optyczny Kobra i zamontowany na sta³e t³umik.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik EKP-1S-03 Kobra\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik PBS-4\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik EKP-1S-03 Kobra\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik PBS-4\n
 		</text>
 	</string>
 	
@@ -978,9 +978,9 @@ PISTOLS
 	<string id="st_wpn_akm_descr">
 		<text>AKM to karabin szturmowy zasilany amunicj¹ 7.62x39 mm, opracowany w latach 50. przez Michai³a Ka³asznikowa. Stanowi unowoczeœnion¹ wersjê karabinka AK. Wprowadzony do s³u¿by Armii Czerwonej w roku 1959, stanowi najbardziej rozpowszechniony wariant karabinu AK, chêtnie u¿ywany przez pañstwa by³ego Uk³adu Warszawskiego i dawnych sojuszników ZSRR z Afryki i Azji. Produkcja AKM odbywa³a siê w zak³adach w Tule i I¿ewsku.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 	
@@ -993,9 +993,9 @@ PISTOLS
 	<string id="st_wpn_akms_descr">
 		<text>Wariant karabinu AKM, wyposa¿ony w sk³adane metalowe ramiê w miejscu drewnianej, nieruchomej kolby. Sk³adana kolba AKMS ró¿ni siê od tej zastosowanej w poprzednim modelu mechanizmem blokady, blokuj¹cym oba ramiona zamiast tylko jednego.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 	<string id="st_wpn_abakan">
@@ -1008,8 +1008,8 @@ PISTOLS
 	<string id="st_wpn_abakan_descr">
 		<text>Najwiêksz¹ zalet¹ AN-94 jest wprowadzenie nowatorskiego rozwi¹zania umo¿liwiaj¹cego oddawanie dwustrza³owych serii. Opiera siê ono na zastosowaniu uk³adu z ruchomej lufy, zamka i suwad³a.\n \nOdpalenie drugiego pocisku odbywa siê zanim mechanizmy broni powoduj¹ odrzut, co w konsekwencji przek³ada siê na wydatne zmniejszenie rozrzutu. Taka dwustrza³owa seria wystrzeliwana jest z szybkoœci¹ 1800 strza³ów na minutê. AN-94 u¿ywany jest przez Specnaz i Powinnoœæ do ostrza³u opancerzonych celów na relatywnie dalekich dystansach.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -1019,9 +1019,9 @@ PISTOLS
 	<string id="st_wpn_val_descr">
 		<text>AS Wa³ chêtnie u¿ywany jest przez jednostki zwiadowcze wojsk rosyjskich oraz oddzia³y specjalne rosyjskiego MSW i FSB.\n \nTo karabin zasilany energi¹ gazów prochowych wyposa¿ony w zintegrowany t³umik. Komora zamkowa wykonana jest z kutej stali w celu wzmocnienia broni. Karabin posiada zamontowan¹ z lewej strony szynê "na jaskó³czy ogon", na której mo¿na umieœciæ celownik kolimatorowy, optyczny lub noktowizyjny. Broñ nie posiada mo¿liwoœci monta¿u bagnetu ani podlufowego granatnika. Zintegrowany t³umik jest ³atwo demontowalny celem uproszczenia dostêpu do broni w przypadku czyszczenia, napraw czy przechowywania, jednak strzelanie bez tego elementu jest zakazane ze wzglêdów bezpieczeñstwa i wp³ywa na niezawodnoœæ broni.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik WSS\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1M2-1\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1M2-1\n
 		</text>
 	</string>
 	<string id="st_wpn_val_modern">
@@ -1030,9 +1030,9 @@ PISTOLS
 	<string id="st_wpn_val_modern_descr">
 		<text>AS Wa³ chêtnie u¿ywany jest przez jednostki zwiadowcze wojsk rosyjskich oraz oddzia³y specjalne rosyjskiego MSW i FSB.\n \nTo karabin zasilany energi¹ gazów prochowych wyposa¿ony w zintegrowany t³umik. Komora zamkowa wykonana jest z kutej stali w celu wzmocnienia broni. Karabin posiada zamontowan¹ z lewej strony szynê "na jaskó³czy ogon", na której mo¿na umieœciæ celownik kolimatorowy, optyczny lub noktowizyjny. Broñ nie posiada mo¿liwoœci monta¿u bagnetu ani podlufowego granatnika. Zintegrowany t³umik jest ³atwo demontowalny celem uproszczenia dostêpu do broni w przypadku czyszczenia, napraw czy przechowywania, jednak strzelanie bez tego elementu jest zakazane ze wzglêdów bezpieczeñstwa i wp³ywa na niezawodnoœæ broni.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zintegrowany t³umik WSS\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik WSS\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
 		</text>
 	</string>
 
@@ -1042,8 +1042,8 @@ PISTOLS
     <string id="st_wpn_famas3_descr">
         <text>FAMAS to skrótowiec od Fusil d'Assaut de la Manufacture d'Armes de St-Etienne (Karabin Szturmowy prod. Fabryki Broni St-Etienne).\n \nPierwsze prace nad broni¹ rozpoczêto w roku 1967 dziêki francuskiemu projektantowi Paulowi Tellie'owi. Nowy karabin mia³ zast¹piæ starzej¹ce siê konstrukcje MAS Mle.49/56, MAT-49 i MAC Mle.1929. Pierwszy prototyp FAMAS skonstruowano w 1971, a armia francuska rozpoczê³a jego testy rok póŸniej, przyjmuj¹c szwajcarski karabin szturmowy SIG SG-540 5.56 mm jako tymczasowe zastêpstwo.\n \nFAMAS oficjalnie wszed³ do s³u¿by w roku 1978 i sta³ siê standardowym karabinem armii francuskiej. ¯o³nierze nazywaj¹ go "Le Clairon" co oznacza tr¹bkê, ze wzglêdu na charakterystyczny kszta³t.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech scopes\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO mm\n
 		</text>
     </string>
 
@@ -1064,8 +1064,8 @@ PISTOLS
 	<string id="st_wpn_fal_descr">
 		<text>FN FAL to u¿ywany przez pañstwa NATO karabin produkowany przez belgijsk¹ Fabrique Nationale de Herstal. Jest jednym z najbardziej rozpoznawalnych i popularnych karabinów samoczynnych.\n \nFN FAL pierwotnie opracowany by³ tak, by korzystaæ z amunicji 7.92x33 mm u¿ywanej przez Niemców w trakcie II Wojny Œwiatowej. Kolejne prototypy zasilane by³y brytyjskim nabojem .280, a finalnie broñ przebudowano tak, by strzela³a standardowym nabojem NATO kalibru 7.62x51 mm. W czasie zimnej wojny broñ nazywana by³a "praw¹ rêk¹ Wolnego Œwiata"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -1075,7 +1075,7 @@ PISTOLS
 	<string id="st_wpn_fnc_descr">
 		<text>FNC (Fabrique Nationale Carabine) to karabin szturmowy zasilany amunicj¹ NATO kalibru 5.56x45 mm opracowany przez belgijsk¹ FN Hernstal. Pierwszy raz zaprezentowany w latach 70. XX wieku.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -1091,9 +1091,9 @@ PISTOLS
 	<string id="st_wpn_scar_descr">
 		<text>SCAR to skrótowiec od Special Operations Forces Combat Assault Rifle (Bojowy Karabin Szturmowy Jednostek Specjalnych).\n \nNowy modu³owy karabin FN Hernstal opracowa³o, by sprostaæ wymaganiom SOCOM (Dowództwo Operacji Specjalnych USA) w konkursie SCAR. Karabiny opracowane przez FN w ramach tego konkursu dziel¹ siê na dwa typy: SCAR-H (Heavy - Ciê¿ki) i SCAR-L (Light - Lekki). SCAR-H zasilany jest amunicj¹ 7.62x51 mm NATO.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203\n
 		</text>
 	</string>
 
@@ -1103,8 +1103,8 @@ PISTOLS
 	<string id="st_wpn_g3_descr">
 		<text>G3A3 to karabin opracowany w latach 50. przez niemieck¹ wytwórniê broni Heckler und Koch GmbH we wspó³pracy z hiszpañsk¹ agencj¹ CETME (Centro de Estudios Tecnicos de Materiales Especiales). Zasilana amunicj¹ NATO 7.62x51 mm. Swój wygl¹d zawdziêcza niemieckiemu in¿ynierowi Ludwigowi Vorgrimlerowi.\n \nW 1957 HK wykupi³ licencjê, by móc produkowaæ produkowaæ broñ samodzielnie. Wykonano niewielkie modyfikacje wzglêdem projektu CETME. Wprowadzony do s³u¿by w Bundeswehrze w roku 1959 jako G3, s³u¿y³ a¿ do roku 1995, kiedy zosta³ zast¹piony karabinem G36. Pomimo oficjalnej wymiany w armii niemieckiej, karabin wci¹¿ pozostaje w u¿yciu.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 	
@@ -1114,7 +1114,7 @@ PISTOLS
 	<string id="st_wpn_g3sg1_descr">
 		<text>Snajperska odmiana karabinu G3. Oznaczenie "SG" to skrót od "Scharfschutzengewehr", czyli "karabin wyborowy". Karabiny te zosta³y wytypowane indywidualnie w trakcie procesu produkcji ze wzglêdu na du¿¹ celnoœæ wzglêdem pozosta³ych egzemplarzy, po czym zosta³y odpowiednio zmodyfikowane.\n \nDo zestawu do³¹czano celowniki Zeiss z powiêkszeniem od 1.5x do 6x i szyny mocuj¹ce HK. Oprócz tego nieznacznie wyd³u¿ono kolbê i zaopatrzono broñ w ciê¿ki dwójnóg i poduszki policzkowe. Wymieniono równie¿ mechanizm spustowy broni, usuwaj¹c tryb ognia ci¹g³ego.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik G3\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik do G3\n
 		</text>
 	</string>
 
@@ -1124,8 +1124,8 @@ PISTOLS
 	<string id="st_wpn_ace21_descr">
 		<text>Rodzina Galil ACE zosta³a opracowana i wyprodukowana przez izraelsk¹ firmê zbrojeniow¹ IWI Ltd. Baz¹ karabinów ACE Galil jest karabin szturmowy Galil, którego to konstrukcja oparta zosta³a na karabinkach AK.\n \nGalil ACE skupia siê na ergonomii u¿ytkowania, ³atwoœci monta¿u akcesoriów i wszechstronnoœci na polu bitwy - karabiny tego typu zasilane s¹ trzema najpopularniejszymi typami amunicji (5.56x45 NATO, 7.62x39 M43 i NATO 7.62x51), z kilkoma wariantami d³ugoœci luf dla ka¿dego typu. Ten konkretny model korzysta z nabojów NATO 5.56x45 i posiada krótk¹, kompaktow¹ lufê. W Zonie karabin szturmowy tego typu to prawdziwy rarytas.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -1141,8 +1141,8 @@ PISTOLS
 	<string id="st_wpn_galil_descr">
 		<text>Przyjêty do s³u¿by w IDF (Si³y Obronne Izraela) w roku 1972, IMI Galil zaprojektowano do dzia³añ w warunkach pustynnych w oparciu o fiñski karabin RK 62, który z kolei pochodzi od radzieckiego ka³asznikowa.\n \nGalil ceniony jest za niezawodnoœæ w warunkach bojowych i ³atwoœæ utrzymania. Produkowany w dwóch wersjach - zasilanych amunicj¹ 5.56x45 mm i 7.62x51 mm.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik Galil 4x (po modyfikacji)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Celownik: Galil 4x (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
 		</text>
 	</string>
 
@@ -1152,9 +1152,9 @@ PISTOLS
 	<string id="st_wpn_hk416_descr">
 		<text>HK416 to karabin opracowany i wytwarzany przez Heckler und Koch jako usprawnienie karabinu M4. Dostêpny jest jako samodzielna broñ, lub tylko jako komora zamkowa kompatybilna do karabinami z rodziny AR-15/M4.\n \nDelta Force nale¿¹ce do armii USA podjê³y wspó³pracê z Niemcami, by razem opracowaæ nowy karabin. Testy HK416 w 2004 roku wykaza³y, ¿e mechanizm z odprowadzaniem gazów z t³okiem i komor¹ gazow¹ zmniejsza awaryjnoœæ broni i zwiêksza ¿ywotnoœæ elementów. Projekt pierwotnie nazywano HK M4, ale nazwê zmieniono, gdy¿ by³ to znak towarowy zarejestrowany na firmê Colt Defence.\n \nObecnie broñ dostêpna jest tylko dla organizacji rz¹dowych i militarnych, st¹d zwykle korzystaj¹ z niej najemnicy.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: kalibru NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: kalibru NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203\n
 		</text>
 	</string>
 
@@ -1164,8 +1164,8 @@ PISTOLS
 	<string id="st_wpn_hk417_descr">
 		<text>Heckler und Koch HK417 to karabin opracowany i wytwarzany przez niemieck¹ firmê zbrojeniow¹ Heckler und Koch. HK417 bazuje na karabinie HK416, ale zasilany jest amunicj¹ wiêkszego kalibru - nabojem karabinowym NATO 7.62x51 mm. To broñ gazodynamiczna z kilkoma trybami ognia i zamkiem ryglowanym przez obrót.\n \nHK417 opracowany zosta³ z myœl¹ o sytuacjach, gdy potrzebny jest karabin zasilany du¿¹ amunicj¹ cechuj¹c¹ siê du¿ymi zdolnoœciami penetracyjnymi, moc¹ obalaj¹c¹ i skutecznym dystansem. Stanowi wyposa¿enie si³ zbrojnych, jednostek specjalnych i s³u¿b mundurowych w wielu krajach.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 	
@@ -1184,9 +1184,9 @@ PISTOLS
 	<string id="st_wpn_l85_descr">
 		<text>Opracowywanie systemu SA80, w sk³ad którego wchodzi³y karabin szturmowy SA80 IW i rêczny karabin maszynowy SA80 LSW (Light Support Weapon, pol. lekka broñ wsparcia) rozpoczê³o siê w koñcówce lat 60., kiedy armia brytyjska zdecydowa³a siê stworzyæ nowy karabin maj¹cy zast¹piæ przestarza³y L1 SLR - brytyjski odpowiednik FN FAL zasilany amunicj¹ 7.62x51 mm.\n \nL85 (w pierwotnej wersji A1) stanowi³ standardow¹ broñ osobist¹ brytyjskich si³ zbrojnych. U¿ytkownicy skar¿yli siê jednak na liczne problemy z jego wydajnoœci¹. Usprawnienie modelu (ozn. L85A1) sprawi³o, ¿e broñ sta³a siê niezwykle niezawodna, niezale¿nie od œrodowiska. Obecnie karabiny L85A2 nadal uchodz¹ za bardzo niezawodne i celne zw³aszcza, gdy korzysta siê z nich przy pomocy standardowych celowników teleskopowych SUSAT.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik SUSAT\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik SUSAT\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -1205,9 +1205,9 @@ PISTOLS
 	<string id="st_wpn_l85a2_descr">
 		<text>Opracowywanie systemu SA80, w sk³ad którego wchodzi³y karabin szturmowy SA80 IW i rêczny karabin maszynowy SA80 LSW (Light Support Weapon, pol. lekka broñ wsparcia) rozpoczê³o siê w koñcówce lat 60., kiedy armia brytyjska zdecydowa³a siê stworzyæ nowy karabin maj¹cy zast¹piæ przestarza³y L1 SLR - brytyjski odpowiednik FN FAL zasilany amunicj¹ 7.62x51 mm.\n \nL85 (w pierwotnej wersji A1) stanowi³ standardow¹ broñ osobist¹ brytyjskich si³ zbrojnych. U¿ytkownicy skar¿yli siê jednak na liczne problemy z jego wydajnoœci¹. Usprawnienie modelu (ozn. L85A2) sprawi³o, ¿e broñ sta³a siê niezwykle niezawodna, niezale¿nie od œrodowiska. Obecnie karabiny L85A2 nadal uchodz¹ za bardzo niezawodne i celne zw³aszcza, gdy korzysta siê z nich przy pomocy standardowych celowników teleskopowych SUSAT.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik SUSAT 4x\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik SUSAT 4x\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -1223,9 +1223,9 @@ PISTOLS
 	<string id="st_wpn_lr300_descr">
 		<text>Bazuj¹cy na AR-15, Z-M LR-300 jest doskona³¹ broni¹ przystosowan¹ do walk w zamkniêtych przestrzeniach. Jej sk³adana, szkieletowa kolba œwietnie sprawdza siê do szybkich i agresywnych wejœæ do budynków, wymagaj¹cych silnych broni operuj¹cych ró¿nymi trybami ognia. Dziêki dobrej ergonomii i niskiej masie, karabin zapewnia niezwyk³¹ celnoœæ, ale w zamian jest bardzo wra¿liwy na brud i nie sprawdza siê dobrze w trudnych warunkach polowych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203 (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203 (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -1235,8 +1235,8 @@ PISTOLS
 	<string id="st_wpn_mossberg590_descr">
 		<text>Mossberg 590 zosta³ opracowany w latach 70. przez amerykañsk¹ firmê O.F.Mossberg and Sons jako modyfikacja strzelby Mossberg model 500 dla potrzeb wojska. Modyfikacja objê³a wzmocnienie g³ównego korpusu broni, monta¿ os³ony termicznej wokó³ lufy, monta¿ uchwytu na bagnet, zmianê bezpiecznika z plastikowego na aluminiowy i wyd³u¿enie magazynka. Oprócz tego broñ posiada wymienn¹ rêkojeœæ, pozwalaj¹c na ³atw¹ konwersjê do wariantu "Cruiser".\n \nElementy strzelby przygotowywane s¹ w procesie fosforanizacji, maj¹cej zapewniæ jej dodatkow¹ warstwê ochronn¹. Od roku 1987 stanowi³a przepisow¹ strzelbê wojsk amerykañskich; Si³y Zbrojne USA wymieni³y Mossbergi 590 na pó³automatyczne strzelby Benelli M1014, ale wci¹¿ u¿ywaj¹ ich oddzia³y US Navy i US Marine Corp.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]O.F. Mossberg and Sons\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]O.F. Mossberg and Sons\n
 		</text>
 	</string>
 
@@ -1246,8 +1246,8 @@ PISTOLS
 	<string id="st_wpn_groza_descr">
 		<text>OC-14 Groza (ros. Burza) to karabin szturmowy o budowie modu³owej opracowany na pocz¹tku lat 90. przez CKIB SOO. Mia³ trafiæ na wyposa¿enie rozlicznych jednostek wojskowych i rosyjskiego MSW jako broñ przeznaczona do walk miejskich. Produkowany dosyæ krótko i w niewielkiej liczbie sztuk w po³owie lat 90. przez fabrykê broni w Tule. Pierwszy raz karabinów OC-14 u¿yto w Czeczenii w 1999 roku, ale szybko straci³y popularnoœæ i przesta³y byæ produkowane.\n \nBroñ w uk³adzie bullpup z przednim chwytem wymienialnym na granatnik 40 mm. Zaadaptowana na potrzeby Specnazu i specjalistycznych jednostek bojowych wersja OC-14-4A pozwala na szybkie dostosowanie do jednej z czterech wersji, zale¿nie od potrzeby sytuacyjnej. Modele trafiaj¹ce do Zony najczêœciej wyposa¿one s¹ w granatnik podlufowy GP-25.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: PO 4x34\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: GP-25 Kostior(zintegrowany)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: PO 4x34\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior(zintegrowany)\n
 		</text>
 	</string>
 
@@ -1257,9 +1257,9 @@ PISTOLS
 	<string id="st_wpn_m4_descr">
 		<text>Karabinek M4 pochodzi od wczesnych wersji M16, które z kolei bazuj¹ na AR-15 projektu ArmaLite. M4 stanowi krótsz¹ i l¿ejsz¹ wersjê karabinu szturmowego M16 - dziel¹ miêdzy sob¹ oko³o 80% elementów.\n \nDzia³aj¹cy na zasadzie energii gazów prochowych, ch³odzony powietrzem karabinek zasilany jest amunicj¹ NATO kalibru 5.56x45 mm z doczepianego od do³u magazynka. Wyposa¿ony w piêæ trybów ognia, posiada czteropunktow¹ kolbê teleskopow¹. Podobnie do innych broni tego typu, karabinek M4 jest bardziej porêczny i ³atwiejszy do przenoszenia ni¿ pe³ne karabiny szturmowe. Zosta³ zaadaptowany przez USSOCOM (United States Special Operations Command - Dowództwo Operacji Specjalnych USA), a tak¿e przez si³y specjalne armii amerykañskiej i oddzia³y Navy SEAL.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203\n
 		</text>
 	</string>
 	
@@ -1278,9 +1278,9 @@ PISTOLS
 	<string id="st_wpn_m4a1_descr">
 		<text>Doskona³y do walk w ciasnych, zamkniêtych przestrzeniach, M4A1 to wariant karabinu szturmowego M16A2 oferuj¹cy w pe³ni automatyczny tryb ognia. Zast¹pi³ wiêkszoœæ pistoletów maszynowych korzystaj¹cych z amunicji pistoletowej, nieskutecznej przeciw wspó³czesnym pancerzom osobistym.\n \nM4A1 to wariant karabinka M4 zdolny to prowadzenia ognia w trybie automatycznym i pó³automatycznym.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203 (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203 (po modyfikacji)\n
 		</text>
 	</string>
 	
@@ -1290,8 +1290,8 @@ PISTOLS
 	<string id="st_wpn_m16a2_descr">
 		<text>M16A2 zosta³ wprowadzony do s³u¿by w latach 80. Zasilany standardow¹ amunicj¹ NATO, belgijskim nabojem M855/M856, posiada elementy wymagane przez oddzia³y Marine Corps: ruchom¹ tyln¹ czêœæ przyrz¹dów celowniczych, d³u¿sz¹ kolbê, ciê¿sz¹ lufê, wyrzutnik ³usek dla strzelców leworêcznych i cylindryczn¹ os³onê lufy. M16A2 produkowany jest przez zak³ady Colt i FN Hernstal, a bazuj¹ce na nim warianty wytwarzane s¹ na ca³ym œwiecie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203\n
 		</text>
 	</string>
 
@@ -1301,9 +1301,9 @@ PISTOLS
 	<string id="st_wpn_m16_descr">
 		<text>M16 to oznaczenie wojsk amerykañskich rodziny karabinów pochodz¹cych od karabinu ArmaLite AR-15 i kolejnych jego wersji rozwojowych opracowywanych przez firmê Colt od lat 60. XX wieku. Rodzina M16 zawieraj¹ca M16/A1/A2/A3/A4 stanowi³a podstawowy karabin piechoty amerykañskich formacji wojskowych odk¹d wesz³a do seryjnej produkcji. Zale¿nie od wariantów, u¿ywana jest przez piêtnaœcie pañstw cz³onkowskich NATO i jest najczêœciej produkowan¹ broni¹ tego kalibru.\n \nM16 to lekki, samoczynno-samopowtarzalny, zasilany kalibrem 5.56x45 karabin szturmowy ch³odzony powietrzem. Zasada dzia³ania oparta o wykorzystanie energii gazów prochowych odprowadzanych przez boczny otwór lufy (gazy prochowe s¹ doprowadzane bezpoœrednio na suwad³o, karabin nie posiada klasycznego t³oka gazowego). Do produkcji broni u¿ywa siê stali, aluminium i plastików kompozytowych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
-		%c[d_purple] • %c[ui_gray_2] granatnik podlufowy: M203\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203\n
 		</text>
 	</string>
 
@@ -1313,8 +1313,8 @@ PISTOLS
 	<string id="st_wpn_m60_descr">
 		<text>M60 - oficjalnie United States Machine Gun, Caliber 7.62 mm, M60 - to rodzina amerykañskich, wielozadaniowych karabinów maszynowych zasilanych amunicj¹ NATO kalibru 7.62x51 mm z magazynków taœmowych z ³¹czeniem M13. M60 mo¿e korzystaæ z amunicji ró¿nego typu, na przyk³ad amunicji kulowej, smugowej czy przeciwpancernej.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Saco Defense, U.S. Ordnance\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Saco Defense, U.S. Ordnance\n
 		</text>
 	</string>
 
@@ -1324,7 +1324,7 @@ PISTOLS
 	<string id="st_wpn_m249_descr">
 		<text>M249 jest karabinem maszynowym zasilanym taœmami amunicji 5.56x45 mm. Stanowi amerykañsk¹ adaptacjê belgijskiego FN Minimi.\n \nM249 bra³ udzia³ w niemal ka¿dym du¿ym konflikcie, w którym stron¹ by³y Stany Zjednoczone od czasów amerykañskiej inwazji na Panamê w roku 1989. ¯o³nierze raczej chwal¹ wydajnoœæ broni, aczkolwiek zdarza jej siê zatykaæ z powodu brudu i piasku.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632\n
 		</text>
 	</string>
 
@@ -1334,7 +1334,7 @@ PISTOLS
 	<string id="st_wpn_mk14_descr">
 		<text>Pe³na nazwa tej broni brzmi: United States Navy Mark 14 Enhanced Battle Rifle (EBR oznacza usprawniony karabin zasilany amunicj¹ zachowuj¹c¹ celnoœæ do 1.000 metrów).\n \nMk 14 EBR to amerykañski karabin wyborowy opracowany na podstawie karabinu M14 do przeprowadzania operacji specjalnych US Navy. U¿ywany przez oddzia³y specjalne marynarki wojennej, w tym legendarny oddzia³ SEAL.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
 		</text>
 	</string>
 
@@ -1344,8 +1344,8 @@ PISTOLS
 	<string id="st_wpn_rp_descr">
 		<text>PKM wyposa¿ony jest w drewnian¹ szkieletow¹ kolbê z rozk³adan¹ stop¹ (opor¹ naramienn¹) i drewniany chwyt. W tylnej czêœci kolby mieœci siê zestaw czyszcz¹cy, zaœ wycior schowany jest w prawej nodze dwójnogu. Bardzo niezawodny karabin maszynowy.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Diegtiarow\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Diegtiarow\n
 		</text>
 	</string>
 
@@ -1355,7 +1355,7 @@ PISTOLS
 	<string id="st_wpn_pkm_zulus_descr">
 		<text>Ta broñ wczeœniej nale¿a³a do Zulusa. Wyró¿nia siê skrzynk¹ amunicyjn¹ o zwiêkszonej pojemnoœci oraz wyj¹tkowo niezawodn¹ komor¹ zamkow¹. Zmiany poci¹gnê³y za sob¹ wzrost wagi broni, jednak dla poprzedniego w³aœciciela nie stanowi³o to ¿adnego problemu.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik EKP-1S-03 Kobra\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik EKP-1S-03 Kobra\n
 		</text>
 	</string>
 
@@ -1365,8 +1365,8 @@ PISTOLS
 	<string id="st_wpn_pkp_descr">
 		<text>PKP Pieczienieg to rosyjski rêczny karabin maszynowy zasilany amunicj¹ 7.62x54 mm R. Jest zmodernizowan¹ wersj¹ karabinu maszynowego PKM. Pieczienieg cechuje siê wiêksz¹ od pierwowzoru celnoœci¹, dziêki zastosowaniu ciê¿szej, nieusuwalnej, ch³odzonej powietrzem lufy. Ze wzglêdu na zastosowane technologie, broñ jest bardzo niezawodna.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Michai³ Ka³asznikow\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Michai³ Ka³asznikow\n
 		</text>
 	</string>
 
@@ -1385,8 +1385,8 @@ PISTOLS
 	<string id="st_wpn_ppsh41_descr">
 		<text>Pistolet maszynowy PPSz-41 (ros. Pistolet-pulemiot Szpagina obr. 41), potocznie nazywany pepesz¹, by³ podstawow¹ w swojej kategorii broni¹ piechoty Armii Czerwonej podczas II Wojny Œwiatowej. Pepesza jest wytrzyma³¹, niewymagaj¹c¹ specjalnej konserwacji broni¹, wykonan¹ z tanich materia³ów. Zasilana jest amunicj¹ kalibru 7.62x25 mm.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zwi¹zek Radziecki\n
 		</text>
 	</string>
 
@@ -1396,8 +1396,8 @@ PISTOLS
 	<string id="st_wpn_rpd_descr">
 		<text>RPD (ros. Rucznyj Pulemiot Diegtiariowa - Rêczny Karabin Maszynowy Diegtiariowa) to rêczny karabin maszynowy opracowany w Zwi¹zku Radzieckim przez Wasilija Diegtiariowa zasilany pociskiem 7.62x39 mm M43.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Diegtiarow\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Diegtiarow\n
 		</text>
 	</string>
 
@@ -1407,8 +1407,8 @@ PISTOLS
 	<string id="st_wpn_rpk_descr">
 		<text>RPK to sowiecki rêczny karabin maszynowy opracowany w 1961 roku przez Michai³a Ka³asznikowa w oparciu o karabin szturmowy jego konstrukcji. Stworzony w celu ujednolicenia uzbrojenia Armii Czerwonej, zast¹pi³ karabin maszynowy Diegtiariowa i jest u¿ywany do tej pory.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Wiatsko-Polañskie Zak³ady Budowy Maszyn „Mo³ot”\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Wiatsko-Polañskie Zak³ady Budowy Maszyn „Mo³ot”\n
 		</text>
 	</string>
 	
@@ -1418,8 +1418,8 @@ PISTOLS
 	<string id="st_wpn_rpk74_descr">
 		<text>RPK-74 (ros. Rucznoj Pulemiot Ka³asznikowa - Rêczny Karabin Maszynowy Ka³asznikowa) to opracowany pod koniec lat 50. przez Michai³a Ka³asznikowa rêczny karabin maszynowy zasilany amunicj¹ 5.45x45 mm. Stworzony w celu ujednolicenia uzbrojenia Armii Czerwonej, zast¹pi³ karabin maszynowy Diegtiariowa zasilany amunicj¹ 7.62x39 mm.\n \nObecnie RPK pozostaje na wyposa¿eniu si³ zbrojnych pañstw by³ego ZSRR i niektórych krajów afrykañskich i azjatyckich. Wojsko Polskie przyjê³o tê broñ w roku 1974 jako wyposa¿enie spadochroniarzy, zwiadu i jednostek specjalnych. Karabiny maszynowe tej serii produkowane s¹ na licencji tak¿e w Bu³garii i w Rumunii.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
 		</text>
 	</string>
 
@@ -1429,7 +1429,7 @@ PISTOLS
 	<string id="st_wpn_ash12_descr">
 		<text>Dedykowany karabin do CQB (Close Quarter Combat) / operacji miejskich, opracowany na proœbê rosyjskiego FSB dla jednostek specjalnych, które dzia³aj¹ w œrodowisku miejskim przeciwko silnie uzbrojonym i zorganizowanym celom, które musz¹ zostaæ zabite jednym strza³em. Dlatego te¿ SzAK-12 zosta³ zaprojektowany z myœl¹ o ekstremalnej sile ra¿enia na krótkim dystansie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
 		</text>
 	</string>
 
@@ -1439,7 +1439,7 @@ PISTOLS
 	<string id="st_wpn_type63_descr">
 		<text>Type 63, czêsto mylony przez zachodnie Ÿród³a z Type 68, to produkowany przez Chiny karabin podobny do SKS. Co ciekawe, broñ korzysta z zamka ryglowanego przez obrót, podobnie jak karabinek AK zamiast montowanego w karabinach SKS systemu zatrzaskowego.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik PU\n
+		%c[d_purple] • %c[ui_gray_2] Celownik: PU\n
 		</text>
 	</string>
 
@@ -1449,8 +1449,8 @@ PISTOLS
 	<string id="st_wpn_vepr12_descr">
 		<text>Wiepr-12 to wielozadaniowa strzelba pó³automatyczna opracowana przez spó³kê Mo³ot-Oru¿je. Choæ z wygl¹du przypomina konstrukcje Ka³asznikowa, zbudowany jest w oparciu o korpus erkaemu RPK. Podobnie jak ka³asznikowy, Wiepr-12 to broñ gazodynamiczna z obrotow¹ œrub¹ rygluj¹c¹. Strzelba w magazynku mieœcie 10 nabojów kalibru 12.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
 		</text>
 	</string>
 
@@ -1467,7 +1467,7 @@ PISTOLS
 	<string id="st_wpn_vintorez_descr">
 		<text>Nowy karabin opracowany w CNII TOSZMASZ (Centralny Instytut Naukowo-Badawczy In¿ynierii Precyzyjnej) przez zespó³ pod kierownictwem Piotra Sierdiukowa, zaprojektowany dla jednostek Specnazu, agentów KGB i rosyjskiego MSW.\n \nWSS (ros. Wintowka Snajpierskaja Specjalnaja - Karabin Wyborowy Specjalnego Przeznaczenia) jest chwalony przez swoich u¿ytkowników przede wszystkim za niewykrywalnoœæ w trakcie prowadzenia ognia i za du¿¹ moc ciê¿kich nabojów kalibru 9x39 mm.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1M2-1\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1M2-1\n
 		</text>
 	</string>
 
@@ -1477,8 +1477,8 @@ PISTOLS
 	<string id="st_wpn_vintorez_1pn93_descr">
 		<text>Nowy karabin opracowany w CNII TOSZMASZ (Centralny Instytut Naukowo-Badawczy In¿ynierii Precyzyjnej) przez zespó³ pod kierownictwem Piotra Sierdiukowa, zaprojektowany dla jednostek Specnazu, agentów KGB i rosyjskiego MSW.\n \nWSS (ros. Wintowka Snajpierskaja Specjalnaja - Karabin Wyborowy Specjalnego Przeznaczenia) jest chwalony przez swoich u¿ytkowników przede wszystkim za niewykrywalnoœæ w trakcie prowadzenia ognia i za du¿¹ moc ciê¿kich nabojów kalibru 9x39 mm.\n \nSkuteczny zasiêg karabinu wynosi 300 - 400 metrów. Standardowa luneta zamontowana jest na szynie "Jaskó³czy ogon" umieszczonej po lewej stronie komory nabojowej - zwykle jest to celownik PSO-1M2-1 o powiêkszeniu 4x. Oczywiœcie, nie wyklucza to mo¿liwoœci wymiany na inn¹ optykê. Broñ posiada pomocniczy celownik krzywkowy z maksymaln¹ nastaw¹ do 400 metrów.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik 1PN93 Tot\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik 1PN93 Tot\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik WSS\n
 		</text>
 	</string>
 
@@ -1488,8 +1488,8 @@ PISTOLS
 	<string id="st_wpn_vintorez_nimble_descr">
 		<text>Nietypowy wariant s³ynnego karabinu wyborowego WSS. Ten egzemplarz zosta³ gruntownie przebudowany.\n \nWewnêtrze mechanizmy wymieniono na bardzie wytrzyma³e, co pozwoli³o zwiêkszyæ prêdkoœæ wylotow¹ pocisku i celnoœæ. Dziêki temu zasiêg skuteczny wzrós³ do 600 metrów.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik WSS\n
 		</text>
 	</string>
 
@@ -1499,8 +1499,8 @@ PISTOLS
 	<string id="st_wpn_umirotvoritel_descr">
 		<text>Nieznana broñ, która na pierwszy rzut oka wygl¹da na uszkodzon¹ - naciskanie spustu nie daje ¿adnego efektu. Brak znanego mechanizmu spustowo-uderzeniowego. Bardzo ciê¿ka, bez w¹tpienia jest wytworem niezwykle zaawansowanej technologii.\n \nUzasadnione wydaje siê podejrzenie, ¿e zasada dzia³ania nie wykorzystuje zap³onu prochu. Co bardziej prawdopodobne, mechanizm miotania pocisków opiera siê na wykorzystaniu si³ elektromagnetycznych. Mo¿na siê tylko domyœlaæ, jak ogromny potencja³ niszcz¹cy sob¹ przedstawia.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Nieznany\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Nieznany\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Nieznany\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Nieznany\n
 		</text>
 	</string>
 
@@ -1510,8 +1510,8 @@ PISTOLS
 	<string id="st_wpn_xm8_descr">
 		<text>XM8 to lekki system karabinów szturmowych z prze³omu XX i XXI wieku. Karabin opracowa³a niemiecka wytwórnia Heckler und Koch (HK). Wiele elementów i rozwi¹zañ in¿ynieryjnych dzieli z karabinem G36.\n \nProjekt XM8 pierwotnie nale¿a³ do programu OICW (Objective Individual Combat Weapon), którego celem by³o wprowadzenie do uzbrojenia nowego rodzaju broni, po³¹czenia karabinu automatycznego i granatnika powtarzalnego. System nie sprosta³ wymaganiom wagowym i wydajnoœciowym, a prace nad nim zosta³y zakoñczone. W rezultacie projekt zosta³ rozdzielony, a jego efektem by³o powstanie dwóch prototypowych karabinów - XM8 i XM25.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 -->
@@ -1525,7 +1525,7 @@ PISTOLS
 	<string id="st_wpn_l96a1m_descr">
 		<text>Karabin Accuracy International Arctic Warfare to seria karabinów wyborowych opracowanych i produkowanych przez brytyjsk¹ firmê Accuracy International. Popularnoœæ wœród s³u¿b i wojsk, a tak¿e w u¿yciu cywilnym zyska³ w³aœciwie od chwili, gdy zosta³ zaprezentowany w latach 80. XX wieku.\n \nBroñ posiada kilka funkcji poprawiaj¹cych wydajnoœæ w warunkach bardzo niskich temperatur, nie wykluczaj¹cych jednak przeprowadzania operacji w mniej ekstremalnym œrodowisku.\n \nL96 AWSM zasilany jest amunicj¹ .338 Lapua Magnum.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Leupold Mark 4\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Leupold Mark 4\n
 		</text>
 	</string>
 
@@ -1535,8 +1535,8 @@ PISTOLS
 	<string id="st_wpn_m82_descr">
 		<text>Barrett M82 - w dokumentacji Si³ Zbrojnych USA jako M107 - amerykañski, wielkokalibrowy, samopowtarzalny karabin wyborowy produkowany przez Barrett Firearms Manufacturing. Wchodzi w sk³ad wyposa¿enia wojskowego kilku krajów na œwiecie.\n \nAutomatyka broni oparta jest o zawór motylkowy. Broñ nale¿y do klasy karabinów przeznaczonych do niszczenia sprzêtu technicznego, ale czêœciej u¿ywany jest przeciwko wrogiej piechocie.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Barrett Firearms Manufacturing\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Barrett Firearms Manufacturing\n
 		</text>
 	</string>
 
@@ -1546,7 +1546,7 @@ PISTOLS
 	<string id="st_wpn_m98b_descr">
 		<text>Barrett M98B to karabin wyborowy zasilany amunicj¹ .338 Lapua Magnum. Zamiast modyfikowaæ istniej¹c¹ broñ myœliwsk¹, firma Barret zaprojektowa³a karabin M98B ca³kiem od zera.\n \nBroñ posiada dostosowywan¹ do u¿ytkownika kolbê z poduszk¹ policzkow¹ dla zwiêkszenia komfortu. Ponadto, si³ê nacisku spustu równie¿ mo¿na zmodyfikowaæ. Karabin wyposa¿ony jest w stabilizacyjny dwójnóg z przodu i monopod z ty³u.\n \nStrzelcy maj¹ mo¿liwoœæ dopasowania broni pod siebie, dodaj¹c dziêki szynom rozmaite celowniki, latarki i uchwyty. M98B posiada dosyæ prost¹ budowê, dziêki czemu jest ³atwy w demonta¿u i czyszczeniu.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Leupold Mark 4\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Leupold Mark 4\n \n
 		</text>
 	</string>
 
@@ -1556,7 +1556,7 @@ PISTOLS
 	<string id="st_wpn_g43_descr">
 		<text>W projekcie tej broni konstruktorzy III Rzeszy zapo¿yczyli z radzieckiego karabinu SWT (ros. Samozarjadnaja Wintowka Tokrewa) nieskomplikowany mechanizm t³oka gazowego o krótkim skoku oraz ideê wymiennych magazynków. Powsta³y w ten sposób karabin Gewehr 43 zosta³ wprowadzony do uzbrojenia Wehrmachtu w 1943 roku. Rok póŸniej przemianowano go na Karabiner 43. Wyposa¿ony w celownik teleskopowy ZF 4, jest bardzo skutecznym karabinem wyborowym.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik ZF-41\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik ZF-41\n
 		</text>
 	</string>
 
@@ -1566,7 +1566,7 @@ PISTOLS
 	<string id="st_wpn_k98_descr">
 		<text>Podczas II Wojny Œwiatowej pewna iloœæ karabinów Karabiner 98k zosta³a - przez wzgl¹d na ich wyj¹tkow¹ celnoœæ - wyposa¿ona w celowniki teleskopowe ZF39. W wojskach nazistowskich Niemiec u¿ywane by³y jako karabiny wyborowe. Umiejêtnie obs³ugiwane osi¹ga³y donoœnoœæ skuteczn¹ do tysi¹ca metrów.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celownik ZF\n
+		%c[d_purple] • %c[ui_gray_2] Celownik ZF\n
 		</text>
 	</string>
 
@@ -1576,7 +1576,7 @@ PISTOLS
 	<string id="st_wpn_l96a1_descr">
 		<text>Karabin Accuracy International Arctic Warfare to seria karabinów wyborowych opracowanych i produkowanych przez brytyjsk¹ firmê Accuracy International. Popularnoœæ wœród s³u¿b i wojsk, a tak¿e w u¿yciu cywilnym zyska³ w³aœciwie od chwili, gdy zosta³ zaprezentowany w latach 80. XX wieku.\n \nBroñ posiada kilka funkcji poprawiaj¹cych wydajnoœæ w warunkach bardzo niskich temperatur, nie wykluczaj¹cych jednak przeprowadzania operacji w mniej ekstremalnym œrodowisku.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Leupold Mark 4\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Leupold Mark 4\n
 		</text>
 	</string>
 
@@ -1586,7 +1586,7 @@ PISTOLS
 	<string id="st_wpn_m24_descr">
 		<text>Karabin wyborowy Si³ Zbrojnych USA, SWS (ang. Sniper Weapon System, System Broni Snajperskiej) M24 bazuje na karabinie Remington 700. Posiada zintegrowany celownik Leupold 10x40mm, lufê ze stali nierdzewnej i regulowan¹ kompozytow¹ kolbê z kevlaru i grafitu.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik snajperski M24\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik snajperski M24\n
 		</text>
 	</string>
 
@@ -1596,7 +1596,7 @@ PISTOLS
 	<string id="st_wpn_mosin_descr">
 		<text>Podstawowa wersja karabinu Mosin-Nagant z lekko zu¿ytymi elementami. Model M1891/30 produkowany by³ jako podstawowe uzbrojenie sowieckiej piechoty w latach 1930-1945. W czasie II Wojny Œwiatowej œwietnie sprawdza³ siê w roli karabinu wyborowego po zamontowaniu celownika PE o powiêkszeniu 4x lub PU o powiêkszeniu 3.5x\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple]• %c[ui_gray_2] celownik PU\n
+		%c[d_purple]• %c[ui_gray_2] Celownik: PU\n
 		</text>
 	</string>
 
@@ -1609,7 +1609,7 @@ PISTOLS
 	<string id="st_wpn_svu_descr">
 		<text>Samopowtarzalny OC-03 SWU (ros. Snajperskaja Wintowka Ukoroczennaja, Karabin Wyborowy Skrócony) to opracowana na prze³omie lat 80. i 90. XX wieku skrócona wersja karabinu wyborowego SWD, która pierwotnie mia³a go zast¹piæ w wojskach powietrznodesantowych. Ostatecznie nie zosta³a przyjêta do uzbrojenia armii, znalaz³a siê jednak na wyposa¿eniu rosyjskiego MSW i FSB.\n \nG³ówn¹ rzecz¹ odró¿niaj¹c¹ SWU od SWD jest kompaktowy rozmiar, a co za tym idzie, ³atwiejsza obs³uga broni. Dziêki uk³adowi bullpup i dosyæ krótkiej lufie, broñ stanowi obiekt westchnieñ wielu stalkerów.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
 		</text>
 	</string>
 	<string id="st_wpn_svu_nimble">
@@ -1618,7 +1618,7 @@ PISTOLS
 	<string id="st_wpn_svu_nimble_descr">
 		<text>SWU-A jest wariantem SWU wyposa¿onym w pe³ni automatyczny tryb ognia. Broñ wykonano na zamówienie rosyjskiego MSW.\n \nMimo, ¿e w swoich za³o¿eniach nie s³u¿y do walki na krótki dystans, tryb auto w awaryjnych sytuacjach - takich, jak wykrycie strzelca - jest bardzo przydatny.\n \nTen konkretny egzemplarz SWU-A wczeœniej nale¿a³ do Maksa, legendarnego stra¿nika Wolnoœci.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
 		</text>
 	</string>
 
@@ -1628,7 +1628,7 @@ PISTOLS
 	<string id="st_wpn_trg_descr">
 		<text>TRG-42 to projekt doœæ nietypowy. Nie jest to bowiem podrasowany wariant ju¿ istniej¹cego karabinu, lecz opracowana od zera konstrukcja oparta na wnikliwym przestudiowaniu wymagañ, jakim powinna sprostaæ broñ snajperska. Ze wzglêdu na zastosowane materia³y oraz rozwi¹zania TRG-42 charakteryzuje siê du¿¹ wytrzyma³oœci¹, a tak¿e bardzo wysok¹ celnoœci¹ oraz niezawodnoœci¹, dziêki czemu zyska³ popularnoœæ zarówno w dystansowym strzelectwie sportowym, jak i poœród wojskowych strzelców wyborowych.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik FINDOT\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik FINDOT\n
 		</text>
 	</string>
 
@@ -1638,9 +1638,9 @@ PISTOLS
 	<string id="st_wpn_sig550_sniper_descr">
 		<text>Wersja snajperska popularnego szwajcarskiego karabinka szturmowego. SG 550-S stanowi kompromis pomiêdzy karabinem wyborowym a szturmowym, posiadaj¹c zalety jednego i drugiego. Z drugiej strony ma te¿ swoje ograniczenia - jak na karabin snajperski charakteryzuje go doœæ s³aba celnoœæ i moc obalaj¹c¹, z drugiej strony nie ma mo¿liwoœci strzelania w trybie ognia ci¹g³ego. Mimo to pozostaje jednym z najlepszych systemów bojowych dostêpnych na terenie Strefy Wykluczenia.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Kahles ZF95\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Kahles ZF95\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -1653,7 +1653,7 @@ PISTOLS
 	<string id="st_wpn_sks_descr">
 		<text>SKS (ros. Samozarjadnyj Karabin Simonowa, Karabinek Samopowtarzalny Simonowa) to jedna z pierwszych broni korzystaj¹cych z naboju poœredniego 7.62 x 39 mm. Zast¹piona w regularnej s³u¿bie frontowej przez AK-74 we wczesnych latach piêædziesi¹tych, pozostawa³a w rezerwie przez dziesiêciolecia i do dziœ u¿ywana jest w celach reprezentacyjnych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple]• %c[ui_gray_2] celownik PU\n
+		%c[d_purple]• %c[ui_gray_2] Celownik: PU\n
 		</text>
 	</string>
 
@@ -1663,8 +1663,8 @@ PISTOLS
 	<string id="st_wpn_sks_b_descr">
 		<text>Pó³automatyczny, gazowy, samonapinaj¹cy karabinek u¿ywany g³ównie podczas zimnej wojny, SKS jest nadal u¿ywany w jednostkach drugiej linii i armii rezerwowej. Poniewa¿ nie posiada³ selektora ognia i by³ ograniczony do 10 nabojów, zosta³ przestarza³y przez AK-47.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Swiss Arms AG\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Swiss Arms AG\n
 		</text>
 	</string>
 	
@@ -1677,7 +1677,7 @@ PISTOLS
 	<string id="st_wpn_sv98_descr">
 		<text>SW-98 (ros. Snajperskaja Wintowka Model 1998) to rosyjski karabin wyborowy opracowany przez W³adimira Stronskiego. W roku 2003 ¿o³nierze oddzia³ów specjalnych zostali wyposa¿eni w system snajperski 6S11, obejmuj¹cy karabin SW-98 (indeks 6W10) i specjalny pocisk o zwiêkszonych w³aœciwoœciach penetracyjnych oznaczony 7N14. Broni u¿ywano do walk w czasie operacji w Czeczenii.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik PKS-07\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik PKS-07\n
 		</text>
 	</string>
 	
@@ -1690,8 +1690,8 @@ PISTOLS
 	<string id="st_wpn_svd_descr">
 		<text>Radziecki samopowtarzalny karabin wyborowy SWD (ros. Snajperskaja Wintowka Dragunowa). Pierwotnie karabin ten by³ przeznaczony dla strzelców wyborowych w ka¿dej podstawowej jednostce piechoty Armii Czerwonej, jednak nie dla wyspecjalizowanych dru¿yn snajperskich.\n \nSWD jest doœæ lekki jak na karabin snajperski, dobrze wywa¿ony, strzela w trybie pó³automatycznym. Dobrze nadaje siê do prowadzenia ognia precyzyjnego, jednak jego celnoœæ nie jest nadzwyczajna. Donoœnoœæ skuteczna tego karabinu to oko³o 800 metrów.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: KZRZP (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: KZRZP (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -1701,9 +1701,9 @@ PISTOLS
 	<string id="st_wpn_svd_nimble_descr">
 		<text>Udoskonalony model karabinu wyborowego SWD. Jest to modyfikacja odmiany karabinu oznaczanej jako SWD M, opracowanej w Polsce modernizacji podstawowego Dragunowa serii II.\n \nKarabin jest rêcznie sk³adany i wyposa¿ony we wzmocnione mechanizmy, co w efekcie powoduje sp³aszczenie trajektorii lotu pocisków. Wygl¹dem niewiele ró¿ni siê od orygina³u, jednak charakteryzuje siê doskona³ym po³¹czeniem celnoœci i mocy obalaj¹cej.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik 1P59 Hyperon\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik 1P59 Hyperon\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: KZRZP\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: KZRZP\n
 		</text>
 	</string>
 	
@@ -1716,7 +1716,7 @@ PISTOLS
 	<string id="st_wpn_svt40_descr">
 		<text>SWT-40 to pó³automatyczny karabin zasilany amunicj¹ 7.62x54 mm R. U¿ywany w szerokim zakresie przez ¿o³nierzy Armii Czerwonej i Wehrmachtu w czasie II Wojny Œwiatowej.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple]• %c[ui_gray_2] specjalny celownik PU\n
+		%c[d_purple]• %c[ui_gray_2] Specjalny celownik PU\n
 		</text>
 	</string>
 
@@ -1726,7 +1726,7 @@ PISTOLS
 	<string id="st_wpn_vssk_descr">
 		<text>WSSK Wych³op to rosyjski karabin wyborowy w uk³adzie bullpup zasilany amunicj¹ poddŸwiêkow¹ kalibru 12.7x55 mm. Opracowany w roku 2002 dla jednostek specjalnych FSB.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik PKS-07\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik PKS-07\n
 		</text>
 	</string>
 
@@ -1736,7 +1736,7 @@ PISTOLS
 	<string id="st_wpn_wa2000_descr">
 		<text>Walther WA 2000 to pó³automatyczny karabin wyborowy w uk³adzie bullpup, wytwarzany przez Carl Walther GmbH Sportwaffen w latach 1982-1988. Broñ produkowano w trzech ró¿nych kalibrach, jednak produkcja zosta³a szybko przerwana ze wzglêdu na wysokie koszta i niewystarczaj¹c¹ dla celów wojskowych niezawodnoœæ.\n \nPowsta³o jedynie 176 egzemplarzy, co sprawi³o, ¿e obecnie jest to jeden z najrzadszych i najbardziej poszukiwanych przez kolekcjonerów karabinów na œwiecie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: KZRZP (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: KZRZP (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -1749,10 +1749,10 @@ PISTOLS
 	<string id="st_grenade_launcher_descr">
 		<text>Jednostrza³owy, ³adowany odprzodowo, gwintowany granatnik podlufowy przeznaczony dla karabinków szturmowych z krajów by³ego Uk³adu Warszawskiego. Zaprojektowany, by znacznie zwiêkszyæ si³ê ognia podstawowych jednostek piechoty.\n \nPosiada samonapinaj¹cy mechanizm spustowo-uderzeniowy, bezpiecznik, i automatyczn¹ blokadê wystrza³u w razie nieprawid³owego zamontowania pod luf¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] prêdkoœæ wylotowa: %c[ui_gray_1]ok. 76 m / sec\n
-		%c[d_purple] • %c[ui_gray_2] skuteczny zasiêg: %c[ui_gray_1]ok. 300 m\n
-		%c[d_purple] • %c[ui_gray_2] czas prze³adowania: %c[ui_gray_1]d³ugi\n
-		%c[d_purple] • %c[ui_gray_2] amunicja: %c[ui_gray_1]granaty 40 mm WOG-25\n
+		%c[d_purple] • %c[ui_gray_2] Prêdkoœæ wylotowa: %c[ui_gray_1]ok. 76 m / sec\n
+		%c[d_purple] • %c[ui_gray_2] Skuteczny zasiêg: %c[ui_gray_1]ok. 300 m\n
+		%c[d_purple] • %c[ui_gray_2] Czas prze³adowania: %c[ui_gray_1]d³ugi\n
+		%c[d_purple] • %c[ui_gray_2] Amunicja: %c[ui_gray_1]granaty 40 mm WOG-25\n
 		</text>
 	</string>
 
@@ -1762,8 +1762,8 @@ PISTOLS
 	<string id="st_wpn_m79_descr">
 		<text>M79 to jednostrza³owy granatnik na amunicjê kalibru 40x46 mm, korzystaj¹cy z amerykañskiego systemu High-Low Propulsion System maj¹cego na celu zmniejszenie odrzutu. Pierwsze raz wykorzystany w trakcie wojny w Wietnamie.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Springfield Armory\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Springfield Armory\n
 		</text>
 	</string>
 	
@@ -1773,10 +1773,10 @@ PISTOLS
 	<string id="st_grenade_launcher_m203_descr">
 		<text>Zmodyfikowany granatnik M203, skrócony o trzy cale wzglêdem pierwowzoru. Mo¿e byæ do³¹czony do broni na szynie monta¿owej Picatinny. Dziêki zmienionemu sposobowi zaczepu, granatnik jest powszechnie u¿ywany na ca³ym œwiecie i mo¿e byæ zamontowany na wiêkszoœci wspó³czeœnie produkowanych karabinów. Choæ bardziej nowoczesny, jego w³aœciwoœci s¹ prawie identyczne jak radzieckiego odpowiednika, granatnika GP-25.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] prêdkoœæ wylotowa: %c[ui_gray_1]ok. 76 m / sec\n
-		%c[d_purple] • %c[ui_gray_2] skuteczny zasiêg: %c[ui_gray_1]ok. 300 m\n
-		%c[d_purple] • %c[ui_gray_2] czas prze³adowania: %c[ui_gray_1]d³ugi\n
-		%c[d_purple] • %c[ui_gray_2] amunicja: %c[ui_gray_1]granaty 40 mm M203\n
+		%c[d_purple] • %c[ui_gray_2] Prêdkoœæ wylotowa: %c[ui_gray_1]ok. 76 m / sec\n
+		%c[d_purple] • %c[ui_gray_2] Skuteczny zasiêg: %c[ui_gray_1]ok. 300 m\n
+		%c[d_purple] • %c[ui_gray_2] Czas prze³adowania: %c[ui_gray_1]d³ugi\n
+		%c[d_purple] • %c[ui_gray_2] Amunicja: %c[ui_gray_1]granaty 40 mm M203\n
 		</text>
 	</string>
 
@@ -1786,8 +1786,8 @@ PISTOLS
 	<string id="st_wpn_rg6_descr">
 		<text>RG6 (indeks 6G30, ros. Rucznyj Granatomiot 6-zarjadnyj, Rêczny Granatnik Szeœciostrza³owy) zosta³ opracowany miêdzy rokiem 1993 a 1994 przez CKIB SOO. Nowy samodzielny, szybkostrzelny, wielostrza³owy granatnik zosta³ wprowadzony z zamys³em spotêgowania si³y ognia piechoty podczas walk miejskich w konfliktach zbrojnych na mniejsz¹ skalê, jak na przyk³ad wojny w Czeczenii.\n \nProdukowany w latach 90. przez krótki okres czasu, obecnie stanowi wyposa¿enie niektórych jednostek armii rosyjskiej, wojskowych si³ specjalnych i oddzia³ów specjalnych rosyjskiego MSW.\n \nRG-6 zaprojektowano do obs³ugi standardowych granatów bez³uskowych kalibru 40 mm, takich samych, jak u¿ywanych w granatnikach podlufowych GP-25 i GP-30. Do granatów, z których korzysta zaliczaj¹ siê granaty od³amkowe WOG-25, odskokowe granaty od³amkowe WOG-25P i pociski "Gwozd" (ros. GwóŸdŸ) - granaty z gazem ³zawi¹cym do t³umienia zamieszek. Ca³y bêben granatnika ³aduje siê odprzodowo.\n \nGranatnik ten jest u¿ywany do szybkiego przygwo¿d¿enia ogniem wrogich pozycji strzeleckich, prze³amywania linii obrony lub likwidowania szczególnie groŸnych mutantów.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]CKIB SOO\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]CKIB SOO\n
 		</text>
 	</string>
 
@@ -1797,8 +1797,8 @@ PISTOLS
 	<string id="st_wpn_rpg7_descr">
 		<text>RPG-7 to kolejna wersja rozwojowa granatnika przeciwczo³gowego RPG-2. RPG-7, w pierwszej wersji pod nazw¹ RPG-7W zosta³ wprowadzony do s³u¿by w armii radzieckiej w roku 1961 i od tamtej pory s³u¿y w Rosji i ponad piêædziesiêciu innych krajach. Jak do tej pory stanowi jeden z najlepszych granatników przeciwczo³gowych na œwiecie.\n \nPocz¹tkowo zaprojektowany jako broñ stricte przeciwpancerna, póŸniej by³ przystosowywany tak¿e do innych celów wsparcia ogniowego - zaczêto stosowaæ inne typy granatów, takie jak przeciwpiechotny HE-FRAG czy wielozadaniowy Thermobaric/FAE.\n \nPozycja strzelecka wymaga umieszczenia RPG-7 na ramieniu. Granatnik jest jednostrza³owy, amunicja ³adowana jest do g³adkiej, bezodrzutowej lufy odprzodowo. Lufa z drugiej strony posiada zwê¿kê Venturiego - rozszerza siê ku koñcowi, co redukuje odrzut i os³ania przed niebezpiecznym podmuchem. Granatnik zwykle wyposa¿any jest w dedykowany celownik optyczny PGO-7 o powiêkszeniu 2.7x.\n \nBroñ jest prosta i niedroga, a w dodatku stanowi du¿e zagro¿enie nawet dla nowoczesnych czo³gów. Oprócz tego, mo¿e byæ wykorzystana tak¿e w innych celach, co czyni j¹ bardzo wielozadaniow¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Diegtiarow\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Diegtiarow\n
 		</text>
 	</string>
 
@@ -1808,11 +1808,11 @@ PISTOLS
 	<string id="st_grenade_f1_descr">
 		<text>Granat obronny, którego od³amki s¹ w stanie przebiæ œredniej jakoœci kamizelkê kuloodporn¹. Posiada promieñ ca³kowitego ra¿enia wynosz¹cy oko³o 4 metrów. Najczêœciej pozyskiwany dziêki handlowi z ¿o³nierzami. Ci z kolei spisuj¹ go ze stanu, raportuj¹c zu¿ycie podczas walk z mutantami.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] si³a wybuchu: %c[ui_gray_1]wysoka\n
-		%c[d_purple] • %c[ui_gray_2] promieñ ca³kowitego ra¿enia: %c[ui_gray_1]4.2 m\n
-		%c[d_purple] • %c[ui_gray_2] zasiêg od³amków: %c[ui_gray_1]48 m\n
-		%c[d_purple] • %c[ui_gray_2] œrednia liczba od³amków: %c[ui_gray_1]380 (ma³e od³amki)\n
-		%c[d_purple] • %c[ui_gray_2] opóŸnienie wybuchu: %c[ui_gray_1]ok. 4 sekund\n
+		%c[d_purple] • %c[ui_gray_2] Si³a wybuchu: %c[ui_gray_1]wysoka\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ ca³kowitego ra¿enia: %c[ui_gray_1]4.2 m\n
+		%c[d_purple] • %c[ui_gray_2] Zasiêg od³amków: %c[ui_gray_1]48 m\n
+		%c[d_purple] • %c[ui_gray_2] Œrednia liczba od³amków: %c[ui_gray_1]380 (ma³e od³amki)\n
+		%c[d_purple] • %c[ui_gray_2] OpóŸnienie wybuchu: %c[ui_gray_1]ok. 4 sekund\n
 		</text>
 	</string>
 	
@@ -1822,11 +1822,11 @@ PISTOLS
 	<string id="st_grenade_rgd5_descr">
 		<text>Rêczny granat zaczepny z niewielkim promieniem ca³kowitego ra¿enia, wynosz¹cym oko³o trzech metrów. Ze wzglêdu na stosunkowo nisk¹ cenê stalkerzy chêtnie po niego siêgaj¹, ¿eby "wykurzyæ" mutanty.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] si³a wybuchu: %c[ui_gray_1]œrednia\n
-		%c[d_purple] • %c[ui_gray_2] promieñ ca³kowitego ra¿enia: %c[ui_gray_1]3,2 m\n
-		%c[d_purple] • %c[ui_gray_2] zasiêg od³amków: %c[ui_gray_1]43 m\n
-		%c[d_purple] • %c[ui_gray_2] œrednia liczba od³amków: %c[ui_gray_1]240 (ma³e od³amki)\n
-		%c[d_purple] • %c[ui_gray_2] opóŸnienie wybuchu: %c[ui_gray_1]ok. 4 sekund\n
+		%c[d_purple] • %c[ui_gray_2] Si³a wybuchu: %c[ui_gray_1]œrednia\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ ca³kowitego ra¿enia: %c[ui_gray_1]3,2 m\n
+		%c[d_purple] • %c[ui_gray_2] Zasiêg od³amków: %c[ui_gray_1]43 m\n
+		%c[d_purple] • %c[ui_gray_2] Œrednia liczba od³amków: %c[ui_gray_1]240 (ma³e od³amki)\n
+		%c[d_purple] • %c[ui_gray_2] OpóŸnienie wybuchu: %c[ui_gray_1]ok. 4 sekund\n
 		</text>
 	</string>
 	
@@ -1836,7 +1836,7 @@ PISTOLS
 	<string id="st_grenade_smoke_descr">
 		<text>Zwyk³y rêczny granat dymny. Tworzy zas³onê dymn¹. Po rzuceniu granatu up³ywa oko³o dziesiêciu sekund, zanim zas³ona zd¹¿y siê rozwin¹æ.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		</text>
 	</string>
 	
@@ -1846,11 +1846,11 @@ PISTOLS
 	<string id="st_grenade_thermite_descr">
 		<text>Granat zapalaj¹cy wykorzystuj¹cy mieszankê termitow¹ (sproszkowany glin i tlenek ¿elaza z domieszkami), generuje bardzo wysokie temperatury (2,200 °C / 3,992 °F) w wyniku silnie egzotermicznej reakcji redoks, w której glin gwa³townie redukuje tlenek ¿elaza, ¿elazo rozpuszcza siê i powstaje tlenek glinu. Granat zawiera od 600 do 800 gramów termitu.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] si³a wybuchu: %c[ui_gray_1]œrednia (obra¿enia termiczne)\n
-		%c[d_purple] • %c[ui_gray_2] promieñ ca³kowitego ra¿enia: %c[ui_gray_1]4.6 m\n
-		%c[d_purple] • %c[ui_gray_2] zasiêg od³amków: %c[ui_gray_1]brak\n
-		%c[d_purple] • %c[ui_gray_2] œrednia liczba od³amków: %c[ui_gray_1]brak\n
-		%c[d_purple] • %c[ui_gray_2] opóŸnienie wybuchu: %c[ui_gray_1]ok. 4 sekund\n
+		%c[d_purple] • %c[ui_gray_2] Si³a wybuchu: %c[ui_gray_1]œrednia (obra¿enia termiczne)\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ ca³kowitego ra¿enia: %c[ui_gray_1]4.6 m\n
+		%c[d_purple] • %c[ui_gray_2] Zasiêg od³amków: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] Œrednia liczba od³amków: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] OpóŸnienie wybuchu: %c[ui_gray_1]ok. 4 sekund\n
 		</text>
 	</string>
 
@@ -1860,7 +1860,7 @@ PISTOLS
 	<string id="st_grenade_light_descr">
 		<text>Lekki granat M68 zawiera spor¹ iloœæ niewielkich od³amków. Popularny jest wœród spadochroniarzy, marines i jednostek specjalnych NATO. Posiada zapalnik M213, który pozwala na odpalanie granatu za pomoc¹ odgiêcia ³y¿ki przez wyci¹gniêcie go z pasa noœnego.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		</text>
 	</string>
 
@@ -1873,9 +1873,9 @@ PISTOLS
 	<string id="st_knife_6x4_descr">
 		<text>Typowy sowiecki bagnet do stosowania z karabinami z rodziny AK. Jest bardzo wytrzyma³y, ale nadaje siê tylko do pchniêæ.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja Radziecka, Polska\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] przecina grub¹ skórê?: %c[ui_red]NIE\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]ZSRR, Polska\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_red]NIE\n
 		</text>
 	</string>
 	
@@ -1885,8 +1885,8 @@ PISTOLS
 	<string id="st_knife_hunting_descr">
 		<text>Bardzo wytrzyma³y nó¿ myœliwski z szerokim ostrzem z nierdzewnej stali. Doskona³y na wiêksz¹ zwierzynê, œwietnie nadaje siê do ciêcia miêsa i grubych skór. Mo¿na nim zadaæ g³êbokie, wywo³uj¹ce obfite krwawienie rany. Jego wad¹ jest to, ¿e nie jest w stanie odpowiednio skutecznie przebijaæ ciê¿kich pancerzy.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] przecina grub¹ skórê?: %c[ui_green]TAK\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Przecina grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
 
@@ -1896,9 +1896,9 @@ PISTOLS
 	<string id="st_knife_combat_descr">
 		<text>Du¿y nó¿ myœliwski z wytrzyma³ym, gumowym uchwytem. Jest ostry i zadbany. Niekoniecznie sprawdzi siê przy przebijaniu pancerzy bojowych, ale ze wzglêdu na z¹bkowanie grzbietu na ods³oniêtym ciele potrafi zadawaæ rozleg³e, obficie krwawi¹ce rany. Z tego powodu œwietnie nadaje siê do u¿ycia w walce ze zwierzêtami lub do dobijania ju¿ rannych stworzeñ.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] przecina grub¹ skórê?: %c[ui_green]TAK\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Przecina grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
 	
@@ -1908,8 +1908,8 @@ PISTOLS
 	<string id="st_knife_m_descr">
 		<text>Przepisowy nó¿ niemal ka¿dego ¿o³nierza.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] przecina grub¹ skórê?: %c[ui_green]TAK\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Przecina grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
 	
@@ -1919,9 +1919,9 @@ PISTOLS
 	<string id="st_knife_needle_descr">
 		<text>Ten radziecki nó¿ wojskowy posiada rêkojeœæ wykonan¹ z ciemnego drewna oraz stalow¹ g³owniê typu clip point, z krawêdzi¹ tn¹c¹ o d³ugoœci 152 mm, zaczynaj¹c¹ siê zauwa¿alnym wyciêciem choil. Koñcówki S-kszta³tnego jelca skierowane s¹ w przeciwn¹ stronê ni¿ tradycyjnie, a rêkojeœæ ma chropowat¹ fakturê, zwiêkszaj¹c pewnoœæ chwytu.\n \nNó¿ jest doœæ niewielki, co nie pozwala na zadawanie ani zbyt g³êbokich, ani ciê¿kich ran na ods³oniêtym ciele, jednak zaprojektowany zosta³ specjalnie z myœl¹ o penetracji nowoczesnych pancerzy.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja Radziecka\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] przecina grub¹ skórê?: %c[ui_red]NIE\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja Radziecka\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Przecina grub¹ skórê?: %c[ui_red]NIE\n
 		</text>
 	</string>
 	
@@ -1931,9 +1931,9 @@ PISTOLS
 	<string id="st_knife_nr40_descr">
 		<text>Doœæ rzadki, radziecki nó¿ wojskowy o du¿ej wartoœci historycznej i symbolicznej. Przyozdobiony ¿elaznym emblematem konkretnej dywizji spadochronowej z czasów II Wojny Œwiatowej na drewnianej rêkojeœci. Ka¿dy posiadaj¹cy tê broñ stalker - czy ¿ó³todziób, czy weteran - jest w swojej frakcji bardzo szanowany. Zwykle jest nagrod¹ za wyj¹tkowe poœwiêcenie w trakcie wykonywania zadania, na przyk³ad za uratowanie lidera frakcji od pewnej œmierci.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja Radziecka\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] przecina grub¹ skórê?: %c[ui_red]NIE\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja Radziecka\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Przecina grub¹ skórê?: %c[ui_red]NIE\n
 		</text>
 	</string>
 	
@@ -1943,9 +1943,9 @@ PISTOLS
 	<string id="st_knife_swat_descr">
 		<text>Sk³adany nó¿ Specnazu, przeznaczony dla ¿o³nierzy zwiadu i rozpoznania. Jednostki Specnazu mia³y u¿yæ tych no¿y do podrzynania garde³ obs³udze rakietowych pocisków œredniego zasiêgu na kilka dni przed planowan¹ wymian¹ rakiet nuklearnych w Europie.\n \nUtrzymany w dobrym stanie, posiadaj¹cy poprawiaj¹ce penetracjê fa³szywe ostrze. Te no¿e to naprawdê zabójcza broñ, jako jedyne spoœród dostêpnych lokalnie doœæ dobrze sprawdzaj¹ siê zarówno w przebijaniu pancerzy, jak i zadawaniu g³êbokich ran ciêtych na ods³oniêtym ciele. Trudno w Zonie o lepsz¹ broñ bia³¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] przecina grub¹ skórê?: %c[ui_green]TAK\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Przecina grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
 
@@ -1956,9 +1956,9 @@ PISTOLS
 	<string id="st_axe2_descr">
 		<text>Najczêœciej u¿ywany - jak wskazuje nazwa - przez stra¿aków. Stalkerzy czêsto korzystaj¹ z nich do œcinania drzew, ale ró¿nego rodzaju siekiery, podobnie jak ca³e wyposa¿enie w Zonie, s³u¿¹ te¿ do r¹bania przeciwników, tak ¿ywych, jak i martwych. W rêkach doœwiadczonego stalkera ostry topór mo¿e stanowiæ bardzo œmiercionoœne narzêdzie.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraje pochodzenia: %c[ui_gray_2]Ró¿ne\n
-		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[d_green] • %c[ui_gray_2] wiêkszy zasiêg w porównaniu do no¿y\n
+		%c[d_cyan] • %c[0,255,255,255] Kraje pochodzenia: %c[ui_gray_2]Ró¿ne\n
+		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
+		%c[d_green] • %c[ui_gray_2] Wiêkszy zasiêg w porównaniu do no¿y\n
 		</text>
 	</string>
 
@@ -1979,9 +1979,9 @@ PISTOLS
 	<string id="st_dynamo_hand_descr">
 		<text>Urz¹dzenie to jest napêdzanym rêcznie generatorem pr¹du domowej roboty. Powsta³o na bazie jednofazowego silnika asynchronicznego wyci¹gniêtego ze starego sprzêtu elektrycznego.\n \nNapiêcie wyjœciowe przechodzi przez transformator obni¿aj¹cy do prostownika na bazie radzieckich diod D242. Wzbudzenie generatora nastêpuje przez kondensator po³¹czony ze sprê¿yn¹ silnika. £adunek powstaje dziêki obrotom wirnika przenoszonym na przek³adniê œlimakow¹ z szybkoœci¹ 1300-1500 rpm. Urz¹dzenie posiada amperomierz punktowy wyprodukowany przez amerykañsk¹ firmê WESTON ELECTRICAL INSTRUMENT.\n \nZe wzglêdu na u¿yte komponenty, urz¹dzenie wa¿y dosyæ du¿o, ale mimo tego jest w Zonie bardzo cenione. Niektórzy technicy z pewnoœci¹ bêd¹ w stanie je usprawniæ.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[ui_gray_2] urz¹dzenie technologiczne\n
-		%c[d_cyan] • %c[ui_gray_2] silnik o mocy 40 W\n
-		%c[d_red] • %c[ui_gray_2] ¿ywotnoœæ silnika i ³o¿ysk jest ograniczona\n
+		%c[d_cyan] • %c[ui_gray_2] Urz¹dzenie technologiczne\n
+		%c[d_cyan] • %c[ui_gray_2] Silnik o mocy 40 W\n
+		%c[d_red] • %c[ui_gray_2] ¯ywotnoœæ silnika i ³o¿ysk jest ograniczona\n
 		</text>
 	</string>
 

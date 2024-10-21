@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+    <string id="st_placeable_documents_1">
+		<text>Plik dokumentów</text>
+	</string>
+	<string id="st_placeable_documents_1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_cabinet">
+		<text>Szafki kuchenne</text>
+	</string>
+	<string id="st_placeable_cabinet_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_ashtray">
+		<text>Popielniczka</text>
+	</string>
+	<string id="st_placeable_ashtray_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+
+    <string id="st_placeable_barrel_metal">
+		<text>Metalowa beczka</text>
+	</string>
+	<string id="st_placeable_barrel_metal_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_shelves_b">
+		<text>Półki łazienkowe</text>
+	</string>
+	<string id="st_placeable_shelves_b_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+
+    <string id="st_placeable_biliard">
+		<text>Stół bilardowy</text>
+	</string>
+	<string id="st_placeable_biliard_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_pot">
+		<text>Duży garnek do gotowania</text>
+	</string>
+	<string id="st_placeable_pot_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_countertop">
+		<text>Szafka kuchenna z blatem</text>
+	</string>
+	<string id="st_placeable_countertop_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_cuttingboard">
+		<text>Deska do krojenia</text>
+	</string>
+	<string id="st_placeable_cuttingboard_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_fchair">
+		<text>Nowoczesny fotel</text>
+	</string>
+	<string id="st_placeable_fchair_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_game">
+		<text>Gra planszowa</text>
+	</string>
+	<string id="st_placeable_game_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_fuel">
+		<text>Kanister</text>
+	</string>
+	<string id="st_placeable_fuel_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_shooting_target_1">
+		<text>Tarcza strzelnicza</text>
+	</string>
+	<string id="st_placeable_shooting_target_1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_bidon">
+		<text>Bańka 30l</text>
+	</string>
+	<string id="st_placeable_bidon_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_gaz_balon">
+		<text>Butla z gazem</text>
+	</string>
+	<string id="st_placeable_gaz_balon_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_radiola">
+		<text>Radio</text>
+	</string>
+	<string id="st_placeable_radiola_descr">
+		<text>Działające radio.\n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_kartina03">
+		<text>Ramka ze zdjęciem</text>
+	</string>
+	<string id="st_placeable_kartina03_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_dev_guitar">
+		<text>Gitara</text>
+	</string>
+	<string id="st_placeable_dev_guitar_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_stool">
+		<text>Taboret</text>
+	</string>
+	<string id="st_placeable_stool_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_metal_table1">
+		<text>Metalowy stół A</text>
+	</string>
+	<string id="st_placeable_metal_table1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_metal_table2">
+		<text>Metalowy stół B</text>
+	</string>
+	<string id="st_placeable_metal_table2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_stalker_outfit">
+		<text>Złożony kombinezon stalkera</text>
+	</string>
+	<string id="st_placeable_stalker_outfit_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_merc_outfit">
+		<text>Złożony kombinezon najemnika</text>
+	</string>
+	<string id="st_placeable_merc_outfit_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_exoskelet">
+		<text>Ozdobny egzoszkielet</text>
+	</string>
+	<string id="st_placeable_exoskelet_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_stretcher">
+		<text>Nosze na kółkach</text>
+	</string>
+	<string id="st_placeable_stretcher_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_gun_parts">
+		<text>Elementy broni</text>
+	</string>
+	<string id="st_placeable_gun_parts_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_teapot">
+		<text>Czajnik</text>
+	</string>
+	<string id="st_placeable_teapot_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_psi_helmet">
+		<text>Hełm psioniczny</text>
+	</string>
+	<string id="st_placeable_psi_helmet_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_documents_2">
+		<text>Stos dokumentów</text>
+	</string>
+	<string id="st_placeable_documents_2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_notes_writing_book">
+		<text>Dziennik osobisty</text>
+	</string>
+	<string id="st_placeable_notes_writing_book_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_survivalguide">
+		<text>Podręcznik bezpieczeństwa</text>
+	</string>
+	<string id="st_placeable_survivalguide_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_guidebook1">
+		<text>Poradnik przetrwania</text>
+	</string>
+	<string id="st_placeable_guidebook1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_guidebook2">
+		<text>Podręcznik mechaniki</text>
+	</string>
+	<string id="st_placeable_guidebook2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_lead_box_open">
+		<text>Otwarty ZAA</text>
+	</string>
+	<string id="st_placeable_lead_box_open_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_suit">
+		<text>Stojak z kombinezonem SSP-99M</text>
+	</string>
+	<string id="st_placeable_suit_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_poster1">
+		<text>Plakat 1</text>
+	</string>
+	<string id="st_placeable_poster1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_poster2">
+		<text>Plakat 2</text>
+	</string>
+	<string id="st_placeable_poster2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_poster3">
+		<text>Plakat 3</text>
+	</string>
+	<string id="st_placeable_poster3_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_poster4">
+		<text>Plakat 4</text>
+	</string>
+	<string id="st_placeable_poster4_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_poster5">
+		<text>Plakat 5</text>
+	</string>
+	<string id="st_placeable_poster5_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_poster6">
+		<text>Plakat 6</text>
+	</string>
+	<string id="st_placeable_poster6_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_poster7">
+		<text>Plakat 7</text>
+	</string>
+	<string id="st_placeable_poster7_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_sink">
+		<text>Umywalka</text>
+	</string>
+	<string id="st_placeable_sink_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_sidetable1">
+		<text>Stolik A</text>
+	</string>
+	<string id="st_placeable_sidetable1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_sidetable2">
+		<text>Stolik B</text>
+	</string>
+	<string id="st_placeable_sidetable2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_shelves">
+		<text>Metalowy regał</text>
+	</string>
+	<string id="st_placeable_shelves_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_box_wood">
+		<text>Drewniana skrzynia</text>
+	</string>
+	<string id="st_placeable_box_wood_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie1">
+		<text>Trofeum z dzika</text>
+	</string>
+	<string id="st_placeable_trophie1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie2">
+		<text>Trofeum z chimery</text>
+	</string>
+	<string id="st_placeable_trophie2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie3">
+		<text>Trofeum z nibypsa</text>
+	</string>
+	<string id="st_placeable_trophie3_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie4">
+		<text>Trofeum z kota</text>
+	</string>
+	<string id="st_placeable_trophie4_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie5">
+		<text>Trofeum z pijawki</text>
+	</string>
+	<string id="st_placeable_trophie5_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie6">
+		<text>Trofeum z pijawki B</text>
+	</string>
+	<string id="st_placeable_trophie6_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie7">
+		<text>Trofeum ze ślepego psa</text>
+	</string>
+	<string id="st_placeable_trophie7_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie8">
+		<text>Trofeum z mięsacza</text>
+	</string>
+	<string id="st_placeable_trophie8_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie9">
+		<text>Trofeum z dzika B</text>
+	</string>
+	<string id="st_placeable_trophie9_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_box_paper">
+		<text>Kartonowe pudełko</text>
+	</string>
+	<string id="st_placeable_box_paper_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+    <string id="st_placeable_microscope">
+		<text>Mikroskop</text>
+	</string>
+	<string id="st_placeable_microscope_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_map1">
+		<text>Mapa naścienna A</text>
+	</string>
+	<string id="st_placeable_map1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_map2">
+		<text>Mapa naścienna B</text>
+	</string>
+	<string id="st_placeable_map2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_grave1">
+		<text>Krzyż nagrobny A</text>
+	</string>
+	<string id="st_placeable_grave1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_grave2">
+		<text>Krzyż nagrobny B</text>
+	</string>
+	<string id="st_placeable_grave2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_junk">
+		<text>Odpadki mechaniczne</text>
+	</string>
+	<string id="st_placeable_junk_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_money_5000">
+		<text>Stos pieniędzy</text>
+	</string>
+	<string id="st_placeable_money_5000_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_plant2">
+		<text>Anomalna roślina</text>
+	</string>
+	<string id="st_placeable_plant2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_plant3">
+		<text>Improwizowana roślina</text>
+	</string>
+	<string id="st_placeable_plant3_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_plant4">
+		<text>Duża roślina</text>
+	</string>
+	<string id="st_placeable_plant4_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+	
+   <string id="st_placeable_rug">
+		<text>Dywan</text>
+	</string>
+	<string id="st_placeable_rug_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[d_red] • %c[d_red] UWAGA: NIE WYRZUCAĆ DYWANU Z EKWIPUNKU! %c[0,250,250,0] Jeśli to zrobisz to nastąpi wylot do pulpitu i spontanicznie opuścisz Zonę :) \n</text>
+	</string>
+	
+   <string id="st_placeable_clinic_equipments">
+		<text>Sprzęt medyczny</text>
+	</string>
+	<string id="st_placeable_clinic_equipments_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>
+
+   <string id="st_placeable_wall_divider">
+		<text>Przegroda do pomieszczeń 2x2 m</text>
+	</string>
+	<string id="st_placeable_wall_divider_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n</text>
+	</string>	
+	
+   <string id="st_placeable_storage01">
+		<text>Metalowa skrzynia</text>
+	</string>
+	<string id="st_placeable_storage01_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 300 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage02">
+		<text>Duża metalowa skrzynia</text>
+	</string>
+	<string id="st_placeable_storage02_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 700 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage03">
+		<text>Zielona metalowa skrzynia</text>
+	</string>
+	<string id="st_placeable_storage03_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 70 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage04">
+		<text>Mały sejf</text>
+	</string>
+	<string id="st_placeable_storage04_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 35 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage05">
+		<text>Pusta skrzynka na narzędzia</text>
+	</string>
+	<string id="st_placeable_storage05_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 60 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage06">
+		<text>Pusta skrzynia</text>
+	</string>
+	<string id="st_placeable_storage06_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 170 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage07">
+		<text>Szafka</text>
+	</string>
+	<string id="st_placeable_storage07_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 200 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage08">
+		<text>Duży sejf</text>
+	</string>
+	<string id="st_placeable_storage08_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel\n
+		%c[ui_gray_3] • %c[ui_gray_2] Pojemność: 70 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_wooden_board">
+		<text>Drewniany panel</text>
+	</string>
+	<string id="st_placeable_wooden_board_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue]  • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel \n
+		%c[d_blue]  • %c[ui_gray_2] Służy do zasłaniania okien i wejść\n</text>
+	</string>
+	
+   <string id="st_placeable_wooden_plank">
+		<text>Drewniana deska</text>
+	</string>
+	<string id="st_placeable_wooden_plank_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue]  • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel \n
+		%c[d_blue]  • %c[ui_gray_2] Służy do zasłaniania okien i wejść\n</text>
+	</string>
+   <string id="st_placeable_metal_plate">
+		<text>Blacha metalowa</text>
+	</string>
+	<string id="st_placeable_metal_plate_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue]  • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel \n
+		%c[d_blue]  • %c[ui_gray_2] Służy do zasłaniania okien i wejść\n</text>
+	</string>
+	
+   <string id="st_placeable_shield">
+		<text>Tarcza</text>
+	</string>
+	<string id="st_placeable_shield_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue]  • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel \n</text>
+	</string>
+	
+   <string id="st_placeable_toilet">
+		<text>Toaleta</text>
+	</string>
+	<string id="st_placeable_toilet_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue]  • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel \n</text>
+	</string>
+	
+   <string id="st_placeable_shower">
+		<text>Prysznic</text>
+	</string>
+	<string id="st_placeable_shower_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue]  • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Mebel \n</text>
+	</string>
+	
+   <string id="st_placeable_tv_box">
+		<text>Telewizor</text>
+	</string>
+	<string id="st_placeable_tv_box_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		</text>
+	</string>
+
+   <string id="st_placeable_light1">
+		<text>Kinkiet ścienny</text>
+	</string>
+	<string id="st_placeable_light1_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2]2700K\n</text>
+	</string>
+	
+   <string id="st_placeable_light2">
+		<text>Szperacz</text>
+	</string>
+	<string id="st_placeable_light2_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2]6500K\n</text>
+	</string>
+	
+   <string id="st_placeable_light3">
+		<text>Lampa abażurowa</text>
+	</string>
+	<string id="st_placeable_light3_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2]3000K\n</text>
+	</string>
+	
+   <string id="st_placeable_light4">
+		<text>Wisząca żarówka</text>
+	</string>
+	<string id="st_placeable_light4_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2]4000K\n</text>
+	</string>
+	
+   <string id="st_placeable_light5">
+		<text>Lampa z trzema świetlówkami</text>
+	</string>
+	<string id="st_placeable_light5_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2]4000K\n</text>
+	</string>
+	
+   <string id="st_placeable_light6">
+		<text>Lampa naścienna A</text>
+	</string>
+	<string id="st_placeable_light6_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2] 5000K\n</text>
+	</string>
+	
+   <string id="st_placeable_light7">
+		<text>Lampa naścienna B</text>
+	</string>
+	<string id="st_placeable_light7_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2] 2000K\n</text>
+	</string>
+	
+   <string id="st_placeable_light8">
+		<text>Lampa z pojedynczą świetlówką</text>
+	</string>
+	<string id="st_placeable_light8_descr">
+		<text>
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_blue] • %c[ui_gray_2] zasilany przez: baterie/akumulatorki\n	
+		%c[d_green] • %c[ui_gray_2] Bardzo niskie zużycie energii\n
+		%c[d_purple] • %c[ui_gray_2] TEMP. BARWY ŚWIATŁA: %c[ui_gray_2] 4000K\n</text>
+	</string>
+</string_table>

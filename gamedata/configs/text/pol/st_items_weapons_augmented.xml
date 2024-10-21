@@ -8,10 +8,10 @@
 	<string id="st_wpn_aug_a1_descr">
 		<text>Steyr AUG A1 w standardowej konfiguracji karabinu armii austriackiej (kolor br¹zowy). AUG to austriacki karabin szturmowy typu bullpup kalibru 5,56 mm, zaprojektowany w latach 60. przez firmê Steyr Mannlicher GmbH und Co KG (dawniej Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr "uniwersalny karabin wojskowy") zosta³ przyjêty przez armiê austriack¹ jako StG 77 (Sturmgewehr 77) w 1978 roku, gdzie zast¹pi³ karabin automatyczny StG 58 kalibru 7,62 mm (licencyjny FN FAL). Produkowany od 1978 roku, jest standardow¹ broni¹ krótk¹ austriackiej Bundesheer i ró¿nych krajowych jednostek policji. Entuzjaœci broni uwielbiaj¹ ten karabin ze wzglêdu na zintegrowan¹ lunetê.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] chwyt taktyczny\n
-		%c[d_purple] • %c[ui_gray_2] celownik 1.5x (zintegrowany)\n \n
+		%c[d_purple] • %c[ui_gray_2] Chwyt taktyczny\n
+		%c[d_purple] • %c[ui_gray_2] Celownik 1.5x (zintegrowany)\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -21,10 +21,10 @@
 	<string id="st_wpn_aug_a2_descr">
 		<text>AUG A2 jest ulepszeniem modelu A1, wprowadzonego w 1997 r. Jedn¹ z kluczowych ró¿nic jest zast¹pienie zintegrowanego celownika szyn¹ Picatinny, umo¿liwiaj¹c¹ dodawanie wszelkiego rodzaju przyrz¹dów celowniczych i refleksyjnych, a tak¿e celowników optycznych. Jest to karabin czêsto spotykany na czarnym rynku i bardzo niezawodny.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] chwyt taktyczny\n \n
+		%c[d_purple] • %c[ui_gray_2] Chwyt taktyczny\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n 
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n 
 		</text>
 	</string>
 
@@ -34,10 +34,10 @@
 	<string id="st_wpn_aug_a3_descr">
 		<text>Steyr AUG A3 jest kolejnym ulepszeniem zarówno A1, jak i A2, wprowadzonym w 2005 roku. Jest to równie¿ obecny standardowy karabin armii austriackiej, zastêpuj¹cy zarówno A1, jak i A2. Posiadaj¹c tak¹ sam¹ integracjê szyn Picatinny jak A2 na ca³ej d³ugoœci, a tak¿e zewnêtrzny zwalniacz rygla umieszczony nad magazynkiem, karabin jest w stanie z ³atwoœci¹ dopasowaæ dowolny celownik optyczny lub refleksyjny, w tym dowoln¹ lunetê. Jest to nowoczesna iteracja AUG, a wiêc najpopularniejszy karabin, ale to nie czyni go towarem w Zonie.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] chwyt taktyczny\n \n
+		%c[d_purple] • %c[ui_gray_2] Chwyt taktyczny\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników Red Dot z niskim monta¿em: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niski monta¿), Docter Sight, 1P76 Rakurs (niski monta¿) i OKP-7)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników Red Dot z niskim monta¿em: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niski monta¿), Docter Sight, 1P76 Rakurs (niski monta¿) i OKP-7)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -47,10 +47,10 @@
 	<string id="st_wpn_aug_thales_descr">
 		<text>Thales EF88, znany równie¿ jako F90, jest ulepszeniem australijskiej wersji AUG, F88 Austeyr. Wyprodukowany w 2012 roku i maj¹cy zast¹piæ F88, jest to najnowoczeœniejszy AUG, jaki mo¿na znaleŸæ, posiadaj¹cy wiele ulepszeñ opartych na wydajnoœci samego F88, co zwiêksza jego ergonomiê i niezawodnoœæ. Unikalna lufa zapewnia znacznie lepsz¹ kontrolê odrzutu i celnoœæ, a niestandardowy chwyt przedni pozwala na lepsz¹ obs³ugê. Niezwykle rzadki pistolet, przywieziony przez by³ych ¿o³nierzy australijskich s³u¿b specjalnych, przez co jego cena jest proporcjonalna do jego rzadkoœci.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] chwyt taktyczny\n \n
+		%c[d_purple] • %c[ui_gray_2] Chwyt taktyczny\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników Red Dot z niskim monta¿em: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niski monta¿), Docter Sight, 1P76 Rakurs (niski monta¿) i OKP-7)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników Red Dot z niskim monta¿em: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niski monta¿), Docter Sight, 1P76 Rakurs (niski monta¿) i OKP-7)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -60,10 +60,10 @@
 	<string id="st_wpn_aug_9mm_descr">
 		<text>Znany równie¿ jako Steyr AUG Para, chocia¿ dotyczy to oryginalnego wariantu, który nie mia³ szyn Picatinny, innej lufy, a tak¿e zintegrowanej lunety i przedniego chwytu. AUG 9mm to po prostu wariant pistoletu maszynowego AUG z komor¹ nabojow¹ 9x19 Parabellum, produkowany od 1988 roku. Wyposa¿ony jest w inn¹, unikaln¹ lufê, rygiel i magazynek, choæ mo¿e pasowaæ do niego magazynek TMP. Broñ ta zosta³a stworzona dla, jak sama nazwa wskazuje, spadochroniarzy. Istniej¹ zestawy do przekszta³cenia dowolnego AUG A3 w AUG 9mm i odwrotnie. Jest to niezawodny pistolet maszynowy w formacie bullpup, dlatego jest popularny wœród Wolnoœciowców.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] chwyt taktyczny\n \n
+		%c[d_purple] • %c[ui_gray_2] Chwyt taktyczny\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632, EOTech, C-more Railway Tactical\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
 		</text>
 	</string>
 

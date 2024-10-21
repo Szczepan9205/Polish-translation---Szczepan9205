@@ -60,13 +60,13 @@
 		<text>Pasek ekspozycji na promieniowanie</text>
 	</string>
 	<string id="ui_mcm_sidhud_radhealthshow_desc">
-		<text>Pokazuje iloœæ otrzymywanego promieniowania na pasku zdrowia, od lewej do prawej. </text>
+		<text>Pokazuje iloœæ otrzymywanego promieniowania na pasku zdrowia, od lewej do prawej.</text>
 	</string>
 	<string id="ui_mcm_sidhud_bleedingbarshow">
 		<text>Pasek krwawienia</text>
 	</string>
 	<string id="ui_mcm_sidhud_bleedingbarshow_desc">
-		<text>Pokazuje iloœæ traconej krwi na pasku wytrzyma³oœci, od lewej do prawej. </text>
+		<text>Pokazuje iloœæ traconej krwi na pasku wytrzyma³oœci, od lewej do prawej.</text>
 	</string>
 	<string id="ui_mcm_sidhud_healingbar">
 		<text>Pasek przewidywania stanu zdrowia</text>

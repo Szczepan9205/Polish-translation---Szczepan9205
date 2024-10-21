@@ -8,8 +8,8 @@
 	<string id="st_wpn_g36nimble_rwap_descr">
 		<text>G36 to zamkniêty karabin wyborowy o krótkim skoku, stworzony jako zamiennik ciê¿szego HK G3. Jest celny, niezawodny i prosty w konserwacji. Ten wariant jest wyposa¿ony w chwyt przedni, celownik laserowy i zmodyfikowany zamek dla zwiêkszenia szybkostrzelnoœci.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255]kraj produkcji: %c[ui_gray_2]Niemcy\n
-		%c[d_cyan] • %c[0,255,255,255]producent: %c[ui_gray_2]Heckler und Koch\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj produkcji: %c[ui_gray_2]Niemcy\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_2]Heckler und Koch\n
 		</text>
 	</string>
 

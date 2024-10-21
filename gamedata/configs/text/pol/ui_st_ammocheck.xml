@@ -29,13 +29,13 @@
         <text>Mniej ni¿ po³owa</text>
     </string>
     <string id="st_ac_near_empty">
-        <text>Blisko opró¿nienia</text>
+        <text>Prawie pusty</text>
     </string>
     <string id="st_ac_empty">
         <text>Pusty</text>
     </string>
     <string id="st_ac_jammed">
-        <text>Zaciêta broñ</text>
+        <text>Broñ zaciêta</text>
     </string>
     <string id="st_ac_noMag">
         <text>Brak za³adowanego magazynka</text>
@@ -49,34 +49,47 @@
     <string id="st_ac_ammoLeft">
         <text>lewy</text>
     </string>
+
+	
     <string id="ui_mcm_menu_rax_ammo_check">
-        <text>Sprawdzenie amunicji</text>
+        <text>Ammo Check</text>
     </string>
     <string id="ui_mm_title_rax_ammo_check">
-        <text>Sprawdzenie amunicji</text>
+        <text>Ammo Check</text>
     </string>
-    <string id="ui_mcm_rax_ammo_check_usecolor">
-        <text>Kolor wiadomoœci.</text>
-    </string>
-    <string id="ui_mcm_rax_ammo_check_hidecounter">
-        <text>Ukryj licznik amunicji.</text>
-    </string>
-    <string id="ui_mcm_rax_ammo_check_hideicon">
-        <text>Ukryj ikonê amunicji.</text>
-    </string>
-    <string id="ui_mcm_rax_ammo_check_busy_hands_fix">
-        <text>Fix na "zajête rêce".</text>
-    </string>
-    <string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
+
+	<string id="ui_mcm_rax_ammo_check_usecolor">
+		<text>Kolor wiadomoœci</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_hidecounter">
+		<text>Ukryj licznik amunicji</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_hideicon">
+		<text>Ukryj ikonê amunicji</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_ammo_check_busy_hands_fix">
+		<text>Fix na "Busy hands"</text>
+	</string>
+	<string id="ui_mcm_rax_ammo_check_busy_hands_fix_desc">
         <text>Zaznacz to pole, jeœli "animacja" sprawdzania amunicji zacina siê. Prawdopodobnie wyst¹pi ona po zainstalowaniu FDDA.</text>
-    </string>
-    <string id="ui_mcm_rax_ammo_check_keybind">
-        <text>Klawisz sprawdzania amunicji.</text>
-    </string>
-    <string id="ui_mcm_rax_ammo_check_keybind_desc">
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_keybind">
+		<text>Klawisz sprawdzania amunicji</text>
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_keybind_desc">
         <text>To przypisanie klawisza mo¿na skonfigurowaæ tak, aby wymaga³o dodatkowych klawiszy modyfikuj¹cych w celu z³agodzenia konfliktów z innymi klawiszami przypisanymi do innych czynnoœci.</text>
-    </string>
-    <string id="ui_mcm_rax_ammo_check_update_mcm">
+	</string>
+
+	<string id="ui_mcm_rax_ammo_check_update_mcm">
         <text>Zaktualizuj MCM, aby zmieniæ przypisanie klawisza tutaj. Domyœlnym klawiszem jest T.</text>
-    </string>
+	</string>
+
+	
+
 </string_table>

@@ -8,8 +8,8 @@
 	<string id="st_wpn_mp7_descr_new">
 		<text>Heckler und Koch MP7 (Maschinenpistole 7) to niemiecka broñ do obrony osobistej (PDW) zaprojektowana i wyprodukowana przez firmê Heckler und Koch (HK) i przystosowana do naboju HK kalibru 4,6x30 mm. Zosta³ zaprojektowany z nowym nabojem, aby spe³niæ wymagania NATO opublikowane w 1989 roku, poniewa¿ wymagania te wymagaj¹ broni palnej klasy PDW, o wiêkszej zdolnoœci penetracji pancerza ni¿ obecna broñ ograniczona do konwencjonalnych nabojów pistoletowych. MP7 wszed³ do produkcji w 2001 roku.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_cyan] • %c[0,255,255,255]celowniki: %c[0,250,250,0]Niektóre celowniki na szynê %c[d_cyan]Picatinny\n
-		%c[d_cyan] • %c[0,255,255,255]t³umik: %c[d_orange] 9 mm\n
+		%c[d_cyan] • %c[0,255,255,255]Celowniki: %c[0,250,250,0]Niektóre celowniki na szynê %c[d_cyan]Picatinny\n
+		%c[d_cyan] • %c[0,255,255,255]T³umik: %c[d_orange] dla kalibru 9 mm\n
 		</text>
 	</string>
 	

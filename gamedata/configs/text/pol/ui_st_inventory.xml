@@ -349,8 +349,8 @@
 		Œmieræ nast¹pi, jeœli wartoœæ ta osi¹gnie zero.\n
 		W GAMMA jest to odpowiednik ogólnego stanu zdrowia cia³a dla Body Health System.\n \n
 		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Apteczek\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Stimpacków
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Apteczek\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Stimpacków
 		</text>
 	</string>
 
@@ -359,10 +359,10 @@
 		%c[ui_gray_2]Poziom wytrzyma³oœci reprezentuje dostêpn¹ energiê fizyczn¹ przechowywan¹ w ciele gracza. 
 		Energia ta jest wykorzystywana do ró¿nych celów, w szczególnoœci do biegania. Powa¿na utrata wytrzyma³oœci mo¿e spowodowaæ utratê mo¿liwoœci poruszania siê. Dlatego wa¿ne jest, aby jeœæ, piæ i spaæ, aby odzyskaæ energiê, a tak¿e sprawdzaæ wagê plecaka, poniewa¿ jego iloœæ wp³ywa na szybkoœæ wyczerpania.\n \n
 		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Tabletek kofeinowych\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Zastrzyku epinefryny\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Zastrzyku glukozy\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Herkulesa
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Tabletek kofeinowych\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Zastrzyku epinefryny\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Zastrzyku glukozy\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Herkulesa
 		</text>
 	</string>
 	
@@ -372,13 +372,13 @@
 		Nara¿enie na promieniowanie jonizuj¹ce stanowi ekstremalne, byæ mo¿e nawet œmiertelne, ryzyko. Z tego powodu umiejêtnoœæ odpowiedniego pomiaru poziomu promieniowania jest niezwykle istotna.\n
 		Podstawow¹ jednostk¹ jest milisiwert (mSv).\n \n
 		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Leków przeciwpromiennych\n
-		%c[d_cyan] • %c[0,255,255,255]Cystaminy\n
-		%c[d_cyan] • %c[0,255,255,255]Jodku potasu\n
-		%c[d_cyan] • %c[0,255,255,255]Radioprotektora\n \n
+		%c[d_cyan] • %c[0,255,255,255] Leków przeciwpromiennych\n
+		%c[d_cyan] • %c[0,255,255,255] Cystaminy\n
+		%c[d_cyan] • %c[0,255,255,255] Jodku potasu\n
+		%c[d_cyan] • %c[0,255,255,255] Radioprotektora\n \n
 		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
+		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
 		</text>
 	</string>
 
@@ -386,13 +386,13 @@
 		<text>%c[0,255,255,255]ODPORNOŒÆ NA PROMIENIOWANIE:\n \n
 		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na promieniowanie:\n
 		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Leków przeciwpromiennych\n
-		%c[d_cyan] • %c[0,255,255,255]Cystaminy\n
-		%c[d_cyan] • %c[0,255,255,255]Jodku potasu\n
-		%c[d_cyan] • %c[0,255,255,255]Radioprotektora\n \n
+		%c[d_cyan] • %c[0,255,255,255] Leków przeciwpromiennych\n
+		%c[d_cyan] • %c[0,255,255,255] Cystaminy\n
+		%c[d_cyan] • %c[0,255,255,255] Jodku potasu\n
+		%c[d_cyan] • %c[0,255,255,255] Radioprotektora\n \n
 		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
+		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
 		</text>
 	</string>
 
@@ -400,8 +400,8 @@
 		<text>%c[0,255,255,255]ODPORNOŒÆ NA OPARZENIA:\n \n
 		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na typow¹ anomaliê termiczn¹ w Czarnobylskiej Strefie Wykluczenia.\n \n
 		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
+		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
 		</text> 
 	</string>
 
@@ -409,12 +409,12 @@
 		<text>%c[0,255,255,255]ODPORNOŒÆ NA CHEMIKALIA:\n \n
 		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na typowe anomalie chemiczne w Czarnobylskiej Strefie Wykluczenia.\n \n
 		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Chlortetracykliny\n
-		%c[d_cyan] • %c[0,255,255,255]Sulfadimetoksyny\n
-		%c[d_cyan] • %c[0,255,255,255]Antidotum\n \n
+		%c[d_cyan] • %c[0,255,255,255] Chlortetracykliny\n
+		%c[d_cyan] • %c[0,255,255,255] Sulfadimetoksyny\n
+		%c[d_cyan] • %c[0,255,255,255] Antidotum\n \n
 		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
+		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
 		</text>
 	</string>
 
@@ -422,8 +422,8 @@
 		<text>%c[0,255,255,255]ODPORNOŒÆ NA PORA¯ENIE ELEKTRYCZNE:\n \n
 		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na typow¹ anomaliê elektryczn¹ w Czarnobylskiej Strefie Wykluczenia.\n \n
 		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255]Masek lub aparatów oddechowych
+		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
 		</text>
 	</string>
 
@@ -431,11 +431,11 @@
 		<text>%c[0,255,255,255]ODPORNOŒÆ PSIONICZNA:\n \n
 		%c[ui_gray_2]Ta statystyka okreœla odpornoœæ gracza na pola psioniczne w Czarnobylskiej Strefie Wykluczenia.\n \n
 		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Jointa\n
-		%c[d_cyan] • %c[0,255,255,255]Etaperyzyny\n
-		%c[d_cyan] • %c[0,255,255,255]Marihuany\n
-		%c[d_cyan] • %c[0,255,255,255]Blokera psionicznego\n
-		%c[d_cyan] • %c[0,255,255,255]Tabletek nasennych
+		%c[d_cyan] • %c[0,255,255,255] Jointa\n
+		%c[d_cyan] • %c[0,255,255,255] Etaperyzyny\n
+		%c[d_cyan] • %c[0,255,255,255] Marihuany\n
+		%c[d_cyan] • %c[0,255,255,255] Blokera psionicznego\n
+		%c[d_cyan] • %c[0,255,255,255] Tabletek nasennych
 		</text>
 	</string>
 
@@ -443,14 +443,14 @@
 		<text>%c[0,255,255,255]ODPORNOŒÆ BALISTYCZNA:\n \n
 		%c[ui_gray_2]Odpornoœæ balistyczna oznacza w³aœciwoœci antybalistyczne kamizelki kuloodpornej (zdolnoœæ do bezpiecznego poch³aniania energii kinetycznej ma³ych obiektów o du¿ej prêdkoœci, takich jak pociski lub od³amki).\n
 		Do celów oceny stosuje siê uznany na ca³ym œwiecie system amerykañskiego Narodowego Instytutu Sprawiedliwoœci (NIS): \n \n
-		%c[d_cyan] • %c[0,255,255,255]TABELA GRADACJI PANCERZA:\n
-		%c[d_cyan] • %c[0,255,255,255]BRAK: %c[ui_gray_2]9x18mm, .45 ACP, 12x70 kulowe\n
-		%c[d_cyan] • %c[0,255,255,255]KLASA I: %c[ui_gray_2]9x18mm +P+, 9x19mm FMJ, 9x19mm JHP, od³amki granatu\n
-		%c[d_cyan] • %c[0,255,255,255]KLASA IIA i II: %c[ui_gray_2]9x18mm RG028, .45 HS, 5.7x28mm SS195, .357 HP, 12x76 œrut\n
-		%c[d_cyan] • %c[0,255,255,255]KLASA IIIA: %c[ui_gray_2]9x19mm AP, 5.45x39mm FMJ/EP, 5.56x45mm FMJ, 7.62x51mm NATO, 9x39mm SP-5, 12x76 Strza³kowe\n
-		%c[d_cyan] • %c[0,255,255,255]KLASA III: %c[ui_gray_2]5.56x45mm EP/AP, 7.62x39mm FMJ/AP, 7.62x54mm ZN1/PP, 7.92x57mm Mauser, 9x39mm SP-6, 12.7x55mm STs-130\n
-		%c[d_cyan] • %c[0,255,255,255]KLASA IV: %c[ui_gray_2]5.45x39mm AP, 7.62x51mm NATO AP, 7.62x54mm AP/7H14, 7.92x57mm SA, .338 Lapua Magnum, 12.7x55mm STs-130 WPS\n
-		%c[d_cyan] • %c[0,255,255,255]KLASA V (Egzoszkielet):%c[d_red] Tajne\n
+		%c[d_cyan] • %c[0,255,255,255] TABELA GRADACJI PANCERZA:\n
+		%c[d_cyan] • %c[0,255,255,255] BRAK: %c[ui_gray_2]9x18mm, .45 ACP, 12x70 kulowe\n
+		%c[d_cyan] • %c[0,255,255,255] KLASA I: %c[ui_gray_2]9x18mm +P+, 9x19mm FMJ, 9x19mm JHP, od³amki granatu\n
+		%c[d_cyan] • %c[0,255,255,255] KLASA IIA i II: %c[ui_gray_2]9x18mm RG028, .45 HS, 5.7x28mm SS195, .357 HP, 12x76 œrut\n
+		%c[d_cyan] • %c[0,255,255,255] KLASA IIIA: %c[ui_gray_2]9x19mm AP, 5.45x39mm FMJ/EP, 5.56x45mm FMJ, 7.62x51mm NATO, 9x39mm SP-5, 12x76 Strza³kowe\n
+		%c[d_cyan] • %c[0,255,255,255] KLASA III: %c[ui_gray_2]5.56x45mm EP/AP, 7.62x39mm FMJ/AP, 7.62x54mm ZN1/PP, 7.92x57mm Mauser, 9x39mm SP-6, 12.7x55mm STs-130\n
+		%c[d_cyan] • %c[0,255,255,255] KLASA IV: %c[ui_gray_2]5.45x39mm AP, 7.62x51mm NATO AP, 7.62x54mm AP/7H14, 7.92x57mm SA, .338 Lapua Magnum, 12.7x55mm STs-130 WPS\n
+		%c[d_cyan] • %c[0,255,255,255] KLASA V (Egzoszkielet):%c[d_red] Tajne\n
 		%c[0,255,255,255]UWAGA:\n
 		%c[ui_gray_2]Powy¿sze poziomy ochrony odnosz¹ siê wy³¹cznie do w³aœciwoœci przeciwprzenikaniowych pancerza.\n
 		Uderzenie pocisku nadal jest w stanie zadaæ obra¿enia poprzez têpy uraz spowodowany czyst¹ energi¹ kinetyczn¹.\n
@@ -462,7 +462,7 @@
 		%c[ui_gray_2]Odpornoœæ na zadrapania reprezentuje zdolnoœæ pancerza do poch³aniania i przemieszczania urazów spowodowanych wszelkiego rodzaju fizycznymi ciosami i uderzeniami.\n
 		Obejmuj¹ one - ale nie ograniczaj¹ siê do - prób ciosów, kopniêæ, pchniêæ, ciêæ, ugryzieñ i telekinetycznie rzucanych od³amków.\n \n
 		%c[0,255,255,255]Przydatny sprzêt: %c[ui_gray_2](nie ogranicza siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Kombinezonów ochronnych\n
+		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
 		</text>
 	</string>
 
@@ -470,9 +470,9 @@
 		<text>%c[0,255,255,255]KRWAWIENIE:\n \n
 		%c[ui_gray_2]Krwawienie mo¿e wyczerpywaæ si³y witalne w bardzo szybkim tempie, jeœli nie jest szybko leczone. Krwawi¹ce rany s¹ najczêœciej wynikiem dzia³ania zewnêtrznej si³y fizycznej, która przebi³a pancerz i rozerwa³a skórê, a czasami towarzysz¹ im uszkodzenia narz¹dów wewnêtrznych. Krwawienie mo¿e byæ równie¿ efektem otwartych z³amañ koœci spowodowanych têpym urazem.\n
 		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczaj¹ siê do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255]Banda¿y\n
-		%c[d_cyan] • %c[0,255,255,255]Opaski uciskowej\n
-		%c[d_cyan] • %c[0,255,255,255]Barwinka
+		%c[d_cyan] • %c[0,255,255,255] Banda¿y\n
+		%c[d_cyan] • %c[0,255,255,255] Opaski uciskowej\n
+		%c[d_cyan] • %c[0,255,255,255] Barwinka
 		</text>
 	</string>
 	
@@ -485,48 +485,48 @@
 	</string>
 	
 	<string id="st_cap_upgr_1">
-		<text>(podstawowe)</text>
+		<text>(podstawowy)</text>
 	</string>
 	<string id="st_cap_upgr_2">
-		<text>(zaawansowane)</text>
+		<text>(zaawansowany)</text>
 	</string>
 	<string id="st_cap_upgr_3">
-		<text>(kalibracyjne)</text>
+		<text>(precyzyjny)</text>
 	</string>
 	
 	<string id="st_cap_meal_1">
 		<text>(wyprod. w Zonie)</text>
 	</string>
 	<string id="st_cap_meal_2">
-		<text>(duszone)</text>
+		<text>(dusz.)</text>
 	</string>
 	<string id="st_cap_meal_3">
-		<text>(oczyszczone)</text>
+		<text>(oczyszcz.)</text>
 	</string>
 	
 	<string id="st_cap_con_25_o">
-		<text>podarte</text>
+		<text>Podarte</text>
 	</string>
 	<string id="st_cap_con_50_o">
-		<text>uszkodzone</text>
+		<text>Uszkodzone</text>
 	</string>
 	<string id="st_cap_con_75_o">
-		<text>podrapane</text>
+		<text>Podrapane</text>
 	</string>
 	<string id="st_cap_con_100_o">
-		<text>czyste</text>
+		<text>Czyste</text>
 	</string>
 	<string id="st_cap_con_25_w">
-		<text>zdeformowane</text>
+		<text>Zdeformowane</text>
 	</string>
 	<string id="st_cap_con_50_w">
-		<text>uszkodzone</text>
+		<text>Uszkodzone</text>
 	</string>
 	<string id="st_cap_con_75_w">
-		<text>podrapane</text>
+		<text>Podrapane</text>
 	</string>
 	<string id="st_cap_con_100_w">
-		<text>funkcjonalne</text>
+		<text>Funkcjonalne</text>
 	</string>
 
 	<string id="st_ui_armor_static">
@@ -593,7 +593,7 @@
 		<text>Redukcja uderzenia</text>
 	</string>
 	<string id="ui_inv_satiety">
-		<text>Zaspokoj. g³odu</text>
+		<text>Zaspokoj. g³odu:</text>
 	</string>
 	<string id="ui_inv_outfit_power_restore">
 		<text>Odzyskiwanie energii</text>
@@ -639,31 +639,31 @@
 		<text>zawiera</text>
 	</string>
 	<string id="st_itm_desc_state_avail_workshop">
-		<text>dostêpne (pos. przez technika)</text>
+		<text>Dostêpne (u technika)</text>
 	</string>
 	<string id="st_itm_desc_state_not_avail">
-		<text>niedostêpne</text>
+		<text>Niedostêpne</text>
 	</string>
 	<string id="st_itm_desc_state_not_included">
 		<text>nie zawiera</text>
 	</string>
 	<string id="st_itm_desc_state_low">
-		<text>niski</text>
+		<text>Niski</text>
 	</string>
 	<string id="st_itm_desc_state_average">
-		<text>œredni</text>
+		<text>Œredni</text>
 	</string>
 	<string id="st_itm_desc_state_high">
-		<text>wysoki</text>
+		<text>Wysoki</text>
 	</string>
 	<string id="st_itm_desc_state_slight">
-		<text>nieznaczny</text>
+		<text>Nieznaczny</text>
 	</string>
 	<string id="st_itm_desc_state_moderate">
-		<text>œredni</text>
+		<text>Umiarkowany</text>
 	</string>
 	<string id="st_itm_desc_state_significant">
-		<text>znacz¹cy</text>
+		<text>Znacz¹cy</text>
 	</string>
 	<string id="st_itm_desc_state_increase">
 		<text>wzrost</text>
@@ -673,14 +673,14 @@
 	</string>
 	
 	<string id="st_itm_desc_arty_cont">
-		<text>zawiera artefakt</text>
+		<text>Zawiera artefakt</text>
 	</string>
 	<string id="st_itm_desc_arty_cont_rad">
-		<text>dopuszczalny poz. promieniowania</text>
+		<text>Dopuszczalny poz. promieniowania</text>
 	</string>
 	
 	<string id="st_itm_desc_eat_sleepiness">
-		<text>%s %s sennoœci </text>
+		<text>%s %s sennoœci</text>
 	</string>
 	<string id="st_itm_desc_eat_thirst">
 		<text>%s %s pragnienia</text>
@@ -689,23 +689,23 @@
 		<text>%c[0,255,255,255]Ska¿enie promieniotwórcze</text>
 	</string>
 	<string id="st_itm_desc_eat_health">
-		<text>niezdrowe</text>
+		<text>Niezdrowy produkt lub przedmiot</text>
 	</string>
 	
 	<string id="st_itm_desc_outfit_upgradable">
-		<text>ulepszalne</text>
+		<text>Ulepszalne</text>
 	</string>
 	<string id="st_itm_desc_outfit_heardgear">
 		<text>%c[0,255,255,255]He³m</text>
 	</string>
 	<string id="st_itm_desc_outfit_num_of_slots">
-		<text>iloœæ zaczepów na pasie</text>
+		<text>Iloœæ zaczepów na pasie</text>
 	</string>
 	<string id="st_itm_desc_outfit_carry_weight">
-		<text>wzrost udŸwigu o</text>
+		<text>Wzrost udŸwigu o</text>
 	</string>
 	<string id="st_itm_desc_outfit_run">
-		<text>%c[0,255,255,255]bieganie:</text>
+		<text>%c[0,255,255,255]Mo¿liwoœæ biegania:</text>
 	</string>
 	<string id="st_itm_desc_outfit_patch_torn">
 		<text>%s zosta³a zerwana z tego kombinezonu</text>
@@ -722,39 +722,39 @@
 	</string>
 	
 	<string id="st_itm_desc_workshop_tool">
-		<text>u¿yteczny w warsztatach do wymiany czêœci i ulepszeñ</text>
+		<text>U¿yteczny w warsztatach do wymiany czêœci i ulepszeñ</text>
 	</string>
 	<string id="st_itm_desc_repair_min_con">
-		<text>nieprzydatny poni¿ej stanu</text>
+		<text>Nieprzydatny poni¿ej stanu</text>
 	</string>
 	<string id="st_itm_desc_repair_base_con">
 		<text>%c[0,255,255,255]Poprawa stanu o</text>
 	</string>
 	<string id="st_itm_desc_repair_match">
-		<text>naprawia materia³y z u¿yciem odpowiedników</text>
+		<text>Naprawia materia³y z u¿yciem odpowiedników</text>
 	</string>
 	
 	<string id="st_itm_desc_part_usable">
-		<text>u¿yteczny w warsztatach do wymiany czêœci</text>
+		<text>U¿yteczny w warsztatach do wymiany czêœci</text>
 	</string>
 	<string id="st_itm_desc_part_i">
-		<text>komponent bazowy</text>
+		<text>Komponent bazowy</text>
 	</string>
 	<string id="st_itm_desc_part_w">
-		<text>element broni</text>
+		<text>Element broni</text>
 	</string>
 	<string id="st_itm_desc_part_o">
-		<text>element kombinezonu</text>
+		<text>Element kombinezonu</text>
 	</string>
 	
 	<string id="st_itm_desc_upgr_w">
-		<text>ulepszenie broni</text>
+		<text>Ulepszenie broni</text>
 	</string>
 	<string id="st_itm_desc_upgr_o">
-		<text>ulepszenie kombinezonu</text>
+		<text>Ulepszenie kombinezonu</text>
 	</string>
 	<string id="st_itm_desc_upgr_usable">
-		<text>u¿yteczny w warsztatach do instalowania odpowiednich ulepszeñ</text>
+		<text>U¿yteczny w warsztatach do instalowania odpowiednich ulepszeñ</text>
 	</string>
 
 <!-- Others -->
@@ -1020,10 +1020,10 @@
 		<text>Nieu¿yteczne poni¿ej stanu</text>
 	</string>
 	<string id="st_ui_repair_bonus">
-		<text>bonus naprawczy</text>
+		<text>Bonus naprawczy</text>
 	</string>
 	<string id="st_ui_power_loss">
-		<text>utrata energii</text>
+		<text>Utrata energii</text>
 	</string>
 	<string id="st_ui_number_of_uses">
 		<text>U¿ycia</text>
@@ -1032,22 +1032,22 @@
 		<text>Mo¿na po³¹czyæ z</text>
 	</string>
 	<string id="st_ui_power">
-		<text>%c[0,255,255,255]Energia:</text>
+		<text>%c[0,255,255,255]Moc</text>
 	</string>
 	<string id="st_ui_amount">
 		<text>Iloœæ</text>
 	</string>
 	<string id="st_ui_power_consumption">
-		<text>%c[0,255,255,255]Zu¿ycie energii:</text>
+		<text>%c[0,255,255,255]Zu¿ycie energii</text>
 	</string>
 	<string id="st_ui_info">
-		<text>info</text>
+		<text>Informacje</text>
 	</string>
 	<string id="st_ui_inventory_unpack">
-		<text>wypakuj</text>
+		<text>Wypakuj</text>
 	</string>
 	<string id="st_ui_inventory_attach">
-		<text>zaczep</text>
+		<text>Zaczep</text>
 	</string>
 	<string id="st_ui_inventory_view">
 		<text>Poka¿</text>
@@ -1059,10 +1059,10 @@
 		<text>Umieœæ w pojemniku</text>
 	</string>
 	<string id="st_imm_swiss_open">
-		<text>otwórz puszkê</text>
+		<text>Otwórz puszkê</text>
 	</string>
 	<string id="st_item_place">
-		<text>umieœæ</text>
+		<text>Umieœæ</text>
 	</string>
 	<string id="st_cap_companion_inv">
 		<text>Zamieñ przedmioty</text>
@@ -1279,7 +1279,7 @@
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_upgr_2">
-		<text>EKa¿de ulepszenie wymaga, oprócz "%s" niezbêdnych, konkretnego zestawu narzêdzi odpowiedniego typu.\n
+		<text>Ka¿de ulepszenie wymaga, oprócz "%s" niezbêdnych, konkretnego zestawu narzêdzi odpowiedniego typu.\n
 		Do w³aœciwego monta¿u ulepszenia konieczne jest spe³nienie dodatkowych warunków w odpowiedniej kolejnoœci.\n
 		Kliknij w ulepszenie, które chcesz zainstalowaæ w wybranym przedmiocie.\n
 		Jeœli ulepszenie jest nieaktywne, najedŸ na nie kursorem by sprawdziæ brakuj¹ce wymagania.

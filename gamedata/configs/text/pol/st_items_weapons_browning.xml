@@ -10,7 +10,7 @@
 	<string id="st_wpn_browning_p35_descr">
 		<text>Browning Hi-Power to pó³automatyczny pistolet kalibru 9 mm o pojedynczym dzia³aniu. Jest on oparty na pomys³ach amerykañskiego wynalazcy broni palnej Johna Browninga, stworzony i opatentowany w 1922 roku, póŸniej opatentowany przez FN Herstal. Browning zmar³ w 1926 roku, zanim ukoñczy³ prace nad wersj¹ produkcyjn¹, ale projektant broni FN Dieudonne Saive w pe³ni j¹ rozwin¹³. Pistolet Hi-Power wyró¿nia³ siê 13-nabojowym magazynkiem, dwukrotnie wiêkszym od wspó³czesnych konstrukcji, takich jak Luger czy Mauser 1910. Niebieskie wykoñczenie i "lufowe przyrz¹dy celownicze" wyraŸnie wskazuj¹, ¿e jest to klasyczny, oryginalny P-35 wyprodukowany w Belgii. \n \n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik 9x19 (po modyfikacji)</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9x19 mm (po modyfikacji)</text>
 	</string>
 
 	<string id="st_wpn_browning_mk3">
@@ -19,7 +19,7 @@
 	<string id="st_wpn_browning_mk3_descr">
 		<text>Browning Hi-Power Mark III to modernizacja klasycznego Browninga HP, wyprodukowana w 1988 roku. Jest to równie¿ standardowy pistolet Australijskich Si³ Obronnych. Du¿¹ zmian¹ jest tutaj lepsza niezawodnoœæ, której oryginalny Browning niestety bardzo potrzebowa³, a tak¿e lepsze przyrz¹dy celownicze, ulepszona akcja oraz poprawiony odrzut. Jeœli chodzi o Zonê, jest to klasyczny pistolet, wszechstronny, prawie ka¿da frakcja u¿ywa³a go przed Pierwszym Oblê¿eniem Czarnobyla, ale o dziwo podczas Drugiego Oblê¿enia Czarnobyla by³ niezwykle rzadki, a¿ w koñcu pojawi³ siê nowa du¿a dostawa po podró¿y w Drogê na Pó³noc. \n \n
 		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik 9x19 (po modyfikacji)</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9x19 mm (po modyfikacji)</text>
 	</string>
 
 -->	

@@ -4,72 +4,67 @@
 	
 -->
 <string_table>
-
+	<string id="ui_mcm_scop_title">
+		<text>Ustawienia Scope HUD</text>
+	</string>
+	<string id="ui_mcm_menu_scop">
+		<text>HUD celowników</text>
+	</string>
 	<string id="ui_mcm_scop_iron_fov">
 		<text>Celowniki i wbudowane przyrz¹dy celownicze 3D</text>
 	</string>
 	<string id="ui_mcm_scop_iron_fov_desc">
-		<text>Ni¿sze wartoœci przybli¿aj¹ celownik podczas korzystania z celowników i wbudowanych celowników 3D</text>
+		<text>Ni¿sze wartoœci przybli¿aj¹ celownik podczas korzystania z celowników i wbudowanych celowników 3D.</text>
 	</string>
-
 	<string id="ui_mcm_scop_scope_fov">
 		<text>Przyrz¹dy celownicze 3D</text>
 	</string>
 	<string id="ui_mcm_scop_scope_fov_desc">
 		<text>Ni¿sze wartoœci przybli¿aj¹ broñ podczas korzystania z celowników 3D</text>
 	</string>
-
 	<string id="ui_mcm_scop_bad_scope_fov">
 		<text>Inne celowniki 3D</text>
 	</string>
 	<string id="ui_mcm_scop_bad_scope_fov_desc">
 		<text>Niektóre celowniki, takie jak ACOG, Susat, musz¹ byæ domyœlnie ustawione dalej, aby wygl¹da³y normalnie, ze wzglêdu na ograniczenia techniczne.</text>
 	</string>
-
 	<string id="ui_mcm_scop_pistol_fov">
 		<text>Pistolety</text>
 	</string>
 	<string id="ui_mcm_scop_pistol_fov_desc">
-		<text>Suwak do regulacji powiêkszenia celownika pistoletu</text>
+		<text>Suwak do regulacji powiêkszenia celownika pistoletu.</text>
 	</string>
-
 	<string id="ui_mcm_scop_grenade_fov">
 		<text>Granatnik podlufowy</text>
 	</string>
 	<string id="ui_mcm_scop_grenade_fov_desc">
-		<text>Ni¿sze wartoœci przybli¿aj¹ granatnik</text>
+		<text>Ni¿sze wartoœci przybli¿aj¹ celownik podczas korzystania z granatnika.</text>
 	</string>
-
 	<string id="ui_mcm_scop_alt_fov">
 		<text>Alternatywne celowniki</text>
 	</string>
 	<string id="ui_mcm_scop_alt_fov_desc">
-		<text>Ni¿sze wartoœci przybli¿aj¹ celownik podczas korzystania z alternatywnych przyrz¹dów celowniczych</text>
+		<text>Ni¿sze wartoœci przybli¿aj¹ celownik podczas korzystania z alternatywnych przyrz¹dów celowniczych.</text>
 	</string>
-	
 	<string id="ui_mcm_scop_keybind_add">
 		<text>Usuñ broñ</text>
 	</string>
 	<string id="ui_mcm_scop_keybind_add_desc">
 		<text>Usuwa broñ, któr¹ trzymasz, zwiêkszaj¹c FOV HUD-u</text>
 	</string>
-	
 	<string id="ui_mcm_scop_keybind_subtract">
 		<text>Preferowana broñ</text>
 	</string>
 	<string id="ui_mcm_scop_keybind_subtract_desc">
-		<text>Reflektuje broñ, któr¹ trzymasz, redukuj¹c FOV HUD-u</text>
+		<text>Przybli¿a trzyman¹ broñ, redukuj¹c FOV HUD-u.</text>
 	</string>
-	
 	<string id="ui_mcm_scop_keybind_reset">
 		<text>Resetuj bie¿¹c¹ broñ</text>
 	</string>
 	<string id="ui_mcm_scop_keybind_reset_desc">
 		<text>Przywraca normalny widok na ekranie trzymanej broni.</text>
 	</string>
-
 	<string id="ui_mcm_scop_snk_update_mcm">
 		<text>Zaktualizuj MCM, aby zobaczyæ tê funkcjê. Domyœlnie Numpad + i - oraz klawisz Backspace, aby zresetowaæ bie¿¹c¹ broñ</text>
 	</string>
-
 </string_table>

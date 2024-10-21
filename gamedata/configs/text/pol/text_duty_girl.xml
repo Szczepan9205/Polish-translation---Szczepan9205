@@ -13,7 +13,7 @@
 		<text>Oczywiœcie, prowadŸ.</text>
 	</string>
 	<string id="duty_girl_companion_join_2">
-		<text>A z ni¹ nie bawisz siê dobrze? Wybacz, jestem teraz zajêta.</text>
+		<text>A z ni¹ nie bawisz siê lepiej? Wybacz, jestem teraz zajêta.</text>
 	</string>
 	
 	<string id="duty_girl_companion_leave_0">
@@ -29,7 +29,7 @@
 		<text>Niewa¿ne. Po namyœle, we dwójkê bêdzie raŸniej.</text>
 	</string>
 	<string id="duty_girl_companion_leave_4">
-		<text>W porz¹dku. Udanych ³owów. Wrócê do Rostoku. Pamiêtaj, by wpadaæ od czasu do czasu.</text>
+		<text>W porz¹dku, udanych ³owów! Wrócê teraz do Baru. Pamiêtaj, by wpaœæ do mnie od czasu do czasu.</text>
 	</string>
 	
 	<string id="duty_girl_actor_ask_companion_0">
@@ -42,7 +42,7 @@
 		<text>Moja obecnoœæ mo¿e przekonaæ ukraiñskie wojsko, by zostawili cie w spokoju. Ale nie próbuj niczego g³upiego bo nie pomogê ci, jeœli ich wkurzysz. W zamian upewnij siê, ¿e anarchiœci i najemnicy nie bêd¹ sprawiali mi k³opotów. Wtedy myœlê, ze mo¿emy siê dogadaæ.</text>
 	</string>
 	<string id="duty_girl_actor_ask_companion_1_army">
-		<text>Mogê przekonaæ wolnych stalkerów i cz³onków Czystego Nieba, ¿e nie jesteœ zagro¿eniem, ale ty tez zachowuj siê odpowiednio. Nie pomogê ci, jeœli ich wkurzysz. Wtedy myœlê, ze mo¿emy siê dogadaæ.</text>
+		<text>Mogê przekonaæ wolnych stalkerów i cz³onków Czystego Nieba, ¿e nie jesteœ zagro¿eniem, ale ty te¿ odpowiednio siê zachowuj. Nie pomogê ci, jeœli ich wkurzysz. Wtedy myœlê, ze mo¿emy siê dogadaæ.</text>
 	</string>
 	<string id="duty_girl_actor_ask_companion_1_ecol">
 		<text>Nie masz zbyt wielu wrogów, co? Myœlê, ze mo¿emy siê dogadaæ, jeœli przekonasz anarchistów i najemników, by mnie nie atakowali.</text>
@@ -52,7 +52,7 @@
 		<text>Najlepiej zaopatrzmy siê w wiêcej amunicji, kiedy bêdziemy mogli.</text>
 	</string>
 	<string id="duty_girl_companion_random_chat_2">
-		<text>Wiesz, móg³byœ opuœciæ Zonê... Ustatkowaæ siê, zacz¹æ od nowa, poœlubiæ dziewczynê...</text>
+		<text>Wiesz, móg³byœ opuœciæ Zonê... Ustatkowaæ siê, zacz¹æ od nowa, poœlubiæ jak¹œ dziewczynê...</text>
 	</string>
 	
 	<string id="duty_girl_companion_random_chat_special_1">
@@ -62,19 +62,19 @@
 		<text>Masz oznaki napromieniowania. Wszystko w porz¹dku?</text>
 	</string>
 	<string id="duty_girl_companion_random_chat_special_3">
-		<text>Nowy dzieñ, a my wci¹¿ ¿yjemy. To œwietnie.</text>
+		<text>Nowy dzieñ, a my wci¹¿ ¿yjemy. To œwietnie!</text>
 	</string>
 	<string id="duty_girl_companion_random_chat_special_4">
-		<text>Mamy ju¿ poranek. Czas skopaæ ty³ki mutantom.</text>
+		<text>Mamy ju¿ poranek. Czas skopaæ ty³ki mutantom!</text>
 	</string>
 	<string id="duty_girl_companion_random_chat_special_5">
-		<text>Dzieñ dobry. Chyba ci wolnoœciowcy wci¹¿ œni¹ o pijawkach.</text>
+		<text>Dzieñ dobry! Ci wolnoœciowcy chyba wci¹¿ œni¹ o pijawkach.</text>
 	</string>
 	<string id="duty_girl_companion_random_chat_special_6">
-		<text>Nadchodzi noc. Zona jest teraz jeszcze bardziej niebezpieczna, ale dziêki temu mamy szanse.</text>
+		<text>Nadchodzi noc... Zona jest teraz jeszcze bardziej niebezpieczna, ale dziêki temu mamy szanse.</text>
 	</string>
 	<string id="duty_girl_companion_random_chat_special_7">
-		<text>Zapada noc. Powinniœmy chwilê odpocz¹æ?</text>
+		<text>Zapada noc. Chyba powinniœmy chwilê odpocz¹æ, co?</text>
 	</string>
 	<string id="duty_girl_companion_random_chat_special_8">
 		<text>Ile mutantów dzisiaj zabi³aœ?</text>
@@ -95,28 +95,28 @@
 		<text>Chcia³aœ zabiæ t¹ chimerê. To z powodu twojego ojca?</text>
 	</string>
 	<string id="duty_girl_chat_hunting_chimera_1">
-		<text>W pewnym sensie, tak. Wiesz, wiêkszoœæ cz³onków Powinnoœci, w tym ja, to ci, którzy stracili w Zonie przyjació³ lub rodzinê. Takich wspomnieñ ³atwo siê nie zapomina.</text>
+		<text>W pewnym sensie, tak. Wiesz, wiêkszoœæ cz³onków Powinnoœci, w tym ja, to ci, którzy stracili w Zonie przyjació³ lub rodzinê. Takich rzeczy ³atwo siê nie zapomina...</text>
 	</string>
 	
 	<string id="duty_girl_chat_monolith_elite_0">
 		<text>Ci ludzie wydaja siê s³uchaæ twoich rozkazów.</text>
 	</string>
 	<string id="duty_girl_chat_monolith_elite_1">
-		<text>Znam siê na medycynie i zazwyczaj pomagam rannym, wiec wydaja siê mnie lubiæ. A mo¿e nie jestem tak surowa jak inni oficerowie Powinnoœci.</text>
+		<text>Znam siê na medycynie i zazwyczaj pomagam rannym, wiêc wydaj¹ siê mnie lubiæ. A mo¿e nie jestem tak surowa jak inni oficerowie Powinnoœci?</text>
 	</string>
 		
 	<string id="duty_girl_chat_capture_the_brirge_0">
 		<text>Dlaczego Monolit chcia³ zablokowaæ drogê? </text>
 	</string>
 	<string id="duty_girl_chat_capture_the_brirge_1">
-		<text>Bo to Monolit. Zawsze bêd¹ chcieli uniemo¿liwiæ ludziom dotarcie do centrum Zonie. Myœlê, ze ci, z którymi walczyliœmy, byli œwie¿ymi ofiarami Mózgozweglacza. Doœwiadczeni stalkerzy i tak bêd¹ zapewne próbowali udaæ siê za Zwêglacz, by dotrzeæ do centrum Strefy. Wiele rzeczy mo¿e siê wydarzyæ, ataki mutantów, które zniszcz¹ ich sprzêt, niezdolnoœæ do przekroczenia pola psi na czas itp. Ta droga jest niebezpieczna, ale jednoczeœnie prowadzi do nowych obszarów, które nie zosta³y jeszcze przez nikogo przeskanowane.</text>
+		<text>Bo to Monolit... Zawsze bêd¹ chcieli uniemo¿liwiæ ludziom dotarcie do centrum Zony. Myœlê, ¿e ci, z którymi walczyliœmy, byli œwie¿ymi ofiarami Mózgozweglacza. Doœwiadczeni stalkerzy i tak bêd¹ zapewne próbowali udaæ siê za Zwêglacz, by dotrzeæ do centrum... Wiele rzeczy mo¿e siê tam wydarzyæ - ataki mutantów, które zniszcz¹ ich sprzêt, niezdolnoœæ do przekroczenia pola psionicznego na czas itp. Ta droga jest niebezpieczna, ale jednoczeœnie prowadzi do nowych obszarów, które nie zosta³y jeszcze przez nikogo zbadane.</text>
 	</string>
 	
 	<string id="duty_girl_chat_capture_the_brirge_2">
 		<text>Zauwa¿y³em, ¿e do walki na moœcie do³¹czy³o do nas kilku wolnych stalkerów.</text>
 	</string>
 	<string id="duty_girl_chat_capture_the_brirge_3">
-		<text>Mo¿e wp³ynê³a na nich nasza próba ponownego otwarcia szlaku, gdy ich przyjaciele utknêli na pó³nocy, wiêc przyszli z pomoc¹. A mo¿e po prostu przyszli po nagrodê? Niezale¿nie od tego, ka¿da pomoc jest mile widziana.</text>
+		<text>Mo¿e wp³ynê³a na nich nasza próba ponownego otwarcia szlaku, gdy ich przyjaciele utknêli na pó³nocy, wiêc przyszli z pomoc¹? A mo¿e po prostu zrobili to dla nagrody? Niezale¿nie od tego, ka¿da pomoc jest mile widziana.</text>
 	</string>
 	
 <!----------------------------------------------------------------------------------------------------
@@ -132,20 +132,20 @@
 		<text>Nie widzia³em ciê wczeœniej. Jesteœ nowym rekrutem?</text>
 	</string>
 	<string id="duty_girl_first_meet_3">
-		<text>Do³¹czy³am do Powinnoœci rok temu, w czasie rekrutacji terenowej. Mój ojciec by³ wolnym stalkerem, a ja przebywa³am w Zonie razem z nim. Pewnego dnia zostaliœmy zaatakowani przez chimerê. Uda³o mi siê prze¿yæ, chowaj¹c siê w kabinie ciê¿arówki, ale jemu siê nie uda³o. Zgin¹³, próbuj¹c mnie chroniæ. Oddzia³ Powinnoœci odnalaz³ mnie i uratowa³, do³¹czy³am wiêc do nich, poniewa¿ nie mia³am dok¹d pójœæ i chcia³am zemœciæ siê za ojca. Od tego czasu szkolê siê i walczê u ich boku. Teraz nasza misja dobieg³a koñca, wracajmy do bazy i czekajmy na kolejne rozkazy.</text>
+		<text>Do³¹czy³am do Powinnoœci rok temu, w czasie rekrutacji terenowej. Mój ojciec by³ wolnym stalkerem, a ja przebywa³am w Zonie razem z nim. Pewnego dnia zostaliœmy zaatakowani przez chimerê. Uda³o mi siê prze¿yæ, chowaj¹c siê w kabinie ciê¿arówki, ale jemu siê nie uda³o. Zgin¹³, próbuj¹c mnie chroniæ. Oddzia³ Powinnoœci odnalaz³ mnie i uratowa³, do³¹czy³am wiêc do nich, poniewa¿ nie mia³am dok¹d pójœæ i chcia³am zemœciæ siê za ojca. Od tego czasu szkolê siê i walczê u ich boku. Teraz nasza misja dobieg³a koñca... Wracajmy do bazy i czekajmy na kolejne rozkazy.</text>
 	</string>
 	<string id="duty_girl_first_meet_4">
-		<text>Co za smutna historia. Przykro mi to s³yszeæ.</text>
+		<text>Co za smutna historia... Przykro mi to s³yszeæ.</text>
 	</string>
 	<string id="duty_girl_first_meet_5">
-		<text>To nic... Hej, to ty ostatnio krêci³eœ siê tutaj i pyta³eœ o pracê, prawda? Jestem obecnie odpowiedzialna za pewne specjalne operacje Powinnoœci. Jeœli potrzebujesz pracy, coœ siê dla ciebie znajdzie.</text>
+		<text>To nic... Hej, to ty ostatnio krêci³eœ siê tutaj i pyta³eœ o pracê, prawda? Jestem obecnie odpowiedzialna za pewne specjalne operacje Powinnoœci. Jeœli potrzebujesz pracy to coœ siê dla ciebie znajdzie.</text>
 	</string>
 	
 	<string id="duty_girl_hunting_chimera_init_0">
 		<text>Masz jak¹œ pracê, z któr¹ mogê ci pomóc?</text>
 	</string>
 	<string id="duty_girl_hunting_chimera_init_1">
-		<text>Idê teraz na polowanie. Pewna chimera od jakiegoœ czasu niepokoi Barmana. Do³¹cz do mnie, a podzielê siê z tob¹ po³ow¹ nagrody. Do zobaczenia na Pchlim Targu.</text>
+		<text>Idê teraz na polowanie. Pewna chimera od jakiegoœ czasu niepokoi Barmana. Do³¹cz do mnie, a podzielê siê z tob¹ po³ow¹ nagrody. Do zobaczenia na Pchlim Targu!</text>
 	</string>
 	
 	
@@ -153,11 +153,11 @@
 		<text>Jestem gotowy.</text>
 	</string>
 	<string id="duty_girl_hunting_chimera_move_1">
-		<text>Widzia³am, jak ta chimera goni³a bandytów z daleka. Cieszê siê, ¿e ciê widzê! To polowanie jest dla mnie wa¿nym, a gdybyœ nie przyszed³ z pomoc¹ musia³abym porzuciæ to zadanie... Chimera musia³a ju¿ wróciæ do swojego legowiska. IdŸ za mn¹ i trzymaj siê blisko.</text>
+		<text>Cieszê siê, ¿e ciê widzê! Widzia³am z daleka, jak ta chimera goni³a bandytów... To polowanie jest dla mnie bardzo wa¿ne, a gdybyœ nie przyszed³ z pomoc¹ musia³abym porzuciæ to zadanie... Chimera musia³a ju¿ wróciæ do swojego legowiska. IdŸ za mn¹ i trzymaj siê blisko.</text>
 	</string>
 	
 	<string id="duty_girl_hunting_chimera_hunt_1">
-		<text>Spójrz. To czarna chimera.</text>
+		<text>Spójrz! To czarna chimera...</text>
 	</string>
 	<string id="duty_girl_hunting_chimera_hunt_2">
 		<text>Na razie nas nie zauwa¿y³a. To dobrze...</text>
@@ -173,7 +173,7 @@
 		<text>Chimera nie ¿yje.</text>
 	</string>
 	<string id="duty_girl_hunting_chimera_done_1">
-		<text>Jesteœ twardszy ni¿ myœla³am. Szukam zaufanych ludzi do pomocy z jednym z moich zadañ, a ty wydajesz siê byæ dobrym kandydatem. Wyjaœniê ci wszystko szczegó³owo, ale myœlê, ¿e powinieneœ zorganizowaæ sobie lepszy sprzêt. Masz, trzymaj nagrodê.</text>
+		<text>Jesteœ twardszy ni¿ myœla³am! Szukam zaufanych ludzi do pomocy z jednym z moich zadañ, a ty wydajesz siê byæ dobrym kandydatem. Wyjaœniê ci wszystko szczegó³owo, ale myœlê, ¿e powinieneœ zorganizowaæ sobie lepszy sprzêt. Masz, trzymaj nagrodê.</text>
 	</string>
 	
 	
@@ -181,24 +181,24 @@
 		<text>Masz jak¹œ pracê, z któr¹ mogê ci pomóc?</text>
 	</string>
 	<string id="duty_girl_monolith_elite_init_1">
-		<text>Tak, mam coœ. Obawiam siê, ¿e to doœæ niebezpieczna robota - niedawno grupa monolitowców pojawi³a siê w Magazynach Wojskowych, blokuj¹c drogê do Czerwonego Lasu. To nie s¹ byle jacy monolitowcy, nasi zwiadowcy donieœli, ¿e s¹ bardzo dobrze uzbrojeni. Stalkerzy prosz¹ o ponowne otwarcie szlaku, wiêc oto nasze zadanie. Spotkamy siê w opuszczonym domu w Magazynach Wojskowych. Do zobaczenia.</text>
+		<text>Tak, mam coœ. Obawiam siê, ¿e to doœæ niebezpieczna robota - niedawno grupa monolitowców pojawi³a siê w Magazynach Wojskowych, blokuj¹c drogê do Czerwonego Lasu. To nie s¹ byle jacy monolitowcy - nasi zwiadowcy donieœli, ¿e s¹ bardzo dobrze uzbrojeni. Stalkerzy prosz¹ o ponowne otwarcie szlaku, wiêc oto nasze zadanie. Spotkamy siê w opuszczonym domu w Magazynach Wojskowych. Do zobaczenia.</text>
 	</string>
 	
 	<string id="duty_girl_monolith_elite_join_0">
 		<text>Jestem tu, ¿eby ci pomóc.</text>
 	</string>
 	<string id="duty_girl_monolith_elite_join_1">
-		<text>Dobrze ciê widzieæ. Oto twoje zapasy. Przygotuj siê i powiedz mi, kiedy bêdziesz gotowy.</text>
+		<text>Dobrze ciê widzieæ! Oto twoje zapasy, przygotuj siê i daj mi znaæ, kiedy bêdziesz gotowy.</text>
 	</string>
 	<string id="duty_girl_monolith_elite_join_2">
 		<text>Jestem gotowy.</text>
 	</string>
 	
 	<string id="duty_girl_monolith_elite_move_1">
-		<text>Zapnij pasy. To nie bêdzie ³atwa robota.</text>
+		<text>Zapnij pasy. To nie bêdzie ³atwa robota...</text>
 	</string>
 	<string id="duty_girl_monolith_elite_move_2">
-		<text>Pamiêtaj, aby trzymaæ g³owê nisko i pod¹¿aæ za moimi sygna³ami rêcznymi.</text>
+		<text>Pamiêtaj, aby trzymaæ g³owê nisko i pod¹¿aæ za moimi sygna³ami.</text>
 	</string>
 	<string id="duty_girl_monolith_elite_move_3">
 		<text>Ruszaj siê.</text>
@@ -217,14 +217,14 @@
 		<text>Przyszed³em odebraæ moj¹ nagrodê.</text>
 	</string>
 	<string id="duty_girl_monolith_elite_done_1">
-		<text>Ach, tu jesteœ. Wiedzia³am, ¿e mogê na ciebie liczyæ. Twój dzisiejszy wk³ad bêdzie znany wœród ¿o³nierzy Powinnoœci.</text>
+		<text>Ach, tu jesteœ! Wiedzia³am, ¿e mogê na ciebie liczyæ. Twój dzisiejszy wk³ad bêdzie znany wœród ¿o³nierzy Powinnoœci.</text>
 	</string>
 	
 	<string id="duty_girl_loot_stash_init_0">
 		<text>Masz jak¹œ pracê, z któr¹ mogê ci pomóc?</text>
 	</string>
 	<string id="duty_girl_loot_stash_init_1">
-		<text>Na razie ¿adnej, ale mo¿e ciê to zainteresuje... Dobrze siê spisa³eœ na ostatniej misji i myœlê, ¿e nagroda za ni¹ by³a doœæ zani¿ona... To s¹ wspó³rzêdne pobrane z PDA jednego z bojowników monolitu. To bez w¹tpienia namiar na schowek. Nikt go jeszcze nie przeszuka³, trzeba siê wiêc przygotowaæ siê na kolejny ruch ze strony Monolitu. Potraktuj to jako bonus dla ciebie.</text>
+		<text>Na razie ¿adnej, ale mo¿e ciê to zainteresuje... Dobrze siê spisa³eœ na ostatniej misji i myœlê, ¿e nagroda za ni¹ by³a doœæ zani¿ona... To s¹ wspó³rzêdne pobrane z PDA jednego z bojowników monolitu. To bez w¹tpienia namiar na schowek - nikt go jeszcze nie przeszuka³, wiêc trzeba siê przygotowaæ siê na kolejny ruch ze strony Monolitu. Potraktuj to jako bonus dla ciebie.</text>
 	</string>
 	<string id="duty_girl_loot_stash_init_2">
 		<text>Dziêki.</text>
@@ -234,14 +234,14 @@
 		<text>Masz jak¹œ pracê, z któr¹ mogê ci pomóc?</text>
 	</string>
 	<string id="duty_girl_capture_the_brirge_init_1">
-		<text>Monolit znów siê pojawi³. Zdobyli placówkê w pobli¿u mostu w Czerwonym Lesie. Nasze zadanie to wyparcie ich stamt¹d i jednoczesne zdobycie mostu co umo¿liwi za³o¿enie tam wysuniêtego posterunku, aby utrzymaæ t¹ trasê pod nasz¹ kontrol¹. Naszym punktem zbornym jest przystanek autobusowy w Czerwonym Lesie. Do zobaczenia na miejscu.</text>
+		<text>Monolit znów siê pojawi³. Zdobyli placówkê w pobli¿u mostu w Czerwonym Lesie. Nasze zadanie to wyparcie ich stamt¹d i jednoczeœnie zdobycie mostu co umo¿liwi za³o¿enie tam wysuniêtego posterunku, aby utrzymaæ ten szlak pod nasz¹ kontrol¹. Naszym punktem zbornym jest przystanek autobusowy w Czerwonym Lesie. Do zobaczenia na miejscu.</text>
 	</string>
 	
 	<string id="duty_girl_capture_the_brirge_join_0">
-		<text>Jestem tu, ¿eby ci pomóc.</text>
+		<text>No to jestem!</text>
 	</string>
 	<string id="duty_girl_capture_the_brirge_join_1">
-		<text>Przeprowadziliœmy niedawno zwiad. Nasz wróg ma mniej doœwiadczonych ludzi, ale za to jest ich wiêcej. Zauwa¿y³am oko³o 10 ludzi, ale jestem pewna, ¿e maj¹ wsparcie ukrywaj¹ce siê w pobli¿u. To bêdzie trudniejsze ni¿ nasze poprzednie zadanie. Zbierz zapasy i przygotuj siê do walki...</text>
+		<text>Przeprowadziliœmy niedawno zwiad. Nasz wróg ma mniej doœwiadczonych ludzi, ale za to jest ich wiêcej. Zauwa¿y³am oko³o 10 ludzi, ale jestem pewna, ¿e maj¹ wsparcie ukrywaj¹ce siê w pobli¿u. To bêdzie trudniejsze ni¿ nasze poprzednie zadanie, dlatego zbierz zapasy i przygotuj siê do walki...</text>
 	</string>
 	<string id="duty_girl_capture_the_brirge_join_2">
 		<text>Jestem gotowy.</text>
@@ -270,7 +270,7 @@
 		<text>Wpad³em, ¿eby odebraæ nagrodê.</text>
 	</string>
 	<string id="duty_girl_capture_the_brirge_done_1">
-		<text>Dziêkujê ci za pomoc. Nasi ludzie s¹ ju¿ w drodze, a placówka wkrótce zacznie dzia³aæ. Moja misja dobieg³a koñca, myœlê, ¿e przez jakiœ czas bêdê siedzieæ bezczynnie, wiêc jeœli potrzebujesz dodatkowej pomocy przy swoich zadaniach, wystarczy, ¿e mnie poprosisz.</text>
+		<text>Dziêkujê ci za pomoc! Nasi ludzie s¹ ju¿ w drodze, a placówka wkrótce zacznie dzia³aæ. Moja misja dobieg³a koñca, wiêc myœlê, ¿e przez jakiœ czas bêdê siedzieæ bezczynnie, dlatego jeœli potrzebujesz dodatkowej pomocy przy swoich zadaniach to wystarczy, ¿e mnie poprosisz!</text>
 	</string>
 	
 	

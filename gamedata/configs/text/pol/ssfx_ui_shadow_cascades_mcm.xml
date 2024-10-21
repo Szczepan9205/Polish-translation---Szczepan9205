@@ -79,7 +79,7 @@
 	</string>
 	
 	<string id="ui_mcm_ssfx_module_shw_cascades_grass_shw_nondir_maxdistance_mcm_desc">
-		<text>[ TYLKO JAKOŒÆ ULTRA ] Ta wartoœæ dostosowuje odleg³oœæ renderowania cieni trawy dla œwiate³ bezkierunkowych. Ni¿sze wartoœci poprawi¹ wydajnoœæ, ale mo¿esz zauwa¿yæ, kiedy cienie przestan¹ byæ renderowane.</text>
+		<text>[ TYLKO PRZY OPCJI ULTRA ] Ta wartoœæ dostosowuje odleg³oœæ renderowania cieni trawy dla œwiate³ bezkierunkowych. Ni¿sze wartoœci poprawi¹ wydajnoœæ, ale mo¿esz zauwa¿yæ, kiedy cienie przestan¹ byæ renderowane.</text>
 	</string>
 	
 </string_table>

@@ -12,7 +12,7 @@
 	<string id="st_guitar_descr">
 		<text>"...kogó¿ to z nas ton¹cy nie wióz³ wrak?", chcia³oby siê zaœpiewaæ. Zwyczajna, nieco zniszczona gitara, przy dŸwiêkach której stalkerzy relaksuj¹ siê wieczorami przy ogniskach.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na na niej graæ\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na na niej graæ\n
 		</text>
 	</string>
 
@@ -22,7 +22,7 @@
 	<string id="st_harmonica_descr">
 		<text>Ten skromny aerofon zagra ka¿d¹ melodiê, jaka przyjdzie ci na myœl - od szlagierów bluesa do hymnu Zwi¹zku Radzieckiego. Co wiêcej, w przeciwieñstwie do ¿ywej publicznoœci, instrument nie bêdzie zdegustowany twoim brakiem uzdolnieñ muzycznych!\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿na na niej graæ\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿na na niej graæ\n
 		</text>
 	</string>
 
@@ -32,8 +32,8 @@
 	<string id="st_survival_kit_descr">
 		<text>W sk³ad zestawu wchodz¹: tkanina, ig³y do szycia i kilka skórzanych pasków. Stosowany w celu powstrzymania krwawienia, zaœ w rêkach doœwiadczonego u¿ytkownika zestaw pozwoli na wyleczenie najciê¿szych ran. Mo¿na z niego skorzystaæ równie¿ w celu napraw kombinezonów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_red] • %c[ui_gray_2] d³ugi czas odnowy zdrowia\n
-		%c[d_green] • %c[ui_gray_2] natychmiast tamuje powa¿ne krwotoki\n
+		%c[d_red] • %c[ui_gray_2] D³ugi czas odnowy zdrowia\n
+		%c[d_green] • %c[ui_gray_2] Natychmiast tamuje powa¿ne krwotoki\n
 		%c[d_green] • %c[ui_gray_2] Przywraca 3.6%hp/s, ³¹cznie 162%\n
 		%c[d_green] • %c[0,255,255,255] Efekt sta³y: T(8)%c[0,250,250,0]•••••••• %c[0,255,255,255]R(3)%c[0,250,250,0]••• %c[0,255,255,255]N(3)%c[0,250,250,0]••• \n
 		</text>
@@ -45,7 +45,7 @@
 	<string id="st_hand_watch_descr">
 		<text>Stary, klasyczny, sowiecki zegarek Rakieta 3. Jest w ca³kiem niez³ym stanie. Nikogo w Zonie nie dziwi fakt korzystania z zegarków zamiast PDA do sprawdzania godziny. S¹ du¿o bardziej odporne na trudne warunki atmosferyczne. Zaawansowane technicznie PDA s¹ bardzo wra¿liwe na fale elektromagnetyczne towarzysz¹ce emisjom i niektórym anomaliom - staromodnym zegarkom zdaje siê to w ogóle nie przeszkadzaæ. Poza tym, to bardzo stylowy element garderoby.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] mo¿e byæ u¿yty do sprawdzenia godziny\n
+		%c[d_orange] • %c[ui_gray_2] Mo¿e byæ u¿yty do sprawdzenia godziny\n
 		</text>
 	</string>
 
@@ -59,7 +59,7 @@
 	<string id="st_ball_hammer_descr">
 		<text>Znany tak¿e pod nazw¹ m³otka mechanika. Tego typu m³otków u¿ywa siê podczas obróbki metalu. Mimo swojego wieku i rdzawego nalotu, przydaje siê do drobnych napraw.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -69,7 +69,7 @@
 	<string id="st_broken_detector_descr">
 		<text>Zepsuty detektor NiedŸwiedŸ. Ekran jest pêkniêty, a ca³e urz¹dzenie powyginane. Mo¿liwe, ¿e elementy elektroniczne siê uchowa³y. Mo¿na ich u¿yæ do naprawy, albo tworzenia nowych przedmiotów.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -77,9 +77,9 @@
 		<text>Popêkana latarka</text>
 	</string>
 	<string id="st_flashlight_broken_descr">
-		<text>"Naciskam w³¹cznik latarki - ¿arnik LED zalewa stusiedemdziesiêciolumenowym snopem trupio sinego œwiat³a fasadê budynku..."\n \n
+		<text>"Naciskam w³¹cznik latarki - ¿arnik LED zalewa stusiedemdziesiêciolumenowym snopem sinego œwiat³a fasadê budynku..."\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -89,7 +89,7 @@
 	<string id="st_duct_tape_descr">
 		<text>Taœma klej¹ca czêsto wykorzystywana jest w sytuacjach, w których wymaga siê silnego i elastycznego po³¹czenia. S³u¿y jako szybkie, ale tylko tymczasowe rozwi¹zanie podczas wykonywania niezbêdnych napraw. Klej trzyma naprawdê dobrze i zapewnia odpornoœæ na warunki atmosferyczne.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -99,7 +99,7 @@
 	<string id="st_e_syringe_descr">
 		<text>Strzykawka o pojemnoœci 12 ml z luŸnym t³okiem. Wygl¹da na to, ¿e by³a u¿ywana dosyæ czêsto. Mo¿e siê przydaæ komuœ, kto posiada odpowiedni¹ wiedzê i chce samemu produkowaæ u¿ywki, korzystaj¹c z zestawu do wytwarzania leków.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -109,7 +109,7 @@
 	<string id="st_cutlery_descr">
 		<text>£y¿ka, nó¿ i widelec z lekkiego aluminium, zwi¹zane miedzianym drucikiem. Wytrzyma³y i lekki zestaw, idealny w podró¿y i na piknik. Po dok³adnym wyczyszczeniu i odrdzewieniu, korzystanie z nich powinno byæ bezpieczne.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -119,7 +119,7 @@
 	<string id="st_grease_descr">
 		<text>Smar to pó³sta³a maŸ. Na ogó³ sk³ada siê z myd³a zemulgowanego z olejem mineralnym lub roœlinnym. Stosuje siê go do mechanizmów, których nie nale¿y nat³uszczaæ zbyt czêsto i w miejscach, gdzie typowy olej nie bêdzie w stanie siê utrzymaæ. Dzia³a równie¿ jako uszczelniacz zapobiegaj¹cy przedostawaniu siê wody i materia³ów nieœciœliwych. £o¿yska smarowane tym preparatem maj¹ wiêksze w³aœciwoœci cierne z powodu du¿ej lepkoœci.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -130,7 +130,7 @@
 		<text>
 		Ma³y, plastikowy s³oik. Takie przedmioty zawsze przydaj¹ siê do przechowywania niewielkich rzeczy - g³ównie u¿ywek i leków. Chroni zawartoœæ przed zawilgoceniem i wysychaniem.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 	
@@ -140,7 +140,7 @@
 	<string id="st_rope_descr">
 		<text>Dobra lina posiada mnóstwo zastosowañ, zw³aszcza w Zonie. Wielu stalkerów umie siê nimi pos³ugiwaæ co podnosi jej wartoœæ. Ta ma oko³o dziesiêciu metrów d³ugoœci.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -150,7 +150,7 @@
 	<string id="st_radio2_descr">
 		<text>Ma³e radio w kiepskim stanie. Brudne i zawilgocone. W œrodku coœ grzechocze, co œwiadczy o tym, ¿e urz¹dzenie nie ma ¿adnej wartoœci u¿ytkowej.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -160,7 +160,7 @@
 	<string id="st_steel_wool_descr">
 		<text>We³na stalowa, znana tak¿e jako we³na druciana lub po prostu druciak, sk³ada siê z bardzo drobnych, miêkkich stalowych w³ókien. Stosowana jako œrodek œcierny do wykoñczeñ i napraw polerowanego drewna czy metalu, czyszczenia naczyñ metalowych, a tak¿e w sztuce "malowania œwiat³em".\n \nWe³na stalowa jest wykonana ze stali niskowêglowej (wêgla jest tak ma³o, ¿e materia³ ma sk³ad zbli¿ony do czystego ¿elaza). Powstaje nie przez ci¹gniêcie drutu stalowego przez ci¹gad³o, lecz w wyniku obracania ciê¿kiego drutu stalowego przez rozwiertak, który po kolei usuwa z niego kolejne warstewki metalu. Wi¹zki we³ny stalowej przydaj¹ siê przy precyzyjnym czyszczeniu wyposa¿enia i dok³adnym rozprowadzeniu smarów i rozpuszczalników.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -170,7 +170,7 @@
 	<string id="st_mirror_descr">
 		<text>Ma³e lusterko zamontowane na ¿elaznej teleskopowej rurce. Bardzo przydatne dla specjalistów walk miejskich, gdy¿ pozwala zajrzeæ za winkiel bez nara¿ania siê na ostrza³.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 	
@@ -189,7 +189,7 @@
 	<string id="st_walkie_descr">
 		<text>Wyœwietlacz nie dzia³a, a z g³oœnika ca³y czas wydobywa siê szum. Ma œlady po ugryzieniu mutanta.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -199,7 +199,7 @@
 	<string id="st_welding_goggles_descr">
 		<text>Stare, zniszczone gogle ochronne z popêkanym skórzanym paskiem. Maska ma chroniæ oczy w trakcie spawania lub ciêcia metalu. W tym stanie jest bezu¿yteczna i bezwartoœciowa.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[0,70,130,180] • %c[ui_gray_2] Ÿród³o podstawowych materia³ów\n
+		%c[0,70,130,180] • %c[ui_gray_2] ród³o podstawowych materia³ów\n
 		</text>
 	</string>
 
@@ -406,7 +406,7 @@
 	<string id="st_cards_descr">
 		<text>Od czasu do czasu trzeba choæ na chwilê zapomnieæ o ca³ym cierpieniu na tym padole ³ez i skupiæ siê na innych, bardziej przyjemnych rzeczach. Gra w karty to popularna rozrywka, ale talii mo¿na u¿ywaæ tak¿e w niektórych transakcjach handlowych. Ok³adka z dum¹ przedstawia mapê moskiewskiego metra.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] œmieæ\n
+		%c[d_cyan] • %c[ui_gray_2] Œmieæ\n
 		</text>
 	</string>
 
@@ -416,7 +416,7 @@
 	<string id="st_jewelry_box_descr">
 		<text>Ma³e pude³ko zawieraj¹ce drobne ozdoby. Niezbyt wielu stalkerów obrabia trofea mutantów, ale kilku z nich ma talent do przerabiania kopyt, rogów i k³ów w prawdziwe skarby. Mimo to niewielu handlarzy zajmuje siê eksportem tego typu ozdób.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] œmieæ\n
+		%c[d_cyan] • %c[ui_gray_2] Œmieæ\n
 		</text>
 	</string>
 
@@ -426,7 +426,7 @@
 	<string id="st_shovel_old_descr">
 		<text>Stara metalowa ³opata u¿ywana do ró¿nych celów. Ma³o kto nosi j¹ ze sob¹ w plecaku ze wzglêdu na du¿¹ wagê i ³atw¹ dostêpnoœæ, szczególnie w strefach przemys³owych.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] œmieæ\n
+		%c[d_cyan] • %c[ui_gray_2] Œmieæ\n
 		</text>
 	</string>
 	
@@ -436,7 +436,7 @@
 	<string id="st_shovel_mili_descr">
 		<text>Czarna wojskowa saperka. Narzêdzie wielofunkcyjne bardzo wysokiej jakoœci. U¿ywana miêdzy innymi jako broñ w walce wrêcz. W rêkach dobrze wyszkolonego ¿o³nierza mo¿e byæ œmiercionoœna.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] œmieæ\n
+		%c[d_cyan] • %c[ui_gray_2] Œmieæ\n
 		</text>
 	</string>
 	<string id="st_headlamp">
@@ -445,7 +445,7 @@
 	<string id="st_headlamp_descr">
 		<text>Chocia¿ ma³o kto zdobywa siê na odwagê, ¿eby przechadzaæ siê po Zonie po zmroku, w pewnych przypadkach czo³ówka jest niezbêdna. Dodatkowe Ÿród³o œwiat³a na pewno siê przyda. Nigdy nie mo¿esz byæ pewien, kiedy bêdziesz musia³ zmieniæ pozycjê. Niestety ten egzemplarz nie dzia³a, wiêc mo¿e pos³u¿yæ tylko jako Ÿród³o czêœci zamiennych.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] œmieæ\n
+		%c[d_cyan] • %c[ui_gray_2] Œmieæ\n
 		</text>
 	</string>
 

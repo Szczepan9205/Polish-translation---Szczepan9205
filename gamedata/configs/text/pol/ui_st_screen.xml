@@ -686,7 +686,7 @@
 		<text>Cia³o jest zbyt zepsute</text>
 	</string>
 	<string id="st_body_useless">
-		<text>Przy zw³okach znaleziono niczego przydatnego</text>
+		<text>Przy zw³okach nie znalaz³eœ niczego przydatnego</text>
 	</string>
 	<string id="st_body_knife_needed">
 		<text>Wyci¹gnij nó¿</text>
@@ -741,7 +741,7 @@
 		<text>¯eby otworzyæ puszkê, u¿yj scyzoryka</text>
 	</string>
 	<string id="st_imm_swiss_broken">
-		<text>Twój scyzoryk siê po³ama³</text>
+		<text>Twój scyzoryk siê z³ama³</text>
 	</string>
 	<string id="st_stash_no_backpack_found">
 		<text>Nie za³o¿ono plecaka</text>

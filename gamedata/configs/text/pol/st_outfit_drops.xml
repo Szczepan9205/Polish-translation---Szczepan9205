@@ -32,10 +32,10 @@
 		<text>Procentowa szansa na znalezienie lekkiego kombinezonu przy trupie zabitego stalkera.</text>
 	</string>
 	<string id="ui_mcm_outfitdrop_outfit_medium_chance">
-		<text>Szansa na znalezienie œredniego kombinezonu</text>
+		<text>Szansa na znalezienie kombinezonu œredniej klasy</text>
 	</string>
 	<string id="ui_mcm_outfitdrop_outfit_medium_chance_desc">
-		<text>Szansa na znalezienie œredniego kombinezonu przy trupie zabitego stalkera.</text>
+		<text>Szansa na znalezienie kombinezonu œredniej klasy przy trupie zabitego stalkera.</text>
 	</string>
 	<string id="ui_mcm_outfitdrop_outfit_heavy_chance">
 		<text>Szansa na znalezienie ciê¿kiego kombinezonu</text>

@@ -9,11 +9,11 @@
 		<text>APS</text>
 	</string>
 	<string id="st_wpn_aps_bas_descr">
-		<text>Steczkin APS to rosyjski pistolet maszynowy, posiadaj¹cy tryb ognia selektywnego, nosz¹cy nazwisko jego projektanta Igora Steczkina. Automatyczny pistolet Steczkin by³ pierwotnie zasilany amunicj¹ 7,62x25 mm Tokarew, ale zosta³ zmieniony na kaliber 9x18 mm, u¿ywany w nowym pistolecie Makarow, poniewa¿ sta³o siê jasne, ¿e ten nabój mia³ staæ siê now¹ amunicj¹ s³u¿bow¹ do broni krótkiej w Armii Radzieckiej. W 1951 roku do radzieckiego arsena³u wojskowego wprowadzono zarówno Makarowa, jak i Steczkina, zastêpuj¹c starzej¹cy siê TT-33.\n \n
+		<text>Steczkin APS to rosyjski pistolet maszynowy, posiadaj¹cy tryb ognia selektywnego, nosz¹cy nazwisko jego projektanta Igora Steczkina. Automatyczny pistolet Steczkin by³ pierwotnie zasilany amunicj¹ 7.62x25 mm Tokarew, ale zosta³ zmieniony na kaliber 9x18 mm, u¿ywany w nowym pistolecie Makarow, poniewa¿ sta³o siê jasne, ¿e ten nabój mia³ staæ siê now¹ amunicj¹ s³u¿bow¹ do broni krótkiej w Armii Radzieckiej. W 1951 roku do radzieckiego arsena³u wojskowego wprowadzono zarówno Makarowa, jak i Steczkina, zastêpuj¹c starzej¹cy siê TT-33.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 
@@ -21,11 +21,11 @@
 		<text>Zmodyfikowany APS</text>
 	</string>
 	<string id="st_wpn_aps_bas_apsabigo_descr">
-		<text>Steczkin APS to rosyjski pistolet maszynowy, posiadaj¹cy tryb ognia selektywnego, nosz¹cy nazwisko jego projektanta Igora Steczkina. Automatyczny pistolet Steczkin by³ pierwotnie zasilany amunicj¹ 7,62x25 mm Tokarew, ale zosta³ zmieniony na kaliber 9x18 mm, u¿ywany w nowym pistolecie Makarow, poniewa¿ sta³o siê jasne, ¿e ten nabój mia³ staæ siê now¹ amunicj¹ s³u¿bow¹ do broni krótkiej w Armii Radzieckiej. W 1951 roku do radzieckiego arsena³u wojskowego wprowadzono zarówno Makarowa, jak i Steczkina, zastêpuj¹c starzej¹cy siê TT-33. Ten wariant pistoletu posiada t³umik oraz dodatkowe przyrz¹dy celownicze.\n \n
+		<text>Steczkin APS to rosyjski pistolet maszynowy, posiadaj¹cy tryb ognia selektywnego, nosz¹cy nazwisko jego projektanta Igora Steczkina. Automatyczny pistolet Steczkin by³ pierwotnie zasilany amunicj¹ 7.62x25 mm Tokarew, ale zosta³ zmieniony na kaliber 9x18 mm, u¿ywany w nowym pistolecie Makarow, poniewa¿ sta³o siê jasne, ¿e ten nabój mia³ staæ siê now¹ amunicj¹ s³u¿bow¹ do broni krótkiej w Armii Radzieckiej. W 1951 roku do radzieckiego arsena³u wojskowego wprowadzono zarówno Makarowa, jak i Steczkina, zastêpuj¹c starzej¹cy siê TT-33. Ten wariant pistoletu posiada t³umik oraz dodatkowe przyrz¹dy celownicze.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet zosta³ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem dŸwiêku APB, przyrz¹dami celowniczymi Tritium i ergonomiczn¹ gum¹ chwytu pistoletowego\n \n
+		%c[d_purple] • %c[ui_gray_2] Pistolet zosta³ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem dŸwiêku APB, przyrz¹dami celowniczymi Tritium i ergonomiczn¹ gum¹ chwytu pistoletowego\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: APB\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: APB\n
 		</text>
 	</string>
 
@@ -40,12 +40,12 @@
 		<text>FN Five-seveN</text>
 	</string>
 	<string id="st_wpn_fn57_descr">
-		<text>Five-seveN to pó³automatyczna broñ palna ze zredukowanym odrzutem. Pistolet Five-seveN zosta³ zaprojektowany przez FN Herstal jako broñ dodatkowa do pistoletu maszynowego P90. P90 i Five-seveN s¹ zasilane t¹ sam¹ amunicj¹, nabojem 5,7x28 mm SS190. Ide¹ amunicji oraz samej broni jest zapewnienie odpowiedniej si³y ognia, w walce z lekko opancerzonymi celami, przy jednoczesnym utrzymaniu masy broni, wymiarów i odrzutu na rozs¹dnym poziomie.\n \n
+		<text>Five-seveN to pó³automatyczna broñ palna ze zredukowanym odrzutem. Pistolet Five-seveN zosta³ zaprojektowany przez FN Herstal jako broñ dodatkowa do pistoletu maszynowego P90. P90 i Five-seveN s¹ zasilane t¹ sam¹ amunicj¹, nabojem 5.7x28 mm SS190. Ide¹ amunicji oraz samej broni jest zapewnienie odpowiedniej si³y ognia, w walce z lekko opancerzonymi celami, przy jednoczesnym utrzymaniu masy broni, wymiarów i odrzutu na rozs¹dnym poziomie.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet mo¿na ulepszyæ zestawem taktycznym zawieraj¹cym modu³ celowania laserowego i mocowanie kolimatora\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym zawieraj¹cym modu³ celowania laserowego i mocowanie kolimatora\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Docter Sight, Aimpoint T1 (niska nak³adka), Trijicon RMR, Leupold DeltaPoint PRO\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 5.7x28 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Docter Sight, Aimpoint T1 (niska nak³adka), Trijicon RMR, Leupold DeltaPoint PRO\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 5.7x28 mm\n
 		</text>
 	</string>
 
@@ -55,8 +55,8 @@
 	<string id="st_wpn_glock17_m1_descr">
 		<text>Glock 17 to samopowtarzalny pistolet z krótkim zasiêgiem i niewielkim odrzutem, w wytrzyma³ej obudowie polimerowej, zaprojektowany i wyprodukowany przez austriackiego producenta Glock Ges.m.b.H.. "Bruder" zosta³ wyposa¿ony w zintegrowan¹ podstawê do monta¿u celownika, taktyczny gumowy uchwyt i gwintowan¹ lufê wœród ró¿nych modyfikacji wewnêtrznych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Docter Sight, Aimpoint T1 (niska nak³adka), Trijicon RMR i Leupold Deltapoint PRO\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Osprey 9mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Docter Sight, Aimpoint T1 (niska nak³adka), Trijicon RMR i Leupold Deltapoint PRO\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Osprey 9 mm\n
 		</text>
 	</string>
 	
@@ -66,7 +66,7 @@
 	<string id="st_wpn_korth_descr">
 		<text>Korth to producent wysokiej jakoœci broni z siedzib¹ w Lollar w Hesji, w Niemczech. Mi³oœnicy broni palnej doskonale znaj¹ tego producenta. Korth to jedna z najpopularniejszych firm produkuj¹cych pistolety, dostarczaj¹ca swoje produkty do klientów z ca³ego œwiata. Mo¿na powiedzieæ, ¿e Korth na rynku broni jest jak Rolex na rynku zegarków, oferuj¹c wyj¹tkow¹ jakoœæ wykonania, skierowan¹ do najbardziej wymagaj¹cych klientów.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 
@@ -76,10 +76,10 @@
 	<string id="st_wpn_korth_custom_descr">
 		<text>Korth to producent wysokiej jakoœci broni z siedzib¹ w Lollar w Hesji, w Niemczech. Mi³oœnicy broni palnej doskonale znaj¹ tego producenta. Korth to jedna z najpopularniejszych firm produkuj¹cych pistolety, dostarczaj¹ca swoje produkty do klientów z ca³ego œwiata. Mo¿na powiedzieæ, ¿e Korth na rynku broni jest jak Rolex na rynku zegarków, oferuj¹c wyj¹tkow¹ jakoœæ wykonania, skierowan¹ do najbardziej wymagaj¹cych klientów.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowana 6 calowa lufa\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowana 6 calowa lufa\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celownik Docter\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: BLACK BOX .45\n
+		%c[d_purple] • %c[ui_gray_2] Celownik Docter\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: BLACK BOX .45\n
 		</text>
 	</string>
 
@@ -90,10 +90,10 @@
 	<string id="st_wpn_pl15_descr">
 		<text>Rosyjski pistolet samopowtarzalny PL-15-01 zasilany nabojami 9x19 mm Parabellum. Ró¿nica miêdzy pistoletem a jego odpowiednikami, polega na ergonomii i wywa¿eniu, które odpowiadaj¹ obecnym wyobra¿eniom na temat biomechaniki. Zastosowane podczas jego tworzenia unikalnej metody kalkulacji procesów mechanicznych, przyczyniaj¹ siê do znacz¹cego wzrostu komfortu obs³ugi. To, w po³¹czeniu z zastosowanymi rozwi¹zaniami poprawiaj¹cymi ergonomiê, sprawia, ¿e pistolet cechuje bardzo niewielki odrzut i szybki powrotu do linii celowania.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] mo¿na ulepszyæ zestawem taktycznym "Taktyk"\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym "Taktyk"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celownik LAM\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: PL-15 \n
+		%c[d_purple] • %c[ui_gray_2] Celownik LAM\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: PL-15 \n
 		</text>
 	</string>
 
@@ -104,9 +104,9 @@
 	<string id="st_wpn_pl15_pl15_scolaz_descr">
 		<text>Rosyjski pistolet samopowtarzalny PL-15-01 zasilany nabojami 9x19 mm Parabellum. Ró¿nica miêdzy tym pistoletem, a jego odpowiednikami, polega na ergonomii i wywa¿eniu, które odpowiadaj¹ obecnym wyobra¿eniom na temat biomechaniki. Zastosowane podczas jego tworzenia unikalnej metody kalkulacji procesów mechanicznych, przyczyniaj¹ siê do znacz¹cego wzrostu komfortu obs³ugi. To, w po³¹czeniu z zastosowanymi rozwi¹zaniami poprawiaj¹cymi ergonomiê, sprawia, ¿e pistolet cechuje bardzo niewielki odrzut i szybki powrotu do linii celowania. Ten wariant posiada zamontowane dodatkowe przyrz¹dy celownicze.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet zosta³ ju¿ ulepszony zestawem taktycznym "Taktyk"\n \n
+		%c[d_purple] • %c[ui_gray_2] Pistolet zosta³ ju¿ ulepszony zestawem taktycznym "Taktyk"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PL-15\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PL-15\n
 		</text>
 	</string>
 	
@@ -124,7 +124,7 @@
 	<string id="st_wpn_pm_bas_custom_descr">
 	<text>Zmodernizowana wersja Makarowa PM z d³u¿sz¹ luf¹ gwintowan¹ do stosowania z t³umikiem PMM. Ta sowiecka broñ to najpopularniejszy pistolet w Zonie i jest jednym z najlepszych dostêpnych kompaktowych pistoletów do samoobrony. Jest ma³y, wysoce niezawodny, ³atwy w obs³udze i utrzymaniu w stanie gotowoœci do pracy. Ma równie¿ kilka wad, w tym krótki zasiêg, nisk¹ celnoœæ strzelania i s³ab¹ si³ê ra¿enia, a jednoczeœnie przegrywa z nowoczesnymi pistoletami w swojej klasie pod wzglêdem masy i rozmiaru magazynka. W 1951 roku wybrano pistolet Makarowa jako g³ówn¹ broñ dodatkow¹, ze wzglêdu na jego prostotê, ³atw¹ i tani¹ produkcjê oraz wzglêdnie dobre parametry.\n \n
    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-   %c[d_purple] • %c[ui_gray_2] t³umik: 9mm\n
+   %c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
    </text>
 	</string>
 	
@@ -134,7 +134,7 @@
 	<string id="st_wpn_pm_bas_actor_descr">
 		<text>Legendarny PM z wyd³u¿on¹ luf¹ i gwintem mocowania t³umika. Niektórzy twierdz¹, ¿e by³a to limitowana seria produkowana w Bu³garii, inni twierdz¹, ¿e to radziecka wersja, a jeszcze inni uwa¿aj¹, ¿e to ulepszenie domowej roboty...\n \n
    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-   %c[d_purple] • %c[ui_gray_2] t³umik: 9mm\n
+   %c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
    </text>
 	</string>
 		
@@ -145,7 +145,7 @@
 	<string id="st_wpn_pmm_bas_descr">
 		<text>Najbardziej znany wariant Makarowa. W 1990 roku grupa in¿ynierów przerobi³a oryginalnego Makarowa, g³ównie w celu poprawy wydajnoœci oraz si³y przebicia. Rezultatem ulepszeñ by³ 25-procentowy wzrost prêdkoœci wylotowej pocisku. Magazynek PMM mieœci 12 naboi, w porównaniu do 8 nabojów w jego standardowym odpowiedniku.\n \n
    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-   %c[d_purple] • %c[ui_gray_2] t³umik: 9mm\n
+   %c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
    </text>
 	</string>
 	
@@ -158,7 +158,7 @@
 	<string id="st_wpn_pb_bas_descr">
 		<text>Pistolet PB, znany równie¿ w armii radzieckiej jako 6P9, zosta³ opracowany w 1967 roku dla jednostek Specnazu Armii Radzieckiej, a tak¿e dla agentów KGB. Wprowadzony do s³u¿by w 1967 roku PB (indeks GRAU 6P9) to radziecki pistolet z t³umikiem oparty na Makarowie PM. Przednia czêœæ t³umika jest zdejmowana, dziêki czemu pistolet mo¿na roz³o¿yæ na dwie czêœci w celu wygodnego przenoszenia. Zintegrowany t³umik PB zmniejsza równie¿ prêdkoœæ pocisku poni¿ej poziomu poddŸwiêkowego.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik 6P9\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik 6P9\n
 		</text>
 	</string>
 	
@@ -168,9 +168,9 @@
 	<string id="st_wpn_sr1m_descr">
 		<text>Pó³automatyczny pistolet Serdiukowa, znany równie¿ jako SPS i „¯mija”, Index 6P53. Pistolet zaprojektowany dla si³ specjalnych Federacji Rosyjskiej przez P. Sierdiukowa i I. Bielajewa, zasilany nabojami 9x21 mm.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 
@@ -181,9 +181,9 @@
 	<string id="st_wpn_sr1m_sr1upgr1_descr">
 		<text>Pó³automatyczny pistolet Serdiukowa, znany równie¿ jako SPS i „¯mija”, Index 6P53. Pistolet zaprojektowany dla si³ specjalnych Federacji Rosyjskiej przez P. Sierdiukowa i I. Bielajewa, zasilany nabojami 9x21 mm.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet zosta³ ju¿ ulepszony zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] Pistolet zosta³ ju¿ ulepszony zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 	
@@ -193,9 +193,9 @@
 	<string id="st_wpn_sig220_n_descr">
 		<text>SIG-Sauer P220, wyprodukowany pod koniec lat 70. przez J.P. Sauer, jest przez niektórych uwa¿any za najlepszy pistolet kalibru .45. B³yskawiczny sukces tej broni spowodowa³, ¿e sta³ siê on popularny wœród Europejskich lub Japoñskich s³u¿b mundurowych. Ten pistolet trafi³ równie¿ do Stanów Zjednoczonych, najpierw poprzez Browning Arms Company z Utah, a od lat 80. przez SIGARMS Company z New Hampshire.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 	
@@ -205,9 +205,9 @@
 	<string id="st_wpn_sig220_n_u2p2g0r_descr">
 		<text>SIG-Sauer P220, wyprodukowany pod koniec lat 70. przez J.P. Sauer, jest przez niektórych uwa¿any za najlepszy pistolet kalibru .45. B³yskawiczny sukces tej broni spowodowa³, ¿e sta³ siê on popularny wœród Europejskich lub Japoñskich s³u¿b mundurowych. Ten pistolet trafi³ równie¿ do Stanów Zjednoczonych, najpierw poprzez Browning Arms Company z Utah, a od lat 80. przez SIGARMS Company z New Hampshire. Ten wariant posiada dodatkowy celownik optyczny oraz lekko ulepszone parametry.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet zosta³ ju¿ ulepszony zestawem taktycznym "Dziewi¹tka"\n \n
+		%c[d_purple] • %c[ui_gray_2] Pistolet zosta³ ju¿ ulepszony zestawem taktycznym "Dziewi¹tka"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: BLACK BOX .45\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: BLACK BOX .45\n
 		</text>
 	</string>
 	
@@ -217,9 +217,9 @@
 	<string id="st_wpn_sig220_n_upg220_descr">
 		<text>SIG-Sauer P220, wyprodukowany pod koniec lat 70. przez J.P. Sauer, jest przez niektórych uwa¿any za najlepszy pistolet kalibru .45. B³yskawiczny sukces tej broni spowodowa³, ¿e sta³ siê on popularny wœród Europejskich lub Japoñskich s³u¿b mundurowych. Ten pistolet trafi³ równie¿ do Stanów Zjednoczonych, najpierw poprzez Browning Arms Company z Utah, a od lat 80. przez SIGARMS Company z New Hampshire.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet zosta³ ju¿ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem, celownikami trytowymi i celownikiem laserowym Viridian X5L oraz rozszerzonym magazynkiem o pojemnoœci 12 naboi. Tego ulepszenia nie mo¿na usun¹æ.\n \n
+		%c[d_purple] • %c[ui_gray_2] Pistolet zosta³ ju¿ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem, celownikami trytowymi i celownikiem laserowym Viridian X5L oraz rozszerzonym magazynkiem o pojemnoœci 12 naboi. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: BLACK BOX .45\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: BLACK BOX .45\n
 		</text>
 	</string>
 
@@ -229,9 +229,9 @@
 	<string id="st_wpn_sig226_descr">
 		<text>P226R to pistolet produkcji firmy SIG Sauer, standardowa broñ s³u¿bowa amerykañskich s³u¿b specjalnych Navy SEAL. Zasilany jest amunicj¹ 9x19 mm Parabellum, posiada mocowanie na szynê Picatinny na spodzie ramy.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 	
@@ -241,9 +241,9 @@
 	<string id="st_wpn_sig226_226sig_kit_descr">
 		<text>P226R to pistolet produkcji firmy SIG Sauer, standardowa broñ s³u¿bowa amerykañskich s³u¿b specjalnych Navy SEAL. Zasilany jest amunicj¹ 9x19 mm Parabellum, posiada mocowanie na szynê Picatinny na spodzie ramy.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet zosta³ ju¿ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem, ergonomicznymi p³ytkami uchwytowymi oraz celownikiem Trijicon RMR Red Dot z p³ytk¹ monta¿ow¹. Tego ulepszenia nie mo¿na usun¹æ.\n \n
+		%c[d_purple] • %c[ui_gray_2] Pistolet zosta³ ju¿ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem, ergonomicznymi p³ytkami uchwytowymi oraz celownikiem Trijicon RMR Red Dot z p³ytk¹ monta¿ow¹. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Osprey 9mm\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Osprey 9mm\n
 		</text>
 	</string>
 	
@@ -253,10 +253,10 @@
     <string id="st_wpn_usp_tac_descr">
         <text>Jest to zmodyfikowana wersja HK USP Match, opracowana specjalnie dla naukowców pracuj¹cych w Zonie, na osobiste zamówienie profesora Sacharowa, do³¹czona do zestawu taktycznego „Specjalista-naukowiec”. Dzia³anie systemu mechanizmów zosta³o usprawnione za pomoc¹ artefaktów. Ró¿nica w stosunku do standardowego USP polega na mo¿liwoœci zamontowania dodatków, np. t³umika, ponadto pistolet wyposa¿ony jest w rozszerzony magazynek na 22 naboje kalibru 9 mm. (Zestaw Specjalisty-Naukowca zawiera: WSS "Sawant", Taktyczny HK USP Match oraz "Ostrze Monolitu").\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet mo¿na ulepszyæ zestawem taktycznym, zawieraj¹cym laserowy modu³ celowniczy oraz celownik refleksyjny\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym, zawieraj¹cym laserowy modu³ celowniczy oraz celownik refleksyjny\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Docter Sight, Aimpoint T1 (niska przek³adka), Trijicon RMR, Leupold DeltaPoint PRO\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC Black Box\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Docter Sight, Aimpoint T1 (niska przek³adka), Trijicon RMR, Leupold DeltaPoint PRO\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC Black Box\n
 		</text>
     </string>
 
@@ -266,9 +266,9 @@
 	<string id="st_wpn_walther_p99_descr">
 		<text>Walther P99 to pistolet, których charakteryzuje siê bardzo du¿¹ ergonomicznoœci¹. Posiada polimerow¹ ramê z w³ókna szklanego. Opracowany dla s³u¿b mundurowych i do u¿ytku cywilnego, jest u¿ywany przez jednostki policji w wielu krajach.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 
@@ -278,9 +278,9 @@
 	<string id="st_wpn_walther_p99_mod9_descr">
 		<text>Walther P99 to pistolet, których charakteryzuje siê bardzo du¿¹ ergonomicznoœci¹. Posiada polimerow¹ ramê z w³ókna szklanego. Opracowany dla s³u¿b mundurowych i do u¿ytku cywilnego, jest u¿ywany przez jednostki policji w wielu krajach.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] pistolet zosta³ ju¿ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem, celownikami Tritium i celownikiem laserowym Viridian X5L. Tego ulepszenia nie mo¿na usun¹æ.\n \n
+		%c[d_purple] • %c[ui_gray_2] Pistolet zosta³ ju¿ ulepszony zestawem taktycznym zawieraj¹cym: gwintowan¹ lufê do stosowania z t³umikiem, celownikami Tritium i celownikiem laserowym Viridian X5L. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Gemtech\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Gemtech\n
 		</text>
 	</string>
 
@@ -293,8 +293,8 @@
 	<string id="st_wpn_saiga12s_isg_descr">
 		<text>Model opracowany przez Ka³asznikowa w USA, na bazie pó³automatycznego karabinu Komrad 12, do polowania i ochrony cz³onków zespo³ów badawczych ISG przed mutantami. Broñ posiada zarówno szyny na "Jaskó³czy ogon", jak i Picatinny, do u¿ytku z ró¿nymi typami celowników. Model ten posiada nowy typ mechanizmu spustowego, który pozwala na wystrzelenie dwóch nabojów jednoczeœnie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki podczerwone pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Salvo® 12\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki podczerwone pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
 	</string>
 	
@@ -304,7 +304,7 @@
 	<string id="st_wpn_ks23_descr">
 		<text>Specjalna, 23-milimetrowa wielofunkcyjna strzelba, typu pump-action, u¿ywana g³ównie przez si³y porz¹dkowe do t³umienia zamieszek o zrównowa¿onej sile ognia. Co ciekawe, maj¹c kaliber ponad 20 mm i lufê gwintowan¹, strzelba KS-23 nie powinna byæ klasyfikowana jako broñ strzelecka, ale jako broñ ma³okalibrowa.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n 
-		%c[d_purple] • %c[ui_gray_2] d³ug¹, 700-milimetrow¹ lufê, mo¿na zast¹piæ krótk¹, o d³ugoœci 510 mm, aby zmniejszyæ wagê broni\n
+		%c[d_purple] • %c[ui_gray_2] D³ug¹, 700 mm lufê mo¿na zast¹piæ krótk¹, o d³ugoœci 510 mm, aby zmniejszyæ wagê broni\n
 		</text>
 	</string>
 
@@ -321,7 +321,7 @@
 	<string id="st_wpn_ks23_kaban_descr">
 		<text>Radziecka, wielofunkcyjna, 23-milimetrowa policyjna strzelba typu pump-action, przeznaczona do t³umienia zamieszek i zwalczania wiêkszych grup przeciwników. Co ciekawe, maj¹c kaliber ponad 20 mm i lufê gwintowan¹, strzelba KS-23 nie powinna byæ klasyfikowana jako broñ strzelecka, ale jako broñ ma³okalibrowa. Ten wariant to skrócona wersja KS-23, z rozk³adan¹ metalow¹ kolb¹.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zestaw taktyczny "Dzik"\n
+		%c[d_purple] • %c[ui_gray_2] Zestaw taktyczny "Dzik"\n
 		</text>
 	</string>
 	
@@ -359,8 +359,8 @@
     <string id="st_wpn_mp153_m1_descr">
 		<text>Spersonalizowana wersja strzelby MP-153. Zdolna do prowadzenia ognia pó³automatycznego jak jego poprzednik, ale zapewnia lepsz¹ kompensacjê odrzutu, dziêki doœæ skutecznemu hamulcowi wylotowemu. Posiada równie¿ szynê monta¿ow¹ Picatinny, która umo¿liwia korzystanie z celowników refleksyjnych i holograficznych oraz mo¿liwoœæ zastosowania t³umika.\n \n
 	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ze wzglêdu na po³o¿enie kolby mo¿liwy jest monta¿ przyrz¹dów celowniczych tylko z nisk¹ nak³adk¹: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7 i 1P76 Rakurs\n\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Salvo® 12\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ze wzglêdu na po³o¿enie kolby mo¿liwy jest monta¿ przyrz¹dów celowniczych tylko z nisk¹ nak³adk¹: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7 i 1P76 Rakurs\n\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
     </string>
 	
@@ -370,8 +370,8 @@
 	<string id="st_wpn_saiga12s_descr">
 		<text>Strzelba bojowa kalibru 12 rozpoznawalna dziêki konstrukcji Ka³asznikowa, przeznaczona do zwalczania celów na krótkim dystansie lub w ograniczonych przestrzeniach. Znana ze swojej skutecznoœci i œmiercionoœnoœci, zast¹pi³a Armsel Protecta w rosyjskiej kontroli zamieszek i walce piechoty.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szynê monta¿ow¹ Picatinny/Weaver oraz "Jaskó³czy ogon" (oprócz OKP-7, EKP-1S-03 Kobra i EKP-8-02 Kobra)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Salvo® 12\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szynê monta¿ow¹ Picatinny/Weaver oraz "Jaskó³czy ogon" (oprócz OKP-7, EKP-1S-03 Kobra i EKP-8-02 Kobra)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
 	</string>
 
@@ -381,8 +381,8 @@
 	<string id="st_wpn_saiga12s_m2_descr">
 		<text>Saiga zmodyfikowana na proœbê jednego z liderów frakcji Najemników. Zainstalowano szynê Picatinny i masywny kompensator hamulca wylotowego, znacznie zmniejszaj¹cy odrzut.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szyny monta¿owe Picatinny/Weaver oraz :Jaskó³czy ogon" (oprócz OKP-7, EKP-1S-03 Kobra i EKP-8-02 Kobra)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Salvo® 12\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szyny monta¿owe Picatinny/Weaver oraz :Jaskó³czy ogon" (oprócz OKP-7, EKP-1S-03 Kobra i EKP-8-02 Kobra)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
 	</string>
 	<string id="st_wpn_saiga12s_m1">
@@ -391,8 +391,8 @@
 	<string id="st_wpn_saiga12s_m1_descr">
 		<text>"Nerd" jest dowodem troski profesora Sacharowa o swoich podopiecznych podczas ich misji. Ta wersja Saigi zosta³a zakupiona specjalnie dla personelu ekspedycji Naukowców. Wykorzystywana jest w "negocjacjach" ze szczególnie niebezpiecznymi mutantami, w sprawie ich dobrowolnego przekazania swoich organów wewnêtrznych do badañ naukowych, naturalnie, dla dobra nauki... Doœwiadczeni myœliwi patrz¹ z du¿¹ zazdroœci¹ na "Nerdów" uzbrojonych w ten karabin.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szynê monta¿ow¹ typu "Jaskó³czy ogon"\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 12K Hexagon\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szynê monta¿ow¹ typu "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: 12K Hexagon\n
 		</text>
 	</string>
 
@@ -402,8 +402,8 @@
     <string id="st_wpn_toz106_descr">
 		<text>Jednolufowa strzelba myœliwska kalibru 20ga, z przesuwanym zamkiem. Powszechnie znana pod swoj¹ wernakularn¹ nazw¹ "Œmieræ Przewodnicz¹cego", ze wzglêdu na jej niewielkie rozmiary. Wariant ze sk³adan¹ kolb¹.\n \n
 	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: brak\n\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: brak\n\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
     </string>
 	
@@ -413,8 +413,8 @@
     <string id="st_wpn_toz106_m1_descr">
 		<text>Jednolufowa strzelba myœliwska kalibru 20ga, z przesuwanym zamkiem. Powszechnie znana pod swoj¹ wernakularn¹ nazw¹ "Œmieræ Przewodnicz¹cego", ze wzglêdu na jej niewielkie rozmiary.\n \n
 	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ze wzglêdu na po³o¿enie kolby mo¿liwy jest monta¿ przyrz¹dów celowniczych tylko z nisk¹ nak³adk¹: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7, 1P76 Rakurs\n\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ze wzglêdu na po³o¿enie kolby mo¿liwy jest monta¿ przyrz¹dów celowniczych tylko z nisk¹ nak³adk¹: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7, 1P76 Rakurs\n\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
     </string>
 
@@ -431,8 +431,8 @@
 	<string id="st_wpn_adar2_15_descr">
 		<text>Rosyjski cywilny karabinek ADAR 2-15 oparty na konstrukcji AR-15. Karabinek jest produkowany w Sankt Petersburgu z wykorzystaniem izraelskich komponentów i chromowanych luf firmy Molot Arms.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników typu Red Dot z niskim mocowaniem: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (z niskim mocowaniem), Docter Sight, 1P76 Rakurs (z niskim mocowaniem) oraz OKP-7.\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników typu Red Dot z niskim mocowaniem: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (z niskim mocowaniem), Docter Sight, 1P76 Rakurs (z niskim mocowaniem) oraz OKP-7.\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
 		</text>
 	</string>
 
@@ -442,10 +442,10 @@
 	<string id="st_wpn_ak5c_bas_descr">
 		<text>Ak 5 lub Automatkarbin 5 to szwedzka wersja karabinu szturmowego FN FNC, z pewnymi modyfikacjami, g³ównie w celu dostosowania broni do czêœciowo subarktycznego, szwedzkiego klimatu. Ak 5 to karabin s³u¿bowy Szwedzkich Si³ Zbrojnych, zmodernizowana wersja oryginalnego Ak 5, pod¹¿aj¹ca za trendem produkcji broni modu³owej. Jednym z najbardziej znacz¹cych ulepszeñ jest system szynowy MIL-STD-1913, do którego mo¿na montowaæ ró¿norodne optyki, latarki i przyrz¹dy celownicze, takie jak celowniki teleskopowe i wzmacniacze obrazu. Przyrz¹dy celownicze i budowa komory zamkowej nawi¹zuj¹ do oryginalnej rodziny karabinów Ak 5.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -455,8 +455,8 @@
 	<string id="st_wpn_ak5c_isg_descr">
 		<text>Zmodyfikowana wersja Ak 5C, na potrzeby ISG. Broñ rzadko spotykana w Zonie, u¿ywany przez niektóre oddzia³y ISG. AK 5 lub Automatkarbin 5 to szwedzka wersja karabinu szturmowego FN FNC z pewnymi modyfikacjami, g³ównie w celu dostosowania broni do czêœciowo subarktycznego, szwedzkiego klimatu. Ak 5 to karabin s³u¿bowy Szwedzkich Si³ Zbrojnych. Bofors Ak 5C to zmodernizowana wersja oryginalnego Ak 5, pod¹¿aj¹ca za trendem broni modu³owej. Jednym z najbardziej znacz¹cych ulepszeñ jest system szynowy MIL-STD-1913, do którego mo¿na montowaæ ró¿norodne optyki, œwiat³a i przyrz¹dy celownicze, takie jak celowniki teleskopowe i wzmacniacze obrazu.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: Rifle Dynamics ISG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
 
@@ -466,10 +466,10 @@
 	<string id="st_wpn_ak5c_bas_5c_tik_descr">
 		<text>Ak 5 lub Automatkarbin 5 to szwedzka wersja karabinu szturmowego FN FNC, z pewnymi modyfikacjami, g³ównie w celu dostosowania broni do czêœciowo subarktycznego, szwedzkiego klimatu. Ak 5 to karabin s³u¿bowy Szwedzkich Si³ Zbrojnych, zmodernizowana wersja oryginalnego Ak 5, pod¹¿aj¹ca za trendem produkcji broni modu³owej. Jednym z najbardziej znacz¹cych ulepszeñ jest system szynowy MIL-STD-1913, do którego mo¿na montowaæ ró¿norodne optyki, latarki i przyrz¹dy celownicze, takie jak celowniki teleskopowe i wzmacniacze obrazu. Przyrz¹dy celownicze i budowa komory zamkowej nawi¹zuj¹ do oryginalnej rodziny karabinów Ak 5. Ten wariant posiada zauwa¿alnie ulepszon¹ celnoœæ, dziêki dodatkowym przyrz¹dom celowniczym.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] broñ zosta³a ju¿ ulepszona zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] Broñ zosta³a ju¿ ulepszona zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Leupold (LCO), Leupold D'evo x6 i LA5\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Rifle Dynamics ISG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Leupold (LCO), Leupold D'evo x6 i LA5\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
 	
@@ -479,8 +479,8 @@
   	<string id="st_wpn_akm_alfa_descr">
 		<text>Opracowany w Izraelu przez Command Arms and Acessories (CAA) karabin szturmowy AK-Alfa zosta³ po raz pierwszy zaprezentowany publicznie w 2016 roku. Broñ ta jest sprzedawana pod dwiema markami – „Ka³asznikow USA” i „Ka³asznikow Izrael”. NajwyraŸniej ta broñ dosta³a siê do Zony  za spraw¹ ISG. Karabin szturmowy AK-Alfa to próba poprawy ergonomii karabinu AK przy zachowaniu jego g³ównych zalet - wysokiej niezawodnoœci i ³atwej obs³ugi.Podstaw¹ AK-Alfa jest zmodernizowana komora zamkowa, lufa z rur¹ gazow¹, ulepszony mechanizm ³aduj¹cy i g³ówne elementy spustu rosyjskiego karabinka Saiga.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight\n		
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight\n		
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45 mm/7.62 mm\n
 		</text>
   	</string>
 	
@@ -490,9 +490,9 @@
     <string id="st_wpn_ak12_m1_descr">
         <text>Wersja AK-12 zaprezentowana publicznie w 2016 roku. Ró¿ni siê doœæ znacz¹co wygl¹dem i konstrukcj¹ wielu wa¿nych podzespo³ów od poprzedniej wersji AK-12, pokazanej w 2015 roku. Konstrukcja karabinu zosta³a poprawiona zarówno w celu wyeliminowania szeregu zidentyfikowanych niedoci¹gniêæ i problemów jak i w kierunku poprawy produktywnoœci, z uwzglêdnieniem wymagañ sektora wojskowego.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ Picatinny\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: GP-25 Kostior\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ Picatinny\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior\n
 		</text>
     </string>
 	
@@ -502,9 +502,9 @@
 	<string id="st_wpn_ak12_descr">
 		<text>Karabin szturmowy Ka³asznikow AK-12 to najnowsze dzie³o fabryki I¯MASZ. Przeznaczony jest do zast¹pienia starszych karabinów Ka³asznikowa serii AK-74M i AK-100, do u¿ytku w³asnego, a tak¿e na eksport. Karabin wykorzystuje tryb ognia selektywnego i mechanizm z t³okiem gazowym o d³ugim przeskoku i blokad¹ zamka obrotowego. Mechanizm zamkowy jest zauwa¿alnie l¿ejszy, aby zmniejszyæ odrzut i poprawiæ celnoœæ w trybie ognia ci¹g³ego.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: GP-25 Kostior\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior\n
 		</text>
 	</string>
 
@@ -514,10 +514,10 @@
     <string id="st_wpn_ak12_custom_descr">
         <text>Rzadko spotykany towar. Zmodyfikowana wersja AK-12 z roku 2012, u¿ywana g³ównie przez funkcjê Monolit. Posiada kilka trybów strzelania: ogieñ ci¹g³y, pojedynczy lub serie po trzy strza³y.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin mo¿na ulepszyæ zestawem taktycznym Monolitu\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym Monolitu\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ Picatinny\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ Picatinny\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
 		</text>
     </string>
 
@@ -527,11 +527,11 @@
     <string id="st_wpn_ak12_mono_kit_descr">
 		<text>Rzadko spotykany towar. Zmodyfikowana wersja AK-12 Monolitu. U¿ywany g³ównie przez frakcjê Monolit. Posiada kilka trybów strzelania: ogieñ ci¹g³y, pojedynczy lub serie po trzy strza³y. Dziêki nowemu mechanizmowi spustowemu, jest to bardziej zaawansowana i potê¿niejsza wersja standardowego odpowiednika, maj¹ca zwiêkszon¹ szybkostrzelnoœæ i zredukowany odrzut. Tego ulepszenia nie mo¿na usun¹æ.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] broñ zosta³a ju¿ ulepszona zestawem taktycznym Monolitu\n \n
+		%c[d_purple] • %c[ui_gray_2] Broñ zosta³a ju¿ ulepszona zestawem taktycznym Monolitu\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Trijicon Acog i AN/PEQ-16 LAM (zintegrowany)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: "Stra¿nik"\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Trijicon Acog i AN/PEQ-16 LAM (zintegrowany)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: "Stra¿nik"\n
 		</text>
     </string>
 				
@@ -539,11 +539,11 @@
 		<text>AK-74</text>
 	</string>
     <string id="st_wpn_ak74_n_descr">
-		<text>AK-74 to karabin szturmowy, zasilany amunicj¹ 5,45x45 mm, zosta³ opracowany na pocz¹tku lat 70. przez Michai³a Ka³asznikowa, w celu zast¹pienia wczeœniejszego AKM. Zosta³ wprowadzony w 1974 roku i po raz pierwszy zosta³ wykorzystany przez si³y radzieckie w Afganistanie. Karabin AKM by³ przystosowany do strzelania mniejszymi nabojami 5,45x45 mm i wyposa¿ony w du¿y hamulec wylotowy.\n \n
+		<text>AK-74 to karabin szturmowy, zasilany amunicj¹ 5.45x39 mm, zosta³ opracowany na pocz¹tku lat 70. przez Michai³a Ka³asznikowa, w celu zast¹pienia wczeœniejszego AKM. Zosta³ wprowadzony w 1974 roku i po raz pierwszy zosta³ wykorzystany przez si³y radzieckie w Afganistanie. Karabin AKM by³ przystosowany do strzelania mniejszymi nabojami kalibru 5.45x39 mm i wyposa¿ony w du¿y hamulec wylotowy.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ATG\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ATG\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -551,12 +551,12 @@
 		<text>AK-74 PMC</text>
 	</string>
 	<string id="st_wpn_ak74_pmc_descr">
-		<text>Zmodyfikowana wersja karabinu szturmowego Ka³asznikowa, opracowana w 1970 roku do u¿ycia z amunicj¹ 5,45x39 mm. Od standardowej wersji ró¿ni siê zamontowanym zestawem taktycznym, w sk³ad którego wchodzi uchwyt taktyczny, podstawa z szyn¹ monta¿ow¹ Picatinny oraz sk³adana teleskopowa kolba, co znacznie poprawia ergonomiê. W zestawie znajduje siê równie¿ laserowe urz¹dzenie celownicze, latarka taktyczna oraz mocowanie adaptera do przyrz¹dów celowniczych. W Zonie podobne modele s¹ zwykle u¿ywane przez Najemników, ukraiñskie si³y specjalne  i inne grupy do prowadzenia operacji specjalnych.\n \n
+		<text>Zmodyfikowana wersja karabinu szturmowego Ka³asznikowa, opracowana w 1970 roku do u¿ycia z amunicj¹ 5.45x39 mm. Od standardowej wersji ró¿ni siê zamontowanym zestawem taktycznym, w sk³ad którego wchodzi uchwyt taktyczny, podstawa z szyn¹ monta¿ow¹ Picatinny oraz sk³adana teleskopowa kolba, co znacznie poprawia ergonomiê. W zestawie znajduje siê równie¿ laserowe urz¹dzenie celownicze, latarka taktyczna oraz mocowanie adaptera do przyrz¹dów celowniczych. W Zonie podobne modele s¹ zwykle u¿ywane przez Najemników, ukraiñskie si³y specjalne  i inne grupy do prowadzenia operacji specjalnych.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n \n
+		%c[d_purple] • %c[ui_gray_2] Broñ posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver oraz niektóre na szynê "Jaskó³czy ogon" (oprócz PSO bez gumowej nak³adki, EOTS-62 i 1P59 Hyperon)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ATG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver oraz niektóre na szynê "Jaskó³czy ogon" (oprócz PSO bez gumowej nak³adki, EOTS-62 i 1P59 Hyperon)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ATG\n
 		</text>
 	</string>
 
@@ -566,9 +566,9 @@
     <string id="st_wpn_ak74m_n_descr">
 		<text>W 1991 roku fabryka I¿masz rozpoczê³a produkcjê ulepszonego AK-74 - karabinu szturmowego AK-74M. Oprócz kilku drobnych usprawnieñ produkcyjnych, karabin posiada równie¿ now¹, sk³adan¹ syntetyczn¹ kolbê wykonan¹ z czarnego poliamidu wype³nionego w³óknem szklanym. W AK-74M zastosowano równie¿ wzmocniony hamulec wylotowy i os³onê przeciwpy³ow¹. Ka¿dy AK-74M jest wyposa¿ony we wspornik szyny bocznej do monta¿u optyki. AK-74M póŸniej zosta³ wprowadzony do uzbrojenia u¿ywanego w Armii Federacji Rosyjskiej.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -578,9 +578,9 @@
 	<string id="st_wpn_ak74m_beard_descr">
 		<text> Jest to l¿ejszy wariant karabinka AK, dostosowany do trudnych warunków Zony. Nie ma mo¿liwoœci podczepienia granatnika podlufowego. Wytwarzany jest na stacji Skadowsk i w Janowie, sk¹d rozchodzi siê po ca³ej Zonie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ typu "Jaskó³czy ogon" (z wyj¹tkiem 1P59 Hyperon, PSO z gumow¹ nasadk¹, wszystkich celowników refleksyjnych na podczerwieñ, oprócz Aimpoint PRO, Aimpoint T1 z wysok¹ nak³adk¹ i Barska 11090). Stosowanie lunet PSO z gumow¹ nasadk¹ jest wysoce niewskazane\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: brak mo¿liwoœci monta¿u\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ typu "Jaskó³czy ogon" (z wyj¹tkiem 1P59 Hyperon, PSO z gumow¹ nasadk¹, wszystkich celowników refleksyjnych na podczerwieñ, oprócz Aimpoint PRO, Aimpoint T1 z wysok¹ nak³adk¹ i Barska 11090). Stosowanie lunet PSO z gumow¹ nasadk¹ jest wysoce niewskazane\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak mo¿liwoœci monta¿u\n
 		</text>
 	</string>
 
@@ -590,8 +590,8 @@
 	<string id="st_wpn_ak74u_n1_descr">
 		<text>AKS-74U by³ przeznaczony dla jednostek piechoty powietrznodesantowej, jednostek wsparcia oraz za³óg pojazdów opancerzonych walcz¹cych na pierwszej linii, ale mo¿e byæ u¿ywany tak¿e przez jednostki zabezpieczaj¹ce ty³y. AKS-74 jest kompaktowym i skutecznym wariantem karabinu AKS, charakteryzuje siê jednak ni¿sz¹ szybkostrzelnoœci¹ w stosunku do innych modeli.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ i 1P59 Hyperon. W przypadku tej konkretnej broni, zaleca siê stosowanie celownika PSO z muszl¹ oczn¹)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-4\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ i 1P59 Hyperon. W przypadku tej konkretnej broni, zaleca siê stosowanie celownika PSO z muszl¹ oczn¹)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-4\n
 		</text>
 	</string>
 
@@ -601,8 +601,8 @@
 	<string id="st_wpn_ak74u_tac_descr">
 		<text>AKS-74U by³ przeznaczony g³ównie dla jednostek Specnazu, piechoty powietrznodesantowej, jednostek wsparcia ty³ów oraz za³óg pojazdów opancerzonych, które potrzebuj¹ kompaktowej, ale stosunkowo skutecznej broni automatycznej. AKS-74U jest znacznie bardziej zwrotny na ma³ych przestrzeniach ni¿ AKS-74, ale znaczny spadek prêdkoœci wylotowej pocisku skutkuje zmniejszeniem zasiêgu efektywnego. Ten specjalny wariant ma 45-nabojowy magazynek RPK.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ i 1P59 Hyperon oraz wszystkie refleksyjne na podczerwieñ oprócz Aimpoint PRO i Aimpoint T1 z wysok¹ nak³adk¹)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-4\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ i 1P59 Hyperon oraz wszystkie refleksyjne na podczerwieñ oprócz Aimpoint PRO i Aimpoint T1 z wysok¹ nak³adk¹)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-4\n
 		</text>
 	</string>
 
@@ -610,10 +610,10 @@
     	<text>AK-104 Alfa</text>
   	</string>
   	<string id="st_wpn_ak104_alfa_descr">
-		<text>Zmodyfikowana wersja karabinu szturmowego AK-104 kal. 7,62 mm. W zestawie z lunet¹ SIG Bravo 4 i zamontowanym na niej Trijicon RMR.\n \n
+		<text>Zmodyfikowana wersja karabinu szturmowego AK-104 kalibru 7.62x39 mm. W zestawie z lunet¹ SIG Bravo 4 i zamontowanym na niej Trijicon RMR.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n		
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n		
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
 		</text>
   	</string>
 	
@@ -621,12 +621,12 @@
 		<text>AK-105</text>
 	</string>
 	<string id="st_wpn_ak105_descr">
-		<text>Karabin AK-105 to ulepszona wersja karabinka AK-74M, zasilana amunicj¹ 5,45x39 mm. AK-105 stanowi doskona³e uzupe³nienie uzbrojenia Armii Rosyjskiej, wraz z karabinkami AKS-74U. Idealny walki na ma³ych przestrzeniach, nie jest przeznaczony do walki na daleki dystans. Obudowa karabinu wykonana jest z t³oczonej stali, magazynek wykonany jest ze wzmocnionego w³ókna szklanego, a kolba z tworzywa sztucznego, dziêki czemu jest l¿ejsza, trwalsza i pozwala na przechowywanie w nim dodatkowego zestawu amunicji.\n \n
+		<text>Karabin AK-105 to ulepszona wersja karabinka AK-74M, zasilana amunicj¹ 5.45x39 mm. AK-105 stanowi doskona³e uzupe³nienie uzbrojenia Armii Rosyjskiej, wraz z karabinkami AKS-74U. Idealny walki na ma³ych przestrzeniach, nie jest przeznaczony do walki na daleki dystans. Obudowa karabinu wykonana jest z t³oczonej stali, magazynek wykonany jest ze wzmocnionego w³ókna szklanego, a kolba z tworzywa sztucznego, dziêki czemu jest l¿ejsza, trwalsza i pozwala na przechowywanie w nim dodatkowego zestawu amunicji.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] T¹ broñ mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
 		</text>
 	</string>
 
@@ -634,12 +634,12 @@
 		<text>AK-105 "Szakal"</text>
 	</string>
 	<string id="st_wpn_ak105_shakal_descr">
-		<text>Karabin AK-105 to ulepszona wersja karabinka AK-74M, zasilana amunicj¹ 5,45x39 mm. AK-105 stanowi doskona³e uzupe³nienie uzbrojenia Armii Rosyjskiej, wraz z karabinkami AKS-74U. Idealny walki na ma³ych przestrzeniach, nie jest przeznaczony do walki na daleki dystans. Obudowa karabinu wykonana jest z t³oczonej stali, magazynek wykonany jest ze wzmocnionego w³ókna szklanego, a kolba z tworzywa sztucznego, dziêki czemu jest l¿ejsza, trwalsza i pozwala na przechowywanie w nim dodatkowego zestawu amunicji. Ten wariant posiada zintegrowany celownik oraz poprawione parametry.\n \n
+		<text>Karabin AK-105 to ulepszona wersja karabinka AK-74M, zasilana amunicj¹ 5.45x39 mm. AK-105 stanowi doskona³e uzupe³nienie uzbrojenia Armii Rosyjskiej, wraz z karabinkami AKS-74U. Idealny walki na ma³ych przestrzeniach, nie jest przeznaczony do walki na daleki dystans. Obudowa karabinu wykonana jest z t³oczonej stali, magazynek wykonany jest ze wzmocnionego w³ókna szklanego, a kolba z tworzywa sztucznego, dziêki czemu jest l¿ejsza, trwalsza i pozwala na przechowywanie w nim dodatkowego zestawu amunicji. Ten wariant posiada zintegrowany celownik oraz poprawione parametry.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin zosta³ ju¿ ulepszony zestawem taktycznym "Szakal"\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten AK zosta³ ju¿ ulepszony zestawem taktycznym "Szakal"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Trijicon Acog, Trijicon RMR i AN/PEQ-15 LAM (zintegrowany)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Trijicon Acog, Trijicon RMR i AN/PEQ-15 LAM (zintegrowany)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
 		</text>
 	</string>
 	
@@ -649,10 +649,10 @@
 	<string id="st_wpn_ak105_sp_descr">
 		<text>Zmodyfikowana wersja karabinka AK-105, który dziêki wytê¿onej pracy techników Najemników zosta³ zauwa¿alnie ulepszony. Zredukowano odrzut, poprawiono celnoœæ i zwiêkszono niezawodnoœæ.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celownik Leupold Deltapoint Pro (na podczerwieñ) zosta³ ju¿ zamontowany na szynie monta¿owej NcStar\n \n
+		%c[d_purple] • %c[ui_gray_2] Celownik Leupold Deltapoint Pro (na podczerwieñ) zosta³ ju¿ zamontowany na szynie monta¿owej NcStar\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ typu "Jaskó³czy ogon" (oprócz celownika PSO z gumow¹ nak³adk¹ oraz 1P59 Hyperon - zwyk³y i na podczerwieñ)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-A\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ typu "Jaskó³czy ogon" (oprócz celownika PSO z gumow¹ nak³adk¹ oraz 1P59 Hyperon - zwyk³y i na podczerwieñ)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-A\n
 		</text>
 	</string>
 
@@ -660,12 +660,12 @@
 		<text>AK-105 "B³otniak"</text>
 	</string>
 	<string id="st_wpn_ak105_swamp_descr">
-		<text>Karabin AK-105 to ulepszona wersja karabinka AK-74M, zasilana amunicj¹ 5,45x39 mm. AK-105 stanowi doskona³e uzupe³nienie uzbrojenia Armii Rosyjskiej, wraz z karabinkami AKS-74U. Wariant "B³otniak" jest bardzo rzadko spotykany. Wystêpuje g³ównie wœród weteranów frakcji Czyste Niebo. Ze wzglêdu na obecnoœæ kilku przyrz¹dów celowniczych na raz, idealnie nadaje siê do walki zarówno na bliskim, jak i œrednim dystansie.\n \n
+		<text>Karabin AK-105 to ulepszona wersja karabinka AK-74M, zasilana amunicj¹ 5.45x39 mm. AK-105 stanowi doskona³e uzupe³nienie uzbrojenia Armii Rosyjskiej, wraz z karabinkami AKS-74U. Wariant "B³otniak" jest bardzo rzadko spotykany. Wystêpuje g³ównie wœród weteranów frakcji Czyste Niebo. Ze wzglêdu na obecnoœæ kilku przyrz¹dów celowniczych na raz, idealnie nadaje siê do walki zarówno na bliskim, jak i œrednim dystansie.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin zosta³ ju¿ ulepszony zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten AK zosta³ ju¿ ulepszony zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Elcan SpecterDr, Trijicon RMR and AN/PEQ-15 LAM (zintegrowany)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Elcan SpecterDr, Trijicon RMR and AN/PEQ-15 LAM (zintegrowany)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45 mm/7.62 mm\n
 		</text>
 	</string>
 
@@ -673,11 +673,11 @@
 		<text>AKM</text>
 	</string>
 	<string id="st_wpn_akm_bas_descr">
-		<text>AKM to karabin szturmowy kalibru 7,62x39 mm zaprojektowany przez Michai³a Ka³asznikowa. Jest to ulepszona wersja karabinu AK-47, opracowana w latach 50-tych. Wprowadzony do Armii Czerwonej w 1959 r. AKM jest najpopularniejszym wariantem serii AK i znalaz³ szerokie zastosowanie w by³ych pañstwach Uk³adu Warszawskiego i krajów z Afryki i Azji. Produkcja karabinów AKM odbywa³a siê w Zak³adach Zbrojeniowych w Tule i Zak³adach Mechanicznych I¿ewsk.\n \n
+		<text>AKM to karabin szturmowy kalibru 7.62x39 mm zaprojektowany przez Michai³a Ka³asznikowa. Jest to ulepszona wersja karabinu AK-47, opracowana w latach 50-tych. Wprowadzony do Armii Czerwonej w 1959 r. AKM jest najpopularniejszym wariantem serii AK i znalaz³ szerokie zastosowanie w by³ych pañstwach Uk³adu Warszawskiego i krajów z Afryki i Azji. Produkcja karabinów AKM odbywa³a siê w Zak³adach Zbrojeniowych w Tule i Zak³adach Mechanicznych I¿ewsk.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: brak\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -687,9 +687,9 @@
 	<string id="st_wpn_akms_bas_descr">
 		<text>Wariant AKM wyposa¿ony w sk³adan¹ metalow¹ kolbê, zamiast sta³ej drewnianej kolby. Nowa, metalowa kolba robi ró¿nice przede wszystkim w zakresie ³atwego transportu broni, gwarantuje równie¿ wiêksz¹ stabilnoœæ podczas strzelania.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
-		%c[d_purple] • %c[ui_gray_2] celowniki: brak\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: PBS-1\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: brak\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: PBS-1\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 	
@@ -699,8 +699,8 @@
 	<string id="st_wpn_abakan_n_descr">
 		<text>Kluczowym ulepszeniem AN-94, w stosunku do AK-74, jest wprowadzenie dodatkowego trybu strzelania seriami po 2 pociski. Konstrukcja Nikonowa redukuje si³ê odrzutu do czasu a¿ pociski opuszcz¹ lufê, co wraz z mo¿liwoœci¹ wystrzelenia dwóch pocisków na raz daje wydajnoœæ na poziomie 1800 strza³ów na minutê, jednoczeœnie zauwa¿alnie zwiêkszaj¹c si³ê penetracji pocisków. U¿ywany g³ównie przez komandosów Specnazu, ale tak¿e przez inne s³u¿by mundurowe do niszczenia ciê¿ko opancerzonych przeciwników.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: GP-25 Kostior (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz PSO z gumow¹ nak³adk¹ ze wzglêdu na niedogodnoœci korzystania z tych lunet na karabinkach AK i 1P59 Hyperon)\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -712,8 +712,8 @@
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] broñ posiada zainstalowane ju¿ ulepszenia: taktyczny modu³ z laserem o kolorze zielonym B.E. MEYERS MAWL-C1 i uchwyt przedni Here Arms (pomaga w kontroli odrzutu) oraz kolba\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników typu Red Dot z niskim mocowaniem: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (z niskim mocowaniem), Docter Sight i 1P76 Rakurs (Picatinny)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Surefire SOCOM556-MONSTER\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny Picatinny/Weaver (z wyj¹tkiem celowników typu Red Dot z niskim mocowaniem: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (z niskim mocowaniem), Docter Sight i 1P76 Rakurs (Picatinny)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Surefire SOCOM556-MONSTER\n
 		</text>
 	</string>
 
@@ -723,9 +723,9 @@
 	<string id="st_wpn_val_tac_descr">
 		<text>AS Wa³ jest powszechnie u¿ywany przez jednostki rozpoznawcze Armii Rosyjskiej, a tak¿e przez si³y specjalne MWD (Ministerstwo Spraw Wewnêtrznych) i FSB (Federalne Biuro Bezpieczeñstwa). AS-VAL jest broni¹ ze zintegrowanym t³umikiem i rozszerzonym magazynkiem. Obudowa jest obrabiana maszynowo ze stali kutej dla zwiêkszenia wytrzyma³oœci. Posiada standardow¹, boczn¹ szynê do celownika optycznego, noktowizyjnego lub celownika refleksyjnego, ale nie ma mo¿liwoœci zamontowania bagnetu lub granatnika. Zintegrowany t³umik mo¿na ³atwo od³¹czyæ w celu konserwacji, naprawy lub transportu, ale z karabinu nie nale¿y strzelaæ bez t³umika, ze wzglêdu na problemy z obs³ug¹ i niezawodnoœci¹.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik WSS\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
 		</text>
 	</string>
 
@@ -733,11 +733,11 @@
 		<text>Steyr AUG A1</text>
 	</string>
 	<string id="st_wpn_aug_a1_custom_bas_descr">
-		<text>Steyr AUG A1 w standardowym wariancie (zielony kolor). AUG to austriacki karabin szturmowy typu bullpup kal. 5,56 mm, zaprojektowany w latach 60. przez firmê Steyr Mannlicher GmbH und Co KG (dawniej Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr) zosta³ przyjêty przez armiê austriack¹ jako StG 77 (Sturmgewehr 77) w 1978 roku, gdzie zast¹pi³ karabin automatyczny StG 58 kal. 7,62 mm (produkowany na licencji FN FAL). W produkcji od 1978 roku, jest to standardowa broñ strzelecka austriackiego Bundesheer i ró¿nych krajowych jednostek policji. Wariant CQB ma mniejsz¹ wagê i zwiêkszon¹ szybkostrzelnoœæ w porównaniu do orygina³u.\n \n
+		<text>Steyr AUG A1 w standardowym wariancie (zielony kolor). AUG to austriacki karabin szturmowy typu bullpup kalibru 5.56x45 mm, zaprojektowany w latach 60. przez firmê Steyr Mannlicher GmbH und Co KG (dawniej Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr) zosta³ przyjêty przez armiê austriack¹ jako StG 77 (Sturmgewehr 77) w 1978 roku, gdzie zast¹pi³ karabin automatyczny StG 58 kalibru 7.62x51 mm (produkowany na licencji FN FAL). W produkcji od 1978 roku, jest to standardowa broñ strzelecka austriackiego Bundesheer i ró¿nych krajowych jednostek policji. Wariant CQB ma mniejsz¹ wagê i zwiêkszon¹ szybkostrzelnoœæ w porównaniu do orygina³u.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zintegrowany celownik 1x5\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten AUG posiada zintegrowany celownik 1x5\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Steyr UMS\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Steyr UMS\n
 		</text>
 	</string>
 
@@ -745,11 +745,11 @@
 		<text>FN SCAR-H</text>
 	</string>
 	<string id="st_wpn_scar_siber_descr">
-		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7,62x51 mm NATO.\n \n
+		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7.62x51 mm NATO.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: FN HERSTAL FN40GL Mk2\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: FN HERSTAL FN40GL Mk2\n
 		</text>
 	</string>
 
@@ -757,11 +757,11 @@
 		<text>FN SCAR-H (Czarny)</text>
 	</string>
 	<string id="st_wpn_scar_siber_black_descr">
-		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7,62x51 mm NATO.\n \n
+		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7.62x51 mm NATO.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik AAC 7.62 SDN-6\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: FN HERSTAL FN40GL Mk2\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: FN HERSTAL FN40GL Mk2\n
 		</text>
 	</string>
 
@@ -769,13 +769,13 @@
 		<text>Taktyczny FN SCAR-H</text>
 	</string>
 	<string id="st_wpn_scar_siber_m1_descr">
-		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7,62x51 mm NATO.\n \n
+		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7.62x51 mm NATO.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada ju¿ zintegrowane ulepszenia: przedni uchwyt Magpull, celownik Tritium\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten SCAR posiada ju¿ zintegrowane ulepszenia: przedni chwyt Magpul i celownik Tritium\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak\n
 		</text>
 	</string>
 
@@ -783,13 +783,13 @@
 		<text>FN SCAR-H "Ekspert"</text>
 	</string>
 	<string id="st_wpn_scar_siber_m2_descr">
-		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7,62x51 mm NATO.\n \n
+		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7.62x51 mm NATO.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada ju¿ zintegrowane ulepszenia: przedni uchwyt Magpull, celownik Tritium, B.E. MEYERS MAWL-C1 (zielony)\n \n
+		%c[d_purple] • %c[ui_gray_2] broñ posiada ju¿ zintegrowane ulepszenia: przedni chwyt Magpul i celownik Tritium i modu³ laserowy B.E. MEYERS MAWL-C1 (zielony)\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak\n
 		</text>
 	</string>
 	
@@ -797,26 +797,26 @@
 		<text>FN SCAR-H "Specjalista"</text>
 	</string>
 	<string id="st_wpn_scar_siber_m2_custom_descr">
-		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7,62x51 mm NATO.\n \n
+		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7.62x51 mm NATO.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada ju¿ zintegrowane ulepszenia: B.E. MEYERS MAWL-C1\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten SCAR posiada ju¿ zintegrowane ulepszenia: modu³ laserowy B.E. MEYERS MAWL-C1\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Vortex RAZOR UH-1, EOTech G33\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Vortex RAZOR UH-1, EOTech G33\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak\n
 		</text>
 	</string>
 	<string id="st_wpn_scar_siber_m1_black">
 		<text>Taktyczny FN SCAR-H (Czarny)</text>
 	</string>
 	<string id="st_wpn_scar_siber_m1_black_descr">
-		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7,62x51 mm NATO.\n \n
+		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin wyprodukowany przez FN Herstal dla SOCOM, w celu zaspokojenia coraz wiêkszych potrzeb sektora wojskowego. Ta rodzina karabinów sk³ada siê z dwóch typów, SCAR-H i SCAR-L. SCAR-H (ciê¿sza wersja) jest zasilana nabojem 7.62x51 mm NATO.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada ju¿ zintegrowane ulepszenia: przedni uchwyt Magpull, celownik Tritium\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten SCAR posiada ju¿ zintegrowane ulepszenia: przedni chwyt Magpul i celownik Tritium\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak\n
 		</text>
 	</string>
 
@@ -824,10 +824,10 @@
 		<text>Howa Type 20</text>
 	</string>
 	<string id="st_wpn_howa20_descr">
-		<text>Karabin szturmowy zosta³ oficjalnie zaprezentowany w maju 2020 roku. Broñ ta ma zast¹piæ karabin szturmowy Typ 89, który by³ u¿ywany od oko³o 30 lat. Nowy karabin Japoñskich Si³ Zbrojnych, podobnie jak poprzedni, zosta³ opracowany przez Howa Machinery Co i wykorzystuje amunicjê 5,56 mm. Prace nad nowym karabinem, który mia³ zast¹piæ Typ 89, rozpoczêto na proœbê japoñskich si³ zbrojnych w 2014 roku. Zewnêtrznie i konstrukcyjnie nowy karabin Typ 20 nawi¹zuje do nowoczesnych karabinów, takich jak HK433 czy CZ BREN II. Zagadk¹ pozostaje, jak i w jakiej iloœci karabin trafi³ w rêce zespo³ów naukowych w Zonie.\n \n
+		<text>Karabin szturmowy zosta³ oficjalnie zaprezentowany w maju 2020 roku. Broñ ta ma zast¹piæ karabin szturmowy Typ 89, który by³ u¿ywany od oko³o 30 lat. Nowy karabin Japoñskich Si³ Zbrojnych, podobnie jak poprzedni, zosta³ opracowany przez Howa Machinery Co i wykorzystuje amunicjê kalibru 5.56x45 mm. Prace nad nowym karabinem, który mia³ zast¹piæ Typ 89, rozpoczêto na proœbê japoñskich si³ zbrojnych w 2014 roku. Zewnêtrznie i konstrukcyjnie nowy karabin Typ 20 nawi¹zuje do nowoczesnych karabinów, takich jak HK433 czy CZ BREN II. Zagadk¹ pozostaje, jak i w jakiej iloœci karabin trafi³ w rêce zespo³ów naukowych w Zonie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: MARCH Shorty i AN/PEQ-15A DBAL-A2\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: KAC QDSS NT-4 5.56x45\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: MARCH Shorty i AN/PEQ-15A DBAL-A2\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: KAC QDSS NT-4 5.56x45\n
 		</text>
 	</string>
 
@@ -835,11 +835,11 @@
 		<text>L85A2</text>
 	</string>
 	<string id="st_wpn_l85_m1_descr">
-		<text>Rozwój systemu SA80 obejmowa³ dwie bronie, karabin szturmowy SA80 IW i lekki karabin maszynowy SA80 LSW, rozpocz¹³ siê pod koniec lat 60., kiedy armia brytyjska zdecydowa³a siê na opracowanie nowego karabinu, który mia³ zast¹piæ starzej¹cy siê  L1 SLR kal. 7,62x51mm. FN FAL to podstawowa broñ brytyjskich si³ zbrojnych, L85 (w swojej oryginalnej wersji A1), mia³ wiele problemów z wydajnoœci¹. Wariant A2 powsta³ w wyniku znacz¹cej modernizacji przeprowadzonej na pocz¹tku XXI wieku przez firmê Heckler und Koch i pozostaje w s³u¿bie od 2020 roku. L85A2 jest wyj¹tkowo niezawodny w ró¿nych warunkach klimatycznych. Obecne karabiny L85A2 s¹ uznawane za niezawodne i celne, zw³aszcza przy u¿yciu standardowych celowników teleskopowych SUSAT.\n \n
+		<text>Rozwój systemu SA80 obejmowa³ dwie bronie, karabin szturmowy SA80 IW i lekki karabin maszynowy SA80 LSW, rozpocz¹³ siê pod koniec lat 60., kiedy armia brytyjska zdecydowa³a siê na opracowanie nowego karabinu, który mia³ zast¹piæ starzej¹cy siê L1 SLR kalibru 7.62x51 mm. FN FAL to podstawowa broñ brytyjskich si³ zbrojnych, L85 (w swojej oryginalnej wersji A1), mia³ wiele problemów z wydajnoœci¹. Wariant A2 powsta³ w wyniku znacz¹cej modernizacji przeprowadzonej na pocz¹tku XXI wieku przez firmê Heckler und Koch i pozostaje w s³u¿bie od 2020 roku. L85A2 jest wyj¹tkowo niezawodny w ró¿nych warunkach klimatycznych. Obecne karabiny L85A2 s¹ uznawane za niezawodne i celne, zw³aszcza przy u¿yciu standardowych celowników teleskopowych SUSAT.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
-		%c[d_purple] • %c[ui_gray_2] celowniki: SUSAT\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: SUSAT\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak\n
 		</text>
 	</string>
 	
@@ -847,13 +847,13 @@
 		<text>Zmodyfikowany L85A2</text>
 	</string>
 	<string id="st_wpn_l85_m2_descr">
-		<text>Rozwój systemu SA80 obejmowa³ dwie bronie, karabin szturmowy SA80 IW i lekki karabin maszynowy SA80 LSW, rozpocz¹³ siê pod koniec lat 60., kiedy armia brytyjska zdecydowa³a siê na opracowanie nowego karabinu, który mia³ zast¹piæ starzej¹cy siê L1 SLR kal. 7,62x51mm. FN FAL to podstawowa broñ brytyjskich si³ zbrojnych, L85 (w swojej oryginalnej wersji A1), mia³ wiele problemów z wydajnoœci¹. Wariant A2 powsta³ w wyniku znacz¹cej modernizacji przeprowadzonej na pocz¹tku XXI wieku przez firmê Heckler und Koch i pozostaje w s³u¿bie od 2020 roku. L85A2 jest wyj¹tkowo niezawodny w ró¿nych warunkach klimatycznych. Obecne karabiny L85A2 s¹ uznawane za niezawodne i celne, zw³aszcza przy u¿yciu standardowych celowników teleskopowych SUSAT. Ten wariant ma dodatkow¹ szynê monta¿ow¹ na przyrz¹dy celownicze.\n \n
+		<text>Rozwój systemu SA80 obejmowa³ dwie bronie, karabin szturmowy SA80 IW i lekki karabin maszynowy SA80 LSW, rozpocz¹³ siê pod koniec lat 60., kiedy armia brytyjska zdecydowa³a siê na opracowanie nowego karabinu, który mia³ zast¹piæ starzej¹cy siê L1 SLR kalibru 7.62x51 mm. FN FAL to podstawowa broñ brytyjskich si³ zbrojnych, L85 (w swojej oryginalnej wersji A1), mia³ wiele problemów z wydajnoœci¹. Wariant A2 powsta³ w wyniku znacz¹cej modernizacji przeprowadzonej na pocz¹tku XXI wieku przez firmê Heckler und Koch i pozostaje w s³u¿bie od 2020 roku. L85A2 jest wyj¹tkowo niezawodny w ró¿nych warunkach klimatycznych. Obecne karabiny L85A2 s¹ uznawane za niezawodne i celne, zw³aszcza przy u¿yciu standardowych celowników teleskopowych SUSAT. Ten wariant ma dodatkow¹ szynê monta¿ow¹ na przyrz¹dy celownicze.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-        %c[d_purple] • %c[ui_gray_2] broñ zosta³a ju¿ ulepszona zestawem taktycznym\n \n	
+        %c[d_purple] • %c[ui_gray_2] Ten L85A2 zosta³ ju¿ ulepszony zestawem taktycznym\n \n	
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak\n
 		</text>
 	</string>
 
@@ -861,13 +861,13 @@
 		<text>Taktyczny L85A2</text>
 	</string>
 	<string id="st_wpn_l85_m3_descr">
-		<text>Rozwój systemu SA80 obejmowa³ dwie bronie, karabin szturmowy SA80 IW i lekki karabin maszynowy SA80 LSW, rozpocz¹³ siê pod koniec lat 60., kiedy armia brytyjska zdecydowa³a siê na opracowanie nowego karabinu, który mia³ zast¹piæ starzej¹cy siê  L1 SLR kal. 7,62x51mm. FN FAL to podstawowa broñ brytyjskich si³ zbrojnych, L85 (w swojej oryginalnej wersji A1), mia³ wiele problemów z wydajnoœci¹. Wariant A2 powsta³ w wyniku znacz¹cej modernizacji przeprowadzonej na pocz¹tku XXI wieku przez firmê Heckler und Koch i pozostaje w s³u¿bie od 2020 roku. L85A2 jest wyj¹tkowo niezawodny w ró¿nych warunkach klimatycznych. Obecne karabiny L85A2 s¹ uznawane za niezawodne i celne, zw³aszcza przy u¿yciu standardowych celowników teleskopowych SUSAT Ten wariant posiada znacz¹co zwiêkszon¹ celnoœæ.\n \n
+		<text>Rozwój systemu SA80 obejmowa³ dwie bronie, karabin szturmowy SA80 IW i lekki karabin maszynowy SA80 LSW, rozpocz¹³ siê pod koniec lat 60., kiedy armia brytyjska zdecydowa³a siê na opracowanie nowego karabinu, który mia³ zast¹piæ starzej¹cy siê L1 SLR kalibru 7.62x51 mm. FN FAL to podstawowa broñ brytyjskich si³ zbrojnych, L85 (w swojej oryginalnej wersji A1), mia³ wiele problemów z wydajnoœci¹. Wariant A2 powsta³ w wyniku znacz¹cej modernizacji przeprowadzonej na pocz¹tku XXI wieku przez firmê Heckler und Koch i pozostaje w s³u¿bie od 2020 roku. L85A2 jest wyj¹tkowo niezawodny w ró¿nych warunkach klimatycznych. Obecne karabiny L85A2 s¹ uznawane za niezawodne i celne, zw³aszcza przy u¿yciu standardowych celowników teleskopowych SUSAT Ten wariant posiada znacz¹co zwiêkszon¹ celnoœæ.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-        %c[d_purple] • %c[ui_gray_2] broñ zosta³a ju¿ ulepszona zestawem taktycznym\n \n		
+        %c[d_purple] • %c[ui_gray_2] Ten L85A2 zosta³ ju¿ ulepszony zestawem taktycznym\n \n		
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: M320\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M320\n
 		</text>
 	</string>	
 
@@ -875,11 +875,11 @@
 		<text>M4A1 RAS</text>
 	</string>
 	<string id="st_wpn_m4a1_siber_descr">
-		<text>Karabinek M4 wywodzi siê z rodziny karabinów M16, opartych na oryginalnym AR-15, wyprodukowanym przez ArmaLite. Jest to krótsza i l¿ejsza wersja karabinu szturmowego M16, dziel¹ca 80% swoich czêœci. M4 strzela amunicj¹ NATO 5,56x45 mm i jest ch³odzony powietrzem, ma pojemny magazynek oraz tryb ognia selektywnego, z 4-pozycyjn¹ teleskopow¹ kolb¹. M4 jest porêczny i ³atwy do przenoszenia. Zosta³ przyjêty jako podstawowy karabin przez Dowództwo Operacji Specjalnych Stanów Zjednoczonych (USSOCOM) i jest preferowan¹ broni¹ Si³ Specjalnych Armii USA i Navy SEAL.\n \n
+		<text>Karabinek M4 wywodzi siê z rodziny karabinów M16, opartych na oryginalnym AR-15, wyprodukowanym przez ArmaLite. Jest to krótsza i l¿ejsza wersja karabinu szturmowego M16, dziel¹ca 80% swoich czêœci. M4 strzela amunicj¹ NATO 5.56x45 mm i jest ch³odzony powietrzem, ma pojemny magazynek oraz tryb ognia selektywnego, z 4-pozycyjn¹ teleskopow¹ kolb¹. M4 jest porêczny i ³atwy do przenoszenia. Zosta³ przyjêty jako podstawowy karabin przez Dowództwo Operacji Specjalnych Stanów Zjednoczonych (USSOCOM) i jest preferowan¹ broni¹ Si³ Specjalnych Armii USA i Navy SEAL.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ przek³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs i OKP-7)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
-		%c[d_purple] • %c[ui_gray_2] granatnik: M203\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników na podczerwieñ z nisk¹ przek³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs i OKP-7)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: ADVANCED ARMAMENT (AAC) M4-2000\n
+		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203\n
 		</text>
 	</string>
 
@@ -887,10 +887,10 @@
 		<text>M4 "RzeŸnik"</text>
 	</string>
 	<string id="st_wpn_m4_butcher_descr">
-		<text>Zmodernizowany model Colt M4A1 Commando (CQBR) to karabin szturmowy, zaprojektowany w USA na bazie platformy AR-15 na nabój 5,56x45 mm NATO. Zosta³ opracowany g³ównie do u¿ytku przez za³ogi pojazdów i zespo³y szturmowe, które potrzebowa³y bardziej kompaktowej i l¿ejszej broni ni¿ standardowy karabin pe³nowymiarowy, ale o podobnej sile ognia. Dowództwo Operacji Specjalnych Stanów Zjednoczonych z czasem zaczê³o u¿ywaæ tego karabinu we wszystkich jednostkach.\n \n
+		<text>Zmodernizowany model Colt M4A1 Commando (CQBR) to karabin szturmowy, zaprojektowany w USA na bazie platformy AR-15 na nabój 5.56x45 mm NATO. Zosta³ opracowany g³ównie do u¿ytku przez za³ogi pojazdów i zespo³y szturmowe, które potrzebowa³y bardziej kompaktowej i l¿ejszej broni ni¿ standardowy karabin pe³nowymiarowy, ale o podobnej sile ognia. Dowództwo Operacji Specjalnych Stanów Zjednoczonych z czasem zaczê³o u¿ywaæ tego karabinu we wszystkich jednostkach.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników refleksyjnych na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs i OKP-7)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników refleksyjnych na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight, 1P76 Rakurs i OKP-7)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 	
@@ -898,10 +898,10 @@
 		<text>M4A1 "Obroñca"</text>
 	</string>
 	<string id="st_wpn_m4_tac_descr">
-		<text>Colt M4A1 to karabin szturmowy, zaprojektowany w USA na bazie platformy AR-15, na nabój 5,56x45 mm NATO. Zosta³ opracowany g³ównie do u¿ytku przez za³ogi pojazdów i oddzia³y szturmowe, które potrzebowa³y bardziej kompaktowej i l¿ejszej broni ni¿ standardowy karabin pe³nowymiarowy, ale zapewniaj¹cej podobn¹ si³ê ra¿enia. US SOCOM (Dowództwo Operacji Specjalnych Stanów Zjednoczonych) z czasem zaczê³o wykorzystywaæ karabinek M4A1 we wszystkich jednostkach.\n \n
+		<text>Colt M4A1 to karabin szturmowy, zaprojektowany w USA na bazie platformy AR-15, na nabój 5.56x45 mm NATO. Zosta³ opracowany g³ównie do u¿ytku przez za³ogi pojazdów i oddzia³y szturmowe, które potrzebowa³y bardziej kompaktowej i l¿ejszej broni ni¿ standardowy karabin pe³nowymiarowy, ale zapewniaj¹cej podobn¹ si³ê ra¿enia. US SOCOM (Dowództwo Operacji Specjalnych Stanów Zjednoczonych) z czasem zaczê³o wykorzystywaæ karabinek M4A1 we wszystkich jednostkach.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników refleksyjnych na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight i 1P76 Rakurs)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Surefire SOCOM556-MONSTER\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników refleksyjnych na podczerwieñ z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1, Docter Sight i 1P76 Rakurs)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Surefire SOCOM556-MONSTER\n
 		</text>
 	</string>
 
@@ -911,8 +911,8 @@
 	<string id="st_wpn_pkm_zenit_siber_descr">
 		<text>Ulepszona modyfikacja pistoletu maszynowego PKM w zestawie karoserii od firmy Zenitka. Model ma zamontowany k¹towy chwyt przedni dla lepszej kontroli odrzutu. W Zonie jest u¿ywany g³ównie przez wojsko (si³y specjalne).\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki pasuj¹ce na szyny monta¿owe Picatinny/Weaver, a tak¿e taktyczne urz¹dzenie Zenit Perst-3 Tactical z czerwonym laserem (w zestawie)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-V\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasuj¹ce na szyny monta¿owe Picatinny/Weaver, a tak¿e taktyczne urz¹dzenie Zenit Perst-3 Tactical z czerwonym laserem (w zestawie)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-V\n
 		</text>
 	</string>
 
@@ -920,10 +920,10 @@
 		<text>PKP Pieczienieg</text>
 	</string>
 	<string id="st_wpn_pkp_siber_descr">
-		<text>PKP "Pieczienieg" to rosyjski lekki karabin maszynowy na nabój 7,62x54 mm R. Jest to zmodernizowany karabin maszynowy PKM. Mówi siê, ¿e Pieczienieg jest bardziej celny ni¿ wszyscy jego poprzednicy ze wzglêdu na ciê¿sz¹, niewymienn¹ lufê z wymuszonym ch³odzeniem powietrzem z promieniowymi ¿ebrami ch³odz¹cymi i uchwytem, który eliminuje efekt zamglenia spowodowany gor¹cymi gazami i utrzymuje lufê w ni¿szej temperaturze, dziêki czemu broñ jest bardziej niezawodna.\n \n
+		<text>PKP "Pieczienieg" to rosyjski lekki karabin maszynowy na nabój 7.62x54 mm R. Jest to zmodernizowany karabin maszynowy PKM. Mówi siê, ¿e Pieczienieg jest bardziej celny ni¿ wszyscy jego poprzednicy ze wzglêdu na ciê¿sz¹, niewymienn¹ lufê z wymuszonym ch³odzeniem powietrzem z promieniowymi ¿ebrami ch³odz¹cymi i uchwytem, który eliminuje efekt zamglenia spowodowany gor¹cymi gazami i utrzymuje lufê w ni¿szej temperaturze, dziêki czemu broñ jest bardziej niezawodna.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki pasuj¹ce na szynê "Jaskó³czy ogon"\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-V\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasuj¹ce na szynê "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-V\n
 		</text>
 	</string>
 
@@ -933,10 +933,10 @@
 	<string id="st_wpn_akm_isg_descr">
 		<text> Niestandardowy model AKM zmodyfikowany przez amerykañsk¹ firmê Rifle Dynamics. Jest to jedna z najbardziej zaawansowanych technologicznie broni w Zonie. U¿ywana g³ównie przez jednostki specjalne ISG.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten RD-47 posiada ju¿ zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Rifle Dynamics ISG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
 	
@@ -947,8 +947,8 @@
 	<string id="st_wpn_ak74u_isg_descr">
 		<text>Niestandardowy model karabinka u¿ywanego przez ISC, opracowany na bazie AKSU, przez amerykañsk¹ firmê Rifle Dynamics. Jest to jedna z najbardziej zaawansowanych technologicznie broni w Zonie. U¿ywana przez jednostki specjalne ISG.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Rifle Dynamics ISG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
 
@@ -958,11 +958,11 @@
 	<string id="st_wpn_ak74_isg_descr">
 		<text>Zaawansowana wersja AK-74M, opracowana przez amerykañsk¹ firmê Rifle Dynamics. Jest to jedna z najbardziej zaawansowanych technologicznie broni w Zonie. U¿ywana przez jednostki specjalne ISG.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada równie¿ uniwersaln¹ szynê monta¿ow¹ NcStar z zainstalowanym kolimatorem Trijicon RMR\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten RD-74M posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n
+		%c[d_purple] • %c[ui_gray_2] Ten RD-74M posiada równie¿ uniwersaln¹ szynê monta¿ow¹ NcStar z zainstalowanym kolimatorem Trijicon RMR\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Rifle Dynamics ISG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
 	
@@ -972,10 +972,10 @@
 	<string id="st_wpn_ak74u_m1_isg_descr">
 		<text>Zmodyfikowana wersja RD-74U, opracowana przez amerykañsk¹ firmê Rifle Dynamics. Jest to jedna z najbardziej zaawansowanych technologicznie broni w Zonie. U¿ywana przez jednostki specjalne ISG.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten RD-74U posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Rifle Dynamics ISG\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
 	
@@ -985,12 +985,12 @@
 	<string id="st_wpn_vintorez_isg_descr">
 		<text>Pomys³ za³o¿yciela Rifle Dynamics, Jima Fullera. Model zosta³ opracowany na podstawie znanego i lubianego wyt³umionego karabinka snajperskiego WSS Wintoriez. Jedn¹ z g³ównych ró¿nic w stosunku do orygina³u jest obecnoœæ specjalnego mechanizmu spustowego, który pozwala strzelaæ seriami po dwa strza³y, a tak¿e instalacja szyny Picatinny, zainstalowanej na ca³ej d³ugoœci broni. U¿ywany przez jednostki specjalne ISG.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada równie¿ uniwersaln¹ szynê monta¿ow¹ NcStar z celownikiem Trijicon RMR (na podczerwieñ)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: (zintegrowany)\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten RD-9x39 posiada zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n
+		%c[d_purple] • %c[ui_gray_2] Ten RD-9x39 posiada równie¿ uniwersaln¹ szynê monta¿ow¹ NcStar z celownikiem Trijicon RMR (na podczerwieñ)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: (zintegrowany)\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver oraz niektóre na "Jaskó³czy ogon" (oprócz celowników refleksyjnych na podczerwieñ i 1P78 "Kasztan")\n
-		%c[d_purple] • %c[ui_gray_2] plotki mówi¹, ¿e ten karabin mo¿e zostaæ wyposa¿ony w granatnik podlufowy\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver oraz niektóre na "Jaskó³czy ogon" (oprócz celowników refleksyjnych na podczerwieñ i 1P78 "Kasztan")\n
+		%c[d_purple] • %c[ui_gray_2] Plotki mówi¹, ¿e ten karabin mo¿e zostaæ wyposa¿ony w granatnik podlufowy\n
 		</text>
 	</string>
 
@@ -998,10 +998,10 @@
 		<text>RPK-16 5.45x39 mm</text>
 	</string>
 	<string id="st_wpn_rpk74_16_descr">
-		<text>Najnowszy rosyjski lekki karabin maszynowy RPK-16, zasilany amunicj¹ kalibru 5,45x39 mm. Kluczowe cechy tego rodzaju broni to szybko odpinane lufy, poprawiona ergonomia, szyny monta¿owe Weaver i os³ona przeciwpy³owa.\n \n
+		<text>Najnowszy rosyjski lekki karabin maszynowy RPK-16, zasilany amunicj¹ kalibru 5.45x39 mm. Kluczowe cechy tego rodzaju broni to szybko odpinane lufy, poprawiona ergonomia, szyny monta¿owe Weaver i os³ona przeciwpy³owa.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Hexagon 5.45 mm/7.62 mm\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45 mm/7.62 mm\n
 		</text>
 	</string>
 
@@ -1011,10 +1011,10 @@
 	<string id="st_wpn_m4_ru556_descr">
 		<text>Kilka z tych karabinów przemycono do Zony za spraw¹ naukowców. Plotki g³osz¹, ¿e profesor Sacharow otrzyma³ od zagranicznych sponsorów 6 ma³ych pojemników z t¹ broni¹. Ruger SR-556 to amerykañski karabinek samopowtarzalny, produkowany przez firmê zbrojeniow¹ Sturm, Ruger and Company, Inc. Jest to pierwszy egzemplarz z tej rodziny AR-10. Ruger SR-762 jest zasilany nabojami kalibru .308, to jeden z kilku wariantów karabinów AR-15, wykorzystuj¹cych usuwanie gazów prochowych. Produkcja zosta³a wstrzymana w styczniu 2016 roku po wprowadzeniu wariantu Keymod Lightweight.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada uniwersaln¹ szynê monta¿ow¹ NcStar z zainstalowanym celownikiem Trijicon RMR (na podczerwieñ)\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten SR-556 posiada uniwersaln¹ szynê monta¿ow¹ NcStar z zainstalowanym celownikiem Trijicon RMR (na podczerwieñ)\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (za wyj¹tkiem czerwonym celowników refleksyjnych z nisk¹ przek³adk¹, np. Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niska przek³adka), Docter Sight, 1P76 Rakurs (niska przek³adka)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: NATO\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (za wyj¹tkiem czerwonym celowników refleksyjnych z nisk¹ przek³adk¹, np. Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niska przek³adka), Docter Sight, 1P76 Rakurs (niska przek³adka)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
 
@@ -1024,10 +1024,10 @@
     <string id="st_wpn_fal_aus_descr">
 		<text>SA-58 wyprodukowany przez amerykañsk¹ firmê DSA (David Selveggio Arms) jest zasadniczo kopi¹ FAL-a, wykonywany jest na tym samym sprzêcie linii produkcyjnej Steyr-Daimler-Puch co StG-58. Ten model jest wyposa¿ony w lufê o d³ugoœci 21 cali i inne elementy „austriackiego stylu”, takie jak oryginalny austriacki chwyt przedni FAL, dolny korpus ze stopu aluminium i ulepszone poszycie z nylonu wype³nionego w³óknem szklanym. Ten model jest u¿ywany przez wojsko i organy œcigania i mo¿e obs³ugiwaæ tryb ognia ci¹g³ego. DSA-58 mo¿e u¿ywaæ dowolnych magazynków metrycznych FAL.\n \n
 	    %c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] broñ mo¿e zostaæ ulepszona zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten SA-58 mo¿e zostaæ ulepszony zestawem taktycznym\n \n
 	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: brak\n\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: brak\n\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
 		</text>
     </string>
 
@@ -1037,10 +1037,10 @@
 	<string id="st_wpn_fal_aus_kit_sa5x_spec_descr">
 		<text>Karabin szturmowy FAL SA-58 AUS zmodernizowany przy u¿yciu zestawu taktycznego "Obroñca". Po modyfikacji broñ ta mo¿e byæ bardzo skutecznie u¿ywana na d³ugich i œrednich dystansach. SA-58 wyprodukowany przez amerykañsk¹ firmê DSA (David Selveggio Arms) jest legaln¹ kopi¹ FAL-a, wykonywany jest na tym samym sprzêcie linii produkcyjnej Steyr-Daimler-Puch co StG-58. Ten model jest wyposa¿ony w lufê o d³ugoœci 21 cali i inne elementy „austriackiego stylu”, takie jak oryginalny austriacki chwyt przedni FAL, dolny korpus ze stopu aluminium i ulepszone poszycie z nylonu wype³nionego w³óknem szklanym. Ten model jest u¿ywany przez wojsko i organy œcigania i mo¿e obs³ugiwaæ tryb ognia ci¹g³ego. DSA-58 mo¿e u¿ywaæ dowolnych magazynków metrycznych FAL.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Aimpoint T1\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Aimpoint T1\n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ELCAN SpecterDr\n\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ELCAN SpecterDr\n\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
 		</text>
 	</string>
 
@@ -1050,10 +1050,10 @@
 	<string id="st_wpn_fal_aus_kit_fal_leup_descr">
 		<text>Karabin szturmowy FAL SA-58 AUS zmodernizowany przy u¿yciu zestawu taktycznego "Maruder". Po modyfikacji broñ ta mo¿e byæ bardzo skutecznie u¿ywana na d³ugich i œrednich dystansach. SA-58 wyprodukowany przez amerykañsk¹ firmê DSA (David Selveggio Arms) jest legaln¹ kopi¹ FAL-a, wykonywany jest na tym samym sprzêcie linii produkcyjnej Steyr-Daimler-Puch co StG-58. Ten model jest wyposa¿ony w lufê o d³ugoœci 21 cali i inne elementy „austriackiego stylu”, takie jak oryginalny austriacki chwyt przedni FAL, dolny korpus ze stopu aluminium i ulepszone poszycie z nylonu wype³nionego w³óknem szklanym. Ten model jest u¿ywany przez wojsko i organy œcigania i mo¿e obs³ugiwaæ tryb ognia ci¹g³ego. DSA-58 mo¿e u¿ywaæ dowolnych magazynków metrycznych FAL.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Aimpoint T1\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Aimpoint T1\n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Leupold Mark 8\n\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Leupold Mark 8\n\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
 		</text>
 	</string>
 
@@ -1063,10 +1063,10 @@
 	<string id="st_wpn_fal_aus_kit_aus_tri_descr">
 		<text>Karabin szturmowy FAL SA-58 AUS, zmodernizowany przy u¿yciu zestawu taktycznego "Skaut". Po modyfikacji broñ ta mo¿e byæ bardzo skutecznie u¿ywana na d³ugich i œrednich dystansach. SA-58 wyprodukowany przez amerykañsk¹ firmê DSA (David Selveggio Arms) jest legaln¹ kopi¹ FAL-a, wykonywany jest na tym samym sprzêcie linii produkcyjnej Steyr-Daimler-Puch co StG-58. Ten model jest wyposa¿ony w lufê o d³ugoœci 21 cali i inne elementy „austriackiego stylu”, takie jak oryginalny austriacki chwyt przedni FAL, dolny korpus ze stopu aluminium i ulepszone poszycie z nylonu wype³nionego w³óknem szklanym. Ten model jest u¿ywany przez wojsko i organy œcigania i mo¿e obs³ugiwaæ tryb ognia ci¹g³ego. DSA-58 mo¿e u¿ywaæ dowolnych magazynków metrycznych FAL.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Aimpoint T1\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Aimpoint T1\n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Trijicon Acog\n\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Trijicon Acog\n\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
 		</text>
 	</string>
 
@@ -1076,8 +1076,8 @@
     <string id="st_wpn_fal_sa58_osw_descr">
 		<text>SA-58 OSW (Operations Specialist Weapon) amerykañskiej firmy DSA (David Selvaggio Arms) to zasadniczo kopia FAL-a, wykonana na tym samym sprzêcie linii produkcyjnej Steyr-Daimler-Puch co StG-58. Posiada inn¹ d³ugoœæ lufy, komorê spustow¹ ze stopu aluminium i ulepszone poszycie z nylonu wype³nionego w³óknem szklanym. Modele cywilne s¹ pó³automatyczne, ale klienci wojskowi i organy œcigania mog¹ nabyæ modele typu „ogieñ selektywny”, które charakteryzuj¹ siê szybkostrzelnoœci¹ na poziomie 750 strza³ów na minutê. DSA-58 mo¿e u¿ywaæ dowolnych magazynków FAL.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
 		</text>
     </string>
 	
@@ -1087,10 +1087,10 @@
   	<string id="st_wpn_sr2_veresk_descr">
 		<text>SR.2 „Veresk” to rosyjski pistolet maszynowy (wyprodukowany przez CNII TOCZMASZ), przeznaczony do zwalczania oddzia³ów wroga w walce na krótki dystans, w odleg³oœci do 200 m, zdolny do przebicia kamizelki kuloodpornej. G³ówn¹ zalet¹ SR-2 jest du¿a si³a ognia, wysoka celnoœæ i silna penetracja pocisków przy strzale z bliskiej odleg³oœci.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n 
-		%c[d_purple] • %c[ui_gray_2] karabinek mo¿na ulepszyæ zestawem taktycznym\n \n
+		%c[d_purple] • %c[ui_gray_2] Tego SR-2M mo¿na ulepszyæ zestawem taktycznym\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: KP SR-2\n	
-		%c[d_purple] • %c[ui_gray_2] t³umik: GZV-SR2\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: KP SR-2\n	
+		%c[d_purple] • %c[ui_gray_2] T³umik: GZV-SR2\n
 		</text>
   	</string>
 
@@ -1100,8 +1100,8 @@
   	<string id="st_wpn_sr2_m1_descr">
 		<text>SR.2 „Veresk” to rosyjski pistolet maszynowy (wyprodukowany przez CNII TOCZMASZ), przeznaczony do zwalczania oddzia³ów wroga w walce na krótki dystans, w odleg³oœci do 200 m, zdolny do przebicia kamizelki kuloodpornej. G³ówn¹ zalet¹ SR-2 jest du¿a si³a ognia, wysoka celnoœæ i silna penetracja pocisków przy strzale z bliskiej odleg³oœci. Ten wariant posiada zamontowany dodatkowy zestaw celowniczy za spraw¹ domowej roboty ulepszeñ.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
-        %c[d_purple] • %c[ui_gray_2] celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szyny monta¿owe Picatinny/Weaver i celowniki PN-23 i Leupold Mark 8 CQBSS 1.1-8x24\n	
-		%c[d_purple] • %c[ui_gray_2] t³umik: GZV-SR2\n
+        %c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szyny monta¿owe Picatinny/Weaver i celowniki PN-23 i Leupold Mark 8 CQBSS 1.1-8x24\n	
+		%c[d_purple] • %c[ui_gray_2] T³umik: GZV-SR2\n
 		</text>
   	</string>
 
@@ -1111,9 +1111,9 @@
   	<string id="st_wpn_sr2_veresk_sr2_upkit_descr">
 		<text>SR.2 „Veresk” to rosyjski pistolet maszynowy (wyprodukowany przez CNII TOCZMASZ), przeznaczony do zwalczania oddzia³ów wroga w walce na krótki dystans, w odleg³oœci do 200 m, zdolny do przebicia kamizelki kuloodpornej. G³ówn¹ zalet¹ SR-2 jest du¿a si³a ognia, wysoka celnoœæ i silna penetracja pocisków przy strzale z bliskiej odleg³oœci. Ten wariant posiada zwiêkszon¹ celnoœæ oraz jest bardziej niezawodny.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n 
-        %c[d_purple] • %c[ui_gray_2] karabinek zosta³ ju¿ ulepszony zestawem taktycznym\n \n	
+        %c[d_purple] • %c[ui_gray_2] Ten SR-2M zosta³ ju¿ ulepszony zestawem taktycznym\n \n	
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
-		%c[d_purple] • %c[ui_gray_2] t³umik: GZV-SR2\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GZV-SR2\n
 		</text>
   	</string>	
 
@@ -1121,11 +1121,11 @@
 		<text>Steyr AUG A1</text>
 	</string>
 	<string id="st_wpn_aug_a1_bas_descr">
-		<text>Standardowy wariant Steyr AUG A1 w zielonym, wojskowym kolorze. AUG to austriacki karabin szturmowy kalibru 5,56 mm typu bullpup, zaprojektowany w latach 60. przez Steyr Mannlicher GmbH und Co KG (dawniej Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr - „uniwersalny karabin wojskowy”) zosta³ przyjêty przez armiê austriack¹ jako StG 77 (Sturmgewehr 77) w 1978 roku, tym samym zast¹pi³ karabin automatyczny StG 58 kalibru 7,62 mm (produkowany na licencji FN FAL). W produkcji od 1978 r. jest to standardowa broñ strzelecka austriackiego Bundesheer i ró¿nych krajowych jednostek policji.\n \n
+		<text>Standardowy wariant Steyr AUG A1 w zielonym, wojskowym kolorze. AUG to austriacki karabin szturmowy kalibru 5.56x45 mm typu bullpup, zaprojektowany w latach 60. przez Steyr Mannlicher GmbH und Co KG (dawniej Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr - „uniwersalny karabin wojskowy”) zosta³ przyjêty przez armiê austriack¹ jako StG 77 (Sturmgewehr 77) w 1978 roku, tym samym zast¹pi³ karabin automatyczny StG 58 kalibru 7.62x51 mm (produkowany na licencji FN FAL). W produkcji od 1978 r. jest to standardowa broñ strzelecka austriackiego Bundesheer i ró¿nych krajowych jednostek policji.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zintegrowany celownik 1.5x\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten AUG posiada zintegrowany celownik 1.5x\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Steyr UMS\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Steyr UMS\n
 		</text>
 	</string>
 	
@@ -1133,10 +1133,10 @@
 		<text>Steyr AUG A3</text>
 	</string>
 	<string id="st_wpn_aug_a3_bas_descr">
-		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) to austriacki karabin szturmowy NATO typu bullpup 5,56x45 mm, zaprojektowany w latach 60. przez Steyr-Daimler-Puch, a obecnie produkowany przez Steyr Mannlicher GmbH und Co KG. Steyr AUG A3 ró¿ni siê od modelu podstawowego obecnoœci¹ czterech szyn Picatinny: górna s³u¿y do mocowania przyrz¹dów celowniczych, na dole mo¿na przymocowaæ granatnik lub pionow¹ r¹czkê przedni¹, a wskaŸnik laserowy, lub inne niezbêdne wyposa¿enie dodatkowe, jest przymocowane z boku.\n \n
+		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) to austriacki karabin szturmowy NATO typu bullpup 5.56x45 mm, zaprojektowany w latach 60. przez Steyr-Daimler-Puch, a obecnie produkowany przez Steyr Mannlicher GmbH und Co KG. Steyr AUG A3 ró¿ni siê od modelu podstawowego obecnoœci¹ czterech szyn Picatinny: górna s³u¿y do mocowania przyrz¹dów celowniczych, na dole mo¿na przymocowaæ granatnik lub pionow¹ r¹czkê przedni¹, a wskaŸnik laserowy, lub inne niezbêdne wyposa¿enie dodatkowe, jest przymocowane z boku.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie na podczerwieñ pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 i Docter Sight)\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: Steyr UMS\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie na podczerwieñ pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników z nisk¹ nak³adk¹: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 i Docter Sight)\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: Steyr UMS\n
 		</text>
 	</string>	
 
@@ -1144,10 +1144,10 @@
 		<text>Steyr AUG A3 Commando</text>
 	</string>
 	<string id="st_wpn_aug_a3_custom_bas_descr">
-		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) to austriacki karabin szturmowy NATO typu bullpup ka. 5,56x45 mm, zaprojektowany w latach 60. przez Steyr-Daimler-Puch, a obecnie produkowany przez Steyr Mannlicher GmbH und Co KG. Steyr AUG A3 ró¿ni siê od modelu podstawowego obecnoœci¹ czterech szyn Picatinny: górna s³u¿y do mocowania przyrz¹dów celowniczych, na dole mo¿na przymocowaæ granatnik lub pionow¹ r¹czkê przedni¹, a wskaŸnik laserowy, lub inne niezbêdne wyposa¿enie dodatkowe, jest przymocowany z boku.\n \n
+		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) to austriacki karabin szturmowy NATO typu bullpup kalibru 5.56x45 mm, zaprojektowany w latach 60. przez Steyr-Daimler-Puch, a obecnie produkowany przez Steyr Mannlicher GmbH und Co KG. Steyr AUG A3 ró¿ni siê od modelu podstawowego obecnoœci¹ czterech szyn Picatinny: górna s³u¿y do mocowania przyrz¹dów celowniczych, na dole mo¿na przymocowaæ granatnik lub pionow¹ r¹czkê przedni¹, a wskaŸnik laserowy, lub inne niezbêdne wyposa¿enie dodatkowe, jest przymocowany z boku.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: Trijicon Acog (x4) i PEQ LA5 LAM\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: Steyr UMS\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Trijicon Acog (x4) i modu³ PEQ LA5 LAM\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: Steyr UMS\n
 		</text>
 	</string>
 
@@ -1165,9 +1165,9 @@
 	<string id="st_wpn_vintorez_n1_descr">
 		<text>Zaprojektowany w CNII TOCZMASZ przez Pietra Serdiukowa i jego zespó³, karabin by³ przeznaczony dla oddzia³ów Specnazu Armii Radzieckiej, KGB i MWD. WSS jest doœæ popularny wœród swoich u¿ytkowników ze wzglêdu na jego wyciszenie, zintegrowan¹ optykê i du¿¹ si³ê penetracji amunicji 9x39 mm. Efektywny zasiêg WSS jest ograniczony do 300-400 metrów. Standardowe wyposa¿enie celownicze sk³ada siê z bocznej szyny na komorze zamkowej, która zwykle mieœci lunetê PSO-1M2-1 o przybli¿eniu 4 dioptrii. Po zainstalowaniu innej szyny monta¿owej mo¿na zamontowaæ dowolny inny celownik lub celownik noktowizyjny. Zapasowe przyrz¹dy celownicze sk³adaj¹ siê z stycznej tylnej czêœci i regulowanej przedniej celownika. Szczerbinka jest wyskalowana na zasiêg do 400 metrów.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: zintegrowany WSS\n \n
+		%c[d_purple] • %c[ui_gray_2] T³umik: zintegrowany WSS\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
 		</text>
 	</string>	
 
@@ -1177,9 +1177,9 @@
 	<string id="st_wpn_vintorez_m1_descr">
 		<text>To wczesny prototyp WSS "Sawant". Ten wariant jest bardziej popularny wœród stalkerów, ze wzglêdu na ni¿sz¹ cenê.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n \n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik WSS\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: ka¿dy oprócz EOTS-62\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ka¿dy oprócz EOTS-62\n
 		</text>
 	</string>
 	
@@ -1190,11 +1190,11 @@
 	<string id="st_wpn_vintorez_m2_descr">
 		<text>Na proœbê frakcji Najemników, zespó³ ambitnych naukowców, pod przewodnictwem profesora Sacharowa, zosta³ zaanga¿owany w proces tworzenia tego prototypu. Aby opracowaæ i przeprowadziæ próby terenowe i zakoñczyæ konstruowanie tej broni, potrzeba by³o oko³o 20 artefaktów pochodz¹cych z anomalii grawitacyjnych. W rezultacie zainstalowano szyny monta¿owe Picatinny, bez negatywnego wp³ywu na celnoœæ, a tak¿e zmodernizowano wszystkie mechanizmy, co zwiêkszy³o wszystkie wskaŸniki niezawodnoœci.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zainstalowan¹ kolbê Fab Defense i chwyt przedni\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada równie¿ zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: WSS (zintegrowany)\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten WSS posiada zainstalowan¹ kolbê Fab Defense i chwyt przedni\n
+		%c[d_purple] • %c[ui_gray_2] Ten egzemplarz posiada równie¿ zainstalowany ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 wyprodukowany przez L3 Insight Technologies czyli zaawansowany celownik laserowy, ze wskaŸnikiem widzialnym w naturalnym œwietle oraz podczerwieni, po³¹czony z ma³¹ lampk¹ podczerwieni\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: WSS (zintegrowany)\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie oprócz 1P59 Hyperon\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie oprócz 1P59 Hyperon\n
 		</text>
 	</string>
 
@@ -1208,8 +1208,8 @@
 	<string id="st_wpn_dvl10_m1_descr">
 		<text>DVL-10 to lekki, kompaktowy i wyciszony karabinek, u¿ywaj¹cy zarówno starej jak i nowej amunicji poddŸwiêkowej. Zosta³ opracowany z myœl¹ o s³u¿bach specjalnych i misjach bojowych, gdzie wymagana jest wyj¹tkowa precyzja i zasiêg.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz refleksyjnych na podczerwieñ)\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: zintegrowany\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz refleksyjnych na podczerwieñ)\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: zintegrowany\n
 		</text>
 	</string>	
 	
@@ -1220,8 +1220,8 @@
 	<string id="st_wpn_dvl10_descr">
 		<text>DVL-10 to lekki, kompaktowy i wyciszony karabinek, u¿ywaj¹cy zarówno starej jak i nowej amunicji poddŸwiêkowej. Zosta³ opracowany z myœl¹ o s³u¿bach specjalnych i misjach bojowych, gdzie wymagana jest wyj¹tkowa precyzja i zasiêg. Wersja bez zintegrowanego t³umika.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz refleksyjnych na podczerwieñ)\n 
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz refleksyjnych na podczerwieñ)\n 
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 	
@@ -1229,9 +1229,9 @@
 		<text>Karabin Gaussa</text>
 	</string>
 	<string id="st_wpn_gauss_bas_descr">
-		<text>Eksperymentalna, zasilana artefaktami, supercelna broñ energetyczna, stworzona przez nieznan¹ grupê w Zonie. DŸwiêk strza³u z tej broni jest niemal nies³yszalny, poniewa¿ zamiast prochu u¿ywa systemu elektromagnesów, które nadaj¹ pociskom prêdkoœæ wielokrotnie wiêksz¹ ni¿ w przypadku tradycyjnej broni snajperskiej. Pomimo ogromnej si³y ognia odrzut karabinu jest niemal nieodczuwalny. Celnoœæ i moc tego karabinu przewy¿sza wszystkie bronie w Zonie.\n \n
+		<text>Eksperymentalna, zasilana artefaktami, super-celna broñ energetyczna, stworzona przez nieznan¹ grupê w Zonie. DŸwiêk strza³u z tej broni jest niemal nies³yszalny, poniewa¿ zamiast prochu u¿ywa systemu elektromagnesów, które nadaj¹ pociskom prêdkoœæ wielokrotnie wiêksz¹ ni¿ w przypadku tradycyjnej broni snajperskiej. Pomimo ogromnej si³y ognia odrzut karabinu jest niemal nieodczuwalny. Celnoœæ i moc tego karabinu przewy¿sza wszystkie bronie w Zonie.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] zintegrowany, zaawansowany celownik komputerowy EOTS-62\n
+		%c[d_purple] • %c[ui_gray_2] Zintegrowany, zaawansowany celownik komputerowy EOTS-62\n
 		</text>
 	</string>
 
@@ -1241,9 +1241,9 @@
 	<string id="st_wpn_k98_mod_descr">
 		<text>Zmodyfikowana wersja niemieckiego karabinu z czasów II wojny œwiatowej, Mauser Karabiner 98k. Drewniana kolba zosta³a zast¹piona bardziej polimerow¹. Karabin jest wyposa¿ony w doskona³¹ lunetê snajpersk¹, wyprodukowan¹ w Japonii. W Zonie karabin s³u¿y g³ównie do polowania na mutanty na du¿ych dystansach.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] karabin posiada zintegrowany celownik March\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten Mauser posiada zintegrowany celownik March\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: K98 "Leœnik" (wymagany adapter)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: K98 "Leœnik" (wymagany adapter)\n
 		</text>
 	</string>
 
@@ -1253,9 +1253,9 @@
 	<string id="st_wpn_k98_mod_silen98_descr">
 		<text>Zmodyfikowana wersja niemieckiego karabinu z czasów II wojny œwiatowej, Mauser Karabiner 98k. Drewniana kolba zosta³a zast¹piona bardziej polimerow¹. Karabin jest wyposa¿ony w doskona³¹ lunetê snajpersk¹, wyprodukowan¹ w Japonii. W Zonie karabin s³u¿y g³ównie do polowania na mutanty na du¿ych dystansach. Ten wariant posiada adapter pozwalaj¹cy na monta¿ t³umika.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] karabin posiada zintegrowany celownik March\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten Mauser posiada zintegrowany celownik March\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: K98 "Leœnik"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: K98 "Leœnik"\n
 		</text>
 	</string>
 
@@ -1265,9 +1265,9 @@
 	<string id="st_wpn_remington700_descr">
 		<text>Remington Model 700 to seria karabinów powtarzalnych, produkowanych przez Remington Arms od 1962 roku.\n \n
 		%c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin mo¿na ulepszyæ zestawem taktycznym "£owca Jeleni": obudowa MOD X Gen.3, Magpul "PRO 700", kolba polimerowa Promag Archangel\n \n
+		%c[d_purple] • %c[ui_gray_2] Tego Remingtona mo¿na ulepszyæ zestawem taktycznym "£owca Jeleni": obudowa MOD X Gen.3, Magpul "PRO 700", kolba polimerowa Promag Archangel\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Daniel Defence Wave QD\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD\n
 		</text>
 	</string>
 	
@@ -1277,9 +1277,9 @@
 	<string id="st_wpn_remington700_archangel_descr">
 		<text>Remington Model 700 to seria karabinów powtarzalnych, produkowanych przez Remington Arms od 1962 roku. Ten model ma zainstalowan¹ kolbê polimerow¹ Promag Archangel.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin zosta³ ju¿ ulepszony zestawem z kolb¹ polimerow¹ Promag Archangel\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem z kolb¹ polimerow¹ Promag Archangel\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Daniel Defence Wave QD\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD\n
 		</text>
 	</string>
 	
@@ -1290,9 +1290,9 @@
 	<string id="st_wpn_remington700_lapua700_descr">
 		<text>"£owca Jeleni" to zmodyfikowana wersja karabinu Remington 700, przystosowana do precyzyjnego strzelania na bardzo du¿e odleg³oœci.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin zosta³ ju¿ ulepszony zestawem taktycznym "£owca Jeleni"\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem taktycznym "£owca Jeleni"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: M700 .338LM\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: M700 .338LM\n
 		</text>
 	</string>
 
@@ -1302,9 +1302,9 @@
 	<string id="st_wpn_remington700_magpul_pro_descr">
 		<text>Remington Model 700 to seria karabinów powtarzalnych, produkowanych przez Remington Arms od 1962 roku. Model ten posiada obudowê Magpul PRO 700 i zamontowano na niej dodatkowy celownik Trijicon RMR (na podczerwieñ).\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin zosta³ ju¿ ulepszony zestawem z obudow¹ Magpul PRO 700\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem z obudow¹ Magpul PRO 700\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Daniel Defence Wave QD t³umik\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD t³umik\n
 		</text>
 	</string>
 
@@ -1314,9 +1314,9 @@
 	<string id="st_wpn_remington700_mod_x_gen3_descr">
 		<text>Remington Model 700 to seria karabinów powtarzalnych, produkowanych przez Remington Arms od 1962 roku. Model ten posiada zainstalowan¹ obudowê MOD X GEN trzeciej generacji oraz dodatkowy kolimator Leupold DeltaPoint PRO (na podczerwieñ).\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n
-		%c[d_purple] • %c[ui_gray_2] karabin zosta³ ju¿ ulepszony zestawem z obudow¹ MOD X trzeciej generacji\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem z obudow¹ MOD X trzeciej generacji\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Daniel Defence Wave QD t³umik\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD t³umik\n
 		</text>
 	</string>
 
@@ -1324,10 +1324,10 @@
 		<text>SKS Mo³ot</text>
 	</string>
 	<string id="st_wpn_sks_molot_descr">
-		<text>Karabinek Mo³ot OP-SKS zasilany jest amunicj¹ 7,62x39 mm - bardzo popularn¹ w Zonie. Waga i wymiary sprawiaj¹, ¿e ten karabinek jest bardzo ergonomiczny.\n \n
+		<text>Karabinek Mo³ot OP-SKS zasilany jest amunicj¹ 7.62x39 mm - bardzo popularn¹ w Zonie. Waga i wymiary sprawiaj¹, ¿e ten karabinek jest bardzo ergonomiczny.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: brak\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon"\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
 	
@@ -1337,8 +1337,8 @@
 	<string id="st_wpn_sks_b_descr">
 		<text>Pó³automatyczny, gazowy, samonapinaj¹cy karabinek u¿ywany g³ównie podczas zimnej wojny, SKS jest nadal u¿ywany w jednostkach drugiej linii i armii rezerwowej. Poniewa¿ nie posiada³ selektora ognia i by³ ograniczony do 10 nabojów, zosta³ przestarza³y przez AK-47.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Swiss Arms AG\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Swiss Arms AG\n
 		</text>
 	</string>	
 	
@@ -1346,12 +1346,12 @@
 		<text>Taktyczny SKS</text>
 	</string>
 	<string id="st_wpn_sks_tac_descr">
-		<text>Karabinek Mo³ot OP-SKS zasilany jest amunicj¹ 7,62x39 mm - bardzo popularn¹ w Zonie. Waga i wymiary sprawiaj¹, ¿e karabinek jest ergonomiczny dla strzelców w ka¿dym wieku i przy ka¿dym wzroœcie. Wariant taktyczny ró¿ni siê od orygina³u obecnoœci¹ szyn do monta¿u przyrz¹dów celowniczych w przedniej czêœci oraz mo¿liwoœci¹ zamontowania t³umika. W tym modelu zainstalowano równie¿ nowy mechanizm spustowy, który znacznie zwiêkszy³ szybkostrzelnoœæ.\n \n
+		<text>Karabinek Mo³ot OP-SKS zasilany jest amunicj¹ 7.62x39 mm - bardzo popularn¹ w Zonie. Waga i wymiary sprawiaj¹, ¿e karabinek jest ergonomiczny dla strzelców w ka¿dym wieku i przy ka¿dym wzroœcie. Wariant taktyczny ró¿ni siê od orygina³u obecnoœci¹ szyn do monta¿u przyrz¹dów celowniczych w przedniej czêœci oraz mo¿liwoœci¹ zamontowania t³umika. W tym modelu zainstalowano równie¿ nowy mechanizm spustowy, który znacznie zwiêkszy³ szybkostrzelnoœæ.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] broñ posiada zintegrowan¹ szynê monta¿owa do celownika SKS SOCOM\n \n
+		%c[d_purple] • %c[ui_gray_2] Ten SKS posiada zintegrowan¹ szynê monta¿owa do celownika SKS SOCOM\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê "Jaskó³czy ogon" (oprócz Aimpoint PRO i Aimpoint T1 (wysoka przek³adka)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: SKS 7.62x39 mm Hexagon\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê "Jaskó³czy ogon" (oprócz Aimpoint PRO i Aimpoint T1 (wysoka przek³adka)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: SKS 7.62x39 mm Hexagon\n
 		</text>
 	</string>
 
@@ -1362,8 +1362,8 @@
 	<string id="st_wpn_svd_m1_descr">
 		<text>Karabin snajperski stworzony dla strzelców wyborowych w Armii Sowieckiej. Co ciekawe, SWD Dragunow pierwotnie nie by³ przeznaczony dla wyspecjalizowanych dru¿yn snajperskich, co zmieni³o siê z czasem. Stosunkowo lekki jak na karabin snajperski, dobrze wywa¿ony, posiada tryb ognia pó³automatycznego.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz celowników refleksyjnych na podczerwieñ)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: KZRZP (po modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz celowników refleksyjnych na podczerwieñ)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: KZRZP (po modyfikacji)\n
 		</text>
 	</string>
 
@@ -1373,8 +1373,8 @@
 	<string id="st_wpn_svds_descr">
 		<text>Karabin snajperski Dragunow ze sk³adan¹ kolb¹ - wariant SWDS. Zosta³ specjalnie zaprojektowany dla rosyjskich spadochroniarzy i jednostek si³ specjalnych.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz celowników refleksyjnych na podczerwieñ)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: TGP-V\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szynê monta¿ow¹ "Jaskó³czy ogon" (oprócz celowników refleksyjnych na podczerwieñ)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-V\n
 		</text>
 	</string>
 
@@ -1383,16 +1383,16 @@
 	</string>
 	<string id="st_wpn_svds_pmc_descr">
 		<text>Karabin snajperski Dragunow ze sk³adan¹ kolb¹, wariant SWDS. Zosta³ specjalnie zaprojektowany dla rosyjskich spadochroniarzy i jednostek si³ specjalnych. W Zonie podobne modele s¹ zwykle wykorzystywane przez najemników, ukraiñskie si³y specjalne, ale te¿ inne frakcje do prowadzenia operacji specjalnych.\n \n
-		%c[0,255,255,255]Karabin posiada zainstalowane ulepszenia:\n
-		%c[d_purple] • %c[ui_gray_2] adapter t³umika Rotor 43 SWD-S, \n
-        %c[d_purple] • %c[ui_gray_2] obudowa SAG MK1 Freefloat dla SWD,\n
-        %c[d_purple] • %c[ui_gray_2] kolba Zenit RK-5 (krótka)\n
-        %c[d_purple] • %c[ui_gray_2] ochrona przeciwkurzowa SVDS,\n
-        %c[d_purple] • %c[ui_gray_2] kolba Zenit RK3,\n
-		%c[d_purple] • %c[ui_gray_2] uniwersaln¹ szynê monta¿owa NcStar, Trijicon RMR (na podczerwieñ)\n \n
+		%c[0,255,255,255]Karabin posiada nastêpuj¹ce ulepszenia:\n
+		%c[d_purple] • %c[ui_gray_2] Adapter t³umika Rotor 43 SWD-S, \n
+        %c[d_purple] • %c[ui_gray_2] Obudowê SAG MK1 Freefloat dla SWD,\n
+        %c[d_purple] • %c[ui_gray_2] Kolbê Zenit RK-5 (krótka)\n
+        %c[d_purple] • %c[ui_gray_2] Os³onê przeciwkurzow¹ SWDS,\n
+        %c[d_purple] • %c[ui_gray_2] Kolbê Zenit RK3,\n
+		%c[d_purple] • %c[ui_gray_2] Uniwersaln¹ szynê monta¿owa NcStar z celownikiem Trijicon RMR (na podczerwieñ)\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-		%c[d_purple] • %c[ui_gray_2] celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników refleksyjnych na podczerwieñ)\n
-		%c[d_purple] • %c[ui_gray_2] t³umik: Rotor 43\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz celowników refleksyjnych na podczerwieñ)\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: Rotor 43\n
 		</text>
 	</string>
 
@@ -1406,10 +1406,10 @@
 	<string id="st_grenade_launcher_descr">
 		<text>Jednostrza³owy, ³adowany od przodu, gwintowany granatnik podlufowy, do karabinów szturmowych produkowanych w krajach Uk³adu Warszawskiego. Zaprojektowany, aby znacznie zwiêkszyæ si³ê ognia oddzia³ów l¹dowych. Mechanizm spustowy jest samonapinaj¹cy, z rêcznym bezpiecznikiem i automatyczn¹ blokad¹ strza³u w przypadku nieprawid³owego monta¿u na karabinie.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] prêdkoœæ wylotowa: %c[ui_gray_1]~76 m / sec\n
-		%c[d_purple] • %c[ui_gray_2] skuteczny zasiêg: %c[ui_gray_1]~300 m\n
-		%c[d_purple] • %c[ui_gray_2] czas prze³adowania: %c[ui_gray_1]slow\n
-		%c[d_purple] • %c[ui_gray_2] amunicja: %c[ui_gray_1]granat WOG-25 40mm\n
+		%c[d_purple] • %c[ui_gray_2] Prêdkoœæ wylotowa: %c[ui_gray_1]~76 m / sec\n
+		%c[d_purple] • %c[ui_gray_2] Skuteczny zasiêg: %c[ui_gray_1]~300 m\n
+		%c[d_purple] • %c[ui_gray_2] Czas prze³adowania: %c[ui_gray_1]slow\n
+		%c[d_purple] • %c[ui_gray_2] Amunicja: %c[ui_gray_1]granat WOG-25 40mm\n
 		</text>
 	</string>
 	
@@ -1419,10 +1419,10 @@
 	<string id="st_grenade_launcher_m203_descr">
 		<text>Zmodyfikowany granatnik M203, którego d³ugoœæ zmniejszono o trzy cale, mo¿na przyczepiæ do broni za pomoc¹ szyny Picatinny. Dziêki nowej szynie monta¿owej granatnik jest szeroko stosowany na ca³ym œwiecie i mo¿e byæ instalowany w wiêkszoœci obecnie produkowanych karabinów. Choæ ma bardziej nowoczesny design, ma prawie takie same w³aœciwoœci jak jego radziecki odpowiednik, GP-25.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_purple] • %c[ui_gray_2] prêdkoœæ wylotowa: %c[ui_gray_1]~76 m / sec\n
-		%c[d_purple] • %c[ui_gray_2] skuteczny zasiêg: %c[ui_gray_1]~300 m\n
-		%c[d_purple] • %c[ui_gray_2] czas prze³adowania: %c[ui_gray_1]slow\n
-		%c[d_purple] • %c[ui_gray_2] amunicja: %c[ui_gray_1]granat M203 40mm\n
+		%c[d_purple] • %c[ui_gray_2] Prêdkoœæ wylotowa: %c[ui_gray_1]~76 m / sec\n
+		%c[d_purple] • %c[ui_gray_2] Skuteczny zasiêg: %c[ui_gray_1]~300 m\n
+		%c[d_purple] • %c[ui_gray_2] Czas prze³adowania: %c[ui_gray_1]slow\n
+		%c[d_purple] • %c[ui_gray_2] Amunicja: %c[ui_gray_1]granat M203 40mm\n
 		</text>
 	</string>
 
@@ -1432,8 +1432,8 @@
 	<string id="st_wpn_rpg7_descr">
 		<text>RPG-7 to kolejna wersja rozwojowa granatnika przeciwczo³gowego RPG-2. RPG-7, w pierwszej wersji pod nazw¹ RPG-7W zosta³ wprowadzony do s³u¿by w armii radzieckiej w roku 1961 i od tamtej pory s³u¿y w Rosji i ponad piêædziesiêciu innych krajach. Jak do tej pory stanowi jeden z najlepszych granatników przeciwczo³gowych na œwiecie.\n \nPocz¹tkowo zaprojektowany jako broñ stricte przeciwpancerna, póŸniej by³ przystosowywany tak¿e do innych celów wsparcia ogniowego - zaczêto stosowaæ inne typy granatów, takie jak przeciwpiechotny HE-FRAG czy wielozadaniowy Thermobaric/FAE.\n \nPozycja strzelecka wymaga umieszczenia RPG-7 na ramieniu. Granatnik jest jednostrza³owy, amunicja ³adowana jest do g³adkiej, bezodrzutowej lufy odprzodowo. Lufa z drugiej strony posiada zwê¿kê Venturiego - rozszerza siê ku koñcowi, co redukuje odrzut i os³ania przed niebezpiecznym podmuchem. Granatnik zwykle wyposa¿any jest w dedykowany celownik optyczny PGO-7 o powiêkszeniu 2.7x.\n \nBroñ jest prosta i niedroga, a w dodatku stanowi du¿e zagro¿enie nawet dla nowoczesnych czo³gów. Oprócz tego, mo¿e byæ wykorzystana tak¿e w innych celach, co czyni j¹ bardzo wielozadaniow¹.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_2]Zak³ady Diegtiarow\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Diegtiariowa \n
 		</text>
 	</string>
 
@@ -1446,9 +1446,9 @@
 	<string id="st_tomahawk_descr">
 		<text>Taktyczny toporek Downrange Tomahawk firmy Garber to wielofunkcyjne narzêdzie, bardzo przydatne w warunkach Zony.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
 		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[pda_green] • %c[ui_gray_2] tnie grub¹ skórê?: %c[ui_green]TAK\n
+		%c[pda_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
 
@@ -1460,7 +1460,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Królestwo Gorkha\n
 		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[pda_green] • %c[ui_gray_2] tnie grub¹ skórê?: %c[ui_green]TAK\n
+		%c[pda_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
 	
@@ -1472,7 +1472,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Nieznany\n
 		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[pda_green] • %c[ui_gray_2] tnie grub¹ skórê?: %c[ui_green]TAK\n
+		%c[pda_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
 
@@ -1484,7 +1484,7 @@
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
 		%c[d_cyan] • %c[ui_gray_2] broñ bia³a\n
-		%c[pda_green] • %c[ui_gray_2] tnie grub¹ skórê?: %c[ui_green]TAK\n
+		%c[pda_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
     </string>
 	

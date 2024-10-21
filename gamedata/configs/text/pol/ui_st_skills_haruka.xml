@@ -15,16 +15,19 @@
 		<text>Umiejêtnoœci gracza</text>
 	</string>
 	<string id="st_new_level_endurance">
-		<text>$clr_green• $clr_whiteKonsumpcja wytrzyma³oœci zwiêkszy³a siê\n$clr_cyan• $clr_whitePrêdkoœæ biegania zwiêkszy³a siê</text>
+		<text>$clr_green• $clr_whiteKonsumpcja wytrzyma³oœci zwiêkszy³a siê\n
+		$clr_cyan• $clr_whitePrêdkoœæ biegania zwiêkszy³a siê</text>
 	</string>
 	<string id="st_new_level_strength">
-		<text>$clr_yellow• $clr_whiteUdŸwig zwiêkszy³ siê\n$clr_red• $clr_whiteObra¿enia od walki wrêcz zwiêkszy³y siê\n</text>
+		<text>$clr_yellow• $clr_whiteUdŸwig zwiêkszy³ siê\n
+		$clr_red• $clr_whiteObra¿enia od walki wrêcz zwiêkszy³y siê\n</text>
 	</string>
 	<string id="st_new_level_scavenging">
 		<text>$clr_purple• $clr_whiteZwiêkszy³a siê umiejêtnoœæ zbieractwa</text>
 	</string>
 	<string id="st_new_level_survival">
-		<text>$clr_cyan• $clr_whiteOdpornoœæ zwiêkszy³a siê\n$clr_purple• $clr_whiteUmiejêtnoœci ³owieckie zwiêkszy³y siê</text>
+		<text>$clr_cyan• $clr_whiteOdpornoœæ zwiêkszy³a siê\n
+		$clr_purple• $clr_whiteUmiejêtnoœci ³owieckie zwiêkszy³y siê</text>
 	</string>
 	<string id="st_new_level_header">
 		<text>$name - zdobyto poz. $level.</text>

@@ -12,7 +12,7 @@ beretta_camo
 	<string id="st_wpn_beretta_px4_descr">
 		<text>Px4 Storm to rozwiniêcie Beretty 8000, przeznaczone jako zamiennik 92FS do obrony osobistej i egzekwowania prawa. Jego obrotowa lufa pozwala na lepsz¹ kontrolê odrzutu i ci¹g³e strza³y, a lekki szkielet pomaga równie¿ w utrzymaniu wagi. Ten konkretny model wydaje siê byæ równie¿ wyposa¿ony w trytowe przyrz¹dy celownicze. Wygl¹da na to, ¿e broñ ta by³a "nielegalnie" eksportowana z Armenii i Rumunii przez najemników, którzy byli czêœci¹ si³ policyjnych w tych krajach.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik: 9 mm</text>
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm</text>
 	</string>
 	
 	<string id="st_up_px4_a1_name">

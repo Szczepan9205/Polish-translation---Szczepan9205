@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+   <string id="st_placeable_door">
+		<text>Drewniane drzwi 100x190 mm</text>
+	</string>
+	<string id="st_placeable_door_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Kompatybilne z drzwiami, które można stworzyć samodzielnie\n
+		%c[0,250,250,0] • %c[0,250,250,0] UWAGA: Aby wyważyć drzwi, należy uderzyć w nie bronią do walki wręcz lub użyć materiałów wybuchowych. Strzelanie - również działa, ale wymaga dużej ilości pocisków (aby zapobiec łatwemu wyważaniu drzwi przez NPC-ów podczas strzelania).\n</text>
+	</string>
+	
+   <string id="st_placeable_door02">
+		<text>Drewniane drzwi 150x250 mm</text>
+	</string>
+	<string id="st_placeable_door02_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Kompatybilne z drzwiami, które można stworzyć samodzielnie\n
+		%c[0,250,250,0] • %c[0,250,250,0] UWAGA: Aby wyważyć drzwi, należy uderzyć w nie bronią do walki wręcz lub użyć materiałów wybuchowych. Strzelanie - również działa, ale wymaga dużej ilości pocisków (aby zapobiec łatwemu wyważaniu drzwi przez NPC-ów podczas strzelania).\n</text>
+	</string>
+	
+   <string id="st_placeable_door03">
+		<text>Drewniane drzwi 115x215 mm</text>
+	</string>
+	<string id="st_placeable_door03_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Kompatybilne z drzwiami, które można stworzyć samodzielnie\n
+		%c[0,250,250,0] • %c[0,250,250,0] UWAGA: Aby wyważyć drzwi, należy uderzyć w nie bronią do walki wręcz lub użyć materiałów wybuchowych. Strzelanie - również działa, ale wymaga dużej ilości pocisków (aby zapobiec łatwemu wyważaniu drzwi przez NPC-ów podczas strzelania).\n</text>
+	</string>
+	
+   <string id="st_placeable_door04">
+		<text>Drewniane drzwi 145x220 mm</text>
+	</string>
+	<string id="st_placeable_door04_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Kompatybilne z drzwiami, które można stworzyć samodzielnie\n
+		%c[0,250,250,0] • %c[0,250,250,0] UWAGA: Aby wyważyć drzwi, należy uderzyć w nie bronią do walki wręcz lub użyć materiałów wybuchowych. Strzelanie - również działa, ale wymaga dużej ilości pocisków (aby zapobiec łatwemu wyważaniu drzwi przez NPC-ów podczas strzelania).\n</text>
+	</string>
+   <string id="st_placeable_door05">
+		<text>Drewniane drzwi 176x300 mm</text>
+	</string>
+	<string id="st_placeable_door05_descr">
+		<text>
+		%c[ui_gray_3]Właściwości:\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[d_green] • %c[ui_gray_2] Kompatybilne z drzwiami, które można stworzyć samodzielnie\n
+		%c[0,250,250,0] • %c[0,250,250,0] UWAGA: Aby wyważyć drzwi, należy uderzyć w nie bronią do walki wręcz lub użyć materiałów wybuchowych. Strzelanie - również działa, ale wymaga dużej ilości pocisków (aby zapobiec łatwemu wyważaniu drzwi przez NPC-ów podczas strzelania).\n</text>
+	</string>
+</string_table>

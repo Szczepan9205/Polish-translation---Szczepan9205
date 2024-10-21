@@ -8,9 +8,9 @@
 	<string id="st_ground_coffee_descr">
 		<text>Kawa mielona gotowa do zaparzenia.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] napój po zaparzeniu\n
-		%c[d_green] • %c[ui_gray_2] stymulant\n
-		%c[0,255,255,255] • %c[ui_gray_2] do zaparzenia wymaga zestawu do gotowania i wody\n
+		%c[d_cyan] • %c[ui_gray_2] Napój po zaparzeniu\n
+		%c[d_green] • %c[ui_gray_2] Stymulant\n
+		%c[0,255,255,255] • %c[ui_gray_2] Do zaparzenia wymaga zestawu do gotowania i wody\n
 		</text>
 	</string>
 	

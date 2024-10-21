@@ -69,7 +69,7 @@
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
-		<text>Konfiguracja soczewki Gen 1: (Domyœlnie wyœrodkowana pojedyncza soczewka) A.</text>
+		<text>Konfiguracja soczewki Gen 1: (Domyœlnie wyœrodkowana pojedyncza soczewka)</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
@@ -94,23 +94,23 @@
 
 	
 	<string id="ui_mcm_lst_single_centered">
-		<text>Pojedyncza Soczewka, Wyœrodkowana</text>
+		<text>Pojedyncza soczewka, wyœrodkowana</text>
 	</string>
 	
 	<string id="ui_mcm_lst_single_left">
-		<text>Pojedyncza Soczewka, Lewa Strona</text>
+		<text>Pojedyncza soczewka, lewa</text>
 	</string>
 	
 	<string id="ui_mcm_lst_single_right">
-		<text>Pojedyncza Soczewka, Prawa Strona</text>
+		<text>Pojedyncza soczewka, prawa</text>
 	</string>
 	
 	<string id="ui_mcm_lst_dual_centered">
-		<text>Podwójna Soczewka, Wyœrodkowana</text>
+		<text>Podwójna soczewka, wyœrodkowana</text>
 	</string>
 	
 	<string id="ui_mcm_lst_quad_centered">
-		<text>Poczwórna Soczewka, Wyœrodkowana</text>
+		<text>Poczwórna soczewka, wyœrodkowana</text>
 	</string>
 	
 	
@@ -120,11 +120,11 @@
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
-		<text>Wybierz nak³adkê t³a, która ci odpowiada</text>
+		<text>Wybierz nak³adkê t³a, która ci odpowiada.</text>
 	</string>
 
 	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
-		<text>T³o noktowizji Gen.2: (Domyœlnie jest to rozmyte t³o)</text>
+		<text>T³o noktowizji Gen.2: (Domyœlnie rozmyte t³o)</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
@@ -132,7 +132,7 @@
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
-		<text>T³o noktowizji Gen.3: (Domyœlnie jest to rozmyte t³o)</text>
+		<text>T³o noktowizji Gen.3: (Domyœlnie rozmyte t³o)</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
@@ -158,7 +158,7 @@
 	
 	
 	<string id="ui_mcm_beef_nvg_shader_scope_compat">
-		<text>Jeœli posiadasz Shader Based 2D Scopes, zaznacz to pole.</text>
+		<text>Jeœli posiadasz Shader Based 2D Scopes, zaznacz to pole</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_shader_scope_compat_desc">

@@ -6,9 +6,9 @@
     <string id="st_placeable_weapon_rack_descr">
 		<text>Stary stojak na broñ, który mo¿na wykorzystaæ do zbierania i eksponowania ulubionych karabinów i strzelb.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[0,255,255,255] • %c[d_red] tylko na karabiny, pistolety maszynowe i strzelby\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[0,255,255,255] • %c[d_red] Tylko na karabiny, pistolety maszynowe i strzelby\n
 		</text>
 	</string>
 	
@@ -18,9 +18,9 @@
     <string id="st_placeable_pistol_shelf_descr">
 		<text>Stara pó³ka, na której mo¿na wyeksponowaæ ulubione pistolety.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
-		%c[d_cyan] • %c[ui_gray_2] schowek na przedmioty\n
-		%c[d_orange] • %c[ui_gray_2] przedmiot do umieszczenia\n
-		%c[0,255,255,255] • %c[d_red] mieœci jedynie pistolety\n
+		%c[d_cyan] • %c[ui_gray_2] Schowek na przedmioty\n
+		%c[d_orange] • %c[ui_gray_2] Przedmiot do umieszczenia\n
+		%c[0,255,255,255] • %c[d_red] Mieœci jedynie pistolety\n
 		</text>
 	</string>
 	

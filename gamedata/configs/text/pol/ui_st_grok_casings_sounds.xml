@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_mcm_menu_grok_casings_sounds">
+		<text>Dźwięk łusek</text>
+	</string>
+	<string id="ui_mcm_title_grok_casings_sounds">
+		<text>Dźwięki spadających łusek po amunicji</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_enabled">
+		<text>Włącz</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_volume">
+		<text>Głośność</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_ice_patch">
+		<text>Łatka do Screen Space Shaders Ice</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_ice_patch_desc">
+		<text>Poprawia dźwięki spadania łusek podczas strzelania na lodzie</text>
+	</string>
+</string_table>

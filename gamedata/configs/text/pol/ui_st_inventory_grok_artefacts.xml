@@ -37,7 +37,7 @@
     <string id="st_grizzly_desc">
 		<text>Ten detektor anomalii aktywnoœci jest zaktualizowan¹ wersj¹ detektora NiedŸwiedŸ i jest w stanie wykryæ wszystkie znane sygnatury artefaktów, podobnie jak detektory Swarog lub Weles. Ten ulepszony NiedŸwiedŸ jest szczególnie ceniony przez stalkerów poluj¹cych na artefakty w nocy, poniewa¿ jego prosty wyœwietlacz jest kompatybilny z noktowizorami.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_orange] • %c[ui_gray_2] zdolny do zlokalizowania wszystkich artefaktów znanych nauce\n
+		%c[d_orange] • %c[ui_gray_2] Zdolny do zlokalizowania wszystkich artefaktów znanych nauce\n
 		</text>
 	</string>
 	

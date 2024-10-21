@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 	<string id="st_ui_no_save_campfire_baby">
-		<text>Możesz %s tylko w pobliżu ognisk, dzieciaczku.</text>
+		<text>Możesz użyć opcji %s tylko w pobliżu ognisk.</text>
 	</string>
 	<string id="st_ui_no_save_campfire_base">
-		<text>Możesz używać % tylko w pobliżu ognisk i w przyjaznych obozach.</text>
+		<text>Możesz użyć opcji %s tylko w pobliżu ognisk i w przyjaznych obozach.</text>
 	</string>
 	<string id="st_ui_no_save_campfire_unlit">
 		<text>Ognisko musi zostać rozpalone przed rozpoczęciem %s.</text>
@@ -61,10 +61,10 @@
 		<text>Tatuś</text>
 	</string>
 	<string id="token_pending">
-		<text>Otrzymasz Token za %s %i sekund.</text>
+		<text>Opcja zapisu %s zostanie przyznana po %i sekundach.</text>
 	</string>
 	<string id="token_granted">
-		<text>Otrzymałeś token %s. Naciśnij SHIFT-F5, aby go otrzymać.</text>
+		<text>Dostępna jest opcja zapisu %s. Naciśnij SHIFT+F5, aby ją aktywować.</text>
 	</string>
 </string_table>
 

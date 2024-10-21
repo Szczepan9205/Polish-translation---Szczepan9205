@@ -7,11 +7,11 @@
 	</string>
 	<string id="st_cortex_scope_desc">
 		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producenci: %c[ui_gray_2]Ró¿ni\n
-		%c[d_cyan] • %c[0,255,255,255] powiêkszenie: %c[ui_gray_2]1.0x - 8.0x\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producenci: %c[ui_gray_2]Ró¿ni\n
+		%c[d_cyan] • %c[0,255,255,255] Powiêkszenie: %c[ui_gray_2]1.0x - 8.0x\n
 		%c[0,255,255,255]KOMPATYBILNY ZE:\n
-		%c[d_cyan] • %c[ui_gray_2] strzelbami o du¿ej mocy kalibru 12.7 mm\n
+		%c[d_cyan] • %c[ui_gray_2] Strzelbami o du¿ej mocy kalibru 12.7 mm\n
 		</text>
 	</string>
 

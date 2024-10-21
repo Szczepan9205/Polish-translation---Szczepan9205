@@ -1,6 +1,6 @@
 <string_table>
 	<string id="ui_mcm_menu_dph_loot_cond">
-		<text>Konfigurowalny stan ³upu</text>
+		<text>Stan ³upu</text>
 	</string>
 	<string id="ui_mcm_menu_ammo">
 		<text>Amunicja</text>

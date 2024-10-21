@@ -6751,7 +6751,7 @@
 		<text>$map, otrzymaliœmy raport z nieznanego Ÿród³a, ¿e $target szykuje zasadzkê. Do wszystkich badaczy - zachowaæ szczególn¹ ostro¿noœæ!</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_scientist_enemy_8">
-		<text>$target ignorowa³ nasze ostrze¿enia, byliœmy zmuszeni otworzyæ ogieñ.nOtworzyliœmy ogieñ w kierunku $target po tym jak nasze ostrze¿enia zosta³y zignorowane.\nWygl¹da na to, ¿e du¿a grupa zmierza w tê stronê. Wycofujemy siê na pozycjê w $location. $speaker, bez odbioru.</text>
+		<text>$target nie obchodzi³y nasze ostrze¿enia, byliœmy zmuszeni otworzyæ ogieñ.\nOtworzyliœmy ogieñ w kierunku $target po tym jak nasze ostrze¿enia zosta³y zignorowane.\nWygl¹da na to, ¿e du¿a grupa zmierza w tê stronê. Wycofujemy siê na pozycjê w $location. $speaker, bez odbioru.</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_scientist_enemy_9">
 		<text>Dosta³em informacjê, ¿e $target chyba szuka k³opotów. $map, podobno chc¹ tu uderzyæ. Miejcie siê na bacznoœci.</text>

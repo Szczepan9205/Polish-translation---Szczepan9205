@@ -2,10 +2,10 @@
 
 <string_table>
 	<string id="ui_mcm_faction_economy_title">
-		<text>Faction based economy</text>
+		<text>Ekonomia bazowana na frakcji</text>
 	</string>
 	<string id="ui_mcm_menu_faction_economy">
-		<text>Ekonomia frakcyjna</text>
+		<text>Ekonomia frakcji</text>
 	</string>
 	<string id="ui_mcm_faction_economy_use_faction_discounts">
 		<text>Mno¿nik zni¿ek frakcji</text>
@@ -17,13 +17,13 @@
 		<text>Mno¿nik reputacji</text>
 	</string>
 	<string id="ui_mcm_faction_economy_use_goodwill_mul_desc">
-		<text>W³¹cza mno¿nik oparty na reputacji. (domyœlnie dotyczy tylko twojej frakcji)</text>
+		<text>W³¹cza mno¿nik oparty na przychylnoœci (domyœlnie dotyczy tylko twojej frakcji).</text>
 	</string>
 	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill">
-		<text>Ignoruj frakcjê dla mno¿nika reputacji</text>
+		<text>Ignoruj frakcjê dla mno¿nika przychylnoœci</text>
 	</string>
 	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill_desc">
-		<text>Sprawia, ¿e mno¿nik reputacji dzia³a dla wszystkich frakcji.</text>
+		<text>Sprawia, ¿e mno¿nik przychylnoœci dzia³a dla wszystkich frakcji.</text>
 	</string>
 	<string id="ui_mcm_faction_economy_use_reputation_mul">
 		<text>Mno¿nik reputacji</text>
@@ -44,10 +44,10 @@
 		<text>Wymagany poziom reputacji dla innych frakcji</text>
 	</string>
 	<string id="ui_mcm_faction_economy_required_supply_level_desc">
-		<text>Poziom wartoœci reputacji, przy którym handlarze z innych frakcji zaczynaj¹ sprzedawaæ sprzêt frakcji.</text>
+		<text>Poziom wartoœci przychylnoœci, przy którym handlarze z innych frakcji zaczynaj¹ sprzedawaæ sprzêt frakcji.</text>
 	</string>
 	<string id="ui_mcm_faction_economy_goodwill_mul">
-		<text>Mno¿nik ceny wartoœci reputacji</text>
+		<text>Mno¿nik ceny wartoœci przychylnoœci</text>
 	</string>
 	<string id="ui_mcm_faction_economy_rep_mul">
 		<text>Wspó³czynnik mno¿nika ceny reputacji</text>
@@ -59,10 +59,10 @@
 		<text>Iloœæ normalnej amunicji</text>
 	</string>
 	<string id="ui_mcm_faction_economy_ammo_amount_special_desc">
-		<text>Iloœæ specjalnej amunicji (AP, HP, œrutowe, strza³kowe itp.), która pojawi siê w magazynie na podstawie broni sprzedanej przez handlarza.</text>
+		<text>Iloœæ specjalnej amunicji (AP, HP, œrutowe, strza³kowe itp.), która pojawi siê w asortymencie na podstawie broni sprzedanej przez handlarza.</text>
 	</string>
-	<string id="ui_mcm_faction_economy_ammo_amount_desc">.
-		<text>Iloœæ normalnej amunicji, która pojawi siê w magazynie na podstawie broni sprzedanej przez handlarza.</text>
+	<string id="ui_mcm_faction_economy_ammo_amount_desc">
+		<text>Iloœæ normalnej amunicji, która pojawi siê w asortymencie na podstawie broni sprzedanej przez handlarza.</text>
 	</string>
 	<string id="ui_mcm_faction_economy_use_trade_GUI">
 		<text>W³¹cz dodatkowe informacje w menu handlu</text>
