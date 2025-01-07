@@ -434,7 +434,7 @@
 		<text>Cha³upniczo uprawiane konopie. Palenie trawki jest popularn¹ rozrywk¹, szczególnie wœród cz³onków Wolnoœci s³u¿¹cych w pobli¿u Bariery. Woreczki trawy mo¿na dostaæ tu i tam. Niektórzy wierz¹, ¿e gandzia pozwala zachowaæ równowagê umys³u.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_green] • %c[ui_gray_2] Nieznacznie poprawia morale i ochronê umys³u przed okropnoœciami Zony\n
-		%c[d_green] • %c[ui_gray_2] Silny efekt otrzeŸwienia\n
+		%c[d_green] • %c[ui_gray_2] Usuwa silne zawroty g³owy\n
 		</text>
 	</string>
 	

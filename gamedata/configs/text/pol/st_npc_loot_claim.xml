@@ -21,19 +21,19 @@
 	</string>
 	
 	<string id="st_npc_loot_claim_last_1">
-		<text>Nie bêdê ciê wiêcej ostrzega³, trzymaj siê z dala od tego ³upu!</text>
+		<text>Nie bêdê ciê wiêcej ostrzega³. Trzymaj siê z dala od tego ³upu!</text>
 	</string>
 	<string id="st_npc_loot_claim_last_2">
 		<text>To ostatni raz, kiedy mówiê ci, ¿ebyœ trzyma³ siê z dala od tego trupa! Zostaw go.</text>
 	</string>
 	<string id="st_npc_loot_claim_last_3">
-		<text>Ostrzegam ciê, jeœli spróbujesz ukraœæ ten ³up, otworzymy ogieñ.</text>
+		<text>Ostrzegam ciê... Jeœli spróbujesz ukraœæ ten ³up, otworzymy ogieñ.</text>
 	</string>
 	<string id="st_npc_loot_claim_last_4">
-		<text>Ostatnia szansa - zostaw ten ³up w spokoju.</text>
+		<text>Ostatnia szansa... zostaw ten ³up w spokoju.</text>
 	</string>
 	<string id="st_npc_loot_claim_last_5">
-		<text>Ostatnie ostrze¿enie! Nie dotykaj tego trupa, bo bêdziemy strzelaæ!</text>
+		<text>Ostatnie ostrze¿enie! Nie dotykaj tego trupa bo bêdziemy strzelaæ!</text>
 	</string>
 
 	<string id="st_npc_loot_claim_attack_1">

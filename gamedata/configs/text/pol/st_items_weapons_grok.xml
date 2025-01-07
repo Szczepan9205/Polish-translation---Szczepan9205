@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
-<!--
-	Weapons
--->
-
 <string_table>
 	
 	<string id="st_wpn_raptr">
 		<text>Strzelba RAPTR</text>
 	</string>
 	<string id="st_wpn_raptr_descr">
-		<text>
-		RAPTR to automatyczna strzelba z magazynkiem, która narodziła się w Zonie i została dostosowana do specyficznych potrzeb tej niebezpiecznej części świata. RAPTR jest często nazywany przez stalkerów "zabójcą pijawek". Rzeczywiście, jego wysoka szybkostrzelność, duży magazynek i niezrównana ergonomia sprawiają, że jest to idealna broń do zabijania szybko poruszających się i niewidzialnych celów, jakimi są pijawki. Uważany głównie za fantazyjną broń w ciągu ostatnich kilku lat, popularność RAPTR-a wśród stalkerów zaczęła rosnąć podczas niedawnego rozkwitu gniazd pijawek. Obecnie jest uważany za jedną z najlepszych strzelb kalibru 12x70 w Zonie.\n \n 
+		<text>RAPTR to automatyczna strzelba z magazynkiem, która narodziła się w Zonie i została dostosowana do specyficznych potrzeb tej niebezpiecznej części świata. RAPTR jest często nazywany przez stalkerów "zabójcą pijawek". Rzeczywiście, jego wysoka szybkostrzelność, duży magazynek i niezrównana ergonomia sprawiają, że jest to idealna broń do zabijania szybko poruszających się i niewidzialnych celów, jakimi są pijawki. Uważany głównie za fantazyjną broń w ciągu ostatnich kilku lat, popularność RAPTR-a wśród stalkerów zaczęła rosnąć podczas niedawnego rozkwitu gniazd pijawek. Obecnie jest uważany za jedną z najlepszych strzelb kalibru 12x70 w Zonie.\n \n 
 		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: Leupold M40, Eotech XPS3, Aimpoint CompM4s, Aimpoint Pro, Firefield MG Kemper XL\n 
 		%c[d_purple] • %c[ui_gray_2] Tłumik: Hexagon 12K\n
@@ -21,7 +16,7 @@
 		<text>Magazynek bębnowy do strzelby RAPTR</text>
 	</string>
 	<string id="mag_raptr_descr">
-		<text>Duży magazynek mieszczący 20 nabojów kalibru 12.</text>
+		<text>Duży magazynek bębnowy mieszczący 20 nabojów kalibru 12.</text>
 	</string>
 	
 </string_table>

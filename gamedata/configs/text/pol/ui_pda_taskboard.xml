@@ -3,6 +3,9 @@
 	<string id="st_pda_accept_task">
 		<text>Zaakceptuj zadanie</text>
 	</string>
+	<string id="st_pda_task_limit_reached">
+		<text>Osi¹gniêto limit zadañ</text>
+	</string>
 	<string id="st_pda_refresh_tasks">
 		<text>Odœwie¿ zadania</text>
 	</string>

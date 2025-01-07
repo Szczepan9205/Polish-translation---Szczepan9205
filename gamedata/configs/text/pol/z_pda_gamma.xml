@@ -6,7 +6,7 @@
 		<text>G.A.M.M.A. - instrukcja</text>
 	</string>
 	<string id="encyclopedia_gamma_text">
-		<text>%c[ui_gray_1]Instrukcja obs³ugi moda %c[pda_blue]G.A.M.M.A.</text>
+		<text>%c[pda_green]Instrukcja obs³ugi moda %c[pda_white]G.A.M.M.A.</text>
 	</string>
 
 	<string id="article_gamma_aaintro">
@@ -154,7 +154,7 @@
 	<string id="article_gamma_lore_text">
 		<text>%c[pda_white]Lore\n \n
 			Po upadku Monolitu za spraw¹ Strie³oka Zona sta³a siê miejscem nauki i odkryæ Zona nie by³a ju¿ tajnym miejscem, a ONZ zaczê³o zakazywaæ sprzeda¿y broni palnej na jej terenie, aby uczyniæ j¹ bardziej pokojow¹, a op³acane PMC (Private Military Companies, z pol. Prywatne Firmy Wojskowe) zapewnia³y bezpieczeñstwo naukowcom i ogranicza³y walki miêdzy frakcjami. UE i ONZ postanowi³y po³o¿yæ kres rozlewowi krwi w Zonie, a tak¿e przemytowi broni ze Zony do pobliskich krajów poprzez ograniczenie handlu broni¹. ¯adna frakcja nie chcia³a dawaæ ONZ i UE wiêcej powodów do zawierania kontraktów z prywatnymi firmami wojskowymi. PMC ju¿ zamoczy³y swoje r¹czki w ca³ej Zonie.\n \n
-			W tym okresie pokoju dokonano nowych odkryæ, takich jak przetapianie artefaktów, fuzja i nadawanie im mocy dziêki pracom profesora Sacharowa. Te "z³ote czasy" nauki w Zonie os³abi³y jednak istniej¹ce frakcje, poniewa¿ Monolit nie by³ ju¿ dla ¿adnej z nich priorytetem. G³êboko w sercu Zony i CEA, Monolit potajemnie stawa³ siê coraz silniejszy, a nowa grupa fanatyków zaczê³a powoli wy³aniaæ siê na zewn¹trz, bêd¹c nawet bardziej szalona ni¿ Monolit, jeœli wierzyæ plotkom.\n
+			W tym okresie pokoju dokonano nowych odkryæ, takich jak przetapianie artefaktów, fuzja i nadawanie im mocy dziêki pracom profesora Sacharowa. Te "z³ote czasy" nauki w Zonie os³abi³y jednak istniej¹ce frakcje, poniewa¿ Monolit nie by³ ju¿ dla ¿adnej z nich priorytetem. G³êboko w sercu Zony i CzEJ, Monolit potajemnie stawa³ siê coraz silniejszy, a nowa grupa fanatyków zaczê³a powoli wy³aniaæ siê na zewn¹trz, bêd¹c nawet bardziej szalona ni¿ Monolit, jeœli wierzyæ plotkom.\n
 			W 2018 roku Z³ota Era Zony dobieg³a koñca, a Monolit powróci³. Reaktywowali Maszynê Cudów oraz Mózgozwêglacz i tym samym znów mamy rok 2012. Os³abione frakcje sta³y siê jeszcze bardziej miêkkie, nie s¹ ju¿ zatwardzia³ymi zabójcami Monolitu, jakimi byli w dawnych czasach. Jedyna nadzieja dla wiêkszoœci stalkerów? Odnalezienie Strie³oka. Niektórzy twierdz¹, ¿e wci¹¿ ¿yje, a Doktor - jeden z jego starych przyjació³, mo¿e mieæ jakieœ wskazówki dotycz¹ce jego lokalizacji.\n
 			Przybywasz do Zony w samym œrodku tego ba³aganu. Twoim zadaniem jest odnalezienie Strie³oka i pomoc w oczyszczeniu Zony z plagi Monolitu...
 		</text>
@@ -243,7 +243,7 @@
 		%c[pda_white]• Frakcje NATO to: %c[ui_gray_1]Najemnicy, Czyste Niebo, Wolnoœæ, UNISG\n
 		%c[pda_white]• Frakcje UW: %c[ui_gray_1]Wojsko, Samotnicy, Powinnoœæ, Bandyci, Renegaci, Monolit\n
 		%c[pda_white]• %c[ui_gray_1]Wp³ywa to równie¿ na wyposa¿enie postaci niezale¿nych frakcji, np. postacie niezale¿ne Monolitu maj¹ oko³o 50% szans na posiadanie broni NATO lub UW.\n
-		Niektórzy handlarze sprzedaj¹ bardzo specyficzne przedmioty, np. profesor Sacharow i Hermann sprzedaj¹ Przetapiacz Artefaktów - specyficzny dla GAMMY zestaw narzêdzi, który pozwala wzmacniaæ i wytwarzaæ artefakty (lub przetapiaæ artefakty za jego pomoc¹, aby uzupe³niæ moc Przetapiacza). Sprzedaj¹ oni równie¿ schematy wytwarzania zasilaczy do egzoszkieletów na 5 poziomie zaopatrzenia.
+		Niektórzy handlarze sprzedaj¹ bardzo specyficzne przedmioty, np. profesor Sacharow i Herman sprzedaj¹ Przetapiacz Artefaktów - specyficzny dla GAMMY zestaw narzêdzi, który pozwala wzmacniaæ i wytwarzaæ artefakty (lub przetapiaæ artefakty za jego pomoc¹, aby uzupe³niæ moc Przetapiacza). Sprzedaj¹ oni równie¿ schematy wytwarzania zasilaczy do egzoszkieletów na 5 poziomie zaopatrzenia.
 		</text>
 	</string>
 
@@ -264,7 +264,7 @@
 		%c[pda_yellow]Operacja "£una":\n
 		%c[pda_white]Dostêpna na pocz¹tku rozgrywki frakcj¹ UNISG (wpisz "UNISG" lub "ISG" na ekranie wyboru frakcji podczas tworzenia postaci, aby odblokowaæ frakcjê).\n \n
 		%c[pda_yellow]£owcy artefaktów:\n
-		%c[pda_white]Aby rozpocz¹æ ten w¹tek, porozmawiaj z dowolnym NPC spoœród "£owców Artefaktów", tj. z Kowalewem w koœciele na Bagnach lub ich przedstawicielem o imieniu Sarik Zmierzch w Wiosce Kotów w Kordonie.\n
+		%c[pda_white]Aby rozpocz¹æ ten w¹tek, porozmawiaj z dowolnym NPC spoœród "£owców Artefaktów", tj. z Kowalewem w koœciele na Bagnach lub ich przedstawicielem o imieniu Sarik Zmierzch w Wiosce kotów w Kordonie.\n
 		Dostêpny dla sojuszników Naukowców:\n
 		%c[pda_white]• %c[ui_gray_1]Samotników\n\n
 		%c[pda_white]• %c[ui_gray_1]Czystego Nieba\n

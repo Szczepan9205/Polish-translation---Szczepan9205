@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+
+<string_table>
+
+	<string id="st_addon_scope_lazup_generic">
+		<text>Laserowy moduł celowniczy</text>
+	</string>
+	<string id="st_addon_scope_lazup_generic_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNY Z:\n \n%c[d_cyan] • %c[ui_gray_2] Wieloma rodzajami broni z szyną Picatinny lub inną kompatybilną\n \n%c[ui_gray_1]
+ Używany do celnego strzelania z dowolnej pozycji. Może być używany z noktowizją dla łatwiejszego celowania\n </text>
+	</string>
+	
+</string_table>	

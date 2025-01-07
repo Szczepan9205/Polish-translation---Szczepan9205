@@ -30,7 +30,7 @@
 	<string id="ammo_9x21_sp10_descr">
 		<text>Nabój pistoletowy o zwiêkszonej sile penetracji. Zaprojektowany do niszczenia si³ l¹dowych wyposa¿onych œrodki ochrony osobistej. Czêœæ przednia rdzenia stalowego, wzmacnianego termicznie, wystaje z ³uski, dziêki czemu uzyskuje siê wysoki efekt penetracji pocisku.\n \n%c[ui_gray_2] • %c[ui_gray_2] Umo¿liwia przebicie pancerza klasy: %c[ui_gray_1]BR4\n%c[ui_gray_2] • %c[ui_gray_2] Obra¿enia zadawane miêkkiej tkance: %c[ui_gray_1]œrednie
 		\n%c[ui_gray_2] • %c[ui_gray_2] Si³a przebicia pancerza: %c[ui_gray_1]BR3 (32)
-		\n%c[ui_gray_2] • %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]24</text>
+		\n%c[ui_gray_2] • %c[ui_gray_2] Moc obra¿eñ zadawanych tkance: %c[ui_gray_1]27</text>
 	</string>
 
 	<string id="ammo_20x70_buck">
@@ -71,7 +71,7 @@
 	<string id="ammo_338_federal_descr">
 		<text>.338 Federal to nabój karabinowy oparty na ³usce .308 Winchester z szyjk¹ do kalibru .33. Zosta³ stworzony przez Federal Cartridge i Sako w 2006 roku. Nabój jest przeznaczony dla lekkich karabinków i stanowi po³¹czenie du¿ego kalibru ze stosunkowo niewielkim odrzutem.\n \n%c[d_purple] • %c[ui_gray_2] Umo¿liwia przebicie pancerza klasy: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Obra¿enia zadawane miêkkiej tkance: %c[ui_gray_1]bardzo wysokie
 		\n%c[d_purple] • %c[ui_gray_2] Najwy¿sza klasa przebijanego pancerza: %c[ui_gray_1]BR6 (75)
-		\n%c[d_purple] • %c[ui_gray_2] Stopieñ uszkodzenia tkanek: %c[ui_gray_1]56</text>
+		\n%c[d_purple] • %c[ui_gray_2] Stopieñ uszkodzenia tkanek: %c[ui_gray_1]606</text>
 	</string>
 	<string id="ammo_338_federal_s">
 		<text>.338 Federal</text>

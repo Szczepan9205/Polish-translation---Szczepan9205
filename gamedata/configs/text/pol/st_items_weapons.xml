@@ -7,7 +7,7 @@ PISTOLS
 -->
 	<string id="st_wpn_aps">
 		<text>APS</text>
-	</string> 
+	</string>
 	<string id="st_wpn_aps_descr">
 		<text>APS (ros. Awtomaticzeskij Pistolet Stieczkina, Automatyczny Pistolet Stieczkina) zosta³ wprowadzony do s³u¿by w ZSRR w 1951 wraz z Pistoletem Makarowa, zastêpuj¹c przestarza³¹ konstrukcjê TT-33. Wyposa¿ony w selektor ognia, zaprojektowany by³ jako broñ boczna dla artylerzystów, za³óg pojazdów i personelu lotniczego.\n \nPierwotnie zasilany pociskami 7.62x25 mm Tokariewa, w póŸniejszym okresie przystosowany do korzystania z amunicji kalibru 9x18, u¿ywanej w pistolecie Makarowa. Powodem zmiany by³o dostrze¿enie potencja³u amunicji 9 mm jako nowego naboju pistoletowego przeznaczonego dla Armii Czerwonej. Obecnie jest stopniowo wycofywany z czynnej s³u¿by.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
@@ -43,7 +43,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm (po modyfikacji)\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_colt1911">
 		<text>Colt M1911</text>
 	</string>
@@ -139,6 +139,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech (po modyfikacji)\n
 		</text>
 	</string>
+
 	<string id="st_wpn_glock_modern">
 		<text>Glock 19 (alternatywny)</text>
 	</string>
@@ -173,7 +174,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]HS Produkt\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_pm">
 		<text>Pistolet Makarowa</text>
 	</string>
@@ -187,6 +188,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
 		</text>
 	</string>
+
 	<string id="st_wpn_pm_actor">
 		<text>Pistolet Makarowa "Ozdobny"</text>
 	</string>
@@ -197,7 +199,6 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
 		</text>
 	</string>
-
 	
 	<string id="st_wpn_pmm">
 		<text>PMM</text>
@@ -241,7 +242,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: APS (po modyfikacji)\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_pb">
 		<text>PB</text>
 	</string>
@@ -304,6 +305,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru .45 ACP (po modyfikacji)\n
 		</text>
 	</string>
+
 	<string id="st_wpn_usp_match">
 		<text>USP Match</text>
 	</string>
@@ -475,7 +477,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Zbrojeniowe w Tule\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_bm16">
 		<text>TOZ-66 (obrzyn)</text>
 	</string>
@@ -535,7 +537,7 @@ PISTOLS
 	</string>
 
 	<string id="st_wpn_mp5">
-		<text>MP5A3</text>
+		<text>HK MP5A3</text>
 	</string>
 	<string id="st_wpn_mp5_descr">
 		<text>MP5 to jedna z najbardziej znanych i rozpowszechnionych broni tej klasy. Kompaktowoœæ, celnoœæ i niezawodnoœæ tego pistoletu maszynowego sprawi³y, ¿e MP5 sta³ siê ulubieñcem wojsk, s³u¿b specjalnych i porz¹dkowych, a tak¿e agencji ochrony na ca³ym œwiecie.\n \nBroñ jest równie popularna w œwiatku przestêpczym, wiêc nic dziwnego, ¿e w du¿ych iloœciach trafia do Zony. MP5A3 na tle innych modeli wyró¿nia sk³adana, metalowa kolba.\n \n
@@ -546,7 +548,7 @@ PISTOLS
 	</string>
 
 	<string id="st_wpn_mp5_alt">
-		<text>MP5A3 (alternatywny)</text>
+		<text>HK MP5A3 (alternatywny)</text>
 	</string>
 	<string id="st_wpn_mp5_alt_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB.\n \n
@@ -557,7 +559,7 @@ PISTOLS
 	</string>
 
 	<string id="st_wpn_mp5_custom">
-		<text>MP5A3 (zmodyfikowany)</text>
+		<text>HK MP5A3 (zmodyfikowany)</text>
 	</string>
 	<string id="st_wpn_mp5_custom_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB.\n \n
@@ -568,7 +570,7 @@ PISTOLS
 	</string>
 
 	<string id="st_wpn_mp5_nimble">
-		<text>MP5A3 "Frasier"</text>
+		<text>HK MP5A3 "Frasier"</text>
 	</string>
 	<string id="st_wpn_mp5_nimble_descr">
 		<text>Prototypowy model pistoletu maszynowego opartego na œwietnym HK MP5A3. Opracowany jako kolejna generacja broni do walk w ciasnych przestrzeniach, cechuje siê wiêkszym kalibrem, szybkostrzelnoœci¹ i celnoœci¹.\n \n
@@ -579,7 +581,7 @@ PISTOLS
 	</string>
 	
 	<string id="st_wpn_mp5sd">
-		<text>MP5SD6</text>
+		<text>HK MP5SD6</text>
 	</string>
 	<string id="st_wpn_mp5sd_descr">
 		<text>Wariant MP5 ze zintegrowanym t³umikiem. W Zonie najchêtniej korzystaj¹ z niego kontraktowi najemnicy. Ten wariant posiada specjalny, zintegrowany t³umik do MP5SD.\n \n
@@ -589,7 +591,7 @@ PISTOLS
 	</string>
 
 	<string id="st_wpn_mp5sd_custom">
-		<text>MP5SD6 (zmodyfikowany)</text>
+		<text>HK MP5SD6 (zmodyfikowany)</text>
 	</string>
 	<string id="st_wpn_mp5sd_custom_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB. Wariant SD6 jest wyposa¿ony w wysuwan¹ kolbê, zintegrowany t³umik i ma mo¿liwoœæ strzelania 3-nabojow¹ seri¹.\n \n
@@ -600,7 +602,7 @@ PISTOLS
 	</string>
 
 	<string id="st_wpn_mp5sd_new">
-		<text>MP5SD6</text>
+		<text>HK MP5SD6</text>
 	</string>
 	<string id="st_wpn_mp5sd_new_descr">
 		<text>Jedna z najbardziej znanych i rozpowszechnionych broni palnej w swojej klasie, kompaktowoœæ, celnoœæ i niezawodnoœæ MP5 sprawi³y, ¿e sta³ siê ulubieñcem wielu organizacji wojskowych, organów œcigania, wywiadu i bezpieczeñstwa na ca³ym œwiecie. Wariant A3 jest wyposa¿ony w wysuwan¹ metalow¹ kolbê, co dodatkowo zwiêksza mo¿liwoœci broni w zakresie CQB. Wariant SD6 jest wyposa¿ony w wysuwan¹ kolbê, zintegrowany t³umik i ma mo¿liwoœæ strzelania 3-nabojow¹ seri¹.\n \n
@@ -718,7 +720,7 @@ PISTOLS
 	<string id="st_wpn_9a91">
 		<text>9A-91</text>
 	</string>
-	
+
 	<string id="st_wpn_aek971">
 		<text>AEK-971</text>
 	</string>
@@ -742,7 +744,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_ak">
 		<text>AK-47</text>
 	</string>
@@ -927,7 +929,7 @@ PISTOLS
 		%c[d_red] • %c[d_red] Brak mo¿liwoœci monta¿u celownika ze wzglêdu na brak szyny "Jaskó³czy ogon"\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_ak74u">
 		<text>AKS-74UN</text>
 	</string>
@@ -971,7 +973,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik PBS-4\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_akm">
 		<text>AKM</text>
 	</string>
@@ -983,7 +985,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_akms">
 		<text>AKMS</text>
 	</string>
@@ -998,10 +1000,10 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
+
 	<string id="st_wpn_abakan">
 		<text>AN-94 Abakan</text>
 	</string>
-	
 	<string id="st_wpn_abakan_camo">
 		<text>AN-94 Abakan (w kamufla¿u)</text>
 	</string>
@@ -1106,8 +1108,8 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Barska ES AC10632\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
-	</string>
-	
+	</string>	
+
 	<string id="st_wpn_g3sg1">
 		<text>G3SG1</text>
 	</string>
@@ -1128,7 +1130,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_galil">
 		<text>Galil AR</text>
 	</string>
@@ -1168,7 +1170,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_l85">
 		<text>L85A1</text>
 	</string>
@@ -1210,7 +1212,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: NATO (po modyfikacji)\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_lr300">
 		<text>Z-M LR-300ML</text>
 	</string>
@@ -1228,7 +1230,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203 (po modyfikacji)\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_mossberg590">
 		<text>Mossberg 590A1</text>
 	</string>
@@ -1250,7 +1252,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior(zintegrowany)\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_m4">
 		<text>M4A1</text>
 	</string>
@@ -1283,7 +1285,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: M203 (po modyfikacji)\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_m16a2">
 		<text>M16A2</text>
 	</string>
@@ -1317,7 +1319,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Saco Defense, U.S. Ordnance\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_m249">
 		<text>M249 SAW</text>
 	</string>
@@ -1358,7 +1360,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik EKP-1S-03 Kobra\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_pkp">
 		<text>PKP Pieczienieg</text>
 	</string>
@@ -1369,7 +1371,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Michai³ Ka³asznikow\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_ppsh41">
 		<text>PPSz-41</text>
 	</string>
@@ -1411,7 +1413,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Wiatsko-Polañskie Zak³ady Budowy Maszyn „Mo³ot”\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_rpk74">
 		<text>RPK-74</text>
 	</string>
@@ -1457,7 +1459,7 @@ PISTOLS
 	<string id="st_wpn_vsk94">
 		<text>WSK-94</text>
 	</string>
-
+	
 	<string id="st_wpn_vintorez">
 		<text>WSS Wintoriez</text>
 	</string>
@@ -1503,7 +1505,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Nieznany\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_xm8">
 		<text>XM8</text>
 	</string>
@@ -1526,6 +1528,7 @@ PISTOLS
 		<text>Karabin Accuracy International Arctic Warfare to seria karabinów wyborowych opracowanych i produkowanych przez brytyjsk¹ firmê Accuracy International. Popularnoœæ wœród s³u¿b i wojsk, a tak¿e w u¿yciu cywilnym zyska³ w³aœciwie od chwili, gdy zosta³ zaprezentowany w latach 80. XX wieku.\n \nBroñ posiada kilka funkcji poprawiaj¹cych wydajnoœæ w warunkach bardzo niskich temperatur, nie wykluczaj¹cych jednak przeprowadzania operacji w mniej ekstremalnym œrodowisku.\n \nL96 AWSM zasilany jest amunicj¹ .338 Lapua Magnum.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Leupold Mark 4\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1547,6 +1550,7 @@ PISTOLS
 		<text>Barrett M98B to karabin wyborowy zasilany amunicj¹ .338 Lapua Magnum. Zamiast modyfikowaæ istniej¹c¹ broñ myœliwsk¹, firma Barret zaprojektowa³a karabin M98B ca³kiem od zera.\n \nBroñ posiada dostosowywan¹ do u¿ytkownika kolbê z poduszk¹ policzkow¹ dla zwiêkszenia komfortu. Ponadto, si³ê nacisku spustu równie¿ mo¿na zmodyfikowaæ. Karabin wyposa¿ony jest w stabilizacyjny dwójnóg z przodu i monopod z ty³u.\n \nStrzelcy maj¹ mo¿liwoœæ dopasowania broni pod siebie, dodaj¹c dziêki szynom rozmaite celowniki, latarki i uchwyty. M98B posiada dosyæ prost¹ budowê, dziêki czemu jest ³atwy w demonta¿u i czyszczeniu.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Leupold Mark 4\n \n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1577,6 +1581,7 @@ PISTOLS
 		<text>Karabin Accuracy International Arctic Warfare to seria karabinów wyborowych opracowanych i produkowanych przez brytyjsk¹ firmê Accuracy International. Popularnoœæ wœród s³u¿b i wojsk, a tak¿e w u¿yciu cywilnym zyska³ w³aœciwie od chwili, gdy zosta³ zaprezentowany w latach 80. XX wieku.\n \nBroñ posiada kilka funkcji poprawiaj¹cych wydajnoœæ w warunkach bardzo niskich temperatur, nie wykluczaj¹cych jednak przeprowadzania operacji w mniej ekstremalnym œrodowisku.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik Leupold Mark 4\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1587,6 +1592,7 @@ PISTOLS
 		<text>Karabin wyborowy Si³ Zbrojnych USA, SWS (ang. Sniper Weapon System, System Broni Snajperskiej) M24 bazuje na karabinie Remington 700. Posiada zintegrowany celownik Leupold 10x40mm, lufê ze stali nierdzewnej i regulowan¹ kompozytow¹ kolbê z kevlaru i grafitu.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik snajperski M24\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1597,6 +1603,7 @@ PISTOLS
 		<text>Podstawowa wersja karabinu Mosin-Nagant z lekko zu¿ytymi elementami. Model M1891/30 produkowany by³ jako podstawowe uzbrojenie sowieckiej piechoty w latach 1930-1945. W czasie II Wojny Œwiatowej œwietnie sprawdza³ siê w roli karabinu wyborowego po zamontowaniu celownika PE o powiêkszeniu 4x lub PU o powiêkszeniu 3.5x\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
 		%c[d_purple]• %c[ui_gray_2] Celownik: PU\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1612,6 +1619,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] Celowniki: EKP-8-02 Kobra, 1P29, PSO-1\n
 		</text>
 	</string>
+
 	<string id="st_wpn_svu_nimble">
 		<text>OC-03A SWU-A</text>
 	</string>
@@ -1629,6 +1637,7 @@ PISTOLS
 		<text>TRG-42 to projekt doœæ nietypowy. Nie jest to bowiem podrasowany wariant ju¿ istniej¹cego karabinu, lecz opracowana od zera konstrukcja oparta na wnikliwym przestudiowaniu wymagañ, jakim powinna sprostaæ broñ snajperska. Ze wzglêdu na zastosowane materia³y oraz rozwi¹zania TRG-42 charakteryzuje siê du¿¹ wytrzyma³oœci¹, a tak¿e bardzo wysok¹ celnoœci¹ oraz niezawodnoœci¹, dziêki czemu zyska³ popularnoœæ zarówno w dystansowym strzelectwie sportowym, jak i poœród wojskowych strzelców wyborowych.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik FINDOT\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1667,7 +1676,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Swiss Arms AG\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_sv98">
 		<text>SW98</text>
 	</string>
@@ -1678,9 +1687,10 @@ PISTOLS
 		<text>SW-98 (ros. Snajperskaja Wintowka Model 1998) to rosyjski karabin wyborowy opracowany przez W³adimira Stronskiego. W roku 2003 ¿o³nierze oddzia³ów specjalnych zostali wyposa¿eni w system snajperski 6S11, obejmuj¹cy karabin SW-98 (indeks 6W10) i specjalny pocisk o zwiêkszonych w³aœciwoœciach penetracyjnych oznaczony 7N14. Broni u¿ywano do walk w czasie operacji w Czeczenii.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik PKS-07\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_svd">
 		<text>SWD</text>
 	</string>
@@ -1706,7 +1716,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] T³umik: KZRZP\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_svt40">
 		<text>SWT-40</text>
 	</string>
@@ -1720,6 +1730,21 @@ PISTOLS
 		</text>
 	</string>
 
+	<string id="st_wpn_desert_eagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="st_wpn_desert_eagle_descr">
+		<text>IMI Desert Eagle to pó³automatyczny pistolet rêczny, który wyró¿nia siê tym, ¿e mieœci najwiêkszy nabój centralnego zap³onu spoœród wszystkich pistoletów samonapinaj¹cych z magazynkiem, a tak¿e jest najciê¿szym i najbardziej masywnym pistoletem tego typu. Dziêki swojej masywnoœci i wadze mo¿na z niego zat³uc wrogów na œmieræ. Plotka g³osi, ¿e w Zonie grasuje stalker z ³omem, który posiada przerobion¹ wersjê tego pistoletu.</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_nimble">
+		<text>Desert Eagle "Orze³ Stepowy"</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble_descr">
+		<text>Broñ ta zosta³a przyniesiona do Zony przez stalkera o imieniu Logan Williams. W przebraniu fotografa czasopisma TIME uda³o mu siê w pojedynkê dostaæ do centrum Prypeci. Jego obecne miejsce pobytu jest nieznane, ale podobno pracuje jako broker informacji specjalizuj¹cy siê we wszystkich sprawach zwi¹zanych ze Zon¹.\n \n</text>
+	</string>
+	
+
 	<string id="st_wpn_vssk">
 		<text>WSSK Wych³op</text>
 	</string>
@@ -1727,9 +1752,10 @@ PISTOLS
 		<text>WSSK Wych³op to rosyjski karabin wyborowy w uk³adzie bullpup zasilany amunicj¹ poddŸwiêkow¹ kalibru 12.7x55 mm. Opracowany w roku 2002 dla jednostek specjalnych FSB.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany celownik PKS-07\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_wa2000">
 		<text>Walther WA 2000</text>
 	</string>
@@ -1737,6 +1763,7 @@ PISTOLS
 		<text>Walther WA 2000 to pó³automatyczny karabin wyborowy w uk³adzie bullpup, wytwarzany przez Carl Walther GmbH Sportwaffen w latach 1982-1988. Broñ produkowano w trzech ró¿nych kalibrach, jednak produkcja zosta³a szybko przerwana ze wzglêdu na wysokie koszta i niewystarczaj¹c¹ dla celów wojskowych niezawodnoœæ.\n \nPowsta³o jedynie 176 egzemplarzy, co sprawi³o, ¿e obecnie jest to jeden z najrzadszych i najbardziej poszukiwanych przez kolekcjonerów karabinów na œwiecie.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] T³umik: KZRZP (po modyfikacji)\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1766,7 +1793,7 @@ PISTOLS
 		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Springfield Armory\n
 		</text>
 	</string>
-	
+
 	<string id="st_grenade_launcher_m203">
 		<text>Granatnik M203</text>
 	</string>
@@ -1853,7 +1880,7 @@ PISTOLS
 		%c[d_purple] • %c[ui_gray_2] OpóŸnienie wybuchu: %c[ui_gray_1]ok. 4 sekund\n
 		</text>
 	</string>
-
+	
 	<string id="st_grenade_light">
 		<text>Granat M68</text>
 	</string>
@@ -1947,7 +1974,7 @@ PISTOLS
 		%c[d_cyan] • %c[ui_gray_2] Broñ bia³a\n
 		%c[d_green] • %c[ui_gray_2] Przecina grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
-	</string>
+	</string>	
 
 <!--USES 'st_axe' for name and 'st_axe2_descr' for description-->
 	<string id="st_axe">
@@ -1965,18 +1992,17 @@ PISTOLS
 <!--
 	OTHER
 -->
-	
 	<string id="st_wpn_flamewerfer">
 		<text>Miotacz ognia</text>
 	</string>
 	<string id="st_wpn_flamewerfer_descr">
 		<text>Miotacz ognia. Ju¿ na pierwszy rzut oka widaæ, ¿e to samoróbka. Broñ ma tendencjê do zacinania siê i nie cechuje siê du¿ym zasiêgiem. Jego wygl¹d sugeruje, ¿e zosta³ zmontowany z przypadkowych czêœci znalezionych w Zonie.</text>
 	</string>
-
+	
 	<string id="st_dynamo_hand_name">
 		<text>Przenoœne dynamo</text>
 	</string>
-	<string id="st_dynamo_hand_descr">
+	<string id="st_dynamo_hand_name_descr">
 		<text>Urz¹dzenie to jest napêdzanym rêcznie generatorem pr¹du domowej roboty. Powsta³o na bazie jednofazowego silnika asynchronicznego wyci¹gniêtego ze starego sprzêtu elektrycznego.\n \nNapiêcie wyjœciowe przechodzi przez transformator obni¿aj¹cy do prostownika na bazie radzieckich diod D242. Wzbudzenie generatora nastêpuje przez kondensator po³¹czony ze sprê¿yn¹ silnika. £adunek powstaje dziêki obrotom wirnika przenoszonym na przek³adniê œlimakow¹ z szybkoœci¹ 1300-1500 rpm. Urz¹dzenie posiada amperomierz punktowy wyprodukowany przez amerykañsk¹ firmê WESTON ELECTRICAL INSTRUMENT.\n \nZe wzglêdu na u¿yte komponenty, urz¹dzenie wa¿y dosyæ du¿o, ale mimo tego jest w Zonie bardzo cenione. Niektórzy technicy z pewnoœci¹ bêd¹ w stanie je usprawniæ.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
 		%c[d_cyan] • %c[ui_gray_2] Urz¹dzenie technologiczne\n

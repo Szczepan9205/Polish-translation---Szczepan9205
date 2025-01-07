@@ -60,7 +60,7 @@
 	</string>
 	
 	<string id="encyclopedia_locations_chernobyl_npp">
-		<text>Czarnobylska Elektrownia J¹drowa (CzEJ lub CEA)</text>
+		<text>Czarnobylska Elektrownia J¹drowa (CzEJ)</text>
 	</string>
 	<string id="encyclopedia_locations_chernobyl_npp_text">
 		<text>%c[pda_white]Elektrownia j¹drowa w Czarnobylu%c[ui_gray_1], w czasach radzieckich funkcjonowa³a pod nazw¹ %c[pda_white]Czarnobylska Elektrownia J¹drowa im. W. I. Lenina%c[ui_gray_1] to najbardziej rozpoznawalny punkt orientacyjny w Zonie.\n \n

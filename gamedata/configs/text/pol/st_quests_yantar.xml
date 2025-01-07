@@ -32,7 +32,7 @@
 		<text>Otrzymaj kolejne zadanie.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_default_task_about">
-		<text>S³ucham? Ale¿ oczywiœcie! Stalkerze, chcê, ¿ebyœ pomóg³ mojemu koledze. Biegnij do niego jak najszybciej, on potrzebuje twojej pomocy.</text>
+		<text>S³ucham? Och, tak, to œwietnie! Stalkerze, chcê, ¿ebyœ pomóg³ mojemu koledze. Biegnij do niego jak najszybciej, on potrzebuje twojej pomocy.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_default_task_finish">
 		<text>Powodzenia, stalkerze.</text>
@@ -45,10 +45,10 @@
 		<text>Raporty terenowe</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_text">
-		<text>Jeden ze wspó³pracowników profesora Sacharowa pogubi³ jego notatki badawcze podczas ucieczki przed mutantami. OdnajdŸ zaginione dokumenty i zwróæ je profesorowi.</text>
+		<text>Jeden ze wspó³pracowników profesora Sacharowa pogubi³ notatki badawcze profesora podczas ucieczki przed mutantami. OdnajdŸ zaginione dokumenty i zwróæ je profesorowi.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_about">
-		<text>Rad jestem, ze przyby³eœ, m³ody cz³owieku. Jeden z moich wspó³pracowników dopiero co wróci³ z badañ terenowych. Z tego, co mówi - pogubi³ wszystkie powierzone mu notatki, ratuj¹c siê ucieczk¹ przed niespodziewanym atakiem mutantów.\n \nJest przera¿ony i zarzeka siê, ze za nic po nie nie wróci - a tymczasem ja bardzo potrzebujê tych danych... Gdybyœ podj¹³ siê odzyskania notatek, obiecujê sowicie ciê wynagrodziæ za wszelkie niedogodnoœci.</text>
+		<text>Rad jestem, ¿e przyby³eœ, m³ody cz³owieku. Jeden z moich wspó³pracowników dopiero co wróci³ z badañ terenowych. Z tego, co mówi - pogubi³ wszystkie powierzone mu notatki, ratuj¹c siê ucieczk¹ przed niespodziewanym atakiem mutantów.\n \nJest przera¿ony i zarzeka siê, ze za nic po nie nie wróci - a tymczasem ja bardzo potrzebujê tych danych... Gdybyœ podj¹³ siê odzyskania notatek, obiecujê sowicie ciê wynagrodziæ za wszelkie niedogodnoœci.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_finish">
 		<text>Dziêkujê ci, stalkerze! Proszê, przyjmij to jako gratyfikacje za twój trud.</text>
@@ -70,10 +70,10 @@
 		<text>Profesor Sacharow poprosi³ ciê o pomoc w pomiarach aktywnoœci anomalii.\n \nBy dokonaæ pomiarów, musisz u¿yæ $item_1.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_text_3">
-		<text>Profesor Sacharow poprosi³ ciê o pomoc w pomiarach aktywnoœci anomalii.\n \nOddaj mu $item_1 wraz z zarejestrowanymi danymi badawczymi.</text>
+		<text>Profesor Sacharow poprosi³ ciê o pomoc w pomiarach aktywnoœci anomalii.\n \nWróæ do niego z $item_1 i z zarejestrowanymi danymi badawczymi.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
-		<text>Ale¿ jasne, ze tak! Prawdê mówi¹c: oczekiwa³em ciê. Nasze skanery rejestruj¹ nadzwyczaj ciekaw¹ aktywnoœæ pewnej anomalii. Potrzebujê doœwiadczonego stalkera, który pójdzie tam i dokona pomiarów tak blisko centrum pola, jak to tylko mo¿liwe. Mam tu specjalne urz¹dzenie do tego celu. Powodzenia, m³odzieñcze.</text>
+		<text>Ach tak, wyœmienicie! Prawdê mówi¹c czeka³em na was m³ody cz³owieku. Nasze skanery rejestruj¹ nadzwyczaj ciekaw¹ aktywnoœæ pewnej anomalii. Potrzebujê doœwiadczonego stalkera, który pójdzie tam i dokona pomiarów tak blisko centrum pola, jak to tylko mo¿liwe. Mam tu specjalne urz¹dzenie do tego celu. Powodzenia, m³odzieñcze.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_finish">
 		<text>Œwietnie, brawo! To z pewnoœci¹ przyniesie postêp w moich badaniach! Bardzo ci dziêkuje, stalkerze, doskonale siê spisa³eœ.</text>
@@ -89,8 +89,7 @@
 		<text>Profesor Sacharow potrzebuje dokumentów badawczych ukrytych gdzieœ w Laboratorium X-18 w Dolinie Mroku.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_3_about">
-		<text>Naturalnie, ¿e tak! Mam dla ciebie wa¿ne zlecenie. W Laboratorium X-18 prowadzony by³ pewien niezwykle interesuj¹cy eksperyment, ale nie jesteœmy w stanie dotrzeæ do koñcowego sprawozdania, aby zapoznaæ siê z wynikami.\n
-		\nS¹dzisz, ze by³byœ w stanie zejœæ do laboratorium i odnaleŸæ ten dokument dla nas? Jeœli go nam dostarczysz, hojnie ciê wynagrodzê.</text>
+		<text>Naturalnie, ¿e tak! Mam dla ciebie wa¿ne zlecenie. W Laboratorium X-18 prowadzony by³ pewien niezwykle interesuj¹cy eksperyment, ale nie jesteœmy w stanie dotrzeæ do koñcowego sprawozdania, aby zapoznaæ siê z wynikami. S¹dzisz, ze by³byœ w stanie zejœæ do Laboratorium i odnaleŸæ dla nas ten dokument? Jeœli go nam dostarczysz, hojnie ciê wynagrodzê.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_3_finish">
 		<text>Doskonale! Dziêkuje Ci, stalkerze!</text>
@@ -103,26 +102,26 @@
 		<text>Skanowanie anomalii Symbiont</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text">
-		<text>Zlecenie profesora Sacharowa: umieœciæ skaner w pobli¿u anomalii Symbiont w Czerwonym Lesie.</text>
+		<text>Profesor Sacharow chce, ¿eby umieœciæ skaner anomalii w pobli¿u anomalii Symbiont w Czerwonym Lesie.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text0">
-		<text>Zlecenie profesora Sacharowa: umieœciæ skaner w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZdob¹dŸ skaner anomalii.</text>
+		<text>Profesor Sacharow chce, ¿eby umieœciæ skaner anomalii w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZdob¹dŸ skaner anomalii.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_0">
-		<text>Zlecenie profesora Sacharowa: umieœciæ skaner w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZanieœ skaner w pole anomalii.</text>
+		<text>Profesor Sacharow chce, ¿eby umieœciæ skaner anomalii w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZanieœ skaner do pola anomalii.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_1">
-		<text>Zlecenie profesora Sacharowa: umieœciæ skaner w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZanieœ skaner w pole anomalii.</text>
+		<text>Profesor Sacharow chce, ¿eby umieœciæ skaner anomalii w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZanieœ skaner do pola anomalii.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text2">
-		<text>Zlecenie profesora Sacharowa: umieœciæ skaner w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nUstaw skaner.</text>
+		<text>Profesor Sacharow chce, ¿eby umieœciæ skaner anomalii w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nUstaw skaner.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text3">
-		<text>Zlecenie profesora Sacharowa: umieœciæ skaner w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZdaj raport o wykonaniu zadania.</text>
+		<text>Profesor Sacharow chce, ¿eby umieœciæ skaner anomalii w pobli¿u anomalii Symbiont w Czerwonym Lesie.\nZdaj raport o wykonaniu zadania.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_about">
-		<text>Œwietnie! Zerknij, proszê, na ten skaner. U¿ywamy takich urz¹dzeñ do skanowania wszelkich aktywnoœci anomalnych, z jakimi stykamy siê podczas naszych ekspedycji badawczych. G³êboko w Czerwonym Lesie znajduje siê jeden z najbardziej fascynuj¹cych tworów: Symbiont. Chcielibyœmy, aby ktoœ ustawi³ taki skaner w polu tej anomalii. Umo¿liwi³oby to nam lepsze poznanie i zrozumienie aktywnoœci Symbionta.\n
-		\nOkolica jest bardzo niebezpieczna, lecz s¹dzê, ¿e dla tak doœwiadczonego stalkera jak ty nie bêdzie to ¿adnym wyzwaniem. Proszê, zrób to dla mnie, a bardzo dobrze ciê wynagrodzê.</text>
+		<text>Œwietnie! Zerknij, proszê, na ten skaner. U¿ywamy takich urz¹dzeñ do skanowania wszelkich aktywnoœci anomalnych, z jakimi stykamy siê podczas naszych ekspedycji badawczych. G³êboko w Czerwonym Lesie znajduje siê jeden z najbardziej fascynuj¹cych nas anomalii - Symbiont. Chcielibyœmy, aby ktoœ ustawi³ taki skaner w polu tej anomalii. Umo¿liwi³oby to nam lepsze poznanie i zrozumienie aktywnoœci ów anomalii.\n
+		\nOkolica jest bardzo niebezpieczna, lecz s¹dzê, ¿e dla tak doœwiadczonego stalkera jak ty nie bêdzie to ¿adnym wyzwaniem. Proszê, m³ody cz³owieku - zróbcie to dla mnie, a bardzo dobrze ciê wynagrodzê.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_finish">
 		<text>Serdecznie dziêkujê! Teraz mo¿emy dok³adnie przebadaæ ten fenomen.</text>
@@ -151,8 +150,7 @@
 		<text>Za kwotê 17.000 RU profesor Sacharow za³atwi wszelkie formalnoœci, dziêki którym staniesz siê oficjalnym Naukowcem.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_about">
-		<text>Có¿, jeœli o mnie chodzi, to jestem przekonany, ze by³byœ œwietnym asystentem terenowym... Sêk w tym, ze przebrniêcie przez niezbêdne formalnoœci biurokratyczne nie jest ani proste, ani zbyt szybkie bez odpowiedniej... "motywacji" dla urzêdników. Sam zapewne doskonale wiesz, jak to dzia³a.\n
-		\nKontrakt na czas nieokreœlony, licencje, przepustki, legitymacje... bêdê potrzebowa³ przynajmniej siedemnaœcie tysiêcy rubli, ¿eby wszystko op³aciæ. Szczególnie, gdy chcesz otrzymaæ pozwolenia jeszcze za ¿ycia. Jeœli posiadasz wymagan¹ sumê, przystêpujê do dzia³ania.</text>
+		<text>Có¿, jeœli o mnie chodzi, to jestem przekonany, ze bylibyœcie œwietnym asystentem terenowym... Sêk w tym, ze przebrniêcie przez niezbêdne formalnoœci biurokratyczne nie jest ani proste, ani zbyt szybkie bez odpowiedniej... "motywacji" dla urzêdników. Sami zapewne doskonale wiecie, jak to dzia³a.\n \nKontrakt na czas nieokreœlony, licencje, przepustki, legitymacje... bêdê potrzebowa³ przynajmniej siedemnaœcie tysiêcy rubli, ¿eby to wszystko op³aciæ. Szczególnie, gdy chcesz otrzymaæ pozwolenia jeszcze za ¿ycia. Jeœli jednak jesteœ sk³onny rozstaæ siê z takimi pieniêdzmi to chêtnie was przyjmiemy, m³ody cz³owieku!</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_finish">
 		<text>Doskonale! Serdecznie witam w naszym naukowym gronie, panie asystencie! Proszê czuæ siê tutaj jak u siebie, kolego.</text>
@@ -195,13 +193,13 @@
 		<text>Dawca narz¹dów</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_text">
-		<text>Sacharow potrzebuje do badañ próbkê tkanki: %s.</text>
+		<text>Najnowsze eksperymenty profesora Sacharowa wymagaj¹ œwie¿ych próbek tkanki %s. Powinienem mu takie przynieœæ, jak tylko jakieœ znajdê.</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_about">
 		<text>Poszukujê doœwiadczonego stalkera lub ³owcy mutantów. Czy czujesz siê na si³ach?</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_fetch_about">
-		<text>Muszê uzyskaæ próbki tkanek. W tej chwili najbardziej potrzebujê %s. Nieistotne, jak to zdobêdziesz, b¹dŸ tylko pewien, ¿e bêdzie œwie¿e. Wróæ z tym do mnie jak najszybciej.</text>
+		<text>Muszê pobraæ œwie¿e komórki z próbek tkanek %s. Aby to zrobiæ, bêdziecie musieli zdobyæ próbkê i przynieœæ j¹ do mojego bunkra. Wiem, ¿e zoolodzy z pewnoœci¹ tego nie pochwal¹, ale trzeba przyznaæ, ¿e to miejsce to nie zoo. W ka¿dym razie, upewnijcie siê, ¿e wrócicie do mnie, gdy tylko zdobêdziecie wymagan¹ próbkê - mo¿e ona zapewniæ cenny wgl¹d w biologiê zmutowanych dzikich zwierz¹t!</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_fetch_finish">
 		<text>Dziêkujê, panie asystencie. Pañska praca niezmiernie przys³u¿y siê nauce.</text>
@@ -212,16 +210,16 @@
 		<text>Postêp naukowy</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_2_text">
-		<text>Profesor Sacharow prosi³ o dostarczenie mu artefaktu %s.</text>
+		<text>Profesor Sacharow prosi³ o dostarczenie mu artefaktu %s, który pomo¿e w sfinansowaniu jego badañ.</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_2_about">
-		<text>Nie zechcia³byœ pomóc mi przy badaniach? Rzecz jasna, zap³acê ci za wysi³ek.</text>
+		<text>Nie chcielibyœcie pomóc mi przy badaniach, m³ody cz³owieku? Rzecz jasna, zap³acê wam za wysi³ek.</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_2_fetch_about">
-		<text>Nie zechcia³byœ pomóc mi przy badaniach? Oferujê nagrodê za artefakt %s.</text>
+		<text>Nasz zespó³ badawczy jest bliski kolejnego znacz¹cego odkrycia, ale desperacko potrzebuje wiêcej materia³ów, aby utrzymaæ nasze fundusze i kontynuowaæ eksperymenty! Dlatego, m³ody cz³owieku, chcia³bym was prosiæ o zlokalizowanie i dostarczenie nam artefaktu %s. Musimy pobraæ z niego próbki, jeœli chcemy kontynuowaæ nasze badania i zapewniæ surowce dla naszych dostawców.</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_2_fetch_finish">
-		<text>Przyjmij ode mnie podziêkowania w imieniu ca³ej spo³ecznoœci naukowej. Naturalnie oprócz uœcisku d³oni jest i obiecana nagroda.</text>
+		<text>Przyjmijcie ode mnie podziêkowania w imieniu ca³ej spo³ecznoœci naukowej. Naturalnie oprócz uœcisku d³oni mam tu dla was i obiecan¹ nagrodê.</text>
 	</string>
 
 	<!-- Classified Information Task -->
@@ -232,10 +230,10 @@
 		<text>Zdob¹dŸ dokumenty zawieraj¹ce tajne informacje.</text>
 	</string>
 	<string id="classified_information_task_about">
-		<text>Niedawno dowiedzieliœmy siê o istnieniu œciœle tajnych dokumentów zawieraj¹cych informacje o tajemnicach Zony. Mamy podstawy przypuszczaæ, ¿e te dane mog¹ przynieœæ prze³om w naszych badaniach! Czy by³byœ w stanie zdobyæ dla nas te akta?</text>
+		<text>Nieznani bandyci zaatakowali jeden z naszych zespo³ów badawczych. Na szczêœcie czêœæ ekspedycji wróci³a ca³a i zdrowa. Niestety, podczas ucieczki musieli zostawiæ za sob¹ wyniki wa¿nych badañ.\n \nW trosce o postêp naukowy, a tak¿e przysz³e dobro moich kolegów, nie chcê, aby te dane pozosta³y utracone - lub, co gorsza, trafi³y w rêce tajemniczej grupy, która zaatakowa³a moich badaczy. Proszê, udajcie siê do schowka znajdujacego siê pod tymi wspó³rzêdnymi: jeœli siê pospieszycie, dokumenty, które chcê odzyskaæ, powinny nadal tam byæ.  Za dyskrecjê i dostarczenie dokumentów do mojego bunkra oferujê rozs¹dn¹ zap³atê. Jako kolejny dowód mojej wdziêcznoœci, mo¿ecie równie¿ wspomóc siê wszelkimi zapasami, które mój zespó³ móg³ pozostawiæ w tym schowku.</text>
 	</string>
 	<string id="classified_information_task_finish">
-		<text>Tak, to nas trochê przybli¿a w kierunku pojêcia tajemnic Zony. Dziêkuje ci za pomoc.</text>
+		<text>Dziêkujê wam, drogi stalkerze. A mo¿e powinienem powiedzieæ kolego? Nasze badania mog¹ byæ teraz p³ynnie kontynuowane - miejmy nadziejê, ¿e bez ¿adnych dodatkowych problemów, które mog³yby pojawiæ siê za rogiem...</text>
 	</string>
 	
 	<!-- yan_stalker_sakharov -->
@@ -243,65 +241,65 @@
 		<text>Odbierz He³m Psioniczny</text>
 	</string>
 	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
-		<text>Profesor Sacharow zgodzi³ siê skalibrowaæ dla ciebie he³m psioniczny. Wróæ za kilka dni, by go odebraæ.</text>
+		<text>Profesor Sacharow zgodzi³ siê skalibrowaæ dla ciebie he³m psioniczny. Poprosi³ by wróciæ do niego i odebraæ he³m za oko³o da dni.</text>
 	</string>
 
 	<string id="brain_machine_deactivate_name">
-		<text>Wy³¹cz Machinê Cudów</text>
+		<text>Wy³¹cz Machinê Cudów / Laboratorium z mózgiem</text>
 	</string>
 	<string id="brain_machine_deactivate_text">
-		<text>Machina Cudów uniemo¿liwia stalkerom podró¿e miêdzy Jantarem a Martwym Miastem. Wy³¹czenie jej bêdzie wymaga³o zaawansowanej ochrony psionicznej.</text>
+		<text>Machina Cudów / Laboratorium z mózgiem wydaj¹ siê emitowaæ fale psioniczne skierowane na obszar Radaru. Emisje psioniczne wokó³ Machiny Cudów blokuj¹ równie¿ badania naukowców nad Jantarem. Wy³¹czenie jej bêdzie wymaga³o zaawansowanej ochrony psionicznej.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="mechanic_army_yan_mlr_task_1_name">
-		<text>ZnajdŸ Soko³owi %s</text>
+		<text>ZnajdŸ %s dla Soko³a</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_1_text">
-		<text>Sokó³ potrzebuje: %s do przeprowadzenia podstawowych modyfikacji sprzêtu. Jeœli coœ takiego znajdziesz - dostarcz mu to.</text>
+		<text>Sokó³ chêtnie przygarn¹³by %s. Pos³u¿y³yby mu one do przeprowadzenia podstawowych modyfikacji sprzêtu. Jeœli takowe znajdziesz - dostarcz mu je.</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_1_about">
-		<text>Masz mo¿e czas i chêci, by zarobiæ i przy okazji trochê mi pomóc? Jeœli tak, to mia³bym coœ dla ciebie.</text>
+		<text>Oczywiœcie. Centrala powiadomi³a nas o narzêdziach, które by³y w drodze do naszego bunkra przez Kordon, ale paczka nigdy nie dotar³a. Gdzie trafi³a ta paczka? To wie tylko Zona... Jednak sytuacja siê nie zmieni³a i nadal potrzebujemy wiêcej narzêdzi. Kwatera g³ówna jest naprawdê uparta, jeœli chodzi o zorganizowanie nam kolejnego zestawu, wiêc powiem ci tak... Jeœli uda ci siê znaleŸæ jakieœ narzêdzia - nawet te podstawowe - osobiœcie zap³acê ci za przyniesienie ich tutaj.</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_1_fetch_about">
-		<text>Kompletujê sobie tu warsztat naprawczo-rusznikarski. Niestety muszê zaczynaæ od zera. Brak mi choæby podstawowych narzêdzi. Czasem mo¿na trafiæ na taki zestaw ma³ego majsterkowicza, na pocz¹tek powinien wystarczyæ. Za coœ takiego mia³byœ u mnie jakiœ rabat na us³ugi. No to jak, pisa³byœ siê na to?</text>
+		<text>Genialnie! Na razie skup siê na zdobyciu zestawu podstawowych narzêdzi - bardziej zaawansowane rzeczy s¹ bez nich bezu¿yteczne. Udanych ³owów, stalkerze.</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_1_fetch_finish">
-		<text>Œwietnie! Przynios³eœ dok³adnie to, czego potrzebowa³em!</text>
+		<text>W porz¹dku, spójrzmy. Tak, te siê nadadz¹! Mo¿e teraz bêdê móg³ zaj¹æ siê czymœ innym ni¿ konserwacja sprzêtu... Oto twoja nagroda. Dziêki za pomoc.</text>
 	</string>
 
 	<string id="mechanic_army_yan_mlr_task_2_name">
-		<text>ZnajdŸ Soko³owi: %s</text>
+		<text>ZnajdŸ %s dla Soko³a</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_2_text">
-		<text>Sokó³ potrzebuje %s do przeprowadzenia zaawansowanych modyfikacji sprzêtu. Jeœli coœ takiego znajdziesz - dostarcz mu to.</text>
+		<text>Sokó³ chêtnie przygarn¹³by %s. Pos³u¿y³yby mu one do przeprowadzenia zaawansowanych modyfikacji sprzêtu. Jeœli takowe znajdziesz - dostarcz mu je.</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_2_about">
-		<text>Dobra, jeœli chcia³byœ jeszcze trochê popracowaæ, to potrzebujê zaawansowanego zestawu narzêdzi. Nie³atwo je znaleŸæ. To jak, stalker, pomo¿esz?</text>
+		<text>Có¿, z pewnoœci¹ jesteœ bardziej przedsiêbiorczy ni¿ moi zwykli dostawcy, wiêc s³uchaj - za³atw mi bardziej zaawansowany zestaw narzêdzi jeœli mo¿esz. Zrób to, a pieni¹dze szybko wyl¹duj¹ w twojej kieszeni.</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_2_fetch_about">
-		<text>Potrzebujê zaawansowanego zestawu narzêdzi, powinien zawieraæ wszystko, czego mi trzeba. Jestem sk³onny zaoferowaæ ci zni¿kê na moje us³ugi, jeœli mi taki zestaw dostarczysz.</text>
+		<text>Fantastycznie! Jestem pewien, ¿e Sacharow te¿ to doceni.  Jestem pewien, ¿e kiedy przyniesiesz mi te narzêdzia, moja praca pomo¿e mu sfinansowaæ utrzymanie bunkra, zanim zd¹¿ysz mrugn¹æ.</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_2_fetch_finish">
-		<text>Œwietnie! Wpadaj, jeœli bêdziesz potrzebowa³ podregulowania sprzêtu.</text>
+		<text>Œwietnie! Wróæ w ka¿dej chwili, jeœli chcesz, ¿ebym rzuci³ okiem na twój sprzêt. Dziêki tobie bêdê teraz w stanie dokonaæ kilku w miarê przyzwoitych modyfikacji.</text>
 	</string>
 
 	<string id="mechanic_army_yan_mlr_task_3_name">
-		<text>ZnajdŸ Soko³owi: %s</text>
+		<text>ZnajdŸ %s dla Soko³a</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_3_text">
-		<text>Sokó³ potrzebuje %s do przeprowadzenia precyzyjnych modyfikacji sprzêtu. Jeœli coœ takiego znajdziesz - dostarcz mu to.</text>
+		<text>Sokó³ chêtnie przygarn¹³by %s. Pos³u¿y³yby mu one do przeprowadzenia precyzyjnych modyfikacji sprzêtu. Jeœli takowe znajdziesz - dostarcz mu je.</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_3_about">
-		<text>Dobra, jeœli chcia³byœ jeszcze trochê popracowaæ, to potrzebujê precyzyjnego zestawu narzêdzi. W Zonie prawie ich nie ma, ale wierzê w twój stalkerski nos.</text>
+		<text>Nie wiem, czy ci mówi³, ale Sacharow jest bardzo zadowolony, ¿e pomagasz mi w ten sposób. Chcia³, ¿ebym ci przekaza³, ¿e od³o¿y³ spor¹ sumê rubli dla stalkera, który dostarczy mi zestaw narzêdzi precyzyjnych. Powinno to pozwoliæ nam w pe³ni wykorzystaæ sprzêt naukowy, który tu trzymamy - w szczególnoœci nasze kombinezony i egzoszkielety. A wiêc, czy jesteœ chêtny na ostatnie polowanie na zestaw narzêdzi?</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_3_fetch_about">
-		<text>Potrzebujê precyzyjnego zestawu narzêdzi, powinien zawieraæ wszystko, czego mi trzeba. Jestem sk³onny zaoferowaæ ci zni¿kê na moje us³ugi, jeœli mi taki zestaw dostarczysz.</text>
+		<text>Bêdê ci za to szczerze wdziêczny! Kiedy wrócisz z narzêdziami, poka¿ê ci równie¿ trik lub dwa, jak prawid³owo wykonywaæ konserwacjê w terenie... No chyba, ¿e inny technik ju¿ ciê tego nauczy³. To bêdzie mój sposób na podziêkowanie. Powodzenia!</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_task_3_fetch_finish">
-		<text>Œwietnie! Wpadaj, jeœli bêdziesz potrzebowa³ podregulowania sprzêtu.</text>
+		<text>Hmm... Szkoda, ¿e nie pracujesz w Zaopatrzeniu. Mo¿e teraz w koñcu uda mi siê naprawiæ ten cholerny odbiornik. Co do ciebie - zdecydowanie zas³u¿y³eœ na moj¹ wdziêcznoœæ! W imieniu wszystkich pracowników tego bunkra, oto twoja zap³ata.</text>
 	</string>
 	
 	
@@ -311,7 +309,7 @@
 	</string>
 	<string id="yan_stalker_sakharov_task_4_about">
 		<text>Prowadzimy badania nad przemieszczaniem siê i zachowaniem mutantów. Oznaczyliœmy w tym celu kilka osobników lokalizatorami, które na bie¿¹co przesy³aj¹ nam dane o ich po³o¿eniu i zachowaniu. Niestety, od czasu ostatniej emisji coœ siê popsu³o i urz¹dzenia wysy³aj¹ nam tylko czêœæ informacji - œciœlej mówi¹c, jedynie po³o¿enie zwierzêcia.\n
-		\nNiewiele nam to daje, wiêc w celu naprawy musimy odzyskaæ urz¹dzenia, ¿e siê tak wyra¿ê, manualnie. Poproszê ciê zatem o wytropienie oznakowanych mutantów oraz dostarczenie nam wszystkich lokalizatorów.</text>
+		\nNiewiele nam to daje, wiêc w celu naprawy trzeba odzyskaæ urz¹dzenia, ¿e siê tak wyra¿ê, manualnie. Chcia³bym was zatem poprosiæ, m³ody cz³owieku, o wytropienie oznakowanych mutantów oraz dostarczenie nam wszystkich lokalizatorów.</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_4_stage_0">
 		<text>Upoluj mutanta oznaczonego lokalizatorem</text>

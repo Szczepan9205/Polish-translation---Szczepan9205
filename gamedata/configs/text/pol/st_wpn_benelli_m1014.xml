@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="st_wpn_benelli_m1014">
+		<text>Benelli M1014</text>
+	</string>
+	<string id="st_wpn_benelli_m1014_descr">
+		<text>Benelli M4 to półautomatyczna strzelba produkowana przez włoskiego producenta broni palnej Benelli Armi SpA, a także czwarty i ostatni model z linii półautomatycznych strzelb Benelli Super 90. M4 wykorzystuje opatentowany system działania zwany „automatycznie regulowanym systemem gazowym” (ARGO), który został stworzony specjalnie dla tej broni. Zaprojektowany w 1998 roku, M4 został przyjęty między innymi przez siły zbrojne Włoch, Stanów Zjednoczonych i Wielkiej Brytanii i był używany w różnych konfliktach.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki : OKP-2, EOt 2, EOt, AC10632, C-more, EKP8-18, RMR, Deltapoint, AIM Low, D0cter\n 
+		%c[d_purple] • %c[ui_gray_2] Tłumik: SALVO12 \n</text>
+	</string>	
+</string_table>

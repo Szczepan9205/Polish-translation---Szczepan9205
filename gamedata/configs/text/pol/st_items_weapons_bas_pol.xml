@@ -33,7 +33,11 @@
 		<text>Colt M1911</text>
 	</string>
 	<string id="st_wpn_colt1911_n_descr">
-		<text>Ulepszona wersja klasycznego karabinka automatycznego, który by³ u¿ywany we wszystkich wiêkszych konfliktach zbrojnych XX wieku, który szybko i pewnie wkroczy³ w nowe tysi¹clecie. Produkowany obecnie przez dziesi¹tki, jeœli nie setki producentów broni na ca³ym œwiecie, zarówno w standardowych, jak i zmodyfikowanych wersjach. Jedyn¹ wad¹ tej broni jest jej stosunkowo ma³o pojemny magazynek, ale w du¿ym stopniu rekompensuje to si³a penetracji nabojów, którymi jest zasilany.</text>
+		<text>Ulepszona wersja klasycznego karabinka automatycznego, który by³ u¿ywany we wszystkich wiêkszych konfliktach zbrojnych XX wieku, który szybko i pewnie wkroczy³ w nowe tysi¹clecie. Produkowany obecnie przez dziesi¹tki, jeœli nie setki producentów broni na ca³ym œwiecie, zarówno w standardowych, jak i zmodyfikowanych wersjach. Jedyn¹ wad¹ tej broni jest jej stosunkowo ma³o pojemny magazynek, ale w du¿ym stopniu rekompensuje to si³a penetracji nabojów, którymi jest zasilany.
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Colt Manufacturing Company\n
+		</text>
 	</string>
 
 	<string id="st_wpn_fn57">
@@ -58,14 +62,14 @@
 		%c[d_purple] • %c[ui_gray_2] Celowniki: Docter Sight, Aimpoint T1 (niska nak³adka), Trijicon RMR i Leupold Deltapoint PRO\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Osprey 9 mm\n
 		</text>
-	</string>
-	
+	</string>	
+
 	<string id="st_wpn_korth">
 		<text>Korth Custom 4</text>
 	</string>
 	<string id="st_wpn_korth_descr">
 		<text>Korth to producent wysokiej jakoœci broni z siedzib¹ w Lollar w Hesji, w Niemczech. Mi³oœnicy broni palnej doskonale znaj¹ tego producenta. Korth to jedna z najpopularniejszych firm produkuj¹cych pistolety, dostarczaj¹ca swoje produkty do klientów z ca³ego œwiata. Mo¿na powiedzieæ, ¿e Korth na rynku broni jest jak Rolex na rynku zegarków, oferuj¹c wyj¹tkow¹ jakoœæ wykonania, skierowan¹ do najbardziej wymagaj¹cych klientów.\n \n
-		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
@@ -109,46 +113,48 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: PL-15\n
 		</text>
 	</string>
-	
+		
 	<string id="st_wpn_pm_bas">
 	      <text>PM</text>
 	</string>
 	<string id="st_wpn_pm_bas_descr">
-		<text>Ta sowiecka broñ jest najpopularniejszym pistoletem w Zonie i jednym z najlepszych dostêpnych kompaktowych pistoletów. Jest ma³y, wysoce niezawodny, ³atwy w obs³udze i utrzymaniu w stanie gotowoœci do pracy. Ma równie¿ kilka wad, w tym krótki zasiêg, nisk¹ celnoœæ strzelania i s³ab¹ si³ê ra¿enia, a jednoczeœnie przegrywa z nowoczesnymi pistoletami w swojej klasie pod wzglêdem masy i rozmiaru magazynka. W 1951 roku wybrano pistolet Makarowa ze wzglêdu na jego prostotê, ³atw¹ i tani¹ produkcjê oraz wzglêdnie dobre parametry.</text>
+		<text>Ta sowiecka broñ jest najpopularniejszym pistoletem w Zonie i jednym z najlepszych dostêpnych kompaktowych pistoletów. Jest ma³y, wysoce niezawodny, ³atwy w obs³udze i utrzymaniu w stanie gotowoœci do pracy. Ma równie¿ kilka wad, w tym krótki zasiêg, nisk¹ celnoœæ strzelania i s³ab¹ si³ê ra¿enia, a jednoczeœnie przegrywa z nowoczesnymi pistoletami w swojej klasie pod wzglêdem masy i rozmiaru magazynka. W 1951 roku wybrano pistolet Makarowa ze wzglêdu na jego prostotê, ³atw¹ i tani¹ produkcjê oraz wzglêdnie dobre parametry.
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		</text>
 	</string>
 
-	
 	<string id="st_wpn_pm_bas_custom">
 		<text>Zmodyfikowany PM</text>
 	</string>
 	<string id="st_wpn_pm_bas_custom_descr">
-	<text>Zmodernizowana wersja Makarowa PM z d³u¿sz¹ luf¹ gwintowan¹ do stosowania z t³umikiem PMM. Ta sowiecka broñ to najpopularniejszy pistolet w Zonie i jest jednym z najlepszych dostêpnych kompaktowych pistoletów do samoobrony. Jest ma³y, wysoce niezawodny, ³atwy w obs³udze i utrzymaniu w stanie gotowoœci do pracy. Ma równie¿ kilka wad, w tym krótki zasiêg, nisk¹ celnoœæ strzelania i s³ab¹ si³ê ra¿enia, a jednoczeœnie przegrywa z nowoczesnymi pistoletami w swojej klasie pod wzglêdem masy i rozmiaru magazynka. W 1951 roku wybrano pistolet Makarowa jako g³ówn¹ broñ dodatkow¹, ze wzglêdu na jego prostotê, ³atw¹ i tani¹ produkcjê oraz wzglêdnie dobre parametry.\n \n
-   %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-   %c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
-   </text>
+		<text>Zmodernizowana wersja Makarowa PM z d³u¿sz¹ luf¹ gwintowan¹ do stosowania z t³umikiem PMM. Ta sowiecka broñ to najpopularniejszy pistolet w Zonie i jest jednym z najlepszych dostêpnych kompaktowych pistoletów do samoobrony. Jest ma³y, wysoce niezawodny, ³atwy w obs³udze i utrzymaniu w stanie gotowoœci do pracy. Ma równie¿ kilka wad, w tym krótki zasiêg, nisk¹ celnoœæ strzelania i s³ab¹ si³ê ra¿enia, a jednoczeœnie przegrywa z nowoczesnymi pistoletami w swojej klasie pod wzglêdem masy i rozmiaru magazynka. W 1951 roku wybrano pistolet Makarowa jako g³ówn¹ broñ dodatkow¹, ze wzglêdu na jego prostotê, ³atw¹ i tani¹ produkcjê oraz wzglêdnie dobre parametry.\n \n
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
+		</text>
 	</string>
-	
+
 	<string id="st_wpn_pm_bas_actor">
 		<text>Unikalny PM Makarow</text>
 	</string>
 	<string id="st_wpn_pm_bas_actor_descr">
 		<text>Legendarny PM z wyd³u¿on¹ luf¹ i gwintem mocowania t³umika. Niektórzy twierdz¹, ¿e by³a to limitowana seria produkowana w Bu³garii, inni twierdz¹, ¿e to radziecka wersja, a jeszcze inni uwa¿aj¹, ¿e to ulepszenie domowej roboty...\n \n
-   %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-   %c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
-   </text>
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
+		</text>
 	</string>
-		
 
 	<string id="st_wpn_pmm_bas">
 		<text>PMM</text>
 	</string>
 	<string id="st_wpn_pmm_bas_descr">
 		<text>Najbardziej znany wariant Makarowa. W 1990 roku grupa in¿ynierów przerobi³a oryginalnego Makarowa, g³ównie w celu poprawy wydajnoœci oraz si³y przebicia. Rezultatem ulepszeñ by³ 25-procentowy wzrost prêdkoœci wylotowej pocisku. Magazynek PMM mieœci 12 naboi, w porównaniu do 8 nabojów w jego standardowym odpowiedniku.\n \n
-   %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
-   %c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
-   </text>
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: dla kalibru 9 mm\n
+		</text>
 	</string>
-	
+
 	<string id="st_wpn_pb_bas">
 		<text>PB</text>
 	</string>
@@ -161,7 +167,7 @@
 		%c[d_purple] • %c[ui_gray_2] Zintegrowany t³umik 6P9\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_sr1m">
 		<text>SR1MP "Giurza"</text>
 	</string>
@@ -186,7 +192,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_sig220_n">
 		<text>SIG-Sauer P220</text>
 	</string>
@@ -198,7 +204,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_sig220_n_u2p2g0r">
 		<text>SIG-Sauer P220 "Stalker"</text>
 	</string>
@@ -210,7 +216,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: BLACK BOX .45\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_sig220_n_upg220">
 		<text>SIG-Sauer P220 "XxX"</text>
 	</string>
@@ -234,7 +240,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_sig226_226sig_kit">
 		<text>Zmodyfikowany SIG-Sauer P226R</text>
 	</string>
@@ -246,7 +252,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Osprey 9mm\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_usp_tac">
         <text>HK USP Match "Overwatch"</text>
     </string>
@@ -287,6 +293,7 @@
 <!--
 	SHOTGUNS
 -->
+
 	<string id="st_wpn_saiga12s_isg">
 		<text>KS-12</text>
 	</string>
@@ -297,13 +304,13 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_ks23">
 		<text>KS-23</text>
 	</string>
 	<string id="st_wpn_ks23_descr">
 		<text>Specjalna, 23-milimetrowa wielofunkcyjna strzelba, typu pump-action, u¿ywana g³ównie przez si³y porz¹dkowe do t³umienia zamieszek o zrównowa¿onej sile ognia. Co ciekawe, maj¹c kaliber ponad 20 mm i lufê gwintowan¹, strzelba KS-23 nie powinna byæ klasyfikowana jako broñ strzelecka, ale jako broñ ma³okalibrowa.\n \n
-		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n 
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] D³ug¹, 700 mm lufê mo¿na zast¹piæ krótk¹, o d³ugoœci 510 mm, aby zmniejszyæ wagê broni\n
 		</text>
 	</string>
@@ -312,7 +319,11 @@
 		<text>KS-23 (krótka lufa)</text>
 	</string>
 	<string id="st_wpn_ks23_23_up_descr">
-		<text>Radziecka, wielofunkcyjna, 23-milimetrowa policyjna strzelba typu pump-action, przeznaczona do t³umienia zamieszek i zwalczania wiêkszych grup przeciwników. Co ciekawe, maj¹c kaliber ponad 20 mm i lufê gwintowan¹, strzelba KS-23 nie powinna byæ klasyfikowana jako broñ strzelecka, ale jako broñ ma³okalibrowa. Ten wariant strzelby KS-23 ma zainstalowan¹ krótk¹ lufê 510mm, zamiast standardowej d³ugiej lufy 700mm.\n</text>
+		<text>Radziecka, wielofunkcyjna, 23-milimetrowa policyjna strzelba typu pump-action, przeznaczona do t³umienia zamieszek i zwalczania wiêkszych grup przeciwników. Co ciekawe, maj¹c kaliber ponad 20 mm i lufê gwintowan¹, strzelba KS-23 nie powinna byæ klasyfikowana jako broñ strzelecka, ale jako broñ ma³okalibrowa. Ten wariant strzelby KS-23 ma zainstalowan¹ krótk¹ lufê 510mm, zamiast standardowej d³ugiej lufy 700mm.\n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka Broni w Tule\n
+		</text>
 	</string>
 
 	<string id="st_wpn_ks23_kaban">
@@ -324,46 +335,63 @@
 		%c[d_purple] • %c[ui_gray_2] Zestaw taktyczny "Dzik"\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_ks23_kaban_kab_up">
 		<text>KS-23 "Dzik"</text>
 	</string>
 	<string id="st_wpn_ks23_kaban_kab_up_descr">
-		<text>Radziecka, wielofunkcyjna, 23-milimetrowa policyjna strzelba typu pump-action, przeznaczona do t³umienia zamieszek i zwalczania wiêkszych grup przeciwników. Co ciekawe, maj¹c kaliber ponad 20 mm i lufê gwintowan¹, strzelba KS-23 nie powinna byæ klasyfikowana jako broñ strzelecka, ale jako broñ ma³okalibrowa. Ten wariant ma nasadkê na monta¿ t³umika, który mo¿na znaleŸæ gdzieœ w po³udniowych lokalizacjach Zony.\n</text>
+		<text>Radziecka, wielofunkcyjna, 23-milimetrowa policyjna strzelba typu pump-action, przeznaczona do t³umienia zamieszek i zwalczania wiêkszych grup przeciwników. Co ciekawe, maj¹c kaliber ponad 20 mm i lufê gwintowan¹, strzelba KS-23 nie powinna byæ klasyfikowana jako broñ strzelecka, ale jako broñ ma³okalibrowa. Ten wariant ma nasadkê na monta¿ t³umika, który mo¿na znaleŸæ gdzieœ w po³udniowych lokalizacjach Zony.\n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka Broni w Tule\n
+		%c[d_orange] • %c[0,255,255,255] Broñ posiada zainstalowany zestaw taktyczny\n
+		</text>
 	</string>
-	
+
 	<string id="st_wpn_ks23_ecolog">
 		<text>KS-23 Naukowców</text>
 	</string>
 	<string id="st_wpn_ks23_ecolog_descr">
-		<text>Modyfikacja KS-23, opracowana na potrzeby kadry naukowej zlokalizowanej w Zonie.</text>
+		<text>Modyfikacja KS-23, opracowana na potrzeby kadry naukowej zlokalizowanej w Zonie.
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka Broni w Tule\n
+		</text>
 	</string>
-	
+
 	<string id="st_wpn_mp133_bas">
 		<text>MP-133</text>
 	</string>
 	<string id="st_wpn_mp133_bas_descr">
-		<text>MP-133 jest produktem Zak³adu Mechanicznego I¿ewsk. Ta strzelba typu pump-action, stanowi rozwiniêcie wczeœniejszego modelu I¯-81 i jest przeznaczona na rynki cywilne i dla s³u¿b bezpieczeñstwa. Strzelba produkowana jest w dwóch podstawowych wersjach: standardowej MP-133 z magazynkiem rurowym oraz MP-133K z odpinanym magazynkiem pude³kowym, obie wersje mog¹ wystêpowaæ z ró¿nymi kalibrami oraz typami luf, kolby z drewna lub polimeru, sta³e oraz sk³adane. Strzelba MP-133 wykorzystuje tradycyjny mechanizm ³adowania pump-action. Mechanizm ³aduj¹cy dzia³a za pomoc¹ przechylnego elementu blokuj¹cego, zainstalowanego w zamku i zaczepiaj¹cego wciêcie w przed³u¿eniu lufy przy przesuwaniu. Amunicja jest ³adowana do cylindrycznego, podlufowego schowka, który mieœci 4 loftki, ale pojemnoœæ mo¿na zwiêkszyæ, instaluj¹c odpowiednie tuby przed³u¿aj¹ce magazynek.</text>
+		<text>MP-133 jest produktem Zak³adu Mechanicznego I¿ewsk. Ta strzelba typu pump-action, stanowi rozwiniêcie wczeœniejszego modelu I¯-81 i jest przeznaczona na rynki cywilne i dla s³u¿b bezpieczeñstwa. Strzelba produkowana jest w dwóch podstawowych wersjach: standardowej MP-133 z magazynkiem rurowym oraz MP-133K z odpinanym magazynkiem pude³kowym, obie wersje mog¹ wystêpowaæ z ró¿nymi kalibrami oraz typami luf, kolby z drewna lub polimeru, sta³e oraz sk³adane. Strzelba MP-133 wykorzystuje tradycyjny mechanizm ³adowania pump-action. Mechanizm ³aduj¹cy dzia³a za pomoc¹ przechylnego elementu blokuj¹cego, zainstalowanego w zamku i zaczepiaj¹cego wciêcie w przed³u¿eniu lufy przy przesuwaniu. Amunicja jest ³adowana do cylindrycznego, podlufowego schowka, który mieœci 4 loftki, ale pojemnoœæ mo¿na zwiêkszyæ, instaluj¹c odpowiednie tuby przed³u¿aj¹ce magazynek.
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		</text>
 	</string>
 
 	<string id="st_wpn_mp153_bas">
 		<text>MP-153</text>
 	</string>
 	<string id="st_wpn_mp153_bas_descr">
-		<text>Strzelba samopowtarzalna MP-153 by³a pierwsz¹ pó³automatyczn¹ strzelb¹ zaprojektowan¹ i wyprodukowan¹ przez Zak³ady Mechaniczne I¿ewsk. Zosta³a opracowana wraz ze strzelb¹ MP-133, obie maj¹ wiele cech wspólnych. MP-153 jest jedn¹ z najpopularniejszych pó³automatycznych strzelb rosyjskiego pochodzenia i jest szeroko stosowana do polowania. Jest równie¿ sprzedawana na eksport, w USA znana jest jako strzelba automatyczna Remington "Spartan" SPR-453. Strzelby MP-153 znane s¹ z solidnej, ale nieco ciê¿kiej konstrukcji i niezawodnoœci.</text>
+		<text>Strzelba samopowtarzalna MP-153 by³a pierwsz¹ pó³automatyczn¹ strzelb¹ zaprojektowan¹ i wyprodukowan¹ przez Zak³ady Mechaniczne I¿ewsk. Zosta³a opracowana wraz ze strzelb¹ MP-133, obie maj¹ wiele cech wspólnych. MP-153 jest jedn¹ z najpopularniejszych pó³automatycznych strzelb rosyjskiego pochodzenia i jest szeroko stosowana do polowania. Jest równie¿ sprzedawana na eksport, w USA znana jest jako strzelba automatyczna Remington "Spartan" SPR-453. Strzelby MP-153 znane s¹ z solidnej, ale nieco ciê¿kiej konstrukcji i niezawodnoœci.
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]I¿ewskie Zak³ady Mechaniczne\n
+		</text>
 	</string>
-	
+
     <string id="st_wpn_mp153_m1">
         <text>MP-153 Karabinier</text>
     </string>
     <string id="st_wpn_mp153_m1_descr">
 		<text>Spersonalizowana wersja strzelby MP-153. Zdolna do prowadzenia ognia pó³automatycznego jak jego poprzednik, ale zapewnia lepsz¹ kompensacjê odrzutu, dziêki doœæ skutecznemu hamulcowi wylotowemu. Posiada równie¿ szynê monta¿ow¹ Picatinny, która umo¿liwia korzystanie z celowników refleksyjnych i holograficznych oraz mo¿liwoœæ zastosowania t³umika.\n \n
-	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: ze wzglêdu na po³o¿enie kolby mo¿liwy jest monta¿ przyrz¹dów celowniczych tylko z nisk¹ nak³adk¹: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7 i 1P76 Rakurs\n\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
     </string>
-	
+
 	<string id="st_wpn_saiga12s">
 		<text>Saiga-12</text>
 	</string>
@@ -385,6 +413,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Salvo® 12\n
 		</text>
 	</string>
+
 	<string id="st_wpn_saiga12s_m1">
 		<text>Saiga-12 "Nerd"</text>
 	</string>
@@ -401,18 +430,18 @@
     </string>
     <string id="st_wpn_toz106_descr">
 		<text>Jednolufowa strzelba myœliwska kalibru 20ga, z przesuwanym zamkiem. Powszechnie znana pod swoj¹ wernakularn¹ nazw¹ "Œmieræ Przewodnicz¹cego", ze wzglêdu na jej niewielkie rozmiary. Wariant ze sk³adan¹ kolb¹.\n \n
-	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: brak\n\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
     </string>
-	
+
     <string id="st_wpn_toz106_m1">
         <text>TOZ-106</text>
     </string>
     <string id="st_wpn_toz106_m1_descr">
 		<text>Jednolufowa strzelba myœliwska kalibru 20ga, z przesuwanym zamkiem. Powszechnie znana pod swoj¹ wernakularn¹ nazw¹ "Œmieræ Przewodnicz¹cego", ze wzglêdu na jej niewielkie rozmiary.\n \n
-	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: ze wzglêdu na po³o¿enie kolby mo¿liwy jest monta¿ przyrz¹dów celowniczych tylko z nisk¹ nak³adk¹: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7, 1P76 Rakurs\n\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
@@ -459,7 +488,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
-
+	
 	<string id="st_wpn_ak5c_bas_5c_tik">
 		<text>Specjalny Ak 5C ISG</text>
 	</string>
@@ -471,8 +500,8 @@
 		%c[d_purple] • %c[ui_gray_2] Celowniki: Leupold (LCO), Leupold D'evo x6 i LA5\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
-	</string>
-	
+	</string>	
+
 	<string id="st_wpn_akm_alfa">
     	<text>AK Alfa</text>
   	</string>
@@ -483,7 +512,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45 mm/7.62 mm\n
 		</text>
   	</string>
-	
+
 	<string id="st_wpn_ak12_m1">
         <text>AK-12</text>
     </string>
@@ -495,7 +524,7 @@
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior\n
 		</text>
     </string>
-	
+
 	<string id="st_wpn_ak12">
 		<text>AK-12</text>
 	</string>
@@ -534,7 +563,7 @@
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: "Stra¿nik"\n
 		</text>
     </string>
-				
+
 	<string id="st_wpn_ak74_n">
 		<text>AK-74</text>
 	</string>
@@ -616,7 +645,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
 		</text>
   	</string>
-	
+
 	<string id="st_wpn_ak105">
 		<text>AK-105</text>
 	</string>
@@ -642,7 +671,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Hexagon 5.45x39 mm/7.62x39 mm\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_ak105_sp">
 		<text>AK-105 "Zawodowiec"</text>
 	</string>
@@ -692,7 +721,7 @@
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: GP-25 Kostior (po modyfikacji)\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_abakan_n">
 		<text>AN-94 Abakan</text>
 	</string>
@@ -739,7 +768,7 @@
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Steyr UMS\n
 		</text>
-	</string>
+    </string>
 
 	<string id="st_wpn_scar_siber">
 		<text>FN SCAR-H</text>
@@ -806,6 +835,7 @@
 		%c[d_purple] • %c[ui_gray_2] Granatnik podlufowy: brak\n
 		</text>
 	</string>
+
 	<string id="st_wpn_scar_siber_m1_black">
 		<text>Taktyczny FN SCAR-H (Czarny)</text>
 	</string>
@@ -893,7 +923,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: NATO\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_m4_tac">
 		<text>M4A1 "Obroñca"</text>
 	</string>
@@ -915,7 +945,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-V\n
 		</text>
 	</string>
-
+	
 		<string id="st_wpn_pkp_siber">
 		<text>PKP Pieczienieg</text>
 	</string>
@@ -939,7 +969,6 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
-	
 	
 		<string id="st_wpn_ak74u_isg">
 		<text>RD-74U Rifle Dynamics ISG</text>
@@ -965,7 +994,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
-	
+
 		<string id="st_wpn_ak74u_m1_isg">
 		<text>Taktyczny RD-74U Rifle Dynamics ISG</text>
 	</string>
@@ -978,7 +1007,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: Rifle Dynamics ISG\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_vintorez_isg">
 		<text>RD-9x39 Rifle Dynamics ISG</text>
 	</string>
@@ -1025,7 +1054,7 @@
 		<text>SA-58 wyprodukowany przez amerykañsk¹ firmê DSA (David Selveggio Arms) jest zasadniczo kopi¹ FAL-a, wykonywany jest na tym samym sprzêcie linii produkcyjnej Steyr-Daimler-Puch co StG-58. Ten model jest wyposa¿ony w lufê o d³ugoœci 21 cali i inne elementy „austriackiego stylu”, takie jak oryginalny austriacki chwyt przedni FAL, dolny korpus ze stopu aluminium i ulepszone poszycie z nylonu wype³nionego w³óknem szklanym. Ten model jest u¿ywany przez wojsko i organy œcigania i mo¿e obs³ugiwaæ tryb ognia ci¹g³ego. DSA-58 mo¿e u¿ywaæ dowolnych magazynków metrycznych FAL.\n \n
 	    %c[0,255,255,255]MO¯LIWE MODYFIKACJE:\n
 		%c[d_purple] • %c[ui_gray_2] Ten SA-58 mo¿e zostaæ ulepszony zestawem taktycznym\n \n
-	    %c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: brak\n\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
 		</text>
@@ -1044,7 +1073,7 @@
 		</text>
 	</string>
 
-		<string id="st_wpn_fal_aus_kit_fal_leup">
+	<string id="st_wpn_fal_aus_kit_fal_leup">
 		<text>SA-58 AUS "Maruder"</text>
 	</string>
 	<string id="st_wpn_fal_aus_kit_fal_leup_descr">
@@ -1080,7 +1109,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: AAC 7.62 SDN-6\n
 		</text>
     </string>
-	
+
 	<string id="st_wpn_sr2_veresk">
     	<text>SR-2M Veresk</text>
   	</string>
@@ -1099,7 +1128,7 @@
   	</string>
   	<string id="st_wpn_sr2_m1_descr">
 		<text>SR.2 „Veresk” to rosyjski pistolet maszynowy (wyprodukowany przez CNII TOCZMASZ), przeznaczony do zwalczania oddzia³ów wroga w walce na krótki dystans, w odleg³oœci do 200 m, zdolny do przebicia kamizelki kuloodpornej. G³ówn¹ zalet¹ SR-2 jest du¿a si³a ognia, wysoka celnoœæ i silna penetracja pocisków przy strzale z bliskiej odleg³oœci. Ten wariant posiada zamontowany dodatkowy zestaw celowniczy za spraw¹ domowej roboty ulepszeñ.\n \n
-		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
         %c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki na podczerwieñ pasuj¹ce na szyny monta¿owe Picatinny/Weaver i celowniki PN-23 i Leupold Mark 8 CQBSS 1.1-8x24\n	
 		%c[d_purple] • %c[ui_gray_2] T³umik: GZV-SR2\n
 		</text>
@@ -1112,7 +1141,7 @@
 		<text>SR.2 „Veresk” to rosyjski pistolet maszynowy (wyprodukowany przez CNII TOCZMASZ), przeznaczony do zwalczania oddzia³ów wroga w walce na krótki dystans, w odleg³oœci do 200 m, zdolny do przebicia kamizelki kuloodpornej. G³ówn¹ zalet¹ SR-2 jest du¿a si³a ognia, wysoka celnoœæ i silna penetracja pocisków przy strzale z bliskiej odleg³oœci. Ten wariant posiada zwiêkszon¹ celnoœæ oraz jest bardziej niezawodny.\n \n
 		%c[0,255,255,255]ZAINSTALOWANE MODYFIKACJE:\n 
         %c[d_purple] • %c[ui_gray_2] Ten SR-2M zosta³ ju¿ ulepszony zestawem taktycznym\n \n	
-		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n		
+		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: GZV-SR2\n
 		</text>
   	</string>	
@@ -1151,13 +1180,16 @@
 		</text>
 	</string>
 
-
 	<string id="st_wpn_umirotvoritel_bas">
 		<text>Niezidentyfikowana broñ</text>
 	</string>
 	<string id="st_wpn_umirotvoritel_bas_descr">
-		<text>Nieznana broñ, której sposób dzia³ania nie zosta³ ustalony. Broñ wygl¹da na uszkodzon¹, naciœniêcie spustu nie przynosi ¿adnego efektu, jest ciê¿ka i wygl¹da na bardzo zaawansowan¹ technologicznie. Wydaje siê ona w ogóle nie u¿ywaæ mechanizmu prochowego. Najprawdopodobniej pociski s¹ napêdzane energi¹ elektromagnetyczn¹. Mo¿na sobie jedynie wyobraziæ jaki ogromny potencja³ posiada ten karabin.</text>
-	</string>
+		<text>Nieznana broñ, której sposób dzia³ania nie zosta³ ustalony. Broñ wygl¹da na uszkodzon¹, naciœniêcie spustu nie przynosi ¿adnego efektu, jest ciê¿ka i wygl¹da na bardzo zaawansowan¹ technologicznie. Wydaje siê ona w ogóle nie u¿ywaæ mechanizmu prochowego. Najprawdopodobniej pociski s¹ napêdzane energi¹ elektromagnetyczn¹. Mo¿na sobie jedynie wyobraziæ jaki ogromny potencja³ posiada ten karabin.
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj produkcji: %c[ui_gray_2]Nieznany\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Nieznany\n
+		</text>
+	</string> 
 
 	<string id="st_wpn_vintorez_n1">
 		<text>WSS Wintoriez</text>
@@ -1183,7 +1215,6 @@
 		</text>
 	</string>
 	
-	
 	<string id="st_wpn_vintorez_m2">
 		<text>WSS "Najemnik"</text>
 	</string>
@@ -1203,16 +1234,16 @@
 -->
 
 	<string id="st_wpn_dvl10_m1">
-		<text>DVL-10 "Sabota¿ysta"</text>
+		<text>DVL-10 "Saboteur"</text>
 	</string>
 	<string id="st_wpn_dvl10_m1_descr">
 		<text>DVL-10 to lekki, kompaktowy i wyciszony karabinek, u¿ywaj¹cy zarówno starej jak i nowej amunicji poddŸwiêkowej. Zosta³ opracowany z myœl¹ o s³u¿bach specjalnych i misjach bojowych, gdzie wymagana jest wyj¹tkowa precyzja i zasiêg.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz refleksyjnych na podczerwieñ)\n 
 		%c[d_purple] • %c[ui_gray_2] T³umik: zintegrowany\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>	
-	
 	
 	<string id="st_wpn_dvl10">
 		<text>DVL-10 Urbana</text>
@@ -1222,9 +1253,10 @@
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasuj¹ce na szyny monta¿owe Picatinny/Weaver (oprócz refleksyjnych na podczerwieñ)\n 
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_gauss_bas">
 		<text>Karabin Gaussa</text>
 	</string>
@@ -1244,6 +1276,7 @@
 		%c[d_purple] • %c[ui_gray_2] Ten Mauser posiada zintegrowany celownik March\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: K98 "Leœnik" (wymagany adapter)\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1256,6 +1289,7 @@
 		%c[d_purple] • %c[ui_gray_2] Ten Mauser posiada zintegrowany celownik March\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: K98 "Leœnik"\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1268,6 +1302,7 @@
 		%c[d_purple] • %c[ui_gray_2] Tego Remingtona mo¿na ulepszyæ zestawem taktycznym "£owca Jeleni": obudowa MOD X Gen.3, Magpul "PRO 700", kolba polimerowa Promag Archangel\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 	
@@ -1280,9 +1315,9 @@
 		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem z kolb¹ polimerow¹ Promag Archangel\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
-	
 
 		<string id="st_wpn_remington700_lapua700">
 		<text>Remington M700 "£owca Jeleni"</text>
@@ -1293,6 +1328,7 @@
 		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem taktycznym "£owca Jeleni"\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: M700 .338LM\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1305,11 +1341,12 @@
 		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem z obudow¹ Magpul PRO 700\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD t³umik\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
 		<string id="st_wpn_remington700_mod_x_gen3">
-		<text>Remington 700 (obudowa Mod X gen. III)</text>
+		<text>Remington 700 (obudowa Mod X gen. 3)</text>
 	</string>
 	<string id="st_wpn_remington700_mod_x_gen3_descr">
 		<text>Remington Model 700 to seria karabinów powtarzalnych, produkowanych przez Remington Arms od 1962 roku. Model ten posiada zainstalowan¹ obudowê MOD X GEN trzeciej generacji oraz dodatkowy kolimator Leupold DeltaPoint PRO (na podczerwieñ).\n \n
@@ -1317,6 +1354,7 @@
 		%c[d_purple] • %c[ui_gray_2] Ten Remington zosta³ ju¿ ulepszony zestawem z obudow¹ MOD X trzeciej generacji\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA:\n
 		%c[d_purple] • %c[ui_gray_2] T³umik: Daniel Defence Wave QD t³umik\n
+		%c[d_orange] • Zwiêkszona penetracja: +5\n
 		</text>
 	</string>
 
@@ -1330,7 +1368,7 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: brak\n
 		</text>
 	</string>
-	
+
 	<string id="st_wpn_sks_b">
 		<text>SKS</text>
 	</string>
@@ -1354,7 +1392,6 @@
 		%c[d_purple] • %c[ui_gray_2] T³umik: SKS 7.62x39 mm Hexagon\n
 		</text>
 	</string>
-
 
 	<string id="st_wpn_svd_m1">
 		<text>SWD</text>
@@ -1399,7 +1436,6 @@
 <!--
 	EXPLOSIVES
 -->
-
 	<string id="st_grenade_launcher">
 		<text>GP-25 "Kostior"</text>
 	</string>
@@ -1451,7 +1487,7 @@
 		%c[pda_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
-
+	
 	<string id="st_kukri">
         <text>Ostrze Kukri</text>
     </string>
@@ -1463,7 +1499,7 @@
 		%c[pda_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
 	</string>
-	
+
 	<string id="st_tactical_knife">
 		<text>Ostrze Monolitu</text>
 	</string>
@@ -1487,7 +1523,7 @@
 		%c[pda_green] • %c[ui_gray_2] Tnie grub¹ skórê?: %c[ui_green]TAK\n
 		</text>
     </string>
-	
+
 <!--
 	OTHER
 -->
@@ -1497,6 +1533,6 @@
     <string id="st_not_in_use_descr">
         <text>This item is not used.</text>
     </string>
-
+-->
 
 </string_table>

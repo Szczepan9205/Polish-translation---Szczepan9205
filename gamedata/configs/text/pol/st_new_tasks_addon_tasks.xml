@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="esc_m_trader_task_new_tasks_addon_dead_night_name">
+		<text>Martwa noc</text>
+	</string>
+	<string id="esc_m_trader_task_new_tasks_addon_dead_night_text">
+		<text>Samotnicy znikają bez śladu w nocy w Mrocznym Wąwozie. Sidorowicz poprosił mnie, abym dowiedział się, co się dzieje.</text>
+	</string>
+	<string id="esc_m_trader_task_new_tasks_addon_dead_night_about">
+		<text>Nasi chłopcy donieśli, że kilku Samotników zaginęło niedawno w drodze z Tartaku w Mrocznym Wąwozie do naszej wioski. Droga była zawsze stosunkowo bezpieczna, więc ludzie często podróżowali nocą, aby uniknąć bandytów i żołnierzy. Ich krzyki w ciemności były słyszane przez ludzi przebywających w Tartaku, ale nikt nie był na tyle odważny, by ryzykować życie, próbując im pomóc. Ciał zaginionych stalkerów nie odnaleziono po świcie. Okoliczni stalkerzy zebrali niewielką sumę dla kogoś, kto chciałby zbadać, co się stało.</text>
+	</string>
+	<string id="esc_m_trader_task_new_tasks_addon_dead_night_finish">
+		<text>Co za straszny los... Dziękuję za zapewnienie zmarłym ostatecznego odpoczynku i upewnienie się, że żaden więcej chłopak nie dołączy do ich sił. Masz - zasłużyłeś na to.</text>
+	</string>
+    <string id="dead_night_details">
+        <text>Zbadaj miejsce w nocy</text>
+    </string>
+
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_name">
+		<text>Skyfall</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_text">
+		<text>Wojsko otrzymało posiłki w postaci nowego śmigłowca Mi-24, który może zostać użyty do ataku na stare Magazyny Wojskowe, w których znajduje się baza Wolności. Łukasz  zlecił mi zestrzelenie tej latającej bestii. Powinienem jak najszybciej dotrzeć do Agropromu.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_about">
+		<text>Wiesz... Powinność nie jest naszym jedynym problemem. Wojsko również chciałaby odzyskać naszą bazę, aby przejąć kontrolę nad centrum Zony. To, co ich powstrzymuje, to ograniczone zasoby... a przynajmniej tak było do niedawna. Jeden z naszych oddziałów został rozerwany na kawałki przez śmigłowiec Mi-24. Tylko jeden człowiek przeżył i opowiedział nam tę historię. Musimy działać, zanim zgromadzą więcej sił. \n \nDo rzeczy - nie powiem, że to łatwa misja... jest duża szansa, że nie wyjdziesz z niej w jednym kawałku, ale jeśli ci się uda, będą na ciebie czekać niezłe pieniądze.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_finish">
+		<text>To mój człowiek! Nie sądzę, żebyśmy musieli się martwić o tych skurwieli po tym, jak zobaczyli twoje fajerwerki.</text>
+	</string>
+    <string id="skyfall_details">
+        <text>Zestrzel helikopter</text>
+    </string>
+	<string id="skyfall_stealth_message">
+        <text>Ty podstępny draniu! Więc postanowiłeś załatwić to po cichu? Sam bym tego lepiej nie zaplanował! Teraz nie spieprz tego i spróbuj podłożyć ładunki wybuchowe gdzieś, gdzie nikt ich nie zobaczy.</text>
+    </string>
+	<string id="skyfall_run_fail_message">
+        <text>A więc uciekłeś... Miałem przeczucie, że wybrałem niewłaściwą osobę do tej roboty...</text>
+    </string>
+	<string id="skyfall_confrontation_message">
+        <text>Myślisz, że cię nie widzimy, stalkerze? Przyjście tutaj było twoim ostatnim błędem...</text>
+    </string>
+	<string id="skyfall_cover_blow_message">
+        <text>Mamy tu podstępnego szczura!</text>
+    </string>
+	<string id="skyfall_blow_cover_run_message">
+        <text>Widzę cię! Nie uciekniesz, stalkerze!</text>
+    </string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_name">
+		<text>Utrzymanie pozycji</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_text">
+		<text>Bandyci przygotowują się do szturmu na Wysypisko i przejęcia nad nimi pełnej kontroli. Pietrenko poprosił mnie o zabunkrowanie się na Pchlim Targu i odparcie ich.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_about">
+		<text>Nasi zwiadowcy donieśli o ogromnym zgromadzeniu bandytów w pobliżu przejścia między Doliną Mroku, a Wysypiskiem. Pozwolenie im na przejęcie kontroli nad Wysypiskiem jest niedopuszczalne. Mamy jednak problemy z ludźmi z powodu tych cholernych hipisów na północy... Dlatego wyślę cię na tę misję samego. Wiem - brzmi to jak szaleństwo, ale powinieneś otrzymać pomoc od Samotników, którzy często odwiedzają to miejsce, pod warunkiem, że nie wpadli już w zasadzkę jakiegoś mniejszego oddziału bandytów.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_finish">
+		<text>Świetna robota, towarzyszu! To dla ciebie.</text>
+	</string>
+	<string id="hold_the_ground_on_position_message">
+        <text>Wróg rozpoczął atak! Przygotuj się do bitwy, stalkerze!</text>
+    </string>
+	<string id="hold_the_ground_defended_position_message">
+        <text>To powinien być ostatni z nich. Zgłoś się do mnie natychmiast, stalkerze!</text>
+    </string>
+	<string id="hold_the_ground_run_fail_message">
+        <text>Żałosne... nie powinienem był ci powierzać ci tej roboty...</text>
+    </string>
+	<string id="hold_the_ground_details">
+        <text>Broń pozycji</text>
+    </string>
+
+	<string id="cit_killers_merc_trader_stalker_task_no_step_back_name">
+		<text>Bez powrotu</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_no_step_back_text">
+		<text>Najemnicy stale tracą kontrolę nad Limańskiem, a Duszman obawia się, że Martwe Miasto zostanie wkrótce zaatakowane przez Monolit. Muszę odbić terytorium aż do mostu i zniszczyć ewentualne posiłki, które mogliby otrzymać.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_no_step_back_about">
+		<text>Słuchaj stary - mam dla ciebie osobistą propozycję. Status quo w Limańsku ostatnio stale zmienia się na korzyść Monolitu. Może i mamy lepszy sprzęt, ale oni mają broń, której do tej pory nie docenialiśmy - fanatyzm.\n \nNasz lukratywny interes może się wkrótce skończyć! Niektórzy z moich kontrahentów już opuścili to miejsce, bo obawiają się, że fanatycy mogą się tu pojawić w każdej chwili. Oto moja propozycja - udaj się do Limańska i przywróć status quo - odepchnij Monolit z powrotem za most i zniszcz wszystkie oddziały, które mogą próbować go ponownie przekroczyć.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_no_step_back_finish">
+		<text>Dobra robota. Teraz możemy wrócić do normalnej pracy. Weź to. Wrócę na szczyt w mgnieniu oka, gdy nowi kontrahenci dowiedzą się, że znów jest tu bezpiecznie.</text>
+	</string>
+	<string id="no_step_back_on_position_message">
+        <text>Nasze radary pokazują, że ogromna grupa monolitowców zbliża się, by wzmocnić utraconą pozycję. Przygotować się!</text>
+    </string>
+	<string id="no_step_back_defended_position_message">
+        <text>Świetna robota, partnerze. Radary nie wykazują dalszej wrogiej aktywności w regionie. A teraz wracaj do mnie - musimy porozmawiać.</text>
+    </string>
+	<string id="no_step_back_run_fail_message">
+        <text>Właśnie straciłeś swój kontrakt, koleżko. Trzeba mi było zatrudnić kogoś bardziej profesjonalnego...</text>
+    </string>
+	<string id="no_step_back_details">
+        <text>Broń pozycji</text>
+    </string>
+
+	<string id="simulation_task_gambling_with_life_name">
+		<text>Życiowy hazard</text>
+	</string>
+	<string id="simulation_task_gambling_with_life_text">
+		<text>Założyłem się z jednym z wolnościowcem, że zabiję zdrową pijawkę używając tylko noża. Hipisi na haju mają dziwne pomysły, ale pieniądze to pieniądze, więc...</text>
+	</string>
+	<string id="simulation_task_gambling_with_life_about">
+		<text>Wczoraj odbyłem podróż mojego życia z jednym z moich ziomków. Nie jestem pewien, skąd wziął to gówno, ale staryyy... kopało jak diabli... \nW każdym razie - wracajmy na właściwe tory. Oboje lubimy hazard, a on wymyślił zajebisty numer. Powiedział, że postawi niezłą sumkę na każdego, kto zabije pijawkę używając tylko noża. Jeden z naszych ziomków - wciąż naćpany jak chuj - podsłuchał jego rozmowę i wyszedł z bazy tej nocy. Nigdy nie wrócił, ale zakład nadal obowiązuje. Biedak... zastanawia się, co się z nim stało... \n \nGdzie to ja skończyłem? Ach, racja - zakład! Wyglądasz mi na twardziela. Nie chciałbyś spróbować szczęścia? Zamontuję małą kamerę na twoim kombinezonie, żebym mógł później pokazać to nagranie mojemu kumplowi. Co? Chyba nie myślałeś, że zdradzę ci jego ksywkę, prawda? Chcę z tego też mieć coś dla siebie.\n \nPamiętaj - jest jeden haczyk - mutant musi być zdrowy. Mój kumpel będzie mógł zobaczyć wszelkie wcześniejsze rany na nagraniu i nie będzie wypłaty.</text>
+	</string>
+	<string id="simulation_task_gambling_with_life_finish">
+		<text>Naprawdę mi zaimponowałeś, stary! Teraz pozwolę sobie przekazać to nagranie mojemu przyjacielowi. Oto twój udział.</text>
+	</string>
+	<string id="gambling_with_life_details">
+        <text>Wypełnij warunki zakładu</text>
+    </string>
+
+	<string id="simulation_task_vengence_amplified_name">
+		<text>Wzmocniona zemsta</text>
+	</string>
+	<string id="simulation_task_vengence_amplified_text">
+		<text>Bandyta chce, żebym porąbał chimerę na kawałki toporem, by pomścić jego przyjaciela. Podjęcie się tego zadania było chyba błędem...</text>
+	</string>
+	<string id="simulation_task_vengence_amplified_about">
+		<text>Słyszałeś o chimerach, prawda? Pieprzone wielkie i brzydkie france... do diabła z nimi wszystkimi! Wysłały mojego ziomusia na tamten świat... Patrolowaliśmy nocą okolicę i wpadliśmy w zasadzkę jednej z tych abominacji. Skoczyła prosto na mojego ziomka i urwała mu nogę. Jego krzyki zaalarmowały resztę obozu i udało nam się odeprzeć bestię. Trwało to jednak zbyt długo i mój ziomo zmarł z powodu utraty krwi... \n \nOto oferta - przypnij tę kamerę do swojego kombinezonu i odrąb nogę jednej z tych kurew! Albo wiesz co? Posiekaj ją na kawałki! Chcę zobaczyć, jak cierpi nieznośny ból!\n \nSą naprawdę twarde, więc będzie dobrze, jeśli dopiero ostateczny cios zadasz siekierą.</text>
+	</string>
+	<string id="simulation_task_vengence_amplified_finish">
+		<text>Byłeś okrutny w swoich metodach, przyjacielu. Doceniam to. Widząc, jak dzikość zmienia się w strach i ból w oczach tej bestii, czułem się... usatysfakcjonowany...</text>
+	</string>
+	<string id="vengence_amplified_details">
+        <text>Posiekaj bestię na kawałki</text>
+    </string>
+
+	<string id="yan_stalker_sakharov_task_brain_game_name">
+		<text>Gra umysłów</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_brain_game_text">
+		<text>Sacharow potrzebuje kontrolera z nieuszkodzonym mózgiem, aby prowadzić dalsze badania nad jego zdolnościami psionicznymi.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_brain_game_about">
+		<text>Zawsze cieszę się, gdy widzę młodych ludzi tak chętnych do udziału w projektach naukowych! Widzisz - badamy tajemnice Zony już od bardzo dawna, a wciąż jest tak wiele do odkrycia. Jednym z najbardziej fascynujących i jednocześnie niebezpiecznych cudów Zony są kontrolerzy. Stalkerzy zazwyczaj unikają konfrontacji z nimi, a gdy ta jest już nieunikniona, to - co zrozumiałe - chcą ją jak najszybciej wyeliminować mutanta strzałem w głowę. Dlatego większość próbek mózgu, które otrzymujemy, jest dla nas bardzo mało przydatna. Byłbym bardzo wdzięczny, gdybyś zabił jednego z nich bez uszkodzenia jego mózgu i poinformował nas o tym wydarzeniu tak szybko, jak to możliwe, abyśmy mogli wysłać grupę, która go zabezpieczy i upewni się, że dotrze do nas, zanim jego tkanki zaczną się rozkładać.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_brain_game_finish">
+		<text>Dziękuję za twój wkład w naszą społeczność naukową, młody człowieku.</text>
+	</string>
+	<string id="brain_game_details">
+        <text>Upoluj osobnika do badań</text>
+    </string>
+	<string id="brain_game_success_report">
+        <text>Profesorze - udało mi się zdobyć okaz, o który pan prosił. Przesyłam współrzędne.</text>
+    </string>
+	<string id="brain_game_success_response">
+        <text>Świetna robota! Natychmiast wyślę jeden z naszych zespołów. Proszę, odwiedź mnie w naszym bunkrze - nagroda już na ciebie czeka.</text>
+    </string>
+
+	<string id="urgent_orders_name">
+		<text>Pilne rozkazy</text>
+	</string>
+	<string id="bar_dolg_leader_task_urgent_orders_text">
+		<text>Znajomy żołnierz Powinności został krytycznie ranny przez nowy rodzaj pijawki i wymaga leczenia przez naukowców. Muszę się pospieszyć!</text>
+	</string>
+	<string id="bar_dolg_leader_task_urgent_orders_finish">
+		<text>Świetna robota, żołnierzu! Uratowałeś swojego kolegę. Tak trzymać!</text>
+	</string>
+	<string id="bar_dolg_leader_task_urgent_orders_report">
+        <text>Żołnierzu! Tu Generał Woronin! Mam dla ciebie pilny rozkaz. Jeden z naszych braci został ranny i zatruty przez nowy rodzaj pijawki. Nasz medyk nie jest w stanie mu pomóc. Skontaktowałem się z profesorem Sacharowem z prośbą o pomoc i jest szansa, że jego eksperymentalny lek może pomóc naszemu bratu.\n \nMusisz natychmiast wyruszyć w kierunku Jantaru i eskortować grupę naukowców do naszej bazy. Nie zawiedź mnie, żołnierzu!</text>
+    </string>
+	<string id="bar_dolg_leader_task_urgent_orders_sciencists_response">
+        <text>Witaj, chłopcze! Otrzymałem informację o twoim przybyciu od twojego generała. Moi asystenci mają wszystko, czego potrzeba do wyleczenia twojego kolegi i wkrótce do ciebie dołączą.</text>
+    </string>
+	<string id="bar_dolg_leader_task_urgent_orders_fail">
+        <text>Nasz brat właśnie wydał ostatnie tchnienie. Zawiodłeś mnie, żołnierzu... zawiodłeś nas wszystkich.</text>
+    </string>
+
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_text">
+		<text>Znajomy żołnierz Powinności został krytycznie ranny przez nowy rodzaj pijawki i wymaga leczenia przez naukowców. Muszę się pospieszyć!</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_finish">
+		<text>Świetna robota, żołnierzu! Uratowałeś swojego kolegę. Tak trzymać!</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_report">
+        <text>Żołnierzu! Tu Generał Woronin! Mam dla ciebie pilny rozkaz. Jeden z naszych braci został ranny i zatruty przez nowy rodzaj pijawki. Nasz medyk nie jest w stanie mu pomóc. Skontaktowałem się z profesorem Sacharowem z prośbą o pomoc i jest szansa, że jego eksperymentalny lek może pomóc naszemu bratu.\n \nMusisz natychmiast wyruszyć w kierunku Jantaru i eskortować grupę naukowców do naszej bazy. Nie zawiedź mnie, żołnierzu!</text>
+    </string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_sciencists_response">
+        <text>Witaj, chłopcze! Otrzymałem informację o twoim przybyciu od twojego generała. Moi asystenci mają wszystko, czego potrzeba do wyleczenia twojego kolegi i wkrótce do ciebie dołączą.</text>
+    </string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_fail">
+        <text>Spóźniłeś się, żołnierzu... Nasz medyk właśnie potwierdził zgon. Módl się do tych wyższych rangą, aby nie wezwali cię pod sąd wojenny.</text>
+    </string>
+
+	<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_name">
+		<text>Baba Jaga</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_text">
+		<text>Zaobserwowano, że niektórzy stalkerzy rozpływają się w powietrzu w nocy wokół anomalii Galareta, próbując złapać pozornie "darmowy" artefakt. Muszę zbadać, co się tam dzieje.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_about">
+		<text>Kiedy spędzasz całe dnie w miejscu takim jak to, słyszysz wiele ciekawych historii. Większość z nich to zwykłe bzdury, ale jedna pochodzi od samego Rzeźnika. Ten gość jest tutaj legendą... Twardziel sprawił, że Wysypisko stało się miejscem nadającym się do zamieszkania... Oczywiście do pewnego stopnia.\n \nTeraz przejdźmy do sedna - tuż przed zakończeniem dnia Rzeźnik wyszedł z hangaru na papierosa. Z daleka zobaczył grupę nowicjuszy, którzy zatrzymali się przy anomalii Galareta, aby podnieść artefakt. Gdy jeden z nich po niego sięgnął, zniknęli w mgnieniu oka. Ich krzyki było słychać w lesie przez kilka sekund. Rzeźnik wiedział, że jest już za późno, by ich uratować, więc stał tam i czekał. Przez krótką chwilę widział smukłą sylwetkę starszej kobiety. Nie miał ochoty ścigać ducha w nocy, więc udał się tam następnego dnia tylko po to, by znaleźć nagie kości stalkerów. Próbował upolować potwora w ciągu dnia, ale nigdy się nie pojawił. Ostrzegł przed nim wszystkich mijających go stalkerów i tak narodziła się wśród nich opowieść o Babie Jadze - wiesz... Tej strasznej staruszce z dziecięcych bajek, mieszkającej na bagnach lub w lesie, która porywa dzieci oddalające się zbytnio od domu.\n \nRzeźnik również złożył mi ostatnio wizytę. Próbował dowiedzieć się, co nawiedza to miejsce, ale wygląda na to, że potwór jest na tyle sprytny, by unikać naszej okolicznej maszyny do zabijania. Ponieważ Rostok odwiedza wielu bardziej doświadczonych stalkerów, poprosił mnie o znalezienie kogoś chętnego do rozprawienia się z tą wiedźmą. Co ty na to?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_finish">
+		<text>A więc wiedźma jest jednak prawdziwa! Zona nigdy nie przestanie mnie zaskakiwać. Mówisz, że nie znalazłeś ciała? Szkoda - miejmy nadzieję, że już nigdy nie wróci..\n \n*pomruki* Baba Jaga... ja pierdolę... *pomruki*</text>
+	</string>
+	<string id="baba_yaga_details">
+        <text>Zbadaj miejsce w nocy</text>
+    </string>
+
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_name">
+		<text>Dom grozy</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_text">
+		<text>Na północno-wschodnim posterunku znaleziono wypatroszone ciało członka Czystego Nieba. Zimny poprosił mnie, abym dowiedział się, co grasuje tam w nocy.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_about">
+		<text>Bagna zawsze były dość niebezpiecznym miejscem. Ciężko walczyliśmy, aby założyć tu naszą bazę i chronić otoczenie. Obecnie mutanty rzadko się do nas zbliżają. Renegaci wciąż od czasu do czasu atakują naszą zewnętrzne posterunki, ale zawsze żałują swoich decyzji.\n \nCo do tego - ostatnio na zewnątrz dzieje się coś dziwnego. Nasi chłopcy donoszą o tajemniczych szczeknięciach i szeptach dochodzących znikąd. Ponieważ w okolicy nie było mutantów, ignorowaliśmy je... do czasu, gdy za budynkiem znaleziono zmasakrowane ciało jednego z naszych wartowników, który poszedł się odlać w nocy i długo nie wracał.\n \nZapamiętałem jednak jedną rzecz... W czasach, gdy Lebiediew był naszym przywódcą, pewien samotny staruszek wpadł do naszego baru i opowiedział historię o spokojnej rodzinie z psem, która mieszkała w tym miejscu przed katastrofą w Czarnobylu. Mężczyzna zaczął słyszeć głosy, które doprowadziły go do szaleństwa. Stracił zmysły i zabił we śnie całą swoją rodzinę, w tym psa. Następnego dnia, po uświadomieniu sobie, co zrobił, powiesił się... Mam złe przeczucie, że te incydenty mogą być ze sobą powiązane. Nadal musimy pilnować tego miejsca, ale nie mogę ryzykować utraty kolejnego człowieka frakcji. Byłbyś skłonny przyjrzeć się tej sprawie?</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_finish">
+		<text>Chyba staruszek mówił prawdę... co za historia. Musimy podwoić ochronę, żeby to się nigdy nie powtórzyło. A to dla ciebie.</text>
+	</string>
+	<string id="house_of_horrors_details">
+        <text>Zbadaj miejsce w nocy</text>
+    </string>
+
+	<string id="zat_a2_stalker_barmen_task_mirage_name">
+		<text>Miraż</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_mirage_text">
+		<text>Uratowany łowca artefaktów twierdzi, że został postrzelony przez innego stalkera, który wyglądał dokładnie tak jak on. Brodacz poprosił mnie, abym odwiedził to miejsce i rozejrzał się tam.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_mirage_about">
+		<text>Mam dla ciebie zadanie. Jak być może już wiesz, zawsze mam kilka kontraktów od kolekcjonerów na rzadkie artefakty i nie ma lepszego miejsca na ich znalezienie niż Zaton. Jeden z moich kontrahentów wrócił niedawno z kulą w trzewiach po wyprawie do Żelaznego Lasu. Ten drań miał szczęście, że ktoś złapał jego sygnał SOS. Po przebudzeniu ze znieczulenia opowiedział nieprawdopodobną historię.\n \nTwierdzi, że kiedy schylał się, by podnieść artefakt, usłyszał, jak ktoś go woła. Kiedy się odwrócił, niedaleko za nim stała osoba, która celowała prosto w niego. Natychmiast stracił przytomność, gdy zdał sobie sprawę, że ta osoba wygląda dokładnie jak on, ale nie miał czasu na panikę, ponieważ zaraz potem dostał kulkę. Gdy upadł i obejrzał się za siebie, strzelca nigdzie nie było widać. Natychmiast wysłał SOS i niedługo potem zemdlał. Został znaleziony przez oddział, który znajdował się niedaleko. Stalkerzy, którzy go ocalili, że wszyscy słyszeli jakieś szepty, gdy opuszczali to miejsce, ale nie byli tak chętni, aby sprawdzać, co to było. Oto moja propozycja - dowiedz się, co czai się w tym miejscu, a dostaniesz niezłą kasę, co?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_mirage_finish">
+		<text>Wow... Wiedziałem, że hakerzy mogą manipulować materią, ale nie spodziewałem się, że mogą to robić w takim stopniu! Nie sądzę, by goście mi uwierzyli, gdy opowiem im twoją historię. Masz, zasłużyłeś na to. Udanych łowów, stalkerze... *śmieje się*</text>
+	</string>
+	<string id="mirage_details">
+        <text>Zbadaj miejsce</text>
+    </string>
+
+	<string id="jup_b220_trapper_task_big_game_name">
+		<text>Wielkie polowanie</text>
+	</string>
+	<string id="jup_b220_trapper_task_big_game_text">
+		<text>Banda nibyolbrzymów schroniła się w południowym tunelu kolejowym na Jupiterze. Traper poprosił mnie, bym się nimi zajął.</text>
+	</string>
+	<string id="jup_b220_trapper_task_big_game_about">
+		<text>Jesteś zainteresowany doskonaleniem swoich umiejętności łowieckich? Naukowcy z bunkra zgłosili głośne dudnienie i ryki dochodzące z południowego tunelu kolejowego i zaoferowali wysoką nagrodę każdemu, kto zechce zbadać to miejsce i zająć się potencjalnym zagrożeniem. Bez wątpienia musi to być nibyolbrzym... lub nawet para. Idealna okazja do doskonalenia swoich umiejętności w pokonywaniu te majestatyczne, ale niebezpieczne potwory. Co ty na to? Masz ochotę na polowanie na grubą zwierzynę?</text>
+	</string>
+	<string id="jup_b220_trapper_task_big_game_finish">
+		<text>Co za historia! Nie sądziłem, że nibyolbrzymy mogą osiągać takie rozmiary... teraz żałuję, że nie wróciłem z emerytury tylko po to, by zgarnąć tą dwójkę dla siebie. W każdym razie, oto twoja nagroda.</text>
+	</string>
+	<string id="big_game_details">
+        <text>Zbadaj miejsce</text>
+    </string>
+
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_name">
+		<text>Egzekwowanie embarga</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_text">
+		<text>Pewien stalker planuje sprzedać artefakt kolekcjonerowi spoza Zony. Muszę go przechwycić i dostarczyć pułkownikowi.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_about">
+		<text>Spocznij, żołnierzu. Jest jedna rzecz, którą trzeba się zająć. Nasz tajny agent podsłuchał rozmowę dwóch stalkerów w barze 100 Radów. Rozmawiali o swoim ostatnim kontrakcie na dostarczenie jednej z tych błyszczących rzeczy zwanych artefaktami do kolekcjonera poza Zoną - dość rzadkiego, by być precyzyjnym. Tu właśnie wkraczamy my. Musisz przechwycić tę rzecz i przynieść mi ją z powrotem, zrozumiano?\n \nJeszcze jedno - jeśli cel zginie, a paczka zostanie przechwycona przez kogoś innego, to będzie twoja wina. Nie powinieneś też próbować się dobierać do zawartości. Chcielibyśmy złożyć wizytę klientowi i odbyć z nim miłą rozmowę.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_finish">
+		<text>Świetna robota, żołnierzu - tak trzymać! Możecie odejść.</text>
+	</string>
+
+	<string id="esc_m_trader_task_cold_blooded_betrayal_name">
+		<text>Zdrada z zimną krwią</text>
+	</string>
+	<string id="esc_m_trader_task_cold_blooded_betrayal_text">
+		<text>Sidorowicz poprosił mnie o likwidację eks-samotnika, który zabił swoich kolegów z oddziału. Muszę również odzyskać artefakt, który był przyczyną popełnienia przez niego tej zbrodni.</text>
+	</string>
+	<string id="esc_m_trader_task_cold_blooded_betrayal_about">
+		<text>Mam dla ciebie dość nietypowe zadanie związane z poszukiwaniem artefaktów. Otrzymałem prośbę o nietypowy artefakt od klienta spoza Perymetru i wkrótce potem zadanie to zostało wzięte przez grupę dwóch nowicjuszy prowadzonych przez bardziej doświadczonego gościa. Dwa dni później otrzymałem od nich wiadomość, że znaleźli go w okolicy Wysypiska i wrócą następnego dnia. Byłem tym nieco zaskoczony... zwykle można tam znaleźć tylko śmieci.\n \nTeraz przejdźmy do interesującej części... Postanowili spędzić noc w hangarze. Rzeźnik wspomniał, że jeden z nich był szczególnie zdenerwowany po sprzeczce z przywódcą grupy. Chwilę przed położeniem się spać usłyszał strzały dochodzące z kierunku ogniska i głośne kroki kogoś wybiegającego z hangaru. Kiedy dotarł do ogniska z bronią w ręku, zobaczył tylko dwa ciała i żadne z nich nie było podejrzanym facetem, którego pamiętał. Znalazł notatkę o zleceniu na nich na ciele dowódcy i poinformował mnie o incydencie.\n \nTen drań prawdopodobnie widział taki artefakt po raz pierwszy i zdecydował się zabić swoich braci tylko po to, by go zdobyć, jednocześnie podwójnie mnie zdradzając. To był jego ostatni błąd... Wpakuj mu kulkę w łeb i zwróć to, co ukradł.</text>
+	</string>
+	<string id="esc_m_trader_task_cold_blooded_betrayal_finish">.
+		<text>Sprawiedliwość została wymierzona... Dobra robota, stalkerze.</text>
+	</string>
+
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_name">
+		<text>Rewizja</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_text">
+		<text>Dziurawy chce, abym przyniósł mu artefakt, który naukowcy znaleźli na terenie bandytów.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_about">
+		<text>Słuchaj, stary. Jak powinieneś już wiedzieć, nazywamy to miejsce naszym i traktujemy je naprawdę poważnie. Od czasu do czasu odwiedzają nas goście, którzy zdają się tego nie rozumieć i zazwyczaj kończy się to źle. Nasi chłopcy zauważyli ostatnio grupę jajogłowych węszących wokół  Świecącej pieczary. Ponieważ zwykle mają przy sobie zaawansowane detektory artefaktów, a miejsce to jest dość niebezpieczne, nasi chłopcy postanowili pozwolić jajogłowym wykonać brudną robotę, a następnie zabrać z ich martwych ciał wszystko, co tam znajdą. Kiedy nasi zauważyli, że nasi jajogłowi pakują jakieś błyszczące gadżety do ołowianej skrzynki, jeden z naszych najlepszych strzelców podniósł swojego SKS-a, przygotowując się do strzału. W tym samym momencie jego głowa dosłownie eksplodowała... dostał pociskiem snajperskim w głowę. Reszta jego oddziału nie wiedziała skąd padł strzał, więc ratowali się jak mogli. Kiedy większa grupa tam wróciła, nie było po nich śladu. Zabrali też rzeczy naszego martwego brata... To my bierzemy rzeczy od innych - nie na odwrót... Znajdź tych drani, daj im nauczkę i przynieś skrzynię z powrotem do mnie.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_finish">
+		<text>Hah - no i jest! Nie przywróci to życia naszemu bratu, ale z pewnością podniesie na duchu...</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_stolen_specimen_name">
+		<text>Skradziona próbka</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_stolen_specimen_text">
+		<text>Naukowcy stracili rzadki artefakt na rzecz oddziału Grzechu. Zgodziłem się go odzyskać.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_stolen_specimen_about">
+		<text>Myślę, że mam dla ciebie zadanie. Niedawno wysłaliśmy ekspedycję do Limańska w celu przeprowadzenia pomiarów anomalii w tym regionie. Ponieważ jest to miejsce ciągłych walk między najemnikami, a siłami Monolitu, zdecydowaliśmy się zatrudnić kilku ekspertów z ich szeregów, aby osłaniali naszych kolegów. Wszystko szło zgodnie z planem... do pewnego momentu.\n \nNasi ludzie zebrali wymagane dane i znaleźli dość rzadki artefakt. Kiedy przygotowywali się do odejścia, wybuchła silna emisja, więc ukryli się w piwnicy pobliskiego budynku. Kiedy wszystko ucichło, najemnicy wyszli na zewnątrz, aby zbadać okolicę. Niedługo potem nasi koledzy usłyszeli strzelaninę. Nie zdążyli nawet chwycić za broń, gdy w piwnicy wylądował granat, rozrywając dwóch naukowców na kawałki. Ostatni - ledwo żywy - doczołgał się do najdalszej ściany, trzymając pojemnik z artefaktem. Trzech mężczyzn o bladych twarzach weszło do piwnicy, celując w niego. Kiedy ich przywódca zobaczył pojemnik, wyciągnął rękę i wycelował w niego. Nie zastanawiając się dwa razy, ocalały rzucił w niego pudełkiem, odmawiając już ostatnią modlitwę. Fanatycy jednak nie zakończyli jego życia, widząc, że już umiera. Chwycili pudełko i odeszli w milczeniu. Nasz chłopak zemdlał w tym momencie i został później znaleziony przez pobliski oddział najemników, który przybył na miejsce z opóźnieniem. Na szczęście przeżył...\n \nOto moja prośba - potrzebujemy tego artefaktu z powrotem bo to kluczowy punkt odniesienia dla zebranych danych! Pudełko miało nadajnik GPS, więc będziesz w stanie znaleźć tych fanatyków. Jestem pacyfistą, ale ślepa wiara nie ma racji bytu. Rób to, co musisz.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_stolen_specimen_finish">
+		<text>Świetna robota, kolego. Teraz możemy kontynuować nasze badania... ku pamięci naszych poległych kolegów.</text>
+	</string>
+
+	<string id="trader_pri_a15_mlr_task_blood_stained_coin_name">
+		<text>Zakrwawiona moneta</text>
+	</string>
+	<string id="trader_pri_a15_mlr_task_blood_stained_coin_text">
+		<text>Kasjer zlecił mi odzyskanie rzadkiego artefaktu, który został zabrany przez oddział naukowców ISG.</text>
+	</string>
+	<string id="trader_pri_a15_mlr_task_blood_stained_coin_about">
+		<text>Wyglądasz na kogoś, kto lubi ryzykować, co? Mam bardzo lukratywne zlecenie na rzadki artefakt. W rzeczywistości inny stalker przyniósł mi ten artefakt kilka dni temu. Pewnie chcesz zapytać, dlaczego więc zlecenie wciąż obowiązuje, co? Cóż... oddział bardzo niebezpiecznych ludzi śledził tego stalkera. Kiedy mieliśmy zawrzeć umowę, wtargnęli do środka, zaskakując wszystkich. Od razu było widać, że są ekspertami w swoim fachu - mieli na sobie najlepsze kombinezony i broń. Nie padły jednak żadne strzały - wiedzieliśmy, że jesteśmy w dupie, więc się poddaliśmy. Ich przywódca powoli podszedł do mnie, uderzył mnie w twarz swoją żelazną pięścią i zabrał pojemnik z artefaktem i zapłatą przygotowaną dla stalkera. Ostrzegł nas, że jeśli ktokolwiek pójdzie za nimi, nie zostawią tu nikogo przy życiu. Więc zostaliśmy tam cały dzień...\n\nPierwotny wykonawca nie był zadowolony z obrotu spraw. Pudełko miało nadajnik GPS, więc stalker, który znalazł artefakt poszedł szukać tych ludzi. Biorąc pod uwagę, że nie widziałem go od dłuższego czasu, zakładam, że gryzie ziemię... Nie udało nam się znaleźć podobnego artefaktu, a klient zaczyna się niecierpliwić. Pomyślałem więc, czy byłbyś skłonny odpłacić im w moim imieniu i przynieść mi to pudełko z powrotem?</text>
+	</string>
+	<string id="trader_pri_a15_mlr_task_blood_stained_coin_finish">
+		<text>Jestem pod wrażeniem, stalkerze. Nie spodziewałem się zobaczyć cię żywego. Masz - zasłużyłeś na to.</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen_task_the_keepsake_name">
+		<text>Pamiątka</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_task_the_keepsake_text">
+		<text>Zgodziłem się pomścić śmierć brata pewnego stalkera i przynieść przyczynę jego śmierci jako pamiątkę.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_task_the_keepsake_about">
+		<text>Posłuchaj, przyjacielu. Nie boisz się zabijać dla pieniędzy, prawda? Zwłaszcza jeśli chodzi o łajdaków... \nChodzi o to, że kilka dni temu jakiś stalker odwiedził Janów. Jego twarz była bez wyrazu... Wiedziałem, że widział jakiś niezły szajs. Podszedł do mnie i zamówił dwie butelki wódki. Po prostu stał w milczeniu, biorąc łyk za łykiem, patrząc na dno swojego kubka. Nie minęła nawet godzina, gdy jedna butelka była już pusta. W końcu przerwał ciszę tymi słowami - "Dzisiaj straciłem brata... nie prawdziwego przyjaciela, ale prawdziwego brata...". Następnie opowiedział mi całą historię. Przybyli do Jupitera, by podpisać ostatni kontrakt przed opuszczeniem Zony na dobre. Zgodzili się znaleźć jakiś bardzo rzadki artefakt za dobrą cenę, a to miejsce wydawało się idealne do tego zadania - wystarczająco daleko na północ i stosunkowo bezpieczne. Po kilku dniach poszukiwań znaleźli jeden w anomalii Betonowa wanna... a raczej jego brat go znalazł. W pewnym momencie odszedł trochę w krzaki, aby załatwić swoje sprawy. Kiedy miał już wracać, usłyszał strzał z karabinu snajperskiego i wkrótce potem zobaczył, jak jego brat pada na ziemię. Ponownie ukrył się w krzakach. Oddział ciężko opancerzonych fanatyków Monolitu zaczął zbliżać się do ciała. Stalker wiedział, że w tym momencie nie może nic zrobić. Zabrali pojemnik z artefaktem, wrzucili ciało do anomalii i potem odeszli. Zanim zdążył się zbliżyć, ciało jego brata już się rozpuściło.\n \nW tym momencie nie obchodziło go już zlecenie. Zostawił tu sporą sumę pieniędzy wraz z danymi kontaktowymi i powiedział, że ktokolwiek zabije tych drani i przyniesie artefakt, może go sobie wziąć. Chce go mieć na pamiątkę. Co ty na to? Wydaje się, że to bardzo szlachetny cel. Pudełko miało lokalizator, więc nie będziesz miał problemów ze znalezieniem celu, choć być może będziesz musiał udać się w jakieś niebezpieczne miejsce.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_task_the_keepsake_finish">
+		<text>Dobrze się dzisiaj spisałeś, stalkerze. Nasz przyjaciel opuścił już Zonę, ale upewnię się, że ta paczka do niego dotrze.</text>
+	</string>
+
+	<!-- The Living Fire -->
+	<string id="bar_informator_mlr_task_the_living_fire_name">
+		<text>Żywy ogień</text>
+	</string>
+	<string id="bar_informator_mlr_task_the_living_fire_text">
+		<text>Kabel chce, żebym dowiedział się więcej o ostatnich plotkach na temat tajemniczego stalkera, który najwyraźniej potrafi kontrolować ogień.</text>
+	</string>
+	<string id="bar_informator_mlr_task_the_living_fire_about">
+		<text>Wiesz mój przyjacielu - wiedza to potęga... a ja jestem tym, który lubi dużo wiedzieć i zamieniać tę potęgę w coś bardziej użytecznego - pieniądze. Jest jedna rzecz, której jeszcze nie wiem, a która doprowadziłaby mnie do zarobienia małej fortuny. Krąży plotka o stalkerze, który pojawił się niedawno w Zonie... Podobno - ma jakąś moc manipulowania ogniem. Na początku myślałem, że to tylko plotka, jakich wiele, ale kiedy kilka ważnych osób zaczęło mnie pytać, czy wiem na ten temat coś więcej, zdałem sobie sprawę, że coś w tym jest. Nawet pułkownik Pietrenko ostatnio wpadł i zadał mi kilka pytań, ponieważ znaleźli dwóch swoich żołnierzy spalonych na wiór na Cmentarzysku pojazdów, gdzie nie ma żadnych anomalii termicznych! Nie muszę chyba mówić, że odpowiedź "Nie wiem" na większość jego pytań nie przyniosła mi żadnego zysku, prawda? Umowa jest taka - ty dowiesz się więcej o tym gościu, a ja zapłacę ci niezłą kasę. Wchodzisz w to?\n \nMój znajomy z Pchlego targu doniósł, że ostatnio na Wysypisku działy się jakieś dziwne rzeczy. Rozpocząłbym poszukiwania od rozmowy z nim.</text>
+	</string>
+	<string id="bar_informator_mlr_task_the_living_fire_finish">
+		<text>Przyjemnie robić z tobą interesy, partnerze! Skontaktuję się teraz ze wszystkimi moimi klientami. Jestem pewien, że chętnie zapłacą, aby dowiedzieć się więcej o naszym przyjacielu. Wpadnij kiedyś później. Czuję, że wpadliśmy na trop czegoś wielkiego i można na tym zarobić jeszcze więcej pieniędzy.</text>
+	</string>
+	<string id="the_living_fire_prometheus_name">
+		<text>Prometeusz</text>
+	</string>
+	<string id="the_living_fire_mysterious_stalker_name">
+		<text>Tajemniczy stalker</text>
+	</string>
+
+	<string id="the_living_fire_garbage_actor_msg_1">
+		<text>Co to za dźwięk?</text>
+	</string>
+	<string id="the_living_fire_garbage_prometheus_msg_1">
+		<text> Plugawy mutancie - odejdź...</text>
+	</string>
+	<string id="the_living_fire_garbage_actor_msg_2">
+		<text>Kim jes...</text>
+	</string>
+	<string id="the_living_fire_garbage_prometheus_msg_2">
+		<text>Poznasz moje imię... Wszyscy poznają...</text>
+	</string>
+	<string id="the_living_fire_garbage_actor_msg_3">
+		<text>Co się, do cholery, właśnie stało? Mam co do tego złe przeczucia...</text>
+	</string>
+	<string id="the_living_fire_swamp_actor_msg_1">
+		<text>Kurwa... Spóźniłem się.</text>
+	</string>
+	<string id="the_living_fire_swamp_sakharov_msg_1">
+		<text>Co się tam stało, stalkerze? Nasze odczyty znów wyszły poza skalę! Wygląda na to, że anomalia się rozgałęzia. Musimy to powstrzymać!</text>
+	</string>
+	<string id="the_living_fire_swamp_sakharov_msg_2">
+		<text>Zrobiłeś to! Odczyty wracają do normy. Wracaj do mnie. Musimy porozmawiać.</text>
+	</string>
+	<string id="the_living_fire_yantar_snitch_msg_1">
+		<text>Oi, stalkerze! Wciąż żyjesz? Wciąż czekam na raport z Jantaru.</text>
+	</string>
+	<string id="the_living_fire_yantar_actor_msg_1">
+		<text>Tak... Właśnie miałem do ciebie wracać. Wkrótce się spotkamy.</text>
+	</string>
+	<string id="the_living_fire_dark_valley_actor_msg_1">
+		<text>Zgaduję, że to ci pechowi żołnierze...</text>
+	</string>
+	<string id="the_living_fire_x18_prometheus_msg_1">
+		<text>Jesteś bardzo wytrwały, stalkerze... Bardzo dobrze - podejdź do mnie. Domyślam się, że chcesz pogadać.</text>
+	</string>
+	<string id="the_living_fire_x18_military_msg_1">
+		<text>Oddział 1 i 2 - zabezpieczyć drogę odwrotu. Reszta - przeszukać ostatnie piętro. Strzelajcie jak tylko kogoś zauważycie i nie bierzcie jeńców.</text>
+	</string>
+	<string id="the_living_fire_bar_actor_msg_1">
+		<text>Powinienem odwiedzić Sidorowicza i zapytać go, czy wie coś więcej o Prometeuszu. Jeśli dowie się, w jak głębokim gównie siedzi, prawdopodobnie szybko sobie wszystko przypomni.</text>
+	</string>
+	<string id="the_living_fire_escape_sakharov_msg_1">
+		<text>Stalkerze - musisz natychmiast stawić się w naszym bunkrze! Zauważyliśmy duży wzrost aktywności anomalnej w pobliżu.</text>
+	</string>
+	<string id="the_living_fire_yantar_barman_msg_1">
+		<text>Hej stalkerze. Widziałem Kabla rozmawiającego z podejrzanymi ludźmi - w grę wchodziły duże pieniądze. Słyszałem, że mieliście jakieś zatargi i wiem, że byłeś jego głównym źródłem informacji o Prometeuszu. Lepiej na siebie uważaj...</text>
+	</string>
+	<string id="the_living_fire_x16_prometheus_msg_1">
+		<text>To znowu ty, stalkerze... Naprawdę podziwiam twoje poświęcenie! Domyślam się, że chcesz kontynuować naszą poprzednią rozmowę?</text>
+	</string>
+	<string id="the_living_fire_red_forest_actor_msg_1">
+		<text>Profesorze - udało mi się oczyścić obszar wokół anomalii.</text>
+	</string>
+	<string id="the_living_fire_red_forest_sakharov_msg_1">
+		<text>Dobra robota, chłopcze. Udało mi się przekonać wojskowych o pilności tej sprawy. Zgodzili się pomóc. Będziemy czekać na twój sygnał.</text>
+	</string>
+	<string id="the_living_fire_red_forest_actor_msg_2">
+		<text>Zgaduję, że to byli ludzie, przed którymi ostrzegał mnie Barman. Czas złożyć wizytę Kablowi...</text>
+	</string>
+	<string id="the_living_fire_bar_actor_msg_2">
+		<text>Profesorze - wiem, gdzie Prometeusz zrealizuje swój ostateczny plan. Udam się tam tak szybko, jak to możliwe. Czekajcie na mój sygnał.</text>
+	</string>
+	<string id="the_living_fire_bar_sakharov_msg_1">
+		<text>Świetne wieści, młody człowieku. Życzę powodzenia! Nie zapomnij zabrać ze sobą broni, o której wspomniałeś. Celuj prosto w głowę... Możemy mieć tylko jedną szansę, by go powstrzymać.</text>
+	</string>
+	<string id="the_living_fire_outskirts_actor_msg_1">
+		<text>Profesorze - przekażcie wojskowym, by zajęli pozycje.</text>
+	</string>
+	<string id="the_living_fire_outskirts_prometheus_msg_1">
+		<text>Jesteś tutaj... Będziesz więc świadkiem narodzin nowego porządku świata!.</text>
+	</string>
+	<string id="the_living_fire_outskirts_prometheus_msg_2">
+		<text>Nie możesz już tego powstrzymać... Bracia - pomóżcie mi!</text>
+	</string>
+	<string id="the_living_fire_outskirts_sakharov_msg_1">
+		<text>Żołnierze są na pozycjach. Daj znać jak tylko...</text>
+	</string>
+	<string id="the_living_fire_outskirts_actor_msg_2">
+		<text>Teraz! TERAZ!</text>
+	</string>
+	<string id="the_living_fire_outskirts_prometheus_msg_3">
+		<text>Co? Co... ty! To twoja sprawka!</text>
+	</string>
+	<string id="the_living_fire_outskirts_actor_msg_3">
+		<text>To moja jedyna szansa!</text>
+	</string>
+	<string id="the_living_fire_outskirts_actor_msg_4">
+		<text>To koniec, profesorze. Prometeusz odszedł.</text>
+	</string>
+	<string id="the_living_fire_outskirts_sakharov_msg_2">
+		<text>Świetna robota, młody człowieku! Czekam na ciebie w bunkrze. Mam coś dla ciebie.</text>
+	</string>
+
+	<string id="st_af_tlf_prometheus">
+		<text>Prometeusz</text>
+	</string>
+	<string id="st_af_tlf_prometheus_descr">
+		<text>Unikalny artefakt, który narodził się w anomalii Grecki ogień po zabiciu stalkera z legendy o tej samej nazwie. Daje użytkownikowi ogromną odporność na ciepło i sprawia, że rany goją się szybciej.</text>
+	</string>
+	
+	<!-- The Living Fire end -->
+
+	<string id="nta_intercept_item">
+		<text>Przechwyć przedmiot:</text>
+	</string>
+</string_table>

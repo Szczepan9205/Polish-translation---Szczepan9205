@@ -1,0 +1,12 @@
+<string_table>
+	<string id="st_wpn_mk47">
+		<text>CMMG MK47 MUTANT</text>
+	</string>
+	<string id="st_wpn_mk47_descr">
+		<text>CMMG Mk47 Mutant to amerykañski pó³automatyczny karabin w kalibrze 7,62x39 mm, wyprodukowany przez CMMG Inc. Mo¿e przyjmowaæ wszystkie rodzaje magazynków Ka³asznikowa, w tym stalowe, polimerowe i bêbnowe. W 2015 roku firma CMMG wypuœci³a pierwsze egzemplarze produkcyjne Mk47 do sklepów w ca³ych Stanach Zjednoczonych. Wed³ug kierownika produkcji CMMG, Tysona Bradshawa, wspomnia³ on, ¿e CMMG stworzy³o ten karabin ze wzglêdu na potrzebê „konsumentów posiadania niezawodnego, wyprodukowanego w USA karabinu, który móg³by prawid³owo obs³ugiwaæ wymiary naboju 7,62x39 mm. Aby zrobiæ to prawid³owo, CMMG musia³o zbudowaæ karabin wokó³ kalibru. Zdecydowano siê na u¿ycie magazynków AK, poniewa¿ s¹ one najbardziej niezawodne. Mk47 Mutant posiada powiêkszone suwad³o w rozmiarze AR-10, rêkojeœæ CMMG RKM KeyMod oraz górny/dolny receiver wykonany z aluminium 7075-T6. Karabin ma chwyt pistoletowy oparty na AR-15, selektor bezpieczeñstwa, grupê spustow¹ i rurkê buforow¹. Zosta³ on zaprojektowany pod wp³ywem karabinów szturmowych CMMG Mk3. Mk47 opiera siê na systemie bezpoœredniego wtrysku gazu.
+		\n \n
+		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wiêkszoœæ celowników pasuj¹cych na szyny Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: NATO \n</text>
+	</string>
+</string_table>

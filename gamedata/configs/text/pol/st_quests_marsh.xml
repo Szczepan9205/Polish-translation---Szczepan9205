@@ -59,7 +59,7 @@
 	<!-- Cold (Clear Sky Honcho) Find Artefact Storyline Task -->
 
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_name">
-		<text>ZnajdŸ artefakt "%s" dla Zimnego</text>
+		<text>ZnajdŸ artefakt %s dla Zimnego</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_text">
 		<text>Zimny potrzebuje artefaktu %s.</text>
@@ -68,7 +68,7 @@
 		<text>Stalkerze, chcia³bym ¿ebyœ znalaz³ dla mnie artefakt.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_fetch_about">
-		<text>ZnajdŸ dla mnie artefakt "%s". Potrzebujê go do badañ. Uwa¿am, ¿e mo¿e on posiadaæ w³aœciwoœci, których jeszcze nie odkryliœmy.</text>
+		<text>ZnajdŸ dla mnie artefakt %s. Potrzebujê go do badañ. Uwa¿am, ¿e mo¿e on posiadaæ w³aœciwoœci, które jeszcze nie zosta³y odkryte.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_fetch_finish">
 		<text>Ach, wspaniale, uda³o ci siê go znaleŸæ. Dobrze siê spisa³eœ.</text>
@@ -100,7 +100,7 @@
 		<text>Pozb¹dŸ siê Renegatów z Bagien.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_5_about">
-		<text>A wiêc uda³o ci siê... Dobrze, bo mamy du¿y problem. Renegaci znów zaczêli krêciæ siê po Bagnach. Wygl¹da na to, ¿e nie tylko my postanowiliœmy tu wróciæ, po tych wszystkich wydarzeniach z przesz³oœci. Grupa naszych dzielnych stra¿ników pomo¿e ci pozbyæ siê si³ Renegatów z okolicy. Powodzenia, stalkerze.</text>
+		<text>A wiêc uda³o ci siê tu dotrzeæ... Dobrze, bo mamy du¿y problem. Renegaci znów zaczêli krêciæ siê po Bagnach. Wygl¹da na to, ¿e nie tylko my postanowiliœmy tu wróciæ, po tych wszystkich wydarzeniach z przesz³oœci. Grupa naszych dzielnych stra¿ników pomo¿e ci pozbyæ siê si³ Renegatów z okolicy. Powodzenia, stalkerze.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_5_finish">
 		<text>Ach, nawet nie wiesz, jaka to ulga! Dzielny z ciebie stalker. Masz moje podziêkowania.</text>
@@ -126,13 +126,13 @@
 	<!-- Librarian (Clear Sky Trader) Clear Out Mutant Lair Storyline Task -->
 
 	<string id="drx_sl_mar_base_stalker_barmen_task_1_name">
-		<text>Czyszczenie Gniazda</text>
+		<text>Oczyszczenie legowiska</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_1_text">
-		<text>Bibliotekarz zleci³ ci zniszczenie gniazda mutantów znajduj¹cego siê w okolicy.</text>
+		<text>Bibliotekarz zleci³ ci zniszczenie legowiska mutantów znajduj¹cego siê w okolicy.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_1_about">
-		<text>Niedaleko st¹d znajduje siê gniazdo mutantów. Ruszaj i zajmij siê nimi.</text>
+		<text>Niedaleko st¹d znajduje siê legowisko mutantów. Ruszaj i zajmij siê nimi.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_1_finish">
 		<text>Niez³a robota. To za fatygê.</text>
@@ -145,10 +145,10 @@
 		<text>Zapasy dla Czystego Nieba</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_2_text">
-		<text>Bibliotekarz poprosi³ o przyniesienie: %s.</text>
+		<text>Bibliotekarz poprosi³ o przyniesienie %s.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_2_about">
-		<text>Przyda³a by mi siê twoja pomoc. Zaczynaj¹ nam siê koñczyæ zapasy. Niby do Pogranicza tu rzut beretem, ale i tak trudno o transport z Du¿ej Ziemi.</text>
+		<text>Przyda³a by mi siê twoja pomoc. Zaczynaj¹ nam siê koñczyæ zapasy. Niby do Perymetru jest st¹d rzut beretem, ale i tak trudno o tu o dostawy z Wielkiej Ziemi.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_2_fetch_about">
 		<text>Potrzebujemy %s.</text>
@@ -173,7 +173,7 @@
 		<text>Zimny przyjmie ciê do Czystego Nieba za 15.000 RU.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_about">
-		<text>Tak, obserwowaliœmy ciê... jesteœ wystarczaj¹co ciekawski i ¿¹dny przygód. To dla nas bardzo wa¿ne cechy. Do Czystego Nieba pasujesz, jak ula³.\n \nKa¿dy z nowo przyjêtych musi zap³aciæ piêtnaœcie tysiêcy wpisowego. Nie bój siê, ta kasa nie idzie na g³upoty. Finansujemy z tego nasze badania i zabezpieczenie cz³onków frakcji. To co powiesz?</text>
+		<text>Tak, obserwowaliœmy ciê... Jesteœ wystarczaj¹co ciekawski i ¿¹dny przygód - to dla nas bardzo wa¿ne cechy. Do Czystego Nieba bêdziesz pasowa³, jak ula³.\n \nKa¿dy z nowo przyjêtych musi zap³aciæ piêtnaœcie tysiêcy wpisowego. Nie bój siê, ta kasa nie idzie na g³upoty. Finansujemy z tego nasze badania i zabezpieczenie cz³onków frakcji. To co powiesz?</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_finish">
 		<text>Dobrze. Nie martw siê, Zona skrywa jeszcze mnóstwo tajemnic. Popytaj wœród naszych ludzi, ktoœ na pewno bêdzie mieæ dla ciebie coœ do roboty.</text>
@@ -195,10 +195,10 @@
 		<text>Zimny chce przetrzebiæ trochê szeregi wrogów Czystego Nieba na Bagnach. Zdob¹dŸ dla niego %s.</text>
 	</string>		
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_about">
-		<text>Na pocz¹tku byliœmy prawie wdziêczni wojskowym za pomoc w pozbyciu siê st¹d Bandytów i Renegatów. Niestety, póŸniej okaza³o siê, ¿e za³o¿yli sobie kilka posterunków na pó³nocy, a co gorsza, okaza³o siê, ¿e ich patrole nie s¹ do nas szczególnie przyjaŸnie nastawione. ¯e nie wspomnê ju¿ o tym, jak daremna by³a ich robota - bandyci nic sobie z wojaczki nie robi¹ i dalej napadaj¹ stalkerów i atakuj¹ nasze posterunki. Poka¿ tym po¿al siê, Bo¿e, wojskowym, do czego jesteœmy zdolni.</text>
+		<text>Na pocz¹tku byliœmy prawie wdziêczni wojskowym za pomoc w pozbyciu siê st¹d Bandytów i Renegatów. Niestety, póŸniej okaza³o siê, ¿e za³o¿yli sobie kilka posterunków na pó³nocy, a co gorsza, okaza³o siê, ¿e ich patrole nie s¹ do nas szczególnie przyjaŸnie nastawione. Nie wspomnê ju¿ o tym, jak daremna by³a ich robota - bandyci nic sobie z wojaczki nie robi¹ i dalej napadaj¹ stalkerów i atakuj¹ nasze posterunki. Poka¿ tym po¿al siê, Bo¿e, wojskowym, do czego jesteœmy zdolni.</text>
 	</string>		
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_fetch_about">
-		<text>Na pocz¹tku byliœmy prawie wdziêczni wojskowym za pomoc w pozbyciu siê st¹d Bandytów i Renegatów. Niestety, póŸniej okaza³o siê, ¿e za³o¿yli sobie kilka posterunków na pó³nocy, a co gorsza, okaza³o siê, ¿e ich patrole nie s¹ do nas szczególnie przyjaŸnie nastawione. ¯e nie wspomnê ju¿ o tym, jak daremna by³a ich robota - bandyci nic sobie z wojaczki nie robi¹ i dalej napadaj¹ stalkerów i atakuj¹ nasze posterunki. Poka¿ tym po¿al siê, Bo¿e, wojskowym, do czego jesteœmy zdolni. Przynieœ mi %s jako dowód wykonania zadania.</text>
+		<text>Na pocz¹tku byliœmy prawie wdziêczni wojskowym za pomoc w pozbyciu siê st¹d Bandytów i Renegatów. Niestety, póŸniej okaza³o siê, ¿e za³o¿yli sobie kilka posterunków na pó³nocy, a co gorsza, okaza³o siê, ¿e ich patrole nie s¹ do nas szczególnie przyjaŸnie nastawione. Nie wspomnê ju¿ o tym, jak daremna by³a ich robota - bandyci nic sobie z wojaczki nie robi¹ i dalej napadaj¹ stalkerów i atakuj¹ nasze posterunki. Poka¿ tym po¿al siê, Bo¿e, wojskowym, do czego jesteœmy zdolni. Przynieœ mi %s jako dowód wykonania zadania.</text>
 	</string>	
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_fetch_finish">
 		<text>A oto on, nasz zawodowy zabójca. Myœlê, ¿e te sukinsyny nastêpnym razem dobrze siê zastanowi¹, zanim zdecyduj¹ siê odwiedziæ nasze Bagna. Mam tak¹ nadziejê... A tak w ogóle, oto twoja nagroda.</text>
@@ -210,7 +210,7 @@
 		<text>Bestia z koszmaru</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_text">
-		<text>Zimny chce pozbyæ siê niebezpiecznego mutanta, który panoszy siê niedaleko ukrytej bazy.</text>
+		<text>Zimny chce by wyeliminowaæ niebezpiecznego mutanta, który panoszy siê niedaleko Ukrytej bazy.</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_about">
 		<text>Mutanty rzadko zapuszczaj¹ siê w okolice naszej bazy, jednak jeden z naszych ludzi zameldowa³ ostatnio, ¿e jakaœ bestia zaatakowa³a i wymordowa³a ca³y oddzia³, który obsadza³ wie¿ê wartownicz¹ na pó³nocny zachód st¹d. Szcz¹tki czterech dobrze uzbrojonych i przeszkolonych ludzi zosta³y wala³y siê po ca³ej okolicy. To nie sprawka psów, tego jestem pewien.\n \nWiem, ¿e twardziel z ciebie, wiêc mo¿e móg³byœ zajrzeæ w to miejsce i pozbyæ siê tego koszmarnego skurwysyna, zanim zaatakuje ponownie?</text>
@@ -223,7 +223,7 @@
 	<!-- Cold (Clear Sky Honcho) Defend the pump station Task -->
 
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_title">
-		<text>Ochroñ Stacjê Pomp</text>
+		<text>Obroñ Stacjê Pomp</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_descr">
 		<text>Jeden z naszych patroli schwyta³ bandytów krêc¹cych siê ko³o Stacji Pomp. Obili im trochê mordy, a ci w koñcu przyznali siê do tego, ¿e reszta szykuje siê do ataku. Nie mamy pojêcia, gdzie zaatakuj¹, ale ju¿ pos³a³em w teren swoich ludzi i jestem pewny, ¿e przyda im siê pomoc... która bêdzie wynagrodzona oczywiœcie.</text>
@@ -274,23 +274,23 @@
 		<text>Widzisz, Zarodnik ca³y czas robi co mo¿e, by zapewniæ nam zapasy. Ale nawet po tych wszystkich latach jesteœmy nadal w trudnej sytuacji. Rannych ci¹gle przybywa, a medykamenty powoli siê koñcz¹. Proszê, pomó¿ mi uzupe³niæ zapasy.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_3_fetch_about">
-		<text>Widzisz, Zarodnik ca³y czas robi co mo¿e, by zapewniæ nam zapasy. Ale nawet po tych wszystkich latach jesteœmy nadal w trudnej sytuacji. Rannych ci¹gle przybywa, a medykamenty powoli siê koñcz¹. Proszê, pomó¿ mi uzupe³niæ zapasy. Zdob¹dŸ: %s, proszê.</text>
+		<text>Widzisz, Zarodnik ca³y czas robi co mo¿e, by zapewniæ nam zapasy. Ale nawet po tych wszystkich latach jesteœmy nadal w trudnej sytuacji. Rannych ci¹gle przybywa, a medykamenty powoli siê koñcz¹. Proszê, pomó¿ mi uzupe³niæ zapasy. Zdob¹dŸ proszê %s.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_3_fetch_finish">
 		<text>Dziêkujê za pomoc, teraz wszyscy jesteœmy twoimi d³u¿nikami.</text>
 	</string>
 	
 	<string id="mar_smart_terrain_base_doctor_task_5_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Profesora Ka³añczy</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_5_text">
-		<text>%s jest potrzebny Profesorowi Ka³añczy do wytwarzania medykamentów. Przynieœ mu jeden, jeœli takowy znajdziesz.</text>
+		<text>Profesor Ka³añcza potrzebuje %s do wytwarzania medykamentów. Przynieœ mu jeden, jeœli takowy znajdziesz.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_5_about">
-		<text>Bior¹c pod uwagê to, co zosta³o z naszych zapasów medycznych i to, jak¹ liczb¹ urazów muszê siê dziennie zajmowaæ, zaczynam siê powa¿nie martwiæ, stalkerze. Prêdzej czy póŸniej zabraknie mi banda¿y i apteczek. Chcia³bym, ¿ebyœ znalaz³ mi jeden z tych starych zestawów do produkcji leków. Jestem pewien, ¿e siê przyda.</text>
+		<text>Chcia³bym, abyœ znalaz³ mi jeden z tych starych zestawów do produkcji leków. Nasza praca nie jest bynajmniej bezpieczna. Co chwilê  przychodz¹ do mnie ludzie z poparzeniami, ranami ciêtymi i dziurami po kulach, a nasze zapasy siê kurcz¹. Mo¿esz pomóc?</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_5_fetch_about">
-		<text>%s jest mi absolutnie niezbêdny do dalszej pracy. Powinien zawieraæ jakieœ tabletki i ampu³ki, dziêki którym bêdê w stanie przygotowaæ medykamenty. Zap³acê ci za jeden z takich zestawów, jeœli znajdziesz go w nienaruszonym stanie.</text>
+		<text>Jest. Szukam wszêdzie %s. Powinien zawieraæ tabletki i ampu³ki, których potrzebujê do pracy nad œrodkami medycznymi. Zap³acê ci za jeden z tych zestawów, jeœli przyniesiesz mi jeden który jest kompletny.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_5_fetch_finish">
 		<text>Dobra robota! Jestem twoim d³u¿nikiem.</text>
@@ -317,7 +317,7 @@
 		<text>Zarodnik ma doœæ i chce, ¿ebyœ zestrzeli³ wojskowy œmig³owiec. Jeœli ci siê uda, dostaniesz u niego zni¿kê.</text>
 	</string>
 	<string id="mar_base_owl_stalker_trader_task_2_about">
-		<text>Ten pieprzony œmig³owiec doprowadza mnie do sza³u! Za ka¿dym razem, kiedy lata nad po³udniow¹ stron¹ Bagien muszê wyci¹gaæ stopery, tak napierdala! Dobrze, ¿e nikt ostatnio nie zalaz³ mi za skórê, bo nie wiem, co bym zrobi³ w nerwach przez ten jebany wiertolot. Zestrzel t¹ kupê z³omu to dam ci zni¿kê. Zanim zrobiê komuœ krzywdê.</text>
+		<text>Ten pieprzony œmig³owiec doprowadza mnie do sza³u! Za ka¿dym razem, kiedy lata nad po³udniow¹ stron¹ Bagien muszê wyci¹gaæ stopery, tak napierdala! Dobrze, ¿e nikt ostatnio nie zalaz³ mi za skórê, bo nie wiem, co bym zrobi³ w nerwach przez ten jebany wiertolot. Zestrzel t¹ kupê z³omu to dam ci zni¿kê... Tylko pospiesz siê zanim zrobiê komuœ krzywdê.</text>
 	</string>
 
 	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
@@ -342,7 +342,7 @@
 		<text>W tej okolicy zaobserwowano mutanty. Pozb¹dŸ siê zagro¿enia i zg³oœ to Bibliotekarzowi.</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_1_about">
-		<text>Uwa¿asz siê za dobrego ³owcê? Tak siê sk³ada, ¿e szukam kogoœ, kto uczyni te bagna trochê bezpieczniejszymi poprzez eliminacjê mutantów w miejscach, które czêsto odwiedzaj¹ nasi ludzie. Bierzesz tê robotê?</text>
+		<text>Uwa¿asz siê za dobrego ³owcê? Tak siê sk³ada, ¿e szukam kogoœ, kto uczyni Bagna trochê bezpieczniejszymi poprzez eliminacjê mutantów w miejscach, które czêsto odwiedzaj¹ nasi ludzie. Bierzesz tê robotê?</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_1_finish">
 		<text>Fantastycznie! A to twoje wynagrodzenie. Szepnê ludziom s³ówko, ¿e dziêki tobie znów jest tu bezpiecznie. Dziêkujê, stalkerze.</text>
@@ -381,13 +381,13 @@
 
 	<!-- FIND LEVEL 1 TOOLS FOR NOVIKOV TASK -->
 	<string id="mar_base_stalker_tech_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Nowikowa</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_1_text">
-		<text>%s s¹ potrzebne Nowikowowi do instalacji podstawowych ulepszeñ broni i pancerzy. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Nowikowowi do instalacji podstawowych ulepszeñ broni i kombinezonów potrzebne s¹ nowe %s. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_1_about">
-		<text>W Zonie naprawdê trudno o jakieœ normalne narzêdzia. Gdybym dosta³ w swoje rêce porz¹dny zestaw, to móg³bym przeprowadzaæ modyfikacje w wiêkszej iloœci broni i pancerzy. Jeœli jesteœ zainteresowany pomoc¹, to powiem ci, czego mi potrzeba.</text>
+		<text>W Zonie naprawdê trudno o jakieœ normalne narzêdzia. Gdybym dosta³ w swoje rêce porz¹dny zestaw, to móg³bym przeprowadzaæ modyfikacje w wiêkszej iloœci broni i kombinezonów. Jeœli jesteœ zainteresowany pomoc¹, to powiem ci, czego mi potrzeba.</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_1_fetch_about">
 		<text>Potrzebny mi zestaw narzêdzi podstawowych. Powinien zawieraæ to czego potrzebujê. Jeœli znajdziesz mi jakieœ, to bêdê ci wdziêczny, a nawet zaoferujê jak¹œ zni¿kê.</text>
@@ -397,10 +397,10 @@
 	</string>
 	<!-- FIND LEVEL 2 TOOLS FOR NOVIKOV TASK -->
 	<string id="mar_base_stalker_tech_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Nowikowa</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_2_text">
-		<text>%s s¹ potrzebne Nowikowowi do instalacji zaawansowanych ulepszeñ broni i pancerzy. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Nowikowowi do instalacji zaawansowanych ulepszeñ broni i kombinezonów potrzebne s¹ nowe %s. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_2_about">
 		<text>Przyda³y by mi siê nowe narzêdzia. Te które mi ostatnio przynios³eœ s¹ okej, ale przestaj¹ mi wystarczaæ. Jeœli jesteœ zainteresowany, to powiem ci, czego mi potrzeba.</text>
@@ -413,10 +413,10 @@
 	</string>
 	<!-- FIND LEVEL 3 TOOLS FOR NOVIKOV TASK -->
 	<string id="mar_base_stalker_tech_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Nowikowa</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_3_text">
-		<text>%s s¹ potrzebne Nowikowowi do instalacji precyzyjnych ulepszeñ broni i pancerzy. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Nowikowowi do instalacji precyzyjnych ulepszeñ broni i kombinezonów potrzebne s¹ nowe %s. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_3_about">
 		<text>Przyda³by mi siê nowy zestaw z narzêdziami. Te które ostatnio przynios³eœ dobrze mi s³u¿¹, ale przestaj¹ wystarczaæ. Jeœli jesteœ zainteresowany, to powiem ci czego mi trzeba.</text>

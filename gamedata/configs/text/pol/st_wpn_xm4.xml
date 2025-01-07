@@ -7,7 +7,7 @@
 	</string>
 	<string id="st_wpn_xm4_descr">
 		<text>Karabinek M4 wywodzi siê z rodziny broni palnej, której rodowód siêga wczeœniejszych wersji karabinka M16, opartych na oryginalnym AR-15 wyprodukowanym przez ArmaLite. Jest to krótsza i l¿ejsza wersja karabinu szturmowego M16, dziel¹ca 80% jego czêœci. XM4 strzela amunicj¹ 5,56x45 mm NATO i jest broni¹ gazow¹, ch³odzon¹ powietrzem, zasilan¹ z magazynka, strzelaj¹c¹ selektywnie, z 4-pozycyjn¹ kolb¹ teleskopow¹. Podobnie jak w przypadku wielu karabinków, XM4 jest porêczny i wygodniejszy do przenoszenia ni¿ pe³nowymiarowy karabin. Zosta³ przyjêty przez Dowództwo Operacji Specjalnych Stanów Zjednoczonych (USSOCOM) i jest preferowan¹ broni¹ Si³ Specjalnych Armii USA i Navy SEAL's.\n \n
-		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
+		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] T³umik: ADVANCED ARMAMENT (AAC) M4-2000\n</text>
 	</string>
 	

@@ -7,7 +7,7 @@
 		<text>Odkryj, kto lub co stoi za Monolitem.</text>
 	</string>
 	<string id="sar_perception_2">
-		<text>ZnajdŸ i zbadaj Laboratorium wspomniane w notatkach.</text>
+		<text>ZnajdŸ Laboratorium wspomniane w manuskrypcie i odkryj, co skrywa.</text>
 	</string>
 	<string id="sar_perception_3">
 		<text>U¿yj dekodera, aby otworzyæ drzwi.</text>
@@ -16,15 +16,15 @@
 		<text>Pokonaj stra¿ników pilnuj¹cych pomieszczenia.</text>
 	</string>
 	<string id="sar_perception_5">
-		<text>Przeczytaj dokumenty i znajdŸ kod dostêpu.</text>
+		<text>ZnajdŸ w dokumentach kod do wejœcia.</text>
 	</string>
 	<string id="warlab_kill_crazy_entity_title">
-		<text>Rozpraw siê z nieznan¹ istot¹</text>
+		<text>Rozpraw siê z Nieznan¹ istot¹</text>
 	</string>
 	<string id="warlab_kill_crazy_entity_1">
-		<text>Porozmawiaj z nieznan¹ istot¹</text>
+		<text>Porozmawiaj z Nieznan¹ istot¹.</text>
 	</string>
 	<string id="warlab_kill_crazy_entity_2">
-		<text>Zabij trzy materialne formy istoty z Warlabu by otworzyæ drzwi.</text>
+		<text>Zabij trzy materialne formy Nieznanej istoty z Laboratorium by otworzyæ drzwi.</text>
 	</string>
 </string_table>

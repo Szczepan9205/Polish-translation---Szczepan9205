@@ -30,14 +30,14 @@ function name_and_cond(sec, con, threshold, mode)
 			con = con .. "%"
 		end
 		if is_favorite(sec) then
-			line = "nielubiane " .. part_name .. " (" .. con .. ")"
+			line = "Nielubiane " .. part_name .. " (" .. con .. ")"
 		else
-			line = "ulubione " .. part_name .. " (" .. con .. ")"
+			line = "Ulubione " .. part_name .. " (" .. con .. ")"
 		end
 	elseif mode == 2 then
-		line = "wszystkie nielubiane czêœci o stanie co najmniej " .. threshold .. "%"
+		line = "Wszystkie nielubiane czêœci o stanie co najmniej " .. threshold .. "%"
 	elseif mode == 3 then
-		line = "ulubione czêœci, których brakuje lub których stan wynosi poni¿ej " .. threshold .. "%"
+		line = "Ulubione czêœci, których brakuje lub których stan wynosi poni¿ej " .. threshold .. "%"
 	end
 
 	if all_lower_case then

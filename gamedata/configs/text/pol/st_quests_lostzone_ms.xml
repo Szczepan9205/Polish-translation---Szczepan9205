@@ -72,7 +72,7 @@
 	</string>
 	
 	<string id="lttz_ms_start_dolg_descr">
-		<text>Genera³ Woronin chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stalkerów w barze Sto Radów.</text>
+		<text>Genera³ Woronin chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stalkerów w barze 100 Radów.</text>
 	</string>
 	<string id="lttz_ms_start_dolg_descr_talk">
 		<text>Uzyska³eœ od wys³annika parê przydatnych informacji. Zg³oœ siê do genera³a Woronina.</text>
@@ -92,7 +92,7 @@
 	</string>
 	
 	<string id="lttz_ms_start_stalker_descr">
-		<text>Sidorowicz chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stalkerów w wiosce nowicjuszy.</text>
+		<text>Sidorowicz chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stalkerów w Wiosce kotów.</text>
 	</string>
 	<string id="lttz_ms_start_stalker_descr_talk">
 		<text>Uzyska³eœ od wys³annika parê przydatnych informacji. Zg³oœ siê do Sidorowicza.</text>
@@ -102,7 +102,7 @@
 	</string>
 	
 	<string id="lttz_ms_start_csky_descr">
-		<text>Zimny chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stalkerów w ukrytej bazie.</text>
+		<text>Zimny chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stalkerów w Ukrytej bazie.</text>
 	</string>
 	<string id="lttz_ms_start_csky_descr_talk">
 		<text>Uzyska³eœ od wys³annika parê przydatnych informacji. Zg³oœ siê do Zimnego.</text>
@@ -122,7 +122,7 @@
 	</string>
 	
 	<string id="lttz_ms_start_ecolog_descr">
-		<text>Profesor Sacharow chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stra¿ników w pobli¿u mobilnego laboratorium.</text>
+		<text>Profesor Sacharow chce, ¿ebyœ przes³ucha³ tajemniczego wys³annika, który niepokoi stra¿ników w pobli¿u Mobilnego laboratorium.</text>
 	</string>
 	<string id="lttz_ms_start_ecolog_descr_talk">
 		<text>Uzyska³eœ od wys³annika parê przydatnych informacji. Zg³oœ siê do profesora Sacharowa.</text>
@@ -158,7 +158,7 @@
 		<text>Grzech Œmiertelny: Zbieg</text>
 	</string>
 	<string id="lttz_ms_runaway_descr">
-		<text>Grzesznicy szukali kogoœ w tej okolicy. Mieli sprawdziæ kopalnie na zachodzie. SprawdŸ, dok¹d doprowadzi ciê ten trop.</text>
+		<text>Grzechowcy szukali kogoœ w tej okolicy. Mieli sprawdziæ kopalnie na zachodzie. SprawdŸ, dok¹d doprowadzi ciê ten trop.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -167,7 +167,7 @@
 		<text>Grzech Œmiertelny: Ig³a w stogu siana</text>
 	</string>
 	<string id="lttz_ms_needle_haystack_descr">
-		<text>Ig³a do wykonania zadania potrzebuje swojego dekodera. Odzyskaj go - jest w jednym z autobusów, mniej wiêcej po œrodku Cmentarzyska Pojazdów.\n \nBêd¹c na miejscu, ustaw odbiornik radiowy na czêstotliwoœæ 171 MHz.</text>
+		<text>Ig³a potrzebuje swojego dekodera do wykonania wa¿nego zadania. Odzyskaj go - jest w jednym z autobusów, mniej wiêcej po œrodku Cmentarzyska Pojazdów.\n \nBêd¹c na miejscu, ustaw odbiornik radiowy na czêstotliwoœæ 171 MHz.</text>
 	</string>
 	<string id="lttz_ms_return_stitch_descr">
 		<text>Odnalaz³eœ dekoder. Oddaj go Igle.</text>
@@ -223,13 +223,13 @@
 		<text>Uda³o ci siê pokonaæ wrogów. Zg³oœ siê do Duszmana.</text>
 	</string>
 	<string id="lttz_ms_ambush_stalker_descr">
-		<text>Si³y Grzechu szturmuj¹ wioskê nowicjuszy. Odeprzyj ich atak.</text>
+		<text>Si³y Grzechu szturmuj¹ Wioskê kotów. Odeprzyj ich atak.</text>
 	</string>
 	<string id="lttz_ms_ambush_stalker_done_descr">
 		<text>Uda³o ci siê pokonaæ wrogów. Zg³oœ siê do Sidorowicza.</text>
 	</string>
 	<string id="lttz_ms_ambush_csky_descr">
-		<text>Si³y Grzechu szturmuj¹ wioskê ryback¹. Odeprzyj ich atak.</text>
+		<text>Si³y Grzechu szturmuj¹ Wioskê ryback¹. Odeprzyj ich atak.</text>
 	</string>
 	<string id="lttz_ms_ambush_csky_done_descr">
 		<text>Uda³o ci siê pokonaæ wrogów. Zg³oœ siê do Zimnego.</text>
@@ -241,7 +241,7 @@
 		<text>Uda³o ci siê pokonaæ wrogów. Zg³oœ siê do £ukasza.</text>
 	</string>
 	<string id="lttz_ms_ambush_ecolog_descr">
-		<text>Si³y Grzechu szturmuj¹ mobilne laboratorium. Odeprzyj ich atak.</text>
+		<text>Si³y Grzechu szturmuj¹ Mobilne laboratorium. Odeprzyj ich atak.</text>
 	</string>
 	<string id="lttz_ms_ambush_ecolog_done_descr">
 		<text>Uda³o ci siê pokonaæ wrogów. Zg³oœ siê do profesora Sacharowa.</text>
@@ -275,7 +275,7 @@
 	</string>
 	
 	<string id="lttz_ms_protect_brain_scorcher_descr">
-		<text>Grzech próbuje uruchomiæ ponownie Mózgozwêglacz. Udaj siê na Radar i nie dopuœæ do tego, eliminuj¹c wszystkie si³y wroga.</text>
+		<text>Grzech próbuje uruchomiæ ponownie Mózgozwêglacz. Udaj siê na Radar i wyeliminuj wszystkie wrogie si³y, aby im to uniemo¿liwiæ.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -314,7 +314,7 @@
 		<text>Grzech Œmiertelny: Utracony kontakt</text>
 	</string>
 	<string id="lttz_ms_contact_lost_descr">
-		<text>Oddzia³ zwiadowczy wys³any przez £otrzyka nie powróci³ do bazy. Zbadaj sytuacjê.</text>
+		<text>Oddzia³ zwiadowczy wys³any przez £otrzyka nie wróci³ do bazy. Zbadaj sytuacjê.</text>
 	</string>
 	<string id="lttz_ms_contact_lost_descr2">
 		<text>Uda³o ci siê zdobyæ dane zwiadowców. Wróæ do £otrzyka.</text>
@@ -338,10 +338,10 @@
 		<text>Pozb¹dŸ siê niedobitków Grzechu w Limañsku, by dotrzeæ do Opuszczonego Szpitala.</text>
 	</string>
 	<string id="lttz_ms_hospital_assault_descr2">
-		<text>PrzepêdŸ si³y Grzechu z Opuszczonego Szpitala i odbierz im ten przyczó³ek w drodze do Elektrowni.</text>
+		<text>PrzepêdŸ si³y Grzechu z Opuszczonego Szpitala i odbierz im ten przyczó³ek w drodze do CzEJ.</text>
 	</string>
 	<string id="lttz_ms_hospital_assault_descr3">
-		<text>G³os wewn¹trz twojej g³owy prowadzi ciê do tajemniczego stalkera. Dowiedz siê, co siê z tob¹ dzieje.</text>
+		<text>G³os wewn¹trz twojej g³owy prowadzi ciê do miejsca pobytu tajemniczego stalkera. Dowiedz siê, co siê z tob¹ dzieje.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -350,7 +350,7 @@
 		<text>Grzech Œmiertelny: Serce Zony</text>
 	</string>
 	<string id="lttz_ms_heart_zone_descr">
-		<text>Wyeliminuj patrole Grzechu w drodze do pó³nocnej strony Elektrowni, by zabezpieczyæ sobie powrót.</text>
+		<text>Wyeliminuj patrole Grzechu w drodze do pó³nocnej czêœci CzEJ, by zabezpieczyæ sobie bezpieczny powrót.</text>
 	</string>
 	<string id="lttz_ms_heart_zone_descr2">
 		<text>Udaj siê do z³owieszczego miejsca znanego jako Generatory.</text>
@@ -365,7 +365,7 @@
 		<text>Grzech Œmiertelny: Decyduj¹cy cios</text>
 	</string>
 	<string id="lttz_ms_decisive_blow_descr">
-		<text>Pozosta³e si³y Grzechu gromadz¹ siê w pobli¿u wejœcia do wojskowego laboratorium. Zaatakuj, by odwróciæ ich uwagê od sabotuj¹cego kompleks Strie³oka.</text>
+		<text>Pozosta³e si³y Grzechu gromadz¹ siê w pobli¿u wejœcia do Laboratorium Wojskowego. Zaatakuj, by odwróciæ ich uwagê od sabotuj¹cego kompleks Strie³oka.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -434,19 +434,19 @@
 	</string>
 	
 	<string id="esc_m_trader_task_4_about">
-		<text>Widzisz, stalker, wiem, ¿e ju¿ swoje odbêbni³eœ z tymi psycholami z Grzechu, ale Brodacz mi cykn¹³, ¿e zosta³o paru niedobitków i szwendaj¹ siê po Zatonie.\n \nStalkerzy mu zg³aszaj¹, ¿e chyba buduj¹ sobie jakiœ przyczó³ek w opuszczonych magazynach podstacji, czy coœ. Trochê mi to bruŸdzi w szlakach handlowych i nie bardzo mi taki uk³ad pasuje. Zajmij siê tym i za³atw to raz, a porz¹dnie.</text>
+		<text>Widzisz, stalkerze... Wiem, ¿e ju¿ swoje odbêbni³eœ z tymi psycholami z Grzechu, ale Brodacz mi cykn¹³, ¿e zosta³o paru niedobitków i szwendaj¹ siê po Zatonie.\n \nStalkerzy mu zg³aszaj¹, ¿e chyba buduj¹ sobie jakiœ przyczó³ek w opuszczonych Magazynach podstacji, czy coœ. Trochê mi to bruŸdzi w szlakach handlowych i nie bardzo mi taki uk³ad pasuje. Zajmij siê tym i za³atw to raz, a porz¹dnie.</text>
 	</string>
 	<string id="esc_m_trader_task_4_finish">
-		<text>Pieprzony czo³g. Dobra robota, stalker. Mam nadziejê, ¿e ju¿ nigdy nie us³yszê o tych popaprañcach.</text>
+		<text>Jesteœ jak jednoosobowa armia, co? Dobra robota, stalkerze! Mam nadziejê, ¿e ju¿ nigdy nie us³yszê o tych popaprañcach.</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_task_4_about">
-		<text>Masz spore zas³ugi. Praktycznie w pojedynkê zniszczy³eœ ca³¹ frakcjê fanatyków. Z tym, ¿e nie do koñca... Widzisz, sprawy maj¹ siê tak, ¿e nie wszyscy zginêli.\n \nNasi ludzie z posterunku w Zatonie raportuj¹ podejrzan¹ aktywnoœæ w opuszczonych magazynach podstacji. To zdecydowanie znów Grzech. Wyeliminuj zagro¿enie, zanim po raz kolejny rozpoczn¹ tê swoj¹ krucjatê.</text>
+		<text>Wypracowa³eœ sobie niez³¹ reputacjê praktycznie w pojedynkê eliminuj¹c ca³¹ frakcjê fanatyków! Z tym, ¿e nie do koñca... Widzisz, sprawy maj¹ siê tak, ¿e nie wszyscy zginêli.\n \nNasi ludzie z posterunku w Zatonie raportuj¹ podejrzan¹ aktywnoœæ w opuszczonych Magazynach podstacji. To zdecydowanie znowu Grzech... Wyeliminuj zagro¿enie, zanim po raz kolejny rozpoczn¹ tê swoj¹ krucjatê.</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_task_4_finish">
-		<text>Zawsze mo¿na na tobie polegaæ. Prawdziwy killer z ciebie. Proszê, oto wynagrodzenie.</text>
+		<text>Zawsze mo¿na na tobie polegaæ. Prawdziwy killer z ciebie! Proszê, oto wynagrodzenie.</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
-		<text>Wygl¹da na to, ¿e nie tylko my potrafimy wyrwaæ siê ze szponów œmierci, bracie. Ci Grzesznicy, których wpakowa³eœ do grobów, w³aœnie chyba z nich wy³a¿¹.\n \nLudzie zg³aszaj¹, ¿e widzieli tych szaleñców w Zatonie, w pobli¿u magazynów podstacji. Ja wiem, ¿e to na drugim koñcu Zony, ale zrozum - guza trzeba wyci¹æ, zanim pojawi¹ siê przerzuty, zgodzisz siê? WeŸ paru naszych i spraw tym goœciom prawdziwe ciemne wieki, niech znikn¹ raz na zawsze.</text>
+		<text>Wygl¹da na to, ¿e nie tylko my potrafimy wyrwaæ siê ze szponów œmierci, bracie. Grzechowcy, których niedawno wpakowa³eœ do grobów, w³aœnie chyba z nich wy³a¿¹.\n \nLudzie zg³aszaj¹, ¿e widzieli tych szaleñców w Zatonie, w pobli¿u Magazynów podstacji. Ja wiem, ¿e to na drugim koñcu Zony, ale zrozum - guza trzeba wyci¹æ, zanim pojawi¹ siê przerzuty, zgadza siê? WeŸ paru naszych i spraw tym goœciom prawdziwe ciemne wieki, niech znikn¹ raz na zawsze.</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">
 		<text>Piêkna robota. Myœlê, ¿e nasz grafik udzia³u w wojnach zamknêliœmy na parê najbli¿szych lat do przodu. A Ty?</text>

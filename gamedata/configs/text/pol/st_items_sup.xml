@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+	<string id="st_addon_scope_sup_new">
+		<text>Specjalny zestaw ulepszeń S.U.P.(Special Upgrade Pack)</text>
+	</string>
+	<string id="st_addon_scope_sup_new_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • Różne narzędzia, części i lunety do modernizacji szerokiej gamy broni\n
+		</text>
+	</string>
+</string_table>

@@ -7,16 +7,15 @@
 <string_table>
 
 	<string id="st_wpn_ace52">
-		<text>IWI ACE 52</text>
+		<text>Galil ACE-52</text>
 	</string>
 	<string id="st_wpn_ace52_descr">
-		<text>
-		Wariant 7,62x51 serii karabinów opracowanych przez IWI (Israel Weapon Industries). Choæ bazuj¹ one na dawnych IMI Galilach, nowe warianty ACE cechuj¹ siê lepsz¹ ergonomi¹ i celnoœci¹ dziêki po³¹czeniu stali z polimerem, a nie zastosowaniu obrabianego maszynowo pocisku z litej stali.\n \n
+		<text>Zbudowany z myœl¹ o potrzebach wspó³czesnego pola bitwy, ACE-52 jest wygodnym wyborem dla armii i agentów poszukuj¹cych zaawansowanego karabinu. Okrzykniêty najlepsz¹ broni¹ szturmow¹, zosta³ sprawdzony w najbardziej niesprzyjaj¹cych i ekstremalnych warunkach. Choæ bazuje na dawnych karabinach IMI Galil, zaawansowane mechanizmy konstrukcyjne i wydajnoœciowe przekszta³ci³y ACE-52 w bardziej niezawodn¹ i wysoce celn¹ broñ bojow¹.\n \n
 		%c[0,255,255,255]PASUJ¥CE AKCESORIA: \n
 		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki i kolimatory, które pasuj¹ na szynê monta¿ow¹ Picatinny\n \n
 		%c[0,255,255,255]INFORMACJE DODATKOWE:\n
 		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Izrael\n
-		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Israel Weapon Industries\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_2]Israel Weapon Industries\n
 		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2008\n
 		</text>
 	</string>

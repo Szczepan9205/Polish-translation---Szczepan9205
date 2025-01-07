@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
+<!--
+	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
+-->
+
 <string_table>
 
 <!--
-	ITEMS
+ITEMS
 -->
 
 	<string id="st_prt_i_ammo">
@@ -91,6 +95,7 @@
 	</string>
 	<string id="st_prt_i_wood_descr">
 		<text>Fragmenty szorstkiego, lekkiego drewna cedrowego. Najczęściej stosowane do użytku zewnętrznego - cedr wykorzystywany jest do produkcji mebli, podłóg i narzędzi. Choć w Zonie nie jest zbyt przydany, może posłużyć do tworzenia przedmiotów.\n \n
+		%c[d_orange] Może być użyty do wytworzenia wielu przedmiotów\n \n
 		</text>
 	</string>
 	
@@ -99,6 +104,7 @@
 	</string>
 	<string id="st_prt_i_scrap_descr">
 		<text>Fragmenty metalowego złomu i pojedyncze elementy ekwipunku. Znajdziesz tu różnorakie stopy stali i aluminium, których można użyć do tymczasowych, polowych napraw wyposażenia, a nawet do stworzenia czegoś nowego.\n \n
+		%c[d_orange] Może być użyty do wytworzenia wielu przedmiotów\n \n
 		</text>
 	</string>
 	
@@ -107,6 +113,7 @@
 	</string>
 	<string id="st_prt_i_fasteners_descr">
 		<text>Śrubki, podkładki, nakrętki, gwoździe i niewielkie metalowe płytki, wszystkich możliwych typów i rozmiarów. Można ich użyć do tymczasowych, polowych napraw wyposażenia, a nawet do stworzenia czegoś nowego.\n \n
+		%c[d_orange] Może być użyty do wytworzenia wielu przedmiotów\n \n
 		</text>
 	</string>
 	
@@ -138,7 +145,9 @@
 	<string id="st_prt_i_leather_descr">
 		<text>[brak opisu]</text>
 	</string>
-
+	
+	
+	
 	<string id="st_prt_i_rubber">
 		<text>Guma</text>
 	</string>
@@ -175,9 +184,11 @@
 		%c[d_cyan] • %c[ui_gray_2] Materiał podstawowy\n
 		</text>
 	</string>
+	
+
 
 <!--
-	WEAPONS (rifles)
+WEAPONS (rifles)
 -->
 
 <!-- Barrels-->
@@ -372,7 +383,6 @@
 
 
 <!-- Trigger Mechanisms -->
-
 	<string id="st_trigger_components_1">
 		<text>Spust kurkowy z jednym trybem ognia</text>
 	</string>
@@ -425,7 +435,6 @@
 
 
 <!-- Breech Blocks -->
-
 	<string id="st_bolt_carrier_1">
 		<text>Mechanizm ryglowy z obrotem zamka [typ rosyjski]</text>
 	</string>
@@ -795,7 +804,6 @@
 
 
 <!-- Gas Tubes, etc. -->
-
 	<string id="st_gas_tube_1">
 		<text>Rurka gazowa [K]</text>
 	</string>
@@ -963,11 +971,10 @@
 
 
 <!--
-	WEAPONS (pistols)
+WEAPONS (pistols)
 -->
 
 <!-- Barrels -->
-
 	<string id="st_prt_w_p_barrel_1">
 		<text>Lufa 9x18 mm</text>
 	</string>
@@ -1018,7 +1025,6 @@
 	</string>
 
 <!-- Trigger Mechanism -->
-
 	<string id="st_prt_w_p_trigger_1">
 		<text>Mechanizm spustowy z jednym trybem ognia</text>
 	</string>
@@ -1049,7 +1055,6 @@
 	
 	
 <!-- Recoil Spring Assemblys -->
-
 	<string id="st_prt_w_p_spring_1">
 		<text>Sprężyna powrotna kal. 9 mm [sowiecka]</text>
 	</string>
@@ -1093,11 +1098,10 @@
 	</string>
 	
 <!--
-	OUTFITS
+OUTFITS
 -->
 
 <!-- Fabrics and Hardware -->
-
 	<string id="st_prt_o_fabrics_1">
 		<text>Arkusze tkaniny</text>
 	</string>
@@ -1131,7 +1135,6 @@
 	</string>
 	
 <!-- Retardants / Protective Textiles -->
-
 	<string id="st_prt_o_retardant_1">
 		<text>Warstwowe tkaniny ogniotrwałe</text>
 	</string>
@@ -1293,7 +1296,6 @@
 	</string>
 	
 <!-- Ballistic Inserts -->
-
 	<string id="st_prt_o_ballistic_1">
 		<text>Wkładki kevlarowe K129 ze wzmocnioną ceramiką</text>
 	</string>
@@ -1455,7 +1457,6 @@
 	</string>
 
 <!-- Supportive Installations -->
-
 	<string id="st_prt_o_support_1">
 		<text>Rama egzoszkieletu</text>
 	</string>
@@ -1463,5 +1464,6 @@
 		<text>Mechaniczna rama napędzana za pomocą silników elektrycznych, pneumatyki i hydrauliki. Daje użytkownikowi doskonałą ochronę i zwiększa jego siłę fizyczną.\n \n
 		</text>
 	</string>
+	
 
 </string_table>

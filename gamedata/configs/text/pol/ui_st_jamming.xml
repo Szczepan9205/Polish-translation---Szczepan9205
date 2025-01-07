@@ -5,10 +5,6 @@
 <!--
 	JAMMING
 -->
-	
-	<string id="encyclopedia_addons">
-		<text>Dodatkowe</text>
-	</string>
 	<string id="kb_unjam">
 		<text>Odblokuj zaciêt¹ broñ</text>
 	</string>
@@ -298,6 +294,9 @@
 	<string id="st_damage_5">
 		<text>funkcjonalny/funkcjonalna</text>
 	</string>
+	<string id="st_jam">
+		<text>Prawdopodobieñstwo zaciêcia</text>
+	</string>
 
 	<string id="st_wpo_replace_parts">
 		<text>Konserwacja czêœci</text>
@@ -347,7 +346,7 @@
 		<text>czok/d³awik</text>
 	</string>
 	<string id="st_name_all">
-		<text>Wszystkie czêœci</text>
+		<text>wszystkie czêœci</text>
 	</string>
 	<string id="st_name_issues">
 		<text>STAN CZÊŒCI:</text>

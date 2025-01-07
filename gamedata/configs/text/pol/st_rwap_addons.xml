@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+	Weapons Attachments
+-->
+<string_table>
+  <string id="st_addon_scope_exps3">
+    <text>EOTech EXPS3</text>
+  </string>
+  <string id="st_addon_scope_exps3_descr">
+    <text>Holograficzny celownik optyczny klasy operatorskiej przeznaczony do walki w zwarciu z szybko poruszającymi się celami.</text>
+  </string>
+  <string id="st_addon_scope_he510">
+    <text>Holosun HE510C</text>
+  </string>
+  <string id="st_addon_scope_he510_descr">
+    <text>HE510C to wszechstronna optyka z otwartym refleksem przeznaczona do broni długiej. HE510C doskonale sprawdza się na karabinkach, PCC i strzelbach dzięki swojej wytrzymałej konstrukcji. HE510C ma aluminiową obudowę z tytanową osłoną dla dodatkowej odporności na wstrząsy i zawiera szynę QD Absolute Co-Witness (wysokość kropki 1,41").
+		</text>
+  </string>
+  <string id="st_addon_scope_bravo4">
+    <text>SIG Sauer BRAVO4</text>
+  </string>
+  <string id="st_addon_scope_bravo4_descr">
+    <text>Pierwszy na świecie celownik o szerokim polu widzenia. Radykalnie nowy projekt dla profesjonalnych i cywilnych strzelców MSR / AR, BRAVO4 zapewnia wiodące w branży pole widzenia o 42% szersze niż obecne celowniki bojowe.</text>
+  </string>
+  <string id="st_addon_scope_hamr">
+    <text>Leupold Mark 4 HAMR</text>
+  </string>
+  <string id="st_addon_scope_hamr_descr">
+    <text>Nowa Celownik Mark 4 High Accuracy Multi-Range Riflescope (HAMR) to celownik, który jest równie niszczycielsko skuteczny, co solidnie wykonany. Kompaktowy i gotowy do walki, HAMR został zaprojektowany do precyzyjnego strzelania na średnim dystansie i szybkiego namierzania celu w jasnym świetle dziennym, przy słabym oświetleniu i w nocy.</text>
+  </string>
+  <string id="st_addon_scope_razorhd">
+    <text>Vortex Optics Razor HD Gen II</text>
+  </string>
+  <string id="st_addon_scope_razorhd_descr">
+    <text>Ten celownik to najwyższej klasy rozwiązanie optyczne do zastosowań na krótkich i średnich dystansach. Optycznie zapewnia wysoki poziom przejrzystości, rozdzielczości, dokładności kolorów, transmisji światła i ostrości od krawędzi do krawędzi. Wyjątkowo wytrzymała muszla oczna z dużym odstępem od oka generuje obraz przypominający wyświetlacz heads-up, umożliwiając szybkie przejścia i optymalne monitorowanie otaczającego środowiska. Prawdziwa, jasna w świetle dziennym, podświetlana centralna kropka zapewnia użytkownikom najwyższą wszechstronność w bliskich odległościach. </text>
+  </string>
+</string_table>

@@ -33,7 +33,7 @@
 		<text>Œmia³o, rozejrzyj siê.</text>
 	</string>
 	<string id="st_mechanic_dialog_init">
-		<text>Mój sprzêt wymaga pewnych poprawek. %c[d_orange][Napraw/Ulepsz]</text>
+		<text>Mój sprzêt wymaga pewnych poprawek. %c[d_orange][Samouczek]</text>
 	</string>
 	<string id="st_mechanic_dialog_reply_1">
 		<text>Jasne, poka¿, co tam masz... Oczywiœcie, p³acisz z góry.</text>
@@ -733,10 +733,10 @@
 		<text>Bunkier naukowców w Jantarze.</text>
 	</string>
 	<string id="ka_travel_dialog_cordon">
-		<text>Wioska Kotów w Kordonie.</text>
+		<text>Wioska kotów w Kordonie.</text>
 	</string>
 	<string id="ka_travel_dialog_bar">
-		<text>Bar Sto Radów w Rostoku.</text>
+		<text>Bar 100 Radów w Rostoku.</text>
 	</string>
 	<string id="ka_travel_dialog_warehouses">
 		<text>Baza Wolnoœci w Magazynach Wojskowych.</text>

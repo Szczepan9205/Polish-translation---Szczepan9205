@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <!--
-	A mmunition
+	Ammunition
 -->
 
 <string_table>
-	
+
 	<string id="ammo_12.7x55_ap">
 		<text>Naboje 12.7x55 mm SC-130 WPS</text>
 	</string>
@@ -17,7 +17,7 @@
 	<string id="ammo_12.7x55_ap_s">
 		<text>12.7x55 AP</text>
 	</string>
-	
+
 	<string id="ammo-11.43x23-fmj">
 		<text>Naboje .45 ACP FMJ</text>
 	</string>
@@ -29,7 +29,7 @@
 	<string id="ammo-11.43x23-fmj_s">
 		<text>.45 ACP FMJ</text>
 	</string>
-	
+
 	<string id="ammo-11.43x23-hydro">
 		<text>Naboje .45 ACP Hydra-shock HP</text>
 	</string>
@@ -41,7 +41,7 @@
 	<string id="ammo-11.43x23-hydro_s">
 		<text>.45 ACP AP</text>
 	</string>
-	
+
 	<string id="ammo-12.7x55-fmj">
 		<text>Naboje 12.7x55 mm SC-130</text>
 	</string>
@@ -53,7 +53,7 @@
 	<string id="ammo-12.7x55-fmj_s">
 		<text>12.7x55 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-12x70-buck">
 		<text>Naboje śrutowe 12x70</text>
 	</string>
@@ -61,12 +61,12 @@
 		<text>Standardowe naboje kalibru 12 wypełnione śrutem o średnicy 8 milimetrów. Wysoce śmiercionośne na krótkim dystansie. Przystosowane wyłącznie do broni gładkolufowej.
 		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]brak (3 x 9)
 		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]200 (22.2 x 9)
-		\n \n%c[ui_gray_1]CECHA SPECJALNA:\n \n%c[ui_gray_2] • %c[ui_gray_2] rozszerzająca się chmura śrutu, krótki zasięg działania</text>
+		\n \n%c[ui_gray_1]CECHA SPECJALNA:\n \n%c[ui_gray_2] • %c[ui_gray_2] rozszerzająca się chmura śrutu, krótki zasięg efektywny</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
 		<text>Śrut 12x70</text>
 	</string>
-	
+
 	<string id="ammo-12x76-dart">
 		<text>Naboje strzałkowe 12x76 AP</text>
 	</string>
@@ -78,7 +78,7 @@
 	<string id="ammo-12x76-dart_s">
 		<text>Strzałkowe 12x76 AP</text>
 	</string>
-	
+
 	<string id="ammo-12x76-bull">
 		<text>Naboje 12x76 Bull</text>
 	</string>
@@ -90,7 +90,7 @@
 	<string id="ammo-12x76-bull_s">
 		<text>Bull 12x76</text>
 	</string>
-	
+
 	<string id="ammo-12x76-zhekan">
 		<text>Naboje 12x76 kulowe</text>
 	</string>
@@ -102,7 +102,7 @@
 	<string id="ammo-12x76-zhekan_s">
 		<text>Kulowe 12x76</text>
 	</string>
-	
+
 	<string id="ammo-338-lapua">
 		<text>Naboje .338 Lapua Magnum</text>
 	</string>
@@ -114,7 +114,7 @@
 	<string id="ammo-338-lapua_s">
 		<text>.338 Lapua Magnum</text>
 	</string>
-	
+
 	<string id="ammo-357-hp">
 		<text>Naboje .357 HP</text>
 	</string>
@@ -126,7 +126,7 @@
 	<string id="ammo-357-hp_s">
 		<text>.357 HP</text>
 	</string>
-	
+
 	<string id="ammo-5.45x39-ap">
 		<text>Naboje 5.45x39 mm AP</text>
 	</string>
@@ -138,7 +138,7 @@
 	<string id="ammo-5.45x39-ap_s">
 		<text>Naboje 5.45x39 AP</text>
 	</string>
-	
+
 	<string id="ammo-5.45x39-ep">
 		<text>5.45x39 mm HP</text>
 	</string>
@@ -150,7 +150,7 @@
 	<string id="ammo-5.45x39-ep_s">
 		<text>5.45x39 HP</text>
 	</string>
-	
+
 	<string id="ammo-5.45x39-fmj">
 		<text>Naboje 5.45x39 mm FMJ</text>
 	</string>
@@ -162,7 +162,7 @@
 	<string id="ammo-5.45x39-fmj_s">
 		<text>5.45x39 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-5.56x45-ap">
 		<text>Naboje 5.56x45 mm AP</text>
 	</string>
@@ -174,7 +174,7 @@
 	<string id="ammo-5.56x45-ap_s">
 		<text>5.56x45 AP</text>
 	</string>
-	
+
 	<string id="ammo-5.56x45-ss190">
 		<text>Naboje 5.56x45 mm HP</text>
 	</string>
@@ -186,7 +186,7 @@
 	<string id="ammo-5.56x45-ss190_s">
 		<text>5.56x45 HP</text>
 	</string>
-	
+
 	<string id="ammo-5.56x45-fmj">
 		<text>Naboje 5.56x45 mm FMJ</text>
 	</string>
@@ -198,19 +198,19 @@
 	<string id="ammo-5.56x45-fmj_s">
 		<text>5.56x45 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-5.7x28-ss190">
 		<text>Naboje 5.7x28 SS190</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_descr">
 		<text>FN 5.7 x 28 mm to amunicja wysokiej prędkości opracowana i produkowana przez FN Herstal. Pod pewnymi względami podobna jest do pocisków .22 Hornet i .22 K-Hornet. Naboje 5.7 x 28 mm stworzono w połączeniu z bronią przeznaczoną do ochrony osobistej (PDW) FN P90 i pistoletem FN Five-seveN jako odpowiedź na wymagania NATO dotyczące wymiany amunicji 9 x 19 mm Parabellum.
-		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]BR4 (38)
+		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]BR4 (40)
 		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]23</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_s">
 		<text>5.7x28 AP</text>
 	</string>
-	
+
 	<string id="ammo-4.6x30-fmj">
 		<text>Naboje 4.6x30 mm FMJ</text>
 	</string>
@@ -228,19 +228,19 @@
 	<string id="ammo-4.6x30-fmj_verybad">
 		<text>Naboje 4.6x30 mm FMJ (uszkodzone)</text>
 	</string>
-	
+
 	<string id="ammo-5.7x28-ss195">
 		<text>Naboje 5.7x28 mm SS195</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_descr">
 		<text>Naboje SS195 FN 5.7 x2 8 mm to droga amunicja opracowana i produkowana przez FN Herstal. Pod pewnymi względami podobna jest do pocisków .22 Hornet i .22 K-Hornet.
-		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]BR2 (22)
+		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]BR2 (25)
 		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]23</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_s">
 		<text>5.7x28 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-50-bmg">
 		<text>Naboje .50 BMG</text>
 	</string>
@@ -259,7 +259,7 @@
 	<string id="ammo-50-bmg_verybad">
 		<text>Naboje .50 BMG (uszkodzone)</text>
 	</string>
-	
+
 	<string id="ammo-7.62x25-p">
 		<text>Naboje 7.62x25 mm LRNPC</text>
 	</string>
@@ -283,31 +283,31 @@
 	<string id="ammo-7.62x25-ps_s">
 		<text>7.62x25 Pst</text>
 	</string>
-	
+
 	<string id="ammo-7.62x39_ap">
 		<text>Naboje 7.62x39 mm M43</text>
 	</string>
 	<string id="ammo-7.62x39_ap_descr">
 		<text>7,62 x 39 mm M43 jest nabojem przeciwpancernym produkcji chińskiej, dlatego często oznacza się go jako 7,62 x 39 mm CN. Cechuje się zaokrąglonym stalowym rdzeniem zwiększającym zdolność penetracyjną pocisku. Tego chińskiego naboju (a także wszystkich rodzajów M43) nie można importować do Stanów Zjednoczonych, ponieważ amerykańskie prawo federalne klasyfikuje go jako przeciwpancerny nabój pistoletowy. Klasyfikacja ta opiera się bardziej na budowie pocisku i użytych materiałach niż empirycznie potwierdzonej zdolności przebijania pancerzy.
 		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]BR5 (55)
-		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]40</text>
+		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]45</text>
 	</string>
 	<string id="ammo-7.62x39_ap_s">
 		<text>7.62x39 AP</text>
 	</string>
-	
+
 	<string id="ammo-7.62x39_fmj">
 		<text>Naboje 7.62x39 mm FMJ</text>
 	</string>
 	<string id="ammo-7.62x39_fmj_descr">
 		<text>Pełnopłaszczowy nabój 7,62 x 39 mm jest jednym z najpowszechniej stosowanych typów amunicji, szczególnie w Afryce i na Bliskim Wschodzie. Niektórzy nazywają go "nabojem rewolucji", ponieważ jest chętnie używany przez terrorystów i organizacje przestępcze. Ze względu na moc tej amunicji większość organizacji wojskowych zdecydowało się na używanie dodatkowych metalowych płyt ochronnych, ponieważ w warunkach bojowych zachodzi wysokie prawdopodobieństwo, że wróg będzie korzystał z tego pocisku.
 		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]BR3 (30)
-		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]40</text>
+		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]45</text>
 	</string>
 	<string id="ammo-7.62x39_fmj_s">
 		<text>7.62x39 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-7.62x51_ap">
 		<text>Naboje 7.62x51 mm NATO AP</text>
 	</string>
@@ -319,7 +319,7 @@
 	<string id="ammo-7.62x51_ap_s">
 		<text>7.62x51 AP</text>
 	</string>
-	
+
 	<string id="ammo-7.62x51_fmj">
 		<text>Naboje 7.62x51 mm NATO</text>
 	</string>
@@ -331,7 +331,7 @@
 	<string id="ammo-7.62x51_fmj_s">
 		<text>7.62x51 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-7.62x54_7n14">
 		<text>Naboje 7.62x54 mm 7N14</text>
 	</string>
@@ -343,7 +343,7 @@
 	<string id="ammo-7.62x54_7n14_s">
 		<text>7.62x54 7N14</text>
 	</string>
-	
+
 	<string id="ammo-7.62x54-7n1">
 		<text>Naboje 7.62x54 mm 7N1</text>
 	</string>
@@ -355,7 +355,7 @@
 	<string id="ammo-7.62x54-7n1_s">
 		<text>7.62x54 7N1</text>
 	</string>
-	
+
 	<string id="ammo-7.62x54-ap">
 		<text>Naboje 7.62x54 mm AP</text>
 	</string>
@@ -367,19 +367,19 @@
 	<string id="ammo-7.62x54-ap_s">
 		<text>7.62x54 AP</text>
 	</string>
-	
+
 	<string id="ammo-7.62x54-r">
 		<text>Naboje 7.62x54 mm PP</text>
 	</string>
 	<string id="ammo-7.62x54-r_descr">
 		<text>Tani nabój 7,62 PP (znany także jako 7,62 mmR) to leciwy kaliber, który został przyjęty do uzbrojenia Imperium Rosyjskiego pod koniec XIX wieku, zaś w ZSRR pozostawał w użyciu jeszcze po II Wojnie Światowej. Pierwotnie zaprojektowany do zasilania karabinów Mosin-Nagant - przepisowej broni rosyjskiej i radzieckiej piechoty - obecnie jest często spotykany w Zonie ze względu na sporą popularność samego karabinu.\n \nNabój jest stosunkowo tani, odznaczając się jednocześnie zaskakująco dobrą zdolnością penetracyjną, nawet w porównaniu z nowoczesnymi typami amunicji. Może być również stosowany jako tańszy zamiennik do zasilania uniwersalnego karabinu maszynowego PKM.
 		\n%c[ui_gray_2] • %c[ui_gray_2] Siła przebicia pancerza (AP): %c[ui_gray_1]BR3 (37)
-		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]62</text>
+		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]52</text>
 	</string>
 	<string id="ammo-7.62x54-r_s">
 		<text>7.62x54 PP</text>
 	</string>
-	
+
 	<string id="ammo-7.92x33_ap">
 		<text>Naboje 7.92x57 mm AP</text>
 	</string>
@@ -391,7 +391,7 @@
 	<string id="ammo-7.92x33_ap_s">
 		<text>7.92x57 AP</text>
 	</string>
-	
+
 	<string id="ammo-7.92x33_fmj">
 		<text>Naboje 7.92x57 mm FMJ</text>
 	</string>
@@ -403,7 +403,7 @@
 	<string id="ammo-7.92x33_fmj_s">
 		<text>7.92x57 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-9x18-ap">
 		<text>Naboje 9x18 AP</text>
 	</string>
@@ -415,7 +415,7 @@
 	<string id="ammo-9x18-ap_s">
 		<text>9x18 AP</text>
 	</string>
-	
+
 	<string id="ammo-9x18-fmj">
 		<text>Naboje 9x18 mm FMJ</text>
 	</string>
@@ -427,7 +427,7 @@
 	<string id="ammo-9x18-fmj_s">
 		<text>9x18 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-9x18-pmm">
 		<text>Naboje 9x18 mm HP</text>
 	</string>
@@ -439,7 +439,7 @@
 	<string id="ammo-9x18-pmm_s">
 		<text>9x18 HP</text>
 	</string>
-	
+
 	<string id="ammo-9x19-ap">
 		<text>Naboje 9x19 mm AP</text>
 	</string>
@@ -451,7 +451,7 @@
 	<string id="ammo-9x19-ap_s">
 		<text>9x19 AP</text>
 	</string>
-	
+
 	<string id="ammo-9x19-fmj">
 		<text>Naboje 9x19 mm FMJ</text>
 	</string>
@@ -463,7 +463,7 @@
 	<string id="ammo-9x19-fmj_s">
 		<text>9x19 FMJ</text>
 	</string>
-	
+
 	<string id="ammo-9x19-pbp">
 		<text>Naboje 9x19 mm HP</text>
 	</string>
@@ -475,7 +475,7 @@
 	<string id="ammo-9x19-pbp_s">
 		<text>9x19 HP</text>
 	</string>
-	
+
 	<string id="ammo-9x39-ap">
 		<text>Naboje 9x39 mm SP-6</text>
 	</string>
@@ -501,7 +501,7 @@
 	<string id="ammo-9x39-pab9_s">
 		<text>9x39 SP-5</text>
 	</string>
-	
+
 	<string id="ammo-gauss">
 		<text>Ogniwa</text>
 	</string>
@@ -511,7 +511,7 @@
 		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]NIEZAREJESTROWANE
 		\n \n%c[ui_gray_1]SPECIAL:\n \n%c[ui_gray_2] • %c[ui_gray_2] przedmiot technologiczny\n%c[ui_gray_2] • %c[ui_gray_2] prototyp</text>
 	</string>
-	
+
 	<string id="ammo-gauss_cardan">
 		<text>Ogniwa domowej roboty</text>
 	</string>
@@ -521,7 +521,7 @@
 		\n%c[ui_gray_2] • %c[ui_gray_2] Nominalne obrażenia postrzałowe (DMG): %c[ui_gray_1]NIEZAREJESTROWANE
 		\n \n%c[ui_gray_1]SPECIAL:\n \n%c[ui_gray_2] • %c[ui_gray_2] przedmiot technologiczny\n%c[ui_gray_2] • %c[ui_gray_2] prototyp</text>
 	</string>
-	
+
 	<string id="ammo-m209">
 		<text>Pocisk granatnikowy M203</text>
 	</string>
@@ -536,7 +536,7 @@
 	<string id="ammo-m209_s">
 		<text>M203</text>
 	</string>
-	
+
 	<string id="ammo-og-7b">
 		<text>Głowica OG-7W</text>
 	</string>
@@ -549,9 +549,9 @@
 		\n%c[ui_gray_2] • %c[ui_gray_2] Opóźnienie wybuchu: %c[ui_gray_1]brak - eksploduje przy uderzeniu</text>
 	</string>
 	<string id="ammo-og-7b_s">
-		<text>OG-7V</text>
+		<text>OG-7W</text>
 	</string>
-	
+
 	<string id="ammo-vog-25">
 		<text>Pocisk granatnikowy WOG-25</text>
 	</string>
@@ -566,7 +566,7 @@
 	<string id="ammo-vog-25_s">
 		<text>WOG-25</text>
 	</string>
-	
+
 		<!-- Bad ammo Addon-->
 	<string id="ammo-11.43x23-fmj_bad">
 		<text>Naboje .45 ACP (stare)</text>
@@ -815,7 +815,7 @@
 		<text>Naboje 12.7x55 mm SC-130 WPS (uszkodzone)</text>
 	</string>
 	<!-- Bad ammo Addon-->
-	
+
 	<string id="ammo-12x70-buck_self">
 		<text>Naboje śrutowe 12x70 ręcznej roboty</text>
 	</string>
@@ -832,14 +832,14 @@
 	<string id="ammo_flw_descr">
 		<text>Wytopiony tłuszcz zwierzęcy, olej napędowy i fragmenty stopionej gumy. Po podpaleniu staje się śmiercionośną, oblepiającą wszystko substancją podobną do napalmu.</text>
 	</string>
-	
+
 	<string id="ammo_23x75_shrapnel">
 		<text>"Szrapnel-25" 23x75 mm</text>
 	</string>
 	<string id="ammo_23x75_shrapnel_descr">
 		<text>Loftka ze śrutem. Zakres zastosowania do 25 metrów. Służy do strzelania z KS-23. Ze względu na to, że lufa posiada gwint w tym karabinku, śrut pokonuje duży dystans, co pozwala strzelać z ręki, praktycznie bez celowania.\n</text>
 	</string>
-	
+
 	<string id="ammo_23x75_barrikada">
 		<text>"Barykada" 23x75 mm</text>
 	</string>

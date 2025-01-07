@@ -52,7 +52,7 @@
 		<text>S³ysza³em, ¿e interesuj¹ ciê naszywki frakcyjne.</text>
 	</string>
 	<string id="talk_to_aslan_about_lottery_1">
-		<text>I tak, i nie. Osobiœcie, ani mnie one ziêbi¹, ani grzej¹. Za to bardzo potrzebuj¹ ich ch³opaki na pierwszej linii - im wiêcej naszywek po przeciwnikach, tym wiêksze morale, tym wiêcej maj¹ energii. Wiesz, tutaj chuja siê dzieje, wiêc ch³opcy z nudów marniej¹ w oczach. Dostan¹ parê takich znaczków i ju¿ im lepiej, bo wiedz¹, ¿e nasi gdzieœ w Zonie znowu dali komuœ wycisk. Klienci na górze te¿ nie gardz¹ takimi pierdo³ami - dla nich to dowód, ¿e nie siedzimy tu i nie pierdzimy w sto³ki, tylko ¿e faktycznie coœ robimy. Ca³y biznes dzia³a w ten sposób, ¿e przynosisz mi naszywki stalkerów i w zamian dostajesz szpej, albo nic. To loteria, nie zawsze siê wygrywa.\n \nZa piêtnaœcie ³atek dowolnej frakcji masz szansê na zdobycie pojemników z artefaktami, œrodków medycznych, narzêdzi lub artefaktów. Za trzydzieœci ³atek bêdziesz mieæ szansê na zdobycie nagród tego samego rodzaju, ale ulepszonych, tym razem bêdziesz móg³ równie¿ wygraæ wysokiej klasy broñ i kombinezon. Aha, i jeszcze jedna uwaga - ³atki od silniejszych, lepiej wyposa¿onych frakcji oznaczaj¹ lepsze nagrody, na przyk³ad naszywki Powinnoœci bêd¹ warte wiêcej ni¿ te od Bandytów.\n \nMo¿esz mnie zapytaæ: "Z czego wynika taka hojnoœæ i rozrzutnoœæ?" A no z tego, ¿e kupa ludzi woli naszywki zatrzymywaæ sobie jako trofea - to tyle... Ka¿dy szczêœciu dopomo¿e, ka¿dy dzisiaj wygraæ mo¿e!</text>
+		<text>I tak, i nie. Osobiœcie, ani mnie one ziêbi¹, ani grzej¹. Za to bardzo potrzebuj¹ ich ch³opaki na pierwszej linii - im wiêcej naszywek po przeciwnikach, tym wiêksze morale, tym wiêcej maj¹ energii. Wiesz, tutaj chuja siê dzieje, wiêc ch³opcy z nudów marniej¹ w oczach. Dostan¹ parê takich znaczków i ju¿ im lepiej, bo wiedz¹, ¿e nasi gdzieœ w Zonie znowu dali komuœ wycisk. Klienci na górze te¿ nie gardz¹ takimi pierdo³ami - dla nich to dowód, ¿e nie siedzimy tu i nie pierdzimy w sto³ki, tylko ¿e faktycznie coœ robimy. Ca³y biznes dzia³a w ten sposób, ¿e przynosisz mi naszywki stalkerów i w zamian dostajesz szpej, albo nic. To loteria, nie zawsze siê wygrywa.\n \nZa piêtnaœcie ³atek dowolnej frakcji masz szansê na zdobycie pojemników z artefaktami, œrodków medycznych, narzêdzi lub artefaktów. Za trzydzieœci ³atek bêdziesz mieæ szansê na zdobycie nagród tego samego rodzaju, ale ulepszonych, tym razem bêdziesz móg³ równie¿ wygraæ wysokiej klasy broñ i kombinezon. Aha, i jeszcze jedna uwaga - ³atki od silniejszych, lepiej wyposa¿onych frakcji oznaczaj¹ lepsze nagrody, na przyk³ad naszywki Powinnoœci bêd¹ warte wiêcej ni¿ te od Bandytów.\n \nMo¿esz mnie zapytaæ: "Z czego wynika taka hojnoœæ i rozrzutnoœæ?" A no z tego, ¿e kupa ludzi woli naszywki zatrzymywaæ sobie jako trofea, zw³aszcza te, którymi warto siê pochwaliæ. Ka¿dy szczêœciu dopomo¿e, ka¿dy dzisiaj wygraæ mo¿e!</text>
 	</string>
 	<string id="talk_to_aslan_about_lottery_2">
 		<text>A co z tob¹? Co robisz z nimi póŸniej?</text>
@@ -278,7 +278,7 @@
 	</string>
 
 	<string id="information_about_stash_aslan1_0">
-		<text>Trzymaj. %c[d_orange][6.500 RU]</text>
+		<text>Masz jakieœ p³atne lokalizacje schowków? %c[d_orange][6.500 RU]</text>
 	</string>
 	<string id="information_about_stash_aslan1_1">
 		<text>Œwietnie. Mi³ego szukania.</text>

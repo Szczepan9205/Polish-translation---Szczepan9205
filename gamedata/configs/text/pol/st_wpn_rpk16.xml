@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_wpn_rpk16">
+		<text>RPK-16</text>
+	</string>
+	<string id="st_wpn_rpk16_descr">
+		<text>Lekki karabin maszynowy RPK-16 jest odpowiedzią na program „Tokar-2”, w którym konkurował z projektem Diegtiariewa. W 2018 r. Ministerstwo Obrony Federacji Rosyjskiej podpisało kontrakt na zakup RPK-16 i oczekuje się, że przejmie on rolę RPK-74 w rosyjskich siłach zbrojnych. RPK-16 ma komorę nabojową na nabój kalibru 5,45x39 mm i jest wyposażony w tradycyjny, gazowy system tłokowy Kałasznikowa o długim skoku, a także posiada kilka nowatorskich rozwiązań technicznych i ergonomicznych zaczerpniętych z programu AK-12. Takie jak szyna Picatinny na górze odbiornika do montażu różnych celowników optycznych i na dole osłony rękojeści do montażu odłączanego dwójnogu montowanego na szynie Picatinny zamiast stałego dwójnogu RPK-74, ergonomiczny chwyt pistoletowy i składana kolba oraz dwie główne długości lufy. Długa lufa 550 mm (21,7 cala) (gdy jest stosowana lub skonfigurowana do roli lekkiego karabinu maszynowego) i krótka lufa 370 mm (14,6 cala) (gdy jest stosowana lub skonfigurowana do roli karabinu szturmowego). Konstrukcja karabinu umożliwia zastosowanie wymiennych luf, które można łatwo zdemontować, a także szybkie zamontowanie odłączanego tłumika dźwięku. Jego masa bojowa wynosi 6 kg (13,23 funta), długość pełna 1076 mm (42,4 cala), szybkostrzelność cykliczna 700 pocisków na minutę, a zasięg celności 800 m (870 jardów). Używa głównie 95-nabojowego magazynka bębnowego i jest wstecznie kompatybilny z magazynkami pudełkowymi z AK-74, AK-12 i RPK-74.</text>
+	</string>
+	
+</string_table>

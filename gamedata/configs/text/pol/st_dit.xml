@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="dit_no_consume_ctrl">
+		<text>%sAby zapobiec niezamierzonemu zużyciu narzędzi,\nprocedurę można wykonać tylko wtedy, gdy wciśnięty jest lewy klawisz Shift%s</text>
+	</string>
+</string_table>

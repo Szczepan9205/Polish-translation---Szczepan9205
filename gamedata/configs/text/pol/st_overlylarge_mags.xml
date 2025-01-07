@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	Strings for "Dead Air Knives"
+-->
+
+
+<string_table>
+	<string id="st_mag_overlylarge_95_545_drum">
+		<text>95 nabojowy magazynek do RPK-16 5.45x39 mm</text>
+	</string>
+	<string id="st_mag_overlylarge_95_545_drum_descr">
+		<text>95-nabojowy polimerowy magazynek produkcji Iżmasz na amunicję 5,45x39 mm.</text>
+	</string>
+	
+	<string id="st_mag_overlylarge_95_556_drum">
+		<text>95 nabojowy magazynek do RPK-16 RPK-16 5.56x45 mm</text>
+	</string>
+	<string id="st_mag_overlylarge_95_556_drum_descr">
+		<text>95-nabojowy polimerowy magazynek produkcji Iżmasz na amunicję 5.56x45 mm.</text>
+	</string>
+	
+	<string id="st_mag_overlylarge_75_762x39_drum">
+		<text>75 nabojowy magazynek bębnowy do AK 7.62x39 mm</text>
+	</string>
+	<string id="st_mag_overlylarge_75_762x39_drum_descr">
+		<text>75 nabojowy metalowy magazynek bębnowy do AK kalibru 7.62x39 mm</text>
+	</string>
+	
+	<string id="st_mag_overlylarge_50_762x51_drum">
+		<text>50 nabojowy magazynek do SA58 7.62x51 mm</text>
+	</string>
+	<string id="st_mag_overlylarge_50_762x51_drum_descr">
+		<text>50 nabojowy magazynek bębnowy do SA58 7.62x51 mm</text>
+	</string>
+	
+	<string id="st_mag_overlylarge_50_762x51_drum2">
+		<text>Zmodyfikowany 50 nabojowy magazynek do SA58 7.62x51 mm</text>
+	</string>
+	<string id="st_mag_overlylarge_50_762x51_drum2_descr">
+		<text>Zmodyfikowany 50 nabojowy magazynek 7.62x51 mm zmodyfikowany do karabinów SCAR.</text>
+	</string>
+		
+	<string id="st_mag_overlylarge_sks_75_762x39_drum">
+		<text>75 nabojowy magazynek bębnowy do SKS 7.62x39 mm</text>
+	</string>
+	<string id="st_mag_overlylarge_sks_75_762x39_drum_descr">
+		<text>75-nabojowy magazynek z niebieskiej stali, przeznaczony do użytku z karabinkami SKS, które akceptują magazynki zewnętrzne.</text>
+	</string>
+		
+	<string id="st_mag_overlylarge_sks_75_762x39_drum2">
+		<text>75 nabojowy magazynek do SKS 7.62x54 mm</text>
+	</string>
+	<string id="st_mag_overlylarge_sks_75_762x39_drum2_descr">
+		<text>75-nabojowy magazynek przerobiony pod amunicję kalibru 7.62x54 mm z niebieskiej stali przeznaczony do użytku z karabinkami SKS, które akceptują zewnętrzne magazynki.</text>
+	</string>
+	
+	<string id="st_mag_overlylarge_100_556x45_drum">
+		<text>100-nabojowy magazynek 5.56x45 mm STANAG</text>
+	</string>
+	<string id="st_mag_overlylarge_100_556x45_drum_descr">
+		<text>100-nabojowy metalowy magazynek o dużej pojemności na amunicję 5.56x45 mm.</text>
+	</string>
+	
+	<string id="st_mag_overlylarge_100_556x45_drum2">
+		<text>Zmodyfikowany 100-nabojowy magazynek 5.56x45 mm STANAG</text>
+	</string>
+	<string id="st_mag_overlylarge_100_556x45_drum2_descr">
+		<text>100-nabojowy metalowy magazynek o dużej pojemności na amunicję 5.56x45 mm, zmodyfikowany tak, aby pasował do karabinów AUG.</text>
+	</string>
+	
+	
+
+</string_table>

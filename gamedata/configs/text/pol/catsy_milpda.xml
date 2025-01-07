@@ -1,0 +1,691 @@
+<!--
+    Milspec PDA
+    Author: Catspaw (CatspawMods @ ModDB)
+    Source: https://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma
+    Version: 1.10
+    Updated: 20240329
+    Contents: Official Polish string definitions by Szczepan9205
+
+    Permission granted to freely translate into any language.
+-->
+
+<string_table>
+    <string id="st_pda_mil_name">
+        <text>Milspec PDA</text>
+    </string>
+    <string id="st_pda_mil_descr">
+        <text>Kieszonkowe urz¹dzenie elektroniczne obejmuj¹ce podstawowe i najwa¿niejsze funkcje komputera. PDA jest niezbêdny do codziennej wymiany informacji. Jest dostarczany z fabrycznie zainstalowanym modu³em GPS, aby zapewniæ u¿ytkownikowi informacje o geolokalizacji i czasie.\n \nTen wyrafinowany model zosta³ zaprojektowany przez nieznany podmiot do u¿ytku przez tajnych operatorów wojskowych lub organizacje pozarz¹dowe i zawiera modu³ kryptograficzny umo¿liwiaj¹cy u¿ytkownikowi infiltracjê wielu bezpiecznych prywatnych sieci w Zonie, ujawniaj¹c przybli¿on¹ lokalizacjê oddzia³ów wroga dzia³aj¹cych w okolicy.\n \n
+        %c[ui_gray_3]W£AŒCIWOŒCI:\n
+        %c[d_blue] • %c[ui_gray_2] przedmiot technologiczny\n
+        %c[d_blue] • %c[ui_gray_2] wysokie zu¿ycie energii elektrycznej\n
+        %c[d_purple] • %c[ui_gray_2] pokazuje lokalizacjê wszystkich pobliskich oddzia³ów\n
+        </text>
+    </string>
+    <string id="ui_mcm_menu_milpda">
+        <text>Milspec PDA</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_uninstall">
+        <text>Odinstaluj Milspec PDA</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_uninstall_desc">
+        <text>Zaznaczenie tej opcji spowoduje usuniêcie wszystkich kopii Milspec PDA z ekwipunku gracza.</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_add_recipe">
+        <text>Dodaj przepis na wytworzenie</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_add_recipe_desc">
+        <text>Jeœli opcja ta zostanie w³¹czona, dodany zostanie przepis na wytwarzanie Milspec PDA. Mo¿e byæ konieczne zapisanie i ponowne wczytanie gry, aby odnios³o to skutek.</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_enabled">
+        <text>W³¹cz niestandardow¹ czarn¹ listê dla poni¿szych frakcji</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_army">
+        <text>Nie pokazuj wojskowych stalkerów</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_bandit">
+        <text>Nie pokazuj bandytów</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_csky">
+        <text>Nie pokazuj stalkerów Czystego Nieba</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_dolg">
+        <text>Nie pokazuj stalkerów Powinnoœci</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_ecolog">
+        <text>Nie pokazuj stalkerów Naukowców</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_freedom">
+        <text>Nie pokazuj stalkerów Wolnoœci</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_killer">
+        <text>Nie pokazuj Najemników</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_monolith">
+        <text>Nie pokazuj stalkerów Monolitu</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_zombied">
+        <text>Nie pokazuj zombifikowanych stalkerów</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_greh">
+        <text>Nie pokazuj stalkerów Grzechu</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_isg">
+        <text>Nie pokazuj stalkerów UNISG</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_renegade">
+        <text>Nie pokazuj Renegatów</text>
+    </string>
+    <string id="ui_mcm_milpda_facblacklist_stalker">
+        <text>Nie pokazuj Samotników</text>
+    </string>
+    <string id="ui_mcm_menu_milpdagen">
+        <text>Ustawienia</text>
+    </string>
+    <string id="ui_mcm_menu_facblacklist">
+        <text>Czarna lista</text>
+    </string>
+    <string id="ui_mcm_menu_cfg_device_pda_1">
+        <text>PDA 1.0</text>
+    </string>
+    <string id="ui_mcm_menu_cfg_device_pda_2">
+        <text>PDA 2.0</text>
+    </string>
+    <string id="ui_mcm_menu_cfg_device_pda_3">
+        <text>PDA 3.1</text>
+    </string>
+    <string id="ui_mcm_menu_cfg_device_pda_milspec">
+        <text>Milspec PDA </text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_kiltrak">
+        <text>W³¹cz KilTrak</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_kiltrak_desc">
+        <text>W³¹czenie obs³ugi funkcji œledzenia zabójstw, pierwotnie opartej na dodatku Kill Tracker by Ishmaeel.</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_getkiltrak">
+        <text>Pobierz Ishmaeel's Kill Tracker st¹d:\n\nhttps://www.moddb.com/mods/stalker-anomaly/addons/kiltrak</text>
+    </string>
+    <string id="ui_mcm_milpda_cfg_device_pda_1_enabled">
+        <text>Dostosuj widocznoœæ mapspotów dla PDA 1.0</text>
+    </string>
+    <string id="ui_mcm_milpda_cfg_device_pda_2_enabled">
+        <text>Dostosuj widocznoœæ mapspotów dla PDA 2.0</text>
+    </string>
+    <string id="ui_mcm_milpda_cfg_device_pda_3_enabled">
+        <text>Dostosuj widocznoœæ mapspotów dla PDA 3.1</text>
+    </string>
+    <string id="ui_mcm_milpda_cfg_device_pda_milspec_enabled">
+        <text>Dostosuj widocznoœæ mapspotów dla Milspec PDA</text>
+    </string>
+
+    <string id="ui_mcm_milpda_show_f">
+        <text>Pokazuj miejsca na mapie dla przyjaznych stalkerów</text>
+    </string>
+    <string id="ui_mcm_milpda_show_n">
+        <text>Pokazuj miejsca na mapie dla neutralnych stalkerów</text>
+    </string>
+    <string id="ui_mcm_milpda_show_e">
+        <text>Pokazuj miejsca na mapie dla wrogich stalkerów</text>
+    </string>
+    <string id="ui_mcm_milpda_show_k">
+        <text>Pokazuj miejsca na mapie dla zw³ok</text>
+    </string>
+    <string id="ui_mcm_milpda_obeybl">
+        <text>U¿yj czarnej listy frakcji</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_debuglogs">
+        <text>W³¹cz rejestrowanie debugowania</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_debuglogs_desc">
+        <text>Jeœli jest w³¹czona, skrypt bêdzie spamowa³ konsolê ha³aœliwymi dowodami tego, co robi. Zwykle powinno to byæ wy³¹czone. Ale jeœli zg³aszasz mi problem, prawdopodobnie bêdê potrzebowa³, abyœ odtworzy³ problem z w³¹czonym rejestrowaniem debugowania.</text>
+    </string>
+<!-- Added in 1.4 -->
+    <string id="st_kiltrak_bodyof">
+        <text>cia³o</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_bodyicon">
+        <text>Styl ikon dla zabójstw twoich (lub twojego oddzia³u)</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_whtx">
+        <text>Bia³y X</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_skul">
+        <text>Du¿a czaszka</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_sdot">
+        <text>Ma³a niebieska kropka</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_mdot">
+        <text>Œrednia niebieska kropka</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_ldot">
+        <text>Du¿a niebieska kropka</text>
+    </string>
+<!-- Added in 1.5 -->
+    <string id="st_kiltrak_unidbody">
+        <text>niezidentyfikowane cia³o</text>
+    </string>
+    <string id="st_milpda_delete_marker">
+        <text>Usuñ znacznik œmierci</text>
+    </string>
+<!-- Added in 1.6 -->
+    <string id="st_kiltrak_killedby">
+        <text>zabity przez</text>
+    </string>
+<!-- Added in 1.7 -->
+    <string id="ui_mcm_milpda_milpdagen_autoclear">
+        <text>Automatyczne czyszczenie cia³ podczas interakcji</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_autoclear_desc">
+        <text>Po w³¹czeniu Kill Tracker automatycznie wyczyœci znaczniki cia³, gdy je obrobisz lub w inny sposób wejdziesz z nimi w interakcjê. Wy³¹czenie tej opcji spowoduje, ¿e znaczniki cia³ pozostan¹ na mapie, dopóki nie usuniesz ich rêcznie lub cia³o nie zniknie.</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_tracking_mode">
+        <text>Kill Tracker mode</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_tracking_mode_desc">
+        <text>Ustawia tryb dzia³ania Kill Tracker'a dla martwych stalkerów.\n
+        --------------------------------------------------\n
+        Wy³.: funkcja Kill Tracker jest wy³¹czona\n
+		Gracz: Œledzenie zabójstw wyœwietli tylko twoje zabójstwa\n
+		Oddzia³ gracza: Kill Tracker wyœwietli równie¿ zabójstwa towarzyszy\n
+		Wszystkie: Martwe cia³a bêd¹ wyœwietlane niezale¿nie od tego, kto lub co je zabi³o. Zabójstwa nie dokonane przez gracza lub jego oddzia³ bêd¹ zawsze wyœwietlane jako niebieskie kropki.</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_trkmode_all">
+        <text>Wszystkie</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_trkmode_you">
+        <text>Gracz</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_trkmode_cmp">
+        <text>Oddzia³ gracza</text>
+    </string>
+    <string id="ui_mcm_lst_milpda_trkmode_off">
+        <text>Wy³.</text>
+    </string>
+    <string id="ui_mcm_milpda_milpdagen_getpaw">
+        <text>Pobierz Personal Adjustable Waypoint st¹d:\n\nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
+    </string>
+
+<!-- Added in 1.7.4 -->
+
+    <string id="ui_mcm_milpda_milpdagen_bodyicon_other">
+        <text>Styl ikon dla zabójstw dokonanych przez innych</text>
+    </string>
+
+    <string id="ui_mcm_lst_milpda_upaw">
+        <text>U¿ywaj ikon PAW</text>
+    </string>
+
+    <string id="st_kiltrak_deadbody">
+        <text>Zw³oki</text>
+    </string>
+
+    <string id="st_milpda_thezone">
+        <text>Zona</text>
+    </string>
+
+<!-- Added in 1.7.5 -->
+
+
+    <string id ="ui_mcm_milpda_milpdagen_wipe_all">
+        <text>Wyczyœæ wszystkie dane znaczników cia³</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_milpdagen_wipe_all_desc">
+        <text>Usuwa wszystkie znaczniki cia³ z mapy i czyœci bazê danych Kill Trackera. Nie mo¿na tego cofn¹æ.</text>
+    </string>
+
+<!-- Added in 1.8 -->
+    <string id="ui_mcm_menu_progressive">
+        <text>Progresja</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_enabled">
+        <text>Progresywna widocznoœæ oddzia³u (zalecane)</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_enabled_desc">
+        <text>Jeœli opcja ta jest w³¹czona, gracz musi odblokowaæ widocznoœæ mapspotów dla ka¿dej frakcji osobno, grabi¹c PDA z ich zw³ok i uzyskuj¹c dostêp do ich sieci. Domyœlnie urz¹dzenia PDA od stalkerów o wy¿szej randze zapewniaj¹ wiêkszy postêp w odblokowywaniu dostêpu.\n\nObs³ugiwane urz¹dzenie PDA, które mo¿e wyœwietlaæ przyjazne, neutralne lub wrogie punkty na mapie (odpowiednio), nadal jest wymagane.</text>
+    </string>
+
+    <string id="ui_mcm_prog_comm_descr">
+        <text>W tym menu mo¿na dostosowaæ iloœæ danych PDA, które musz¹ zostaæ zebrane w celu odblokowania widocznoœci mapspotu oddzia³u dla ka¿dej frakcji, wraz z postêpem uzyskanym za grabie¿ PDA NPC ka¿dej rangi.</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_army">
+        <text>Wojskowy</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_bandit">
+        <text>Bandyta</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_csky">
+        <text>Czystoniebowiec</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_dolg">
+        <text>Powinnoœciowiec</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_ecolog">
+        <text>Naukowiec</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_freedom">
+        <text>Wolnoœciowiec</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_killer">
+        <text>Najemnik</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_monolith">
+        <text>Monolitowiec</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_greh">
+        <text>Grzechowiec</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_isg">
+        <text>UNISG</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_renegade">
+        <text>Renegat</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_stalker">
+        <text>Samotnik</text>
+    </string>
+
+    <string id="ui_mcm_prog_rank_descr">
+        <text>Postêp zale¿y od rangi stalkera, który porzuci³ PDA:</text>
+    </string>
+
+    <string id="ui_mcm_milpda_progressive_novice">
+        <text>Nowicjusz</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_trainee">
+        <text>Kot</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_experienced">
+        <text>Doœwiadczony</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_professional">
+        <text>Profesjonalista</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_veteran">
+        <text>Weteran</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_expert">
+        <text>Ekspert</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_master">
+        <text>Mistrz</text>
+    </string>
+    <string id="ui_mcm_milpda_progressive_legend">
+        <text>Legenda</text>
+    </string>
+
+    <string id="st_mapspot_access_prog">
+        <text>Z danymi z PDA tego stalkera: %s, poczyni³eœ postêpy w kierunku uzyskania dostêpu do danych GPS %s. £¹czny progres: %.2f%% (%s/%s)</text>
+    </string>
+
+    <string id="st_mapspot_access_unlock">
+        <text>Dane z PDA tego stalkera: %s da³y ci prze³omowe informacje, których potrzebowa³eœ, aby z³amaæ sieæ jego frakcji. Masz teraz dostêp do danych GPS, które pozwalaj¹ zobaczyæ lokalizacje oddzia³ów %s podczas korzystania z dowolnego obs³ugiwanego urz¹dzenia PDA.</text>
+    </string>
+
+<!-- Added in 1.8.1 -->
+
+    <string id="st_mapspot_access_lost">
+        <text>Frakcja %s musia³a zmieniæ swoje kody dostêpu do sieci, poniewa¿ utraci³eœ mo¿liwoœæ zobaczenia ich oddzia³ów na mapie. Bêdziesz musia³ znaleŸæ nowe PDA %s, aby odzyskaæ dostêp do ich danych GPS.</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_access_resets">
+        <text>Dostêp do sieci jest tymczasowy</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_access_resets_desc">
+        <text>Jeœli opcja ta jest w³¹czona, zhakowanie sieci innej frakcji w ten sposób jest tylko tymczasowe - po pewnym czasie odkryj¹ oni w³amanie i zmieni¹ swoje kody dostêpu, zmuszaj¹c ciê do ponownego odzyskania dostêpu w ten sam sposób. Najlepiej po³¹czyæ to z niskimi wartoœciami odblokowania, tworz¹c regularn¹ pêtlê rozgrywki.</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_only_enemy_resets">
+        <text>Tylko wrogie frakcje resetuj¹ dostêp</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_only_enemy_resets_desc">
+        <text>Jeœli ta opcja jest w³¹czona, neutralne frakcje nie wyrzuc¹ ciê ze swojej sieci po uzyskaniu dostêpu, ale wrogie frakcje nadal to zrobi¹. \n\nJeœli opcja jest wy³¹czona, wszystkie frakcje, które nie s¹ frakcjami gracza, równie¿ ostatecznie cofn¹ dostêp. To ustawienie nie ma wp³ywu, jeœli neutralne frakcje nie wymagaj¹ odblokowania.</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_access_time">
+        <text>Czas trwania dostêpu do sieci</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_access_unit">
+        <text>Jednostka czasu u¿ywana do okreœlenia czasu dostêpu</text>
+    </string>
+
+    <string id="ui_mcm_lst_timeunit_day">
+        <text>dzieñ</text>
+    </string>
+    <string id="ui_mcm_lst_timeunit_days">
+        <text>dni</text>
+    </string>
+    <string id="ui_mcm_lst_timeunit_hour">
+        <text>godzina</text>
+    </string>
+    <string id="ui_mcm_lst_timeunit_hours">
+        <text>godzin</text>
+    </string>
+    <string id="ui_mcm_lst_timeunit_minute">
+        <text>minuta</text>
+    </string>
+    <string id="ui_mcm_lst_timeunit_minutes">
+        <text>minut</text>
+    </string>
+    <string id="ui_mcm_lst_timeunit_second">
+        <text>sekunda</text>
+    </string>
+    <string id="ui_mcm_lst_timeunit_seconds">
+        <text>sekund</text>
+    </string>
+
+<!-- Added in 1.9.5 -->
+
+    <string id ="ui_mcm_milpda_milpdagen_show_monsters">
+        <text>Pokazuj na mapie tak¿e cia³a mutantów</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_milpdagen_show_monsters_desc">
+        <text>Po w³¹czeniu, Kill Tracker poka¿e równie¿ na mapie cia³a mutantów.</text>
+    </string>
+
+
+<!-- Added in 1.10 -->
+
+    <string id ="ui_mcm_milpda_progressive_only_enemy_unlock">
+        <text>Tylko wrogie frakcje wymagaj¹ odblokowania</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_only_enemy_unlock_desc">
+        <text>Jeœli opcja ta jest w³¹czona, neutralne frakcje s¹ wykluczone z progresji i przestrzegaj¹ ustawieñ widocznoœci urz¹dzenia bez koniecznoœci ich wczeœniejszego odblokowania.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_autotag">
+        <text>W³¹cz automatyczne œledzenie celu (wymagany PAW)</text>
+    </string>
+
+    <string id="ui_mcm_milpda_autotag_desc">
+        <text>Jeœli jest w³¹czone, gracz mo¿e korzystaæ z funkcji automatycznego oznaczania z PAW, która automatycznie oznacza cele pod celownikiem za pomoc¹ inteligentnej pinezki po ich zidentyfikowaniu.</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_gain_mode">
+        <text>Uzyskiwanie postêpów dziêki zrabowanym PDA:</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_progressive_gain_mode_desc">
+        <text>\n
+        Po zrabowaniu: gracz uzyskuje postêpy po zrabowaniu nowego PDA po raz pierwszy. Jeœli jest zaszyfrowane, nale¿y je najpierw odszyfrowaæ. Po wykonaniu tej czynnoœci gracz uzyska postêp za nastêpnym razem, gdy je podniesie lub wyjmie z dowolnego pojemnika.\n
+        --------------------------------------------------\n
+        Po odczytaniu: gracz uzyskuje postêp tylko wtedy, gdy nowe PDA zostanie przejrzane po raz pierwszy. Jeœli jest zablokowane, musi zostaæ odblokowane/odszyfrowane, zanim gracz bêdzie móg³ uzyskaæ dziêki niemu jakiekolwiek korzyœci.\n
+        --------------------------------------------------\n
+        Po rozmontowaniu: gracz musi rozmontowaæ PDA, aby uzyskaæ z niego postêp. Ten tryb nie wymaga odszyfrowania PDA.
+        </text>
+    </string>
+
+    <string id ="ui_mcm_lst_milpda_gain_on_pickup">
+        <text>Gdy spl¹drowane</text>
+    </string>
+
+    <string id ="ui_mcm_lst_milpda_gain_on_read">
+        <text>Gdy przejrzane</text>
+    </string>
+
+    <string id ="ui_mcm_lst_milpda_gain_on_scrap">
+        <text>Gdy zostanie rozmontowane</text>
+    </string>
+
+    <string id="ui_mcm_milpda_milpdagen_verbose">
+        <text>Szczegó³owe dzienniki debugowania</text>
+    </string>
+
+    <string id="ui_mcm_milpda_milpdagen_verbose_desc">
+        <text>Jeœli ta opcja jest w³¹czona, rejestrowanie debugowania skryptu bêdzie spamowaæ konsolê jeszcze bardziej szczegó³owymi informacjami o wszystkim, co robi. Nie ma to ¿adnego wp³ywu, jeœli rejestrowanie debugowania nie jest w³¹czone, ale w³¹cz je, jeœli zg³aszasz problem.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_progressive_must_decrypt">
+        <text>Trzeba odszyfrowaæ PDA, aby uzyskaæ postêp</text>
+    </string>
+
+    <string id="ui_mcm_milpda_progressive_must_decrypt_desc">
+        <text>Jeœli ta opcja jest w³¹czona, gracz nie mo¿e uzyskiwaæ postêpów z zaszyfrowanych urz¹dzeñ PDA, zarówno poprzez ich grabie¿, jak i odczytywanie. Urz¹dzenie musi zostaæ najpierw odszyfrowane.</text>
+    </string>
+
+<!-- Added in 1.11 -->
+
+    <string id="ui_mcm_milpda_progmult">
+        <text>Mno¿nik przyrostu postêpów</text>
+    </string>
+
+    <string id="ui_mcm_milpda_progmult_desc">
+        <text>Wszelkie dane postêpu zdobyte przez gracza, gdy to PDA jest wyposa¿one, zostan¹ pomno¿one przez tê liczbê. Ustawienie na zero skutecznie wy³¹czy zdobywanie postêpów dla tego typu PDA.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_milpdagen_victim_text_mode">
+        <text>Identyfikacja ofiary przez podpowiedŸ na mapie</text>
+    </string>
+
+    <string id="ui_mcm_milpda_milpdagen_victim_text_mode_desc">
+        <text>Po w³¹czeniu tej opcji to¿samoœæ zw³ok bêdzie wyœwietlana na mapie w formie podpowiedzi.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_milpdagen_killer_text_mode">
+        <text>Identyfikacja zabójcy w formie podpowiedzi na mapie</text>
+    </string>
+
+    <string id="ui_mcm_milpda_milpdagen_killer_text_mode_desc">
+        <text>Po w³¹czeniu tej opcji, to¿samoœæ zabójcy znalezionego stalkera bêdzie wyœwietlana na mapie w formie podpowiedzi.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_progressive_noblacklist">
+        <text>Frakcje znajduj¹ce siê na czarnej liœcie nie uzyskuj¹ postêpów</text>
+    </string>
+
+    <string id="ui_mcm_milpda_progressive_noblacklist_desc">
+        <text>Gdy zarówno to ustawienie, jak i czarna lista frakcji s¹ w³¹czone, frakcje znajduj¹ce siê na czarnej liœcie nie mog¹ w ogóle uzyskiwaæ danych ani postêpów.</text>
+    </string>
+
+    <string id="st_mapspot_access_unlock_nopda">
+        <text>Dane z PDA tego stalkera : %s, da³y ci informacje, których potrzebowa³eœ, aby zhakowaæ sieæ ich frakcji. Jednak twój obecny model PDA nie pozwala na wyœwietlanie lokalizacji oddzia³ów frakcji %s, wiêc bêdziesz musia³ dokonaæ aktualizacji, aby zobaczyæ je na mapie.</text>
+    </string>
+
+<!-- Added in 1.12 -->
+
+    <string id ="ui_mcm_milpda_milpdagen_monster_tracking_mode">
+        <text>Tryb œledzenia zabójstw mutantów</text>
+    </string>
+
+    <string id ="ui_mcm_milpda_milpdagen_monster_tracking_mode_desc">
+        <text>Okreœla, które zabójstwa mutantów bêd¹ wyœwietlane na mapie.\n
+            --------------------------------------------------\n
+            Wy³.: Kill Tracker jest wy³¹czony dla mutantów\n
+            Gracz: Kill Tracker wyœwietli tylko zabójstwa mutantów\n
+            Oddzia³ gracza: Kill Tracker wyœwietli równie¿ zabójstwa mutantów towarzysz¹cych\n
+            Wszystkie: Martwe mutanty bêd¹ pokazywane niezale¿nie od tego, kto lub co ich zabi³o.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_main_plaintext">
+        <text>\n
+                 • Umo¿liwia szczegó³owe dostosowanie mapspotów oddzia³ów i pojedynczych jednostek obs³ugiwanych przez ka¿dy poziom PDA.\n
+                 • Dodaje Milspec PDA: nowe urz¹dzenie 4 poziomu, które nie jest sprzedawane, ani upuszczane przez zabitych stalkerów i jest trudne do wytworzenia\n
+                 • Zawiera Kill Tracker: konfigurowalne œledzenie cia³ z opcjonaln¹ obs³ug¹ ikon z dodatku PAW\n
+                 • Potê¿ny system progresji pozwala graczowi odblokowaæ dostêp do danych GPS frakcji poprzez przegl¹danie PDA stalkerów\n
+                 • Czarna lista pozwala zapobiec pojawianiu siê okreœlonych frakcji na dowolnym PDA, niezale¿nie od jego mo¿liwoœci\n
+                 \n
+                Wszystkie funkcje s¹ opcjonalne i mo¿na je dostosowaæ w MCM.\n
+                Wiêcej informacji mo¿na znaleŸæ na stronie Moddb:\n
+                https://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma
+        </text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_main_complex1">
+        <text>\n$clr_def
+                $clr_def • $clr_whtUmo¿liwia szczegó³owe $clr_glddostosowanie mapspotów oddzia³ów i pojedynczych jednostek$clr_wht obs³ugiwanych przez ka¿dy poziom PDA\n
+                $clr_def • $clr_whtDodaje $clr_milMilspec PDA$clr_wht: $clr_gldnowe urz¹dzenie 4 poziomu, które nie jest sprzedawane, ani upuszczane przez zabitych stalkerów$clr_wht, i jest trudne do wytworzenia\n
+                $clr_def • $clr_whtZawiera $clr_milKill Tracker$clr_wht: $clr_gldkonfigurowalne œledzenie cia³$clr_wht z opcjonaln¹ obs³ug¹ ikon z dodatku PAW\n
+                $clr_def • $clr_whtPotê¿ny $clr_milsystem progresji$clr_wht pozwala graczowi $clr_gldodblokowaæ dostêp do danych GPS frakcji poprzez przegl¹danie PDA stalkerów\n
+                $clr_def • $clr_milCzarna lista$clr_wht pozwala $clr_gldzapobiec pojawianiu siê okreœlonych frakcji na dowolnym PDA$clr_wht, niezale¿nie od jego mo¿liwoœci\n
+        </text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_main_complex2">
+        <text>$clr_def
+            Wszystkie funkcje s¹ opcjonalne i mo¿na je dostosowaæ w MCM. Wiêcej informacji mo¿na znaleŸæ na stronie Moddb:\n
+            $clr_lblhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma
+        </text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_prog_plaintext">
+        <text>\nZwykle gra decyduje, czy mo¿esz zobaczyæ oddzia³ na mapie w zale¿noœci od tego, czy jego frakcja jest neutralna, sojusznicza czy wroga. Gdy tylko kupisz bardziej zaawansowany PDA, mo¿esz natychmiast zobaczyæ wszystkie obs³ugiwane przez niego frakcje.\n
+        --------------------------------------------------\n
+        To potê¿na przewaga, zw³aszcza przeciwko wrogim frakcjom. Tryb progresywny zmusza ciê do zdobycia tej przewagi poprzez przegl¹danie PDA od martwych stalkerów i wykorzystanie tego, co na nich znajdziesz, aby w³amaæ siê do sieci ich frakcji i uzyskaæ dostêp do danych GPS ich oddzia³ów. Poni¿ej mo¿esz dostosowaæ ustawienia do swoich upodobañ.\n
+        </text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_prog_complex1">
+        <text>$clr_defGra zwykle decyduje, czy mo¿na zobaczyæ oddzia³ na mapie w oparciu o to, czy ich frakcja jest $clr_gldneutralna$clr_def wobec twojej, $clr_grnjest sojusznikiem$clr_def, lub $clr_redwrogiem$clr_def. Gdy tylko wyposa¿ysz siê bardziej zaawansowane PDA, mo¿esz natychmiast zobaczyæ wszystkie obs³ugiwane przez niego frakcje.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_prog_complex2">
+        <text>$clr_defTo potê¿na przewaga, zw³aszcza przeciwko wrogim frakcjom. $clr_milTryb progresywny $clr_defzmusza ciê do zdobywania tej przewagi poprzez $clr_gldgrabie¿ PDA z cia³ martwych stalkerów$clr_def, i wykorzystuj¹c to, co w nich znajdziesz do $clr_gldw³amaæ siê do sieci ich frakcji$clr_def i $clr_glduzyskaæ dostêp do danych GPS ich oddzia³ów$clr_def. Poni¿ej mo¿esz dostosowaæ ustawienia do swoich upodobañ.
+        </text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_bl_plaintext">
+        <text>Byæ mo¿e uwa¿asz, ¿e nikt nigdy nie powinien byæ w stanie zobaczyæ UNISG lub Monolitu na mapie. Byæ mo¿e grasz wed³ug specjalnego zestawu zasad lub wcielasz siê w rolê stalkera, który ma zablokowany dostêp do niektórych frakcji.\n
+        Niezale¿nie od powodu, w³¹czenie Czarnej listy uniemo¿liwi ci zobaczenie niektórych frakcji na mapie, nawet jeœli twoje PDA normalnie pokazywa³oby tê frakcjê. Domyœlnie uniemo¿liwi to równie¿ zdobywanie danych dla frakcji z czarnej listy w trybie progresywnym.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_bl_complex1">
+        <text>$clr_defByæ mo¿e uwa¿asz, ¿e nikt nigdy nie powinien byæ w stanie zobaczyæ UNISG lub Monolitu na mapie. Byæ mo¿e grasz wed³ug specjalnego zestawu zasad lub wcielasz siê w rolê stalkera, który ma zablokowany dostêp do niektórych frakcji.</text>
+    </string>
+
+    <string id="ui_mcm_milpda_header_bl_complex2">
+        <text>$clr_defNiezale¿nie od powodu, w³¹czenie $clr_milCzarnej listy$clr_def $clr_glduniemo¿liwi ci zobaczenie niektórych frakcji na mapie$clr_def, nawet jeœli twoje PDA normalnie pokazywa³oby tê frakcjê. Domyœlnie uniemo¿liwi to równie¿ $clr_gldzdobywanie danych dla frakcji z czarnej listy$clr_def $clr_milw trybie progresywnym$clr_def.
+        </text>
+    </string>
+    
+    <string id="ui_mcm_milpda_header_pda_plaintext">
+        <text>W razie potrzeby mo¿na dostosowaæ funkcje obs³ugiwane przez to urz¹dzenie, korzystaj¹c z poni¿szych ustawieñ. Ustawienia te zostan¹ zastosowane do gry tylko po w³¹czeniu górnej opcji.</text>
+    </string>
+
+<!-- Added in 1.13 -->
+
+    <string id="ui_mcm_milpda_milpdagen_squadmate_mapspots">
+        <text>Wyœwietlanie mapspotów dla wszystkich cz³onków dru¿yny</text>
+    </string>
+
+    <string id="ui_mcm_milpda_milpdagen_squadmate_mapspots_desc">
+        <text>Normalnie Anomaly zaznacza na mapie tylko lokalizacjê aktualnego dowódcy oddzia³u. Gdy to ustawienie jest w³¹czone, wszyscy poszczególni cz³onkowie oddzia³u równie¿ zostan¹ pokazani, ale z nieco inn¹ ikon¹. Mo¿e to wygl¹daæ znajomo dla graczy z poprzednich gier.</text>
+    </string>
+
+    <string id="encyclopedia_addons">
+        <text>Dodatki</text>
+    </string>
+
+    <string id="encyclopedia_addons_milspec_pda">
+        <text>Milspec PDA</text>
+    </string>
+
+    <string id="encyclopedia_addons_milspec_pda_text">
+        <text>
+            \n \n%c[ui_gray_1]Dodatek %c[255,130,180,130]Milspec PDA%c[ui_gray_1] ma wiele powi¹zanych ze sob¹ przeznaczeñ: \n 
+            %c[ui_gray_1] • %c[pda_white]Pozwala na szczegó³owe %c[pda_yellow]dostosowywanie mapspotów oddzia³u i pojedynczych jednostek%c[pda_white] obs³ugiwanych przez ka¿dy poziom PDA\n
+            %c[ui_gray_1] • %c[pda_white]Dodaje %c[255,130,180,130]Milspec PDA%c[pda_white]: a %c[pda_yellow]urz¹dzenie poziomu 4, które jest sprzedawane lub mo¿liwe do znalezienia przy zw³okach%c[pda_white], i jest trudne do wytworzenia\n
+            %c[ui_gray_1] • %c[pda_white]Zawiera %c[255,130,180,130]Kill Tracker%c[pda_white]: %c[pda_yellow]konfigurowalne œledzenie zw³ok%c[pda_white] ze wsparciem ikon z dodatku PAW\n
+            %c[ui_gray_1] • %c[255,130,180,130]Czarna lista%c[pda_white] pozwala ci %c[pda_yellow]zablokowaæ frakcjê przed pojawieniem siê na jakimkolwiek PDA%c[pda_white]\n \n
+            %c[ui_gray_1] • %c[pda_white]Potê¿ny %c[255,130,180,130]Tryb progresji%c[pda_white] pozwala graczowi %c[pda_yellow]uzyskaæ dostêp do podgl¹du innych frakcji na mapie\n
+            
+            \n%c[ui_gray_1]Ka¿d¹ funkcjê mo¿na dostosowaæ do w³asnych upodobañ w menu MCM. %c[pda_white]Jeœli coœ ci nie odpowiada, sprawdŸ najpierw MCM! Prawdopodobnie istnieje odpowiednie ustawienie.\n
+
+            \n%c[pda_white]Z %c[pda_yellow]MCM > Milspec PDA%c[pda_white]:\n
+            %c[pda_yellow]Ustawienia%c[pda_white]: Ogólne ustawienia Kill Trackera, interfejsu u¿ytkownika i ca³ego dodatku.\n
+            %c[pda_yellow]Czarna lista%c[pda_white]: Wybierz frakcje, które nigdy nie pojawi¹ siê na ¿adnym PDA.\n
+            %c[pda_yellow]Progresja%c[pda_white]: Ustawienia opcjonalnego trybu progresji.\n
+            %c[pda_yellow]PDA Cfg: 1.0%c[pda_white]: Dostosuj, które punkty na mapie mog¹ byæ widoczne na PDA 1.0.\n 
+            %c[pda_yellow]PDA Cfg: 2.0%c[pda_white]: To samo, ale dla PDA w wersji 2.0.\n 
+            %c[pda_yellow]PDA Cfg: 3.1%c[pda_white]: To samo, ale dla PDA w wersji 3.1. PDA.\n
+            %c[pda_yellow]PDA Cfg: Milspec%c[pda_white]: To samo, ale dla PDA w wersji Milspec.\n \n
+
+            %c[pda_red]Nadal masz problemy? Przewiñ w dó³, aby uzyskaæ informacje na temat rozwi¹zywania problemów.\n
+
+            \n%c[pda_green]ZAAWANSOWANY KILL TRACKER\n
+            %c[ui_gray_1]
+            %c[pda_yellow]Kill Tracker%c[ui_gray_1] jest domyœlnie obs³ugiwany przez wszystkie PDA z wyj¹tkiem oryginalnego PDA 1.0. Wewnêtrznie dodatek zawsze œledzi wszystkie cia³a na mapie przez ca³y czas - ale to, co widzisz, zale¿y od twoich preferencji.\n \n
+
+            Domyœlnie, Kill Tracker %c[pda_yellow]wyœwietla znaczniki na mapie dla wszystkich zabójstw dokonanych przez ciebie lub twoich kolegów z oddzia³u%c[ui_gray_1]. Dotyczy to zarówno stalkerów, jak i mutantów. Nie zobaczysz jednak znaczników cia³ dla zabójstw, które nie zosta³y spowodowane przez ciebie lub twój oddzia³.\n \n
+
+            Jeœli wolisz widzieæ wszystkie zabójstwa lub mapê, ten i wiele innych aspektów Kill Trackera s¹ - podobnie jak wszystko inne - %c[pda_yellow]ca³kowicie konfigurowalne w MCM.%c[ui_gray_1].\n 
+
+            \n%c[pda_green]POZYSKANIE NOWEGO PDA 4 POZIOMU\n
+            %c[ui_gray_1]
+            %c[pda_yellow]Milspec PDA%c[ui_gray_1] ma wy¿sze wymagania energetyczne ni¿ PDA 3.1, ale posiada unikaln¹ zdolnoœæ %c[pda_yellow]wyœwietlania lokalizacji wrogich oddzia³ów%c[ui_gray_1] na mapie.\n \n
+
+            Jest to oczywiœcie bardzo potê¿ne, wiêc zaleca siê zrównowa¿enie tej mocy z %c[pda_yellow]Trybem progresywnym%c[ui_gray_1] tego dodatku, który zosta³ opisany bardziej szczegó³owo poni¿ej.\n \n
+
+            Nowego PDA nie mo¿na nigdzie kupiæ i ¿aden stalker nigdy go nie upuœci. Domyœlnie musisz je wytworzyæ za pomoc¹ %c[pda_yellow]Narzêdzi zaawansowanych%c[ui_gray_1].
+
+            Wymaga to znalezienia i przeczytania odpowiedniego tomu %c[pda_yellow]Podrêcznika in¿yniera%c[ui_gray_1], a tak¿e pewnych %c[pda_yellow]rzadkich komponentów%c[ui_gray_1].\n \n
+
+            Mo¿esz zmieniæ te wymagania w skrypcie lub plikach konfiguracyjnych, jeœli jesteœ w tym bieg³y. Jeœli nie jesteœ i nie mo¿esz zawracaæ sobie g³owy zdobywaniem Milspec PDA w trudny sposób, zawsze pozostaje konsola. Nie oceniam.\n 
+
+            \n%c[pda_green]TRYB PROGRESYWNY\n
+            %c[ui_gray_1]Kiedy w³¹czysz %c[pda_yellow]Tryb progresywny%c[ui_gray_1], samo kupienie lub wytworzenie bardziej zaawansowanego PDA nie pozwoli automatycznie zobaczyæ wszystkich frakcji, które normalnie byœ widzia³. Zamiast tego musisz zdobyæ do tego dostêp - tymczasowo lub na sta³e - podnosz¹c PDA z martwych stalkerów.\n \n
+
+            Poprzez %c[pda_yellow]podniesienie wystarczaj¹cej liczby PDA frakcji%c[ui_gray_1], zdobêdziesz dane, które pozwol¹ ci infiltrowaæ sieæ ich frakcji - daj¹c ci mo¿liwoœæ %c[pda_yellow]widzenia ich oddzia³ów na mapie%c[ui_gray_1]. Wiêkszoœæ frakcji w koñcu zorientuje siê, co siê sta³o i %c[pda_yellow] po czasie zmieni¹ swoje kody dostêpu%c[ui_gray_1] - wiêc korzystaj z tego, póki mo¿esz.\n \n
+
+            Tryb progresywny jest %c[pda_yellow]bardzo potê¿ny i konfigurowalny wed³ug w³asnych upodobañ%c[ui_gray_1]. Uwa¿asz, ¿e odblokowanie dostêpu jest zbyt ³atwe lub zbyt trudne? Dostosuj wymagania w dowolny sposób. Wybierz, czy neutralne frakcje równie¿ musz¹ zostaæ odblokowane, czy frakcje cofn¹ ci dostêp - a jeœli tak, to jak d³ugo to potrwa.\n \n
+
+            Ten czas odblokowania mo¿e wynosiæ tygodnie, a nawet kilka sekund lub minut - przy niskim progu odblokowania, krótki czas odblokowania skutecznie zamienia ka¿de upuszczenie PDA w potê¿ne, ale tymczasowe wzmocnienie. Lub jeœli lubisz d³ugi grind dla d³ugoterminowej przewagi, to te¿ zadzia³a.\n \n
+
+            %c[pda_yellow]To twoja gra. Graj po swojemu.\n 
+
+            \n%c[pda_green]CZARNA LISTA FRAKCJI\n
+            %c[ui_gray_1]Jasne, to ma sens, ¿e mo¿na w³amaæ siê do sieci Powinnoœci lub Wolnoœci. Odpowiednie bezpieczeñstwo informacji wœród bandytów ma miejsce wtedy, gdy ich has³o sieciowe jest czymœ innym ni¿ sekwencyjnymi liczbami lub wariacjami na temat s³owa "blyat". Ale co z Monolitem? Albo UNISG?\n \n
+
+            Jeœli uwa¿asz, ¿e niektóre frakcje nie powinny pojawiaæ siê na mapie, nie martw siê - %c[pda_yellow]Czarna lista frakcji%c[ui_gray_1] zapewni ci ochronê. Wystarczy zaznaczyæ, które frakcje nie powinny pojawiaæ siê na mapie.\n 
+
+            \n%c[ui_gray_1]--------------------------------------------------------------------------------\n \n
+            %c[pda_red]ROZWI¥ZYWANIE PROBLEMÓW\n \n
+
+            %c[pda_white]Jeœli w ogóle widzisz ten wpis w encyklopedii, twoje pliki binarne obs³uguj¹ DLTX. %c[ui_gray_1]Dobra robota: posiadanie dodatku Modded Exes to po³owa sukcesu. Posiadanie zaktualizowanych plików dodatków i zainstalowanych odpowiednich opcji to wiêkszoœæ reszty.\n \n
+
+            %c[pda_red]Przed zg³oszeniem jakichkolwiek problemów:%c[pda_yellow] Jeœli twoja kopia Milspec PDA zosta³a wstêpnie zainstalowana jako czêœæ modpacka%c[ui_gray_1], mo¿liwe jest, ¿e jest to stara wersja, ¿e nie wszystkie jej funkcje zosta³y zainstalowane lub ¿e niektóre z domyœlnych ustawieñ MCM zosta³y zmienione. Jest to szczególnie prawdziwe, jeœli masz wszystkie przepisy rzemieœlnicze i nadal nie mo¿esz stworzyæ PDA 4 poziomu lub jeœli coœ zwi¹zanego z Progresj¹ nie dzia³a poprawnie.\n \n
+            %c[ui_gray_1]
+            W takim przypadku mo¿e byæ konieczne %c[pda_yellow]ponowne zainstalowanie tego dodatku z FOMOD%c[pda_white] i upewnienie siê, ¿e wybrano prawid³owe opcje instalacji dla tego, co próbujesz zrobiæ.\n 
+
+            \n%c[pda_red]WA¯NE: Aby zg³osiæ b³¹d, nale¿y wykonaæ nastêpuj¹ce czynnoœci:\n \n
+            %c[pda_white]1. Wejœæ w %c[pda_yellow]MCM > Milspec PDA > Ogólne\n
+            %c[pda_white]2. W³¹czyæ %c[pda_yellow]Debugowanie%c[pda_white] i %c[pda_yellow]Szczegó³owe rejestrowanie\n
+            %c[pda_white]3. Wy³¹czyæ i zrestartowaæ grê\n
+            %c[pda_white]4. Odtworzyæ problem w najprostszy mo¿liwy sposób\n
+            %c[pda_white]5. Pozyskaæ log gry z %c[pda_yellow](Twój folder z Anomaly)\appdata\logs%c[pda_white] i opublikowaæ go gdzieœ w sieci\n \n
+            
+            %c[ui_gray_1]Jeœli tego nie zrobisz, jest ma³o prawdopodobne, ¿e twój dziennik bêdzie zawiera³ informacje, których potrzebujê.\n
+
+            \nNie otrzymujê powiadomieñ o komentarzach na Moddb, wiêc generalnie najszybsz¹ odpowiedŸ otrzymasz na serwerze Discord GAMMY, na kanale dyskusyjnym Milspec PDA. Niepowi¹zane z tematem PW bêd¹ ignorowane.\n
+        </text>
+    </string>
+
+<!-- Added in 1.14 -->
+    <string id="ui_catsy_hide_intro_header">
+        <text>$clr_tgrNie pokazuj ponownie tego komunikatu</text>
+    </string>
+
+    <string id="encyclopedia_items_milspec_pda">
+        <text>Milspec PDA</text>
+    </string>
+    <string id="encyclopedia_items_milspec_pda_text">
+        <text>
+            Zaprojektowany przez nieznany podmiot do u¿ytku przez tajnych operatorów wojskowych lub organizacje pozarz¹dowe. %c[255,130,180,130]Milspec PDA%c[ui_gray_1], lub "MilPDA" to wyrafinowany, niestandardowy wariant codziennego PDA noszonego przez prawie ka¿dego stalkera w Zonie. Posiada wszystkie funkcje, które mo¿na znaleŸæ w zwyk³ych komercyjnych PDA, ale zawiera równie¿ modu³ kryptograficzny, który umo¿liwia u¿ytkownikowi infiltracjê wielu bezpiecznych prywatnych sieci Zony przy u¿yciu danych pobranych ze znalezionych lub przechwyconych PDA.\n
+
+            \nPrzy odpowiednich ustawieniach konfiguracyjnych pozwala to urz¹dzeniu na ujawnienie lokalizacji oddzia³ów wroga dzia³aj¹cych w pobli¿u - pod warunkiem, ¿e u¿ytkownik z³ama³ zabezpieczenia sieciowe danej frakcji i uzyska³ dostêp do ich danych GPS.\n
+
+            \n• PDA zu¿ywa %c[pda_white]0.2 mAh%c[ui_gray_1] na sekundê ci¹g³ego u¿ytkowania.\n
+
+            \nZobacz równie¿:
+            \nInstrukcjê obs³ugi PDA: %c[255,0,200,220]Dodatki > Milspec PDA%c[ui_gray_1]
+            \nUstawienia: %c[pda_yellow]MCM > Milspec PDA%c[ui_gray_1]
+        </text>
+    </string>
+</string_table>

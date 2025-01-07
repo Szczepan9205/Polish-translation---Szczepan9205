@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	WEAPONS ATTACHMENTS
+-->
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>Celownik PSO-1</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Państwowe Zakłady Optyczne NPZ\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n	
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>Celownik 1P29 Tulipan</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Związek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>Celownik ACOG 2.8x</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Trijicon\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]2.8x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>Celownik PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Państwowe Zakłady Optyczne NPZ\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_specterDR">
+		<text>Celownik ELCAN SpecterDR</text>
+	</string>
+	<string id="st_addon_scope_specterDR_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Raytheon ELCAN\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x or 4.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n		
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso2">
+		<text>Celownik PSO-1?</text>
+	</string>
+	<string id="st_addon_scope_pso2_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Państwowe Zakłady Optyczne NPZ\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n			
+		</text>
+	</string>
+		
+	<string id="st_addon_scope_1p59">
+		<text>Celownik 1P59 Hiperion</text>
+	</string>
+	<string id="st_addon_scope_1p59_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Różni producenci\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]3.0x - 10.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n			
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_1pn93">
+		<text>Celownik nocny 1PN93-4</text>
+	</string>
+	<string id="st_addon_scope_1pn93_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]NPZ Optics\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x - 3.7x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik noktowizji\n \n				
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_leupold">
+		<text>Celownik Leupold Mark 8</text>
+	</string>
+	<string id="st_addon_scope_leupold_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x - 8.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pn23">
+		<text>Celownik nocny PN-23</text>
+	</string>
+	<string id="st_addon_scope_pn23_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]KULA\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]3.8x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik noktowizji\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_marchf">
+		<text>Celownik March Tactical 3-24x42 FFP</text>
+	</string>
+	<string id="st_addon_scope_marchf_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Japonia\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]DEON Optical Design\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]3.0x - 24.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pgo7gs">
+		<text>Celownik PGO-7</text>
+	</string>
+	<string id="st_addon_scope_pgo7gs_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Związek Radziecki\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_susat">
+		<text>Celownik SUSAT</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Wielka Brytania\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Avimo\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_gauss_sight">
+		<text>Celownik termowizyjny EOTS-62</text>
+	</string>
+	<string id="st_addon_scope_gauss_sight_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Ukraina\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]REDACTED\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x - 10.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik termowizyjny\n \n			
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p78gs">
+		<text>Celownik 1P78 Kasztan</text>
+	</string>
+	<string id="st_addon_scope_1p78gs_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Fabryka NPZ\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]2.8x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93n2_1gs">
+		<text>Celownik termowizyjny 1PN93-1</text>
+	</string>
+	<string id="st_addon_scope_1pn93n2_1gs_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n			
+		</text>
+	</string>
+
+	<string id="st_addon_scope_usp1">
+		<text>Celownik 1P29 Tulipan</text>
+	</string>
+	<string id="st_addon_scope_usp1_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_trijicon_rmr">
+		<text>Zestaw z celownikiem Trijicon-Red Dot</text>
+	</string>
+	<string id="st_addon_scope_trijicon_rmr_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Trijicon ACOG BAC 5.56 BDC\n
+		%c[d_cyan] • %c[ui_gray_2] Pochylony celownik Red Dot\n \n
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_mark8_rmr">
+		<text>Zestaw z celownikiem Mark 8-Red Dot</text>
+	</string>
+	<string id="st_addon_scope_mark8_rmr_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Leupold Mark 8 CQBSS\n
+		%c[d_cyan] • %c[ui_gray_2] Pochylony celownik Red Dot\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_spec_alt">
+		<text>Zestaw z celownikiem SpecterDR-Red Dot</text>
+	</string>
+	<string id="st_addon_scope_spec_alt_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Elcan SpecterDR DFOV14-C2\n
+		%c[d_cyan] • %c[ui_gray_2] Pochylony celownik Red Dot\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kashtan_rmr">
+		<text>Zestaw z celownikiem Kasztan-Red Dot</text>
+	</string>
+	<string id="st_addon_scope_kashtan_rmr_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik Toczpribor 1P78 Kasztan\n
+		%c[d_cyan] • %c[ui_gray_2] Pochylony celownik Red Dot\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_psicho_rmr">
+		<text>Zestaw z celownikiem PSO-Red Dot</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik BelOMO PSO-1?2-1\n
+		%c[d_cyan] • %c[ui_gray_2] Pochylony celownik Red Dot\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susatov">
+		<text>Celownik SUSAT 4.0x</text>
+	</string>
+	<string id="st_addon_scope_susatov_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Wielka Brytania\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Royal Armament Research Development\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_march_f_shorty">
+		<text>Celownik March F Shorty 1x-8x24mm LPVO</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Japonia\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]DEON Optical Design\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x - 8.0x\n \n
+		</text>		
+	</string>	
+
+
+	<string id="st_addon_scope_march_f_shorty_alt">
+		<text>Zestaw z celownikiem March F Shorty-Red Dot</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_alt_descr">
+		<text>%c[0,255,255,255]ZESTAW ZAWIERA:\n
+		%c[d_cyan] • %c[ui_gray_2] Celownik March F Shorty 1x-8x24mm LPVO\n
+		%c[d_cyan] • %c[ui_gray_2] Pochylony celownik Red Dot\n \n
+		</text>		
+	</string>
+	
+	<string id="st_addon_scope_lco1">
+		<text>Celownik LCO (Leupold Carbine Optic)</text>
+	</string>
+	<string id="st_addon_scope_lco1_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_e0t2_mag">
+		<text>Celownik Eotech XPS3 w/ Eotech G33 6x</text>
+	</string>
+	<string id="st_addon_scope_e0t2_mag_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]6.0x\n \n
+		</text>
+	</string>
+	
+	
+	<string id="st_addon_scope_razor_mag">
+		<text>Celownik Vortex Optics Razor AMG UH-1 w/ Eotech G33 6x</text>
+	</string>
+	<string id="st_addon_scope_razor_mag_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]EOTech and Vortex\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]6.0x\n \n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_razor">
+		<text>Celownik Vortex Optics Razor AMG UH-1 Gen. II</text>
+	</string>
+	<string id="st_addon_scope_razor_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Vortex\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_exps3">
+		<text>Celownik Eotech EXPS3</text>
+	</string>
+	<string id="st_addon_scope_exps3_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]EOTech\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_he510">
+		<text>Celownik Holosun HE510C</text>
+	</string>
+	<string id="st_addon_scope_he510_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Holosun\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_bravo4">
+		<text>Celownik SIG Sauer BRAVO4</text>
+	</string>
+	<string id="st_addon_scope_bravo4_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_hamr">
+		<text>Celownik Leupold Mark 4 HAMR</text>
+	</string>
+	<string id="st_addon_scope_hamr_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_razorhd">
+		<text>Celownik Vortex Optics Razor HD Gen II</text>
+	</string>
+	<string id="st_addon_scope_razorhd_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Vortex\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x - 6.0x\n \n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_devo">
+		<text>Celownik Leupold D-EVO Offset Optic w/ LCO Red Dot</text>
+	</string>
+	<string id="st_addon_scope_devo_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Leupold\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x - 6.0x\n \n
+		%c[d_cyan] • %c[0,255,255,255] %c[ui_gray_2]Przełącznik LED\n \n			
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_side">
+		<text>Celownik boczny Winchester</text>
+	</string>
+	<string id="st_addon_scope_side_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Winchester\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_romeo">
+		<text>Celownik SIG Sauer ROMEO4 Red Dot</text>
+	</string>
+	<string id="st_addon_scope_romeo_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
+	</string>	
+
+	<string id="st_cortex_scope">
+		<text>Celownik Cortex Optic LPVO</text>
+	</string>
+	<string id="st_cortex_scope_desc">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Różni producenci\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x - 12.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_cmore">
+        <text>Celownik C-MORE Tactical</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]C-More Systems\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n
+		</text>
+    </string>
+
+	<string id="st_addon_scope_zf4">
+		<text>Celownik ZF-4</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Germany\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]4.0x\n \n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kp_sr2">
+		<text>Celownik KP-SR2 Reflex</text>
+	</string>
+	<string id="st_addon_scope_kp_sr2_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n
+		%c[0,255,255,255]KOMPATYBILNY Z:\n
+		%c[d_cyan] • %c[ui_gray_2] SR-2M Weresk\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gee36">
+		<text>Celownik zintegrowany z G36</text>
+	</string>
+	<string id="st_addon_scope_gee36_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Niemcy\n\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]HK\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]3.0x\n \n
+		</text>
+	</string>
+	
+</string_table>

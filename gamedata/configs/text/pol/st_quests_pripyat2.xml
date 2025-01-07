@@ -55,7 +55,7 @@
 		<text>Zapasy dla Monolitu</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_text">
-		<text>Królik poprosi³ o: %s.</text>
+		<text>Przynieœ Królikowi %s.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_about">
 		<text>Mój synu, musisz zebraæ trochê zapasów dla swych braci.</text>
@@ -71,7 +71,7 @@
 	<!-- Rabbit (Monolith Trader) Venture into the Zone Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_3_name">
-		<text>Pielgrzymowanie przez Zonê</text>
+		<text>Pielgrzymka przez Zonê</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_3_text">
 		<text>Musisz dowieœæ swojej przydatnoœci Monolitowi poprzez przetrwanie wyprawy w Zonê.</text>
@@ -106,10 +106,10 @@
 		<text>Pogromca Agresji</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_1_text">
-		<text>Odzyskaj wyposa¿enie, które skrad³ sabota¿ysta.</text>
+		<text>Pewien stalker sabotowa³ Mózgozwêglacz. Odzyskaj sprzêt, który ukrad³.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_1_about">
-		<text>Bracie! Jeden z niewiernych zbruka³ Pogromcê Agresji sabota¿em! Wykrad³ kluczowe elementy instalacji anten! Dla dobra Monolitu odzyskaj wyposa¿enie.</text>
+		<text>Bracie! Jeden z niewiernych zbruka³ Mózgozwêglacz sabota¿em! Wykrad³ kluczowe elementy instalacji anten! Dla dobra Monolitu odzyskaj wyposa¿enie.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_1_finish">
 		<text>Dobrze siê spisa³eœ.</text>
@@ -192,16 +192,16 @@
 		<text>Sk¹piec zleci³ ci odnalezienie zaginionych zwiadowców</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_task_2_text_0">
-		<text>Sk¹piec zleci³ ci odnalezienie zaginionych zwiadowców. Potrzebny ci bêdzie $item_1.</text>
+		<text>Sk¹piec zleci³ ci odnalezienie zaginionych zwiadowców, ale ¿eby to zrobiæ potrzebny ci bêdzie $item_1.</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_task_2_text_1">
 		<text>Sk¹piec zleci³ ci odnalezienie zaginionych zwiadowców.\nUdaj siê do lokacji: $map.</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_task_2_text_2">
-		<text>Sk¹piec zleci³ ci odnalezienie zaginionych zwiadowców.\nU¿yj $item_1 i ustaw czêstotliwoœæ na $freq MHz. Poszukaj Ÿród³a sygna³u.</text>
+		<text>Sk¹piec zleci³ ci odnalezienie zaginionych zwiadowców.\nU¿yj $item_1 i ustaw czêstotliwoœæ na $freq MHz, a nastêpnie poszukaj Ÿród³a sygna³u.</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_task_2_text_3">
-		<text>Musisz odebraæ $item_2, który znalaz³eœ i pokazaæ go Sk¹pcowi.</text>
+		<text>Musisz odzyskaæ $item_2 i pokazaæ go Sk¹pcowi.</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_task_2_text_4">
 		<text>Wróæ do Sk¹pca z wynikami twojego œledztwa.</text>
@@ -253,13 +253,13 @@
 		<text>Siedlisko z³a</text>
 	</string>
 	<string id="drx_sl_merc_pri_grifon_mlr_task_2_text">
-		<text>Gryf nie mo¿e wróciæ do Duszmana z pustymi rêkoma. Przeszukaj laboratorium X-8 i zbierz wszystkie dokumenty, jakie uda ci siê odnaleŸæ.</text>
+		<text>Gryf nie mo¿e wróciæ do Duszmana z pustymi rêkoma. Przeszukaj Laboratorium X-8 i zbierz wszystkie dokumenty, jakie uda ci siê odnaleŸæ.</text>
 	</string>
 	<string id="drx_sl_merc_pri_grifon_mlr_task_2_about">
-		<text>Przybyliœmy do Prypeci, by odzyskaæ dane z laboratorium X-8, które mieœci siê niedaleko centrum us³ugowego Jubilejny na pó³noc st¹d. Wolelibyœmy nie wracaæ z pustymi rêkoma. Wybra³bym siê tam z ch³opakami, ale nie zosta³o nas ju¿ zbyt wielu. Gdyby coœ siê komuœ sta³o, na pewno nie damy rady wróciæ z tego jebanego centrum Zony.\n \nUdaj siê do X-8 i zbadaj ka¿dy zakamarek, a wszystko, co znajdziesz, przynieœ mi.</text>
+		<text>Przybyliœmy do Prypeci, by odzyskaæ dane z Laboratorium X-8, które mieœci siê niedaleko Centrum us³ugowego Jubilejny na pó³noc st¹d. Wolelibyœmy nie wracaæ z pustymi rêkoma. Wybra³bym siê tam z ch³opakami, ale nie zosta³o nas ju¿ zbyt wielu. Gdyby coœ siê komuœ sta³o, na pewno nie damy rady wydostaæ siê z tego jebanego centrum Zony.\n \nUdaj siê do X-8 i zbadaj ka¿dy zakamarek, a wszystko, co znajdziesz, przynieœ mi.</text>
 	</string>
 	<string id="drx_sl_merc_pri_grifon_mlr_task_2_finish">
-		<text>Bardzo ciekawe... te dokumenty mog¹ byæ bardzo cenne. Œwietnie siê spisa³eœ.</text>
+		<text>Bardzo ciekawe... Te dokumenty mog¹ byæ bardzo cenne! Œwietnie siê spisa³eœ.</text>
 	</string>
 	
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
@@ -296,13 +296,13 @@
 		<text>Egzekutor</text>
 	</string>
 	<string id="monolith_eidolon_task_1_text">
-		<text>Eidolon chce, abyœ zebra³: %s.</text>
+		<text>Zbierz %s dla Eidolona.</text>
 	</string>
 	<string id="monolith_eidolon_task_1_about">
-		<text>Jesteœmy oblê¿eni. Niewierni chc¹ pozyskaæ dla siebie wszechmog¹cy Monolit. Kieruje nimi chciwoœæ, ignorancja, przyziemne potrzeby. My zaœ w imiê Monolitu, dzia³amy jako jego stra¿nicy. Pozb¹dŸ siê niewiernych. Zbierz ich naszywki jako trofeum, jako znak naszej niekwestionowanej wy¿szoœci. Ruszaj bracie. Zniszcz ich wszystkich.</text>
+		<text>Jesteœmy oblê¿eni... Niewierni chc¹ pozyskaæ dla siebie wszechmog¹cy Monolit. Kieruje nimi chciwoœæ, ignorancja, przyziemne potrzeby. My zaœ w imiê Monolitu, dzia³amy jako jego stra¿nicy. Pozb¹dŸ siê niewiernych. Zbierz ich naszywki jako trofeum, jako znak naszej niekwestionowanej wy¿szoœci. Ruszaj bracie. Zniszcz ich wszystkich.</text>
 	</string>
 	<string id="monolith_eidolon_task_1_fetch_about">
-		<text>Jesteœmy oblê¿eni. Niewierni chc¹ pozyskaæ dla siebie wszechmog¹cy Monolit. Kieruje nimi chciwoœæ, ignorancja, przyziemne potrzeby. My zaœ w imiê Monolitu, dzia³amy jako jego stra¿nicy. Pozb¹dŸ siê niewiernych. Zbierz ich naszywki jako trofeum, jako znak naszej niekwestionowanej wy¿szoœci. Ruszaj bracie. Zniszcz ich wszystkich. Podczas swojej misji na rzecz Monolitu zbierz: %s.</text>
+		<text>Jesteœmy oblê¿eni... Niewierni chc¹ pozyskaæ dla siebie wszechmog¹cy Monolit. Kieruje nimi chciwoœæ, ignorancja, przyziemne potrzeby. My zaœ w imiê Monolitu, dzia³amy jako jego stra¿nicy. Pozb¹dŸ siê niewiernych. Zbierz ich naszywki jako trofeum, jako znak naszej niekwestionowanej wy¿szoœci. Ruszaj bracie. Zniszcz ich wszystkich. Podczas swojej misji na rzecz Monolitu zbierz %s.</text>
 	</string>
 	<string id="monolith_eidolon_task_1_fetch_finish">
 		<text>Có¿ za oddanie naszej wspania³ej sprawie. Oddanie, które zostanie wynagrodzone.</text>
@@ -315,13 +315,13 @@
 		<text>£owca</text>
 	</string>	
 	<string id="monolith_eidolon_task_2_text">
-		<text>Zdob¹dŸ: %s jako trofea dla Eidolona.</text>
+		<text>Zdob¹dŸ %s jako trofea dla Eidolona.</text>
 	</string>		
 	<string id="monolith_eidolon_task_2_about">
 		<text>Niebezpieczne. Œmiertelne bestie. S¹ prawdziwym darem od Zony, który musimy dostrzec. Dla nas do wziêcia. S¹ stra¿nikami, ¿ywicielami, a tak¿e kamieniem milowym ewolucji. Œcie¿k¹ do testowania naszej si³y. Tylko walka zadecyduje o mêstwie. IdŸ, bracie. Zapoluj na ³owcê, dowiedŸ swojej wartoœci w pojedynku cz³owieka z besti¹.</text>
 	</string>		
 	<string id="monolith_eidolon_task_2_fetch_about">
-		<text>Niebezpieczne. Œmiertelne bestie. S¹ prawdziwym darem od Zony, który musimy dostrzec. Dla nas do wziêcia. S¹ stra¿nikami, ¿ywicielami, a tak¿e kamieniem milowym ewolucji. Œcie¿k¹ do testowania naszej si³y. Tylko walka zadecyduje o mêstwie. IdŸ, bracie. Zapoluj na ³owcê, dowiedŸ swojej wartoœci w pojedynku cz³owieka z besti¹. Zdob¹dŸ dla mnie: %s.</text>
+		<text>Niebezpieczne. Œmiertelne bestie. S¹ prawdziwym darem od Zony, który musimy dostrzec. Dla nas do wziêcia. S¹ stra¿nikami, ¿ywicielami, a tak¿e kamieniem milowym ewolucji. Œcie¿k¹ do testowania naszej si³y. Tylko walka zadecyduje o mêstwie. IdŸ, bracie. Zapoluj na ³owcê, dowiedŸ swojej wartoœci w pojedynku cz³owieka z besti¹. Zdob¹dŸ dla mnie %s.</text>
 	</string>	
 	<string id="monolith_eidolon_task_2_fetch_finish">
 		<text>Wspania³e trofea. Monolit jest z ciebie dumny. Ja równie¿. Oto nagroda dla ciebie.</text>
@@ -334,7 +334,7 @@
 		<text>¯niwiarz</text>
 	</string>
 	<string id="monolith_eidolon_task_3_text">
-		<text>Eidolon chce, byœ znalaz³ artefakt %s.</text>
+		<text>Eidolon chce, aby znaleŸæ mu artefakt %s.</text>
 	</string>
 	<string id="monolith_eidolon_task_3_about">
 		<text>To my strze¿emy Monolitu, a Monolit strze¿e nas. My s³u¿ymy, a Zona dostarcza. Wspania³e owoce, olœniewaj¹ce swoim niezrównanym blaskiem. Potê¿ne na tyle, by wzmacniaæ i nas. Ruszaj wiêc i zbierz ten owoc, bracie.</text>
@@ -355,7 +355,7 @@
 		<text>Odzyskaj dokumenty opisuj¹ce sekrety Zony i dostarcz je Eidolonowi.</text>
 	</string>
 	<string id="monolith_eidolon_task_4_about">
-		<text>Istniej¹ pewne... dokumenty traktuj¹ce o cudach Zony. W szczegó³ach. Ta wiedza jest tajna i niewierni nie mog¹ jej posi¹œæ. Odzyskaj te dokumenty. Przynieœ je do mnie, a zostaniesz nagrodzony.</text>
+		<text>Istniej¹ pewne dokumenty traktuj¹ce o cudach Zony... w szczegó³ach. Ta wiedza jest tajna i niewierni nie mog¹ jej posi¹œæ. Odzyskaj te dokumenty. Przynieœ je do mnie, a zostaniesz nagrodzony.</text>
 	</string>
 	<string id="monolith_eidolon_task_4_finish">
 		<text>Dziêki tobie Zona znów jest bezpieczna.</text>
@@ -395,7 +395,7 @@
 
 	<!-- FIND WEAPON FOR MONOLITH TASK -->
 	<string id="pri_monolith_monolith_trader_stalker_task_3_name">
-		<text>Wiara broñ przenosi - znajdŸ %s</text>
+		<text>Wiara broñ przenosi - znajdŸ %s dla Królika</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_3_text">
 		<text>Królik poprosi³ o znalezienie broni, która powiêkszy arsena³ Monolitu.</text>
@@ -434,13 +434,13 @@
 		<text>Zapasy dla Królika</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_5_text">
-		<text>Zdob¹dŸ: %s i przynieœ Królikowi.</text>
+		<text>Zdob¹dŸ %s i zanieœ do Królika.</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_5_about">
 		<text>Musisz pozyskaæ dla nas wiêcej zasobów, byœmy mogli dalej s³u¿yæ naszemu wspania³emu przedsiêwziêciu.</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_about">
-		<text>Zdob¹dŸ: %s i przynieœ do mnie.</text>
+		<text>Zdob¹dŸ %s i przynieœ do mnie.</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_finish">
 		<text>Przys³u¿y³eœ siê. Dobra robota s³ugo Monolitu.</text>
@@ -474,10 +474,10 @@
 	<!-- Cleric (Monolith Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Kleryka</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_1_text">
-		<text>%s s¹ potrzebne Klerykowi do instalacji podstawowych ulepszeñ broni i pancerzy. Przynieœ mu je, gdy tylko je znajdziesz.</text>
+		<text>Kleryk potrzebuje %s do instalacji podstawowych ulepszeñ broni i kombinezonów. Przynieœ mu je, gdy tylko je znajdziesz.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_1_about">
 		<text>Chcê, abyœ coœ dla mnie zrobi³. Potrzebujê konkretnych narzêdzi, bym móg³ ulepszaæ nasz¹ broñ.</text>
@@ -490,35 +490,35 @@
 	</string>
 
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Kleryka</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_text">
-		<text>%s s¹ potrzebne Klerykowi do instalacji zaawansowanych ulepszeñ broni i pancerzy. Przynieœ mu je, gdy tylko je znajdziesz.</text>
+		<text>Kleryk potrzebuje %s do instalacji zaawansowanych ulepszeñ broni i kombinezonów. Przynieœ mu je, gdy tylko je znajdziesz.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_about">
 		<text>Potrzebujê nowych narzêdzi. Mówi¹c "nowych" mam na myœli to, by by³y lepsze od poprzednich. Jesteœ w stanie ich poszukaæ?</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about">
-		<text>Potrzebujê zestawu narzêdzi zaawansowanych. Taki zestaw powinien zawieraæ to, czego bêdê potrzebowa³. Je¿eli dostarczysz mi go, bêdê ci wdziêczny, a tak¿e zaoferujê zni¿kê na swoje us³ugi.</text>
+		<text>Potrzebujê zestawu narzêdzi zaawansowanych. Je¿eli dostarczysz mi go, przys³u¿ysz siê Monolitowi. Zni¿ka na moje us³ugi bêdzie twoj¹ nagrod¹.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
-		<text>Dobrze. Przynios³eœ je do mnie. Chwa³a Monolitowi.</text>
+		<text>Dobrze. Przynios³eœ je do mnie. Chwa³a Monolitowi!</text>
 	</string>
 
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Kleryka</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_text">
-		<text>%s s¹ potrzebne Klerykowi do instalacji precyzyjnych ulepszeñ broni i pancerzy. Przynieœ mu je, gdy tylko je znajdziesz.</text>
+		<text>Kleryk potrzebuje %s do instalacji precyzyjnych ulepszeñ broni i kombinezonów. Przynieœ mu je, gdy tylko je znajdziesz.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_about">
 		<text>Potrzebujê nowych narzêdzi. Mówi¹c "nowych" mam na myœli to, by by³y lepsze od poprzednich. Jesteœ w stanie ich poszukaæ?</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_about">
-		<text>Potrzebujê zestawu narzêdzi zaawansowanych. Taki zestaw powinien zawieraæ to, czego bêdê potrzebowa³. Je¿eli dostarczysz mi go, bêdê ci wdziêczny, a tak¿e zaoferujê jeszcze wiêksz¹ zni¿kê na swoje us³ugi.</text>
+		<text>Potrzebujê zestawu narzêdzi eksperckich. Jeszcze raz przys³u¿ Monolitowi! Przys³u¿ swoim braciom!</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
-		<text>Dobrze. Przynios³eœ je do mnie, bracie! Chwa³a Monolitowi.</text>
+		<text>Dobrze. Przynios³eœ je do mnie, bracie! Dziêkujê, bracie!</text>
 	</string>
 	
 	
@@ -539,7 +539,7 @@
 		<text>Si³a proroctwa</text>
 	</string>
 	<string id="lider_monolith_haron_task_2_text">
-		<text>Charon poprosi³ o: %s.</text>
+		<text>Zdob¹dŸ %s dla Charona.</text>
 	</string>
 	<string id="lider_monolith_haron_task_2_about">
 		<text>Wielki Monolit zaoferuje nagrodê ka¿demu z braci, który w jakiœ sposób pomo¿e oczyœciæ nasz¹ œwiêt¹ ziemiê z niewiernych. Przynieœ nam coœ, co pomo¿e nam stawiæ im czo³a.</text>
@@ -556,13 +556,13 @@
 		<text>Licencja na zabijanie</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_text">
-		<text>Gryf poprosi³ o: %s.</text>
+		<text>Zdob¹dŸ %s dla Gryfa.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_about">
-		<text>Tutaj a¿ roi siê od tych jebanych fanatyków. Móg³byœ siê ich pozbyæ? Mam tu cacko, które mog³oby ci siê przydaæ podczas polowañ. Przynieœ mi dwadzieœcia naszywek tych sukinsynów, a jest twoje.</text>
+		<text>Tutaj a¿ roi siê od tych jebanych fanatyków! Jest zbyt wielu fanatyków, Przez nich nie jesteœmy w stanie efektywnie dzia³aæ! Chcia³bym, ¿ebyœ obi³ im mordy i zmusi³ ich do wycofania siê no i zerwa³ z ich martwych cia³ naszywki jako dowód. Mam tu gdzieœ ukryty gruby zwitek gotówki. Bêdzie twoja, jeœli przyniesiesz mi %s.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_fetch_about">
-		<text>Tutaj a¿ roi siê od tych jebanych fanatyków. Móg³byœ siê ich pozbyæ? Mam tu cacko, które mog³oby ci siê przydaæ podczas polowañ. Przynieœ mi dwadzieœcia naszywek tych sukinsynów, a jest twoje.</text>
+		<text>Tutaj a¿ roi siê od tych jebanych fanatyków! Jest zbyt wielu fanatyków, Przez nich nie jesteœmy w stanie efektywnie dzia³aæ! Chcia³bym, ¿ebyœ obi³ im mordy i zmusi³ ich do wycofania siê no i zerwa³ z ich martwych cia³ naszywki jako dowód. Mam tu gdzieœ ukryty gruby zwitek gotówki. Bêdzie twoja, jeœli przyniesiesz mi %s.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_fetch_finish">
 		<text>Dziêki, stalkerze. Oto zabaweczka, któr¹ ci obieca³em.</text>
@@ -572,10 +572,10 @@
 		<text>"Dusza" kompanii</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_2_text">
-		<text>Gryf poprosi³ o przyniesienie mu artefaktu "Dusza".</text>
+		<text>Gryf poprosi³ o przyniesienie mu artefaktu Dusza.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_2_fetch_about">
-		<text>Stary, nie mamy tu wykwalifikowanego medyka, a ³ataæ szramy jakoœ trzeba. To, co nam dali na wyjœciu nadaje siê co najwy¿ej do podcierania dupy, a nie powa¿nych dzia³añ operacyjnych. Chcê prosiæ ciê o pomoc.\n \nS³ysza³em o artefakcie zwanym "Dusza". Gadaj¹, ¿e ma w³aœciwoœci przyspieszaj¹ce gojenie siê ran. Móg³byœ znaleŸæ dla nas jeden i przynieœæ go do mnie?</text>
+		<text>Stary, nie mamy tu wykwalifikowanego medyka, a rany ³ataæ jakoœ trzeba. To, co nam dali na wyjœciu nadaje siê co najwy¿ej do podcierania dupy, a nie powa¿nych dzia³añ operacyjnych. Chcê prosiæ ciê o pomoc.\n \nS³ysza³em o artefakcie zwanym Dusza. Gadaj¹, ¿e ma w³aœciwoœci przyspieszaj¹ce gojenie siê ran. Móg³byœ znaleŸæ dla nas jeden i przynieœæ go do mnie?</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_2_fetch_finish">
 		<text>Uda³o ci siê j¹ znaleŸæ? A¿ oczom nie wierzê... Dziêkujê ci, stalkerze! Na pewno to cacko pomo¿e innym. Poczekaj, nie pozwolê ci odejœæ bez nagrody.</text>
@@ -585,10 +585,10 @@
 		<text>Towar wycofany z oferty</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_3_text">
-		<text>Najemnicy chc¹, by zaj¹æ siê psami krêc¹cymi siê ko³o sklepu spo¿ywczego.</text>
+		<text>Najemnicy chc¹, by zaj¹æ siê psami krêc¹cymi siê ko³o Sklepu spo¿ywczego.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_3_about">
-		<text>Mamy kolejny problem - ko³o sklepu spo¿ywczego osiedli³y siê psy. Dla nas to nic dobrego. Mo¿e nie atakuj¹ jakoœ zawziêcie, ale dr¹ mordy, jak tylko nas zobacz¹. A po co ca³a okolica ma wiedzieæ, ¿e  gdzieœ ruszamy? Bêdê ci wdziêczny, jeœli pozbêdziesz siê tego problemu.</text>
+		<text>Mamy kolejny problem - ko³o spo¿ywczaka osiedli³y siê psy. Dla nas to nic dobrego. Mo¿e nie atakuj¹ jakoœ zawziêcie, ale dr¹ mordy, jak tylko nas zobacz¹. A po co ca³a okolica ma wiedzieæ, ¿e gdzieœ ruszamy? Bêdê ci wdziêczny, jeœli pozbêdziesz siê tego problemu.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_3_finish">
 		<text>Dziêkujê ci. Dobra robota. Trzymaj trochê kasy za k³opot.</text>
@@ -597,23 +597,23 @@
 	
 <!-- (Mercenary Mechanic) -->
 	<string id="merc_pri_a18_mech_mlr_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Najemników</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_text">
 		<text>Technik Najemników z Przedmieœæ Prypeci poprosi³ o %s.</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_about">
-		<text>Nie wiem, jak d³ugo ju¿ siedzimy na dupach w tej zasranej Prypeci... Pewnie Gryf opowiedzia³ ci ju¿ nasz¹ historiê. Do rzeczy. Narzêdzi szuka³em naprawdê wszêdzie, gdzie siê da³o, ale to, co uda³o mi siê znaleŸæ, to jakiœ totalny bullshit. To niedorzeczne. Jestem technikiem - potrzebujê narzêdzi, ¿eby pracowaæ. Pomo¿esz mi?</text>
+		<text>Nie wiem, jak d³ugo ju¿ siedzimy na dupach w tej zasranej Prypeci... Pewnie Gryf opowiedzia³ ci ju¿ nasz¹ historiê. No ale do rzeczy... Narzêdzi szuka³em naprawdê wszêdzie, gdzie siê da³o, ale to, co uda³o mi siê znaleŸæ, to jakiœ nieœmieszny bullshit. To niedorzeczne! Jestem technikiem - potrzebujê narzêdzi, ¿eby pracowaæ. Pomo¿esz mi?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_about">
-		<text>Nie wiem, jak d³ugo ju¿ siedzimy na dupach w tej zasranej Prypeci... Pewnie Gryf opowiedzia³ ci ju¿ nasz¹ historiê. Do rzeczy. Narzêdzi szuka³em naprawdê wszêdzie, gdzie siê da³o, ale to, co uda³o mi siê znaleŸæ, to jakiœ totalny bullshit. To niedorzeczne. Jestem technikiem - potrzebujê choæ podstawowych narzêdzi, ¿eby pracowaæ. Pomo¿esz mi?</text>
+		<text>Nie wiem, jak d³ugo ju¿ siedzimy na dupach w tej zasranej Prypeci... Pewnie Gryf opowiedzia³ ci ju¿ nasz¹ historiê. No ale do rzeczy... Narzêdzi szuka³em naprawdê wszêdzie, gdzie siê da³o, ale to, co uda³o mi siê znaleŸæ, to jakiœ nieœmieszny bullshit. To niedorzeczne! Jestem technikiem - potrzebujê choæ podstawowych narzêdzi, ¿eby pracowaæ. Pomo¿esz mi?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_finish">
 		<text>Dziêkujê ci - od teraz mo¿e sytuacja bêdzie dla ch³opaków trochê mniej stresuj¹ca. Masz u mnie zni¿kê, stary.</text>
 	</string>
 
 	<string id="merc_pri_a18_mech_mlr_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Najemników</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_2_text">
 		<text>Technik Najemników z Przedmieœæ Prypeci poprosi³ o %s.</text>
@@ -625,13 +625,13 @@
 		<text>Rozwi¹zaliœmy parê doraŸnych problemów, ale ci¹gle mam sporo do roboty. By instalowaæ wiêcej ulepszeñ potrzebujê lepszych narzêdzi. Jesteœ w stanie znowu mi pomóc?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_2_fetch_finish">
-		<text>Dobra robota. Teraz mam pe³en zestaw, a ty masz wiêksz¹ zni¿kê, w sumie masz do niej pe³ne prawo - jakby nie patrzeæ, to ty znalaz³eœ narzêdzia, hehe.</text>
+		<text>Dobra robota. Teraz mam pe³en zestaw, a ty masz wiêksz¹ zni¿kê, w sumie masz do niej pe³ne prawo - jakby nie patrzeæ, to ty znalaz³eœ narzêdzia, he he.</text>
 	</string>
 	
 	
 <!-- (Monolith Mechanic) -->
 	<string id="mechanic_monolith_kbo_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Monolitu</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_1_text">
 		<text>Technik z centrum us³ugowego Jubilejnyj poprosi³ o %s.</text>
@@ -647,23 +647,23 @@
 	</string>
 
 	<string id="mechanic_monolith_kbo_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Monolitu</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_2_text">
 		<text>Technik z centrum us³ugowego Jubilejnyj poprosi³ o %s.</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_2_about">
-		<text>Niestety, ale zestaw który przynios³eœ ostatnio ju¿ nie wystarcza. Potrzebujê lepszych narzêdzi do bardziej zaawansowanych prac przy wyposa¿eniu, by nasi bracia mogli jeszcze bardziej efektywnie szerzyæ s³owo Monolitu. Jesteœ gotów ponownie pomóc naszej sprawie?</text>
+		<text>Niestety, ale zestaw który przynios³eœ ostatnio ju¿ nie wystarcza. Do szerzej zakrojonej pracy potrzebne bêd¹ lepsze narzêdzia, aby nasi bracia mogli nadal szerzyæ s³owo Monolitu. Jesteœ gotów ponownie pomóc naszej sprawie?</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_2_fetch_about">
-		<text>Niestety, ale zestaw który przynios³eœ ostatnio ju¿ nie wystarcza. Potrzebujê lepszych narzêdzi do bardziej zaawansowanych prac przy wyposa¿eniu, by nasi bracia mogli jeszcze bardziej efektywnie szerzyæ s³owo Monolitu. Jesteœ gotów ponownie pomóc naszej sprawie?</text>
+		<text>Niestety, ale zestaw który przynios³eœ ostatnio ju¿ nie wystarcza. Do szerzej zakrojonej pracy potrzebne bêd¹ lepsze narzêdzia, aby nasi bracia mogli nadal szerzyæ s³owo Monolitu. Jesteœ gotów ponownie pomóc naszej sprawie?</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_2_fetch_finish">
 		<text>Dobra robota, bracie. Wszystko, co uda nam siê pozyskaæ zawsze przeznaczamy dla naszej spo³ecznoœci, ale twój wk³ad w sprawê zas³uguje na kolejn¹ zni¿kê.</text>
 	</string>
 
 	<string id="mechanic_monolith_kbo_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Monolitu</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_3_text">
 		<text>Technik z centrum us³ugowego Jubilejnyj poprosi³ o %s.</text>

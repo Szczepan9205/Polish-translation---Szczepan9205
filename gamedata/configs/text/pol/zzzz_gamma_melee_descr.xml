@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+<!--
+	wpn_knife
+-->
+	<string id="st_knife_6x4">
+		<text>Bagnet 6x4</text>
+	</string>
+	<string id="st_knife_6x4_descr">
+		<text>Po raz pierwszy przyjęty do służby w 1972 roku do użytku z karabinami AK. Chociaż jest bardzo wytrzymały, jest znacznie lepszy w pchnięciach niż w cięciach.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]30\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]52\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]10\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_red]NIE\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[ui_red]25% - 40%\n
+		</text>
+	</string>
+
+
+<!--
+	wpn_knife2
+-->
+	<string id="st_knife_needle">
+		<text>Nóż zwiadowczy NR-40</text>
+	</string>
+	<string id="st_knife_needle_descr">
+		<text>Zaprojektowany oficjalnie do celów użytkowych, NR-40 nie ma znaczącej mocy cięcia. Unikalną cechą tego noża jest osłona w kształcie odwróconej litery S, stworzona do trzymania krawędzi noża w górze, gdzie nadrabia swoje wady znaczną zdolnością przebijania.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]45\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]55\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]18\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_red]NIE\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[ui_red]35% - 50%\n
+		</text>
+	</string>
+
+
+<!--
+	wpn_knife3
+-->
+	<string id="st_knife_hunting">
+		<text>Nóż myśliwski</text>
+	</string>
+	<string id="st_knife_hunting_descr">
+		<text>Nowoczesny, bardzo wytrzymały nóż myśliwski z dużym ostrzem ze stali nierdzewnej. Ponieważ nie był przeznaczony do użytku w walce, nie radzi sobie z pancerzami bojowymi, ale idealnie nadaje się do skórowania mutantów.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]42\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]71\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]24\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_green]TAK\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[ui_orange]45% - 60%\n
+		</text>
+	</string>
+
+<!--
+	wpn_knife4
+-->
+	<string id="st_knife_swat">
+		<text>Nóż Specnazu</text>
+	</string>
+	<string id="st_knife_swat_descr">
+		<text>Nóż ten posiada ostrze idealne dla operatorów sił specjalnych. Jest dobre w przebijaniu pancerzy i zadawaniu ogromnych obrażeń tkankom i jest często uważane za najlepsze sztućce bojowe.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]54\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]78\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]35\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_green]TAK\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[ui_orange]55% - 70%\n
+		</text>
+	</string>
+
+
+<!--
+	wpn_knife5
+-->
+	<string id="st_knife_combat">
+		<text>Bagnet M9</text>
+	</string>
+	<string id="st_knife_combat_descr">
+		<text>Duży, wielofunkcyjny nóż z wytrzymałą gumową rękojeścią i 17,78 cm ostrzem, oficjalnie przyjęty w 1986 roku. Powszechnie używany przez amerykańskich żołnierzy jako bagnet.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]48\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]87\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]35\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_green]TAK\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[d_green]65% - 85%\n
+		</text>
+	</string>
+
+
+<!--
+	wpn_knife6
+-->
+	<string id="st_knifebf4">
+        <text>Nóż bojowy OC-4</text>
+    </string>
+    	<string id="st_knifebf4_descr">
+        <text>Opracowany w Centralnym Biurze Badań Projektowych w Tule pod koniec lat 80. dla sił specjalnych Ministerstwa Spraw Wewnętrznych. Wyposażony w ząbkowane ostrze, rękojeść jest wykonana z polimeru i ma charakterystyczną teksturę podobną do skorupy granatu F1.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]52\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]97\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]35\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_green]TAK\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[ui_green]75% - 98%\n
+		</text>
+    </string>
+
+
+<!--
+	wpn_knife7
+-->
+	<string id="st_tactical_knife">
+		<text>Ostrze Monolitu</text>
+	</string>
+	<string id="st_tactical_knife_descr">
+		<text>Ostrza te są produkowane w bardzo niewielkich ilościach przez mistrzów Monolitu. Składają się z nieznanego stopu, podobno wydobywanego bezpośrednio z serca Sarkofagu.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]60\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]107\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]35\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_green]TAK\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[ui_green]75% - 98%\n
+		</text>
+	</string>
+
+
+<!--
+	wpn_knife8
+-->
+	<string id="st_kukri">
+        <text>Kukri</text>
+    </string>
+    <string id="st_kukri_descr">
+        <text>Broń narodowa Nepalu, Kukri, ma wyraźną krzywiznę ostrza i służy do wielu celów jako broń do walki wręcz i narzędzie tnące.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]65\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]117\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]35\n
+		%c[d_green] • %c[ui_gray_2] Tnie skórę mutantów?: %c[ui_green]TAK\n
+		%c[d_green] • %c[ui_gray_2] Jakość uzyskanych skór mutantów: %c[ui_green]75% - 98%\n
+		</text>
+	</string>
+
+
+<!--
+	wpn_knife9
+-->
+	<string id="st_tomahawk">
+		<text>Gerber Tomahawk</text>
+	</string>
+	<string id="st_tomahawk_descr">
+		<text>Taktyczny tomahawk, narzędzie wielofunkcyjne i do przełamywania, wszystko w jednym pakiecie.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]90\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]137\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]35\n
+		%c[d_green] • %c[ui_gray_2] Nie może być używany do skórowania mutantów\n
+		</text>
+	</string>
+
+
+<!--
+	wpn_axe
+-->
+	<string id="st_axe">
+		<text>Topór myśliwski</text>
+	</string>
+	<string id="st_axe2_descr">
+		<text>Narzędzie używane od tysiącleci do kształtowania, rozłupywania i cięcia drewna, do pozyskiwania drewna, jako broń i jako symbol ceremonialny lub heraldyczny. Topór ma wiele form, jest wszechstronny i niebezpieczny, gdy jest używany ofensywnie.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]120\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]170\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]24\n
+		%c[d_green] • %c[ui_gray_2] Większy zasięg w porównaniu do noży\n
+		%c[d_green] • %c[ui_gray_2] Nie może być używany do skórowania mutantów\n
+		</text>
+	</string>
+	
+	
+<!--
+	wpn_axe3
+-->
+	<string id="st_sledge_hammer">
+		<text>Młot przemysłowy</text>
+	</string>
+
+	<string id="st_sledge_hammer_descr">
+		<text>Tępy, ciężki młot przemysłowy. Narzędzie używane kiedyś do budowy budynków wokół nas, a aktualnie używany do miażdżenia głów tych, którzy przesiadują wewnątrz. \n \n
+		%c[ui_gray_3]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[ui_gray_2] Broń do walki wręcz\n
+		%c[d_cyan] • %c[ui_gray_2] Siła lekkiego ataku: %c[ui_red]120\n
+		%c[d_cyan] • %c[ui_gray_2] Siła ciężkiego ataku: %c[ui_red]170\n
+		%c[d_cyan] • %c[ui_gray_2] Penetracja pancerza: %c[ui_red]45\n
+		%c[d_green] • %c[ui_gray_2] Większy zasięg w porównaniu do noży\n
+		%c[d_green] • %c[ui_gray_2] Nie może być używany do skórowania mutantów\n
+		</text>
+	</string>
+
+</string_table>

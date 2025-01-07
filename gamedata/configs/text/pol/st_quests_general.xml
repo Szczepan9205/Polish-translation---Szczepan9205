@@ -35,7 +35,7 @@
 		<text>Spotkaj siê z Sidorowiczem</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_start_game_1_text">
-		<text>Sidorowicz w Kordonie znany jest z tego, ¿e pomaga niedoœwiadczonym stalkerom.</text>
+		<text>Spotkaj siê z Sidorowiczem w Kordonie.</text>
 	</string>
 
 	<!-- Start Game at Petrenko (Duty) Task 1 -->
@@ -53,7 +53,7 @@
 		<text>Spotkaj siê z £ukaszem</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_text">
-		<text>£ukasz - lider Wolnoœci - chce z tob¹ pogadaæ.</text>
+		<text>Spotkaj siê z liderem Wolnoœci.</text>
 	</string>
 
 	<!-- Meet Cold1 (Clear Sky) Task 1 -->
@@ -86,10 +86,10 @@
 	<!-- Start Game at Kuznetsov (Military Honcho) Task 1 -->
 
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_name">
-		<text>Spotkaj siê z majorem KuŸniecowem</text>
+		<text>Spotkaj siê z majorem Kuzniecowem</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_text">
-		<text>Zg³oœ siê do majora KuŸniecowa.</text>
+		<text>Zg³oœ siê do majora Kuzniecowa.</text>
 	</string>
 
 	<!-- Start Game at Sultan (Bandit Honcho) Task 1 -->
@@ -98,7 +98,7 @@
 		<text>Spotkaj siê z Su³tanem</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_text">
-		<text>Su³tan chce ciê widzieæ.</text>
+		<text>Spotkaj siê z Su³tanem.</text>
 	</string>
 
 	<!-- Start Game at Rabbit (Monolith Trader) Task 1 -->
@@ -107,7 +107,7 @@
 		<text>Spotkaj siê z Królikiem</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_text">
-		<text>Zdob¹dŸ wskazówki u œwiat³ego Królika.</text>
+		<text>IdŸ i poszukaj wskazówek u m¹drego Królika.</text>
 	</string>
 	
 	<!-- Start Game at Stribog (Sin Trader) Task 1 -->
@@ -116,7 +116,7 @@
 		<text>Spotkaj siê ze Strzybogiem</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_start_game_1_text">
-		<text>OdnajdŸ Strzyboga, by otrzymaæ misjê.</text>
+		<text>Spotkaj siê ze Strzybogiem.</text>
 	</string>
 
 
@@ -131,7 +131,7 @@
 		<text>Spotkaj siê z Sidorowiczem</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_meet_task_1_text">
-		<text>Sidorowicz w Kordonie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Sidorowiczem w Kordonie.</text>
 	</string>
 
 	<!-- Meet Xenotech (Loner) Task 1 -->
@@ -140,7 +140,7 @@
 		<text>Spotkaj siê z Furgonem</text>
 	</string>
 	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_meet_task_1_text">
-		<text>Furgon w Kordonie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Furgonem w Kordonie.</text>
 	</string>
 
 	<!-- Meet Beard (Loner) Task 1 -->
@@ -149,7 +149,7 @@
 		<text>Spotkaj siê z Brodaczem</text>
 	</string>
 	<string id="drx_sl_zat_a2_stalker_barmen_meet_task_1_text">
-		<text>Brodacz na Skadowsku to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Brodaczem na Skadowsku.</text>
 	</string>
 
 	<!-- Meet Noah (Loner) Task 1 -->
@@ -158,7 +158,7 @@
 		<text>Spotkaj siê z Noe</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_meet_task_1_text">
-		<text>Noe na Zatonie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Noe na Zatonie.</text>
 	</string>
 
 	<!-- Meet Petrenko (Duty) Task 1 -->
@@ -167,7 +167,7 @@
 		<text>Spotkaj siê z pu³kownikiem Pietrenk¹</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_meet_task_1_text">
-		<text>Pu³kownik Pietrenko w Rostoku to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z pu³kownikiem Pietrenk¹ w Rostoku.</text>
 	</string>
 
 	<!-- Meet Mangun (Duty) Task 1 -->
@@ -176,7 +176,7 @@
 		<text>Spotkaj siê z Majstrem</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_meet_task_1_text">
-		<text>Majster w Rostoku to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Majstrem w Rostoku.</text>
 	</string>
 
 	<!-- Meet Lukash (Freedom) Task 1 -->
@@ -185,7 +185,7 @@
 		<text>Spotkaj siê z £ukaszem</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_meet_task_1_text">
-		<text>£ukasz w Magazynach Wojskowych to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z £ukaszem w Magazynach Wojskowych.</text>
 	</string>
 
 	<!-- Meet Loki (Freedom) Task 1 -->
@@ -194,7 +194,7 @@
 		<text>Spotkaj siê z Lokim</text>
 	</string>
 	<string id="drx_sl_jup_a6_freedom_leader_meet_task_1_text">
-		<text>Loki w Janowie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Lokim w Janowie.</text>
 	</string>
 
 	<!-- Meet Cold (Clear Sky) Task 1 -->
@@ -203,7 +203,7 @@
 		<text>Spotkaj siê z Zimnym</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_meet_task_1_text">
-		<text>Zimny na Bagnach to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Zimnym na Bagnach.</text>
 	</string>
 
 	<!-- Meet Librarian (Clear Sky) Task 1 -->
@@ -212,7 +212,7 @@
 		<text>Spotkaj siê z Bibliotekarzem</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_meet_task_1_text">
-		<text>Bibliotekarz na Bagnach to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Bibliotekarzem na Bagnach.</text>
 	</string>
 
 	<!-- Meet Sakharov (Ecologist) Task 1 -->
@@ -221,7 +221,7 @@
 		<text>Spotkaj siê z prof. Sacharowem</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_meet_task_1_text">
-		<text>Profesor Sacharow w Jantarze to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z prof. Sacharowem nad Jantarem.</text>
 	</string>
 
 	<!-- Meet Tukarev (Ecologist) Task 1 -->
@@ -230,7 +230,7 @@
 		<text>Spotkaj siê z Tukariewem</text>
 	</string>
 	<string id="drx_sl_jup_b6_scientist_tech_meet_task_1_text">
-		<text>Tukariew w Jupiterze to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Tukariewem.</text>
 	</string>
 
 	<!-- Meet Dushman (Mercenary) Task 1 -->
@@ -239,7 +239,7 @@
 		<text>Spotkaj siê z Duszmanem</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_trader_stalker_meet_task_1_text">
-		<text>Duszman w Martwym Mieœcie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Duszmanem w Martwym Mieœcie.</text>
 	</string>
 
 	<!-- Meet Hog (Mercenary) Task 1 -->
@@ -248,16 +248,16 @@
 		<text>Spotkaj siê z Wieprzem</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_mechanic_stalker_meet_task_1_text">
-		<text>Wieprz w Martwym Mieœcie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Wieprzem w Martwym Mieœcie.</text>
 	</string>
 
 	<!-- Meet Kuznetsov (Military) Task 1 -->
 
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_name">
-		<text>Spotkaj siê z majorem KuŸniecowem</text>
+		<text>Spotkaj siê z pu³kownikiem Kuzniecowem</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_text">
-		<text>Major KuŸniecow w Agropromie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z pu³kownikiem Kuzniecowem w Agropromie.</text>
 	</string>
 
 	<!-- Meet Kirilov (Military) Task 1 -->
@@ -266,7 +266,7 @@
 		<text>Spotkaj siê z porucznikiem Kiry³owem</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_meet_task_1_text">
-		<text>Porucznik Kiry³ow w Agropromie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z porucznikiem Kiry³owem w Agropromie.</text>
 	</string>
 
 	<!-- Meet Sultan (Bandit) Task 1 -->
@@ -275,7 +275,7 @@
 		<text>Spotkaj siê z Su³tanem</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_meet_task_1_text">
-		<text>Su³tan w Dolinie Mroku to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Su³tanem w Dolinie Mroku.</text>
 	</string>
 
 	<!-- Meet Olivius (Bandit) Task 1 -->
@@ -284,7 +284,7 @@
 		<text>Spotkaj siê z Dziurawym</text>
 	</string>
 	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_meet_task_1_text">
-		<text>Dziurawy w Dolinie Mroku to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Dziurawym w Dolinie Mroku.</text>
 	</string>
 
 	<!-- Meet Rabbit (Monolith) Task 1 -->
@@ -293,7 +293,7 @@
 		<text>Spotkaj siê z Królikiem</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_meet_task_1_text">
-		<text>Królik w Prypeci to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Królikiem w Prypeci.</text>
 	</string>
 
 
@@ -303,7 +303,7 @@
 		<text>Spotkaj siê z Klerykiem</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_meet_task_1_text">
-		<text>Kleryk w Prypeci to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Klerykiem w Prypeci.</text>
 	</string>
 	
 	<!-- Meet Stribog (Sin) Task 1 -->
@@ -312,7 +312,7 @@
 		<text>Spotkaj siê ze Strzybogiem</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_meet_task_1_text">
-		<text>Strzybóg w Czerwonym Lesie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê ze Strzybogiem w Czerwonym Lesie.</text>
 	</string>
 	
 	<!-- Meet Dazhbog (Sin) Task 1 -->
@@ -321,7 +321,7 @@
 		<text>Spotkaj siê z Da¿bogiem</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_meet_task_1_text">
-		<text>Da¿bóg w Czerwonym Lesie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Da¿bogiem w Czerwonym Lesie.</text>
 	</string>
 	
 	<!-- Meet Olivar (Monolith) Task 1 -->
@@ -330,7 +330,7 @@
 		<text>Spotkaj siê ze Sk¹pcem</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_meet_task_1_text">
-		<text>Sk¹piec na Przedmieœciach to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê ze Sk¹pcem na Przedmieœciach Prypeci.</text>
 	</string>
 	
 	<!-- Meet Griffith (Monolith) Task 1 -->
@@ -339,7 +339,7 @@
 		<text>Spotkaj siê z Gryfem</text>
 	</string>
 	<string id="drx_sl_merc_pri_grifon_mlr_meet_task_1_text">
-		<text>Gryf na Przedmieœciach Prypeci to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Gryfem na Przedmieœciach Prypeci.</text>
 	</string>
 	
 	<!-- Meet Vector (Mercenary) Task 1 -->
@@ -348,7 +348,7 @@
 		<text>Spotkaj siê z Wektorem</text>
 	</string>
 	<string id="drx_sl_zat_stancia_trader_merc_meet_task_1_text">
-		<text>Wektor na Zatonie to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Wektorem na Zatonie.</text>
 	</string>
 	
 	<!-- Meet Klenov (Bandit) Task 1 -->
@@ -357,7 +357,7 @@
 		<text>Spotkaj siê z Ojcem Mateuszem</text>
 	</string>
 	<string id="drx_sl_jup_cont_trader_bandit_meet_task_1_text">
-		<text>Ojciec Mateusz w Jupiterze to twój nastêpny kontakt.</text>
+		<text>Spotkaj siê z Ojcem Mateuszem w Jupiterze.</text>
 	</string>
 
 	<!-- SIMULATION TASK TEXT STRINGS     -->
@@ -367,7 +367,7 @@
 		<text>Pomoc w terenie</text>
 	</string>
 	<string id="simulation_task_1_text">
-		<text>Jakiœ goœæ poprosi³, ¿ebym przyniós³ mu %s.</text>
+		<text>Przynieœ koledze stalkerowi %s.</text>
 	</string>
 	<string id="simulation_task_1_about">
 		<text>Ech, jadê z zapasami na oparach. Jakbyœ mia³ coœ na zbyciu i zechcia³ mi to podrzuciæ, bêdê ci bardzo wdziêczny.</text>
@@ -385,7 +385,7 @@
 		<text>Pomocna d³oñ</text>
 	</string>
 	<string id="simulation_task_2_text">
-		<text>Jakiœ typ prosi³ mnie o %s.</text>
+		<text>Przynieœ koledze stalkerowi %s.</text>
 	</string>
 	<string id="simulation_task_2_about">
 		<text>A jeba³ to pies... Mo¿esz coœ dla mnie zrobiæ? Krucho u mnie z zapasami. Pomo¿esz?</text>
@@ -403,7 +403,7 @@
 		<text>Szacher-macher</text>
 	</string>
 	<string id="simulation_task_3_text">
-		<text>ZnajdŸ %s dla  bandyty.</text>
+		<text>Przynieœ bandycie %s.</text>
 	</string>
 	<string id="simulation_task_3_about">
 		<text>Ej, ziomeczku, machniom? Towar za towar, a?</text>
@@ -421,7 +421,7 @@
 		<text>Pomoc humanitarna</text>
 	</string>
 	<string id="simulation_task_4_text">
-		<text>ZnajdŸ %s dla  ¿o³nierza.</text>
+		<text>ZnajdŸ %s dla ¿o³nierza.</text>
 	</string>
 	<string id="simulation_task_4_about">
 		<text>Masz coœ, co chcia³byœ przehandlowaæ?</text>
@@ -455,10 +455,10 @@
 		<text>Dostawa zaopatrzenia</text>
 	</string>
 	<string id="simulation_task_6_text">
-		<text>Jeden z najemników prosi³, by znaleŸæ %s.</text>
+		<text>ZnajdŸ najemnikowi %s.</text>
 	</string>
 	<string id="simulation_task_6_about">
-		<text>Mo¿esz wyœwiadczyæ mi przys³ugê? Koñcz¹ mi siê zapasy. Pomo¿esz?</text>
+		<text>Móg³byœ wyœwiadczyæ mi wielk¹ przys³ugê? Koñcz¹ mi siê zapasy. Pomo¿esz?</text>
 	</string>
 	<string id="simulation_task_6_fetch_about">
 		<text>Koñczy mi siê %s. ZnajdŸ mnie, jeœli uda ci siê to zdobyæ.</text>
@@ -481,7 +481,7 @@
 		<text>Szukam %s. Uwielbiam tê broñ! Jeœli znajdziesz mi taki model w dobrym stanie, zap³acê ekstra.</text>
 	</string>
 	<string id="simulation_task_7_fetch_finish">
-		<text>Spasiba, stalker! Kasa, tak jak siê umawialiœmy. No, to teraz mogê wlecieæ w tego cholernego z³amasa.</text>
+		<text>Spasiba, stalker! Kasa, tak jak siê umawialiœmy. No, to teraz mogê wlecieæ w tego cholernego po³amañca...</text>
 	</string>
 
 
@@ -616,10 +616,10 @@
 		<text>Bandyta ma swój tajny sposób na przyrz¹dzanie jedzenia. %s to brakuj¹cy sk³adnik.</text>
 	</string>
 	<string id="simulation_task_15_about">
-		<text>Ej, ziomeczku, próbowa³eœ kiedyœ kutasa z mutasa? Ha ha ha! Œwirki, brat. Ale serio - patafiany twierdz¹, ¿e nie zjedz¹, ¿e chujnia, ¿e mnie pojeba³o, ale to jest naprawdê dobre. Lepsze nawet od kebaba! Powiedz no, co powiesz na ma³e polowanko?</text>
+		<text>Ej, ziomeczku, próbowa³eœ kiedyœ kutasa z mutasa? Ha ha ha! Œwirujê, bratan. Ale serio - patafiany twierdz¹, ¿e nie zjedz¹, ¿e chujnia, ¿e mnie pojeba³o, ale to jest naprawdê dobre. Lepsze nawet od kebaba! Powiedz no, co powiesz na ma³e polowanko?</text>
 	</string>
 	<string id="simulation_task_15_fetch_about">
-		<text>Git. Sko³uj mi %s, a podkrêcê ci coœ ekstra. Ale bêdzie jedzone!</text>
+		<text>Git. Sko³uj mi %s, a podkopsam ci coœ ekstra. Ale bêdzie jedzone!</text>
 	</string>
 	<string id="simulation_task_15_fetch_finish">
 		<text>No, panie, jak ty mnie zaimponowa³eœ w tej chwili! Kasa i trochê ekstra fantów, nale¿y ci siê.</text>
@@ -639,7 +639,7 @@
 		<text>Potrzebujê próbek badawczych. %s nie zosta³o jeszcze dobrze sklasyfikowane. Odp³acê siê za k³opot i - rzecz jasna - za ryzyko.</text>
 	</string>
 	<string id="simulation_task_16_fetch_finish">
-		<text>Serdecznie dziêkujê. To bardzo u³atwia moj¹ pracê.</text>
+		<text>Serdecznie dziêkujê, m³ody cz³owieku. To bardzo pomo¿e w moich badaniach.</text>
 	</string>
 
 
@@ -734,7 +734,7 @@
 		<text>Pomoc w zbiórce</text>
 	</string>
 	<string id="simulation_task_22_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, trzeba znaleŸæ i dostarczyæ im %s.</text>
 	</string>
 	<string id="simulation_task_22_about">
 		<text>Mój oddzia³ planuje wyruszyæ w inn¹ czêœæ Zony. Tak sobie myœlê, ¿e przyda³oby im siê trochê dodatkowego szpeju. Przynieœ nam %s, a ja dam ci coœ w zamian.</text>
@@ -751,7 +751,7 @@
 		<text>Pogotowie techniczne</text>
 	</string>
 	<string id="simulation_task_23_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, trzeba znaleŸæ i dostarczyæ im %s.</text>
 	</string>
 	<string id="simulation_task_23_about">
 		<text>Widzisz t¹ chujozê, któr¹ muszê nosiæ? Nie zwraca³em uwagi, ¿e zaczyna siê psuæ i teraz mam za swoje. Muszê posk³adaæ to do kupy najszybciej, jak tylko siê da.</text>
@@ -892,7 +892,7 @@
 		<text>Jak na æwiczeniach</text>
 	</string>
 	<string id="simulation_task_32_text">
-		<text>Stalker za³o¿y³ siê z tob¹, ¿e nie wyeliminujesz wa¿nego celu.</text>
+		<text>Zabij wa¿ny cel</text>
 	</string>
 	<string id="simulation_task_32_about">
 		<text>O co ci chodzi? Próbujesz pi¹æ wy¿ej, czy jak? Co chcesz osi¹gn¹æ?\n \nCoœ ci zdradzê, cwaniaczku... Ca³kiem przypadkowo znam dok³adn¹ pozycjê celu, którego góra bardzo chce siê pozbyæ. Idê o zak³ad, ¿e nawet nie uda ci siê do niego zbli¿yæ. Przyjmujesz?</text>
@@ -1480,23 +1480,23 @@
 		<text>Polowanie na Nocnego Drapie¿nika</text>
 	</string>
 	<string id="simulation_task_66_text">
-		<text>Proszono ciê o pomoc w upolowaniu niebezpiecznego mutanta ¿eruj¹cego noc¹. Lepiej wytrop go, nim nadejdzie dzieñ.</text>
+		<text>Upoluj niebezpiecznego mutanta ¿eruj¹cego noc¹. Lepiej wytrop go, nim nadejdzie dzieñ.</text>
 	</string>
 	<string id="simulation_task_66_about">
 		<text>Wczoraj widzia³em jednego z tych nocnych mutantów. Dopad³ któregoœ z naszych. Musimy go wytropiæ i odjebaæ, zanim ucieknie do legowiska. Chcesz do nas do³¹czyæ?</text>
 	</string>
 	<string id="simulation_task_66_finish">
-		<text>Uff... By³o blisko. Wielkie dziêki. Trzymaj swoj¹ dzia³kê, dobrej ci Zony!</text>
+		<text>Uff... by³o blisko. Wielkie dziêki, trzymaj te¿ swoj¹ dzia³kê. Dobrej ci Zony!</text>
 	</string>
 	
 	<string id="simulation_task_67_name">
 		<text>Coœ czai siê w mroku</text>
 	</string>
 	<string id="simulation_task_67_text">
-		<text>Proszono ciê o pomoc w upolowaniu niebezpiecznej bestii ¿eruj¹cej noc¹. Lepiej wytrop j¹, zanim zgin¹ niewinni stalkerzy.</text>
+		<text>Wyeliminuj niebezpieczn¹ bestiê ¿eruj¹c¹ noc¹. Lepiej wytrop j¹, zanim zgin¹ niewinni stalkerzy.</text>
 	</string>
 	<string id="simulation_task_67_about">
-		<text>S³uchaj, stalker. Dostaliœmy robotê - odstrza³ jakiejœ bestii. Musimy to zrobiæ tej nocy, albo wróci tu prêdzej, czy póŸniej i dopadnie jeszcze wiêcej naszych. Nie mo¿emy na to pozwoliæ.\n \nKa¿da lufa siê przyda, o ile chcesz pomóc, oczywiœcie. To co, do³¹czysz do nas i idziemy to upolowaæ, cokolwiek czai siê w mroku?</text>
+		<text>S³uchaj, stalkerze. Dostaliœmy robotê - odstrza³ jakiejœ bestii. Musimy to zrobiæ tej nocy, albo wróci tu prêdzej, czy póŸniej i dopadnie jeszcze wiêcej naszych. Nie mo¿emy na to pozwoliæ.\n \nKa¿da lufa siê przyda, o ile chcesz pomóc, oczywiœcie. To co, do³¹czysz do nas i idziemy to upolowaæ, cokolwiek czai siê w mroku?</text>
 	</string>
 	<string id="simulation_task_67_finish">
 		<text>Uda³o nam siê. Uch... Œwietna robota, druhu. Proszê, weŸ to, absolutnie ci siê nale¿y.</text>
@@ -1761,10 +1761,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_83_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê, stalker.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê, stalkerze.</text>
 	</string>
 	<string id="simulation_task_83_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<!-- FIND MUTANT PARTS FOR LONERS TASK -->
@@ -1778,10 +1778,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_84_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_84_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<string id="simulation_task_85_name">
@@ -1794,10 +1794,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_85_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_85_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<string id="simulation_task_86_name">
@@ -1810,10 +1810,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_86_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_86_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<string id="simulation_task_87_name">
@@ -1826,10 +1826,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_87_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_87_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<string id="simulation_task_88_name">
@@ -1842,10 +1842,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_88_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_88_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
@@ -1856,7 +1856,7 @@
 		<text>Naukowiec potrzebuje próbek do badañ. Zdob¹dŸ %s.</text>
 	</string>
 	<string id="simulation_task_89_about">
-		<text>Badam konkretne gatunki ¿yj¹ce na tym obszarze. Poszukujê kogoœ, kto zdobêdzie dla mnie próbki tkanek.</text>
+		<text>Badam konkretne gatunki ¿yj¹ce na tym obszarze. Poszukujê kogoœ, kto zdobêdzie dla mnie próbki tkanek. Myœlisz, ¿e pasujesz do tego opisu?</text>
 	</string>
 	<string id="simulation_task_89_fetch_about">
 		<text>Potrzebujê próbek badawczych. %s nie zosta³o jeszcze dobrze sklasyfikowane. Odp³acê siê za k³opot i - rzecz jasna - za ryzyko.</text>
@@ -1875,10 +1875,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_90_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_90_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<string id="simulation_task_91_name">
@@ -1891,10 +1891,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_91_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_91_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<string id="simulation_task_92_name">
@@ -1904,7 +1904,7 @@
 		<text>Naukowiec potrzebuje próbek do badañ. Zdob¹dŸ %s.</text>
 	</string>
 	<string id="simulation_task_92_about">
-		<text>Badam konkretne gatunki ¿yj¹ce na tym obszarze. Poszukujê kogoœ, kto zdobêdzie dla mnie próbki tkanek.</text>
+		<text>Badam konkretne gatunki ¿yj¹ce na tym obszarze. Poszukujê kogoœ, kto zdobêdzie dla mnie próbki tkanek. Myœlisz, ¿e pasujesz do tego opisu?</text>
 	</string>
 	<string id="simulation_task_92_fetch_about">
 		<text>Potrzebujê próbek badawczych. %s nie zosta³o jeszcze dobrze sklasyfikowane. Odp³acê siê za k³opot i - rzecz jasna - za ryzyko.</text>
@@ -1923,10 +1923,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_93_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_93_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 			<string id="simulation_task_94_name">
@@ -1939,10 +1939,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_94_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_94_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 			<string id="simulation_task_95_name">
@@ -1955,10 +1955,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_95_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_95_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 			<string id="simulation_task_96_name">
@@ -1971,10 +1971,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_96_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_96_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 			<string id="simulation_task_97_name">
@@ -1987,10 +1987,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_97_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_97_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 			<string id="simulation_task_98_name">
@@ -2000,7 +2000,7 @@
 		<text>Naukowiec potrzebuje próbek do badañ. Zdob¹dŸ %s.</text>
 	</string>
 	<string id="simulation_task_98_about">
-		<text>Badam konkretne gatunki ¿yj¹ce na tym obszarze. Poszukujê kogoœ, kto zdobêdzie dla mnie próbki tkanek.</text>
+		<text>Badam konkretne gatunki ¿yj¹ce na tym obszarze. Poszukujê kogoœ, kto zdobêdzie dla mnie próbki tkanek. Myœlisz, ¿e pasujesz do tego opisu?</text>
 	</string>
 	<string id="simulation_task_98_fetch_about">
 		<text>Potrzebujê próbek badawczych. %s nie zosta³o jeszcze dobrze sklasyfikowane. Odp³acê siê za k³opot i - rzecz jasna - za ryzyko.</text>
@@ -2035,10 +2035,10 @@
 		<text>Mam zlecenie na ten konkretny typ mutanta, zainteresowany?</text>
 	</string>
 	<string id="simulation_task_100_fetch_about">
-		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s, dobrze zap³acê.</text>
+		<text>Zabij tego mutanta i przynieœ mi trofeum, a konkretnie %s. Dobrze ci zap³acê.</text>
 	</string>
 	<string id="simulation_task_100_fetch_finish">
-		<text>No i fajno! Jednego mutanta mniej. Dobra robota.</text>
+		<text>No i fajno! Jednego mutanta mniej, a do tego mamy now¹ ozdobê do obozu. Dobra robota.</text>
 	</string>
 	
 		<!-- Find Trip Equipment Tasks -->	
@@ -2046,7 +2046,7 @@
 		<text>Zdob¹dŸ %s dla Samotników</text>
 	</string>
 	<string id="simulation_task_101_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_101_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2062,7 +2062,7 @@
 		<text>Zdob¹dŸ %s dla Czystego Nieba</text>
 	</string>
 	<string id="simulation_task_102_text">
-		<text>Ludzie z Czystego Nieba szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Ludzie z Czystego Nieba szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_102_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2078,7 +2078,7 @@
 		<text>Zdob¹dŸ %s dla Wolnoœci</text>
 	</string>
 	<string id="simulation_task_103_text">
-		<text>Ludzie z Wolnoœci szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Ludzie z Wolnoœci szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_103_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2094,7 +2094,7 @@
 		<text>Zdob¹dŸ %s dla Bandytów</text>
 	</string>
 	<string id="simulation_task_104_text">
-		<text>Bandyci szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Bandyci szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_104_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2110,7 +2110,7 @@
 		<text>Zdob¹dŸ %s dla Renegatów</text>
 	</string>
 	<string id="simulation_task_105_text">
-		<text>Renegaci szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Renegaci szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_105_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2126,7 +2126,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_106_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_106_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2142,7 +2142,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_107_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_107_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2158,7 +2158,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_108_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_108_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2174,7 +2174,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_109_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_109_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2190,7 +2190,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_110_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_110_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2206,7 +2206,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_111_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_111_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2222,7 +2222,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_112_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_112_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2238,7 +2238,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_113_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_113_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2254,7 +2254,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_114_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_114_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2270,7 +2270,7 @@
 		<text>Zdob¹dŸ %s dla stalkerów</text>
 	</string>
 	<string id="simulation_task_115_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_115_about">
 		<text>Szykujemy siê z ekip¹ do powa¿nej wyprawy w g³¹b Zony. Przyda³oby nam siê trochê wyposa¿enia.</text>
@@ -2287,7 +2287,7 @@
 		<text>Pomoc w zbiórce</text>
 	</string>
 	<string id="simulation_task_116_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_116_about">
 		<text>Mój oddzia³ planuje wyruszyæ w inn¹ czêœæ Zony. Tak sobie myœlê, ¿e przyda³oby im siê trochê dodatkowego szpeju. Przynieœ nam %s, a ja dam ci coœ w zamian.</text>
@@ -2303,7 +2303,7 @@
 		<text>Pomoc w zbiórce</text>
 	</string>
 	<string id="simulation_task_117_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_117_about">
 		<text>Mój oddzia³ planuje wyruszyæ w inn¹ czêœæ Zony. Tak sobie myœlê, ¿e przyda³oby im siê trochê dodatkowego szpeju. Przynieœ nam %s, a ja dam ci coœ w zamian.</text>
@@ -2319,7 +2319,7 @@
 		<text>Pomoc w zbiórce</text>
 	</string>
 	<string id="simulation_task_118_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_118_about">
 		<text>Mój oddzia³ planuje wyruszyæ w inn¹ czêœæ Zony. Tak sobie myœlê, ¿e przyda³oby im siê trochê dodatkowego szpeju. Przynieœ nam %s, a ja dam ci coœ w zamian.</text>
@@ -2335,7 +2335,7 @@
 		<text>Pomoc w zbiórce</text>
 	</string>
 	<string id="simulation_task_119_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_119_about">
 		<text>Mój oddzia³ planuje wyruszyæ w inn¹ czêœæ Zony. Tak sobie myœlê, ¿e przyda³oby im siê trochê dodatkowego szpeju. Przynieœ nam %s, a ja dam ci coœ w zamian.</text>
@@ -2351,7 +2351,7 @@
 		<text>Pomoc w zbiórce</text>
 	</string>
 	<string id="simulation_task_120_text">
-		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, jest to %s.</text>
+		<text>Stalkerzy szykuj¹ siê do wyprawy. Brakuje im wyposa¿enia, znajdŸ i przynieœ im %s.</text>
 	</string>
 	<string id="simulation_task_120_about">
 		<text>Mój oddzia³ planuje wyruszyæ w inn¹ czêœæ Zony. Tak sobie myœlê, ¿e przyda³oby im siê trochê dodatkowego szpeju. Przynieœ nam %s, a ja dam ci coœ w zamian.</text>
@@ -2429,7 +2429,7 @@
 		<text>Zamówienie specjalne: odbierz towar</text>
 	</string>
 	<string id="esc_2_12_nimble_items_get_order_text">
-		<text>Towar zosta³ dostarczony; czas odebraæ go od ¯wawego.</text>
+		<text>Towar zosta³ dostarczony. Czas odebraæ go od ¯wawego.</text>
 	</string>
 	<string id="esc_2_12_nimble_items_wait_order_name">
 		<text>Zamówienie specjalne: czekaj na dostawê</text>
@@ -2555,7 +2555,7 @@
 		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="fetch_drugkit_task_text">
-		<text>Musisz dostarczyæ %s.</text>
+		<text>ZnajdŸ i dostarcz medykowi %s.</text>
 	</string>
 	<string id="fetch_drugkit_task_about">
 		<text>Utrzymanie okreœlonej iloœci zapasów w kontekœcie tego, ile osób przychodzi do mnie ka¿dego dnia to nie lada wyzwanie. Obawiam siê, ¿e tak podstawowe rzeczy jak banda¿e i apteczki skoñcz¹ mi siê prêdzej, czy póŸniej.\n \nChcia³bym, ¿ebyœ przyniós³ mi jeden z tych starych zestawów do produkcji leków. Na pewno kiedyœ mi siê przyda.</text>

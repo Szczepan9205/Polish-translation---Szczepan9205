@@ -181,10 +181,10 @@
 		<text>Pojedynek</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_text">
-		<text>ZnajdŸ i wyeliminuj cel, nastêpnie wróæ do Su³tana po nagrodê.</text>
+		<text>Wyeliminuj cel dla Su³tana.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_about">
-		<text>W Zonie jest wielu ludzi, którzy Ÿle mnie potraktowali lub okazali brak szacunku. Niektórzy z tych frajerów wisz¹ mi kasê, inni zjebali interes. To zwyk³e szczury, które trzeba rozdeptaæ.\n \nJeœli nie boisz siê pobrudziæ sobie r¹k, wrzucê ci na bêben info o ich po³o¿eniu w PDA, ¿ebyœ móg³ ich znaleŸæ i siê ich pozbyæ.</text>
+		<text>Widzisz t¹ listê? W Zonie jest wielu ludzi, którzy Ÿle mnie potraktowali lub okazali brak szacunku. Niektórzy z tych frajerów wisz¹ mi kasê, inni zjebali interes. To zwyk³e szczury, które trzeba rozdeptaæ.\n \nJeœli nie boisz siê pobrudziæ sobie r¹k, wrzucê ci na bêben info o ich po³o¿eniu w PDA, ¿ebyœ móg³ ich znaleŸæ i siê ich pozbyæ.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
 		<text>Œwietna robota! Oto ma³e co nieco za twój wysi³ek.</text>
@@ -197,13 +197,13 @@
 		<text>Pogrom</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_2_text">
-		<text>Su³tan chce, aby wyeliminowaæ ka¿dego napotkanego w okolicy wojskowego.</text>
+		<text>Su³tan chce, aby wyeliminowaæ napotkany w okolicy patrol Wojskowy.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_2_about">
-		<text>Te wojskowe skurwysyny znowu krêc¹ siê po okolicy. Ruszaj i zrób z nimi porz¹dek.</text>
+		<text>Najprawdopodobniej bêd¹ nêkaæ naszych najemców lub po raz kolejny zaatakuj¹ pobliskie laboratorium... kretyni. Te chujki to ju¿ i tak chodz¹ce trupy, ale zap³acê ci za usuniêcie ich, zanim ich idiotyzm skrzywdzi kogokolwiek, kogo znam.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_2_finish">
-		<text>Wyœmienita robota. Dobrze siê spisa³eœ.</text>
+		<text>Wyœmienita robota. ¯yczy³bym sobie, aby wiêcej ch³opaków tutaj mia³o takie jaja jak ty.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -213,10 +213,10 @@
 		<text>Bezprawie</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_3_text">
-		<text>Wyeliminuj stalkerów, którzy zaatakowali jednego z bandytów.</text>
+		<text>Wyeliminuj stalkerów, którzy zaatakowali jednego z bandytów Su³tana.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_3_about">
-		<text>Grupka stalkerów ostrzela³a jednego z naszych. WeŸ kilku ch³opaków i daj lekcjê tym skurwysynom.</text>
+		<text>Dobra, s³uchaj. Nie tak dawno temu grupka stalkerów ostrzela³a jednego z naszych. Na szczêœcie uciek³ i dochodzi do siebie w hangarze medycznym, ale nie mo¿emy sobie pozwalaæ na taki brak szacunku. Byæ mo¿e bêdziesz musia³ zebraæ swoj¹ w³asn¹ bandê, zanim siê z nimi zmierzysz, ale ci faceci próbowali zmasakrowaæ naszego ziomka. Poka¿ im, co siê dzieje z tymi, którzy próbuj¹ z nami zadzieraæ.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_3_finish">
 		<text>Zrobione? Dobrze.</text>
@@ -227,13 +227,13 @@
 		<text>W czapê</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_4_text">
-		<text>Su³tan zleci³ zdobycie %s</text>
+		<text>Su³tan potrzebuje %s</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_4_about">
-		<text>Czas przypomnieæ tym frajerom, kim naprawdê jesteœmy. Zedrzyj naszywki z ich truche³ i przynieœ je do mnie.</text>
+		<text>Czas przypomnieæ tym frajerom, kim naprawdê jesteœmy. Zedrzyj naszywki z ich truche³ i przynieœ je do mnie, a ja zajmê siê reszt¹.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_4_fetch_about">
-		<text>Czas przypomnieæ tym frajerom, kim naprawdê jesteœmy. Zedrzyj naszywki z ich truche³ i przynieœ je do mnie.</text>
+		<text>Czas przypomnieæ tym frajerom, kim naprawdê jesteœmy. Zedrzyj naszywki z ich truche³ i przynieœ je do mnie, a ja zajmê siê reszt¹</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_4_fetch_finish">
 		<text>Dorwa³eœ ich? Trzymaj kasê.</text>
@@ -249,10 +249,10 @@
 		<text>Su³tan chce wyeliminowaæ stalkerów na farmie.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_5_about">
-		<text>Mam dla ciebie robotê. Grupa stalkerów rozbi³a obóz na pobliskiej farmie, a ja nie chcê ich na naszym terenie. WeŸ kilku ch³opaków i przeka¿cie im, ¿eby siê st¹d szybko oddalili, co?</text>
+		<text>Mam dla ciebie robotê. Grupa stalkerów rozbi³a obóz na pobliskiej farmie na po³udniu. Odmawiaj¹ "p³acenia za wynajem", a nawet odstraszaj¹ potencjalnych najemców. Tak po prostu nie mo¿na. WeŸmiesz kilku ch³opców i grzecznie ich eskortujcie, prawda?</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_5_finish">
-		<text>NieŸle, Rambo. Oto twoja nagroda.</text>
+		<text>Wiêc próbowali zap³aciæ kulami, co? Typowe darmozjady... Jeœli chodzi o ciebie, oto twoja nagroda.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -262,7 +262,7 @@
 		<text>Bestia</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_6_text">
-		<text>Su³tan chce, ¿ebyœ pozby³ siê niebezpiecznego mutanta.</text>
+		<text>Su³tan chce, aby pozbyæ siê niebezpiecznego mutanta.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_6_about">
 		<text>Te jebane mutanty robi¹ siê wkurwiaj¹ce. Ca³kiem niedawno jakaœ bestia wyr¿nê³a ca³y oddzia³ naszych ch³opców. Podam ci jej ostatni¹ znan¹ pozycjê. IdŸ i skop jej dupê.</text>
@@ -293,7 +293,7 @@
 		<text>Bajzel i gnój</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
-		<text>Pozb¹dŸ siê z okolicy niechcianych goœci. Po wykonania zadania wróæ do Dziurawego.</text>
+		<text>Pozb¹dŸ siê z okolicy niechcianych goœci dla Dziurawego.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
 		<text>Te sukinsyny próbuj¹ wbiæ na nasz rewir. Szef wyda³ mi rozkaz znalezienia kogoœ, kto przegoni st¹d tych piŸdzielców. Co ty na to?</text>
@@ -305,13 +305,13 @@
 
 
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
-		<text>Cheekie Breekie i v Damke!</text>
+		<text>Cheeki Breeki iv Damke!</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
 		<text>Podaj lokalnym stalkerom pomocn¹ d³oñ, odci¹¿aj¹c ich z kosztownoœci tak d³ugo, a¿ twoja weso³a gromadka bandytów bêdzie zadowolona.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
-		<text>Kilku ziomali szuka zwiadowcy, który poprowadzi poszukiwania ich g³ównych celów. Zap³acê ci po tym jak skoñczysz swoj¹ robotê.</text>
+		<text>Kilku ziomali szuka cz³owieka, który poprowadzi poszukiwania ich g³ównych celów. ZnajdŸ dla nich kilka fajnych celów, a po skoñczonej robocie dostaniesz niez³¹ dzia³kê.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
 		<text>NieŸle, co? Trzymaj swoj¹ dzia³kê.</text>
@@ -323,22 +323,22 @@
 		<text>Mokra robota</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_text">
-		<text>Dziurawy zleci³ ci zabójstwo. ZnajdŸ i wyeliminuj cel, po czym wróæ do niego po nagrodê.</text>
+		<text>Dziurawy zleci³ ci zabójstwo.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_about">
 		<text>S³uchaj, goœciu. Mam tu listê typków, którymi z tych czy innych powodów trzeba siê zaj¹æ. Podrzuci³bym ci info o frajerze i gdzie go szukaæ, a ty go kropniesz. Pasuje?</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
-		<text>I kolejny frajer odhaczony. Oto obiecana nagroda.</text>
+		<text>I kolejny frajer odhaczony! Oto obiecana nagroda.</text>
 	</string>
 
 
 	<!-- FIND LEVEL 1 TOOLKIT FOR LIMPID -->
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
-		<text>ZnajdŸ %s dla Czystego</text>
+		<text>ZnajdŸ dla Czystego %s</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
-		<text>%s s¹ potrzebne Czystemu do instalacji podstawowych ulepszeñ broni i pancerzy. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
+		<text>Czysty chêtnie zobaczy³by w swoim warsztacie %s, które pos³u¿y³yby mu instalacji podstawowych ulepszeñ broni i kombinezonów. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
 		<text>Brachu, wiêkszoœæ szpeju, który tu mamy to totalna pyta, a ja bez jakichkolwiek narzêdzi nie mam jak posk³adaæ tego szmelcu do kupy... To jak, ruszysz dupsko i poszukasz jakichœ?</text>
@@ -353,16 +353,16 @@
 
 
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name">
-		<text>ZnajdŸ %s dla Czystego</text>
+		<text>ZnajdŸ dla Czystego %s</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
-		<text>%s s¹ potrzebne Czystemu do instalacji zaawansowanych ulepszeñ broni i pancerzy. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
+		<text>Czysty chêtnie zobaczy³by w swoim warsztacie %s, które pos³u¿y³yby mu do instalacji zaawansowanych ulepszeñ broni i kombinezonów. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
 		<text>To wypizdowo to straszne zachujewie jest, ale ta fabryczka... To nasza twierdza, nasz punkt strategiczny, goœciu! Ch³opaki chc¹ mieæ lepsze klamki - a my im je dostarczymy dziêki lepszym narzêdziorom, kminisz? To jak, mordo, rozejrzysz siê?</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
-		<text>Potrzebujê narzêdzi zaawansowanych. I ni chuja nie wiem, gdzie ich szukaæ. Mo¿e w laborku? Mo¿e u wojennych w Kordonie? A mo¿e bêd¹ w piwnicy Sidora? Ha ha!</text>
+		<text>Potrzebujê %s. I ni chuja nie wiem, gdzie ich szukaæ. Mo¿e w laborku? Mo¿e u wojaków w Kordonie? A mo¿e bêd¹ w piwnicy Sidora? Ha ha!</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
 		<text>Ej, mordo, kozak! Trzymaj trochê siana.</text>
@@ -371,19 +371,19 @@
 
 
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_name">
-		<text>ZnajdŸ %s dla Czystego</text>
+		<text>ZnajdŸ dla Czystego %s</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text">
-		<text>%s s¹ potrzebne Czystemu do instalacji precyzyjnych ulepszeñ broni i pancerzy. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
+		<text>Czysty chêtnie zobaczy³by w swoim warsztacie %s, które pos³u¿y³yby mu do instalacji precyzyjnych ulepszeñ broni i kombinezonów. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about">
 		<text>Ty, tak se ostatnio wykmini³em, ¿e zda³oby siê, kurwasz twarz maæ, jeszcze parê wihajstrów do tentegesów, ¿eby by³o jak przytegowaæ te, no... No, wiesz o co mi chodzi. Mo¿e coœ gdzieœ wyszperasz?</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about">
-		<text>Ogarnij mi narzêdzia precyzyjne, ziomek. Za³atw je, a normalnie obsypiê ciê z³otem.</text>
+		<text>Ogarnij mi %s, ziomek. Za³atw je, a normalnie obsypiê ciê z³otem.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
-		<text>Ty to jednak jesteœ przegoœæ, stary. Szacun.</text>
+		<text>Ty to jednak jesteœ przechuj, stary. Szacun.</text>
 	</string>
 
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
@@ -411,19 +411,19 @@
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 	<!-- (Bandit Medic) -->
 	<string id="bandit_main_base_medic_mlr_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s medykowi bandytów z Doliny Mroku</text>
 	</string>
 	<string id="bandit_main_base_medic_mlr_task_1_text">
-		<text>%s jest potrzebny medykowi bandytów do pracy nad medykamentami. Przynieœ mu go, jeœli uda ci siê jakiœ znaleŸæ.</text>
+		<text>Medyk bandytów potrzebuje %s do pracy nad medykamentami.</text>
 	</string>
 	<string id="bandit_main_base_medic_mlr_task_1_about">
 		<text>Ja pierdolê, goœciu, co tu siê odjebuje, to ja nawet nie... Ziomki Su³tana nigdy nie s³ynê³y z m¹droœci, ale to, jak teraz dostaj¹ w cipê to jest jakiœ dramat. Padaj¹ jak muchy, a ja nie mam czym ich, kurwa, ³ataæ, czaisz?\n \nRozejrzyj no siê za jakimœ zestawem do leków czy innym tego typu szmelcem, bo odjebiemy kitê jak sam skurwysyn.</text>
 	</string>
 	<string id="bandit_main_base_medic_mlr_task_1_fetch_about">
-		<text>Jest. Od dawna poszukujê zestawu do wytwarzania leków. Powinien zawieraæ tabletki, ampu³ki i inne badziewia, których potrzebujê do produkcji leków. Jak go znajdziesz, dam ci bu³ê i bêdziemy kwita.</text>
+		<text>A oto i on! Od dawna poszukujê %s. Powinien zawieraæ tabletki, ampu³ki i inne badziewia, których potrzebujê do produkcji leków. Jak go znajdziesz, dam ci bu³ê i bêdziemy kwita.</text>
 	</string>
 	<string id="bandit_main_base_medic_mlr_task_1_fetch_finish">
-		<text>Dobra robota!.</text>
+		<text>Dobra robota!</text>
 	</string>
 
 </string_table>

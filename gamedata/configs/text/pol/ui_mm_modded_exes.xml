@@ -14,6 +14,13 @@
 		<text>WY£.</text>
 	</string>
 
+	<string id="ui_mm_modded_exes_mouse_sens_vertical">
+		<text>Wspó³cz. czu³oœci myszy w pionie (mouse_sens_vertical)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_r__3Dfakescope">
+		<text>W³¹cz Shader dla celowników 3D (r__3Dfakescope)</text>
+	</string>
 	<string id="ui_mm_modded_exes_sds_enable">
 		<text>W³¹cz shadery celowników (sds_enable)</text>
 	</string>
@@ -25,6 +32,12 @@
 	</string>
 	<string id="ui_mm_modded_exes_new_zoom_enable">
 		<text>Shadery celowników - g³adka zmiana przybli¿enia (new_zoom_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_new_zoom_delta_algorithm">
+		<text>Nowy algorytm delta zoomu w shaderach (new_zoom_delta_algorithm)</text>
+	</string>
+	<string id="ui_mm_modded_exes_new_zoom_delta_algorithm_desc">
+		<text>Zmienia poziomy powiêkszenia w celowniku, aby uzyskaæ tak¹ sam¹ wizualn¹ zmianê powiêkszenia miêdzy poziomami</text>
 	</string>
 	<string id="ui_mm_modded_exes_zoom_step_count">
 		<text>Shadery celowników - liczba kroków p³ynnego zoomu (zoom_step_count)</text>
@@ -98,7 +111,7 @@
 		<text>Nibyolbrzym zadaje uszkodzenia obiektom podczas t¹pniêcia (pseudogiant_can_damage_objects_on_stomp)</text>
 	</string>
 	<string id="ui_mm_modded_exes_use_english_text_for_missing_translations">
-		<text>U¿yj angielskiego tekstu dla brakuj¹cych t³umaczeñ (ui_mm_modded_exes_use_english_text_for_missing_translations)</text>
+		<text>U¿yj angielskiego tekstu dla brakuj¹cych t³umaczeñ (use_english_text_for_missing_translations)</text>
 	</string>
 	<string id="ui_mm_modded_exes_mouse_wheel_change_weapon">
 		<text>Zmiana broni za pomoc¹ kó³ka myszy (mouse_wheel_change_weapon)</text>
@@ -115,7 +128,283 @@
 	<string id="ui_mm_modded_exes_log_timestamps">
 		<text>Znaczniki czasu w logach (log_timestamps)</text>
 	</string>
+	<string id="ui_mm_modded_exes_print_bone_warnings">
+		<text>Drukuj ostrze¿enia o nieprawid³owych koœciach (print_bone_warnings)</text>
+	</string>
 	<string id="ui_mm_modded_exes_freelook_cam_limit">
 		<text>Limit k¹ta wolnej kamery (freelook_cam_limit)</text>
+	</string>
+	<string id="ui_mm_modded_exes_telekinetic_objects_include_corpses">
+		<text>Poltergeisty i burery rzucaj¹ zw³okami (telekinetic_objects_include_corpses)</text>
+	</string>
+	<string id="ui_mm_modded_exes_lua_gcstep">
+		<text>Lua Garbage Collection Step (lua_gcstep)</text>
+	</string>
+	<string id="ui_mm_modded_exes_mouse_buffer_size">
+		<text>Rozmiar bufora wejœciowego myszy (mouse_buffer_size)</text>
+	</string>
+	<string id="ui_mm_modded_exes_keyboard_buffer_size">
+		<text>Rozmiar bufora wejœciowego klawiatury (keyboard_buffer_size)</text>
+	</string>
+	<!-- HDR10 -->
+	<string id="ui_mm_modded_exes_hdr10_enabled">
+		<text>W³¹cz HDR10 (Wymaga restartu) (r4_hdr10_on)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_enabled_desc">
+		<text>HDR10 jest niekompatybilny z MSAA, w³¹czenie HDR wy³¹czy MSAA</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_whitepoint_nits">
+		<text>HDR10 White Point (nits) (r4_hdr10_whitepoint_nits)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_whitepoint_nits_desc">
+		<text>Maksymalna wartoœæ luminancji monitora. DisplayHDR 400 = 400 nits, HDR Peak 1000 = 1000 nits</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_ui_nits">
+		<text>Jasnoœæ UI HDR10 (nits) (r4_hdr10_ui_nits)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_ui_nits_desc">
+		<text>Maksymalna luminancja interfejsu u¿ytkownika. U¿yj wartoœci na poziomie lub poni¿ej wartoœci szczytowej monitora, która jest wygodna.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_pda_intensity">
+		<text>Intensywnoœæ PDA HDR10 (r4_hdr10_pda_intensity)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_pda_intensity_desc">
+		<text>Intensywnoœæ (1 = 100%, 0 = 0%) wyœwietlacza PDA. Dostosuj, jeœli wyœwietlacz PDA jest zbyt jasny.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_colorspace">
+		<text>HDR10 Color Space (r4_hdr10_colorspace)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_colorspace_desc">
+		<text>Docelowa przestrzeñ kolorów do renderowania. Jeœli monitor ma dobre pokrycie wiêkszej przestrzeni kolorów (DCI-P3 or Rec.2020) u¿yj jednego z nich zamiast sRGB.</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_colorspace_rec709">
+		<text>Rec.709 (sRGB)</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_colorspace_p3d65">
+		<text>P3-D65 (DCI-P3)</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_colorspace_rec2020">
+		<text>Rec.2020</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_tonemapper">
+		<text>HDR10 Tonemapper (r4_hdr10_tonemapper)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_tonemapper_desc">
+		<text>Operator tonemapowania do u¿ycia. Tonemapper okreœla wygl¹d i kontrast obrazu.</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_aces_narkowicz">
+		<text>ACES (Narkowicz)</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_aces_hill">
+		<text>ACES (Hill)</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_agx_normal">
+		<text>AgX (Normal)</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_agx_punchy">
+		<text>AgX (Punchy)</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_uchimura">
+		<text>Uchimura</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_stevem">
+		<text>SteveM</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_uncharted2">
+		<text>Uncharted 2</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_reinhard1">
+		<text>Reinhard (Lw = 2.0)</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemapper_reinhard2">
+		<text>Reinhard (Lw = 3.0)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_tonemap_mode">
+		<text>HDR10 Tonemapping Mode (r4_hdr10_tonemap_mode)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_tonemap_mode_desc">
+		<text>Okreœla czy tonemapper dzia³a w trybie koloru czy luminancji. Tryb luminancji zapobiega zmianom odcienia, ale mo¿e wygl¹daæ p³asko w porównaniu z trybem koloru.</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemap_mode_luminance">
+		<text>Luminancja</text>
+	</string>
+	<string id="ui_mm_lst_hdr10_tonemap_mode_color">
+		<text>Kolor</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_brightness">
+		<text>HDR10 Brightness (r4_hdr10_brightness)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_brightness_desc">
+		<text>Dostosowuje podniesienie obrazu. Wp³ywa g³ównie na cienie. Dostosuj, jeœli obraz jest zbyt jasny lub ciemny.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_gamma">
+		<text>HDR10 Gamma (r4_hdr10_gamma)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_gamma_desc">
+		<text>Dostosowuje gammê obrazu. Wp³ywa g³ównie na pó³cienie. Dostosuj, jeœli obraz jest zbyt jasny lub ciemny.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_exposure">
+		<text>HDR10 Exposure (r4_hdr10_exposure)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_exposure_desc">
+		<text>Dostosowuje wzmocnienie obrazu. Wp³ywa g³ównie na œwiat³a. Dostosuj, jeœli obraz jest zbyt jasny lub ciemny.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_contrast">
+		<text>HDR10 Contrast (r4_hdr10_contrast)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_contrast_desc">
+		<text>Dostosowuje kontrast obrazu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_contrast_middle_gray">
+		<text>HDR10 Contrast Middle-Gray (r4_hdr10_contrast_middle_gray)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_contrast_middle_gray_desc">
+		<text>Punkt sta³y dla regulacji kontrastu. Ni¿sze wartoœci sprawiaj¹, ¿e ustawienie kontrastu ma mniejszy wp³yw na ciemne obszary, a wiêkszy na jasne, natomiast wy¿sze wartoœci dzia³aj¹ odwrotnie.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_saturation">
+		<text>HDR10 Saturation (r4_hdr10_saturation)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_saturation_desc">
+		<text>Reguluje nasycenie obrazu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_ui_saturation">
+		<text>HDR10 UI Saturation (r4_hdr10_ui_saturation)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_ui_saturation_desc">
+		<text>Dostosowuje nasycenie interfejsu u¿ytkownika wa¿one przez przezroczystoœæ. Jest to wspó³czynnik koryguj¹cy, który jest proporcjonalny do przezroczystoœci elementu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_on">
+		<text>HDR10 Bloom (r4_hdr10_bloom_on)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_on_desc">
+		<text>W³¹cza lub wy³¹cza bloom HDR. Wy³¹cz stary bloom za pomoc¹ 'r2_ls_bloom_threshold 1'. Mo¿e mieæ wp³yw na wydajnoœæ.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_blur_passes">
+		<text>HDR10 Bloom Blur Passes (r4_hdr10_bloom_blur_passes)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_blur_passes_desc">
+		<text>Okreœla wielkoœæ bloomu. Wiêksze wartoœci zwiêkszaj¹ rozmiar efektu bloom. Mo¿e mieæ wp³yw na wydajnoœæ.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_blur_scale">
+		<text>HDR10 Bloom Blur Scale (r4_hdr10_bloom_blur_scale)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_blur_scale_desc">
+		<text>Precyzyjna regulacja promienia bloomu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_intensity">
+		<text>HDR10 Bloom Intensity (r4_hdr10_bloom_intensity)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_bloom_intensity_desc">
+		<text>Dostosowuje si³ê bloomu. Wiêksze wartoœci s¹ bardziej zamglone.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_on">
+		<text>HDR10 Lens Flare (r4_hdr10_flare_on)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_on_desc">
+		<text>W³¹cza lub wy³¹cza flarê obiektywu HDR. Mo¿e mieæ wp³yw na wydajnoœæ.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_threshold">
+		<text>HDR10 Lens Flare Threshold (r4_hdr10_flare_threshold)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_threshold_desc">
+		<text>Ustawia minimaln¹ jasnoœæ, jak¹ musi mieæ coœ, aby utworzyæ flarê obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_power">
+		<text>HDR10 Lens Flare Power (r4_hdr10_flare_power)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_power_desc">
+		<text>Dostosowuje ogóln¹ si³ê efektu flary obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghosts">
+		<text>HDR10 Lens Flare Ghosts (r4_hdr10_flare_ghosts)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghosts_desc">
+		<text>Dostosowuje liczbê ghostingu obiektywu tworzonego przez efekt flary obiektywu. Mo¿e mieæ wp³yw na wydajnoœæ.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghost_dispersal">
+		<text>HDR10 Lens Flare Ghost Dispersal (r4_hdr10_flare_ghost_dispersal)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghost_dispersal_desc">
+		<text>Dostosowuje skalê i odstêpy duchów obiektywu tworzonych przez efekt flary obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_center_falloff">
+		<text>HDR10 Lens Flare Center Falloff (r4_hdr10_flare_center_falloff)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_center_falloff_desc">
+		<text>Dostosowuje promieñ opadania (od œrodka ekranu) wk³adu obrazu do flary obiektywu. Mniejsze wartoœci powoduj¹, ¿e wiêksza czêœæ obrazu tworzy intensywne flary obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_halo_scale">
+		<text>HDR10 Lens Flare Halo Scale (r4_hdr10_flare_halo_scale)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_halo_scale_desc">
+		<text>Dostosowuje skalê halo odbiæ flary obiektywu. Wiêksze wartoœci mog¹ spowodowaæ, ¿e aureola znajdzie siê poza granicami ekranu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_halo_ca">
+		<text>HDR10 Lens Flare Halo Chromatic Aberration (r4_hdr10_flare_halo_ca)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_halo_ca_desc">
+		<text>Dostosowuje iloœæ aberracji chromatycznej w halo obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghost_ca">
+		<text>HDR10 Lens Flare Ghost Chromatic Aberration (r4_hdr10_flare_ghost_ca)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghost_ca_desc">
+		<text>Dostosowuje iloœæ aberracji chromatycznej w duszkach obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_blur_passes">
+		<text>HDR10 Lens Flare Blur Passes (r4_hdr10_flare_blur_passes)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_blur_passes_desc">
+		<text>Dostosowuje stopieñ rozmycia stosowany do flar obiektywu. Mo¿e wp³ywaæ na wydajnoœæ.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_blur_scale">
+		<text>HDR10 Lens Flare Blur Scale (r4_hdr10_flare_blur_scale)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_blur_scale_desc">
+		<text>Precyzyjna regulacja promienia rozmycia flary obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghost_intensity">
+		<text>HDR10 Lens Flare Ghost Intensity (r4_hdr10_flare_ghost_intensity)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_ghost_intensity_desc">
+		<text>Dostosowuje si³ê odblasków obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_halo_intensity">
+		<text>HDR10 Lens Flare Halo Intensity (r4_hdr10_flare_halo_intensity)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_flare_halo_intensity_desc">
+		<text>Dostosowuje si³ê halo obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_on">
+		<text>HDR10 Sun (r4_hdr10_sun_on)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_on_desc">
+		<text>W³¹cza lub wy³¹cza renderowanie HDR s³oñca, które lepiej wykorzystuje efekt bloom i flary obiektywu.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_intensity">
+		<text>HDR10 Sun Intensity (r4_hdr10_sun_intensity)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_intensity_desc">
+		<text>Dostosowuje jasnoœæ s³oñca HDR.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_inner_radius">
+		<text>HDR10 Sun Inner Radius (r4_hdr10_sun_inner_radius)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_inner_radius_desc">
+		<text>Dostosowuje wewnêtrzny promieñ renderowania s³oñca HDR. Wewnêtrzny promieñ to obszar pe³nej intensywnoœci.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_outer_radius">
+		<text>HDR10 Sun Outer Radius (r4_hdr10_sun_outer_radius)</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_sun_outer_radius_desc">
+		<text>Dostosowuje zewnêtrzny promieñ renderowania s³oñca HDR. Promieñ zewnêtrzny zanika miêdzy pe³n¹ intensywnoœci¹ a 0.</text>
+	</string>
+	<string id="ui_mm_modded_exes_hdr10_live_editing">
+		<text>Ustawienia</text>
+	</string>
+	<!-- HDR10 -->
+
+	<string id="ui_mm_modded_exes_heat_vision_zombie_cold">
+		<text>Zombie nie wydzielaj¹ temperatury w termowizji</text>
 	</string>
 </string_table>

@@ -16,7 +16,7 @@
 		<text>Przyzwoity zestaw nieco podstarza³ych narzêdzi. Pomimo wieku wydaj¹ siê byæ w niez³ym stanie. Zawieraj¹ zestaw c¹¿ków, kilka pêset z ró¿nymi koñcówkami, sondê i zestaw hakowato zakoñczonych dŸwigni œlusarskich. Z odpowiedni¹ wiedz¹ i doœwiadczeniem zestawu mo¿na u¿yæ do tworzenia solidnego wyposa¿enia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • %c[ui_gray_2] Mo¿na ich u¿yæ w menu sto³u warsztatowego do wytwarzania przedmiotów\n
-		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i pancerza\n
+		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i kombinezonu\n
 		%c[0,255,255,255] • %c[d_red] Wymagaj¹ odpowiednich materia³ów\n
 		</text>
 	</string>
@@ -31,7 +31,7 @@
 		<text>Podstawowy zestaw naprawczy. Narzêdzia raczej nie nadaj¹ siê do specjalistycznych napraw, ale w rêkach przyzwyczajonego do oszczêdnoœci technika mog¹ okazaæ siê bardzo przydatne. Zestaw zawiera ró¿ne rodzaje i rozmiary szczypiec, œrub i wkrêtów, a tak¿e spoiwa i pomieszane z³¹czki. Z odpowiedni¹ wiedz¹ i doœwiadczeniem zestawu mo¿na u¿yæ do tworzenia podstawowego wyposa¿enia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • %c[ui_gray_2] Mo¿na ich u¿yæ w menu sto³u warsztatowego do wytwarzania przedmiotów\n
-		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i pancerza\n
+		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i kombinezonu\n
 		%c[0,255,255,255] • %c[d_red] Wymagaj¹ odpowiednich materia³ów\n
 		</text>
 	</string>
@@ -43,7 +43,7 @@
 		<text>W sk³ad tego zestawu wchodzi kilka ma³ych pude³ek i metalowych narzêdzi do produkcji wyrobów medycznych. Zawiera plastikowe os³onki, pastylki i niewielkie ampu³ki.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n	
 		%c[d_orange] • %c[ui_gray_2] Mo¿na ich u¿yæ w menu sto³u warsztatowego do wytwarzania przedmiotów\n
-		%c[d_orange] • %c[ui_gray_2] Medyk mo¿e u¿yæ go do tworzenia ró¿nych u¿ywek i lekarstw.\n
+		%c[d_orange] • %c[ui_gray_2] Medyk mo¿e u¿yæ go do tworzenia ró¿nych u¿ywek i lekarstw\n
 		%c[0,255,255,255] • %c[d_red] Wymagaj¹ odpowiednich materia³ów\n
 		</text>
 	</string>
@@ -58,7 +58,7 @@
 		<text>Profesjonalny zestaw narzêdzi wysokiej jakoœci do precyzyjnego dostosowywania elementów wyposa¿enia. Zawiera komplet wierte³, precyzyjne pêsety, lutownicê, koñcówkê wkrêtaka 4 mm i miernik uniwersalny. Z odpowiedni¹ wiedz¹ i doœwiadczeniem zestawu mo¿na u¿yæ do tworzenia zaawansowanego wyposa¿enia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • %c[ui_gray_2] Mo¿na ich u¿yæ w menu sto³u warsztatowego do wytwarzania przedmiotów\n
-		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i pancerza\n
+		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i kombinezonu\n
 		%c[0,255,255,255] • %c[d_red] Wymagaj¹ odpowiednich materia³ów\n
 		</text>
 	</string>
@@ -70,7 +70,7 @@
 		<text>Porz¹dny zestaw starych narzêdzi i akcesoriów rusznikarskich. Zawiera zestaw wybijaków, m³otek rusznikarski, prasê i zestaw miarek do czarnego prochu. Z odpowiedni¹ wiedz¹ i doœwiadczeniem zestawu mo¿na u¿yæ do recyklingu uszkodzonej amunicji i tworzenia z nich wersji nadaj¹cych siê do u¿ytku.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_orange] • %c[ui_gray_2] Mo¿na ich u¿yæ w menu sto³u warsztatowego do wytwarzania przedmiotów\n
-		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i pancerza\n
+		%c[d_orange] • %c[ui_gray_2] Technik mo¿e ich u¿yæ do modyfikacji broni i kombinezonu\n
 		%c[0,255,255,255] • %c[d_red] Wymagaj¹ odpowiednich materia³ów\n
 		</text>
 	</string>
@@ -132,7 +132,7 @@
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[ui_cyan] • %c[ui_gray_2] Urz¹dzenie do przechowywania artefaktów\n
 		%c[ui_cyan] • %c[0,255,255,255] Pojemnoœæ: %c[ui_gray_2]1\n \n
-		%c[d_red]UWAGA: %c[ui_gray_2]Przed sprzeda¿¹ artefaktów musisz wyj¹æ je z pojemnika.\n \n
+		%c[d_red]UWAGA: %c[ui_gray_2]Przed sprzeda¿¹ artefaktów musisz wyj¹æ je z pojemnika\n \n
 		</text>
 	</string>
 	
@@ -144,7 +144,7 @@
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[ui_cyan] • %c[ui_gray_2] Urz¹dzenie do przechowywania artefaktów\n
 		%c[ui_cyan] • %c[0,255,255,255] Pojemnoœæ: %c[ui_gray_2]1\n \n
-		%c[d_red]UWAGA: %c[ui_gray_2]Przed sprzeda¿¹ artefaktów musisz wyj¹æ je z pojemnika.\n \n
+		%c[d_red]UWAGA: %c[ui_gray_2]Przed sprzeda¿¹ artefaktów musisz wyj¹æ je z pojemnika\n \n
 		</text>
 	</string>
 	
@@ -156,7 +156,7 @@
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[ui_cyan] • %c[ui_gray_2] Urz¹dzenie do przechowywania artefaktów\n
 		%c[ui_cyan] • %c[0,255,255,255] Pojemnoœæ: %c[ui_gray_2]1\n \n
-		%c[d_red]UWAGA: %c[ui_gray_2]Przed sprzeda¿¹ artefaktów musisz wyj¹æ je z pojemnika.\n \n
+		%c[d_red]UWAGA: %c[ui_gray_2]Przed sprzeda¿¹ artefaktów musisz wyj¹æ je z pojemnika\n \n
 		</text>
 	</string>
 
@@ -171,7 +171,7 @@
 		<text>Do pakowania œpiwora lub niewielkiej iloœci ciuchów na zmianê.\n \n
 		%c[ui_gray_2] W£AŒCIWOŒCI:\n
 		%c[d_cyan] • %c[ui_gray_2] U¿yj w pobli¿u roz³o¿onego œpiwora, by go spakowaæ\n
-		%c[d_orange] • %c[ui_gray_2] Kliknij PPM na ikonê "Worka kompresyjnego" w pobli¿u namiotu, a nastêpnie > "U¿yj".\n
+		%c[d_orange] • %c[ui_gray_2] Kliknij PPM na ikonê "Worka kompresyjnego" w pobli¿u namiotu, a nastêpnie > "U¿yj"\n
 		</text>
 	</string>
 
@@ -196,7 +196,7 @@
 		<text>Worek przeznaczony do przechowywania i transportu namiotu kempingowego. Sk³adanie namiotu zajmuje sporo czasu.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_cyan] • %c[ui_gray_2] mo¿na u¿yæ do z³o¿enia namiotu\n
-		%c[d_orange] • %c[ui_gray_2] Kliknij prawym przyciskiem myszy na ikonê "Pusty worek po namiocie" w pobli¿u namiotu, a nastêpnie > "U¿yj".\n
+		%c[d_orange] • %c[ui_gray_2] Kliknij prawym przyciskiem myszy na ikonê "Pusty worek po namiocie" w pobli¿u namiotu, a nastêpnie > "U¿yj"\n
 		</text>
 	</string>
 

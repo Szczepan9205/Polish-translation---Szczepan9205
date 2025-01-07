@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<string id="ui_mcm_menu_mark_switch">
+		<text>Przełącznik siatki celowniczej</text>
+	</string>
+	
+	<string id="ui_mcm_mark_switch_title">
+		<text>Przeł. siatki celown.</text>
+	</string>
+
+	<string id="ui_mcm_mark_switch_keybind">
+		<text>Przełącznik siatki celownika Reflex</text>
+	</string>
+
+</string_table>

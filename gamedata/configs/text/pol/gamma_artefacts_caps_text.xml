@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="gamma_burn_cap">
+		<text>Nakładka anty-oparzeniowa</text>
+	</string>
+	<string id="gamma_shock_cap">
+		<text>Nakładka anty-porażeniowa</text>
+	</string>
+	<string id="gamma_telepatic_cap">
+		<text>Nakładka anty-psioniczna</text>
+	</string>
+	<string id="gamma_chemical_burn_cap">
+		<text>Nakładka anty-chemiczna</text>
+	</string>
+	<string id="gamma_wound_cap">
+		<text>Nakładka anty-zranieniowa</text>
+	</string>
+	<string id="gamma_fire_wound_cap">
+		<text>Nakładka balistyczna</text>
+	</string>
+	<string id="gamma_explosion_cap">
+		<text>Nakładka anty-wybuchowa</text>
+	</string>
+	<string id="gamma_strike_cap">
+		<text>Nakładka anty-uderzeniowa</text>
+	</string>
+</string_table>

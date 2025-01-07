@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_streetsweeper">
+		<text>Street Sweeper</text>
+	</string>
+	<string id="st_wpn_streetsweeper_aim">
+		<text>Street Sweeper</text>
+	</string>
+	<string id="st_wpn_streetsweeper_nimble">
+		<text>Eliminator</text>
+	</string>
+	<string id="st_wpn_streetsweeper_descr">
+		<text>Unikalna strzelba kalibru 12 z obrotowym cylindrem, opracowana do tłumienia zamieszek i walki, jest siłą, z którą należy się liczyć w zwarciu. Dzięki charakterystycznemu bębnowemu magazynkowi, możliwości szybkiego strzelania i niszczycielskiemu rozrzutowi, jest to najlepszy wybór dla tych, którzy preferują szybkie i potężne konfrontacje na miejskim polu bitwy.</text>
+	</string>
+	<string id="st_wpn_streetsweeper_aim_descr">
+		<text>Unikalna strzelba kalibru 12 z obrotowym cylindrem, opracowana do tłumienia zamieszek i walki, jest siłą, z którą należy się liczyć w zwarciu. Dzięki charakterystycznemu bębnowemu magazynkowi, możliwości szybkiego strzelania i niszczycielskiemu rozrzutowi, jest to najlepszy wybór dla tych, którzy preferują szybkie i potężne konfrontacje na miejskim polu bitwy. Ten wariant jest wysoce zmodernizowany, części wewnątrz są ściśle dopasowane do siebie, energia wylotowa jest znacznie zwiększona dzięki wyższemu ciśnieniu w lufie. Poświęcając szybkostrzelność, zwiększono też siłę obalającą. Model ten posiada celownik kolimatorowy Aimpoint AB szwedzkiej firmy.\n \n
+		%c[ui_gray_2]ZAINSTALOWANE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: Aimpoint (zintegrowany)</text>
+	</string>
+	<string id="st_wpn_streetsweeper_nimble_descr">
+		<text>Unikalna strzelba kalibru 12 z obrotowym cylindrem, opracowana do tłumienia zamieszek i walki, jest siłą, z którą należy się liczyć w zwarciu. Dzięki charakterystycznemu bębnowemu magazynkowi, możliwości szybkiego strzelania i niszczycielskiemu rozrzutowi, jest to najlepszy wybór dla tych, którzy preferują szybkie i potężne konfrontacje na miejskim polu bitwy. Według niektórych źródeł, model ten należał kiedyś do Tanka, ale niewiele o nim wiadomo.</text>
+	</string>
+
+
+</string_table>

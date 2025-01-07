@@ -41,10 +41,10 @@
 		<text>Zdob¹dŸ %s i zwróæ Tukariewowi.</text>
 	</string>
 	<string id="drx_sl_jup_b6_scientist_tech_task_1_about">
-		<text>Muszê przeprowadziæ eksperyment na specyficznym gatunku mutanta. Chcia³bym, ¿ebyœ upolowa³ dla mnie kilka okazów.</text>
+		<text>Muszê przeprowadziæ eksperyment na specyficznym gatunku mutanta. Chcia³bym, ¿ebyœ upolowa³ dla mnie jednego.</text>
 	</string>
 	<string id="drx_sl_jup_b6_scientist_tech_task_1_fetch_about">
-		<text>Zdob¹dŸ dla mnie %s. Jeœli ci sie powiedzie, dobrze ciê wynagrodzê.</text>
+		<text>ZnajdŸ mi %s. Jeœli ci siê powiedzie, dobrze ciê wynagrodzê.</text>
 	</string>
 	<string id="drx_sl_jup_b6_scientist_tech_task_1_fetch_finish">
 		<text>Bardzo dobra robota. Dok³adnie tego potrzebowa³em. WeŸ to jako nagrodê.</text>
@@ -79,7 +79,7 @@
 		<text>Niedawno jedn¹ z naszych grup terenowych napadli bandyci. Okradli badaczy ze wszystkiego, z czego tylko mogli. Ca³e szczêœcie, ¿e zostawili ich przy ¿yciu...\n \nJednym ze skradzionych przedmiotów by³o PDA zawieraj¹ce bardzo wa¿ne dane badawcze. Uda³o mi siê dowiedzieæ, gdzie bandyci mogli je ukryæ. SprawdŸ to. Jeœli uda ci siê znaleŸæ i zwróciæ nam to PDA, otrzymasz nagrodê.</text>
 	</string>
 	<string id="drx_sl_jup_b6_scientist_tech_task_3_finish">
-		<text>Wspaniale! Co za ulga. Dobrze siê spisa³eœ.</text>
+		<text>Wspaniale! Co za ulga... Dobrze siê spisa³eœ.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -156,7 +156,7 @@
 		<text>Dary Zony</text>
 	</string>
 	<string id="drx_sl_jup_a6_freedom_leader_task_3_text">
-		<text>Loki poprosi³ o %s. Zdob¹dŸ dla niego artefakt.</text>
+		<text>Loki poprosi³ o artefakt %s, który ochroni jednego z jego ludzi.</text>
 	</string>
 	<string id="drx_sl_jup_a6_freedom_leader_task_3_about">
 		<text>Wysy³am jednego z ch³opaków na misjê, w czasie której bêdzie musia³ posiadaæ wiêksz¹ ochronê przed warunkami Zony, ni¿ s¹ w stanie zapewniæ nasze najlepsze kombinezony. Potrzebujê konkretnego artefaktu, by móg³ go chroniæ.</text>
@@ -210,7 +210,7 @@
 		<text>Ojciec Mateusz zleci³ ci odnalezienie i dostarczenie dostawy broni do Magazynu Kontenerów w Jupiterze.</text>
 	</string>
 	<string id="drx_sl_jup_cont_trader_bandit_task_1_about">
-		<text>Dziœ mieliœmy otrzymaæ dostawê broni, ale przez pieprzonych so³datów ludzie Su³tana musieli rzuciæ dostawê i zawijaæ siê z akcji. Na szczêœcie zd¹¿yli skitraæ towar. Miejsce powinno byæ ju¿ czyste, wiêc zasuwaj tam, goœciu, i przynieœ mi ³adunek.</text>
+		<text>Dziœ mieliœmy otrzymaæ dostawê broni, ale przez pieprzonych so³datów ludzie Su³tana musieli rzuciæ dostawê i siê zawijaæ. Na szczêœcie zd¹¿yli skitraæ towar. Miejsce powinno byæ ju¿ czyste, wiêc zasuwaj tam, ziomuœ i przynieœ mi ten ³adunek.</text>
 	</string>
 	<string id="drx_sl_jup_cont_trader_bandit_task_1_finish">
 		<text>Rzetelny z ciebie typ. Dobra robota!</text>
@@ -242,7 +242,7 @@
 		<text>Uratuj szpiega bandytów. Zabij cz³onków jego oddzia³u i odeskortuj go. Poznasz go po SWD, którego u¿ywa.</text>
 	</string>
 	<string id="drx_sl_jup_cont_trader_bandit_task_3_about">
-		<text>Mamy swojego goœcia przyklejonego do frajerów, których chcemy obrobiæ. Wiesz, kolo nam nawija, co planuj¹ tamci i tak dalej. Od jakiegoœ czasu nie da³ ¿adnego cynku. Nie s¹dzê, ¿eby popierdoli³ temat i przeszed³ na ich stronê. Raczej cyka siê, ¿e go ktoœ przytnie i skasuje. Dobra nasza, ¿e wiem, gdzie siê krêc¹.\n \nOdbijesz go, jasne? Pewnie bêdzie do ciebie pru³, jak tylko tam podbijesz, wiêc siê nie zesraj. Kminisz o co chodzi? Bêdziesz musia³ odstrzeliæ gnojków i wyci¹gn¹æ naszego ziomala - poznasz go po karabinie, od lat nosi siê z SWD.</text>
+		<text>Mamy swojego goœcia przyklejonego do frajerów, których chcemy obrobiæ. Wiesz, kolo nam nawija, co planuj¹ tamci i tak dalej. Od jakiegoœ czasu nie da³ ¿adnego cynku. Nie s¹dzê, ¿eby popierdoli³ temat i przeszed³ na ich stronê. Raczej cyka siê, ¿e go ktoœ przytnie i skasuje. Dobra nasza, ¿e wiem, gdzie siê krêc¹.\n \nOdbijesz go, jasne? Pewnie bêdzie do ciebie pru³, jak tylko tam podbijesz, wiêc siê nie zesraj. Kminisz o co chodzi? Bêdziesz musia³ odstrzeliæ gnojków i wyci¹gn¹æ naszego ziomala - poznasz go po karabinie - od lat nosi siê z SWD.</text>
 	</string>
 	<string id="drx_sl_jup_cont_trader_bandit_task_3_finish">
 		<text>Czyli jakimœ cudem wróciliœcie w jednym kawa³ku, co? ¯artujê. Trzymaj kasê.</text>
@@ -362,7 +362,7 @@
 		<text>Trofea ³owieckie</text>
 	</string>
 	<string id="jup_b220_trapper_task_4_text">
-		<text>Traper powiedzia³, ¿e dobrze ci zap³aci za: %s.</text>
+		<text>Traper powiedzia³, ¿e dobrze zap³aci za %s.</text>
 	</string>
 	<string id="jup_b220_trapper_task_4_about">
 		<text>Mam zlecenie na trofea pochodz¹ce od konkretnego gatunku mutanta. Zainteresowany?</text>
@@ -382,7 +382,7 @@
 		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_1_text">
-		<text>%s potrzebne s¹ Azotowi do instalacji podstawowych ulepszeñ broni i pancerzy. Jeœli uda ci siê jakieœ znaleŸæ, trzeba je do niego dostarczyæ.</text>
+		<text>%s to dok³adnie to, czego Azot potrzebuje do instalacji podstawowych ulepszeñ broni i kombinezonów. Jeœli uda ci siê jakieœ znaleŸæ, trzeba je do niego dostarczyæ.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_1_about">
 		<text>Stalkerze, potrzebujê nowych narzêdzi, a o takie niestety w Zonie ciê¿ko. Jeœli wyra¿asz chêæ pomocy z tym problemem, to powiem ci, czego aktualnie potrzebujê.</text>
@@ -398,7 +398,7 @@
 		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_2_text">
-		<text>%s potrzebne s¹ Azotowi do instalacji zaawansowanych ulepszeñ broni i pancerzy. Jeœli uda ci siê jakieœ znaleŸæ, trzeba je do niego dostarczyæ.</text>
+		<text>%s to dok³adnie to, czego Azot potrzebuje do instalacji zaawansowanych ulepszeñ broni i kombinezonów. Jeœli uda ci siê jakieœ znaleŸæ, trzeba je do niego dostarczyæ.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_2_about">
 		<text>Narzêdzia, które przynios³eœ poprzednio bardzo dobrze mi s³u¿¹, ale niestety nie zawieraj¹ wszystkiego, czego potrzebujê. Jesteœ w stanie znaleŸæ dla mnie lepszy zestaw?</text>
@@ -413,7 +413,7 @@
 		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_3_text">
-		<text>%s potrzebne s¹ Azotowi do instalacji precyzyjnych ulepszeñ broni i pancerzy. Jeœli uda ci siê jakieœ znaleŸæ, trzeba je do niego dostarczyæ.</text>
+		<text>%s to dok³adnie to, czego Azot potrzebuje do instalacji precyzyjnych ulepszeñ broni i kombinezonów. Jeœli uda ci siê jakieœ znaleŸæ, trzeba je do niego dostarczyæ.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_3_about">
 		<text>Narzêdzia, które przynios³eœ poprzednim razem bardzo dobrze mi s³u¿¹, ale niestety po bli¿szym przyjrzeniu siê im zauwa¿y³em, ¿e nie zawieraj¹ wszystkiego, czego potrzebujê. Jesteœ w stanie znaleŸæ dla mnie jeszcze lepszy zestaw?</text>
@@ -439,7 +439,7 @@
 		<text>Taaak, kolego, pewnie, ¿e mam dla ciebie robotê. No proœcizna, jak nie wiem! Przeka¿ Aszotowi, ¿e jeœli chce, ¿ebym sprawdzi³ jego PDA, niech siê tu pofatyguje.</text>
 	</string>
 	<string id="jup_b19_freedom_yar_task_1_finish">
-		<text>Haha, jaja sobie z ciebie robiliœmy, stalker! Nie do wiary, ¿e nie po³apa³eœ siê wczeœniej, o co chodzi.</text>
+		<text>Ha ha, jaja sobie z ciebie robiliœmy, stalkerze! Nie do wiary, ¿e nie po³apa³eœ siê od razu, o co chodzi.</text>
 	</string>
 
 	<string id="jup_b19_freedom_yar_task_1_dm_query">
@@ -476,10 +476,10 @@
 	
 <!-- (Monolith Mechanic) -->
 	<string id="mechanic_monolith_jup_depo_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Monolitu</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_1_text">
-		<text>Technik znajduj¹cy siê we Wschodnim Tunelu w Jupiterze poprosi³ o %s.</text>
+		<text>Technik Monolitu stacjonuj¹cy we Wschodnim Tunelu w Jupiterze poprosi³ o %s.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_1_about">
 		<text>Niedawno za³o¿yliœmy tu obóz, ale nasi bracia powa¿nie odczuwaj¹ skutki braku odpowiednich narzêdzi do napraw. Czy dla dobra naszej wspólnoty jesteœ w stanie znaleŸæ nam nowe narzêdzia? W obecnej sytuacji by³yby dla nas wrêcz bezcenne.</text>
@@ -492,10 +492,10 @@
 	</string>
 
 	<string id="mechanic_monolith_jup_depo_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Monolitu</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_2_text">
-		<text>Technik znajduj¹cy siê we Wschodnim Tunelu w Jupiterze poprosi³ o %s.</text>
+		<text>Technik Monolitu stacjonuj¹cy we Wschodnim Tunelu w Jupiterze poprosi³ o %s.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_2_about">
 		<text>Dzia³ania zbrojne ukaza³y, ¿e nasza broñ jest tylko nieznacznie gorsza od tej, której u¿ywaj¹ niewierni, posiadaj¹cy przecie¿ wykwalifikowanych techników. Potrzebujê nowych narzêdzi, by zapewniæ braciom wyposa¿enie co najmniej tak dobre, jak to, które posiadaj¹ wrogowie. Pomo¿esz mi, bracie?</text>
@@ -508,10 +508,10 @@
 	</string>
 
 	<string id="mechanic_monolith_jup_depo_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Monolitu</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_3_text">
-		<text>Technik znajduj¹cy siê we Wschodnim Tunelu w Jupiterze poprosi³ o %s.</text>
+		<text>Technik Monolitu stacjonuj¹cy we Wschodnim Tunelu w Jupiterze poprosi³ o %s.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_3_about">
 		<text>Bracie, musimy jakoœ ich wszystkich przewy¿szyæ! Wiem nawet, jak tego dokonamy. Musisz znaleŸæ dla nas narzêdzia precyzyjne. Proszê, znajdŸ taki zestaw i przynieœ go do mnie.</text>
@@ -529,7 +529,7 @@
 		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_1_text">
-		<text>Technik bandytów poprosi³ o %s.</text>
+		<text>Technik bandytów poprosi³ o nowe %s.</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_1_about">
 		<text>Te mendy stalkerskie zabra³y nam praktycznie wszystko! Chujki zastawi³y siê na Janowie tak, ¿e nie ma jak ich podejœæ. A my co? Parê starych ka³achów, rozjebany obrzyn i zgni³y mosin bez lunety. Jakie my mamy z nimi szanse, no powiedz mi. Potrzebujê narzêdzi.</text>
@@ -545,7 +545,7 @@
 		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_2_text">
-		<text>Technik bandytów poprosi³ o %s.</text>
+		<text>Technik bandytów poprosi³ o nowe %s.</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_2_about">
 		<text>S³uchaj, nie chcê ci za bardzo zawracaæ dupy, ale mo¿e ogarn¹³byœ jeszcze parê pierdó³? Wiesz, brakuje mi paru kluczy i œrubokrêtów, ¿eby zamontowaæ ulepszenia. Bez tego d³ugo tu nie poci¹gniemy.</text>
@@ -561,7 +561,7 @@
 		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_3_text">
-		<text>Technik bandytów poprosi³ o %s.</text>
+		<text>Technik bandytów poprosi³ o nowe %s.</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_3_about">
 		<text>Ej, ziomeczku, oba zestawy, które mi przynios³eœ bardzo siê przydaj¹, ale potrzebujê takiego... No wiesz, najlepszego z najlepszych. Takiego, co to sprawi, ¿e na jego widok wszyscy powiedz¹ "ooo, paaaaaanie, ja pierdoleee..."</text>
@@ -576,16 +576,16 @@
 	
 	<!-- Bonesetter (Loner Medic) -->
 	<string id="jup_a6_stalker_medik_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Kostoprawa</text>
 	</string>
 	<string id="jup_a6_stalker_medik_task_1_text">
-		<text>%s potrzebny jest Krêgarzowi do produkcji medykamentów. Powinieneœ dostarczyæ mu taki, jeœli uda ci siê go znaleŸæ.</text>
+		<text>%s potrzebny jest Kostoprawowi do produkcji medykamentów. Powinieneœ dostarczyæ mu taki, jeœli uda ci siê go znaleŸæ.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_task_1_about">
 		<text>Jak patrzê na to, co zosta³o z naszych zapasów medycznych, to z tak¹ liczb¹ idiotów, których muszê ³ataæ w ci¹gu dnia, zaczynam siê powa¿nie martwiæ, brachu. Prêdzej czy póŸniej zabraknie mi jebanych banda¿y i apteczek. Chcê, ¿ebyœ znalaz³ mi jeden z tych starych zestawów do produkcji leków. Jestem pewien, ¿e siê przyda.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_task_1_fetch_about">
-		<text>%s, rozgl¹dam siê za nim od dawna. Powinien zawieraæ tabletki i ampu³ki, których potrzebujê do produkcji leków. Zap³acê ci za jeden z tych zestawów, jeœli uda ci siê jakiœ dla mnie znaleŸæ.</text>
+		<text>%s - rozgl¹dam siê za nim od bardzo dawna. Powinien zawieraæ tabletki i ampu³ki, których potrzebujê do produkcji leków. Zap³acê ci za jeden z tych zestawów, jeœli uda ci siê jakiœ dla mnie znaleŸæ.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_task_1_fetch_finish">
 		<text>Doskona³a robota! Jestem twoim d³u¿nikiem.</text>

@@ -387,19 +387,19 @@
 	</string>
 
 	<string id="st_mag_vz61_9x19_fmj">
-		<text>Standardowy magazynek 9x19 mm do vz.68</text>
+		<text>Standardowy magazynek 9x19 mm do vz.61</text>
 	</string>
 	<string id="st_mag_vz61_9x19_fmj_descr">
-		<text>Standardowy magazynek do pistoletu Vz.68 o pojemnoœci 20 nabojów. Niezawodna broñ, która cieszy siê ogromn¹ popularnoœci¹ wœród przestêpczego podziemia.\n \n
+		<text>Standardowy magazynek do pistoletu Vz.61 o pojemnoœci 20 nabojów. Niezawodna broñ, która cieszy siê ogromn¹ popularnoœci¹ wœród przestêpczego podziemia.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
 
 	<string id="st_mag_vz61_9x18_fmj">
-		<text>Zmodyfikowany magazynek 9x18 mm do vz.68</text>
+		<text>Zmodyfikowany magazynek 9x18 mm do vz.61</text>
 	</string>
 	<string id="st_mag_vz61_9x18_fmj_descr">
-		<text>20-nabojowy magazynek do pistoletu Vz.68 zmodyfikowany nieznacznie do zasilania nabojami 9x18 Makarow.\n \n
+		<text>20-nabojowy magazynek do pistoletu Vz.61 zmodyfikowany nieznacznie do zasilania nabojami 9x18 Makarow.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
@@ -417,7 +417,7 @@
 		<text>Standardowy magazynek bêbnowy 7.62x25 mm do PPSz41</text>
 	</string>
 	<string id="st_mag_ppsh41_7.62x25_p_descr">
-		<text>Standardowy magazynek bêbnowy do PPSh41 7.62x25.\n \n
+		<text>Standardowy magazynek bêbnowy do PPSz41 7.62x25.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:
 		</text>
 	</string>
@@ -476,4 +476,21 @@
 		</text>
 	</string>
 	
+	<string id="st_mag_m1a1_11.43x23_fmj">
+		<text>Standardowy magazynek .45 ACP do Thompsona M1A1</text>
+	</string>
+	<string id="st_mag_m1a1_11.43x23_fmj_descr">
+		<text>
+		Standardowy 30-nabojowy magazynek do karabinu szturmowego Thompson na amunicjê kalibru .45 ACP.
+		</text>
+	</string>
+	
+	<string id="st_mag_1921_11.43x23_fmj">
+		<text>Magazynek bêbnowy .45 ACP do Thompsona 1921</text>
+	</string>
+	<string id="st_mag_1921_11.43x23_fmj_descr">
+		<text>
+		Magazynek bêbnowy do karabinu automatycznego Thompson 1921 na 25 sztuk amunicji kalibru .45 ACP.
+		</text>
+	</string>
 </string_table>

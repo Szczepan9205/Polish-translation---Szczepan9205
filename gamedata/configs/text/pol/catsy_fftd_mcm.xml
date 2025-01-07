@@ -642,6 +642,10 @@
 		<text>Teleportuj oddzia³ do pozycji gracza</text>
 	</string>
 
+	<string id="ui_mcm_fftd/gen_squad_tp_bind">
+		<text>Teleportuj oddzia³ do pozycji gracza</text>
+	</string>
+
 	<string id="ui_mcm_fftd_gen_squad_tp_bind_desc">
 		<text>Fair Fast Travel spróbuje sprowadziæ towarzyszy do bie¿¹cej lokacji. Dzieje siê to automatycznie z lokaln¹ szybk¹ podró¿¹, jeœli opcja jest w³¹czona, ale mo¿esz rêcznie teleportowaæ ich do siebie. Nie uratowani zak³adnicy i towarzysze, którym nakazano czekaæ, nie zostan¹ teleportowani.</text>
 	</string>
@@ -747,6 +751,28 @@
 
 			\nOd autora: "Nie otrzymujê powiadomieñ o komentarzach na Moddb, wiêc generalnie najszybsz¹ odpowiedŸ otrzymacie na Discordzie GAMMY, na kanale dyskusyjnym Fair Fast Travel. Niepo¿¹dane wiadomoœci bezpoœrednio do mnie bêd¹ przeze mnie ignorowane."\n
 		</text>
+	</string>
+
+<!-- Added in 2.16 -->
+
+	<string id="encyclopedia_addons_fair_fast_travel_psyblocked">
+		<text>Szybka podró¿ blokowana przez pola psioniczne</text>
+	</string>
+
+	<string id="encyclopedia_addons_fair_fast_travel_psyblocked_text">
+		<text>%c[ui_gray_1]Jeœli grasz w %c[pda_yellow]Tryb fabularny%c[ui_gray_1] i nie dezaktywowa³eœ jeszcze %c[pda_yellow]Mózgozwêglacza%c[ui_gray_1], dodatek %c[pda_yellow]Sprawiedliwa Szybka Podró¿%c[ui_gray_1] zawiera opcjonaln¹ funkcjê, która zapobiega wszelkim szybkim podró¿om, które mog¹ wymagaæ przejœcia przez dotkniêty obszar wp³ywów. Miejsca docelowe, które s¹ niedostêpne z tego powodu, bêd¹ oznaczone specjaln¹ ikon¹ widoczn¹ powy¿ej.\n
+
+		\n%c[pda_white]Aby przywróciæ szybk¹ podró¿ do tych lokacji, przejdŸ g³ówny w¹tek fabularny lub wy³¹cz tê funkcjê w MCM:\n \n
+		%c[pda_yellow]MCM > Szybka podró¿ > Ogólne > Mózgozwêglacz blokuje podró¿owanie
+		</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_use_map_hazard_coef">
+		<text>Skalowanie kosztów podró¿y wed³ug zagro¿enia na mapie</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_use_map_hazard_coef_desc">
+		<text>Skaluj koszty podró¿y wed³ug zagro¿enia mapy. Gdy ta opcja jest w³¹czona, Szybka Podró¿ bêdzie skalowaæ koszty podró¿y w oparciu o najwy¿szy poziom „zagro¿enia” mapy pocz¹tkowej i docelowej. Mówi¹c proœciej, oznacza to, ¿e podró¿owanie po obszarach „dla nowicjuszy”, takich jak Kordon i Bagna, bêdzie kosztowaæ mniej, podczas gdy podró¿owanie do i z map „koñcowych”, takich jak Prypeæ, bêdzie dro¿sze.</text>
 	</string>
 
 </string_table>

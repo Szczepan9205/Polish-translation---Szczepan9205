@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_addon_scope_t12">
+		<text>Celownik termiczny Torrey Pines Logic T12W 30Hz Reflex</text>
+	</string>
+	<string id="st_addon_scope_t12_descr">
+		<text>%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]USA\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Torrey Pines Logic\n
+		%c[d_cyan] • %c[0,255,255,255] Powiększenie: %c[ui_gray_2]1.0x\n \n			
+		</text>
+	</string>	
+
+
+
+</string_table>

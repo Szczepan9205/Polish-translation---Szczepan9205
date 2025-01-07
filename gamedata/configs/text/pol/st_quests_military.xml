@@ -111,7 +111,7 @@
 		<text>Zachcia³o siê ¿ycia w prawdziwej Wolnoœci, co? Taa, myœlê ¿e coœ ogarniemy. W tej robocie musisz mieæ jaja jak nibyolbrzymy, inaczej marniutki twój los.\n \nOgólnie doœæ mocno siê tu luzujemy, ale wiesz - jak trzeba spi¹æ dupê i ruszyæ w teren to nie ma, ¿e nie. Jest awantura? Rzucasz wszystko, ³apiesz karabin i ogieñ! Za du¿o krêci siê tu tych piŸdzielców z Monolitu, fajansiarzy z Powinnoœci i dupków z nieRz¹du, ¿eby totalnie wszystko olaæ, kapujesz?\n \nWalczymy o Woln¹ Zonê. Jeœli powa¿nie chcesz nam pomóc i walczyæ o nasze idea³y, klepnij na stó³ piêtnaœcie ko³a. Wiesz, wpisowe - ka¿dy to przechodzi³. Wszystko ci wtedy podkrêcê.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
-		<text>Okej! Pomyœl sobie o tym, jak o pierwszym dniu nowego ¿ycia, ¿ycia na Wolnoœci, ha ha ha! Zapamiêtaj sobie tylko parê rzeczy - jeœli spróbujesz zak³óciæ Wolnoœæ naszych ch³opaków, momentalnie l¹dujesz w Wiosce Pijawek. Czy to jest, kurwa, jasne, ¿o³... Wróæ! Czy to jest jasne?\n \nNo i druga sprawa - jeœli trafisz na kogoœ, kto jednak z Wolnoœci¹ przegina, zg³aszaj dowódcom. Nie, to nie podpierdalanie, to dbanie o wspólnotê.</text>
+		<text>Okej! Pomyœl sobie o tym, jak o pierwszym dniu nowego ¿ycia, ¿ycia na wolnoœci, ha ha ha! Zapamiêtaj sobie tylko parê rzeczy - jeœli spróbujesz zak³óciæ wolnoœæ naszych ch³opaków, momentalnie l¹dujesz w Wiosce Pijawek. Czy to jest, kurwa, jasne, ¿o³... Wróæ! Czy to jest jasne?\n \nNo i druga sprawa - jeœli trafisz na kogoœ, kto jednak z Wolnoœci¹ przegina, zg³aszaj dowódcom. Nie, to nie podpierdalanie, to dbanie o wspólnotê.</text>
 	</string>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
@@ -126,7 +126,7 @@
 		<text>Zachcia³o siê ¿ycia w prawdziwej Wolnoœci, co? Taa, myœlê ¿e coœ ogarniemy. W tej robocie musisz mieæ jaja jak nibyolbrzymy, inaczej marniutki twój los.\n \nOgólnie doœæ mocno siê tu luzujemy, ale wiesz - jak trzeba spi¹æ dupê i ruszyæ w teren to nie ma, ¿e nie. Jest awantura? Rzucasz wszystko, ³apiesz karabin i ogieñ! Za du¿o krêci siê tu tych piŸdzielców z Monolitu, fajansiarzy z Powinnoœci i dupków z nieRz¹du, ¿eby totalnie wszystko olaæ, kapujesz?\n \nWalczymy o Woln¹ Zonê. Jeœli powa¿nie chcesz nam pomóc i walczyæ o nasze idea³y, klepnij na stó³ piêtnaœcie ko³a. Wiesz, wpisowe - ka¿dy to przechodzi³. Wszystko ci wtedy podkrêcê.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
-		<text>Okej! Pomyœl sobie o tym, jak o pierwszym dniu nowego ¿ycia, ¿ycia na Wolnoœci, ha ha ha! Zapamiêtaj sobie tylko parê rzeczy - jeœli spróbujesz zak³óciæ Wolnoœæ naszych ch³opaków, momentalnie l¹dujesz w Wiosce Pijawek. Czy to jest, kurwa, jasne, ¿o³... Wróæ! Czy to jest jasne?\n \nNo i druga sprawa - jeœli trafisz na kogoœ, kto jednak z Wolnoœci¹ przegina, zg³aszaj dowódcom. Nie, to nie podpierdalanie, to dbanie o wspólnotê.</text>
+		<text>Okej! Pomyœl sobie o tym, jak o pierwszym dniu nowego ¿ycia, ¿ycia na wolnoœci, ha ha ha! Zapamiêtaj sobie tylko parê rzeczy - jeœli spróbujesz zak³óciæ wolnoœæ naszych ch³opaków, momentalnie l¹dujesz w Wiosce Pijawek. Czy to jest, kurwa, jasne, ¿o³... Wróæ! Czy to jest jasne?\n \nNo i druga sprawa - jeœli trafisz na kogoœ, kto jednak z Wolnoœci¹ przegina, zg³aszaj dowódcom. Nie, to nie podpierdalanie, to dbanie o wspólnotê.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -145,13 +145,13 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
-		<text>Zniszczenie przeciwnika</text>
+		<text>Zniszcz wrogi oddzia³</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
 		<text>Grupa stalkerów przysparza problemów przyjacio³om Wolnoœci. £ukasz oferuje nagrodê temu, kto pozbêdzie siê tych dupków.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
-		<text>Kurwa, te dupki sobie nie odpuszcz¹! Dobra, wygl¹da na to, ¿e musimy daæ im lekcjê. Ej, stalker! Pomo¿esz Wolnoœci? Oczywiœcie, nie za darmo.\n \nS³uchaj, jest kilku frajerów, którzy podkradaj¹ siê blisko naszych pozycji. Odwa¿yli siê otworzyæ ogieñ do naszych i próbowali zrobiæ wodê z mózgu moim ludziom, rozumiesz? Chyba nadszed³ czas udzieliæ im œmiertelnej lekcji na temat przestrzeni osobistej. Zrobisz to?</text>
+		<text>Masz ochotê pomóc Wolnoœci w zamian za nagrodê? Jest w okolicy kilku gnojków, którzy nie chc¹ siê uspokoiæ i nadszed³ czas, aby daæ im nauczkê.\n \nS³uchaj, jest kilku frajerów, którzy podkradaj¹ siê blisko naszych pozycji. Odwa¿yli siê otworzyæ ogieñ do naszych i próbowali zrobiæ wodê z mózgu moim ludziom, rozumiesz? Chyba nadszed³ czas udzieliæ im œmiertelnej lekcji na temat przestrzeni osobistej. Zrobisz to?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
 		<text>Ach, œwietnie! Mo¿e w koñcu bêdziemy mieli trochê ciszy i spokoju.</text>
@@ -164,7 +164,7 @@
 		<text>PrzeprowadŸ szturm na terytorium wroga i przejmij je dla Wolnoœci. Zamelduj siê £ukaszowi po ukoñczeniu zadania.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
-		<text>Mam dla ciebie bardzo istotn¹, ale niebezpieczn¹ misjê. Wiêc tak, z jednej strony trzepie nas Monolit, z drugiej podbijaj¹ tu pajace z Powinnoœci. Nie powiem, ¿eby mi ta sytuacja jakoœ bardzo odpowiada³a.\n \nSzukam kogoœ, kto da radê wlecieæ w jednych, albo drugich i rozgoniæ ich na cztery wiatry, wiesz, ¿eby zyskaæ trochê przestrzeni do ¿ycia. Zajmiesz siê tym?</text>
+		<text>Mam dla ciebie bardzo istotn¹, ale niebezpieczn¹ misjê. Wiêc tak, z jednej strony trzepie nas Monolit, z drugiej podbijaj¹ tu pajace z Powinnoœci. Nie powiem, ¿eby mi ta sytuacja jakoœ bardzo odpowiada³a.\n \nSzukam kogoœ, kto da radê wlecieæ w jednych, albo drugich i rozgoniæ ich na cztery strony œwiata... wiesz, ¿ebyœmy zyskali trochê przestrzeni do ¿ycia. Zajmiesz siê tym?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
 		<text>Ha! Uda³o ci siê, stary - jesteœ szalony! Trzymaj, zas³u¿y³eœ na to. Tak, jak i na mój szacunek.</text>
@@ -201,16 +201,16 @@
 
 	<!-- FIND WEAPON FOR FREEDOM TASK -->
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
-		<text>Wolny rynek broni: %s</text>
+		<text>Przynieœ £ukaszowi %s w dobrym stanie</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
 		<text>£ukasz poprosi³ ciê o zdobycie dla niego konkretnej broni w idealnym stanie. Wróæ do niego, kiedy znajdziesz to, o co poprosi³.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
-		<text>Nasi darczyñcy dbaj¹ o wyposa¿enie ch³opaków, nigdy tego nie kwestionowa³em. Problem w tym, ¿e nie chcê ich prosiæ o coœ lepszego, ¿eby nie by³o, ¿e próbujê siê wywy¿szaæ - wszyscy przecie¿ jesteœmy równi!\n \nPrzyda³by siê %s. Jeœli znajdziesz egzemplarz w idealnym stanie, to zap³acê ci za niego niez³¹ sumkê.</text>
+		<text>Nasi darczyñcy dbaj¹ o wyposa¿enie ch³opaków, nigdy tego nie kwestionowa³em. Problem w tym, ¿e nie chcê ich prosiæ o coœ lepszego, ¿eby nie by³o, ¿e próbujê siê wywy¿szaæ - wszyscy przecie¿ jesteœmy równi!\n \nPrzyda³by mi siê %s. Jeœli znajdziesz egzemplarz w idealnym stanie, to zap³acê ci za niego niez³¹ sumkê.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
-		<text>Nasi darczyñcy dbaj¹ o wyposa¿enie ch³opaków, nigdy tego nie kwestionowa³em. Problem w tym, ¿e nie chcê ich prosiæ o coœ lepszego, ¿eby nie by³o, ¿e próbujê siê wywy¿szaæ - wszyscy przecie¿ jesteœmy równi!\n \nPrzyda³by siê %s. Jeœli znajdziesz egzemplarz w idealnym stanie, to zap³acê ci za niego niez³¹ sumkê.</text>
+		<text>Nasi darczyñcy dbaj¹ o wyposa¿enie ch³opaków, nigdy tego nie kwestionowa³em. Problem w tym, ¿e nie chcê ich prosiæ o coœ lepszego, ¿eby nie by³o, ¿e próbujê siê wywy¿szaæ - wszyscy przecie¿ jesteœmy równi!\n \nPrzyda³by mi siê %s. Jeœli znajdziesz egzemplarz w idealnym stanie, to zap³acê ci za niego niez³¹ sumkê.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_finish">
 		<text>Dobra robota. Taka giwera zrobi robotê, kiedy coœ pójdzie nie tak. Oto zap³ata, tak jak obieca³em.</text>
@@ -221,7 +221,7 @@
 		<text>Kowboj</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_text">
-		<text>£ukasz zachêca do ataku na wrogów Wolnoœci. Przynieœ mu %s, jako dowód wykonanej roboty.</text>
+		<text>£ukasz zachêca do ataków na wrogów Wolnoœci. Przynieœ mu %s, jako dowód wykonanej roboty.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_about">
 		<text>Aktualnie trochê utknêliœmy miêdzy m³otem a kowad³em. Wiesz, monole na pó³nocy, powinniaki na po³udniu, a ¿eby nie by³o zbyt nudno, to od czasu do czasu wojo urz¹dza tu przemarsze i defilady. Co ty na to, ¿eby wyjaœniæ im starymi, dobrymi metodami, co myœlimy o ich interesach i dowódcach? Po zakoñczeniu zadania bêdzie na ciebie czekaæ niez³a sumka.</text>
@@ -235,10 +235,10 @@
 	
 	<!-- Lukash (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
-		<text>Siema, stary. Jest ostry temat. Pamiêtasz tych œwirów z Grzechu? Chyba nie skumali, kiedy ostatnio skopa³eœ ich kolektywne dupska. Myœlê, ¿e czas na poprawkê.\n \nLoki da³ mi cynk, ¿e jakieœ ich niedobitki zbieraj¹ siê w Zatonie, konkretnie w okolicy opuszczonych magazynów podstacji. PodejdŸ tam i za³atw temat raz na zawsze.</text>
+		<text>Siema, stary. Jest ostry temat. Pamiêtasz tych œwirów z Grzechu? Chyba nie skumali, kiedy ostatnio skopa³eœ ich kolektywne dupska. Myœlê, ¿e czas na poprawkê.\n \nLoki da³ mi cynk, ¿e jakieœ ich niedobitki zbieraj¹ siê w Zatonie, konkretnie w okolicy opuszczonych Magazynów podstacji. Wybierz siê tam i za³atw temat raz na zawsze.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_finish">
-		<text>Haha! Nowicjusze zaczynaj¹ uwa¿aæ ciê za prawdziwego Rambo. W sumie im siê nie dziwiê - wracasz w jednym kawa³ku z najgorszych awantur. Trzymaj, ma³y podarunek dla naszego lokalnego bohatera.</text>
+		<text>Ha ha! Nasi nowi rekruci zaczynaj¹ uwa¿aæ ciê za prawdziwego Rambo! W sumie im siê nie dziwiê - wracasz w jednym kawa³ku z najgorszych awantur. Trzymaj, ma³y podarunek dla naszego lokalnego bohatera.</text>
 	</string>
 
 	<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
@@ -280,7 +280,7 @@
 		<text>Ochota na dziczyznê</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
-		<text>Zabij i wypatrosz mutanty. Potem dostarcz %s Kutwie.</text>
+		<text>Kutwa powiedzia³, ¿e zap³aci mi za przyniesienie mu %s. Czas na polowanie.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
 		<text>Mam dla ciebie du¿e zlecenie, stary. Oczywiœcie, jeœli nie boisz siê paru mutasów. Zainteresowany?</text>
@@ -317,7 +317,7 @@
 		<text>Kutwa zap³aci za pozbycie siê przera¿aj¹cego mutanta grasuj¹cego w Wiosce Pijawek. Tylko nie przeœpij roboty.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_about">
-		<text>Ostatnimi czasy ciê¿ko o spokojny sen w obozie. Ka¿dej nocy s³yszymy krzyki, ale zanim byliœmy w stanie zareagowaæ, kolejny z naszych znikn¹³ w ciemnoœciach. Nastêpnego dnia znaleŸliœmy jego szcz¹tki rozrzucone po ca³ej Wiosce Pijawek.\n \n£ukasz uwa¿a, ¿e grasuje tam bardzo rzadki mutant - silniejszy i bardziej okrutny skurwysyn, który poluje tylko noc¹. Nasi weterani mówi¹, ¿e powinniœmy odpuœciæ sobie nocne spacerki, dopóki mutant nie przeniesie siê gdzieœ indziej i przy odrobinie szczêœcia przyczepi siê do Powinnoœciowców, poniewa¿ bezpoœredni atak na niego jest zbyt niebezpieczny.\n \nJa natomiast uwa¿am, ¿e jeœli masz na tyle wielkie cojones, ¿eby zaczekaæ w wiosce do zmroku, to po pozbyciu siê mutanta bêdziesz móg³ k¹paæ siê w rubelkach, a reszta ludzi bêdzie ci wdziêczna za umo¿liwienie im spokojnego przespania nocy, na tyle, na ile siê da, rzut beretem od Mózgozwêglacza.</text>
+		<text>Ostatnimi czasy ciê¿ko o spokojny sen w obozie. Ka¿dej nocy s³yszymy krzyki, ale zanim byliœmy w stanie zareagowaæ, kolejny z naszych znikn¹³ w ciemnoœciach. Nastêpnego dnia znaleŸliœmy jego szcz¹tki rozrzucone po ca³ej Wiosce Pijawek.\n \n£ukasz uwa¿a, ¿e grasuje tam bardzo rzadki mutant - silniejszy i bardziej okrutny skurwysyn, który poluje tylko noc¹. Nasi weterani mówi¹, ¿e powinniœmy odpuœciæ sobie nocne spacerki, dopóki mutant nie przeniesie siê gdzieœ indziej i przy odrobinie szczêœcia przyczepi siê do powinnoœciowców, poniewa¿ bezpoœredni atak na niego jest zbyt niebezpieczny.\n \nJa natomiast uwa¿am, ¿e jeœli masz na tyle wielkie cojones, ¿eby zaczekaæ w wiosce do zmroku, to po pozbyciu siê mutanta bêdziesz móg³ k¹paæ siê w rubelkach, a reszta ludzi bêdzie ci wdziêczna za umo¿liwienie im spokojnego przespania nocy, na tyle, na ile siê da, rzut beretem od Mózgozwêglacza.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
 		<text>Wow, uda³o ci siê! Jesteœ zdrowo jebniêty, stary. Przeka¿ê dobre wieœci ludziom w obozie. Dobrze mieæ u siebie takiego zdolnego ³owcê.</text>
@@ -343,10 +343,10 @@
 	
 	
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
-		<text>Sprzêt do ³owienia artefaktów</text>
+		<text>Sprzêt do infiltracji dla Wolnoœci</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
-		<text>Wiêc tak, jest pewna sprawa, raczej pilna. S³uchaj no, nikomu nie chce siê dymaæ z chabarem na Bia³oruœ, bo to siê zupe³nie mija z celem i szkoda na to zdrowia. W naszej czêœci Zony istniej¹ dok³adnie dwa bunkry badawcze, z którymi Wolnoœæ kontaktuje siê w sprawie dostaw artefaktów. Nie mniej i nie wiêcej.\n \nJeden jest œciœniêty miêdzy Powinnoœci¹, Wojskiem i Czarny Stalker jeszcze wie, kim. Drugi - rzut beretem od Prypeci. No i oba... s¹ sponsorowane przez rz¹d, z którym walczymy. Musimy na JU¯ zacz¹æ gromadziæ sprzêt do zbierania i lokalizowania artefaktów, gdyby zdarzy³o siê tak, ¿e jajog³owi nagle stwierdz¹, ¿e nie i "dziêkujemy za wspó³pracê, proszê wypierdalaæ".\n \nPotrzebujemy detektorów NiedŸwiedŸ i pojemników na artefakty. Im wiêcej, tym lepiej - najlepiej hurtowo. Mam œwiadomoœæ, ¿e zebranie wszystkiego mo¿e trochê zaj¹æ, ale nie bój ¿aby - twoja zap³ata bêdzie adekwatna do wysi³ku, który w³o¿ysz w to zadanie. A jeœli przy okazji ogarniesz zapas baterii do wszystkich wynalazków, to wpadnie ci jakiœ bonusik za fatygê. A wiêc, wchodzisz w to?</text>
+		<text>Aktualnie planowana jest specjalna misja infiltracyjna w Rostoku, ale szczegó³y na razie muszê zachowaæ w tajemnicy. Potrzebujemy trochê sprzêtu, aby udoskonaliæ kamufla¿ naszych agentów specjalnych, aby mogli idealnie wtopiæ siê w otoczenie. Potrzebujemy nabojów 5.45x39 HP - oko³o 10 pe³nych pude³ek, aby mogli obroniæ siê przed mutantami na drodze do Rostoku bez alarmowania stra¿ników na posterunkach. Jeœli sprawy przybior¹ z³y obrót, nasi ludzie bêd¹ równie¿ potrzebowaæ wojskowych œrodków medycznych - 5 kompletnych wojskowych apteczek powinno wystarczyæ. Nie martw siê, twoja zap³ata bêdzie wystarczaj¹ca. Jeœli pójdziesz o krok dalej i zdobêdziesz trochê kokainy i pisemek pornograficznych, dostaniesz nawet premiê, co powinno pomóc naszym agentom przekupiæ niektórych cz³onków Powinnoœci, aby mogli wykonaæ swoj¹ misjê. Wchodzisz w to?</text>
 	</string>
 	
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -366,16 +366,16 @@
 	<!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Œruby</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
-		<text>%s s¹ potrzebne Œrubie do instalacji podstawowych ulepszeñ broni oraz pancerzy. Powinieneœ dostarczyæ mu takowe, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Œruba chêtnie wzi¹³by w swoje r¹czki %s. Pos³u¿y³yby mu one do instalacji podstawowych ulepszeñ broni oraz kombinezonów. Powinieneœ dostarczyæ mu takowe, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
-		<text>Jo³, mordeczko. By³byœ zainteresowany ma³¹ robótk¹ dla mnie? Potrzebujê konkretnego zestawu narzêdzi, ¿ebym móg³ pracowaæ przy broni i pancerzach.</text>
+		<text>Jo³, mordeczko. Bandyci z Doliny Mroku mieli dostarczyæ nam nowe narzêdzia, ale nigdy siê nie pojawili! Ech, pewnie i tak w chuja lecieli, ale jeœli uda ci siê znaleŸæ jakie narzêdzia podstawowe to przynieœ je tutaj tak szybko, jak to mo¿liwe. Dobrze ci zap³acê za twoj¹ pomoc.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
-		<text>Dobrze, potrzebne mi %s. Zap³acê ci za jeden z tych zestawów, jeœli uda ci siê go znaleŸæ.</text>
+		<text>Dobrze! Jak tylko przyniesiesz mi jakieœ %, bêdê móg³ w koñcu zacz¹æ dzia³aæ.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
 		<text>Dziêki, stary! Wiedzia³em, ¿e nie bez powodu poprosi³em o to w³aœnie ciebie. Wygl¹dasz na takiego, co potrafi znaleŸæ w Zonie wszystko.</text>
@@ -384,16 +384,16 @@
 
 
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Œruby</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
-		<text>%s s¹ potrzebne Œrubie do instalacji zaawansowanych ulepszeñ broni oraz pancerzy. Powinieneœ dostarczyæ mu takowe, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Œruba chêtnie wzi¹³by w swoje r¹czki %s. Pos³u¿y³yby mu one do instalacji zaawansowanych ulepszeñ broni oraz kombinezonów. Powinieneœ dostarczyæ mu takowe, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
-		<text>Haha, wola³bym nie pytaæ, ale przyda³o by mi siê wiêcej narzêdzi. Ostatnio dostarczy³eœ mi takie jakich potrzebowa³em, ale okazuje siê, ¿e brakuje w nim paru gratów. Jesteœ w stanie znów mi pomóc?</text>
+		<text>Wiesz co nie jest w porz¹dku? Siedzimy tu sobie w samym œrodku jednej ze starych rz¹dowych zbrojowni - kiedyœ by³ to prawdziwy magazyn si³ specjalnych! Jednak po³owa tego niesamowitego sprzêtu, który po sobie zostawili, po prostu zalega tu sobie i rdzewieje, bo nie mamy odpowiednich narzêdzi do ich konserwacji.\n \nTrzeba to zmieniæ! Przynieœ mi kolejny zestaw narzêdzi - tym razem coœ bardziej zaawansowanego. Czas pokazaæ IM, ¿e potrafimy obs³ugiwaæ ich machiny wojenne lepiej ni¿ oni sami!</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
-		<text>Potrzebujê zestawu narzêdzi zaawansowanych. Ten zestaw powinien mi wystarczyæ na jakiœ czas. Bêdê ci wdziêczny, jeœli znajdziesz go dla mnie, a nawet zaoferujê ci zni¿kê na moje us³ugi.</text>
+		<text>Dziêki. Jeœli uda ci siê je ogarn¹æ to bêdê móg³ w przysz³oœci przeprowadzaæ bardziej skomplikowane ulepszenia na twoim sprzêcie.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
 		<text>Rób dalej tak¹ robotê, to nied³ugo wszyscy ciê tu pokochaj¹. Dziêki, stary.</text>
@@ -401,16 +401,16 @@
 
 
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Œruby</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
-		<text>%s s¹ potrzebne Œrubie do instalacji precyzyjnych ulepszeñ broni oraz pancerzy. Powinieneœ dostarczyæ mu takowe, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Œruba chêtnie wzi¹³by w swoje r¹czki %s. Pos³u¿y³yby mu one do instalacji precyzyjnych ulepszeñ broni oraz kombinezonów. Powinieneœ dostarczyæ mu takowe, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_about">
-		<text>Haha, nie chcê ju¿ o to pytaæ, ale przyda³ by mi siê ostatni ju¿ zestaw narzêdzi. Ostatnio dostarczy³eœ mi zestaw, jakiego potrzebowa³em, ale okazuje siê, ¿e potrzebny mi bêdzie jeszcze lepszy. Jesteœ w stanie znów mi pomóc?</text>
+		<text>Có¿, z³e wieœci s¹ takie, ¿e wiêkszoœci wielkich spluw zgromadzonych w zbrojowni nie da siê w tym momencie uratowaæ. Dobra wiadomoœæ jest taka - móg³bym przeprowadziæ naprawdê niez³e "operacje" na sprzêcie, który mamy, nawet na naszych egzoszkieletach! Bêdê jednak potrzebowa³ bardziej zestawu narzêdzi precyzyjnych.\n \nChcesz jeszcze raz pomóc Wolnoœci?  Nagroda bêdzie jeszcze lepsza ni¿ ostatnio, a na zachêtê dorzucê kilka lekcji konserwacji w terenie.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
-		<text>Potrzebujê zestawu narzêdzi precyzyjnych. Taki zestaw na pewno bêdzie zawieraæ wszystko, czego tylko bêdê potrzebowa³. Bêdê ci wdziêczny jeœli znajdziesz go dla mnie, a w zamian zaoferujê ci du¿¹ zni¿kê na moje us³ugi.</text>
+		<text>Ha! Niez³y z ciebie wariacina mordeczko! No dobra, w takim razie ruszaj na poszukiwania. Jak tylko wrócisz z narzêdziami to poka¿ê ci, co potrafi utalentowany technik.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
 		<text>Zrobi³eœ mega robotê, gwarantujê ci, ¿e ludzie tutaj na pewno to doceni¹. Dziêkujê, stary.</text>
@@ -446,7 +446,7 @@
 		<text>Cholera! Jestem za daleko, zanim tam dolecê, dawno bêdzie po ptokach. A szkoda, bo chcia³em przetestowaæ swój nowy karabin.</text>
 	</string>
 	<string id="barrier_defense_monolith_chatter_6">
-		<text>Napierdalanie Meneliciarzy? Haha, tak¹ robotê to i za friko! Pieprzeni fanatycy.</text>
+		<text>Napierdalanie Meneliciarzy? Ha ha, tak¹ robotê to i za friko! Pieprzeni fanatycy.</text>
 	</string>
 	<string id="barrier_defense_monolith_chatter_7">
 		<text>Bêdzie mo¿na zatrzymaæ to, co znajdê przy cia³ach?</text>
@@ -473,20 +473,20 @@
 		<text>O kurwa, uwa¿ajcie! Maj¹ RPG!</text>
 	</string>
 	<string id="barrier_defense_monolith_run_announce">
-		<text>To nie wczasy pod grusz¹, stalker. Ciesz siê, ¿e s¹ tu ludzie z jajami wiêkszymi ni¿ twoje. Dziêki nim na pewno prze¿yjesz.</text>
+		<text>To nie wczasy pod grusz¹, stalkerze. Ciesz siê, ¿e s¹ tu ludzie z jajami wiêkszymi ni¿ twoje. Dziêki nim na pewno prze¿yjesz.</text>
 	</string>
 	<string id="barrier_defense_monolith_end_announce">
 		<text>Dobra robota, bracia. Dziêkujê wszystkim chêtnym, którzy nie dali nogi. PrzyjdŸcie do mnie po nagrodê.</text>
 	</string>
 	
 	<string id="barrier_defense_zombie_announce">
-		<text>Do ka¿dego przyjaŸnie nastawionego stalkera, który to czyta: du¿a grupa zombi zbli¿a siê do Bariery. Ka¿da forma pomocy bêdzie doceniona i odpowiednio wynagrodzona.</text>
+		<text>Do ka¿dego przyjaŸnie nastawionego stalkera, który to czyta: du¿a grupa zombie zbli¿a siê do Bariery. Ka¿da forma pomocy zostanie doceniona i odpowiednio wynagrodzona.</text>
 	</string>
 	<string id="barrier_defense_zombie_title">
 		<text>Broñ Bariery</text>
 	</string>
 	<string id="barrier_defense_zombie_descr">
-		<text>Wolnoœæ prosi o pomoc w odparciu ataku zombi.</text>
+		<text>Wolnoœæ prosi o pomoc w odparciu ataku zombie.</text>
 	</string>
 	
 	<string id="barrier_defense_zombie_chatter_1">
@@ -496,7 +496,7 @@
 		<text>Spasujê, to nie dla mnie.</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_3">
-		<text>Przynajmniej to nie pojeby z Monolitu.</text>
+		<text>Przynajmniej to nie te pojeby z Monolitu.</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_4">
 		<text>Lepiej ¿eby tym razem by³o warto. Ostatnim razem wiêcej wybuli³em na amunicjê, ni¿ dosta³em w zamian.</text>
@@ -505,7 +505,7 @@
 		<text>Cholera! Jestem za daleko, dotrê na miejsce jak bêdzie ju¿ po wszystkim. Szkoda, bo chcia³em przetestowaæ nowy karabin.</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_6">
-		<text>Zombi nadchodz¹ z Radaru? Cholera... mój przyjaciel wybra³ siê tam kilka dni temu...</text>
+		<text>Zombie nadchodz¹ z Radaru? Cholera... mój przyjaciel wybra³ siê tam kilka dni temu...</text>
 	</string>
 	<string id="barrier_defense_zombie_chatter_7">
 		<text>Mogê sobie wzi¹æ to, co znajdê przy cia³ach?</text>
@@ -513,10 +513,10 @@
 	
 	
 	<string id="barrier_defense_zombie_intro_1">
-		<text>Odebra³em wasz¹ transmisjê, przyby³em pomóc w walce z zombi.</text>
+		<text>Odebra³em wasz¹ wiadomoœæ, przyby³em pomóc w walce z zombie.</text>
 	</string>
 	<string id="barrier_defense_zombie_intro_2">
-		<text>Bardzo dobrze. Nie ma z nimi zbyt wielu problemów, ale przez Monolit i samozwañczych "¿o³nierzy" brakuje nam ludzi. Zobaczysz, bêdzie, jak na strzelnicy.</text>
+		<text>Bardzo dobrze. Nie ma z nimi zbyt wielu problemów, ale przez Monolit i tych samozwañczych "¿o³nierzy" brakuje nam ludzi. Zobaczysz, bêdzie, jak na strzelnicy.</text>
 	</string>
 	
 	<string id="barrier_defense_zombie_start_announce">
@@ -533,10 +533,10 @@
 	</string>
 	
 	<string id="barrier_defense_zombie_outro_1">
-		<text>Wszyscy nie ¿yj¹, tym razem na pewno.</text>
+		<text>Wszystkie nie ¿yj¹, tym razem na pewno.</text>
 	</string>
 	<string id="barrier_defense_zombie_outro_2">
-		<text>Bardzo dobrze. Mam nadziejê, ¿e nie nie znalaz³eœ wœród nich nikogo znajomego. Czasami po strzelaninie z umarlakami ludzie wracaj¹ z Bariery bardziej roztrzêsieni, ni¿ kiedy walczymy tu z Monolitem. Napijmy siê za te biedne dusze, a to coœ, co pomo¿e ci nie skoñczyæ tak, jak oni.</text>
+		<text>Bardzo dobrze. Mam nadziejê, ¿e nie nie znalaz³eœ wœród nich nikogo znajomego? Czasami po strzelaninie z umarlakami ludzie wracaj¹ z Bariery bardziej roztrzêsieni, ni¿ kiedy walczymy tu z Monolitem. Napijmy siê za te biedne dusze... A to coœ, co pomo¿e ci nie skoñczyæ tak, jak oni.</text>
 	</string>
 	
 	<string id="barrier_defense_reinforcements_1">
@@ -546,7 +546,7 @@
 		<text>W³aœnie wyruszyliœmy z bazy, wkrótce bêdziemy na miejscu.</text>
 	</string>
 	<string id="barrier_defense_reinforcements_3">
-		<text>Sytuacja tam wygl¹da a¿ tak Ÿle? Myœla³em, ¿e jest was tam wystarczaj¹co!</text>
+		<text>Sytuacja wygl¹da tam a¿ tak Ÿle? Myœla³em, ¿e jest was tam wystarczaj¹co!</text>
 	</string>
 	<string id="barrier_defense_reinforcements_4">
 		<text>Ju¿ siê zaczê³o! Dalej, ruszcie dupy, albo wszystko przegapicie!</text>
@@ -554,16 +554,16 @@
 	
 	<!-- Solid (Freedom Medic) -->
 	<string id="mil_freedom_medic_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Twardego</text>
 	</string>
 	<string id="mil_freedom_medic_task_1_text">
-		<text>%s s¹ potrzebne Twardemu do produkcji medykamentów. Powinieneœ dostarczyæ mu wszystko, co uda ci siê znaleŸæ.</text>
+		<text>Twardy potrzebuje %s do produkcji medykamentów. Powinieneœ dostarczyæ mu wszystko, co uda ci siê znaleŸæ.</text>
 	</string>
 	<string id="mil_freedom_medic_task_1_about">
 		<text>Bior¹c pod uwagê to, co zosta³o z naszych zapasów medycznych, to z tak¹ liczb¹ urazów jak¹ muszê siê dziennie zajmowaæ, zaczynam siê powa¿nie martwiæ, stalkerze. Prêdzej czy póŸniej zabraknie mi banda¿y i apteczek. Chcia³bym, ¿ebyœ znalaz³ mi jeden z tych starych zestawów do produkcji leków. Jestem pewien, ¿e siê przyda.</text>
 	</string>
 	<string id="mil_freedom_medic_task_1_fetch_about">
-		<text>¯ebyœ wiedzia³ ¿e jest. %s, wszêdzie tego szukam. Powinien zawieraæ odpowiedni koktajl sk³adników potrzebny mi do produkcji leków ka¿dego typu. Oczywiœcie dla u¿ytku medycznego. Wiem, co niektórzy ludzie mówi¹ na mój temat. Nie s³uchaj tego pierdolenia. Wszystko, co mi potrzebne to przyzwoity zestaw i znów bêdê w stanie doprowadziæ moj¹ ma³¹ klinikê do przyzwoitego stanu.</text>
+		<text>¯ebyœ wiedzia³ ¿e jest. Wszêdzie szukam %s. Powinien zawieraæ odpowiedni koktajl sk³adników potrzebny mi do produkcji leków ka¿dego typu. Oczywiœcie dla u¿ytku medycznego. Wiem, co niektórzy ludzie mówi¹ na mój temat. Nie s³uchaj tego pierdolenia. Wszystko, co mi potrzebne to przyzwoity zestaw i znów bêdê w stanie doprowadziæ moj¹ ma³¹ klinikê do przyzwoitego stanu.</text>
 	</string>
 	<string id="mil_freedom_medic_task_1_fetch_finish">
 		<text>Œwietna robota! Jestem twoim d³u¿nikiem.</text>

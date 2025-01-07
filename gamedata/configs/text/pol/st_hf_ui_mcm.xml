@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<string_table>	
+<string_table>
+
+	
     <string id="ui_mcm_menu_aol_hf">
-        <text>Wyposażenie kryjówki</text>
+        <text>Wyposaż. kryjówki</text>
     </string>
 
 	<!-- Controls -->
@@ -9,16 +11,28 @@
 		<text>Sterowanie</text>
 	</string>
 
+	<string id="ui_mcm_aol_hf/controls_bind_collision">
+		<text>Przełącz sprawdzanie kolizji</text>
+	</string>
+
 	<string id="ui_mcm_aol_hf_controls_bind_collision">
 		<text>Przełącz sprawdzanie kolizji</text>
 	</string>
 
+	<string id="ui_mcm_aol_hf/controls_bind_alignment">
+		<text>Przełącz. między trybami wyrównania: Gracz/Powierzch.</text>
+	</string>
+
 	<string id="ui_mcm_aol_hf_controls_bind_alignment">
-		<text>Przełączanie między trybami wyrównania: Gracz i Powierzchnia</text>
+		<text>Przełącz. między trybami wyrównania: Gracz/Powierzch.</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf/controls_bind_place_mode">
+		<text>Przełącz. między trybami umieszczania: Normalny/Zaawans./Podgląd</text>
 	</string>
 
 	<string id="ui_mcm_aol_hf_controls_bind_place_mode">
-		<text>Przełączanie między trybami umieszczania: Normalny, Zaawansowany i Podgląd</text>
+		<text>Przełącz. między trybami umieszczania: Normalny/Zaawans./Podgląd</text>
 	</string>
 
 	<!-- Gameplay -->
@@ -47,6 +61,10 @@
 		<text>Włączanie nagrywanie obiektów przez naciśnięcie klawisza</text>
 	</string>
 
+	<string id="ui_mcm_aol_hf/world_obj_bind_record">
+		<text>Nagraj obiekt</text>
+	</string>
+
 	<string id="ui_mcm_aol_hf_world_obj_bind_record">
 		<text>Nagraj obiekt</text>
 	</string>
@@ -54,6 +72,10 @@
 	<!-- Debug -->
 	<string id="ui_mcm_menu_debug">
 		<text>Debugowanie</text>
+	</string>
+
+	<string id="ui_mcm_aol_hf/debug_bind_creative_mode">
+		<text>Tryb kreatywny</text>
 	</string>
 
 	<string id="ui_mcm_aol_hf_debug_bind_creative_mode">

@@ -113,13 +113,13 @@ Maksimum: maksimum paska reprezentuje maksymalne mo¿liwe do otrzymania obra¿enia
 		<text>Kompatybilnoœæ z ARX</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_arx_compatibility_desc">
-		<text>Poprawniejsze wyœwietlanie statystyk podczas korzystania z moda ARX (Artefact Restoration eXperiment).</text>
+		<text>Poprawniejsze wyœwietlanie statystyk podczas korzystania z moda ARX (Artefact Restoration eXperiment)</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_abf_compatibility">
 		<text>Kompatybilnoœæ z ABF</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_abf_compatibility_desc">
-		<text>Poprawniejsze wyœwietlanie statystyk podczas korzystania z moda ABF (Anomalous Balance Fix).</text>
+		<text>Poprawniejsze wyœwietlanie statystyk podczas korzystania z moda ABF (Anomalous Balance Fix)</text>
 	</string>
 	<string id="ui_mcm_better_stats_bars_acid_bar_fix">
 		<text>Alternatywny wyœwietlacz paska ochr. chemicznej</text>

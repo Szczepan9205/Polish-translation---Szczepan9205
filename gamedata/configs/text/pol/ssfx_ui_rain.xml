@@ -1,11 +1,10 @@
+<?xml version="1.0" encoding="windows-1250"?>
 <!--
-- @ Version: SCREEN SPACE SHADERS - UPDATE 17
+- @ Version: SCREEN SPACE SHADERS - UPDATE 22
 - @ Description: Rain - MCM strings
 - @ Author: https://www.moddb.com/members/ascii1457
 - @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
 -->
-
-<?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
 
@@ -21,6 +20,22 @@
 
 	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_quality_mcm_desc">
 		<text>Niska : Podstawowy rendering refrakcji. - Średnia: podstawowe renderowanie plus odrzucenie nieprawidłowego załamania. - Wysoka: Pełne załamanie z dodatkową próbką odbicia.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_max_drops_mcm">
+		<text>Ilość cząsteczek</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_max_drops_mcm_desc">
+		<text>Maksymalna ilość cząsteczek użytych do stworzenia efektu deszczu. Wartość vanilla : 2500</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_radius_mcm">
+		<text>Zasięg</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_radius_mcm_desc">
+		<text>Promień emisora deszczu. Wartość vanilla : 15</text>
 	</string>
 
 	<string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_main_speed_mcm">

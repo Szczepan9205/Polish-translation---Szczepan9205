@@ -6,10 +6,9 @@
 	</string>
 	<string id="st_wpn_adar2_15_descr">
 		<text>Rosyjski karabinek cywilny produkowany w Sankt Petersburgu i oparty na konstrukcji AR-15. Podobnie jak w przypadku wielu innych firm produkuj¹cych AR-15, ADAR nie produkuje tych karabinów, a raczej sk³ada je z czêœci pochodz¹cych od ró¿nych producentów.\n \n
-		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Zak³ady Mo³ot\n
-		</text>
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: kompatybilne z szyn¹ Picattiny\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: AAC M4-2000\n</text>
 	</string>
 
 	<string id="st_wpn_pkp_siber">
@@ -17,10 +16,9 @@
 	</string>
 	<string id="st_wpn_pkp_siber_descr">
 		<text>Zmodernizowany karabin maszynowy PKM na nabój kalibru 7,62x54 mm, o którym mówi siê, ¿e jest celniejszy od wszystkich swoich poprzedników ze wzglêdu na ciê¿sz¹, niewymienn¹ lufê z wymuszonym ch³odzeniem powietrzem z promieniowymi ¿ebrami ch³odz¹cymi i unikaln¹ rêkojeœci¹, która eliminuje efekt zamglenia spowodowany gor¹cymi gazami. Obecnie jest u¿ywany przez rosyjski oddzia³ Specnaz i choæ zosta³ opracowany g³ównie z myœl¹ o piechocie, jest czêsto montowany w lekkich pojazdach.\n \n
-		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]Michai³ Ka³asznikow\n
-		</text>
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: kompatybilne z szyn¹ Jaskó³czy ogon\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-V\n</text>
 	</string>
 	
 	<string id="st_wpn_pkm_siber">
@@ -39,10 +37,10 @@
 	</string>
 	<string id="st_wpn_pkm_zenit_siber_descr">
 		<text>Zmodernizowana i ulepszona wersja PKM mia³a na celu przede wszystkim zmniejszenie masy, u³atwienie obs³ugi i uproszczenie produkcji. Bardzo niezawodny karabin maszynowy, który pozostaje w u¿yciu jako broñ pierwszej linii piechoty i broñ montowana na pojazdach w rosyjskich si³ach zbrojnych. Ten model zosta³ rêcznie zmodyfikowany tak, aby zawiera³ powiêkszon¹ skrzynkê na amunicjê. Model ten zosta³ gruntownie zmodyfikowany poprzez dodanie szyny Picatinny, pionowego chwytu przedniego, t³umika dŸwiêku i laserowego wskaŸnika celu, a tak¿e wewnêtrznych modyfikacji zwiêkszaj¹cych szybkostrzelnoœæ broni.\n \n
-		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_2]Zwi¹zek Radziecki\n
-		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_2]CNII ToczMasz, Zak³ady Degtiariowa\n
-		</text>
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: kompatybilne z szyn¹ Picattiny\n
+		%c[d_purple] • %c[ui_gray_2] Do broni do³¹czono laser taktyczny Zenit Perst-3\n
+		%c[d_purple] • %c[ui_gray_2] T³umik: TGP-V\n</text>
 	</string>
 
 

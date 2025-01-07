@@ -7,7 +7,7 @@
 		<text>Przemów do Spe³niacza ¯yczeñ.</text>
 	</string>
 	<string id="sar_monolith_1">
-		<text>Wzywa ciê G³os z pó³nocnej strony Zony. Pod¹¿aj za nim i odnajdŸ tego, który do ciebie przemawia.</text>
+		<text>Wezwa³ ciê g³os z pó³nocnej strony Zony. Pod¹¿aj za nim i odnajdŸ jego Ÿród³o.</text>
 	</string>
 	<string id="sar_monolith_2">
 		<text>Przyzywaj¹cy ciê g³os to z pewnoœci¹ sam Spe³niacz ¯yczeñ. Poszukaj go w labiryntach Sarkofagu.</text>
@@ -16,13 +16,13 @@
 		<text>Betonowy Grobowiec</text>
 	</string>
 	<string id="sar_monolith_destroy_0">
-		<text>Notatki wspomina³y o ukrytej bazie Monolitu. OdnajdŸ j¹ i dowiedz siê, co tam siê dzieje.</text>
+		<text>ZnajdŸ ukryt¹ bazê Monolitu wspomnian¹ w manuskrypcie i odkryj, co skrywa.</text>
 	</string>
 	<string id="sar_monolith_destroy_1">
-		<text>Zniszcz Spe³niacz ¯yczeñ: pokonaj 10 fal projekcji wywo³anych przez Spe³niacz.</text>
+		<text>Zniszcz Spe³niacz ¯yczeñ poprzez pokonanie 10 fal projekcji wywo³anych przez Spe³niacz.</text>
 	</string>
 	<string id="sar_monolith_destroy_2">
-		<text>Od³¹cz zasilanie generatorów zasilaj¹cych Œwiadomoœæ-Z.</text>
+		<text>Od³¹cz zasilanie generatorów zasilaj¹cych kapsu³y Œwiadomoœci-Z.</text>
 	</string>
 	<string id="sar_monolith_destroy_3">
 		<text>Wy³¹cz Generatory.</text>

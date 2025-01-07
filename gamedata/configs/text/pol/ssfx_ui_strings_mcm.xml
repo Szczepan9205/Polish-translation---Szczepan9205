@@ -34,6 +34,16 @@
 		<text>Krople deszczu na ekranie</text>
 	</string>
 	
+	<!-- PP Modules Buttons -->
+	<string id="ui_mcm_menu_ssfx_pp">
+		<text>Post-Processing</text>
+	</string>
+
+	<string id="ui_mcm_menu_ssfx_bloom">
+		<text>Poœwiata</text>
+	</string>
+
+	<!-- -->
 
 	<string id="ui_mcm_menu_ssfx_wetness">
 		<text>Mokroœæ</text>

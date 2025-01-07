@@ -17,7 +17,7 @@
 		<text>Pamiêæ</text>
 	</string>
 	<string id="ui_mcm_stealth_memory_desc">
-		<text>Mno¿nik pamiêci. (Jeœli postaæ niezale¿na widzia³a ju¿ cel, otrzyma wzmocnienie wzroku przeciwko temu celowi. Zmniejsza on siê z czasem, przy domyœlnej wartoœci 1.0 potrzeba oko³o 100 realnych sekund, aby postaæ niezale¿na zmniejszy³a swoje wzmocnienie do 0 przeciwko swojemu celowi.) \n 
+		<text>Mno¿nik pamiêci. (Jeœli postaæ niezale¿na widzia³a ju¿ cel, otrzyma wzmocnienie wzroku przeciwko temu celowi. Zmniejsza on siê z czasem, przy domyœlnej wartoœci 1.0 potrzeba oko³o 100 realnych sekund, aby u NPC zmniejszy³o siê wzmocnienie do 0 przeciwko swojemu celowi.) \n 
 				\n Domyœlne: 1.0</text>
 	</string>
 

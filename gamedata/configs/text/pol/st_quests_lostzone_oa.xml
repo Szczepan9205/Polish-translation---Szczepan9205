@@ -97,7 +97,7 @@
 		<text>PDA dowódcy oddzia³u</text>
 	</string>
 	<string id="st_zat_b40_sarge_pda_desc">
-		<text>To PDA nale¿a³o do dowódcy oddzia³u zwiadowczego UNISG. Prawdopodobnie zawiera wa¿ne informacje taktyczne b¹dŸ strategiczne. Co jasne, urz¹dzenie jest zaszyfrowane, wiêc w tej chwili mo¿na siê tylko domyœlaæ jego zawartoœci.</text>
+		<text>To PDA nale¿a³o do dowódcy oddzia³u zwiadowczego UNISG. Prawdopodobnie zawiera wa¿ne informacje taktyczne b¹dŸ strategiczne. Co jasne, urz¹dzenie jest zaszyfrowane, wiêc w tej chwili mo¿na siê tylko domyœlaæ tego co zawiera.\n \n</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -117,16 +117,16 @@
 	</string>
 	
 	<string id="lttz_oa_special_delivery_text">
-		<text>Dostarcz walizkê oficerowi. Mo¿esz tego nie zrobiæ, aby potajemnie wspomóc UNISG.</text>
+		<text>Dostarcz walizkê oficerowi. Mo¿esz tego nie robiæ, aby potajemnie wspomóc UNISG.</text>
 	</string>
 	<string id="lttz_oa_special_delivery_text2">
 		<text>Wróæ do Diegtiariowa z informacj¹, ¿e dostarczy³eœ przesy³kê.</text>
 	</string>
 	<string id="lttz_oa_special_delivery_text3">
-		<text>Wygl¹da na to, ¿e oficer nie ¿yje. Wróæ do Diegtiariowa z informacj¹, ¿e nie mog³eœ ukoñczyæ zadania.</text>
+		<text>Wygl¹da na to, ¿e oficer nie ¿yje. Wróæ do Diegtiariowa z informacj¹, ¿e nie by³eœ w stanie ukoñczyæ zadania.</text>
 	</string>
 	<string id="lttz_oa_special_delivery_text4">
-		<text>Wygl¹da na to, ¿e nie dostarczy³eœ przesy³ki na czas. Wróæ do Diegtiariowa z informacj¹, ¿e nie mog³eœ ukoñczyæ zadania.</text>
+		<text>Wygl¹da na to, ¿e nie dostarczy³eœ przesy³ki na czas. Wróæ do Diegtiariowa z informacj¹, ¿e by³eœ w stanie ukoñczyæ zadania.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -189,23 +189,23 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Operation Afterglow Task 8 -->
 	<string id="lttz_oa_rogue_name">
-		<text>Wojna wewnêtrzna</text>
+		<text>Wewnêtrzna wojna</text>
 	</string>
 	
 	<string id="lttz_oa_rogue_text">
 		<text>ZnajdŸ £otrzyka i dowiedz siê, co siê sta³o.</text>
 	</string>
 	<string id="lttz_oa_rogue_text1">
-		<text>Pomó¿ £otrzykowi cofn¹æ efekty pola psionicznego dziêki dawce blokera.</text>
+		<text>Pomó¿ £otrzykowi dojœæ do siebie po wpadniêciu w obszar oddzia³ywania pola psionicznego poprzez podanie mu dawki Blokera psionicznego.</text>
 	</string>
 	<string id="lttz_oa_rogue_text2">
-		<text>Daj £otrzykowi tabletkê blokera psionicznego.</text>
+		<text>Daj £otrzykowi tabletkê Blokera psionicznego.</text>
 	</string>
 	<string id="lttz_oa_rogue_text3">
 		<text>OdprowadŸ £otrzyka do pralni.</text>
 	</string>
 	<string id="lttz_oa_rogue_text4">
-		<text>£otrzyk zgin¹³ w anomalii psionicznej. Poinformuj Strie³oka o jego losie.</text>
+		<text>£otrzyk zgin¹³ w anomalii psionicznej. Poinformuj Strie³oka o tym co siê wydarzy³o.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -224,7 +224,7 @@
 		<text>OdprowadŸ Ig³ê do pralni.</text>
 	</string>
 	<string id="lttz_oa_stitch_text4">
-		<text>Igle nie uda³o siê przetrwaæ ataku zombie. Poinformuj Strie³oka o jego losie.</text>
+		<text>Igle nie uda³o siê przetrwaæ ataku zombie. Poinformuj Strie³oka o tym co siê wydarzy³o.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -234,7 +234,7 @@
 	</string>
 	
 	<string id="lttz_oa_loose_ends_text">
-		<text>Omów z pu³kownikiem Diegtiariowem jego obecn¹ misjê.</text>
+		<text>Omów z pu³kownikiem Diegtiariowem jego obecne cele.</text>
 	</string>
 	<string id="lttz_oa_loose_ends_text2">
 		<text>Negocjuj ze Strie³okiem. Spróbuj wypracowaæ kompromis.</text>
@@ -252,7 +252,7 @@
 		<text>Strie³ok nie ¿yje. Porozmawiaj z Diegtiariowem.</text>
 	</string>
 	<string id="lttz_oa_loose_ends_text4">
-		<text>Powiedz Diegtiariowowi, ¿e Strie³ok chce wspó³pracowaæ, ale na jego zasadach.</text>
+		<text>Powiedz Diegtiariowowi, ¿e Strie³ok chce wspó³pracowaæ, ale na w³asnych zasadach.</text>
 	</string>
 	<string id="lttz_oa_loose_ends_text41">
 		<text>Zdecydowa³eœ pomóc Strie³okowi pozbyæ siê Diegtiariowa. Zabij pu³kownika.</text>

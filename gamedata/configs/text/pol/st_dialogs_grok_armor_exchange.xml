@@ -7,32 +7,32 @@
 		<text>Dok³adnie, stalkerze. No wiêc s³uchaj, mogê daæ ci kombinezon tego samego rodzaju co ten, który posiadasz, ale pod warunkiem, ¿e bêdzie on pochodziæ z innej frakcji. Tylko pamiêtaj, ¿e ta wymiana ograniczona jest naszymi w³asnymi zapasami.
 		Pamiêtaj te¿, ¿e wymieniê ci kombinezon na taki, który jest w podobnym stanie do tego, który mi dasz. Jeœli dasz mi gówno, dostaniesz gówno z powrotem.
 		Z drugiej strony, jeœli kombinezon, który mi dasz bêdzie w dobrym stanie, dam ci w zamian nowy, jeszcze pachn¹cy nowoœci¹ egzemplarz, pasuje?
-		Przy okazji, ta us³uga nie jest darmowa. Potraktuj te koszta jako op³atê za ca³¹ us³ugê bo w koñcu naprawiamy niektóre kombinezony, nie? No i traktuj to te¿ jako darowiznê na rzecz rozwoju naszej frakcji.
+		Przy okazji, ta us³uga nie jest darmowa. Ceny mo¿esz sprawdziæ na tablicy og³oszeñ obok. Potraktuj te koszta jako op³atê za ca³¹ us³ugê bo w koñcu naprawiamy niektóre kombinezony, nie? No i traktuj to te¿ jako darowiznê na rzecz rozwoju naszej frakcji.
 		To co tam masz na wymianê? Sprawdzê, czy mam kombinezon pasuj¹cy do tego, czego szukasz.</text>
 	</string>
 	<string id="armor_exchange_light">
-		<text>Lekki kombinezon [5000 RU].</text>
+		<text>Lekki kombinezon (za ka¿dy lekki kombinezon) [5000 RU].</text>
 	</string>
 	<string id="armor_exchange_medium">
-		<text>Œredni kombinezon [10000 RU].</text>
+		<text>Œredni kombinezon (za ka¿dy œredni kombinezon) [10000 RU].</text>
 	</string>
 	<string id="armor_exchange_specops">
-		<text>Kombinezon wojskowy [25000 RU].</text>
+		<text>Kombinezon wojskowy (œredni strój opancerzony na dowolny œredni kombinezon) [25000 RU].</text>
 	</string>
 	<string id="armor_exchange_sci">
-		<text>Kombinezon naukowy [15000 RU].</text>
+		<text>Kombinezon naukowy (za ka¿dy nieopancerzony kombinezon naukowy œredniej klasy) [15000 RU].</text>
 	</string>
 	<string id="armor_exchange_skat">
-		<text>Ciê¿ki kombinezon pancerny SKAT-9 [25000 RU].</text>
+		<text>Ciê¿ki kombinezon pancerny SKAT-9 (za ka¿dy kombinezon SKAT-9) [25000 RU].</text>
 	</string>
 	<string id="armor_exchange_exolight">
-		<text>Ciê¿ki kombinezon do egzoszkieletu [30000 RU].</text>
+		<text>Ciê¿ki kombinezon do egzoszkieletu (za ka¿dy ciê¿ki kombinezon do egzoszkieletu) [30000 RU].</text>
 	</string>
 	<string id="armor_exchange_exo">
-		<text>Kombinezon z egzoszkieletem [45000 RU].</text>
+		<text>Kombinezon z egzoszkieletem (za ka¿dy kombinezon z egzoszkieletem) [45000 RU].</text>
 	</string>
 	<string id="armor_exchange_noso">
-		<text>Egzoszkielet klasy Nosorog [65000 RU].</text>
+		<text>Egzoszkielet klasy Nosorog (za ka¿dy egzoszkielet klasy Nosorog) [65000 RU].</text>
 	</string>
 	<string id="armor_exchange_exit">
 		<text>W sumie, niewa¿ne.</text>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+	Weapons
+-->
+<string_table>
+  <string id="st_wpn_mcx_rwap">
+    <text>SIG MCX Virtus</text>
+  </string>
+  <string id="st_wpn_mcx_rwap_descr">
+    <text>Seria SIG MCX posiada system tłoka gazowego o krótkim skoku, aby zmniejszyć odrzut i poprawić niezawodność broni; został on oparty na konstrukcji wcześniejszego SIG MPX. SIG MCX VIRTUS jest drugą generacją serii SIG MCX i został wprowadzony w 2017 roku. Ta wersja strzela z amunicji kalibru 5,56x45mm.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Niemcy\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2015\n
+		</text>
+  </string>
+  <string id="st_wpn_rattler_rwap">
+    <text>SIG MCX "Grzechotnik"</text>
+  </string>
+  <string id="st_wpn_rattler_rwap_descr">
+    <text>Seria SIG MCX wyposażona jest w system tłoka gazowego o krótkim skoku w celu zmniejszenia odrzutu i poprawy niezawodności broni. Został on oparty na konstrukcji wcześniejszego SIG MPX. SIG MCX Grzechotnik to krótkolufowy wariant karabinu z komorą nabojową .300 AAC Blackout i 5.56. Ma służyć jako broń do obrony osobistej, posiada lufę o długości 140 mm (5,5 cala) i jest wyposażony w interfejs ogona szyny Picatinny do mocowania kompaktowego kolby lub składanej płytki PCB (usztywnienie konturu pistoletu). W lutym 2018 r. USSOCOM zamówił zestawy do konwersji górnej części odbiornika dla MCX Grzechotnik w .300BLK do oceny. MCX Grzechotnik został później wybrany jako zwycięzca kontraktu SOCOM na komercyjną broń do obrony osobistej (CPDW) w maju 2022 roku.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Niemcy\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2015\n
+		</text>
+  </string>
+</string_table>

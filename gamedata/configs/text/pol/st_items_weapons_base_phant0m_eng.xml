@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+		<string id="st_wpn_akm_isg">
+		<text>Rifle Dynamics RD-47 ISG Tactical</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text>Niestandardowy model opracowany na podstawie AKM przez amerykańską firmę Rifle Dynamics. Jest to jedna z najnowocześniejszych broni wysokiej jakości w Zonie. Kilka transportów wariantów AK firmy Rifle Dynamics zostało wysłanych na Ukrainę na testy broni w celu przyjęcia ich do służby przez Siły Zbrojne Ukrainy. Rifle Dynamics chciało też sprzedać licencje produkcyjne mocarstwom Europy Wschodniej. Próby zostały jednak odwołane, a AK-12 2016 został przyjęty do służby wraz z AEK. Kilka z tych karabinów demonstracyjnych i próbnych Rifle Dynamics powoli przedostało się do Zony na przestrzeni lat i jest używanych wyłącznie przez jednostki specjalne ISG.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Urządzenia: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produkowany przez L3 Insight Technologies. Urządzenie taktyczne, które łączy w sobie laserowe wskaźniki w paśmie widzialnym i podczerwonym z reflektorem podczerwieni. \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasujące na szynę Picatinny \n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: Rifle Dynamics ISG</text>
+	</string>
+	
+			<string id="st_wpn_ak74_isg">
+		<text>Rifle Dynamics RD-74N ISG Tactical</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>Niestandardowy model opracowany na podstawie AK-74N przez amerykańską firmę Rifle Dynamics. Jest to jedna z najnowocześniejszych broni wysokiej jakości w Zonie. Kilka transportów wariantów AK firmy Rifle Dynamics zostało wysłanych na Ukrainę na testy broni w celu przyjęcia ich do służby przez Siły Zbrojne Ukrainy. Rifle Dynamics chciało też sprzedać licencje produkcyjne mocarstwom Europy Wschodniej. Próby zostały jednak odwołane, a AK-12 2016 został przyjęty do służby wraz z AEK. Kilka z tych karabinów demonstracyjnych i próbnych Rifle Dynamics powoli przedostało się do Zony na przestrzeni lat i jest używanych wyłącznie przez jednostki specjalne ISG.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Urządzenia: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produkowany przez L3 Insight Technologies. Urządzenie taktyczne, które łączy w sobie laserowe wskaźniki w paśmie widzialnym i podczerwonym z reflektorem podczerwieni. \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasujące na szynę Picatinny \n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: Rifle Dynamics ISG</text>
+	</string>
+	
+			<string id="st_wpn_ak74u_isg">
+		<text>Rifle Dynamics RD-74U ISG</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text>Niestandardowy model opracowany na podstawie AKS-74U przez amerykańską firmę Rifle Dynamics. Jest to jedna z najnowocześniejszych broni wysokiej jakości w Zonie. Kilka transportów wariantów AK firmy Rifle Dynamics zostało wysłanych na Ukrainę na testy broni w celu przyjęcia ich do służby przez Siły Zbrojne Ukrainy. Rifle Dynamics chciało też sprzedać licencje produkcyjne mocarstwom Europy Wschodniej. Próby zostały jednak odwołane, a AK-12 2016 został przyjęty do służby wraz z AEK. Kilka z tych karabinów demonstracyjnych i próbnych Rifle Dynamics powoli przedostało się do Zony na przestrzeni lat i jest używanych wyłącznie przez jednostki specjalne ISG.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasujące na szynę Picatinny \n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: Rifle Dynamics ISG</text>
+	</string>
+
+		<string id="st_wpn_ak74u_m1_isg">
+		<text>Rifle Dynamics RD-74U ISG Tactical</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text>Niestandardowy model opracowany na podstawie AKS-74U przez amerykańską firmę Rifle Dynamics. Jest to jedna z najnowocześniejszych broni wysokiej jakości w Zonie. Kilka transportów wariantów AK firmy Rifle Dynamics zostało wysłanych na Ukrainę na testy broni w celu przyjęcia ich do służby przez Siły Zbrojne Ukrainy. Rifle Dynamics chciało też sprzedać licencje produkcyjne mocarstwom Europy Wschodniej. Próby zostały jednak odwołane, a AK-12 2016 został przyjęty do służby wraz z AEK. Kilka z tych karabinów demonstracyjnych i próbnych Rifle Dynamics powoli przedostało się do Zony na przestrzeni lat i jest używanych wyłącznie przez jednostki specjalne ISG.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Urządzenia: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produkowany przez L3 Insight Technologies. Urządzenie taktyczne, które łączy w sobie laserowe wskaźniki w paśmie widzialnym i podczerwonym z reflektorem podczerwieni. \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasujące na szynę Picatinny \n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: Rifle Dynamics ISG</text>
+	</string>
+	
+		<string id="st_wpn_m4_tac">
+		<text>M4 Tactical</text>
+	</string>
+	<string id="st_wpn_m4_tac_descr">
+		<text>Colt M4A1 - karabin szturmowy (karabinek), zaprojektowany w USA na bazie platformy AR-15 na nabój kalibru 5,56x45 mm NATO. Został opracowany głównie do użytku przez operatorów pojazdów i drużyny szturmowe, które potrzebowały bardziej kompaktowej i lżejszej broni niż standardowy karabin pełnowymiarowy, ale przy użyciu tego samego uzbrojenia. Jednakże, US SOCOM (Dowództwo Operacji Specjalnych Stanów Zjednoczonych) wkrótce zaadoptowało M4A1 dla wszystkich podległych jednostek, a następnie wprowadziło M4A1 do służby w Armii Stanów Zjednoczonych i Korpusie Piechoty Morskiej.\n \n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Urządzenia: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produkowany przez L3 Insight Technologies. Urządzenie taktyczne, które łączy w sobie laserowe wskaźniki w paśmie widzialnym i podczerwonym z reflektorem podczerwieni.\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki:  All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount).\n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: 5.56 mm/7.62 mm NATO Daniel Defense DDWave</text>
+	</string>
+	
+		<string id="st_wpn_howa_type_20">
+		<text>Karabin Howa Type 20</text>
+	</string>
+	<string id="st_wpn_howa_type_20_descr">
+		<text>Karabin szturmowy, który został oficjalnie zaprezentowany publicznie w maju 2020 roku. Broń ta ma zastąpić karabin szturmowy Type 89, który jest w służbie od około 30 lat. Nowy karabin Japońskich Sił Samoobrony, podobnie jak poprzedni, został opracowany przez Howa Machinery Co i wykorzystuje amunicję kalibru 5,56x45 mm. Rozwój nowego karabinu, który ma zastąpić Type 89, rozpoczął się na wniosek Japońskich Sił Zbrojnych w 2014 roku. Zewnętrznie i konstrukcyjnie Type 20 jest swego rodzaju średnią arytmetyczną wielu nowoczesnych karabinów, takich jak HK433 czy CZ BREN II, i najwyraźniej nie posiada żadnych oryginalnych cech. Nie ma w tym jednak nic złego, ponieważ to nie oryginalność konstrukcji jest wymagana od broni wojskowej, ale niezawodność, niska cena i zgodność z wymaganiami klienta. Pozostaje tajemnicą, w jaki sposób i w jakiej ilości karabin ten trafił do uczestników ekspedycji naukowej do Zony.\n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Urządzenia: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produkowany przez L3 Insight Technologies. Urządzenie taktyczne, które łączy w sobie laserowe wskaźniki w paśmie widzialnym i podczerwonym z reflektorem podczerwieni.\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasujące na szynę Picatinny (z wyjątkiem celowników Red Dot z niskim mocowaniem: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niskie mocowanie), Docter Sight i 1P76 Rakurs (Picatinny)\n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: Knights Armament Corporation's QDSS NT-4 dla kalibru 5.56x45 mm</text>
+	</string>
+	
+		<string id="st_wpn_sr25camo">
+		<text>Karabin SR-25 Match</text>
+	</string>
+	<string id="st_wpn_sr25camo_descr">
+		<text>Karabin precyzyjny SR-25 jest równie dobry w celowaniu na dystansie powyżej 800 metrów, jak i w szybkim strzelaniu wielostrzałowym na bliskim dystans, a jego lufa i rygiel wspomagają trening niezbędny do opanowania tych umiejętności. Oburęczny zwalniacz zamka, selektor i zwalniacz magazynka oferują leworęcznym użytkownikom ergonomiczne zalety charakterystyczne dla elementów sterujących opartych na AR15, a także zapewniają praworęcznym użytkownikom alternatywne metody manipulacji w celu zwiększenia wydajności ruchu. Dwustopniowy spust Drop-In pełni podwójną funkcję, pomagając w precyzyjnym strzelaniu na duże odległości i umożliwiając szybkie strzelanie z bliskiej odległości. Jest to jeden z niewielu karabinów służących frakcji Wolność, noszony przez weteranów strzelców wyborowych. Mówi się, że tylko kilkadziesiąt sztuk jest używanych przez całą frakcję ze względu na ich wysoką cenę. Wyposażony w rękojeść MLOK, na której można zamontować chwyt przedni Zenitco RK-1 i celownik laserowy AN/PEQ-15, zapewniający chirurgiczną precyzję w starciach na bliskim dystansie, oraz hamulec wylotowy i tłumik Daniel Defense DDWAVE do precyzyjnego strzelania na duże odległości.\n
+		%c[0,255,255,255]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Urządzenia: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produkowany przez L3 Insight Technologies. Urządzenie taktyczne, które łączy w sobie laserowe wskaźniki w paśmie widzialnym i podczerwonym z reflektorem podczerwieni.\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie celowniki pasujące na szynę Picatinny (z wyjątkiem celowników Red Dot z niskim mocowaniem: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (niskie mocowanie), Docter Sight i 1P76 Rakurs (Picatinny)\n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: hamulec wylotowy 5.56 mm/7.62 mm NATO Daniel Defense DDWAVE i tłumik</text>
+	</string>
+	
+
+	</string_table>

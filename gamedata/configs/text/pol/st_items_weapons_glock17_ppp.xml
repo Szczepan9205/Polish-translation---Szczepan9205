@@ -22,6 +22,18 @@ overwrites st_wpn_glock17
 		<text>Zmiana kalibru na .45 ACP</text>
 	</string>
 
+	<string id="st_wpn_hs2000">
+		<text>HS2000</text>
+	</string>
+	<string id="st_wpn_hs2000_short">
+		<text>HS2000</text>
+	</string>
+	<string id="st_wpn_hs2000_descr">
+		<text>HS2000 to chorwacki pistolet wyprodukowany przez HS Produkt. Ma polimerow¹ ramê i strzela w oparciu o podwójny spust, który jest podobny do pistoletów Glock. Chocia¿ pomimo tego, ¿e jest to HS2000, jest to w rzeczywistoœci HS-9 4.0 G2, który jest cywiln¹ wersj¹ samego HS2000 na rynek. Wynika to z produkcji na czarnym rynku, elementy wewnêtrzne s¹ wyraŸnie HS2000, podczas gdy reszta jest po prostu oznaczona jako HS-9, jest równie¿ wyposa¿ony w oburêczny uk³ad. Pistolet ten by³ produkowany w 1995 roku, a¿ do premiery w 1999 roku. Po 2001 roku policja i armia Chorwacji zdecydowa³y siê go przyj¹æ, staj¹c siê ich broni¹ narodow¹. W USA znany jest jako „Springfield XD”.\n \n
+		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] T³umik: GemTech</text>
+	</string>
+
 <!--UNUSED
 
 	<string id="st_wpn_xd9">

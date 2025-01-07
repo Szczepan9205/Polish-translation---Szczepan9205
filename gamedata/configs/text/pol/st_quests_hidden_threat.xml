@@ -108,7 +108,7 @@
 	    <text>Ukryte zagro¿enie: porozmawiaj z porucznikiem Kiry³owem</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_4_stage_4_descr">
-	    <text>Znalaz³em PDA jednego z najemników ISG, najprawdopodobniej dowódcy grupy. PDA jest zablokowane, ale nasz technik powinien sobie z tym poradziæ - niech rzuca nawet zaklêcia, mo¿e wyjdzie z tego jakieœ hakowanie.</text>
+	    <text>Znalaz³em PDA jednego z najemników UNISG, najprawdopodobniej dowódcy grupy. PDA jest zablokowane, ale nasz technik powinien sobie z tym poradziæ - niech rzuca nawet zaklêcia, mo¿e wyjdzie z tego jakieœ hakowanie.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_4_stage_5_title">
 	    <text>Ukryte zagro¿enie: czekaj, a¿ Kiry³ow odblokuje PDA</text>
@@ -126,14 +126,14 @@
 	    <text>Ukryte zagro¿enie: porozmawiaj z pu³kownikiem Kuzniecowem</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_4_stage_7_descr">
-	    <text>Na mapach z PDA by³y oznaczenia, które ju¿ znam - Fabryka Jupiter, Fabryka nad X-18 - to w tych miejscach spotka³em siê z ISG. W zwi¹zku z tym pozosta³e znaczniki s¹ równie¿ celami ISG, muszê to zg³osiæ Kuzniecowowi.</text>
+	    <text>Na mapach z PDA by³y oznaczenia, które ju¿ znam - Fabryka Jupiter, Fabryka nad X-18 - to w tych miejscach spotka³em siê z UNISG. W zwi¹zku z tym pozosta³e znaczniki s¹ równie¿ celami UNISG, muszê to zg³osiæ Kuzniecowowi.</text>
 	</string>
 	<!---------------------- Zadanie 5 ------------------------------------------->
 	<string id="st_sl_hidden_threat_task_5_stage_0_title">
 	    <text>Ukryte zagro¿enie: poznaj sier¿anta Gorobeca</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_0_descr">
-	    <text>Sier¿ant zauwa¿y³ grupê ISG i poprosi³ o pomoc. Miejscem spotkania jest Szpital na obrze¿ach Prypeci. Nie mam nic innego do roboty, wiêcej zadañ pu³kownik mi nie da³.</text>
+	    <text>Sier¿ant zauwa¿y³ grupê UNISG i poprosi³ o pomoc. Miejscem spotkania jest Szpital na obrze¿ach Prypeci. Nie mam nic innego do roboty, wiêcej zadañ pu³kownik mi nie da³.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_1_title">
 	    <text>Ukryte zagro¿enie: mysz w pu³apce na myszy</text>
@@ -142,22 +142,22 @@
 	    <text>Brak opisu...</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_2_title">
-	    <text>Ukryte zagro¿enie: zlikwiduj snajpera ISG</text>
+	    <text>Ukryte zagro¿enie: zlikwiduj snajpera UNISG</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_2_descr">
-	    <text>ISG planuje wyeliminowaæ pu³kownika Diegtiariowa. Nie ma on ¿adnych szans, poniewa¿ grupa zadaniowa ISG zosta³a ju¿ wys³ana dawno temu i prawdopodobnie nie zd¹¿ê ostrzec pu³kownika. Mogê jednak zaryzykowaæ i zlikwidowaæ snajpera oraz zapobiec "zatrzaœniêciu siê pu³apki".</text>
+	    <text>UNISG planuje wyeliminowaæ pu³kownika Diegtiariowa. Nie ma on ¿adnych szans, poniewa¿ grupa zadaniowa UNISG zosta³a ju¿ wys³ana dawno temu i prawdopodobnie nie zd¹¿ê ostrzec pu³kownika. Mogê jednak zaryzykowaæ i zlikwidowaæ snajpera oraz zapobiec "zatrzaœniêciu siê pu³apki".</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_3_title">
 	    <text>Ukryte zagro¿enie: zapewnij wsparcie ogniowe oddzia³owi SBU</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_3_descr">
-	    <text>Snajper zosta³ wyeliminowany. Oddzia³ SBU, dowodzony przez Diegtiariowa, zosta³ zaatakowany przez grupê szturmow¹ ISG, muszê pospieszyæ im z pomoc¹.</text>
+	    <text>Snajper zosta³ wyeliminowany. Oddzia³ SBU, dowodzony przez Diegtiariowa, zosta³ zaatakowany przez grupê szturmow¹ UNISG, muszê pospieszyæ im z pomoc¹.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_4_title">
 	    <text>Ukryte zagro¿enie: porozmawiaj z pu³kownikiem Diegtiariowem</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_4_descr">
-	    <text>Grupa ISG zosta³a wyeliminowana. Trzeba porozmawiaæ z pu³kownikiem.</text>
+	    <text>Grupa UNISG zosta³a wyeliminowana. Trzeba porozmawiaæ z pu³kownikiem.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_5_stage_5_title">
 	    <text>Ukryte zagro¿enie: znajdŸ walizkê w Domu Towarowym</text>
@@ -203,28 +203,28 @@
 	    <text>Mam dyktafon, muszê go zabraæ do pu³kownika Diegtiariowa.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_5_title">
-	    <text>Ukryte zagro¿enie: porozmawiaj z dowódc¹ oddzia³u na CEA</text>
+	    <text>Ukryte zagro¿enie: porozmawiaj z dowódc¹ oddzia³u na CzEJ</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_5_descr">
-	    <text>ISG planuje przebiæ siê przez fanatyków na CEA. Najprawdopodobniej ju¿ tam s¹, a moim zadaniem jest trzymaæ ich z dala od Sarkofagu. Mój oddzia³ wsparcia czeka na mnie w umówionym miejscu.</text>
+	    <text>UNISG planuje przebiæ siê przez fanatyków na CzEJ. Najprawdopodobniej ju¿ tam s¹, a moim zadaniem jest trzymaæ ich z dala od Sarkofagu. Mój oddzia³ wsparcia czeka na mnie w umówionym miejscu.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_6_title">
-	    <text>Ukryte zagro¿enie: udaj siê na pó³nocny zachód od CEA</text>
+	    <text>Ukryte zagro¿enie: udaj siê na pó³nocny zachód od CzEJ</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_6_descr">
-	    <text>Przy g³ównym wejœciu znalaz³em tylko najemników. Nie uda³o siê znaleŸæ ISG. Dowódca oddzia³u zg³osi³, ¿e jeden z jego zwiadowców zerwa³ kontakt. Mo¿liwe, ¿e zosta³ wykryty i zlikwidowany, Poniewa¿ g³ówne wejœcie nie jest naszym g³ównym celem, warto sprawdziæ drogê ze Szpitala.</text>
+	    <text>Przy g³ównym wejœciu znalaz³em tylko najemników. Nie uda³o siê znaleŸæ UNISG. Dowódca oddzia³u zg³osi³, ¿e jeden z jego zwiadowców zerwa³ kontakt. Mo¿liwe, ¿e zosta³ wykryty i zlikwidowany, Poniewa¿ g³ówne wejœcie nie jest naszym g³ównym celem, warto sprawdziæ drogê ze Szpitala.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_7_title">
-	    <text>Ukryte zagro¿enie: wyeliminuj oddzia³ ISG</text>
+	    <text>Ukryte zagro¿enie: wyeliminuj oddzia³ UNISG</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_7_descr">
-	    <text>Jest tak, jak podejrzewa³em. Najemnicy odwracali uwagê g³ównych si³ fanatyków, a grupa ISG po cichu wesz³a od strony Szpitala, nie zwracaj¹c na siebie uwagi. No nic... Do boju!</text>
+	    <text>Jest tak, jak podejrzewa³em. Najemnicy odwracali uwagê g³ównych si³ fanatyków, a grupa UNISG po cichu wesz³a od strony Szpitala, nie zwracaj¹c na siebie uwagi. No nic... Do boju!</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_8_title">
 	    <text>Ukryte zagro¿enie: zg³oœ sukces Diegtiariowi</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_6_stage_8_descr">
-	    <text>Misja zosta³a zakoñczona, grupa ISG zosta³a zniszczona, a teraz muszê z³o¿yæ raport pu³kownikowi.</text>
+	    <text>Misja zosta³a zakoñczona, grupa UNISG zosta³a zniszczona, a teraz muszê z³o¿yæ raport pu³kownikowi.</text>
 	</string>
 	<!---------------------- Zadanie 7 ------------------------------------------->
 	<string id="st_sl_hidden_threat_task_7_stage_0_title">
@@ -243,25 +243,25 @@
 	    <text>Ukryte zagro¿enie: dostaæ siê do wejœcia do Podziemi Prypeci</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_7_stage_2_descr">
-	    <text>Najwy¿szy czas skoñczyæ z ISG. Mój oddzia³ szturmowy czeka na mnie przy wejœciu do Podziemi Prypeci, od strony Jupitera.</text>
+	    <text>Najwy¿szy czas skoñczyæ z UNISG. Mój oddzia³ szturmowy czeka na mnie przy wejœciu do Podziemi Prypeci, od strony Jupitera.</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_7_stage_3_title">
 	    <text>Ukryte zagro¿enie: wejdŸ do Podziemi Prypeci</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_7_stage_3_descr">
-	    <text>Najwy¿szy czas skoñczyæ z ISG...</text>
+	    <text>Najwy¿szy czas skoñczyæ z UNISG...</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_7_stage_4_title">
 	    <text>Ukryte zagro¿enie: wyeliminuj obecnoœæ wroga w podziemiach Prypeci</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_7_stage_4_descr">
-	    <text>Najwy¿szy czas po³o¿yæ kres ISG...</text>
+	    <text>Najwy¿szy czas po³o¿yæ kres UNISG...</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_7_stage_5_title">
 	    <text>Ukryte zagro¿enie: Zg³oœ sukces majorowi Wereszczaginowi</text>
 	</string>
 	<string id="st_sl_hidden_threat_task_7_stage_5_descr">
-	    <text>ISG jest skoñczone, atak siê powiód³, czas z³o¿yæ raport majorowi Wereszczaginowi.</text>
+	    <text>UNISG jest skoñczone, atak siê powiód³, czas z³o¿yæ raport majorowi Wereszczaginowi.</text>
 	</string>
 	<!---------------------- Second Task 1 ------------------------------------>
 	<string id="st_sl_hidden_threat_second_task_1_stage_0_title">
@@ -285,7 +285,7 @@
 	</string>
 	<!---------- Tips message ??? "Hidden Threat" ---------------------------->
 	<string id="st_sl_hidden_threat_msg_start">
-	    <text>%s, wymagana jest twoja obecnoœæ w bazie. Jest dla ciebie pilne zadanie.</text>
+	    <text>%s, twoja obecnoœæ w bazie jest wymagana. Jest dla ciebie pilne zadanie.</text>
 	</string>
 	<string id="st_sl_hidden_threat_msg_task_2_start">
 	    <text>Stalkerze, nasza sprawa to wci¹¿ œlepy zau³ek... Ale mamy dla ciebie trudne zadanie. Nasze pó³nocne operacje s¹ powa¿nie utrudnione przez Mózgozwêglacz. Porozmawiaj z Sacharowem na Jantarze i znajdŸ sposób na jego unieszkodliwienie.</text>

@@ -46,10 +46,10 @@
 		<text>Etyka ³owiecka</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_1_text">
-		<text>Grupê turystów chce zapolowaæ na mutanty. ZaprowadŸ ich w odpowiednie miejsce i zabezpiecz w trakcie polowania.</text>
+		<text>Grupê turystów chce zapolowaæ na mutanty. ZaprowadŸ ich w odpowiednie miejsce i os³aniaj w trakcie polowania.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_1_about">
-		<text>Mam tu paru ¿¹dnych wra¿eñ turystów, gdzieœ ze œwiata. Panowie chc¹ sobie postrzelaæ do naszych, wiesz, zwierz¹tek. Zabierz ich na polowanie i poka¿, jak odstrzeliæ parê mutantów, niech maj¹ trochê radochy. Tylko pilnuj, ¿eby w³os im z g³owy, kurwa, nie spad³! Takie gówno Ÿle dzia³a na biznes.</text>
+		<text>Mam tu paru ¿¹dnych wra¿eñ turystów, gdzieœ ze œwiata. Panowie chc¹ sobie postrzelaæ do naszych... "zwierz¹tek". Zabierz ich na polowanie i poka¿, jak odstrzeliæ parê mutantów, niech maj¹ trochê radochy. Tylko pilnuj, ¿eby w³os im z g³owy, kurwa, nie spad³! Takie gówno Ÿle dzia³a na biznes.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_1_finish">
 		<text>O, ju¿ wróciliœcie? Dobrze. Oto twoja zap³ata.</text>
@@ -65,7 +65,7 @@
 		<text>Zabierz do Zony grupê nowicjuszy i poka¿ im, jak przetrwaæ w tych trudnych warunkach.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_2_about">
-		<text>Te œwie¿aki gówno teraz wiedz¹ o przetrwaniu. Puœciæ ich samopas, to nocy nie do¿yj¹, ech. No co zrobiæ. Przypilnowaæ ich trzeba, ¿eby biznes dzia³a³, jak nale¿y - jak coœ im siê stanie, to zaraz, rozumisz, pójdzie plotka, ¿e Sidorowicz na œmieræ wysy³a i nowi przestan¹ przyje¿d¿aæ...\n \nWeŸ ich pod swoje skrzyd³a i poprowadŸ do Zony. Niech na w³asne ga³y zobacz¹ anomaliê i mutasa. Powiedz im, co i jak tutaj dzia³a, ¿eby wiedzieli cokolwiek o ¿yciu. Potem odstaw ich z powrotem do wioski.</text>
+		<text>Te œwie¿aki gówno teraz wiedz¹ o przetrwaniu. Puœciæ ich samopas, to nocy nie do¿yj¹, ech. No co zrobiæ. Przypilnowaæ ich trzeba, ¿eby biznes dzia³a³, jak nale¿y - jak coœ im siê stanie, to zaraz, rozumisz, pójdzie plotka, ¿e Sidorowicz na œmieræ wysy³a i nowi przestan¹ przyje¿d¿aæ...\n \nWeŸ ich pod swoje skrzyd³a i poprowadŸ do Zony. Niech na w³asne ga³y zobacz¹ anomaliê i mutasa. Powiedz im, co i jak tutaj dzia³a, ¿eby wiedzieli cokolwiek o ¿yciu. Potem odstaw ich z powrotem do Wioski.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_2_finish">
 		<text>I jak, nie obsrali siê na starcie? No to chwa³a Panu. Wspomnia³eœ im o tym, ¿e po zapasy i z chabarem to tylko do wujka Sidora, co? Trzymaj, w nagrodê.</text>
@@ -142,7 +142,7 @@
 		<text>Sidorowicz wyci¹gnie ciê z obecnych zobowi¹zañ wobec aktualnej frakcji za kwotê 10.000 RU.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_cf_task_1_about">
-		<text>Co, znudzi³o siê garowanie ca³ymi dniami na posterunku, a? M¹drze robisz, stalker, przychodz¹c z tym do mnie. Mam paru znajomych, którzy... no, maj¹ u mnie, powiedzmy, d³ug wdziêcznoœci. Mogê za³atwiæ, ¿e ci odpuszcz¹ i bêdziesz wolnym stalkerem. Tylko taka impreza swoje kosztuje - temu trzeba posmarowaæ, tamtemu pos³aæ du¿¹ flaszkê, rozumiesz... Dziesiêæ tysi, tyle bêdê potrzebowa³, ¿eby za³atwiæ ci odejœcie z frakcji. Pasuje?</text>
+		<text>Co, znudzi³o siê garowanie ca³ymi dniami na posterunku, a? M¹drze robisz przychodz¹c z tym do mnie, stalkerze. Mam paru znajomych, którzy... no, maj¹ u mnie, powiedzmy, d³ug wdziêcznoœci. Mogê za³atwiæ, ¿e ci odpuszcz¹ i bêdziesz wolnym stalkerem. Tylko taka impreza swoje kosztuje - temu trzeba posmarowaæ, tamtemu pos³aæ du¿¹ flaszkê, rozumiesz... Dziesiêæ tysi, tyle bêdê potrzebowa³, ¿eby za³atwiæ ci odejœcie z frakcji. Pasuje?</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_cf_task_1_finish">
 		<text>No, powinno wystarczyæ. Pogadam z kim trzeba, a ty, kolego, ciesz siê ¿yciem wolnego stalkera.</text>
@@ -168,10 +168,10 @@
 		<text>Wojna podjazdowa</text>
 	</string>
 	<string id="esc_m_trader_task_1_text">
-		<text>Dokonaj ataku na star¹ Stacjê Pojazdów i wyeliminuj bandytów okupuj¹cych to miejsce.</text>
+		<text>Dokonaj ataku na star¹ ATP i wyeliminuj bandytów okupuj¹cych to miejsce.</text>
 	</string>
 	<string id="esc_m_trader_task_1_about">
-		<text>Bandyckie mendy za³o¿y³y sobie bazê w starej stacji pojazdów. Te dupki ¿yj¹ z napadania, okradania i zabijania ka¿dego, kto wejdzie im w drogê. Przez tych sukinsynów nie mogê zapewniæ bezpieczeñstwa klientom szukaj¹cym rozrywki, a i stalkerzy maj¹ zwi¹zane rêce, bo siê, kurwa, boj¹ wyjœæ z obozu! Przez to sypie mi siê interes!\n \nZajmij siê tymi œcierwojadami i przegoñ ich z mojego terenu. Pogadaj z Fanatykiem, jeœli potrzebujesz wsparcia.</text>
+		<text>Bandyckie mendy za³o¿y³y sobie bazê w starym ATP. Te dupki ¿yj¹ z napadania, okradania i zabijania ka¿dego, kto wejdzie im w drogê. Przez tych sukinsynów nie mogê zapewniæ bezpieczeñstwa klientom szukaj¹cym rozrywki, a i stalkerzy maj¹ zwi¹zane rêce, bo siê, kurwa, boj¹ wyjœæ z obozu! Przez to sypie mi siê interes!\n \nZajmij siê tymi œcierwojadami i przegoñ ich z mojego terenu. Pogadaj z Fanatykiem, jeœli potrzebujesz wsparcia.</text>
 	</string>
 	<string id="esc_m_trader_task_1_finish">
 		<text>Œwietna robota, stalker! Jak tak dalej pójdzie, to zostaniemy najlepszymi przyjació³mi, ha ha! A oto obiecana zap³ata.</text>
@@ -187,7 +187,7 @@
 		<text>Mam listê ³bów do œciêcia. Wiêkszoœæ nazwisk to najpodlejsze szumowiny i ³ajdacy, ale nie bêdê ukrywa³, ¿e s¹ na niej i tacy, którzy mnie, krótko mówi¹c, wychujali. Od czasu do czasu i Zonie trzeba pomóc w wyniesieniu œmieci. To jak, stalker, zostaniesz moim zabójc¹ na zlecenie?</text>
 	</string>
 	<string id="esc_m_trader_task_2_finish">
-		<text>Dobrze, pozby³eœ siê tego dupka! Oto obiecana zap³ata.</text>
+		<text>Dobrze, pozby³eœ siê tego dupka! I dobrze! Oto, co ci obieca³em... teraz nikt nigdy nie powie, ¿e wujek Sidorowicz nie nagradza dobrej pracy.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -197,16 +197,16 @@
 		<text>Agresja za agresjê</text>
 	</string>	
 	<string id="esc_m_trader_task_3_text">
-		<text>Sidorowicz chce pozbyæ siê bandytów. Zdob¹dŸ: %s.</text>
+		<text>Sidorowicz chce wys³aæ wiadomoœæ przywódcom bandytów. Zgodzi³em siê mu pomóc, zbieraj¹c %.</text>
 	</string>		
 	<string id="esc_m_trader_task_3_about">
-		<text>S³uchaj, stalker. To mia³o byæ bezpieczne miejsce dla nowicjuszy, by mogli lepiej poznaæ Zonê, nauczyæ siê strzelaæ i tak dalej, i tak dalej. A tymczasem jakieœ obdartusy panosz¹ siê po okolicy, napadaj¹ œwie¿aków, kradn¹ im towar i - jak maj¹ dobry dzieñ - puszczaj¹ wolno w samych skarpetkach. No, powiedz ty mi, do czego to jest, kurwa, podobne?!\n \nZajmij siê tymi pata³achami. Nie chcê s³yszeæ o ¿adnej, krêc¹cej siê w okolicy bandyckiej mordzie.</text>
+		<text>S³uchaj, stalkerze. To mia³o byæ bezpieczne miejsce dla nowicjuszy, by mogli lepiej poznaæ Zonê, nauczyæ siê strzelaæ i tak dalej, i tak dalej. A tymczasem jakieœ obdartusy panosz¹ siê po okolicy, napadaj¹ œwie¿aków, kradn¹ im towar i - jak maj¹ dobry dzieñ - puszczaj¹ wolno w samych skarpetkach. No, powiedz ty mi, do czego to jest, kurwa, podobne?!\n \nZajmij siê tymi pata³achami. Nie chcê s³yszeæ o ¿adnej, krêc¹cej siê w okolicy bandyckiej mordzie.</text>
 	</string>		
 	<string id="esc_m_trader_task_3_fetch_about">
-		<text>S³uchaj, stalker. To mia³o byæ bezpieczne miejsce dla nowicjuszy, by mogli lepiej poznaæ Zonê, nauczyæ siê strzelaæ i tak dalej, i tak dalej. A tymczasem jakieœ obdartusy panosz¹ siê po okolicy, napadaj¹ œwie¿aków, kradn¹ im towar i - jak maj¹ dobry dzieñ - puszczaj¹ wolno w samych skarpetkach. No, powiedz ty mi, do czego to jest, kurwa, podobne?!\n \nZajmij siê tymi pata³achami. Nie chcê s³yszeæ o ¿adnej, krêc¹cej siê w okolicy bandyckiej mordzie. Jako dowód przynieœ mi: %s.</text>
+		<text>Niedawno pewien bandycki szefuncio z Doliny Mroku postanowi³ wdepn¹æ swoimi brudnymi buciorami w mój biznes.  Nazywa siebie w jakiœ g³upi sposób, zupe³nie tak jak Su³tan. To kto bêdzie nastêpny? Riesling? Muskadyn?\n \nWyœlijmy wiêc nadêtemu pajacowi wiadomoœæ. Przypomnijmy mu, kto jest prawdziwym szefem. Wiem, ¿e jego ludzie krêc¹ siê w pobli¿u - zwykle z³a¿¹ do Kordonu przez Mroczny W¹wóz lub £¹kê, aby nêkaæ nowicjuszy i zak³ócaæ robotê moim kurierom. Chcia³bym, abyœ wyœwiadczy³ mi przys³ugê i zlikwidowa³ kilku z nich. Nastêpnie przynieœ mi %s, a ja zajmê siê reszt¹. </text>
 	</string>		
 	<string id="esc_m_trader_task_3_fetch_finish">
-		<text>Nareszcie jesteœ z powrotem. Masz naszywki? W porz¹dku, oto twoja nagroda.</text>
+		<text>Nareszcie jesteœ z powrotem. Masz naszywki? W porz¹dku, oto twoja nagroda. Reszt¹ ju¿ sam siê zajmê.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -216,13 +216,13 @@
 		<text>Kordon bezpieczeñstwa</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_text">
-		<text>Wilk poprosi³ ciê o pozbycie siê mutantów w celu zapewnienia bezpieczeñstwa wiosce nowicjuszy oraz stalkerom przemierzaj¹cym Kordon. Dotrzyj na miejsce i wyeliminuj wszystkie napotkane mutanty. Po zakoñczeniu zadania wróæ do Wilka po nagrodê.</text>
+		<text>Wilk poprosi³ o pozbycie siê mutantów w celu zapewnienia bezpieczeñstwa Wiosce kotów oraz stalkerom przemierzaj¹cym Kordon. Dotrzyj na miejsce i wyeliminuj wszystkie napotkane mutanty. Po zakoñczeniu zadania wróæ do Wilka po nagrodê.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_about">
-		<text>Stalkerze, do tego zadania potrzebny mi ktoœ, kto ma trochê wiêksze jaja, ni¿ ci nowicjusze. Przez grasuj¹ce w okolicy mutanty Kordon staje siê niebezpiecznym miejscem.\n \nChcia³bym, abyœ zapolowa³ na nie w miejscu, które zaznaczê ci na PDA. Twoim zadaniem jest zabicie wszystkich mutantów, jakie spotkasz. Pamiêtaj, ¿e jak zaczniesz strzelaæ, pewnie zaczn¹ uciekaæ we wszystkie strony. Jeœli to zrobisz, to zarobisz trochê grosza. A wiêc jak bêdzie?</text>
+		<text>Chocia¿ jest to granica Zony, nowicjusze maj¹ ciê¿ko nawet tutaj. Bandyci to tylko po³owa problemu - oni przynajmniej rozumiej¹ lokalny jêzyk... Ale mutanty - z nimi jest naprawdê ciê¿ko. Jeœli jesteœ zdolnym ³owc¹, a niedaleko st¹d znajduje siê legowisko mutantów, które trzeba oczyœciæ. Jeœli ci siê uda, bêdê twoim d³u¿nikiem.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_finish">
-		<text>Dziêkujê, dziêki tobie nowicjusze w wiosce bêd¹ teraz bezpieczniejsi. Oto twoja zap³ata.</text>
+		<text>Dziêkujê, dziêki tobie nowicjusze w wiosce bêd¹ teraz bezpieczniejsi. Mo¿e skorzystaj¹ te¿ z okazji i naucz¹ siê czegoœ, zanim stan¹ siê karm¹ dla œwiñ. Oto twoja zap³ata.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -235,10 +235,10 @@
 		<text>Bandyci wystarczaj¹co d³ugo nêkali samotników z Kordonu: nadszed³ czas na zemstê. Pozb¹dŸ siê wszystkich Bandytów z Kordonu.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_about">
-		<text>Bandyci zawsze byli problemem w Kordonie. Nasi bracia po prostu w³ócz¹ siê dooko³a bazy i wpadaj¹ w zasadzki bandytów. Jeœli maj¹ wystarczaj¹co du¿o szczêœcia, udaje im siê prze¿yæ, ale straciliœmy ju¿ wystarczaj¹co du¿o naszych przyjació³ z r¹k tych kundli. Nadszed³ czas, aby im za to odp³aciæ: oczyœciæ Kordon z grup bandytów, które wykryliœmy. Zrobisz to? W przeciwnym razie sam bêdê musia³ zrobiæ z nimi porz¹dek, a nie chcê zostawiaæ wioski tylko w po³owie strze¿onej.</text>
+		<text>Bandyci zawsze byli problemem w Kordonie. Nasi bracia po prostu w³ócz¹ siê dooko³a bazy i wpadaj¹ w zasadzki bandytów. Jeœli maj¹ wystarczaj¹co du¿o szczêœcia, udaje im siê prze¿yæ, ale straciliœmy ju¿ wystarczaj¹co du¿o naszych przyjació³ z r¹k tych kundli. Nadszed³ czas, aby im za to odp³aciæ: oczyœciæ Kordon z grup bandytów, które wykryliœmy. Zrobisz to? W przeciwnym razie sam bêdê musia³ zrobiæ z nimi porz¹dek, a nie chcê zostawiaæ Wioski tylko w po³owie strze¿onej.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_finish">
-		<text>Dobra robota, stalkerze. Dziêki takim jak ty to miejsce jest jeszcze jako tako bezpieczne. Twoje zadanie zosta³o wykonane, a oto twoja nagroda. </text>
+		<text>Dobra robota, stalkerze. Dziêki takim jak ty to miejsce jest jeszcze jako tako bezpieczne. Twoja robota jest skoñczona, a oto twoja nagroda. </text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -251,26 +251,26 @@
 		<text>PoprowadŸ grupê nowicjuszy w Zonê.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_3_about">
-		<text>Grupa nowicjuszy wyrusza po raz pierwszy w Zonê. Potrzebujê kompetentnego stalkera, który ich poprowadzi i zadba o ich bezpieczeñstwo.</text>
+		<text>Niektórzy zagraniczni turyœci zap³acili Sidorowiczowi niez³e pieni¹dze, aby wybraæ siê na polowanie w Zonie. Nie s¹ z³ymi strzelcami, ale nie maj¹ pojêcia o anomaliach i potworach, które tu mamy. Jakbym nie niañczy³ ju¿ wystarczaj¹co du¿o ludzi...\n \nMóg³byœ zostaæ ich przewodnikiem? Ta robota to nic wyszukanego - tacy ludzie s¹ zwykle zadowoleni z krótkiego spaceru po Kordonie z jak¹œ strzelanin¹ na koniec. Upewnij siê tylko, ¿e nie zrobi¹ nic g³upiego. Zaoszczêdzi³oby mi to trochê bólu g³owy, a i za prost¹ pracê dostaniesz spor¹ nagrodê.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_3_finish">
-		<text>Dziêkujê ci za zapewnienie im bezpieczeñstwa, stalkerze.</text>
+		<text>Wygl¹da na to, ¿e ci turyœci dostali to, o co prosili. Sidorowicz bêdzie zadowolony. Jeœli chodzi o ciebie, oto twoja dzia³ka.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Find Weapon Task -->
 
 	<string id="esc_2_12_stalker_nimble_task_1_name">
-		<text>Dostarcz broñ: %s</text>
+		<text>ZnajdŸ %s</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_text">
-		<text>¯wawy poprosi³ ciê o znalezienie broni konkretnego typu. Musi byæ w idealnym stanie. Wróæ do niego, kiedy znajdziesz to, czego mu potrzeba.</text>
+		<text>¯wawy poprosi³ o znalezienie mu broni konkretnego typu. Musi byæ w idealnym stanie. Wróæ do niego, kiedy znajdziesz to, czego mu potrzeba.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_about">
 		<text>Mam klienta, który szuka konkretnej broni i przyda³by mi siê ktoœ, kto móg³by j¹ dla mnie zdobyæ. Podam ci wiêcej szczegó³ów, jeœli jesteœ zainteresowany. Co ty na to?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
-		<text>%s jest tym czego potrzebujê. Jeden warunek - musi byæ w idealnym stanie. Klient p³aci grube pieni¹dze, nie potrzebuje zardzewia³ego gruzu, który rozsypie mu siê w rêkach. Z racji, ¿e to ty wykonasz wiêksz¹ czêœæ roboty, dostaniesz wiêksz¹ czêœæ z koñcowego zysku. Wróæ do mnie, jak ju¿ znajdziesz tê broñ.</text>
+		<text>%s... To jest to czego potrzebujê. Jeden warunek - musi byæ w idealnym stanie. Klient p³aci grube pieni¹dze, ale nie potrzebuje zardzewia³ego gruzu, który rozsypie mu siê w rêkach. Z racji, ¿e to ty wykonasz wiêksz¹ czêœæ roboty, dostaniesz wiêksz¹ czêœæ z koñcowego zysku. Wróæ do mnie, jak ju¿ znajdziesz tê broñ.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
 		<text>To siê nazywa dobra broñ. Myœlê, ¿e mój klient bêdzie zadowolony. Oto, co jestem ci winien.</text>
@@ -309,26 +309,26 @@
 	<!-- Xenotech (Loner Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ Furgonowi %s</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
-		<text>%s s¹ potrzebne Furgonowi do instalacji podstawowych ulepszeñ pancerzy i broni, powinieneœ mu takie przynieœæ, jeœli uda ci siê jakieœ znaleŸæ.</text>
+		<text>Furgon potrzebuje %s do instalacji podstawowych ulepszeñ kombinezonów i broni, powinieneœ mu takie przynieœæ, jeœli uda ci siê jakieœ znaleŸæ.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
-		<text>Stary, móg³byœ wyœwiadczyæ mi przys³ugê. Wielu stalkerów odwiedzi³o mnie w ostatnim czasie pytaj¹c, czy jestem w stanie zmodyfikowaæ im broñ w konkretny sposób. A ja rozk³adam rêce - nie mam potrzebnych narzêdzi.\n \nJe¿eli oprê warsztat na dobrym zestawie narzêdzi to bêdê w stanie wprowadzaæ ulepszenia do wiêkszej iloœci broni i pancerzy. Pomo¿esz mi, stary?</text>
+		<text>Stary, móg³byœ wyœwiadczyæ mi przys³ugê? Wielu stalkerów odwiedzi³o mnie w ostatnim czasie pytaj¹c, czy jestem w stanie zmodyfikowaæ im broñ w konkretny sposób. A ja rozk³adam rêce - nie mam potrzebnych narzêdzi.\n \nJe¿eli oprê warsztat na dobrym zestawie narzêdzi to bêdê w stanie wprowadzaæ ulepszenia do wiêkszej iloœci broni i kombinezonów. Pomo¿esz mi, stary?</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
-		<text>Potrzebujê zestawu narzêdzi podstawowych. Powinien zawieraæ to, co bêdzie mi potrzebne. Bêdê wdziêczny, jeœli przyniesiesz mi jakieœ, a nawet bêdê w stanie zaoferowaæ ci zni¿kê.</text>
+		<text>Œwietnie! Zap³acê ci prawdziw¹ premiê za zestaw - o wiele wiêcej, ni¿ dosta³byœ sprzedaj¹c go Sidorowiczowi lub innemu handlarzowi. Kiedy ju¿ bêdziesz je mia³ to wiesz, gdzie mnie znaleŸæ.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
-		<text>Okej, tak, ten zestaw ma wszystko, czego potrzebowa³em. Trzymaj obiecan¹ zap³atê. No bierz, nie patrz tak na mnie.</text>
+		<text>Nareszcie! Z niecierpliwoœci¹ czeka³em na to, by wzi¹æ w rêce taki zestaw narzêdzi. Jeœli chodzi o ciebie, przyjmij to jako mój sposób na podziêkowanie.</text>
 	</string>
 
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ Furgonowi %s</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
-		<text>%s s¹ potrzebne Furgonowi do instalacji zaawansowanych ulepszeñ pancerzy i broni, powinieneœ mu takie przynieœæ, jeœli uda ci siê jakieœ znaleŸæ.</text>
+		<text>Furgon potrzebuje %s do instalacji zaawansowanych ulepszeñ kombinezonów i broni, powinieneœ mu takie przynieœæ, jeœli uda ci siê jakieœ znaleŸæ.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
 		<text>Stary, dziêki tobie mój interes zacz¹³ rozkwitaæ! Z dnia na dzieñ zjawia siê u mnie wiêcej i wiêcej stalkerów, którzy potrzebuj¹, aby zmodyfikowaæ im broñ. Poprzednio przynios³eœ mi zestaw bardzo dobrej jakoœci, ale roboty jest tyle, ¿e przyda³by mi siê lepszy. Jeœli zgodzisz siê pomóc, to powiem ci, czego mi potrzeba.</text>
@@ -341,16 +341,16 @@
 	</string>
 
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ Furgonowi %s</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
-		<text>%s s¹ potrzebne Furgonowi do instalacji precyzyjnych ulepszeñ pancerzy i broni, powinieneœ mu takie przynieœæ, jeœli uda ci siê jakieœ znaleŸæ.</text>
+		<text>Furgon potrzebuje %s do instalacji precyzyjnych ulepszeñ kombinezonów i broni, powinieneœ mu takie przynieœæ, jeœli uda ci siê jakieœ znaleŸæ.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
-		<text>Dziêki tobie mój interes rozkwit³ na dobre! Stalkerzy potrzebuj¹cy modyfikacji broni lub pancerza wal¹ do mnie drzwiami i oknami... Ostatnim razem przynios³eœ mi œwietny zestaw, ale mam teraz tyle roboty, ¿e przyda³by mi siê jeszcze lepszy. Jeœli zgodzisz siê pomóc, to powiem ci czego potrzebujê.</text>
+		<text>Dziêki tobie mój interes rozkwit³ na dobre! Stalkerzy potrzebuj¹cy modyfikacji broni lub kombinezonu wal¹ do mnie drzwiami i oknami... Ale wiem te¿, ¿e móg³bym robiæ znacznie wiêcej. Ostatnim razem przynios³eœ mi œwietny zestaw, ale mam teraz tyle roboty, ¿e przyda³by mi siê jeszcze lepszy. Jeœli zgodzisz siê pomóc, to powiem ci czego potrzebujê.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
-		<text>Potrzebujê narzêdzi precyzyjnych. Bêdê wdziêczny, jeœli przyniesiesz mi jakieœ i tak jak ostatnio, zap³acê ci za nie.</text>
+		<text>Dziêkujê, stalkerze. Pamiêtaj, ¿e s¹ to specjalistyczne narzêdzia precyzyjne. Postaraj siê nie zgubiæ ich walcz¹c z jakimœ nibyolbrzymem lub czymœ podobnym. Ale z ca³¹ powag¹ - doceniam, ¿e zgodzi³eœ siê to zrobiæ. Trzymaj siê.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
 		<text>O, tak! Teraz mam ju¿ wszystko, czego potrzebujê. Oto obiecana zap³ata, zas³u¿y³eœ.</text>
@@ -362,13 +362,13 @@
 		<text>Szczególnie niebezpieczni</text>
 	</string>
 	<string id="esc_3_16_military_trader_task_1_text">
-		<text>¯urow poprosi³ mnie o zdobycie %s.</text>
+		<text>Dowódca pó³nocnego posterunku, Major ¯urow, poprosi³ mnie o przyniesienie mu %s. To powinno pomóc przypomnieæ stalkerom, kto tu rz¹dzi.</text>
 	</string>
 	<string id="esc_3_16_military_trader_task_1_about">
 		<text>Dowództwo wprowadzi³o ostatnimi czasy nieoficjalny program oczyszczania Zony ze szczególnie niebezpiecznych, przebywaj¹cych w Zonie nielegalnie osobników, chcia³byœ wzi¹æ w nim udzia³? Jako dowód przynieœ mi naszywki zerwane z kombinezonów kryminalistów krêc¹cych siê po okolicy.</text>
 	</string>
 	<string id="esc_3_16_military_trader_task_1_fetch_about">
-		<text>Dowództwo wprowadzi³o ostatnimi czasy nieoficjalny program oczyszczania Zony ze szczególnie niebezpiecznych, przebywaj¹cych w Zonie nielegalnie osobników, chcia³byœ wzi¹æ w nim udzia³? Zbierz %s - wydaje mi siê, ¿e nie bêdziesz musia³ siê zbytnio wysilaæ!</text>
+		<text>Dowództwo wprowadzi³o ostatnimi czasy nieoficjalny program oczyszczania Zony ze szczególnie niebezpiecznych, przebywaj¹cych w Zonie nielegalnie osobników, chcia³byœ wzi¹æ w nim udzia³? Chocia¿ poproszono nas o nie tykanie pobliskiej Wioski, musimy pokazaæ mieszkañcom, ¿e nadal jesteœmy si³¹, któr¹ nale¿y szanowaæ i której nale¿y siê s³uchaæ. Zastrzel wszystkich nielegalnie przebywaj¹cych w Zonie stalkerów, którzy wejd¹ ci pod celownik, a ich naszywki zabierz jako dowód. Gdy zdobêdziesz wystarczaj¹c¹ liczbê %s, wróæ do mnie po premiê.</text>
 	</string>
 	<string id="esc_3_16_military_trader_task_1_fetch_finish">
 		<text>Wygl¹da na to, ¿e wiesz co robisz. Dobra robota to dobra zap³ata. Pochwalê ciê w raporcie.</text>
@@ -377,23 +377,23 @@
 	
 <!-- (Military Mechanic - Southern Outpost) -->
 	<string id="army_south_mechan_mlr_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ Sieriodze %s</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_1_text">
 		<text>Sierioga, wojskowy technik, poprosi³ mnie o znalezienie: %s.</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_1_about">
-		<text>W sumie to mam. Nasze narzêdzia zosta³y w kompleksie badawczym na Jantarze, przez co nawet nie mogê pogrzebaæ przy transporterze. Potrzebne mi narzêdzia - choæby te najbardziej podstawowe. Pomo¿esz?</text>
+		<text>W sumie to mam. Jakiœ czas temu wszystkie nasze narzêdzia zosta³y wys³ane do kompleksu badawczego nad Jantarem, dlatego nie mogê nawet naprawiæ tego tutaj BTR-a. Potrzebujê zestawu narzêdzi podstawowych. Móg³byœ pomóc?</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_1_fetch_about">
-		<text>W sumie to mam. Nasze narzêdzia zosta³y w kompleksie badawczym na Jantarze, przez co nawet nie mogê pogrzebaæ przy transporterze. Potrzebne mi narzêdzia - choæby te najbardziej podstawowe. Pomo¿esz?</text>
+		<text>W sumie to mam. Jakiœ czas temu wszystkie nasze narzêdzia zosta³y wys³ane do kompleksu badawczego nad Jantarem, dlatego nie mogê nawet naprawiæ tego tutaj BTR-a. Potrzebne mi narzêdzia - choæby te najbardziej podstawowe. Pomo¿esz?</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_1_fetch_finish">
-		<text>Dziêki wielkie! Masz u mnie zni¿kê.</text>
+		<text>Poka¿ mi je... Wow, te s¹ naprawdê podstawowe, co? Ale i tak lepsze ni¿ to, co zostawi³ mi nasz kwatermistrz. Oto ma³e podziêkowanie.</text>
 	</string>
 
 	<string id="army_south_mechan_mlr_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ Sieriodze %s</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_2_text">
 		<text>Sierioga, wojskowy technik, poprosi³ mnie o znalezienie: %s.</text>
@@ -405,11 +405,11 @@
 		<text>Niestety, ale narzêdzia, które mi przynios³eœ ju¿ nie wystarczaj¹ bo dziêki nim mogê instalowaæ tylko podstawowe ulepszenia. Potrzebny mi bardziej zaawansowany zestaw - chyba nie powinno byæ tak trudno go znaleŸæ. Rozejrzysz siê dla mnie za nimi?</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_2_fetch_finish">
-		<text>Stary, wszyscy to doceniamy. Ch³opcy z kompanii kazali przekazaæ ci wyrazy szacunku.</text>
+		<text>W porz¹dku, spójrzmy... no i fajno, nadadz¹ siê. To za ma³o ¿eby naprawiæ BTR-a, ale mo¿e teraz uda mi siê wzmocniæ pancerze poborowych. To dobrze wp³ynie na morale - nikt nie chce wychodziæ w Zonê z myœl¹, ¿e zginie od byle podmuchu wiatru. Jeœli chodzi o nagrodê - oto ona. Dobrze siê spisa³eœ.</text>
 	</string>
 
 	<string id="army_south_mechan_mlr_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ Sieriodze %s</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_3_text">
 		<text>Sierioga, wojskowy technik, poprosi³ mnie o znalezienie: %s.</text>
@@ -421,7 +421,7 @@
 		<text>Mam ju¿ doœæ grzebania siê w tym pieprzonym BTR-rze. Dosyæ, niech kto inny zajmuje siê transporterem, a nie wiecznie ja! W tym czasie móg³bym zajmowaæ siê choæby broni¹ czy pancerzami. Chyba ju¿ czas, by nasi ch³opcy dostali porz¹dny sprzêt. Przyda³by mi siê nowy zestaw narzêdzi - precyzyjny. Za³atwisz mi taki?</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_3_fetch_finish">
-		<text>Niesamowite. Nigdy bym nie pomyœla³, ¿e na w³asne oczy zobaczê tak dobre narzêdzia... zw³aszcza w tej melinie. Od teraz masz u mnie naprawdê du¿¹ zni¿kê.</text>
+		<text>Nigdy nie s¹dzi³em, ¿e doczekam dnia, w którym znów bêdê mia³ dostêp do tak zaawansowanych narzêdzi. Dziêkujê ci w imieniu wszystkich si³ wojskowych w Zonie! Twój dzisiejszy wk³ad bez w¹tpienia uratuje wiele istnieñ.</text>
 	</string>
 
 	
@@ -442,7 +442,7 @@
 		<text>Szkolenie: Zdob¹dŸ artefakt Meduza</text>
 	</string>
 	<string id="task_fanat_training_1_6">
-		<text>Szkolenie: Wróæ do wioski</text>
+		<text>Szkolenie: Wróæ do Wioski</text>
 	</string>
 	<string id="task_fanat_training_1_7">
 		<text>Szkolenie: Porozmawiaj z Fanatykiem</text>
@@ -454,7 +454,7 @@
 		<text>Szkolenie: Umieœæ artefakt Meduza w o³owianym pojemniku</text>
 	</string>
 	<string id="task_fanat_training_1_descr">
-		<text>Fanatyk wydaje siê byæ jednym z najbardziej doœwiadczonych stalkerów w wiosce. Poka¿e ci kilka rzeczy u³atwiaj¹cych przetrwanie w Zonie.</text>
+		<text>Fanatyk wydaje siê byæ jednym z najbardziej doœwiadczonych stalkerów w Wiosce. Poka¿e ci kilka rzeczy, które u³atwiaj¹ ci przetrwanie w Zonie.</text>
 	</string>
 	
 	<string id="task_fanat_training_2_1">
@@ -464,23 +464,23 @@
 		<text>Wyzwanie: Porozmawiaj z Fanatykiem</text>
 	</string>
 	<string id="task_fanat_training_2_descr">
-		<text>Kolejne wyzwanie ma za zadanie sprawdziæ twoj¹ spostrzegawczoœæ - musisz odnaleŸæ schowek znajduj¹cy siê gdzieœ w wiosce nowicjuszy. Fanatyk nazywa go "bocianim gniazdem" - mo¿e to jakaœ wskazówka?</text>
+		<text>Kolejne wyzwanie ma za zadanie sprawdziæ twoj¹ spostrzegawczoœæ - musisz odnaleŸæ schowek znajduj¹cy siê gdzieœ w Wiosce kotów. Fanatyk nazywa go "gniazdkiem" - mo¿e to jakaœ wskazówka?</text>
 	</string>
 	
 	<string id="task_fanat_training_3_1">
-		<text>Rytua³ Przejœcia: Oczyœæ Stacjê Pojazdów</text>
+		<text>Rytua³ Przejœcia: Oczyœæ ATP</text>
 	</string>
 	<string id="task_fanat_training_3_2">
 		<text>Rytua³ Przejœcia: Porozmawiaj z Fanatykiem</text>
 	</string>
 	<string id="task_fanat_training_3_3">
-		<text>Rytua³ Przejœcia: Wróæ do wioski</text>
+		<text>Rytua³ Przejœcia: Wróæ do Wioski</text>
 	</string>
 	<string id="task_fanat_training_3_4">
 		<text>Rytua³ Przejœcia: Porozmawiaj z Fanatykiem</text>
 	</string>
 	<string id="task_fanat_training_3_descr">
-		<text>Wyrusz z Fanatykiem, by pomóc mu w pozbyciu siê bandytów okupuj¹cych Stacjê Pojazdów.</text>
+		<text>Wyrusz z Fanatykiem, by pomóc mu w pozbyciu siê bandytów okupuj¹cych ATP.</text>
 	</string>
 
 
@@ -491,45 +491,44 @@
 		<text>Fanatyk poprosi³ o zniszczenie legowiska mutantów w celu zapewnienia bezpieczeñstwa nowicjuszom mieszkaj¹cym w wiosce, a tak¿e stalkerom przechodz¹cym przez Kordon.</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_1_about">
-		<text>Mamy du¿y problem. Mutanty tworz¹ sobie nowe gniazda i im wiêcej ich siê tu krêci, tym mniej Kordon staje siê bezpieczny - nie mo¿emy pozwoliæ sobie na to, by zaczê³o ich przybywaæ. Musisz znaleŸæ jedno z gniazd i zniszczyæ je. Gwarantujê, ¿e jeœli ci siê uda, ka¿dy z mieszkañców bêdzie ci wdziêczny. Co ty na to?</text>
+		<text>Jest ma³y problem, który trzeba rozwi¹zaæ. Kordon ma byæ jednym z najbezpieczniejszych miejsc w Zonie, ale niedaleko st¹d powsta³o nowe legowisko mutantów. Trzeba je oczyœciæ, zanim stanie siê zbyt du¿e - w przeciwnym razie tutejszych nowicjuszy czekaj¹ ciê¿kie czasy. Co ty na to? Zajmiesz siê tym?</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_1_finish">
-		<text>Œwietna robota. Dziêki tobie to miejsce bêdzie bardziej przyjazne dla nowicjuszy. A oto nagroda.</text>
+		<text>Œwietna robota. Dziêki tobie nowicjusze bêd¹ mieli od teraz wiêcej miejsca do szkolenia siê bez potrzeby rzucania siê na g³êbok¹ wodê. Oto twoja zap³ata - wszyscy siê na ni¹ zrzuciliœmy.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_fanat_task_2_name">
 		<text>Pierwsze koty za p³oty</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_2_text">
-		<text>Fanatyk poprosi³ o znalezienie artefaktu Bateria dla jednego z nowicjuszy.</text>
+		<text>Fanatyk poprosi³ o znalezienie artefaktu Bateria by móg³ pomóc kilku swoim starym przyjacio³om przekupiæ wojsko, by mogli wydostaæ siê z Zony.</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_2_fetch_about">
-		<text>Sprawa wygl¹da tak. Ostatnio jeden z obozowiczów wybra³ siê na Agroprom, przygotowany na wielk¹ przygodê. Ruszy³ z pistoletem w jednej rêce i detektorem w drugiej. Szpera³ w tamtejszych skupiskach anomalii szukaj¹c czegoœ ciekawego i uda³o mu siê znaleŸæ artefakt. W drodze powrotnej zosta³ zatrzymany przez wojskowy patrol, który zabra³ mu wszystko, co mia³ przy sobie - oczywiœcie, wraz z artefaktem.\n \nTeraz biedaczyna przesiaduje tu i wyp³akuje oczy, nie mog¹c uwierzyæ w to, co siê wydarzy³o. Wiesz, to by³ pierwszy artefakt jaki uda³o mu siê z³owiæ. Wed³ug opisu wydaje mi siê, ¿e znalaz³ Bateriê. Strasznie mi go szkoda - poszed³bym szukaæ tego artefaktu sam, ale nie mogê zostawiæ nowicjuszy samych - ktoœ musi ich chroniæ, bo jeszcze wiele nauki przed nimi. Facet na pewno ucieszy siê, jeœli ktoœ dostarczy mu coœ podobnego, do jego pierwszego znaleziska. To co, pomo¿esz?</text>
+		<text>Sprawa wygl¹da tak. Trzeba wykonaæ sporo brudnej roboty po to, ¿eby miejscowi ¿o³nierze nie niepokoili Wioski. Sidorowicz zapewnia w ten sposób bezpieczeñstwo samej wiosce. Mam kilku przyjació³, którzy chc¹ siê wydostaæ z Zony, a nie ma dla nich ¿adnej realnej drogi ucieczki.\n \nTak to ju¿ jest z wojskowymi patrolami - nie s¹ zbyt ostro¿ni, jeœli chodzi o powstrzymywanie ludzi przed dostaniem siê do œrodka, ale wol¹ zabiæ cz³owieka z zimn¹ krwi¹, ni¿ pozwoliæ mu siê wydostaæ. Tak wiêc moi przyjaciele utknêli... Stra¿nicy nie przepuszcz¹ ich ¿ywych, chyba ¿e przekupimy ich artefaktem Bateria. S³ysza³eœ o takim? Mo¿na je znaleŸæ w anomaliach elektrycznych, ale s¹ niezwykle rzadkie. Wys³a³em ju¿ wszystkich stalkerów na poszukiwania, ale nikt siê jeszcze nie odezwa³. Pomo¿esz?</text>
 	</string>
 	<string id="esc_2_12_stalker_fanat_task_2_fetch_finish">
-		<text>Ach, znalaz³eœ Bateriê? Wyœmienicie. Jestem pewny, ¿e ten stalker w koñcu siê uœmiechnie - przykro patrzeæ, jak ca³ymi dniami topi smutki w butelce i u¿ala siê nad sob¹. Tak miêdzy nami, trochê mia³em ju¿ tego dosyæ. W ka¿dym razie, dziêki za pomoc.</text>
+		<text>Ach, znalaz³eœ Bateriê? Wyœmienicie. Przeka¿ê moim towarzyszom dobre wieœci. Bêdê za nimi strasznie têskni³, ale wiem, ¿e dostan¹ te¿ kolejn¹ szansê na zwyk³e ¿ycie. Dziêkujê za pomoc, stalkerze.</text>
 	</string>
-
 	
 <!-- Hip -->
 	<string id="toz34_sk2_return">
 		<text>Przynieœ Hip TOZa-194 wraz z amunicj¹, aby otrzymaæ nagrodê</text>
 	</string>
 	<string id="toz34_sk2_find">
-		<text>ZnajdŸ strzelbê TOZ-194 wraz z amunicj¹ dla klienta Hip</text>
+		<text>ZnajdŸ strzelbê TOZ-194 wraz z amunicj¹ dla klienta Hip.</text>
 	</string>
 	<string id="toz34_return_descr">
 		<text>Hip powiedzia³a, ¿e bogaty klient jest w stanie wy³o¿yæ niez³¹ sumkê za TOZ-194 wraz z dwudziestoma pociskami 12x76mm. Problem w tym, ¿e ¿aden ze s³awnych handlarzy na po³udniu Zony nie ma takiej strzelby na sprzeda¿.</text>
 	</string>
 	
 	<string id="artefacts_to_sidor_return">
-		<text>Przynieœ artefakty do Sidorowicza</text>
+		<text>Przynieœ Sidorowiczowi artefakty</text>
 	</string>
 	<string id="artefacts_to_sidor_find">
 		<text>ZnajdŸ artefakty dla Sidorowicza</text>
 	</string>
 	<string id="artefacts_to_sidor_return_descr">
-		<text>Sidorowicz wys³a³ ciebie i Hip na poszukiwanie artefaktów. Trzeba mu dostarczyæ artefakty: Skrêtak, Kula Ognista i Blask Ksiê¿yca.</text>
+		<text>Sidorowicz wys³a³ ciebie i Hip na poszukiwanie artefaktów. Trzeba mu dostarczyæ artefakty: Grawi, Racze oczy i Blask Ksiê¿yca.</text>
 	</string>
 
 	<string id="go_to_barmen_1">
@@ -573,7 +572,7 @@
 	</string>
 	
 	<string id="army_south_mechan_mlr_task_4_about">
-		<text>Jakiœ kutas ci¹gle niszczy nam megafon. Nie mam pojêcia, czy to ci zasrani stalkerzy z wioski, czy któremuœ z naszych wybitnie siê nudzi. Potrzebujê czêœci, aby go naprawiæ. Móg³byœ ich poszukaæ?</text>
+		<text>Jakiœ kutas ci¹gle niszczy nam megafon! Nie mam pojêcia, czy to ci zasrani stalkerzy z Wioski, czy któremuœ z naszych wybitnie siê nudzi. Potrzebujê czêœci, aby go naprawiæ. Móg³byœ ich poszukaæ?</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_4_name">
 		<text>Chochliki</text>

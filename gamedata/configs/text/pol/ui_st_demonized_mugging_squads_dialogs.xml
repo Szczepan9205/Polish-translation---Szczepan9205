@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="mugging_who_are_you">
+		<text>Kim jesteś?</text>
+	</string>
+
+	<!-- Default -->
+	<string id="mugging_stop_right_there">
+		<text>No proszę... Co my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_stuff">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, jaką masz, a może pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff">
+		<text>Dobrze, dobrze. Bierz co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_thank_you">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_ok">
+		<text>Tak, tak... już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Bandyci -->
+	<string id="mugging_stop_right_there_bandit_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_some_item_bandit_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój sprzęt i wszystko, co masz, a pozwolimy ci kontynuować twoją podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_bandit_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_bandit_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_bandit_1">
+		<text>Dobrze, dobrze. Bierz co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_bandit_1">
+		<text>W porządku, bierz. Tylko proszę, nie róbcie mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_bandit_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_finish_bandit_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_bandit_1">.
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Renegaci -->
+	<string id="mugging_stop_right_there_renegade_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_some_item_renegade_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój ekwipunek i wszystko, co masz, a pozwolimy ci kontynuować twoją małą podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_renegade_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_renegade_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_renegade_1">
+		<text>Dobrze, dobrze. Po prostu weź co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_renegade_1">
+		<text>W porządku, bierz. Tylko proszę, nie róbcie mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_renegade_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój ekwipunek.</text>
+	</string>
+
+	<string id="mugging_finish_renegade_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_renegade_1">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Najemnik -->
+	<string id="mugging_stop_right_there_killer_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_money_killer_1">
+		<text>Jesteśmy tymi, którym płacą za dbanie o interesy. A ty... sprawisz, że nasz dzień będzie o wiele lepszy. Nie prosimy o wiele. Tylko trochę gotówki, żeby osłodzić transakcję. Daj nam ją, a my upewnimy się, że nie przydarzy ci się tutaj żaden... niefortunny wypadek.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_killer_1">
+		<text>Dobrze. Bierz i pozwól mi już iść.</text>
+	</string>
+
+	<string id="mugging_thank_you_killer_1">
+		<text>Przyjemnie robić z tobą interesy, przyjacielu.</text>
+	</string>
+
+	<string id="mugging_finish_killer_1">
+		<text>Tak, tak...</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_killer_1">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakimś najemnikom.</text>
+	</string>
+
+	<!-- Merc -->
+	<string id="mugging_stop_right_there_isg_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_money_isg_1">
+		<text>Jesteśmy tymi, którym płacą za dbanie o interesy. A ty... sprawisz, że nasz dzień będzie o wiele lepszy. Nie prosimy o wiele. Tylko trochę gotówki, żeby osłodzić transakcję. Daj nam ją, a my upewnimy się, że nie przydarzy ci się tutaj żaden... niefortunny wypadek.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_isg_1">
+		<text>Dobrze. Bierz i pozwól mi już iść.</text>
+	</string>
+
+	<string id="mugging_thank_you_isg_1">
+		<text>Przyjemnie robić z tobą interesy, przyjacielu.</text>
+	</string>
+
+	<string id="mugging_finish_isg_1">
+		<text>Tak, tak...</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_isg_1">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakimś najemnikom.</text>
+	</string>
+
+	<!-- Monolit -->
+	<string id="mugging_stop_right_there_monolith_1">
+		<text>Stój! Kim jesteś, szumowino?</text>
+	</string>
+
+	<string id="mugging_who_are_you_monolith_1">
+		<text>Jestem tylko stalkerem. Kim jesteś? Czego chcesz?</text>
+	</string>
+
+	<string id="mugging_convert_to_us_monolith_1">
+		<text>Cisza! Nasz cel jest święty, a nasza misja boska. Pragniemy oczyścić tę ziemię ze wszystkich, którzy nam się sprzeciwiają, aby doprowadzić do wniebowstąpienia Monolitu. Chcemy posłuszeństwa. Chcemy lojalności. Chcemy, abyś odrzucił swoją bezsensowną egzystencję i przyjął prawdziwą moc Monolitu. W Zonie istnieje tylko jedna droga do prawdziwego zbawienia, a jest nią Monolit. Albo jesteś z nami, albo przeciwko nam. A tych, którzy staną przeciwko nam, czeka ślepy zaułek. Nie masz wyboru.</text>
+	</string>
+
+	<string id="mugging_convert_agree_monolith_1">
+		<text>Proszę, zgadzam się. Zrobię wszystko, tylko daruj mi życie.</text>
+	</string>
+
+	<string id="mugging_thank_you_monolith_1">
+		<text>Wszystko? Więc przysięgnij wierność Monolitowi. Przyjmiesz naszą sprawę, nasze wierzenia. Staniesz się teraz jednym z nas. Zdradź nas, a śmierć będzie najmniejszym z twoich zmartwień.</text>
+	</string>
+
+	<string id="mugging_finish_monolith_1">
+		<text>Rozumiem. Nie zdradzę was. Dziękuję... za oszczędzenie mnie.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_monolith_1">
+		<text>Wolę zginąć jako człowiek, niż stać się szalonym fanatykiem bez duszy, takim jak ty!</text>
+	</string>
+
+	<!-- Grzech -->
+	<string id="mugging_stop_right_there_greh_1">
+		<text>Stój! Kim jesteś?</text>
+	</string>
+
+	<string id="mugging_who_are_you_greh_1">
+		<text>Jestem tylko stalkerem. Kim jesteś? Czego chcesz?</text>
+	</string>
+
+	<string id="mugging_convert_to_us_greh_1">
+		<text>Cisza! Zona jest cudem. Mistrzowie nas oczyścili. Myśleliśmy, że wkrótce Zona oczyści cały świat! Ale nie... Nasz mały raj został wkrótce naruszony przez ułomnych ludzi grzesznego świata. Więc my, Grzech, musimy wyruszyć na wyprawę, aby spełnić życzenie Mistrzów. Prowadzimy wojnę z przemocą, by zaprowadzić wieczny pokój. Albo jesteś z nami, albo szybko zginiesz jako wróg Grzechu.</text>
+	</string>
+
+	<string id="mugging_convert_agree_greh_1">
+		<text>Proszę, zgadzam się. Zrobię wszystko.</text>
+	</string>
+
+	<string id="mugging_thank_you_greh_1">
+		<text>Bardzo dobrze. Mądry wybór, stalkerze. A teraz przygotuj się. Mamy wiele do zrobienia i niewiele cierpliwości dla tych, którzy się wahają.</text>
+	</string>
+
+	<string id="mugging_finish_greh_1">
+		<text>Rozumiem.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_greh_1">
+		<text>Wolę zginąć walcząc, niż stać się pionkiem w waszej pokręconej grze!</text>
+	</string>
+
+	<!-- Wojsko -->
+	<string id="mugging_stop_right_there_army_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_some_item_army_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój sprzęt i wszystko, co masz, a pozwolimy ci kontynuować twoją małą podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_army_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_army_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a może pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_army_1">
+		<text>Dobrze, dobrze. Bierz co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_army_1">
+		<text>W porządku, bierz. Tylko proszę, nie róbcie mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_army_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_finish_army_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_army_1">.
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Czyste Niebo -->
+	<string id="mugging_stop_right_there_csky_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_some_item_csky_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój sprzęt i wszystko, co masz, a pozwolimy ci kontynuować twoją małą podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_csky_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_csky_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a może pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_csky_1">
+		<text>Dobrze, dobrze. Bierz co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_csky_1">
+		<text>W porządku, bierz. Tylko proszę, nie róbcie mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_csky_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_finish_csky_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_csky_1">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Powinność -->
+	<string id="mugging_stop_right_there_dolg_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_some_item_dolg_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój sprzęt i wszystko, co masz, a pozwolimy ci kontynuować twoją małą podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_dolg_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_dolg_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a może pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_dolg_1">
+		<text>Dobrze, dobrze. Bierz co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_dolg_1">
+		<text>W porządku, bierz. Tylko proszę, nie róbcie mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_dolg_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_finish_dolg_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_dolg_1">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Naukowcy -->
+	<string id="mugging_stop_right_there_ecolog_1">
+		<text>Proszę, proszę... A kogo my tu mamy? </text>
+	</string>
+
+	<string id="mugging_give_me_some_item_ecolog_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój sprzęt i wszystko, co masz, a pozwolimy ci kontynuować twoją małą podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_ecolog_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_ecolog_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a może pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_ecolog_1">
+		<text>Dobrze, dobrze. Bierz co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_ecolog_1">
+		<text>W porządku, bierz. Tylko proszę, nie rób mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_ecolog_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_finish_ecolog_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_ecolog_1">.
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Wolność -->
+	<string id="mugging_stop_right_there_freedom_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_some_item_freedom_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój sprzęt i wszystko, co masz, a pozwolimy ci kontynuować twoją małą podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_freedom_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_freedom_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a może pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_freedom_1">
+		<text>Dobrze, dobrze. Po prostu weź co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_freedom_1">
+		<text>W porządku, bierz. Tylko proszę, nie róbcie mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_freedom_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_finish_freedom_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_freedom_1">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+	<!-- Stalker -->
+	<string id="mugging_stop_right_there_stalker_1">
+		<text>Proszę, proszę... A kogo my tu mamy?</text>
+	</string>
+
+	<string id="mugging_give_me_some_item_stalker_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Oddaj swój sprzęt i wszystko, co masz, a pozwolimy ci kontynuować twoją małą podróż.</text>
+	</string>
+
+	<string id="mugging_give_me_all_stuff_stalker_1">
+		<text>To nie twoje zmartwienie, stalkerze. Liczy się to, że jesteś na naszym terytorium, a my pobieramy opłaty od takich intruzów jak ty. Chcemy każdej rzeczy, którą masz przy sobie. Chcemy wszystkiego i chcemy tego teraz. Nie obchodzą nas twoje problemy. Albo oddasz wszystko, co masz, albo będziesz świeżym posiłkiem dla mutantów.</text>
+	</string>
+
+	<string id="mugging_give_me_money_stalker_1">
+		<text>Nie musisz wiedzieć, kim jesteśmy, kolego, po prostu wiedz, że przejście ma swoją cenę. Płaci się za nie zimną, twardą gotówką. Dawaj całą kasę, którą masz, a może pozwolimy ci przejść w jednym kawałku.</text>
+	</string>
+
+	<string id="mugging_here_is_my_stuff_stalker_1">
+		<text>Dobrze, dobrze. Bierz co chcesz i pozwól mi iść dalej.</text>
+	</string>
+
+	<string id="mugging_here_is_all_my_stuff_stalker_1">
+		<text>W porządku, bierz. Tylko proszę, nie róbcie mi krzywdy.</text>
+	</string>
+
+	<string id="mugging_thank_you_stalker_1">
+		<text>Przyjemnie robić z tobą interesy, kolego. A teraz zmykaj, zanim zmienimy zdanie i zdecydujemy się zabrać coś więcej niż tylko twój sprzęt.</text>
+	</string>
+
+	<string id="mugging_finish_stalker_1">
+		<text>Tak, tak... Już idę.</text>
+	</string>
+
+	<string id="mugging_fuck_you_and_start_fight_stalker_1">
+		<text>Nic ci nie dam. Zapracowałem na to, co mam i nie oddam tego jakiejś nędznej szumowinie, takiej jak ty.</text>
+	</string>
+
+</string_table>             

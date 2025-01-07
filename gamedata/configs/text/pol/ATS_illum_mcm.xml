@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<!-- addon tab name (left) -->
+	<string id="ui_mcm_menu_ATS_illum">
+		<text>ATS Illum</text>
+	</string>
+	<!-- addon menu title (right) -->
+	<string id="ui_mcm_ATS_illum_title">
+		<text>Ustawienia podświetlenia i dźwięku celownika</text>
+	</string>
+	<!-- string for keybind option -->
+	<string id="ui_mcm_ATS_illum_ATS_keybind">
+		<text>Klawisz podświetlenia</text>
+	</string>
+	<!-- dynamic zoom click sound strings -->
+	<string id = "ui_mcm_ATS_illum_dzs_mode">
+		<text>Tryb dynamicznego dźwięku przybliżenia</text>
+	</string>
+	<string id = "ui_mcm_ATS_illum_dzs_mode_desc">
+		<text>Tryb 1: Jeden dźwięk kliknięcia dla każdego celownika. Wybierz dźwięk z poniższej listy. \n \nTryb 2: Każdy zakres może mieć różne dźwięki bazowane na pliku configs/plugins/dynamic_zoom_scope_sounds.ltx.</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_mode_1">
+		<text>1</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_mode_2">
+		<text>2</text>
+	</string>
+	<string id = "ui_mcm_ATS_illum_dzs_sound_type">
+		<text>Typ dźwięku dynamicznego przybliżenia</text>
+	</string>
+	<string id = "ui_mcm_ATS_illum_dzs_volume">
+		<text>Głośność dźwięku dynamicznego przybliżenia</text>
+	</string>
+	<string id = "ui_mcm_ATS_illum_dzs_volume_desc">
+		<text>!UŻYWAĆ OSTROŻNIE!\n \nChroń swoje uszy i nie zwiększaj zbytnio głośności.</text>
+	</string>
+	<string id = "ui_mcm_ATS_illum_ATS_toggle_volume">
+		<text>Głośność dźwięku przełączania podświetlenia</text>
+	</string>
+	<string id = "ui_mcm_ATS_illum_ATS_toggle_volume_desc">
+		<text>!UŻYWAĆ OSTROŻNIE!\n \nChroń swoje uszy i nie zwiększaj zbytnio głośności.</text>
+	</string>
+
+	<string id="ui_mcm_lst_dzs_sound_1">
+		<text>Dźwięk 1</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_2">
+		<text>Dźwięk 2</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_3">
+		<text>Dźwięk 3</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_4">
+		<text>Dźwięk 4</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_5">
+		<text>Dźwięk 5</text>
+	</string>
+</string_table>

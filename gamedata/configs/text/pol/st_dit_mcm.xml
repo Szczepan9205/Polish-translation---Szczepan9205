@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+
+<string_table>
+	<string id="ui_mcm_menu_dit">
+		<text>Ulepsz. przedm.\ndo demont.</text>
+	</string>
+    <string id="ui_mcm_dit_slide">
+        <text>Ulepszenia narzędzi do demontażu</text>
+	</string>
+	<string id="ui_mcm_dit_outfit_knife">
+		<text>Demontaż stroju/nakrycia głowy wymaga co najmniej scyzoryka</text>
+	</string>
+    <string id="ui_mcm_dit_outfit_knife_desc">
+        <text>Zapobiega używaniu zestawów do golenia do demontażu kombinezonów lub nakryć głowy</text>
+	</string>
+	<string id="ui_mcm_dit_consume_warning">
+		<text>Ostrzeżenie o zużyciu przedmiotów</text>
+	</string>
+    <string id="ui_mcm_dit_consume_warning_desc">
+        <text>Uniemożliwia korzystanie z elementów do demontażu za pomocą monitu</text>
+	</string>
+	<string id="ui_mcm_dit_leatherman_limit">
+		<text>Ostrzeżenie o stanie narzędzi rusznikarskich</text>
+	</string>
+    <string id="ui_mcm_dit_leatherman_limit_desc">
+        <text>Stan, w którym należy uzyskać ostrzeżenie o zużyciu narzędzi rusznikarskich</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit">
+		<text>Ostrzeżenie o stanie scyzoryka</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit_desc">
+		<text>Stan, w którym powinno pojawić się ostrzeżenie o zużyciu scyzoryka</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit">
+		<text>Ostrzeżenie o stanie zestawu do golenia</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit_desc">
+		<text>Stan, w którym należy uzyskać ostrzeżenie o zużyciu zestawów do golenia</text>
+	</string>
+    <string id="ui_mcm_dit_d_key">
+		<text>Modyfikator niezamierzonego demontażu</text>
+	</string>
+    <string id="ui_mcm_dit_d_key_desc">
+		<text>Jaki klawisz należy nacisnąć, aby rozmontować przedmiot?</text>
+	</string>
+    <string id="ui_mcm_dit_b_key">
+		<text>Modyfikator niezamierzonego zużycia</text>
+	</string>
+    <string id="ui_mcm_dit_b_key_desc">
+		<text>Jaki klawisz należy nacisnąć, aby zużyć przedmiot?</text>
+	</string>
+</string_table>
+
+

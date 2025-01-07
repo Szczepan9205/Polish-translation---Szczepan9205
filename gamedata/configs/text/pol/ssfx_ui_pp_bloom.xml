@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+- @ Version: SCREEN SPACE SHADERS - UPDATE 22
+- @ Description: Parallax - MCM strings
+- @ Author: https://www.moddb.com/members/ascii1457
+- @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
+-->
+
+<string_table>
+
+	<!-- Bloom Title -->
+	<string id="ui_mcm_ssfx_module_bloom_title">
+		<text>Ustawienia Bloom</text>
+	</string>
+
+	<!-- Bloom Settings -->
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_use_weather_mcm">
+		<text>Używaj presetów pogodowych</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_use_weather_mcm_desc">
+		<text>Nadpisuje `Próg`, `Ekspozycję` i `Intensywność nieba` wartościami ustawionymi w ustawieniach pogody.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_threshold_mcm">
+		<text>Próg</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_threshold_mcm_desc">
+		<text>Określ, jak jasny musi być piksel, aby mieć poświatę.  [ 1.0 = wszystkie piksele mają poświatę ]</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_exposure_mcm">
+		<text>Ekspozycja</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_exposure_mcm_desc">
+		<text>Zwiększ lub zmniejsz intensywność poświaty.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_blur_mcm">
+		<text>Promień rozmycia</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_blur_mcm_desc">
+		<text>Wartość określa, jak bardzo ma rozprzestrzenić się efekt poświaty.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_vibrance_mcm">
+		<text>Wibracja</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_vibrance_mcm_desc">
+		<text>Dostosuj kolor wibracji poświaty. [ 0.0 = Skala szarości ~ 1.0 = Kolor ]</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_sky_mcm">
+		<text>Intensywność nieba</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_sky_mcm_desc">
+		<text>Użyj tej wartości, aby ustawić intensywność nieba.</text>
+	</string>
+
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_lens_mcm">
+		<text>Intensywność flary obiektywu</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_lens_mcm_desc">
+		<text>Dostosuj intensywność efektu flary obiektywu podczas korzystania z maski przeciwgazowej.</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_dirt_mcm">
+		<text>Intensywność zabrudzeń</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_ssfx_pp_ssfx_bloom_dirt_mcm_desc">
+		<text>Dostosuj intensywność efektu zabrudzenia podczas korzystania z maski przeciwgazowej.</text>
+	</string>
+
+</string_table>

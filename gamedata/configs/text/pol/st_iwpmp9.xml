@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+		<string id="st_wpn_mp9">
+		<text>Brugger Thomet MP9 </text>
+	</string>
+	<string id="st_wpn_mp9_descr">
+		<text>Brugger Thomet MP9 (Maschinenpistole 9mm, po niemiecku „pistolet maszynowy”) to pistolet maszynowy na nabój kalibru 9x19 mm Parabellum, zaprojektowany i wyprodukowany przez firmę Brugger Thomet.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: większość najprostszych celowników\n 
+		%c[d_purple] • %c[ui_gray_2] Tłumik: dla kalibru 9 mm \n</text>
+	</string>	
+</string_table>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+<string id="st_zk_tooltip_section">
+    <text>%$clr_txtCzęści zapasowe w warsztacie</text>
+</string>
+<string id="st_zk_fetch_count_have_cond">
+    <text>  %$clr_txtMasz %$clr_numberx$count %$clr_txtw swoim ekwipunku (%$clr_number$max_condition%%$clr_txt)</text>
+</string>
+<string id="st_zk_fetch_count_in_workshops_cond">
+    <text>  %$clr_txtMasz %$clr_numberx$count %$clr_txtw schowku stołu warsztatowego (%$clr_number$max_condition%%$clr_txt)</text>
+</string>
+<string id="st_zk_fetch_count_have">
+    <text>  %$clr_txtMasz %$clr_numberx$count %$clr_txtw swoim ekwipunku</text>
+</string>
+<string id="st_zk_fetch_count_in_workshops">
+    <text>  %$clr_txtMasz %$clr_numberx$count %$clr_txtw schowku stołu warsztatowego</text>
+</string>
+<!-- MCM Menu -->
+<string id="ui_mcm_menu_zone_keeper">
+    <text>Części zapasowe w warsztacie</text>
+</string>
+<string id="ui_mcm_zone_keeper_menu_configuration">
+    <text>Konfiguracja</text>
+</string>
+<string id="ui_mcm_zone_keeper_menu_configuration_general">
+    <text>Ogólne</text>
+</string>
+<string id="ui_mcm_zone_keeper_menu_configuration_general_title">
+    <text>Ogólne</text>
+</string>
+<string id="ui_mcm_zone_keeper_configuration_general_debug">
+    <text>Debugowanie</text>
+</string>
+<string id="ui_mcm_zone_keeper_configuration_general_debug_desc">
+    <text>Włącz rejestrowanie debugowania</text>
+</string>
+<string id="ui_mcm_zone_keeper_configuration_general_delete_store">
+    <text>Usuń części</text>
+</string>
+<string id="ui_mcm_zone_keeper_configuration_general_delete_store_help1">
+    <text>Ta opcja pozwala na usunięcie wszystkich części, które do tej pory zostały zapisane w warsztatach. Przydatne, jeśli chcesz odinstalować mod i usunąć zapisane tabele z zapisanej gry.</text>
+</string>
+<string id="ui_mcm_zone_keeper_configuration_general_delete_store_help2">
+    <text>Jak z tego korzystać? Włącz opcję i kliknij ZASTOSUJ w menu MCM. Otwarcie dowolnego warsztatu spowoduje ponowne zapełnienie sklepu w danych zapisu gry.</text>
+</string>     
+<string id="ui_mcm_zone_keeper_configuration_general_delete_store_desc">
+    <text>Zaznacz, aby zresetować części zapasowe w warsztacie</text>
+</string>        
+</string_table>

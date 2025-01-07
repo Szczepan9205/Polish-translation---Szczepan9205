@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+    <string id="ui_mcm_menu_liz_inex">
+        <text>Rozszerzenie inercji</text>
+    </string>
+
+    <string id="ui_mcm_menu_lean">
+        <text>Pochylanie</text>
+    </string>
+    
+    <string id="ui_mcm_menu_jumpland">
+        <text>Skok i lądowanie</text>
+    </string>
+
+    <string id="ui_mcm_menu_crouch_jitter">
+        <text>Kołysanie przy kucnięciu</text>
+    </string>
+
+    <string id="ui_mcm_menu_noise">
+        <text>Hałas</text>
+    </string>
+
+    <string id="ui_mcm_menu_breathing">
+        <text>Oddychanie</text>
+    </string>
+
+    <string id="ui_mcm_menu_look_up">
+        <text>Przesunięcie w górę</text>
+    </string>
+
+    <string id="ui_mcm_menu_other">
+        <text>Inne</text>
+    </string>
+
+
+
+    <string id="ui_mcm_title_liz_inex_lean">
+        <text>Animacje pochylania</text>
+    </string>
+    
+    <string id="ui_mcm_title_liz_inex_jumpland">
+        <text>Animacje skoku i lądowania</text>
+    </string>
+    
+    <string id="ui_mcm_title_liz_inex_crouch_jitter">
+        <text>Kołysanie bronią podczas kucania</text>
+    </string>
+    
+    <string id="ui_mcm_title_liz_inex_noise">
+        <text>Losowy dźwięk kołysania</text>
+    </string>
+    
+    <string id="ui_mcm_title_liz_inex_breathing">
+        <text>Animacja oddychania</text>
+    </string>
+    
+    <string id="ui_mcm_title_liz_inex_look_up">
+        <text>Zmiana pozycji broni przy spojrzeniu w górę</text>
+    </string>
+
+    <string id="ui_mcm_title_liz_inex_other">
+        <text>Inne opcje</text>
+    </string>
+
+
+
+    <string id="ui_mcm_liz_inex_lean_l_power">
+        <text>Intensywność wychylenia w lewo</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_lean_r_power">
+        <text>Intensywność wychylenia w prawo</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_lean_crouch_power">
+        <text>Intensywność kucania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_jump_speed">
+        <text>Szybkość skoku</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_jump_speed_desc">
+        <text>Szybkość animacji skoku. Im wyższa wartość, tym szybsza animacja.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_jump_power">
+        <text>Amplituda skoku</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_jump_power_desc">
+        <text>Określa siłę animacji skoku.\nIm wyższa wartość, tym większa amplituda animacji.\nWartość 0 wyłącza animację skoku.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_land_speed">
+        <text>Szybkość lądowania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_land_speed_desc">
+        <text>Szybkość animacji lądowania po upadku.\nIm wyższa wartość, tym szybsza animacja.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_land_power">
+        <text>Amplituda lądowania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_jumpland_land_power_desc">
+        <text>Określa, jak wyraźna będzie animacja lądowania.\nIm wyższa wartość, tym większa amplituda animacji.\nWartość 0 wyłącza animację lądowania.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crouch_jitter_blocket_by_aim">
+        <text>Wyłączenie drgań podczas celowania podczas kucania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crouch_jitter_blocket_by_aim_desc">
+        <text>Podczas kucania broń będzie się lekko kołysać, co może przeszkadzać w celowaniu.\nTa opcja pozwala nie odtwarzać animacji drgania podczas kucania w trakcie celowania.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crouch_jitter_speed">
+        <text>Prędkość kołysania podczas kucania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crouch_jitter_speed_desc">
+        <text>Określa szybkość drgania broni podczas kucania.\nIm wyższa wartość, tym szybsza animacja.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crouch_jitter_power">
+        <text>Amplituda kołysania podczas kucania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crouch_jitter_power_desc">
+        <text>Określa, jak wyraźna będzie animacja drgań podczas kucania.\nIm wyższa wartość, tym większa amplituda animacji.\nWartość 0 wyłącza animację drgań podczas kucania.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_noise_only_for_weapon">
+        <text>Odtwarzaj losową animację kołysania tylko dla broni</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_noise_only_for_weapon_desc">
+        <text>Losowa animacja kołysania rękami może być irytująca podczas korzystania z PDA.\nTa opcja pozwala na odtwarzanie tej animacji tylko dla broni, aby nie przeszkadzała podczas korzystania z PDA lub innych urządzeń.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_noise_speed">
+        <text>Losowa szybkość kołysania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_noise_speed_desc">
+        <text>Prawdziwy człowiek nie może stać całkowicie nieruchomo, więc ta animacja dodaje lekkie kołysanie ramion postaci.\nOpcja ta określa szybkość animacji kołysania.\nIm wyższa wartość, tym szybsza animacja.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_noise_power">
+        <text>Losowa amplituda kołysania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_noise_power_desc">
+        <text>Prawdziwy człowiek nie może stać całkowicie nieruchomo, więc ta animacja dodaje lekkie kołysanie ramion postaci.\nOpcja ta określa, jak silnie będzie wyrażana animacja kołysania.\nIm wyższa wartość, tym większa amplituda animacji.\nWartość 0 wyłącza animację lądowania.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_only_for_weapon">
+        <text>Odtwarzaj animację oddechu tylko dla broni</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_only_for_weapon_desc">
+        <text>Animacja ramion kołyszących się podczas oddychania może być irytująca podczas korzystania z PDA.\nTa opcja pozwala na odtwarzanie tej animacji tylko dla broni, aby nie przeszkadzała podczas korzystania z PDA lub innych urządzeń.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_speed_min">
+        <text>Częstotliwość oddechu w spoczynku</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_speed_min_desc">
+        <text>Szybkość animacji oddechu w spokojnym stanie. Im wyższa wartość, tym szybsza animacja.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_speed_max">
+        <text>Szybkość oddychania przy niskiej wytrzymałości</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_speed_max_desc">
+        <text>Szybkość animacji oddechu, gdy wytrzymałość jest niska.\nIm wyższa wartość, tym szybsza animacja.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_power_min">
+        <text>Amplituda oddechu w spoczynku</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_power_min_desc">
+        <text>Określa, jak mocno animacja oddechu będzie wyrażana w stanie spokoju.\nm wyższa wartość, tym większa amplituda animacji.\nWartość 0 wyłącza animację oddechu, gdy wytrzymałość postaci wynosi 100 procent.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_power_max">
+        <text>Amplituda oddechu przy niskiej wytrzymałości</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_breathing_power_max_desc">
+        <text>Określa, jak wyraźna będzie animacja oddechu, gdy wytrzymałość postaci jest niska.\nIm wyższa wartość, tym większa amplituda animacji.\nWartość 0 wyłącza animację oddechu, gdy postać ma niską wytrzymałość.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_look_up_enabled">
+        <text>Przesuń broń w dół podczas patrzenia w górę</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_look_up_trigger_at">
+        <text>Kąt wywołujący animację patrzenia w górę</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_look_up_trigger_at_desc">
+        <text>Ta opcja określa, jak wysoko należy podnieść głowę, aby model broni zaczął poruszać się w dół.\nIm wyższa wartość, tym wyżej należy spojrzeć, aby rozpocząć animację.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_look_up_power">
+        <text>Intensywność animacji patrzenia w górę</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_other_device_lean_enable">
+        <text>Detektory poruszają się wraz z bronią podczas przechylania</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_other_hit_anm_enable">
+        <text>Animacja reakcji na obrażenia</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_other_crawl_anm_enable">
+        <text>Włącz animację czołgania się</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_other_crawl_can_shoot">
+        <text>Można strzelać podczas czołgania się</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_other_crawl_can_shoot_desc">
+        <text>Ponieważ niektóre bronie mają animację pompki podczas strzelania (na przykład niektóre strzelby lub karabiny snajperskie). Strzelanie z takiej broni podczas czołgania się może wyglądać nieprawidłowo. \nIstnieje kilka opcji rozwiązania tego problemu: \n- można strzelać ze wszystkich broni podczas czołgania się.\n- tylko niektóre strzelby pompowane i karabiny snajperskie nie mogą strzelać podczas czołgania się. \n- wszystkie bronie nie mogą strzelać, gdy postać się czołga.</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crawl_shoot_handle_type_all">
+        <text>Można strzelać ze wszystkich broni</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crawl_shoot_handle_type_some">
+        <text>Można strzelać z niektórych broni</text>
+    </string>
+
+    <string id="ui_mcm_liz_inex_crawl_shoot_handle_type_none">
+        <text>Nie można strzelać</text>
+    </string>
+
+
+</string_table>

@@ -1,0 +1,47 @@
+
+<!--
+    demonized Mugging Squads
+    Generated with AnomalyModCreator
+-->
+
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_demonized_mugging_squads_title">
+		<text>Oddziały napadowe</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_mugging_squads">
+		<text>Oddziały napadowe</text>
+	</string>
+
+	<string id="ui_mcm_demonized_mugging_squads_delayBetweenSpawns">
+		<text>Opóźnienie między spawnem</text>
+	</string>
+	<string id="ui_mcm_demonized_mugging_squads_spawnDistance">
+		<text>Minimalny dystans spawnu</text>
+	</string>
+	<string id="ui_mcm_demonized_mugging_squads_safeSmartDistance">
+		<text>Odległość bezpiecznej strefy </text>
+	</string>
+	<string id="ui_mcm_demonized_mugging_squads_allowSameSquads">
+		<text>Zezwalaj na oddziały napadowe z tych samych frakcji </text>
+	</string>
+	<string id="ui_mcm_demonized_mugging_squads_allowFriendlySquads">
+		<text>Zezwolenie na oddziały napadowe z zaprzyjaźnionych frakcji </text>
+	</string>
+	<string id="ui_mcm_demonized_mugging_squads_factions">
+		<text>Dozwolone frakcje</text>
+	</string>
+	<string id="ui_mcm_demonized_mugging_squads_maxActiveSquads">
+		<text>Maksymalna liczba aktywnych oddziałów</text>
+	</string>	
+	<string id="ui_mcm_demonized_mugging_squads_talkChance">
+		<text>Porozmawiaj o szansie</text>
+	</string>
+	
+</string_table>
+                        

@@ -1,0 +1,27 @@
+<!-- ====================================================================
+	New Extensible RF Sources
+    Author: Catspaw
+    Source: https://www.moddb.com/members/catspawmods/addons
+    Replacement for RF Receiver guide entry
+===================================================================== -->
+
+<string_table>
+	<string id="encyclopedia_items_detector_radio_text">
+		<text>
+			%c[pda_white]Odbiornik RF %c[ui_gray_1] to niewielkie urz¹dzenie z bardzo czu³ym modu³em RF wykorzystywanym do podstawowej komunikacji.
+			
+			\n \n%c[pda_green]Informacje:%c[ui_gray_1]
+			\nOdbiorniki RF okaza³y siê bardziej wytrzyma³e ni¿ zaawansowane urz¹dzenia, takie jak PDA, co jest jednym z powodów, dla których wielu stalkerów woli je posiadaæ w sytuacjach awaryjnych lub do innych celów.
+			\nWykonane s¹ z prostych komponentów elektronicznych i czu³ego modu³u RF, urz¹dzenie to ma mo¿liwoœæ odbierania sygna³ów radiowych na czêstotliwoœciach od 1 do 999 MHz (konfigurowalnych w MCM).
+			
+			\n \n%c[pda_blue]U¿ywanie:%c[ui_gray_1]
+			\nPodczas trzymania odbiornika w rêce, mo¿na prze³¹czaæ dzia³aj¹c¹ czêstotliwoœæ radiow¹.
+			\n• Naciœnij %c[255,255,215,0]LPM%c[ui_gray_1] lub przewiñ w górê, aby zwiêkszyæ czêstotliwoœæ.
+			\n• Naciœnij %c[255,255,215,0]PPM%c[ui_gray_1] lub przewiñ w dó³, aby zmniejszyæ czêstotliwoœæ.
+			\n• Przytrzymaj %c[255,255,215,0]Lewy Shift%c[ui_gray_1], aby zwiêkszyæ skoki czêstotliwoœci o 10 Hz podczas zwiêkszania/zmniejszania czêstotliwoœci roboczej.
+			\n• Przytrzymaj %c[255,255,215,0]Lewy Alt%c[ui_gray_1], aby zwiêkszyæ skoki czêstotliwoœci o 50 Hz podczas zwiêkszania/zmniejszania czêstotliwoœci roboczej.
+
+			\n \n• Zu¿ywa %c[pda_white]0.1 uAh%c[ui_gray_1] na sekundê ci¹g³ego u¿ytkowania.
+		</text>
+	</string>
+</string_table>

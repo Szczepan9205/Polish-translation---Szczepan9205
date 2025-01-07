@@ -80,10 +80,10 @@
     </string>
 
 	<string id="st_try_combine">
-		<text>ulepsz</text>
+		<text>Ulepsz</text>
 	</string>
 	<string id="st_try_downgrade">
-		<text>degraduj</text>
+		<text>Degraduj</text>
 	</string>
 	<string id="ui_mcm_menu_supgrades">
 		<text>Ulepszenia</text>

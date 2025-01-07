@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id ="ui_mcm_dii_scale">
+		<text>Skala</text>
+	</string>
+	<string id ="ui_mcm_dii_scale_desc">
+		<text>Skala wszystkich wskaźników.</text>
+	</string>
+	<string id ="ui_mcm_dii_show">
+		<text>Pokaż</text>
+	</string>
+	<string id ="ui_mcm_dii_show_desc">
+		<text>Włącz lub wyłącz wyświetlanie wskaźnika.</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x">
+		<text>Orientacja pozioma</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x_desc">
+		<text>Sposób pozycjonowania elementu w poziomie. (lewo\prawo)</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y">
+		<text>Orientacja pionowa</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y_desc">
+		<text>Sposób pozycjonowania elementu w pionie. (góra\dół)</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x">
+		<text>Przesuniecie w poziomie</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x_desc">
+		<text>Przesunięcie od krawędzi ikony w pikselach. Przydatne, jeśli jakiś inny dodatek dodaje informacje do ikony.</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y">
+		<text>Przesuniecie w pionie</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y_desc">
+		<text>Przesunięcie od krawędzi ikony w pikselach. Przydatne dla elementów, które mają paski warunkowe.</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x">
+		<text>Odstęp poziomy</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x_desc">
+		<text>Ilość pikseli między kolumnami ikon.</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y">
+		<text>Odstęp pionowy</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y_desc">
+		<text>Ilość pikseli między rzędami ikon,</text>
+	</string>
+	<string id ="ui_mcm_dii_limit">
+		<text>Limit wyświetlanych ikon</text>
+	</string>
+	<string id ="ui_mcm_dii_limit_desc">
+		<text>Włącza limit wyświetlanych ikon w oparciu o ustawienie Max displayed</text>
+	</string>
+	<string id ="ui_mcm_dii_amount">
+		<text>Maks. wyświetlana</text>
+	</string>
+	<string id ="ui_mcm_dii_amount_desc">
+		<text>Maksymalna ilość ikon wyświetlanych dla tej kategorii, jeśli element ma ich więcej, nie będą wyświetlane. Pozwala na zmniejszenie wizualnego bałaganu na przedmiotach, które mają wiele statystyk.</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_right">
+		<text>Prawo</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_left">
+		<text>Lewo</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_top">
+		<text>Góra</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_bottom">
+		<text>Dół</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_artefact">
+		<text>Artefakty</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_consumable">
+		<text>Zapasy</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_upgrade_kit">
+		<text>Zestawy ulepszeń</text>
+	</string>
+
+	<string id ="ui_mcm_menu_dii">
+		<text>DII</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_main_settings">
+		<text>Ustawienia główne</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_properties">
+		<text>Właściwości</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers">
+		<text>Definiowane przez użytkownika</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers_main">
+		<text>Główne</text>
+	</string>
+</string_table>

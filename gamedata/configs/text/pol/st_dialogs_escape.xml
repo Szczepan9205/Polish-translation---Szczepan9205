@@ -120,25 +120,25 @@
 		<text>Poka¿ mi.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_3">
-		<text>Oto detektor Echo. Wszystkie takie urz¹dzenia po w³¹czeniu zarejestruj¹ obecnoœæ artefaktu i zmierz¹ odleg³oœæ do najbli¿szego. To zupe³nie podstawowe narzêdzie do poszukiwania artefaktów, które nie s¹ tylko anomalnym odpadkiem. Gdy us³yszysz, ¿e urz¹dzenie piszczy, to znaczy, ¿e artefakt jest niedaleko, im czêœciej piszczy, tym artefakt jest bli¿ej. Proste, prawda?\n \nEcho to doœæ stary model, nie wykryje wszystkich znanych obecnie artefaktów, ale na potrzeby naszego szkolenia jest zupe³nie wystarczaj¹cy. Lepsze i nowsze modele maj¹ wiêkszy zakres i czu³oœæ.</text>
+		<text>Widzê, ¿e masz ju¿ detektor Echo. Wszystkie takie urz¹dzenia po w³¹czeniu zarejestruj¹ obecnoœæ artefaktu i zmierz¹ odleg³oœæ do najbli¿szego. To zupe³nie podstawowe narzêdzie do poszukiwania artefaktów, które nie s¹ tylko anomalnym odpadkiem. Gdy us³yszysz, ¿e urz¹dzenie piszczy, to znaczy, ¿e artefakt jest niedaleko, im czêœciej piszczy, tym artefakt jest bli¿ej. Proste, prawda?\n \nEcho to doœæ stary model, nie wykryje wszystkich znanych obecnie artefaktów, ale na potrzeby naszego szkolenia jest zupe³nie wystarczaj¹cy. Lepsze i nowsze modele maj¹ wiêkszy zakres i czu³oœæ.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_4">
 		<text>No nieŸle.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_5">
-		<text>Teraz drugie urz¹dzenie, o³owiany pojemnik. Nadal pamiêtasz, jak mówi³em o pozytywnych i negatywnych w³aœciwoœciach artefaktów? W tych czasach niemal wszystko warte zgiêcia grzbietu jakoœ oddaje t³em, to znaczy emituje promieniowanie. W takim pojemniku zamkniesz szczelnie ka¿dy artefakt, co uchroni ciê przed radiacj¹, ale nie pozwoli ci skorzystaæ z jego innych, bardziej po¿¹danych efektów.\n \nBez tej puszki nawet jeden wytwór Zony trzymany luzem w plecaku odda ci tyle radiacji, ¿e zaczniesz œwieciæ jak robaczek œwiêtojañski. I - jak ten robaczek - padniesz trupem w parê godzin. Tak, pojemnik jest o³owiany i swoje wa¿y, ale lepiej zapobiegaæ, ni¿ leczyæ, no nie?\n \nJeœli zechcia³byœ skorzystaæ z tych dobrych efektów dzia³ania artefaktu, to potrzeba tu bardziej zaawansowanego kontenera. Naukowcy opracowali kilka takich urz¹dzeñ. Jak zarobisz trochê grosza, pytaj handlarzy o modu³y aplikacji artefaktów. Jeœli nic siê nie zmieni³o, obecnie w obiegu s¹ trzy rodzaje takich pojemników filtruj¹cych - ka¿dy zapewnia ochronê przed promieniowaniem na innym poziomie.\n \nGeneralnie, ich zadaniem jest zamkniêcie w œrodku promieniowania, ale przepuszczenie pozosta³ych dzia³añ tworu. Sidorowicz czasami ma coœ takiego na stanie, ale zwykle trzyma to dla bardziej doœwiadczonych stalkerów.</text>
+		<text>Artefakty zwykle wystêpuj¹ na obszarach radioaktywnych, dlatego czêsto zaleca siê stosowanie leków chroni¹cych przed promieniowaniem przed wejœciem na takie obszary. Pomog¹ ci one nie kumulowaæ promieniowania w organizmie, a tym samym unikn¹æ stosowania leków antyradiacyjnych po zatruciu. Pamiêtaj, aby stosowaæ odpowiednie leki przed i po wejœciu na pola anomalne. Niektóre z nich emituj¹ równie¿ specyficzne cz¹steczki, czy to toksyczne cz¹steczki chemiczne, cz¹steczki elektryczne, fale psioniczne, fale grawitacyjne, ciep³o i ogieñ. Upewnij siê, ¿e jesteœ odpowiednio chroniony przed nurkowaniem w polu anomalnym... Nie chcia³bym znaleŸæ kolejnego spalonego na popió³ brata stalkera.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_6">
-		<text>Dobrze wiedzieæ. Ten pojemnik faktycznie swoje wa¿y. Co teraz?</text>
+		<text>Dobrze wiedzieæ. Co teraz?</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_7">
-		<text>Teraz sobie rozpracujemy t¹ butelczynê. Tak jak mówi³em, wszystkie artefakty s¹ radioaktywne i nawet jeœli je zamkniesz w o³owianym pojemniku, to czêœæ promieniowania, ¿e siê tak wyra¿ê, wycieka - a to zdrowiu nie s³u¿y. £yczek albo szeœæ pomo¿e ci... ekhm... "wyp³ukaæ" czêœæ tego promieniowania z organizmu. Mo¿na by powiedzieæ: "wódko, pozwól ¿yæ", he he he.</text>
+		<text>Teraz sobie rozpracujemy t¹ butelczynê. Tak jak mówi³em, wszystkie artefakty s¹ radioaktywne. £yczek albo szeœæ pomo¿e ci... ekhm... "wyp³ukaæ" czêœæ tego promieniowania z organizmu. Mo¿na by powiedzieæ: "wódko, pozwól ¿yæ", he he he. Papierosy równie¿ dzia³aj¹, do pewnego stopnia. Upewnij siê wiêc, ¿e jesteœ odpowiednio chroniony przed nurkowaniem w polu anomalnym... Nie chcia³bym znaleŸæ kolejnego spalonego na popió³ brata stalkera.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_8">
 		<text>No to zdrowia! Co dalej?</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_9">
-		<text>Œruby. Musisz o nich pamiêtaæ, zanim wleziesz w anomalne pole. Rzuæ kilka przed siebie, aby znaleŸæ drogê miêdzy anomaliami. No, to by by³o na tyle, ruszajmy. IdŸ przodem, w razie czego bêdê pomaga³.</text>
+		<text>Œruby. Musisz o nich pamiêtaæ, zanim wleziesz w anomalne pole. Rzuæ kilka przed siebie, aby znaleŸæ drogê miêdzy anomaliami. Nie daj siê te¿ zwieœæ bo s³ysza³em, ¿e mo¿e tu byæ tzw. Anomalny chleb, który ma tendencjê do pojawiania siê tutaj poprzez wyrzucanie w to miejsce niedojedzonych posi³ków przez nowicjuszy... Ale nie po to tu jesteœmy, skup siê teraz na wydobyciu Meduzy z tego pola anomalii. No, to by by³o na tyle, ruszajmy. IdŸ przodem, w razie czego bêdê pomaga³.</text>
 	</string>
 
 	<string id="fanat_training_artefact_taken_1">
@@ -159,17 +159,17 @@
 		<text>Jestem gotowy. Co to za wyzwanie?</text>
 	</string>
 	<string id="fanat_training_stash_search_1">
-		<text>Powiedz mi, co to za stalker, który nigdy nie odkry³ cudzych tajemnic? Zona jest jedna i wspólna dla wszystkich. Ci, którzy daj¹ sobie radê - przetrwaj¹.\n \nCzasami, gdy ciê okolicznoœci przydusz¹, znalezienie cudzego schowka jest nie tyle osi¹gniêciem, co koniecznoœci¹. Gdzieœ w wiosce ukry³em ma³e co nieco - spróbuj je znaleŸæ. Dam ci ma³¹ podpowiedŸ - szukaj bocianiego gniazda.</text>
+		<text>Powiedz mi, co to za stalker, który nigdy nie odkry³ cudzych tajemnic? Zona jest jedna i wspólna dla wszystkich. Ci, którzy daj¹ sobie radê - przetrwaj¹.\n \nCzasami, gdy ciê okolicznoœci przydusz¹, znalezienie cudzego schowka jest nie tyle osi¹gniêciem, co koniecznoœci¹. Gdzieœ w Wiosce ukry³em ma³e co nieco - spróbuj znaleŸæ to "gniazdko". To co nieco powinno byæ w plecaku lub w skrzyni pod zawalonym dachem.</text>
 	</string>
 
 	<string id="fanat_training_stash_found_0">
-		<text>Znalaz³em! Dziêki za artefakt.</text>
+		<text>Znalaz³em... Ale by³ pusty.</text>
 	</string>
 	<!--string id="fanat_training_stash_found_1">
 		<text>Hmmm... Bystry goœæ, Zona nie dorwie ciê tak ³atwo. Nied³ugo przyst¹pimy do ostatniej lekcji, przygotuj siê dobrze.</text>
 	</string-->
 	<string id="fanat_training_stash_found_1">
-		<text>Hmmm... Bystry goœæ, Zona nie dorwie ciê tak ³atwo. To by³a ostatnia z lekcji. Dowiod³eœ, ¿e jesteœ godny tytu³u "Wolnego Stalkera", mo¿esz byæ z siebie dumny. Niczego wiêcej nie mogê ciê ju¿ nauczyæ, ca³a reszta nale¿y do ciebie. Dobrej Zony i niech fortuna ci sprzyja, stalker!</text>
+		<text>Hmmm... Bystry goœæ, Zona nie dorwie ciê tak ³atwo. I tak, to „gniazdko” mia³o byæ puste, prawdziwe skarby znajdziesz póŸniej. To by³a ostatnia z lekcji. Dowiod³eœ, ¿e jesteœ godny tytu³u "Wolnego Stalkera", mo¿esz byæ z siebie dumny. Niczego wiêcej nie mogê ciê ju¿ nauczyæ, ca³a reszta nale¿y do ciebie. Dobrej Zony i niech fortuna ci sprzyja, stalker!</text>
 		</string>
 	
 	<string id="fanat_training_bandit_raid_start_0">
@@ -587,7 +587,7 @@
 		<text>Cholerny œwiat... Wiêc on nie ¿yje? Ale jak?</text>
 	</string>
 	<string id="devushka_2_start_3">
-		<text>Z tego, co wiem i mogê powiedzieæ, to przeszed³ po nim nibyolbrzym. Skoro o tym mowa, czy móg³byœ wykonaæ dla mnie jeszcze jedno zadanie? Mój inny klient ma dziwny fetysz zwi¹zany z... palcami snorka. Tak, dobrze s³ysza³eœ. Nie pytaj mnie dlaczego. Chce 40 palców, czyli mniej wiêcej 8 d³oni. Móg³byœ mi je przynieœæ?</text>
+		<text>Z tego, co wiem i mogê powiedzieæ, to przeszed³ po nim nibyolbrzym. Skoro o tym mowa, czy móg³byœ wykonaæ dla mnie jeszcze jedno zadanie? Mój inny klient ma dziwny fetysz zwi¹zany z... palcami snorka. Tak, dobrze s³ysza³eœ. Nie pytaj mnie dlaczego. Chce 40 palców, czyli mniej wiêcej 8 r¹k. Móg³byœ mi je przynieœæ?</text>
 	</string>
 	<string id="devushka_2_start_4">
 		<text>¯e co, kuŸwa...? Mia³em na myœli, ¿e jeœli znajdê jakieœ rêce snorka, to pewnie dam ci znaæ. Na razie.</text>
@@ -597,7 +597,7 @@
 	</string>
 	
 	<string id="devushka_0_dialog_0">
-		<text>Hip, ³ap. Znalaz³em te cholerne ³apy snorków dla ciebie.</text>
+		<text>Hip, ³ap. Znalaz³em dla ciebie te cholerne rêce snorków...</text>
 	</string>
 	<string id="devushka_0_dialog_1">
 		<text>Dziêki bracie! Pomyœl tylko, ¿e w³aœnie poprawi³eœ dzieñ jednej udrêczonej duszy.</text>

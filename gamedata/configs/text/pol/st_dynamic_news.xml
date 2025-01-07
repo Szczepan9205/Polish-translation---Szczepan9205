@@ -1314,10 +1314,10 @@
 		<text>pchn¹³ no¿em</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_5">
-		<text>pchniêty</text>
+		<text>pchn¹³ no¿em</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_6">
-		<text>pchniêty</text>
+		<text>pchn¹³ no¿em</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_7">
 		<text>zar¿n¹³</text>
@@ -1698,7 +1698,7 @@
 		<text>po³udniowego posterunku</text>
 	</string>
 	<string id="st_dyn_l01_escape_daleko_2">
-		<text>wioski nowicjuszy</text>
+		<text>Wioski kotów</text>
 	</string>
 	<string id="st_dyn_l01_escape_daleko_3">
 		<text>œmietniska</text>
@@ -4755,7 +4755,7 @@
 		<text>W porz¹dku! Wracajmy do roboty...</text>
 	</string>
 	<string id="st_dyn_news_surge_after_17">
-		<text>Nienawidzê $whats.</text>
+		<text>Nienawidzê $what.</text>
 	</string>
 	<string id="st_dyn_news_surge_after_18">
 		<text>Chyba nie zd¹¿y³ na czas... spoczywaj w pokoju, stalkerze.</text>
@@ -4770,10 +4770,10 @@
 		<text>Nie by³o tak Ÿle, prawda?</text>
 	</string>
 	<string id="st_dyn_news_surge_after_22">
-		<text>Czy to prawda, ¿e Monolit ma w dupie $whats? Mogliby tam teraz byæ...</text>
+		<text>Czy to prawda, ¿e Monolit ma w dupie $what? Mogliby tam teraz byæ...</text>
 	</string>
 	<string id="st_dyn_news_surge_after_23">
-		<text>Powietrze zawsze wydaje siê takie rzadkie po $whats.</text>
+		<text>Powietrze zawsze wydaje siê takie rzadkie po $what.</text>
 	</string>
 	<string id="st_dyn_news_surge_after_24">
 		<text>I... jest ok! ChodŸmy.</text>
@@ -4811,7 +4811,7 @@
 		<text>Ch³opaki, elektronika zaczyna mi œwirowaæ. Czujê, ¿e $when przypierdoli $what.</text>
 	</string>
 	<string id="st_dyn_news_surge_template_5">
-		<text>Hermann przekaza³ nam informacjê, ¿e $what zdarzy siê $when, wiêc znajdŸcie jakieœ schronienie.</text>
+		<text>Herman przekaza³ nam informacjê, ¿e $what zdarzy siê $when, wiêc znajdŸcie jakieœ schronienie.</text>
 	</string>
 	<string id="st_dyn_news_surge_template_6">
 		<text>Hej, $what bêdzie tu $when. Patrzcie w niebo.</text>
@@ -4866,7 +4866,7 @@
 		<text>Sprawdzi³em sprzêt Czystego Nieba na Bagnach. Z tego co wiem, bêdzie $what i bêdzie tutaj $when. Uwa¿ajcie na siebie.</text>
 	</string>
 	<string id="st_dyn_news_surge_template_23">
-		<text>S³uchajcie, $when bêdzie jedna z tych $whats. Nie mówcie potem, ¿e was nie ostrzegano!</text>
+		<text>S³uchajcie, $when bêdzie jedna z tych $what. Nie mówcie potem, ¿e was nie ostrzegano!</text>
 	</string>
 	<string id="st_dyn_news_surge_template_24">
 		<text>To bêdzie bardzo z³y czas na przebywanie na zewn¹trz. S³ysza³em od jednego naukowca, ¿e mo¿emy spodziewaæ siê $what $when. Nie b¹dŸcie idiotami: zostañcie w œrodku!</text>
@@ -5652,7 +5652,7 @@
 		<text>Szanowni ¿o³nierze i osoby nieudokumentowane! Zmilitaryzowane grupy badawcze Instytutu Naukowo-Badawczego Czarnobylskiej Strefy Anomalnej chcia³yby przypomnieæ, ¿e wóda nie przyczynia siê do eliminacji radionuklidów z organizmu. Zamiast tego zalecamy korzystaæ z dostêpnych medykamentów.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_ecolog_11">
-		<text>Mówi profesor Hermann. Od dwóch dni czekamy na rezultaty naszych badañ dotycz¹cych emisji psionicznych. Profesor Sacharow odmawia kontaktu. Co to wszystko ma znaczyæ?</text>															   
+		<text>Mówi profesor Herman. Od dwóch dni czekamy na rezultaty naszych badañ dotycz¹cych emisji psionicznych. Profesor Sacharow odmawia kontaktu. Co to wszystko ma znaczyæ?</text>															   
 	</string>
 
 	<string id="st_dyn_news_spam_faction_ecolog_12">
@@ -5692,10 +5692,10 @@
 		<text>Profesorze Herman, przesy³ka z po³udniowego laboratorium dotar³a z dwudniowym opóŸnieniem i ca³kowicie przemoczona przez deszcz. Jeœli mogê zapytaæ, która wyszkolona ma³pa jest odpowiedzialna za ten triumf logistyki?</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_ecolog_24">
-		<text>Tutaj profesor Sacharow, wysy³am ogóln¹ wiadomoœæ do naszych kolegów w pobli¿u fabryki Jupiter, aby przypomnieæ im, ¿e proœby o specjalny sprzêt nale¿y kierowaæ do mnie, a nie do profesora Hermanna. Jeœli us³yszê wiêcej pog³osek o lokalnie produkowanym sprzêcie wydawanym zespo³om terenowym, zarz¹dzê dochodzenie.</text>
+		<text>Tutaj profesor Sacharow, wysy³am ogóln¹ wiadomoœæ do naszych kolegów w pobli¿u fabryki Jupiter, aby przypomnieæ im, ¿e proœby o specjalny sprzêt nale¿y kierowaæ do mnie, a nie do profesora Hermana. Jeœli us³yszê wiêcej pog³osek o lokalnie produkowanym sprzêcie wydawanym zespo³om terenowym, zarz¹dzê dochodzenie.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_ecolog_25">
-		<text>Tu profesor Herman na otwartym kanale, poniewa¿ profesor Sacharow odmawia odpowiedzi na moje prywatne wiadomoœci, ponownie proszê o informacjê, dlaczego profesor Kojew zosta³ odsuniêty od swojego projektu anomalii "Spalacz"? Ten najbardziej nieregularny rozkaz zosta³ podpisany przez naszego drogiego kolegê z Jantaru.</text>
+		<text>Tu profesor Herman na otwartym kanale, poniewa¿ profesor Sacharow odmawia odpowiedzi na moje prywatne wiadomoœci, ponownie proszê o informacjê, dlaczego profesor Kojew zosta³ odsuniêty od swojego projektu anomalii Spalacz? Ten najbardziej nieregularny rozkaz zosta³ podpisany przez naszego drogiego kolegê z Jantaru.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_ecolog_26">
 		<text>Profesor Sacharow przypomina wszystkim cz³onkom Personelu Badañ Ekologicznych, aby nie plagiatowali ¿adnych innych badañ ani z w³asnej placówki, ani z ¿adnego innego oœrodka badawczego. Profesor Herman powinien przekazaæ to swojemu personelowi.</text>
@@ -6015,13 +6015,13 @@
 		<text>Wzywam ostrza³ artyleryjski na kwadrat E2_12.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_army_10">
-		<text>¯o³nierze kontraktowi i wojskowi stalkerzy: jeœli ktoœ w trakcie akcji natknie siê na wrak str¹conego œmig³owca, proszê zabezpieczyæ rejestrator lotu i dostarczyæ go do majora KuŸniecowa.</text>
+		<text>¯o³nierze kontraktowi i wojskowi stalkerzy: jeœli ktoœ w trakcie akcji natknie siê na wrak str¹conego œmig³owca, proszê zabezpieczyæ rejestrator lotu i dostarczyæ go do pu³kownika Kuzniecowa.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_army_11">
-		<text>KuŸniecow, jutro macie wizytê obserwatorów z SBU. Przywitajcie ich odpowiednio.</text>
+		<text>Kuzniecow, jutro macie wizytê obserwatorów z SBU. Przywitajcie ich odpowiednio.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_army_12">
-		<text>KuŸniecow, niezw³ocznie skontaktujcie siê z dowództwem. Oczekujemy w gabinecie nr 3.</text>
+		<text>Kuzniecow, niezw³ocznie skontaktujcie siê z dowództwem. Oczekujemy w gabinecie nr 3.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_army_13">
 		<text>Pustu³ka, tu Piwonia. Mo¿esz odpowiedzieæ? Nie ma tu zasiêgu.</text>
@@ -6414,7 +6414,7 @@
 		<text>$map, $target ignorowa³ ostrze¿enia, otworzyliœmy ogieñ.\nWygl¹da na to, ¿e du¿a grupa zmierza w tê stronê. Wycofujemy siê na pozycjê $location. $speaker, bez odbioru.</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_troop_enemy_9">
-		<text>Dosta³em informacjê, ¿e $target chyba szuka k³opotów. $map, podobno chc¹ tu uderzyæ. Miejcie siê na bacznoœci.</text>
+		<text>Dosta³em informacjê, ¿e $target chyba szukaj¹ k³opotów. $map, podobno chc¹ tu uderzyæ. Miejcie siê na bacznoœci.</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_troop_enemy_10">
 		<text>$leader, mówi $speaker. Po d³ugiej walce z $target $location, uda³o nam siê pojmaæ dwóch jeñców. Co z nimi zrobiæ?</text>
@@ -7083,7 +7083,7 @@
 		<text>$clr_1Barman\n$clr_2Rozgl¹dasz siê za prac¹? Szukasz nowej giwery? A mo¿e masz ochotê po prostu siê napiæ i wygadaæ? Wpadnij do Stu Radów!</text>
 	</string>
 	<string id="st_dyn_news_spam_93">
-		<text>$clr_1Bagienny Doktor\n$clr_2Ech, Strie³ok... tak bardzo ciê teraz potrzebujê... Nie wiem, do kogo mam siê zwróciæ z problemami.</text>
+		<text>$clr_1Bagienny Doktor\n$clr_2Ech, Strie³ok... tak bardzo ciê teraz potrzebujê... Nie wiem, do kogo mam siê zwróciæ ze swoimi problemami.</text>
 	</string>
 	<string id="st_dyn_news_spam_94">
 		<text>$clr_1Œruba\n$clr_2Nie czujê siê najlepiej. Te pieprzone konserwy, chyba nie zerkn¹³em na termin.</text>
@@ -7098,7 +7098,7 @@
 		<text>$clr_1Hawajczyk\n$clr_2Aloha! Szukasz roboty w okolicach Jupitera? Wpadnij do Janowa w³aœnie teraz!</text>
 	</string>
 	<string id="st_dyn_news_spam_98">
-		<text>$clr_1Hermann\n$clr_2Przypominam wszystkim stalkerom, ¿e aby otrzymywaæ informacje o zbli¿aj¹cych siê emisjach nale¿y zapisaæ siê do biuletynu. Nasze przewidywania zawsze s¹ najbardziej aktualne i prawdopodobne.</text>
+		<text>$clr_1Herman\n$clr_2Przypominam wszystkim stalkerom, ¿e aby otrzymywaæ informacje o zbli¿aj¹cych siê emisjach nale¿y zapisaæ siê do biuletynu. Nasze przewidywania zawsze s¹ najbardziej aktualne i prawdopodobne.</text>
 	</string>
 	<string id="st_dyn_news_spam_99">
 		<text>$clr_1Groza\n$clr_2Prorok, wracam do bazy. Nie uwierzysz, gdzie by³em i co widzia³em!</text>
@@ -7128,19 +7128,19 @@
 		<text>$clr_1Iwan Szczyl\n$clr_2Mam niusa: ponoæ znów ktoœ próbuje przeleŸæ za Zwêglacz.</text>
 	</string>
 	<string id="st_dyn_news_spam_108">
-		<text>$clr_1Szpicel\n$clr_2Potrzebujecie informacji? Pytajcie w Barze.</text>
+		<text>$clr_1Kabel\n$clr_2Potrzebujecie informacji? Pytajcie w Barze.</text>
 	</string>
 	<string id="st_dyn_news_spam_109">
-		<text>$clr_1Szpicel\n$clr_2Mam fuchê dla cwanego œwie¿aka. Dobrze p³acê.</text>
+		<text>$clr_1Kabel\n$clr_2Mam fuchê dla cwanego œwie¿aka. Dobrze p³acê.</text>
 	</string>
 	<string id="st_dyn_news_spam_110">
 		<text>$clr_1Kicenko\n$clr_2Psst, gdzie ogarn¹æ jakieœ palenie?</text>
 	</string>
 	<string id="st_dyn_news_spam_111">
-		<text>$clr_1KuŸniecow\n$clr_2Oddzia³ szturmowy, odstawcie butelki. Zaczynamy z trzy minuty. Zbierzcie grupê i ruszamy!</text>
+		<text>$clr_1Kuzniecow\n$clr_2Oddzia³ szturmowy, odstawcie butelki. Zaczynamy z trzy minuty. Zbierzcie grupê i ruszamy!</text>
 	</string>
 	<string id="st_dyn_news_spam_112">
-		<text>$clr_1KuŸniecow\n$clr_2Tego ranka na apel nie stawi³o siê piêciu szeregowych. Prawdopodobnie zdezerterowali. Bêdê wdziêczny za jak¹kolwiek informacjê na temat tych degeneratów.</text>
+		<text>$clr_1Kuzniecow\n$clr_2Tego ranka na apel nie stawi³o siê piêciu szeregowych. Prawdopodobnie zdezerterowali. Bêdê wdziêczny za jak¹kolwiek informacjê na temat tych degeneratów.</text>
 	</string>
 	<string id="st_dyn_news_spam_113">
 		<text>$clr_1Kurhan\n$clr_2Potrafiê zmodyfikowaæ oprogramowanie PDA. Pytajcie o mnie w Barze.</text>
@@ -7504,7 +7504,7 @@
 		<text>$clr_1Anonim\n$clr_2Czy kiedykolwiek zastanawialiœcie siê, jak to jest byæ zombifikowanym? Na przyk³ad, co dzieje siê wtedy w waszych g³owach?</text>
 	</string>
 	<string id="st_dyn_news_spam_233">
-		<text>$clr_1Anonim\n$clr_2Cholera, kiedy zbiorê pieni¹dze, kupiê sobie z³otego AK. I pistolet - Desert Eagle. Potem pójdê prosto do CEA i nawet jeœli zginê, to ze stylem.</text>
+		<text>$clr_1Anonim\n$clr_2Cholera, kiedy zbiorê pieni¹dze, kupiê sobie z³otego AK. I pistolet - Desert Eagle. Potem pójdê prosto do CzEJ i nawet jeœli zginê, to ze stylem.</text>
 	</string>
 	<string id="st_dyn_news_spam_234">
 		<text>$clr_1Anonim\n$clr_2Widzieliœcie kiedyœ cz³owieka wci¹ganego w wir? Najfajniejsza rzecz, jak¹ kiedykolwiek widzia³em.</text>
@@ -7546,7 +7546,7 @@
 		<text>$clr_1Anonim\n$clr_2Oto jestem, siedzê przemoczony w bagiennej brei, susz¹c p³aszcz. Do diab³a, móg³bym teraz piæ piwo na pla¿y w Ja³cie...</text>
 	</string>
 	<string id="st_dyn_news_spam_247">
-		<text>$clr_1Kir\n$clr_2Wszyscy jesteœcie g³upcami. Wierzycie w Spe³niacz ¯yczeñ, Oazê, Kompas i inne plotki. Ale ja... ja wiem, ¿e w Zonie jest Wehiku³ Czasu. Tak, nie b¹dŸcie zaskoczeni. Jest tutaj. I tylko ja wiem gdzie. Zosta³ zbudowany przez ludzi z przysz³oœci, w 84 roku, aby swobodnie podró¿owaæ w czasie. By³em wtedy dzieckiem. Przysz³oœæ... jest cudowna. To jak stary radziecki film science-fiction, który sta³ siê rzeczywistoœci¹. Ta maszyna, któr¹ widzia³em w Moskwie, ju¿ nie istnieje. Spêdzi³em lata, dekady, by znaleŸæ inn¹. Nawet z dostêpem do tajnych archiwów by³o to trudne. Ale jeden ma³y artyku³ w gazecie naprowadzi³ mnie na trop. Okaza³o siê, ¿e pewien m³ody naukowiec pracowa³ nad barierami czasoprzestrzennymi w latach 70-tych, naprawdê! Artyku³ ten znikn¹³ z otwartych archiwów, a nazwiska naukowców zosta³y utajnione, poniewa¿ wszyscy oni pracowali nad tajnymi projektami w Strefie Wykluczenia po awarii CEA w 1986 roku. Ale jeden z nich zagin¹³ jeszcze przed katastrof¹ w Czarnobylu! Metod¹ eliminacji znalaz³em go. Dowiedzia³em siê nawet, gdzie mieszka³. Przez kolejny rok szuka³em, gdzie twórcy ukryli swój wynalazek. Nadesz³a chwila prawdy. Maszyna dzia³a. Notatki wynalazcy pomog³y mi przywróciæ j¹ do stanu u¿ywalnoœci. Wysy³am tê wiadomoœæ do wszystkich, których kiedykolwiek zna³em. Do moich przyjació³: nie umar³em, wszystko bêdzie dobrze. Kiedyœ was odnajdê. Albo przynajmniej powiem waszym wnukom, kim jesteœcie i jakimi wspania³ymi ludŸmi byliœcie dla mnie. Dla wszystkich innych: powodzenia... Alisa, nie p³acz, obieca³em, ¿e zaraz wrócê. Tak bardzo za tob¹ têskni³em... poczekaj chwilê, pozwól, ¿e to wy³¹czê...</text>
+		<text>$clr_1Kir\n$clr_2Wszyscy jesteœcie g³upcami. Wierzycie w Spe³niacz ¯yczeñ, Oazê, Kompas i inne plotki. Ale ja... ja wiem, ¿e w Zonie jest Wehiku³ Czasu. Tak, nie b¹dŸcie zaskoczeni. Jest tutaj. I tylko ja wiem gdzie. Zosta³ zbudowany przez ludzi z przysz³oœci, w 84 roku, aby swobodnie podró¿owaæ w czasie. By³em wtedy dzieckiem. Przysz³oœæ... jest cudowna. To jak stary radziecki film science-fiction, który sta³ siê rzeczywistoœci¹. Ta maszyna, któr¹ widzia³em w Moskwie, ju¿ nie istnieje. Spêdzi³em lata, dekady, by znaleŸæ inn¹. Nawet z dostêpem do tajnych archiwów by³o to trudne. Ale jeden ma³y artyku³ w gazecie naprowadzi³ mnie na trop. Okaza³o siê, ¿e pewien m³ody naukowiec pracowa³ nad barierami czasoprzestrzennymi w latach 70-tych, naprawdê! Artyku³ ten znikn¹³ z otwartych archiwów, a nazwiska naukowców zosta³y utajnione, poniewa¿ wszyscy oni pracowali nad tajnymi projektami w Strefie Wykluczenia po awarii w CzEJ w 1986 roku. Ale jeden z nich zagin¹³ jeszcze przed katastrof¹ w Czarnobylu! Metod¹ eliminacji znalaz³em go. Dowiedzia³em siê nawet, gdzie mieszka³. Przez kolejny rok szuka³em, gdzie twórcy ukryli swój wynalazek. Nadesz³a chwila prawdy. Maszyna dzia³a. Notatki wynalazcy pomog³y mi przywróciæ j¹ do stanu u¿ywalnoœci. Wysy³am tê wiadomoœæ do wszystkich, których kiedykolwiek zna³em. Do moich przyjació³: nie umar³em, wszystko bêdzie dobrze. Kiedyœ was odnajdê. Albo przynajmniej powiem waszym wnukom, kim jesteœcie i jakimi wspania³ymi ludŸmi byliœcie dla mnie. Dla wszystkich innych: powodzenia... Alisa, nie p³acz, obieca³em, ¿e zaraz wrócê. Tak bardzo za tob¹ têskni³em... poczekaj chwilê, pozwól, ¿e to wy³¹czê...</text>
 	</string>
 	<string id="st_dyn_news_spam_248">
 		<text>$clr_1Anonim\n$clr_2 Towarzysze muzycy! Czy ktoœ ma akordy do "Blood Type" od Wiktora Coja? </text>
@@ -8967,7 +8967,7 @@
 		<text>Z tego co s³yszê, myœlê, ¿e mamy do czynienia z $who.</text>
 	</string>
 	<string id="st_dyn_news_enemy_activity_mutant_1_10">
-		<text>Jakiœ mutant zbli¿a siê zbyt blisko. Wygl¹da na $who.</text>
+		<text>Jakiœ mutant zbli¿a siê zbyt szybko. Wygl¹da na $who.</text>
 	</string>
 
 	<string id="st_dyn_news_res_enemy_activity_mutant_1_1">
@@ -9735,7 +9735,7 @@
 		<text>Abstrahuj¹c od iloœci artefaktów w tej okolicy, nie ma szans na to, ¿e kiedykolwiek zgodzê siê zejœæ do laboratorium X-16. W tej okolicy roi siê od zzombifikowanych i kontrolerów.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_ecolog_7">
-		<text>Podobno Hermann rozwa¿a zatrudnienie prywatnej agencji w charakterze asysty naukowców w Jupiterze. Zgadzam siê z tym, zbyt wiele grup terenowych zaginê³o bez œladu.</text>
+		<text>Podobno Herman rozwa¿a zatrudnienie prywatnej agencji w charakterze asysty naukowców w Jupiterze. Zgadzam siê z tym, zbyt wiele grup terenowych zaginê³o bez œladu.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_ecolog_8">
 		<text>To zabawne, ¿e mimo tak zaawansowanego rozwoju technologicznego, proste ¿elazne œruby s¹ najtañszym i jednym z najbardziej efektywnych sposobów detekcji aktywnoœci anomalnej.</text>
@@ -11317,7 +11317,7 @@
 		<text>Monolit jest tu bardzo silny - znacznie przewy¿szaj¹ nas liczebnie.</text>
 	</string>
 	<string id="st_dyn_news_companion_level_pripyat_18">
-		<text>Jesteœmy niedaleko CEA - oznacza to, ¿e Monolit bêdzie bardzo zainteresowani utrzymaniem swoich pozycji.</text>
+		<text>Jesteœmy niedaleko CzEJ - oznacza to, ¿e Monolit bêdzie bardzo zainteresowani utrzymaniem swoich pozycji.</text>
 	</string>
 	<string id="st_dyn_news_companion_level_pripyat_19">
 		<text>Natura odzyskuje to miasto. Mo¿e lepiej powiedzieæ, ¿e to Zona je odzyskuje.</text>

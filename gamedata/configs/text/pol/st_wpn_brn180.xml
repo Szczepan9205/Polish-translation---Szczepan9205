@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+
+<string id="st_wpn_brn180">
+		<text>BRN-180</text>
+	</string>
+	<string id="st_wpn_brn180_descr">
+		<text>BRN-180 to nowoczesna modyfikacja klasycznego karabinu AR-180, wyposażona w system tłoka gazowego o krótkim skoku, zapewniający niezawodne działanie. Karabin, wyprodukowany przez Brownells, oferuje strzelcom lekką i kompaktową platformę, idealną do użytku taktycznego lub strzelectwa sportowego. Zachowuje znaną ergonomię platformy AR-15, zapewniając jednocześnie zwiększoną niezawodność i łatwość konserwacji. BRN-180 jest znany ze swojej celności i płynnego strzelania, dzięki czemu jest popularny wśród entuzjastów broni palnej poszukujących wszechstronnego i niezawodnego karabinu.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasujące na szyny Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: Surefire SOCOM556-MONSTER\n</text>
+	</string>
+
+<string id="st_wpn_brn180_tac">
+		<text>BRN-180 "Lich"</text>
+	</string>
+	<string id="st_wpn_brn180_tac_descr">
+		<text>Karabin taktyczny Lich jest wariantem BRN-180, zmodernizowaną wersją klasycznego karabinu AR-180. Ten wariant taktyczny jest wyposażony w 40-nabojowy magazynek, który pozwala na długotrwałe strzelanie bez konieczności częstego przeładowywania. Wyposażony w moduł laserowy do lepszego celowania i pozyskiwania celu, karabin Leach sprawdza się w warunkach słabego oświetlenia lub w walce wręcz. Obecność przedniego chwytu zapewnia dodatkową stabilność i kontrolę podczas szybkiego lub długotrwałego strzelania. Lich łączy te taktyczne ulepszenia z niezawodnością i modułowością platformy BRN-180, co czyni go wszechstronnym i skutecznym wyborem zarówno dla operatorów taktycznych, jak i entuzjastów.\n \n
+		%c[ui_gray_2]PASUJĄCE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wszystkie pasujące na szyny Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] Tłumik: Surefire SOCOM556-MONSTER\n</text>
+	</string>	
+	
+</string_table>

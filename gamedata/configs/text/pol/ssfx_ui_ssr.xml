@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
-<string_table>
 <!--
 - @ Version: SCREEN SPACE SHADERS - UPDATE 20
 - @ Description: SSR - MCM strings
 - @ Author: https://www.moddb.com/members/ascii1457
 - @ Mod: https://www.moddb.com/mods/stalker-anomaly/addons/screen-space-shaders
 -->
+
+<string_table>
 
 	<!-- Button -->
 	<string id="ui_mcm_ssfx_module_ssr">

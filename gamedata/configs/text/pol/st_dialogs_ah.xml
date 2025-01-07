@@ -405,7 +405,7 @@
 <text> To na razie wszystko. Jeœli chcesz pomóc nam dalej, wyœlê ciê do mojego kolegi, który na pewno doceni twoj¹ pomoc. Wyœlê ci jego lokalizacjê i poinformujê go o twoim przybyciu. ¯egnaj stalkerze! </text>
  </string>  
  <string id = "vorobushkin_redirect_dialog_2">
-<text> Dziêki za nieocenion¹ pomoc. Muszê jeszcze wykonaæ kilka obliczeñ. A ty przenieœ siê na pó³noc od CEA. Szef naszej grupy, profesor Skabiñski, ju¿ tam jest. Nie mam pojêcia, jak siê tam dosta³, ale proszê, pospiesz siê! Prawdopodobnie potrzebuje twojej pomocy. </text>
+<text> Dziêki za nieocenion¹ pomoc. Muszê jeszcze wykonaæ kilka obliczeñ. A ty przenieœ siê na pó³noc od CzEJ. Szef naszej grupy, profesor Skabiñski, ju¿ tam jest. Nie mam pojêcia, jak siê tam dosta³, ale proszê, pospiesz siê! Prawdopodobnie potrzebuje twojej pomocy. </text>
  </string>  
  <string id = "vorobushkin_redirect_dialog_3">
 <text> Nasze obliczenia s¹ pe³ne dziur z powodu braku wystarczaj¹cych informacji, ale uda³o nam siê w przybli¿eniu okreœliæ lokalizacjê anomalii, której wczeœniej nie uda³o nam siê przewidzieæ. Teraz szef naszej operacji, profesor Skabiñski, poszed³ j¹ zbadaæ. Prawdopodobnie potrzebuje twojej pomocy, wiêc pospiesz siê i znajdŸ go. To miejsce jest niebezpieczne i nie powinien udawaæ siê tam sam. </text>
@@ -775,7 +775,7 @@
         <text>Jestem tu w sprawie PDA.</text>
     </string>
     <string id="cs_task3_cold_dialog_1">
-        <text>Usi¹dŸ, mam dla ciebie dobre wieœci. Okazuje siê, ¿e niektórzy z naszych towarzyszy, którzy zaginêli w 2011 roku, prze¿yli! Wed³ug informacji, które uzyskaliœmy z PDA, najemnik o pseudonimie Szrama wci¹¿ mo¿e byæ w pobli¿u. W 2011 roku prowadzi³ on grupê szturmow¹ przez Limañsk i Szpital do CEA, aby dogoniæ Strie³oka i go powstrzymaæ. Wed³ug naszego zwiadowcy, który zazwyczaj dostarcza nam dobre informacje ktoœ, kto pasuje do opisu Szramy, wci¹¿ depta Zonê, a nawet by³ widziany w kontakcie z kilkoma stalkerami, którzy mog¹ byæ ocala³ymi z grupy Lebiediewa. Najlepszym rozwi¹zaniem by³oby udanie siê prosto do Sidorowicza i sprawdzenie, czy wie coœ na ten temat.</text>
+        <text>Usi¹dŸ, mam dla ciebie dobre wieœci. Okazuje siê, ¿e niektórzy z naszych towarzyszy, którzy zaginêli w 2011 roku, prze¿yli! Wed³ug informacji, które uzyskaliœmy z PDA, najemnik o pseudonimie Szrama wci¹¿ mo¿e byæ w pobli¿u. W 2011 roku prowadzi³ on grupê szturmow¹ przez Limañsk i Szpital do CzEJ, aby dogoniæ Strie³oka i go powstrzymaæ. Wed³ug naszego zwiadowcy, który zazwyczaj dostarcza nam dobre informacje ktoœ, kto pasuje do opisu Szramy, wci¹¿ depta Zonê, a nawet by³ widziany w kontakcie z kilkoma stalkerami, którzy mog¹ byæ ocala³ymi z grupy Lebiediewa. Najlepszym rozwi¹zaniem by³oby udanie siê prosto do Sidorowicza i sprawdzenie, czy wie coœ na ten temat.</text>
     </string>
     <string id="cs_task3_cold_dialog_2">
         <text>Wow, to fantastyczna wiadomoœæ. I tak, masz racjê - jeœli ktokolwiek mia³by coœ o tym wiedzieæ, to by³by to Sidorowicz. Zapytam go i zobaczê, czy nie uda mi siê dowiedzieæ czegoœ o naszych ocala³ych towarzyszach.</text>

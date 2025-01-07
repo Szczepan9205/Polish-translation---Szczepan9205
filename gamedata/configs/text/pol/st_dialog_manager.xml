@@ -41,7 +41,7 @@
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_stalker">
-		<text>Stalker! Brakuje ci forsy? Zazdroœcisz kumplom s³awy? Poszukujesz niezapomnianych prze¿yæ? OdwiedŸ mnie w bunkrze w Wiosce Kotów, pogadamy o robocie.</text>
+		<text>Stalker! Brakuje ci forsy? Zazdroœcisz kumplom s³awy? Poszukujesz niezapomnianych prze¿yæ? OdwiedŸ mnie w bunkrze w Wiosce kotów, pogadamy o robocie.</text>
 	</string>
 	
 	<string id="sidorovich_questlines_about_dialog_0">
@@ -819,7 +819,7 @@
 		<text>Przepraszam, stary, nic dla ciebie nie mam. W sumie to nie za bardzo chce mi siê gadaæ, wci¹¿ myœlê o trupiarkach, które od 2012 roku wywozi³y moich kumpli z Elektrowni do Kordonu. Wszyscy nie ¿yli...</text>
 	</string>
 	<string id="dm_information_48">
-		<text>S³ysza³eœ o KuŸniecowie? Brudna œwinia w czystym mundurze. Zanim obj¹³ dowództwo, nikomu z wojaków nie przeszkadza³o, ¿e siê krêciliœmy tu i tam - a teraz zachowuj¹ siê tak, jakby nie potrafili odró¿niæ nas od bandytów!</text>
+		<text>S³ysza³eœ o Kuzniecowie? Brudna œwinia w czystym mundurze. Zanim obj¹³ dowództwo, nikomu z wojaków nie przeszkadza³o, ¿e siê krêciliœmy tu i tam - a teraz zachowuj¹ siê tak, jakby nie potrafili odró¿niæ nas od bandytów!</text>
 	</string>
 	<string id="dm_information_49">
 		<text>Po kolejnej emisji spodziewamy siê przylotu posi³ków. Mówi siê, ¿e tym razem bêdzie naprawdê gruba paczka zabijaków - Francuzi, Finowie, nawet Brytole...</text>
@@ -990,7 +990,7 @@
 		<text>Hej, stalkerze, jeœli natkniesz siê na jakiœ interesuj¹cy materia³ naukowy, koniecznie odwiedŸ nas na Bagnach i pozwól profesorowi Ka³añczy rzuciæ okiem. Pomo¿e to uczyniæ Zonê lepszym miejscem, raz na zawsze.</text>
 	</string>
 	<string id="dm_information_105">
-		<text>Odk¹d KuŸniecow obj¹³ dowodzenie, wojsko upar³o siê na zamkniêcie nas w œrodku. Wydaje siê, ¿e nie przyk³adaj¹ siê jeszcze zbyt mocno, ale wci¹¿ martwimy siê, co w swej niewiedzy mog¹ tu zniszczyæ.</text>
+		<text>Odk¹d Kuzniecow obj¹³ dowodzenie, wojsko upar³o siê na zamkniêcie nas w œrodku. Wydaje siê, ¿e nie przyk³adaj¹ siê jeszcze zbyt mocno, ale wci¹¿ martwimy siê, co w swej niewiedzy mog¹ tu zniszczyæ.</text>
 	</string>
 	<string id="dm_information_106">
 		<text>Ostatnio promieniowanie uwiêzione we wszystkich pojazdach Strefy zosta³o uwolnione... i przenika do wody. Nie mo¿na powiedzieæ, ¿e to dobry interes - oczyszczanie p³ynów do picia sta³o siê teraz o wiele trudniejsze.</text>
@@ -1217,7 +1217,7 @@
 		<text>Czy kiedykolwiek znudzi³o ci siê to informacyjne gówno ze stref wojen? Zona jest pe³na naukowych cudów, które wymagaj¹ dok³adnych badañ, a jednak tutaj negocjujemy z tym profesorkiem w kitlu lub kupujemy ochronê tej g³upiej ma³ej frakcji. Przyszed³em tutaj, aby badaæ, a nie byæ pionkiem w tej ma³ej krwio¿erczej walce frakcji.</text>
 	</string>
 	<string id="dm_information_176">
-		<text>S³ysza³em ma³¹ sprzeczkê miêdzy Sacharowem a profesorem Hermannem: najwyraŸniej nasz drogi Sacharow dostawa³ czêœæ zapasów i personelu przeznaczonego dla Hermanna, który mia³ w tej sprawie kilka s³ów do powiedzenia. Czy s¹ jacyœ naukowcy, którzy wiedz¹, jak odpowiednio obchodziæ siê z autorytetem?</text>
+		<text>S³ysza³em ma³¹ sprzeczkê miêdzy Sacharowem a profesorem Hermanem: najwyraŸniej nasz drogi Sacharow dostawa³ czêœæ zapasów i personelu przeznaczonego dla Hermana, który mia³ w tej sprawie kilka s³ów do powiedzenia. Czy s¹ jacyœ naukowcy, którzy wiedz¹, jak odpowiednio obchodziæ siê z autorytetem?</text>
 	</string>
 	<string id="dm_information_177">
 		<text>Jestem ca³kowicie przekonany, ¿e reszta mieszkañców Strefy zwariowa³a. Wszystko o czym s³yszy to przemoc, zdrada i makabryczne zgony. Kto przy zdrowych zmys³ach przyszed³by tu dobrowolnie?</text>
@@ -1238,7 +1238,7 @@
 		<text>Laboratorium X-16 przyprawia mnie o gêsi¹ skórkê. Nic dziwnego, ¿e na Jantarze zawsze potrzebujemy posi³ków.</text>
 	</string>
 	<string id="dm_information_183">
-		<text>Czego bym nie da³, ¿eby dostaæ sta³¹ posadê na Jupiterze u profesora Hermanna! Przynajmniej nie musz¹ mieæ do czynienia z inwazj¹ chodz¹cych zw³ok co dwa dni. Jedynym problemem jest faktyczne dotarcie do celu… Obecnie brakuje lotów helikopterem, zw³aszcza po tym, jak Specnaz poniós³ klêskê ze swoj¹ operacj¹ "Tor Wodny".</text>
+		<text>Czego bym nie da³, ¿eby dostaæ sta³¹ posadê na Jupiterze u profesora Hermana! Przynajmniej nie musz¹ mieæ do czynienia z inwazj¹ chodz¹cych zw³ok co dwa dni. Jedynym problemem jest faktyczne dotarcie do celu… Obecnie brakuje lotów helikopterem, zw³aszcza po tym, jak Specnaz poniós³ klêskê ze swoj¹ operacj¹ "Tor Wodny".</text>
 	</string>
 	<string id="dm_information_184">
 		<text>Spêdziliœmy tyle czasu, ucz¹c siê o Jantarze i Jupiterze, wyobraŸ sobie, co kryje w sobie reszta Strefy! Jeœli po³owa historii opowiadanych przez przechodz¹cych stalkerów jest prawdziwa... ok, wracam do pracy.</text>
@@ -1539,7 +1539,7 @@
 		<text>Jeœli kiedykolwiek zechcesz po³ataæ swoje wyposa¿enie, wpadnij do porucznika Kiry³owa. Ten facet jest cudotwórc¹; od radia po lekkie karabiny maszynowe, to twój cz³owiek.</text>
 	</string>
 	<string id="dm_information_282">
-		<text>Nie próbuj poznaæ z³ej strony KuŸniecowa, ok? Twoje ¿ycie stanie siê nagle bardzo nieprzyjemne. Jak ten sier¿ant, uch ... Gurianow. Powiedziano mi, ¿e jego nowym zadaniem jest roznoszenie wiadomoœci na Bagnach.</text>
+		<text>Nie próbuj poznaæ z³ej strony Kuzniecowa, ok? Twoje ¿ycie stanie siê nagle bardzo nieprzyjemne. Jak ten sier¿ant, uch ... Gurianow. Powiedziano mi, ¿e jego nowym zadaniem jest roznoszenie wiadomoœci na Bagnach.</text>
 	</string>
 	<string id="dm_information_283">
 		<text>W razie w¹tpliwoœci strzelaj. Jeœli zauwa¿ysz ruch w Strefie, nie czekaj, kurwa, ani minuty. Widzia³em, jak niektórzy zawahali siê i ginêli. Czasami przez Najmusów lub innych wariatów, ale Chimera mo¿e zabiæ ciê równie szybko jak kule. Po prostu wal we wszystko, co widzisz.</text>
@@ -1569,7 +1569,7 @@
 		<text>Nie mo¿esz tu nawet normalnie oddychaæ; ca³e powietrze jest wype³nione promieniowaniem i toksynami, i Bóg wie czym jeszcze. Czujê, ¿e z biegiem czasu zacznê siê dusiæ... to po prostu okropnie. A tak w ogóle, co to jest?</text>
 	</string>
 	<string id="dm_information_292">
-		<text>KuŸniecow nie zawaha³by siê u¿yæ ciê jako ludzkiej tarczy, by uratowaæ swój ty³ek. Jak myœlisz, ilu ludzi wys³a³ na œmieræ tylko po to, by dostaæ siê tam, gdzie jest teraz? Wiesz, pewnego razu by³a próba... có¿, nie powinienem o tym mówiæ.</text>
+		<text>Kuzniecow nie zawaha³by siê u¿yæ ciê jako ludzkiej tarczy, by uratowaæ swój ty³ek. Jak myœlisz, ilu ludzi wys³a³ na œmieræ tylko po to, by dostaæ siê tam, gdzie jest teraz? Wiesz, pewnego razu by³a próba... có¿, nie powinienem o tym mówiæ.</text>
 	</string>
 	<string id="dm_information_293">
 		<text>Walczymy na prawdziwym wysypisku, rozejrzyj siê. Zardzewia³e wraki transporterów opancerzonych, roztrzaskane ciê¿arówki, wraki helikopterów... wszystkie one opowiadaj¹ historiê. Nie licz¹c ludzkich zw³ok, które ¿yj¹ i sobie spaceruj¹. Zastanawiam siê, czy my te¿ kiedyœ do nich do³¹czymy...</text>
@@ -1587,7 +1587,7 @@
 		<text>Zwia³eœ z kraju, co? Wed³ug mojego "kodeksu" to jest w porz¹dku. Potrzebujemy te¿ ludzi, którzy rozgryz¹ Zonê od wewn¹trz.</text>
 	</string>
 	<string id="dm_information_298">
-		<text>S³ysza³em, ¿e KuŸniecow chcia³ umieœciæ w szeregach dy¿urnych niektórych doradców Specnazu. Nie mogê sobie wyobraziæ, ¿e to by siê dobrze skoñczy³o.</text>
+		<text>S³ysza³em, ¿e Kuzniecow chcia³ umieœciæ w szeregach dy¿urnych niektórych doradców Specnazu. Nie mogê sobie wyobraziæ, ¿e to by siê dobrze skoñczy³o.</text>
 	</string>
 	<string id="dm_information_299">
 		<text>Po prostu uwa¿aj na siebie. To, ¿e zawarliœmy rozejm, nie oznacza, ¿e jesteœmy przyjació³mi.</text>
@@ -2433,10 +2433,10 @@
 		<text>Skadowsk to jedno z nielicznych miejsc w Strefie, w którym mogê odpocz¹æ. Broda ma nas na oku i daje nam dochodow¹ pracê. Chocia¿ têskniê za dawnymi czasami, kiedy Monolit siedzia³ w Prypeci - Zaton jest teraz przez tych czubków niebezpieczn¹ okolic¹.</text>
 	</string>
 	<string id="dm_information_576">
-		<text>Bez Wilka i Fanatyka w pobli¿u, Wioska Nowicjuszy dawno by zniknê³a. Ci goœcie to prawdziwi bohaterowie Strefy: daj¹ szansê nowym. Wiesz, oni nie musz¹ tego robiæ. Chcia³bym tylko wiedzieæ, jak udaje im siê znosiæ to ci¹g³e pierdolenie Sidorowicza.</text>
+		<text>Bez Wilka i Fanatyka w pobli¿u, Wioska kotów dawno by zniknê³a. Ci goœcie to prawdziwi bohaterowie Strefy: daj¹ szansê nowym. Wiesz, oni nie musz¹ tego robiæ. Chcia³bym tylko wiedzieæ, jak udaje im siê znosiæ to ci¹g³e pierdolenie Sidorowicza.</text>
 	</string>
 	<string id="dm_information_577">
-		<text>Pó³nocne gospodarstwo w Kordonie jest swego rodzaju przyczó³kiem Wioski Nowicjuszy, ale miêdzy Sidorowiczem a Lemurem s¹ pewne napiêcia. Oczywiœcie Sidorowicz nie znosi ¿adnej konkurencji na jego terytorium, ale uwa¿a te¿, ¿e warto mieæ partnera handlowego na pó³noc od Mostu. Ze swojej strony Lemur jest niezbêdny stalkerom z Czystego Nieba ruszaj¹cym na pó³noc.</text>
+		<text>Pó³nocne gospodarstwo w Kordonie jest swego rodzaju przyczó³kiem Wioski kotów, ale miêdzy Sidorowiczem a Lemurem s¹ pewne napiêcia. Oczywiœcie Sidorowicz nie znosi ¿adnej konkurencji na jego terytorium, ale uwa¿a te¿, ¿e warto mieæ partnera handlowego na pó³noc od Mostu. Ze swojej strony Lemur jest niezbêdny stalkerom z Czystego Nieba ruszaj¹cym na pó³noc.</text>
 	</string>
 	<string id="dm_information_578">
 		<text>Po Traperze to RzeŸnik ze Stacji Janów jest najlepszym ³owc¹ mutantów w Strefie. S³ysza³em, ¿e Wysypisko zosta³o ca³kowicie opanowane przez mutanty, zanim pojawi³ siê tam RzeŸnik i w pojedynkê wybi³ je wszystkie.</text>
@@ -2463,7 +2463,7 @@
 		<text>Oprócz pralni, ci Najemnicy w Ksiêgarni stanowi¹ drug¹ placówkê na Przedmieœciach. W przeciwieñstwie do innych Najmusów, ci s¹ rzeczywiœcie sk³onni do rozs¹dku. Jeœli ³adnie poprosisz, pozwol¹ ci nawet kupiæ czêœæ ich sprzêtu z najwy¿szej pó³ki.</text>
 	</string>
 	<string id="dm_information_586">
-		<text>Krêgarz na Stacji Janów opowiada³ mi, jak ponownie otworzy³a siê droga do Prypeci. NajwyraŸniej jakiemuœ zespo³owi ekspertów uda³o siê przedrzeæ przez Podziemia Jupitera, a nastêpnie nowe trasy zosta³y odkryte przez Garika. Nie mogê siê powstrzymaæ od zastanawiania siê, czy mo¿e te trasy powinny pozostaæ nie odkryte...</text>
+		<text>Kostopraw ze Stacji Janów opowiada³ mi, jak ponownie otworzy³a siê droga do Prypeci. NajwyraŸniej jakiemuœ zespo³owi ekspertów uda³o siê przedrzeæ przez Podziemia Jupitera, a nastêpnie nowe trasy zosta³y odkryte przez Garika. Nie mogê siê powstrzymaæ od zastanawiania siê, czy mo¿e te trasy powinny pozostaæ nie odkryte...</text>
 	</string>
 	<string id="dm_information_587">
 		<text>Przewodnicy to dziwna "rasa". S¹ cichymi geniuszami, artystami, którzy przeprowadz¹ ciê przez wszystko, co ma do zaoferowania Strefa, nie daj¹c siê wykryæ ani zaatakowaæ. Ale lepiej rób dok³adnie to, co mówi¹, kiedy jesteœ na otwartym terenie zostawi¹ ciê na œmieræ, jeœli bêdziesz na tyle g³upi, by zlekcewa¿yæ ich rozkazy.</text>
@@ -2844,7 +2844,7 @@
 		<text>Czy nie masz doœæ tego wojskowego pierdolenia? Czy nie wola³byœ byæ cz³onkiem mniej skorumpowanej organizacji prowadz¹cej badania w Strefie? Nie mówiê, ¿e UNISG koniecznie bêdzie tu rz¹dziæ, ale sytuacja, w której wojsko przyjmuje ³apówki z jednej strony, a strzela do niewinnych stalkerów z drugiej... Nie musi tak byæ.</text>
 	</string>
 	<string id="dm_information_711">
-		<text>Hej, dlaczego nie pomo¿esz nam przeciwko KuŸniecowowi i jego ludziom? Zbyt d³ugo gnij¹ w tym miejscu, znêcaj¹c siê nad ka¿dym, kto nie chce siê zgodziæ z ich skorumpowanym i niesprawiedliwym sposobem za³atwiania wszystkiego. To musi byæ piek³o, zawsze mieæ za plecami takich skurwieli, którzy strzelaj¹ do ciebie jak tylko ciê zobacz¹...</text>
+		<text>Hej, dlaczego nie pomo¿esz nam przeciwko Kuzniecowowi i jego ludziom? Zbyt d³ugo gnij¹ w tym miejscu, znêcaj¹c siê nad ka¿dym, kto nie chce siê zgodziæ z ich skorumpowanym i niesprawiedliwym sposobem za³atwiania wszystkiego. To musi byæ piek³o, zawsze mieæ za plecami takich skurwieli, którzy strzelaj¹ do ciebie jak tylko ciê zobacz¹...</text>
 	</string>
 	<string id="dm_information_712">
 		<text>Myœlê, ¿e twoi i moi ludzie mogliby prowadziæ bardzo produktywn¹ wspó³pracê. Myœlê, ¿e obojgu przyda³oby siê trochê pomocy przeciwko niektórym wspólnym wrogom. Nie s¹dzisz?</text>

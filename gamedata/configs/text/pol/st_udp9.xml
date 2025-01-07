@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+		<string id="st_wpn_udp9">
+		<text>Karabin UDP-9</text>
+	</string>
+	<string id="st_wpn_udp9_descr">
+		<text>UDP-9 to karabinek AR-9 kalibru pistoletowego z prostym mechanizmem odrzutu. Posiada wiele komponentów w stylu AR-15, ale strzela amunicją kalibru 9x19 mm. Obsługuje dowolny magazynek pasujący do Glocka 9 mm i posiada blokadę otwarcia zamka po wystrzeleniu ostatniego naboju.\n \n
+		%c[ui_gray_2]PASUJACE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: NATO \n 
+		%c[d_purple] • %c[ui_gray_2] Tłumik: GemTech\n</text>
+	</string>	
+</string_table>

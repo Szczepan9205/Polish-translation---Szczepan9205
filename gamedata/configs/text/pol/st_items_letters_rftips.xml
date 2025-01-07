@@ -1,0 +1,281 @@
+<!-- ====================================================================
+	Anomalny sygnał RF
+    Author: Catspaw
+    Source: https://www.moddb.com/members/catspawmods/addons
+    Version: 1.2
+
+    Permission granted to freely translate into any language.
+===================================================================== -->
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="st_note_rf_tip_name">
+		<text>Anomalny sygnał RF</text>
+	</string>
+	<string id="st_note_rf_tip_desc">
+		<text>Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.\n \n
+		%c[ui_gray_2]WŁAŚCIWOŚCI:\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot osobisty\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_controller_name">
+		<text>Anomalny sygnał RF: Kontroler</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_controller">
+		<text>Anomalny sygnał RF: Kontroler</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_controller_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_controller_text2">
+		<text>
+			\n \n"...powiedział, że sygnał schowka usłyszę na 145 MHz, ale nic tam nie było. Stała się jednak najdziwniejsza rzecz. Zacząłem odbierać zakłócenia na odbiorniku RF - raz brzmiało to nawet jak głos lub tony, ale nic wyraźnego.\n \n
+			Niedługo potem zacząłem odczuwać bóle głowy, niewyraźne widzenie, szepty, utratę kolorów - wszystkie typowe oznaki, że kontroler jest gdzieś naprawdę blisko. I rzeczywiście, choć zobaczyłem tego drania, zanim on zobaczył mnie.\n \n
+			A ten sygnał RF? Nie miałem halucynacji, uciął się, gdy tylko głowa tego czegoś eksplodowała."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_poltergeist_name">
+		<text>Anomalny sygnał RF: Poltergeist</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_poltergeist">
+		<text>Anomalny sygnał RF: Poltergeist</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_poltergeist_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_poltergeist_text2">
+		<text>
+			\n \n"...powiedział nam, że odbierzemy sygnał na 219 MHz, ale nic tam nie było. Potem nagle zacząłem odbierać zakłócenia na odbiorniku RF - raz brzmiało to nawet jak głos lub tony, ale nic nie było wyraźne.\n \n
+			Niedługo potem zacząłem słyszeć dziwne dzwonienie w głowie i niebieski odcień w mojej wizji, gówno zaczęło unosić się wokół - pamiętasz, kiedy ostatnio tak się stało? To był kolejny poltergeist i uciekłem stamtąd, gdy tylko go zobaczyłem.\n \n
+			A ten hałas RF? Jak tylko znalazłem się kilkaset metrów od budynku, po prostu ustał."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_burer_name">
+		<text>Anomalny sygnał RF: Burer</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_burer">
+		<text>Anomalny sygnał RF: Burer</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_burer_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_burer_text2">
+		<text>
+			\n \n"...i nie było nic podobnego do tego, co powiedzieli o sygnale na 106 MHz. Zamiast tego zacząłem odbierać wszelkiego rodzaju zakłócenia na moim odbiorniku RF - raz nawet brzmiało to jak głos lub tony, ale nic nie mogłem zrozumieć.\n \n
+			Ale pamiętasz, jak wpadliśmy na tego burera na północy? To było to samo, z dziwnym zabarwieniem wizji i halucynacjami, wszelkim gównem latającym w powietrzu. Widzieliśmy go tylko raz, ale zdążyliśmy stamtąd uciec, zanim nas zauważył.\n \n
+			Ale ten hałas RF? Ucichł, gdy znaleźliśmy się wystarczająco daleko, może kilkaset metrów. Nigdy wcześniej nie słyszałem czegoś takiego na skanerze, ale wczesne ostrzeżenie prawdopodobnie nas uratowało."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_psydog_name">
+		<text>Anomalny sygnał RF: Nibypies psioniczny</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_psydog">
+		<text>Anomalny sygnał RF: Nibypies psioniczny</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_psydog_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_psydog_text2">
+		<text>
+			\n \n"...wiesz, jaki jest Wania, powiedziałem mu, że schowek jest na 197 MHz, ale głupek przysięgał, że na 190, więc obaj wyciągnęliśmy nasze odbiorniki RF, aby sprawdzić, kto miał rację. To prawdopodobnie uratowało mi tyłek.\n \n
+			To był cholerny nibypies, tak blisko obozu - dasz wiarę? Od razu obu nas rozbolała głowa, mieliśmy niewyraźne widzenie i zaczęliśmy strzelać do fantomowych psów, których tak naprawdę tam nie było.\n \n
+			Ale za każdym razem, gdy jeden z fantomów się zbliżał, mój odbiornik RF zaczynał wariować od zakłóceń. A Wani? Wydał sygnał tylko raz, kiedy prawdziwa istota na niego skoczyła. Biedny Wania."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_af_ring_name">
+		<text>Anomalny sygnał RF: Pierścień (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_ring">
+		<text>Anomalny sygnał RF: Pierścień (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ring_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ring_text2">
+		<text>
+			\n \n"...Pomyślałem, że obszar został już oczyszczony, tak długo już przecież minęło od emisji, więc postanowiłem spróbować namierzyć schowek, o której wspomniał jeden z kotów.\n \n
+			Może częstotliwość 23 MHz nie była odpowiednia, ale w pobliżu nie było żadnego schowka. Szczęście musiało mi jednak sprzyjać, bo odebrałem coś jeszcze - dziwne zakłócenia EM.\n \n
+			Były dość dobrze zlokalizowane, może około czterdziestu do pięćdziesięciu metrów ode mnie, ale te zakłócenia doprowadziły mnie prosto do artefaktu Pierścień! Tak czy tak musiałem wyciągnąć mojego Niedźwiedzia, gdy byłem wystarczająco blisko, ale naprawdę cieszyłem się, że miałem ze sobą odbiornik RF."\n
+		</text>
+	</string>
+
+	<string id="st_note_rf_tip_af_electra_flash_name">
+		<text>Anomalny sygnał RF: Błysk (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_flash">
+		<text>Anomalny sygnał RF: Błysk (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_flash_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_flash_text2">
+		<text>
+			\n \n"...Uznałem, że obszar został już wyczyszczony, tak długo już przecież minęło od emisji, więc postanowiłem spróbować namierzyć skrytkę, o której mówił mi kumpel.\n \n
+			Może częstotliwość 124 MHz nie była odpowiednia, ale w pobliżu nie było żadnego schowka. Szczęście musiało mi jednak sprzyjać, bo wychwyciłem coś jeszcze - dziwne zakłócenia EM.\n \n
+			Były dość dobrze zlokalizowane, może około czterdziestu do pięćdziesięciu metrów ode mnie, ale te zakłócenia doprowadziły mnie prosto do artefaktu Błysk! Nadal musiałem wyciągnąć detektor, gdy byłem wystarczająco blisko, ale naprawdę cieszyłem się, że miałem ze sobą odbiornik RF."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_electra_moonlight_name">
+		<text>Anomalny sygnał RF: Blask księżyca (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_moonlight">
+		<text>Anomalny sygnał RF: Blask księżyca (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_moonlight_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_electra_moonlight_text2">
+		<text>
+			\n \n"...Uznałem, że po tym wszystkim nie ma tam nic do znalezienia, więc postanowiłem spróbować skanowania na starej częstotliwości.\n \n
+			Być może częstotliwość 57 MHz nie była odpowiednia, ponieważ nigdzie w pobliżu nie odebrałem żadnych sygnałów. Moje szczęście musiało być jednak ze mną, ponieważ odebrałem coś innego - dziwne zakłócenia EM.\n \n
+			Były dość dobrze zlokalizowane, może około czterdziestu do pięćdziesięciu metrów ode mnie, ale te zakłócenia doprowadziły mnie prosto do artefaktu Blask księżyca! Nadal musiałem wyciągnąć detektor, gdy byłem wystarczająco blisko, ale naprawdę cieszyłem się, że miałem ze sobą odbiornik RF."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_black_spray_name">
+		<text>Anomalny sygnał RF: Czarne bryzgi (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_black_spray">
+		<text>Anomalny sygnał RF: Czarne bryzgi (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_black_spray_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_black_spray_text2">
+		<text>
+			\n \n"...Uznałem, że obszar został już oczyszczony, tak długo już przecież minęło od emisji, więc postanowiłem sprawdzić, czy zagubiony plecak staruszka nadal nadaje.\n \n
+			Być może częstotliwość 89 MHz nie była odpowiednia, ale w pobliżu nie było żadnego schowka. Szczęście musiało mi jednak sprzyjać, bo odebrałem coś jeszcze - jakieś dziwne zakłócenia EM.\n \n
+			Były dość dobrze zlokalizowane, może około czterdziestu do pięćdziesięciu metrów ode mnie, ale te zakłócenia doprowadziły mnie prosto do artefaktu Czarne bryzgi! Nadal musiałem wyciągnąć detektor, gdy byłem wystarczająco blisko, ale naprawdę cieszyłem się, że miałem ze sobą odbiornik RF."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_full_empty_name">
+		<text>Anomalny sygnał RF: pełny Pustak (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_full_empty">
+		<text>Anomalny sygnał RF: pełny Pustak (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_full_empty_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_full_empty_text2">
+		<text>
+			\n \n"...Uznałem, że obszar został już oczyszczony, tak długo po emisji, więc postanowiłem sprawdzić, czy uda mi się znaleźć zagubiony schowek, o którym słyszeliśmy.\n \n
+			Być może częstotliwość 236 MHz była niewłaściwa, ale w pobliżu nie było żadnego schowka. Szczęście musiało mi jednak sprzyjać, bo wychwyciłem jakieś silne zakłócenia EM.\n \n
+			Były dość dobrze zlokalizowane, może około czterdziestu do pięćdziesięciu metrów ode mnie, ale te zakłócenia doprowadziły mnie prosto do artefaktu Pełny pustak! Nadal musiałem wyciągnąć detektor, gdy byłem wystarczająco blisko, ale naprawdę cieszyłem się, że miałem ze sobą odbiornik RF."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_ice_name">
+		<text>Anomalny sygnał RF: Lód (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_ice">
+		<text>Anomalny sygnał RF: Lód (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ice_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_ice_text2">
+		<text>
+			\n \n"...Pomyślałem, że obszar został już oczyszczony, tak długo już przecież minęło od emisji, więc poszedłem poszukać tej wskazówki, którą dostałem od medyka.\n \n
+			Może częstotliwość 178 MHz była niewłaściwa, ale w pobliżu nie było żadnej skrytki. Szczęście musiało mi jednak sprzyjać, bo wyłapałem coś jeszcze - zakłócenia EM, nie wiem co to było...\n \n
+			Były dość dobrze zlokalizowane, może około czterdziestu do pięćdziesięciu metrów ode mnie, ale te zakłócenia doprowadziły mnie prosto do artefaktu Lód! Nadal musiałem wyciągnąć detektor, gdy byłem wystarczająco blisko, ale naprawdę cieszyłem się, że miałem ze sobą odbiornik RF."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_soul_name">
+		<text>Anomalny sygnał RF: Dusza (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_soul">
+		<text>Anomalny sygnał RF: Dusza (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_soul_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_soul_text2">
+		<text>
+			\n \n"...Uznałem, że obszar został już oczyszczony, tak długo już przecież minęło od emisji, więc postanowiłem spróbować znaleźć ten schowek, o którym mówił mi handlarz.\n \n
+			Może częstotliwość 302 MHz była niewłaściwa, ale w pobliżu nie było żadnego schowka. Szczęście musiało mi jednak sprzyjać, bo odebrałem coś jeszcze - jakieś zakłócenia EM.\n \n
+			Były dość dobrze zlokalizowane, może około czterdziestu do pięćdziesięciu metrów ode mnie, ale te zakłócenia doprowadziły mnie prosto do artefaktu Dusza! Nadal musiałem wyciągnąć detektor, gdy byłem wystarczająco blisko, ale naprawdę cieszyłem się, że miałem ze sobą odbiornik RF."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_compass_name">
+		<text>Anomalny sygnał RF: Kompas (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_compass">
+		<text>Anomalny sygnał RF: Kompas (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_compass_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_compass_text2">
+		<text>
+			\n \n"...Uznałem, że obszar został już oczyszczony, tak długo już przecież minęło od emisji, więc postanowiłem spróbować namierzyć sygnał ze schowka, który założyłem ostatnim razem.\n \n
+			Może częstotliwość 285 MHz była niewłaściwa, ale w pobliżu nie było żadnego schowka. Moje szczęście musiało być jednak ze mną, ponieważ odebrałem coś jeszcze - jakieś poważne zakłócenia EM, nie potrafiłem tego wyjaśnić.\n \n
+			Zlokalizowanie tego zajęło mi trochę czasu, ale te zakłócenia doprowadziły mnie prosto do artefaktu Kompas! Mimo to musiałem wyciągnąć detektor, gdy byłem wystarczająco blisko, ale odbiornik RF musiał go odebrać dobre sto metrów dalej."\n
+		</text>
+	</string> 
+
+	<string id="st_note_rf_tip_af_death_lamp_name">
+		<text>Anomalny sygnał RF: Lampa Śmierci (artefakt)</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_rf_tip_af_death_lamp">
+		<text>Anomalny sygnał RF: Lampa Śmierci (artefakt)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_death_lamp_text">
+		<text>
+			Skrawek papieru, który wygląda jak fragment listu lub wpisu do dziennika, opisujący częstotliwość radiową, którą autor uznał za przydatną.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_rf_tip_af_death_lamp_text2">
+		<text>
+			\n \n"...Uznałem, że obszar został już oczyszczony, tak długo już przecież minęło od emisji, więc postanowiłem spróbować namierzyć schowek, o którym mi mówiłeś.\n \n
+			Może częstotliwość 321 MHz była niewłaściwa, ale nie mogłem nic odebrać przez te wszystkie zakłócenia - to było tak, jakby ktoś zagłuszał sygnał w promieniu stu metrów wokół jakiegoś punktu.\n \n
+			Jestem prawie pewien, że źródłem był artefakt Lampa Śmierci - nic innego nie świeci się tak cholernie mocno. Zobaczyłem tę przeklętą rzecz pośrodku paskudnego skupiska anomalii, a mój odbiornik RF wariował, im bardziej się zbliżałem. Nie miałem sprzętu ochronnego, by się tam zapuszczać, ale teraz przynajmniej wiem, gdzie szukać."\n
+		</text>
+	</string> 
+</string_table>

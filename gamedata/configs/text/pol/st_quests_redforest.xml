@@ -27,7 +27,7 @@
 		<text>Odkryj wszystkie sekrety laboratorium X-16. ZnajdŸ dokumenty i zanieœ je Strzybogowi. Œwiat nie mo¿e siê o nich dowiedzieæ.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_1_about">
-		<text>Jako prawdziwi stra¿nicy Zony musimy dzia³aæ szybko i nieustêpliwie pilnowaæ, by jej sekrety pozosta³y ukryte przed wzrokiem tego grzesznego œwiata. Jeden z takich sekretów mo¿e znajdowaæ siê w podziemnym laboratorium X-16. Zdob¹dŸ je i dostarcz mi, bracie. Dopilnujemy, by by³y bezpieczne.</text>
+		<text>Jako prawdziwi stra¿nicy Zony musimy dzia³aæ szybko i nieustêpliwie pilnowaæ, by jej sekrety pozosta³y ukryte przed wzrokiem tego grzesznego œwiata. Jeden z takich sekretów mo¿e znajdowaæ siê w podziemnym Laboratorium X-16. Zdob¹dŸ je i dostarcz mi, bracie. Dopilnujemy, by by³y bezpieczne.</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_task_1_finish">
 		<text>Dobrze siê spisa³eœ.</text>
@@ -89,16 +89,16 @@
 	
 	<!-- Stribog (Sin Trader) Payoff Change Factions Task -->
 
-	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_name">
+	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_name">
 		<text>Grzech drog¹ zbawienia</text>
 	</string>
-	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_text">
+	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_text">
 		<text>Gdy staniesz siê cz³onkiem Grzechu pieni¹dze nie bêd¹ ci ju¿ potrzebne. Daj Strzybogowi 1.000 RU, by pozwoli³ ci do³¹czyæ do bractwa.</text>
 	</string>
-	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_about">
+	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_about">
 		<text>Bardzo dobrze, ¿e przejrza³eœ na oczy, moje dziecko. Powitamy ciê w naszym Zakonie Zony, ale najpierw musisz wyzbyæ siê swoich wszystkich materialnych rzeczy, które posiadasz i z³o¿yæ ma³y podarek w wysokoœci 1.000 RU.</text>
 	</string>
-	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_finish">
+	<string id="drx_sl_pri_red_greh_trader_stalker_cf_task_1_finish">
 		<text>Bardzo dobrze. Odt¹d bêdziesz nieœæ oœwiecenie dla tego niespokojnego œwiata.</text>
 	</string>
 	
@@ -124,10 +124,10 @@
 		<text>Mroczne sekrety</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_1_text">
-		<text>Odkryj wszystkie sekrety laboratorium X-18. ZnajdŸ dokumenty i zanieœ je Da¿bogowi. Œwiat nie mo¿e siê o nich dowiedzieæ.</text>
+		<text>Odkryj wszystkie sekrety Laboratorium X-18. ZnajdŸ dokumenty i zanieœ je Da¿bogowi. Œwiat nie mo¿e siê o nich dowiedzieæ.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_1_about">
-		<text>Jako prawdziwi stra¿nicy Zony musimy dzia³aæ szybko i nieustêpliwie pilnowaæ, by jej sekrety pozosta³y ukryte przed wzrokiem tego grzesznego œwiata. Jeden z takich sekretów mo¿e znajdowaæ siê w podziemnym laboratorium X-18. Zdob¹dŸ je i dostarcz mi, bracie. Dopilnujemy, by by³y bezpieczne.</text>
+		<text>Jako prawdziwi stra¿nicy Zony musimy dzia³aæ szybko i nieustêpliwie pilnowaæ, by jej sekrety pozosta³y ukryte przed wzrokiem tego grzesznego œwiata. Jeden z takich sekretów mo¿e znajdowaæ siê w podziemnym Laboratorium X-18. Zdob¹dŸ je i dostarcz mi, bracie. Dopilnujemy, by by³y bezpieczne.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_1_finish">
 		<text>Wspania³a robota!</text>
@@ -143,7 +143,7 @@
 		<text>Da¿bóg chce, abyœ upolowa³ bestiê, która zaatakowa³a jego ludzi w Czerwonym Lesie.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_2_about">
-		<text>Czasami w tym lesie mo¿e byæ naprawdê ciê¿ko, nawet naszym braciom. Jednego z nich zaatakowa³a niebezpieczna bestia. Ruszaj i upoluj j¹.</text>
+		<text>Czasami nawet naszym braciom w tym lesie mo¿e byæ naprawdê ciê¿ko. Jednego z nich zaatakowa³a niebezpieczna bestia. Ruszaj i upoluj j¹.</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_2_finish">
 		<text>Dobra robota. Od teraz las bêdzie bezpieczniejszy.</text>
@@ -153,7 +153,7 @@
 	<!-- Dazhbog (Sin Mechanic) Slay the Enemy Informer Storyline Task -->
 
 	<string id="drx_sl_red_greh_tech_task_3_name">
-		<text>W œlad za tropicielem</text>
+		<text>W œlad za zwiadowc¹</text>
 	</string>
 	<string id="drx_sl_red_greh_tech_task_3_text">
 		<text>Cz³onków Grzechu przeœladuje niewierny. Da¿bóg zleci³ ci pozbycie siê go.</text>
@@ -169,10 +169,10 @@
 	<!-- Dazhbog (Sin Mechanic) Find Toolkit Tasks -->
 
 	<string id="red_greh_tech_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Da¿boga</text>
 	</string>
 	<string id="red_greh_tech_task_1_text">
-		<text>%s s¹ potrzebne Da¿bogowi do instalacji podstawowych ulepszeñ broni i pancerzy. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
+		<text>Da¿bogowi przyda³yby siê %s. Pomog³yby mu one w instalacji podstawowych ulepszeñ broni i kombinezonów. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
 	</string>
 	<string id="red_greh_tech_task_1_about">
 		<text>Chcê, abyœ coœ dla mnie zrobi³. Potrzebujê konkretnych narzêdzi, by móc pracowaæ przy naszej broni.</text>
@@ -185,35 +185,35 @@
 	</string>
 
 	<string id="red_greh_tech_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Da¿boga</text>
 	</string>
 	<string id="red_greh_tech_task_2_text">
-		<text>%s s¹ potrzebne Da¿bogowi do instalacji zaawansowanych ulepszeñ broni i pancerzy. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
+		<text>Da¿bogowi przyda³yby siê %s. Pomog³yby mu one w instalacji zaawansowanych ulepszeñ broni i kombinezonów. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
 	</string>
 	<string id="red_greh_tech_task_2_about">
 		<text>Potrzebujê kolejnych narzêdzi, lepszych. Mo¿esz ponownie spróbowaæ odnaleŸæ to, czego potrzebujê?</text>
 	</string>
 	<string id="red_greh_tech_task_2_fetch_about">
-		<text>Potrzebny mi zestaw narzêdzi zaawansowanych. Powinien zawieraæ to, co bêdzie mi aktualnie potrzebne. Bêdê ci wdziêczny, jeœli przyniesiesz mi jakieœ, a nawet dam ci zni¿kê na swoje us³ugi.</text>
+		<text>Potrzebny mi zestaw narzêdzi zaawansowanych. Powinien zawieraæ to, co bêdzie mi aktualnie potrzebne. Bêdê ci wdziêczny, jeœli przyniesiesz mi jakieœ. A teraz ruszaj.</text>
 	</string>
 	<string id="red_greh_tech_task_2_fetch_finish">
 		<text>Dobrze. Przynios³eœ je do mnie.</text>
 	</string>
 
 	<string id="red_greh_tech_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla Da¿boga</text>
 	</string>
 	<string id="red_greh_tech_task_3_text">
-		<text>%s s¹ potrzebne Da¿bogowi do instalacji precyzyjnych ulepszeñ broni i pancerzy. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
+		<text>Da¿bogowi przyda³yby siê %s. Pomog³yby mu one w instalacji precyzyjnych ulepszeñ broni i pancerzy. Przynieœ mu takie, jeœli uda ci siê je znaleŸæ.</text>
 	</string>
 	<string id="red_greh_tech_task_3_about">
-		<text>Znów potrzebne mi narzêdzia, jeszcze lepsze ni¿ ostatnio. Mo¿esz po raz ostatni spróbowaæ odnaleŸæ to, czego potrzebujê?</text>
+		<text>Potrzebujê narzêdzi, które pozwol¹ mi modyfikowaæ i tworzyæ broñ czystej zemsty. Przys³u¿ siê nam raz jeszcze, bracie.</text>
 	</string>
 	<string id="red_greh_tech_task_3_fetch_about">
-		<text>Potrzebny mi zestaw narzêdzi precyzyjnych. Powinien zawieraæ ju¿ wszystko, co bêdzie mi potrzebne. Bêdê ci wdziêczny, jeœli przyniesiesz mi jakieœ i dam ci du¿¹ zni¿kê na swoje us³ugi.</text>
+		<text>Potrzebny mi zestaw narzêdzi precyzyjnych - to najlepsze z najlepszych jakie mo¿na spotkaæ w Zonie. Zdob¹dŸ je dla mnie, a na pewno ci siê to op³aci.</text>
 	</string>
 	<string id="red_greh_tech_task_3_fetch_finish">
-		<text>Dobrze. Przynios³eœ je do mnie.</text>
+		<text>Dobrze. Przynios³eœ je do mnie tak jak prosi³em. Twoje oddanie nie pozostanie niezauwa¿one.</text>
 	</string>
 
 </string_table>

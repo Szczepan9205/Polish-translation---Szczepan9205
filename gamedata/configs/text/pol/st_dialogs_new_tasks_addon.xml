@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- Żywy Ogień -->
+	<string id="baraholka_trader_the_living_fire_1_0">
+		<text>Kabel kazał mi się z tobą spotkać. Wiesz coś, co mogłoby rzucić nieco światła na "ognistego" stalkera z plotek, prawda?</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_1_1">
+		<text>Ach, tak... Mam coś, ale nie rób sobie zbyt wielkich nadziei. Jakiś czas temu zaobserwowaliśmy dziwne błyski pojawiające się w nocy za ogromną stertą śmieci na południe od nas, po których nastąpiło przerażające wycie mutantów. Niektórzy samotnicy byli ciekawi, co się tam stało i odwiedzili to miejsce w ciągu dnia. Znaleźli tam kilka martwych mięsaczy, które były... Cóż... "lekko zgrilowane". Na początku myśleliśmy, że mutanty po prostu wpadły w jakąś ledwo widoczną anomalię, która zniknęła następnego dnia lub napotkały ognistego poltergeista, ale na jednym z nich widniała jedna osobliwa rzecz. Na plecach miał coś, co wyglądało jak znamię - było w kształcie ludzkiej dłoni. Mógł to być zwykły wypadek... a może nie? Kto wie... \n \nJeśli chcesz dowiedzieć się więcej, możesz rozejrzeć się tu w nocy. Jeśli ten stalker naprawdę istnieje, to jego powinowactwo do ognia może być dobrą wskazówką, gdzie powinieneś go szukać.</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_1_2">
+		<text>Hmm... to wciąż brzmi jak opowieść weterana, która ma przestraszyć nowicjuszy. Tak czy inaczej, postaram się dowiedzieć czegoś więcej, dzięki.</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_1_3">
+		<text>Taa... Muszę przyznać, że to brzmi szalenie. Nadal jednak powinieneś na siebie uważać. Zona to dziwne miejsce... \nW każdym razie - Kabel wisi mi za to jedną kolejkę, bez względu na wynik śledztwa.</text>
+	</string>
+
+	<string id="baraholka_trader_the_living_fire_2_0">
+		<text>Wróciłem z moich poszukiwań...</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_2_1">
+		<text>Niech zgadnę. Właśnie zmarnowałeś czas, uganiając się za kolejną plotką dla Kabla...</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_2_2">
+		<text>Widziałem go... tego stalkera z plotek!</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_2_3">
+		<text>Widziałeś... kogo? Mówisz poważnie? Czekaj... Coś blado wyglądasz... Mówisz poważnie?! Czy to ma coś wspólnego z tą głośną eksplozją, którą słyszeliśmy?</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_2_4">
+		<text>Tak. Odprawiał jakiś... rytuał... w anomalii "Grecki Ogień". Wszędzie wokół płonął ogień. Zabłąkany mięsacz zbliżył się i... wyparował?</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_2_5">
+		<text>Jakim cudem ty w ogóle żyjesz? Rozmawiałeś z nim?</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_2_6">
+		<text>Nie wiem. Z pewnością był świadomy mojej obecności od samego początku, nawet jeśli mnie nie widział. Kiedy chciałem zapytać, kim jest, przerwał mi, mówiąc, że wszyscy poznają jego imię, a wkrótce potem zniknął w ognistej eksplozji.</text>
+	</string>
+	<string id="baraholka_trader_the_living_fire_2_7">
+		<text>Każdy pozna jego imię, co? To nie brzmi dobrze. Cóż - przynajmniej Kabel będzie szczęśliwy słysząc, że coś znalazłeś. Teraz zdecydowanie jest mi winien całą flaszkę!</text>
+	</string>
+
+	<string id="bar_informator_mlr_the_living_fire_2_0">
+		<text>Kabel - musimy porozmawiać.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_2_1">
+		<text>Plotka okazała się prawdą. Wiem... Otrzymałem już wiadomość od mojego przyjaciela. Dobrze się spisałeś. Masz - zasłużyłeś na to.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_2_2">
+		<text>Pięć tysięcy? Postradałeś zmysły? Mogłem tam zginąć!</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_2_3">
+		<text>Cii... zamknij się! Tu się dzieje coś grubszego... Popracuj dla mnie jeszcze trochę, a dostaniesz więcej. Póki co trzeba pozyskać więcej informacji bo ludzie nie zapłacą dużo za samą informację, że ten stalker istnieje. Hmm... może Pietrenko zapłaci, biorąc pod uwagę, że stracił przez niego dwóch ludzi.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_2_4">
+		<text>Więc jaki masz teraz plan? Nie wiemy, dokąd poszedł ani jaki jest jego cel. Nie mamy żadnych tropów.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_2_5">
+		<text>Mamy. Kiedy prowadziłeś swoje śledztwo, podsłuchałem rozmowę dwóch naukowców o jakiejś anomalnej aktywności dokładnie w miejscu, w którym spotkałeś nieznajomego. Powinieneś pójść porozmawiać z Sacharowem i zaoferować swoją pomoc w zbadaniu tej sprawy.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_2_6">
+		<text>Dobrze. W takim razie ruszam.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_2_7">
+		<text>Jeszcze jedno. Nie wspominaj mu, że to ja podsłuchiwałem jego kolegów. Nie chcę, żeby byli bardziej ostrożni w moim otoczeniu. Informacje naukowe są zazwyczaj bardzo cenne.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_the_living_fire_1_0">
+		<text>Profesorze - czy mogę zamienić z wami słowo?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_1">
+		<text>Nie teraz, młody człowieku. Jesteśmy zajęci badaniem pewnego niedawnego incydentu.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_2">
+		<text>Czy ta sprawa jest przypadkiem związana z anomalią "Grecki Ogień"? </text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_3">
+		<text>Skąd wiedziałeś? Przechwyciłeś wiadomość, którą wysłałem do moich asystentów?! Te informacje są tajne!</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_4">
+		<text>Nie denerwujcie się, profesorze. To nieistotne, jak się dowiedziałem. Chodzi o to, że byłem tam niedawno, gdy wydarzyło się tam coś dziwnego i jestem gotów podzielić się z wami moją wiedzą, jeśli zgodzicie się ujawnić, co wiecie. Byłoby to korzystne dla obu stron. Może mógłbym wam pomóc z...</text>.
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_5">
+		<text>Czy nie wyraziłem się jasno?! Ta informacja jest tajn... Czekaj... Mówisz, że coś tam widziałeś? Co to było?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_6">
+		<text>Wiedza za wiedzę profesorze. Mogę zapewnić, że moje informacje są tego warte.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_7">
+		<text>A niech cię... Niech tak będzie. Nasze skanery od kilku dni wykazują nienormalne odczyty z tej anomalii - nagłe skoki emitowanej przez nią energii. Tak jakby anomalia rozszerzała się i wracała do stanu podstawowego. Widzieliśmy już takie fluktuacje w innych anomaliach, ale nie z taką częstotliwością. Postanowiliśmy to zignorować. Niedawno nasze odczyty w nocy na krótko przekroczyły skalę, po czym wróciły do normy. To bardzo niepokojące. Możemy być w poważnych tarapatach, jeśli anomalie zaczną się rozszerzać w niekontrolowany sposób.\n \nA teraz powiedz mi, co tam widziałeś? Zakładam, że widziałeś wiele anomalii w swoim życiu, więc musiało to być coś niezwykłego.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_8">
+		<text>Tak - to było niezwykłe. Tak jak powiedzieliście, anomalia była wtedy bardzo aktywna. Wyrzucała z siebie mnóstwo płomieni. Co najciekawsze, wśród tych płomieni znajdował się mężczyzna. Odprawiał jakiś rytuał. Później dowiedziałem się, że potrafi on w jakiś sposób kontrolować ogień. Dosłownie zdezintegrował mięsacza na moich oczach. Po krótkim czasie stanął w płomieniach i zniknął. Wtedy też płomienie ponownie przeszły w stan uśpienia.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_9">
+		<text>To fascynujące! Więc to on wzmocnił anomalię. Miałeś okazję z nim porozmawiać?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_10">
+		<text>Nie - niestety nie... choć powiedział, że z czasem wszyscy poznają jego imię.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_11">
+		<text>To nie brzmi dobrze, biorąc pod uwagę jego moc. Musimy dowiedzieć się, co chce osiągnąć.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_12">
+		<text>Zgadzam się i muszę powiedzieć, że miałem nadzieję, że powiecie mi, gdzie powinienem się udać w następnej kolejności.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_13">
+		<text>Obawiam się, że nie mogę ci w tym pomóc. Nasze skanery nie wykazały niczego innego dla... czekaj... jest! Skanery wykazują nienaturalną aktywność w anomalii "Krwawy diament". Powinieneś natychmiast się tam udać!</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_1_14">
+		<text>Dziękuję, profesorze! W takim razie już pójdę.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_the_living_fire_2_0">
+		<text>Złe wieści, profesorze. Nie udało mi się dotrzeć na czas, by spotkać się z tym człowiekiem.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_1">
+		<text>Powiedziałbym, że to wspaniała wiadomość. Nasze odczyty wykazały naprawdę ekstremalny skok energii emitowanej przez tę anomalię. Gdybyś był bliżej niej, prawdopodobnie zostałbyś zabity!</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_2">
+		<text>Och, cóż... No to chyba miałem szczęście...</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_3">
+		<text>Cieszę się również, że udało ci się wrócić w jednym kawałku. A teraz powiedz mi proszę, jak udało ci się powstrzymać anomalię przed rozgałęzieniem?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_4">
+		<text>Yyy - rozgałęzieniem? Po prostu zabiłem kilka ognistych poltergeistów w tamtym miejscu. Nie wyglądały na wyjątkowe. Widziałem już kilka takich.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_5">
+		<text>W rzeczywistości były bardzo wyjątkowe, młody człowieku. Widzisz - nasze skanery wykryły je jako oddzielne byty o energii podobnej do innych anomalii termicznych, tylko nieco słabszej. Były to swego rodzaju proto-anomalie. Jeśli ich tam nie zatrzymasz, zamienią się w kolejne duże strefy anomalii, jeśli wystarczy im czasu.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_6">
+		<text>Hmm... Wygląda na to, że ten człowiek jest jeszcze bardziej niebezpieczny, niż myśleliśmy.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_7">
+		<text>Tak, w rzeczy samej. Musimy jak najszybciej dowiedzieć się, jakie są jego motywy. Niestety, nie sądzę, bym mógł ci pomóc w jego ponownym zlokalizowaniu. Nasze odczyty znów wróciły do normy...</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_2_8">
+		<text>W porządku, profesorze. W takim razie będę kontynuował śledztwo na własną rękę. Do widzenia.</text>
+	</string>
+
+	<string id="bar_informator_mlr_the_living_fire_3_0">
+		<text>Wróciłem z nad Jantaru. Mam dla ciebie więcej wiadomości.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_1">
+		<text>To świetnie! Ale najpierw coś ci powiem. Ludzie płacą niezłe pieniądze, by dowiedzieć się więcej o Żywym Ogniu. Chwytliwa ksywa, prawda? Sam ją wymyśliłem, skoro jeszcze nie poznałeś jego prawdziwego imienia. Oto twój udział, kolego. A teraz - czego się dowiedziałeś?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_2">
+		<text>Teraz to inna rozmowa. Jeśli chodzi o moje odkrycia - naukowcy rzeczywiście zauważyli wzrost anomalnej aktywności na Wysypisku. Wysłali mnie również do zbadania innej podejrzanej aktywności na Wielkich Bagnach. Spóźniłem się tam i impreza zaczęła się zanim tam dotarłem, ale później dowiedziałem się, że dobrze, że się tak stało - w przeciwnym razie prawdopodobnie nie rozmawiałbym z tobą teraz. Tym razem temu człowiekowi udało się w jakiś sposób stworzyć kilka rzeczy nazwanych przez Sacharowa "proto-anomaliami", które później mogły przekształcić się w duże strefy anomalne. Udało mi się pozbyć ich na czas.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_3">
+		<text>Wow! Więc mamy zbliżającą się zagładę, w której wszyscy spłoniemy w piekle? Wyczuwam tu niezłe pieniądze...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_4">
+		<text>Co... Mówisz poważnie? Nie martwisz się? Nawet trochę?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_5">
+		<text>Wszyscy prędzej czy później umrzemy, przyjacielu. Ludzie z pieniędzmi umierają jednak później i wygląda na to, że nasza współpraca wkrótce uczyni mnie całkiem bogatym. Opuszczę Zonę w samą porę, jeśli coś ma się wydarzyć.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_6">
+		<text>Taa... Ja tam nie podzielam twojego optymizmu.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_7">
+		<text>Nie musisz, dla mnie to tylko biznes. Zajmujesz się też odkrywaniem tajemnic Zony, prawda? Masz więc podwójne korzyści.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_8">
+		<text>Może masz rację... W każdym razie - naukowcy nie zaobserwowali jeszcze żadnych innych skoków aktywności anomalnej, więc możemy być teraz w ślepym zaułku.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_9">
+		<text>Nie do końca - zapomniałeś o mnie. Stary, dobry Pietrenko wpadł tu ostatnio ze swoją krótkofalówką i tak się złożyło, że byłem w pobliżu, by usłyszeć kilka interesujących rzeczy. Rozmawiał z jakimiś urzędnikami. Oddział wojskowy pilnujący laboratorium X-18 miał niespodziewanego gościa. Ostatni ocalały zdołał wysłać sygnał S.O.S., wspominając również, że jego towarzysze zostali zamienieni w popiół, zanim on również zerwał połączenie. Jestem prawie pewien, że był to facet, którego szukamy.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_10">
+		<text>Taa... I oczekujesz, że będę go ścigał?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_11">
+		<text>Dlaczego nie? Przeżyłeś ostatnie spotkanie z nim, prawda? Może jest ku temu powód. Może wie o tobie coś, co uratowało ci życie? Poza tym - czy chcesz pozostawić tę tajemnicę nierozwiązaną? Zapomniałeś już o końcu świata? [Wybucha śmiechem]</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_12">
+		<text>A niech cię szlag, Kabel. Powinieneś traktować to wszystko poważniej. Ale chyba jednak nie mam wyboru... Pójdę tam.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_3_13">
+		<text>Zuch chłopak! Mam nadzieję, że wrócisz z bardziej wartościowymi informacjami.</text>
+	</string>
+
+	<string id="the_living_fire_prometheus_the_living_fire_1_0">
+		<text>To nie jest jakaś sztuczka, prawda?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_1">
+		<text>Dlaczego miałoby tak być? Gdybym chciał cię zabić, nie rozmawialibyśmy teraz.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_2">
+		<text>Dlaczego więc tego nie zrobiłeś? Widziałem twoją moc... ten mięsacz na Wysypisku stanął w płomieniach...</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_3">
+		<text>Znam cię, stalkerze. Wiem, że widziałeś Spełniacz Życzeń i nie wypowiedziałeś samolubnego życzenia, jak wielu innych. Masz czyste serce. A więc - wierzę, że masz wiele pytań?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_4">
+		<text>Masz cholerną rację. Kim ty jesteś?! Dlaczego to wszystko robisz... I .. Co dokładnie robisz?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_5">
+		<text>Jestem zwykłym stalkerem - tak jak ty. Przed pewnym wypadkiem trzymałem się głównie południowych części Zony, ale do tego jeszcze dojdziemy. Miałem na imię Boris... zwykły nowicjusz, który przybył do Zony, by zarobić trochę pieniędzy i spłacić długi. Zajmowałem się głównie załatwianiem spraw dla lokalnych handlarzy... głównie dla tego łajdaka Sidorowicza. \n \nWidzisz, pewnego dnia otrzymałem zadanie dostarczenia pewnej paczki do naukowców nad Jantarem. Wyglądało na łatwy zarobek, ale nie skończyło się to dla mnie dobrze... Zostałem schwytany przez oddział wojskowych, którzy zaoferowali, że mnie wypuszczą, jeśli im zapłacę. Kiedy dostali pieniądze, zabrali mi wszystko i pobili tak bardzo, że ledwo mogłem chodzić... Jebani skorumpowani dranie.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_6">
+		<text>Taa... Uczciwość nie jest cechą, którą można znaleźć wśród naszych żołnierzy i urzędników... Co było dalej?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_7">
+		<text>Udało mi się dostać na Wysypisko, gdzie zatrzymałem się w Składzie. Rzeźnik opiekował się mną przez kilka dni i pomógł mi wyleczyć rany. Wie dużo o Zonie i zna pewną maść zrobioną z jakiegoś tłuszczu mutantów, która sprawia, że rany goją się szybciej.\n \nJak tylko odzyskałem siły, wróciłem na Kordon. Chciałem zabrać tam trochę zapasów, ale zgadnij co - jakiś drań ukradł wszystkie moje rzeczy!</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_8">
+		<text>Niefart, co? Takie rzeczy zdarzają się w Zonie...</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_9">
+		<text>Nie spodziewałbyś się jednak, że zostaniesz okradziony przez swoich pobratymców, prawda? Wiem na pewno, że to jeden z moich "przyjaciół" zabrał moje rzeczy i poszedł dalej na północ, aby uniknąć konfrontacji ze mną. Bez broni i pieniędzy musiałem zwrócić się do Sidorowicza o pożyczkę. Odmówił, ponieważ nie dostarczyłem paczki, która została zabrana przez wojsko. Zaoferował mi jednak inne zadanie - kazał mi przynieść pewien niezwykły artefakt, który można znaleźć tylko w anomaliach termicznych. Dał mi stary PM i paczkę naboi, które miałem mu zwrócić po wykonaniu zadania. Powiedział też, że wyznaczy za mnie nagrodę, jeśli nie wrócę do niego z artefaktem w ciągu trzech dni.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_10">
+		<text>Sidor to chciwy drań, ale to dość ekstremalne, nawet jak na niego... Co zrobiłeś później?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_11">
+		<text>Nie mogłem odmówić... Wokół Kordonu nie ma żadnych anomalii termicznych, więc musiałem udać się gdzie indziej. Mroczny Wąwóz i Wielkie Bagna są bardzo niebezpieczne, zwłaszcza jeśli ma się tylko PM-a. Postanowiłem rozejrzeć się za anomalią "Grecki Ogień". Spędziłem dwa dni kręcąc się po Pchlim Targu, jedząc resztki, unikając walki i odwiedzając anomalię od czasu do czasu. Tamtejsi handlarze dostrzegli moją niedolę i pewnego razu podzielili się ze mną bochenkiem chleba.\n \nTrzeciego dnia szczęście w końcu się do mnie uśmiechnęło... a przynajmniej tak mi się wydawało. Pojawił się odpowiedni artefakt, a ja próbowałem po niego sięgnąć, nie kończąc jako chrupek. "Podpłynął" do mnie i złapałem go w dłonie. Nagle z krzaków wyskoczył mięsacz i pchnął mnie prosto w anomalię. Poczułem okropny ból w całym ciele i wkrótce potem straciłem przytomność. Pomyślałem, że to mój koniec... zostałem pożarty przez płomienie.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_12">
+		<text>Więc jakim cudem wciąż żyjesz?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_13">
+		<text>Cierpliwości, przyjacielu. Obudziłem się dzień później, zupełnie nagi, otoczony płomieniami, których nie czułem... Czułem jednak palący ból w sercu. Próbowałem zebrać tam myśli, gdy zobaczyłem zbliżającego się stalkera, który celował prosto we mnie - to był łowca nagród wysłany przez Sidorowicza. Błagałem o litość i wyciągnąłem rękę, ale on i tak strzelił. Jego kule mnie nie dosięgły... Rozpłynęły się w ścianie płomieni, która pojawiła się przede mną. Wtedy zrozumiałem - Zona dała mi tę nową moc. Łowca nagród również był zszokowany, widząc mnie wciąż żywego po tym, jak płomienie zgasły. Zanim zdążył ponownie pociągnąć za spust, kula ognia wystrzeliła z mojej dłoni prosto w niego, zamieniając go w kupkę pyłu. Zona odpłaciła mi za wszystkie cierpienia i upokorzenia. Zostałem przez nią wybrany!</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_14">
+		<text>Wybrany? Naprawdę myślisz, że to jakieś przeznaczenie? Dziwne rzeczy dzieją się w Zonie każdego dnia... to mógł być zwykły wypadek.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_15">
+		<text>Być może, ale wiem na pewno, że Boris zginął tego dnia. Przyjąłem wtedy nowe imię - Prometeusz.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_16">
+		<text>Prometeusz? To... poetyckie.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_17">
+		<text>Tak... to hołd dla anomalii, która dała mi moje moce.\n \nSpędziłem tam jeszcze kilka dni, ucząc się, jak właściwie i świadomie korzystać z moich mocy. W dniu, w którym się spotkaliśmy, wzniosłem się na nowy poziom... Nauczyłem się czerpać energię z anomalii i wzmacniać je. Poczułem też twoją obecność na Wielkich Bagnach, więc zgaduję, że to ty powstrzymałeś mój mały eksperyment? Potem przybyłem tutaj, aby dalej medytować nad moimi mocami i spójrz, kto znów tu jest. Dlaczego za mną gonisz, stalkerze?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_18">
+		<text>Ja... Myślę, że kierowała mną głównie ciekawość. Jaki jest twój ostateczny cel?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_19">
+		<text>Mój ostateczny cel? Cóż - jest... *wzdycha*... Chyba mamy nieproszonych gości. Do następnego spotkania, stalkerze - żegnaj.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_1_20">
+		<text>Czekaj! Co...</text>
+	</string>
+
+	<string id="bar_informator_mlr_the_living_fire_4_0">
+		<text>Witaj, Kabel! Ja...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_1">
+		<text>Nasz wybawca powrócił! Udało ci się przeżyć - to świetnie! Czyżbyś w końcu uporał się z legendą?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_2">
+		<text>Zamienił oddział wojskowych w chipsy, więc możesz się domyślać, że nie... ale miałem okazję z nim porozmawiać.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_3">
+		<text>To nawet lepiej! Czego się dowiedziałeś?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_4">
+		<text>Poznałem jego imię - Prometeusz. On jest...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_5">
+		<text>Żywy Ogień, Prometeusz - zrodzony w greckim ogniu! Jasna cholera! To jest jeszcze bardziej chwytliwe! Co jeszcze...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_6">
+		<text>Pierdol się, Kabel! Postradałeś zmysły! Zależy ci tylko na pieniądzach! Nic więcej ci nie powiem! </text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_7">
+		<text>Co? Ale co z naszą umową? Czy ty przypadkiem też nie chciałeś zarobić trochę pieniędzy?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_8">
+		<text>Tak, ale odchodzę. Zatrzymaj swoje brudne pieniądze.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_4_9">
+		<text>Pożałujesz tego, stalkerze...</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_0">
+		<text>Sidorowicz - musimy porozmawiać.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_1">
+		<text>O co chodzi? Jestem teraz bardzo zajęty.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_2">
+		<text>Pamiętasz początkującego stalkera o ksywce Boris?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_3">
+		<text>Nie... przez naszą wioskę przewija się wielu nowicjuszy - nie pamiętam wszystkich.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_4">
+		<text>W takim razie - słyszałeś o Żywym Ogniu?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_5">
+		<text>O tej nowej głupiej plotce? Tak. Dlaczego, do cholery, zadajesz mi takie głupie pytania? Nie mam na to czasu...</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_6">
+		<text>A co jeśli powiem ci, że twoje życie jest w niebezpieczeństwie? Boris nazywa się teraz Prometeusz i jest Żywym Ogniem z plotek. Powiedzmy, że nie lubi cię zbytnio... Ponieważ to ty jesteś tym kutasem, który wysłał go na pewną śmierć.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_7">
+		<text>Lepiej zważaj na swoje kolejne słowa! Dlaczego miałbym ci wierzyć?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_8">
+		<text>Miałem okazję z nim porozmawiać. Był twoim pechowym kurierem, który został pobity przez wojsko i którego później wysłałeś z PM-em, aby znalazł niezwykły artefakt. Czy coś ci to teraz przypomina?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_9">
+		<text>Skąd ty to wszystko wiesz?! O kurwa... Ty mówisz poważnie! Dlaczego nie wpakowałeś mu kulki w łeb, kiedy miałeś okazję?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_10">
+		<text>Wyraźnie przegapiłeś ważne fragmenty tej plotki, prawda? Nie tylko ty cenisz swoje życie. Nie sądzę, by dało się go zabić bronią. Najlepiej będzie, jeśli przemówimy mu do rozsądku. Teraz, skoro przypomniałeś sobie wszystko z dobrą motywacją, czy wiesz coś, co pomogłoby mi go odnaleźć?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_11">
+		<text>Wiem, że ten żałosny słabeusz miał tutaj przyjaciela o imieniu Andriej. Trzymali się razem, bo obaj mieli pecha i byli biedni. Już go tu nie ma. Podobno nie tak dawno udał się na północ. Ten głupiec prawdopodobnie już nie żyje...</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_12">
+		<text>Kurwa... niewiele mi to pomaga. W każdym razie - sugerowałbym ci wynajęcie kilku strażników i zainstalowanie odpornych na ciepło drzwi. Jeśli ten facet zdecyduje się złożyć ci wizytę, może to uratować ci życie... Chociaż wątpię.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_the_living_fire_1_13">
+		<text>Heh... zabawny z ciebie facet...</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_the_living_fire_3_0">
+		<text>Jaka jest sytuacja, profesorze?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_3_1">
+		<text>Dobrze cię widzieć, młody człowieku. Sytuacja jest bardzo poważna, więc będę się streszczał.\n \nZauważyliśmy ekstremalny wzrost aktywności anomalnej w podziemnym kompleksie X-16. Nigdy czegoś takiego nie widziałem. To z pewnością sprawka naszego tajemniczego stalkera. Jeśli energia tej wielkości zamieni się w rzeczywiste pole anomalne, całe to miejsce zamieni się w piekło! Wysłaliśmy małą grupę najemników, aby zbadali to miejsce i spotkali przy wejściu pojedynczego stalkera, który otworzył ogień na nasz widok. Najemnicy mieli przewagę liczebną, więc przypuścili szturm. To był błąd... Udało im się zabić stalkera, ale wkrótce potem wydarzyło się coś nieoczekiwanego. Kiedy zaczęli gromadzić się w pobliżu jego ciała, ono nagle eksplodowało. Tylko jeden człowiek z oddziału najemników przeżył - jego ciało zostało poważnie poparzone.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_3_2">
+		<text>To zdecydowanie brzmi jak jakaś sztuczka Prometeusza...</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_3_3">
+		<text>Prometeusz? Czy to imię tego stalkera, którego szukaliśmy?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_3_4">
+		<text>Przepraszam profesorze, ale nie sądzę, abym miał czas wyjaśnić wam wszystko ze szczegółami.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_3_5">
+		<text>Ach, masz rację młody człowieku. Już raz udało ci się powstrzymać rozgałęzienie anomalii, więc mam nadzieję, że uda ci się to zrobić ponownie.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_3_6">
+		<text>Też mam taką nadzieję. Ruszam...</text>
+	</string>
+
+	<string id="the_living_fire_prometheus_the_living_fire_2_0">
+		<text>Co... Co tu się stało? Czym są te wszystkie spalone ciała?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_1">
+		<text>To stalkerzy, którzy podzielają moją wizję. Przyszli mnie szukać po tym, jak mój przyjaciel Andriej, którego niedawno spotkałem, zaczął rozpowszechniać moje przesłanie. Zamierzam oczyścić ten świat ze wszystkich niesprawiedliwych brudów, a oni zgodzili się pomóc mi w tym przedsięwzięciu. Dość już wycierpieli - podobnie jak ja.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_2">
+		<text>Dlaczego oni wszyscy nie żyją?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_3">
+		<text>Nie wszyscy - to tylko kilka nieudanych eksperymentów. Na swojej drodze spotkałeś kilka z tych, które zakończyły się sukcesem.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_4">
+		<text>Co im zrobiłeś? Czy zabicie tych ludzi i zamienienie ich w chodzące bomby nie stawia cię w jednym szeregu z "brudem", który chcesz wyplenić? Zabicie człowieka jest najgorszą zbrodnią!</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_5">
+		<text>Zważaj na słowa bo stąpasz po cienkim lodzie... Wszyscy przyszli do mnie dobrowolnie i zgodzili się na wszystko. Poza tym - to ty zabiłeś tych żywych. Zacząłem cię lubić, więc nie zabiję cię na miejscu - pozwolę ci być świadkiem mojego Magnum Opus.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_6">
+		<text>Twoje co? Co planujesz?</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_7">
+		<text>Nasyciłem tych ludzi moją mocą. Niestety nie wszystkie ciała są w stanie ją wytrzymać. Będą mi służyć jako przekaźnik mocy, gdy nadejdzie czas. Jest jeszcze jedno miejsce, które muszę odwiedzić osobiście - żaden przekaźnik nie byłby w stanie okiełznać jego mocy. Potem... zobaczysz, co będzie dalej. Żegnaj, stalkerze.</text>
+	</string>
+	<string id="the_living_fire_prometheus_the_living_fire_2_8">
+		<text>Znajdę sposób, by cię powstrzymać, Prometeuszu...</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_the_living_fire_4_0">
+		<text>Prof...</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_1">
+		<text>Znowu to zrobiłeś, młody człowieku! Odczyty wracają do normy. Ja...</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_2">
+		<text>To jeszcze nie koniec. Prometeusz uciekł i coś planuje. Nie wiem, co to jest, ale na pewno nie coś dobrego. Będę potrzebował waszej pomocy.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_3">
+		<text>Och... Co mogę dla ciebie zrobić?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_4">
+		<text>Człowiek, którego zabili najemnicy, jest jednym z wyznawców Prometeusza. Nasycił ich swoją mocą i planuje użyć ich jako swego rodzaju przekaźnika mocy. Będziemy musieli wykorzystać wasze kontakty z władzami.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_5">
+		<text>Rozumiem. Chcesz, żebym poprosił wojsko o ochronę jak największej liczby anomalii termicznych i pozbycie się podejrzanych stalkerów, gdy się zbliżą, prawda?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_6">
+		<text>Nie do końca. Myślę, że Prometeusz poczuje to, gdy straci więź ze swoimi wyznawcami. Musimy sprawić, by myślał, że wszystko jest w porządku. Będzie próbował użyć całej tej mocy na raz, więc jeśli pozbędziemy się wszystkich jego przekaźników mocy w tym samym czasie, prawdopodobnie wyczerpie zbyt dużo własnej mocy, zanim zda sobie sprawę z tego, co się stało. To może dać mi szansę na zakończenie jego życia.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_7">
+		<text>To bardzo ryzykowny plan... Nie sądzę jednak, byśmy mieli jakiekolwiek inne opcje.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_8">
+		<text>Prawdopodobnie nie. Spróbuję użyć jakiejś potężnej broni, by zwiększyć szansę na sukces. Karabin Gaussa powinien wystarczyć.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_9">
+		<text>To brzmi jak plan. Wiesz, gdzie on teraz jest?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_10">
+		<text>Powiedział, że będzie musiał osobiście odwiedzić pewną anomalię, aby wykorzystać jej moc. Czy wiecie może, o której anomalii mówił?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_11">
+		<text>Jest jedna anomalia o wyjątkowo wysokiej energii. Znajduje się w Czerwonym Lesie, ale wątpię, by wojsko zgodziło się wysłać tam ludzi. To zbyt ryzykowne... Będziesz musiał najpierw sam ją zabezpieczyć. Jeśli zacznie się rozgałęziać, mam nadzieję, że uda ci się ją powstrzymać.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_4_12">
+		<text>Dziękuję, profesorze. Dam wam znać, gdy miejsce będzie bezpieczne. Do widzenia!</text>
+	</string>
+
+	<string id="bar_informator_mlr_the_living_fire_5_0">
+		<text>Ty mały szczurze... Powiedz mi, dlaczego nie miałbym ci teraz wpakować kulki w łeb?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_1">
+		<text>Co? O czym ty mówisz?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_2">
+		<text>Spotkałem się z oddziałem, który za mną wysłałeś. Wszyscy zginęli i teraz twoja kolej.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_3">
+		<text>Czekaj! Nie wynająłem żadnego oddziału! Jakiś czas temu odwiedzili mnie poważni ludzie i zaczęli wypytywać o Prometeusza. Właśnie im powiedziałem, że jesteś osobą, która wie o nim najwięcej. Nie wiedziałem, że cię napadną. To był tylko interes...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_4">
+		<text>Gówno mnie to obchodzi, Kabel! Mogłem zginąć... więc teraz powtórzę moje pytanie. Dlaczego nie powinienem cię teraz zabić?</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_5">
+		<text>Czekaj! A co powiesz na darmowe informacje w zamian za moje życie? Nazwijmy to rekompensatą za poniesione straty. Zapewniam, że ci się przydadzą...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_6">
+		<text>Zamieniam się w słuch...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_7">
+		<text>Wolnościowcy złapali w swojej bazie jakiegoś kaznodzieję. Najwyraźniej był to przyjaciel Prometeusza. Wolność wycisnęła z niego więcej informacji... Będą się zbierać na Przedmieściach Prypeci bo podobno szykuje się tam "coś wielkiego". Wspomniał o kinie Prometeusz.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_8">
+		<text>Cholera... Jego Magnum Opus... Nie mógł wymyślić sobie lepszego miejsca.</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_9">
+		<text>Jego co? Co ty...</text>
+	</string>
+	<string id="bar_informator_mlr_the_living_fire_5_10">
+		<text>Odkupiłeś swoje winy, Kabel. Muszę już iść!</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_the_living_fire_5_0">
+		<text>Wróciłem, profesorze. Prometeusza już nie ma - widziałem jak eksplodował na własne oczy. Nie byłoby to możliwe bez waszych koneksji. Czego ode mnie chcieliście?</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_5_1">
+		<text>Chciałem ci podziękować, młody człowieku. Może i wojsko pomogło nam w powstrzymaniu Prometeusza, ale to ty tak naprawdę zbadałeś tę sprawę i doprowadziłeś ją do końca, ryzykując własnym życiem.\n \nNie jestem pewien, co Prometeusz robił w tym momencie, ale w jakiś sposób udało mu się zdalnie wzmocnić największą anomalię w Zonie, która znajduje się dalej na północ niż CzEJ... Gdybyś go nie powstrzymał, zginęłoby wielu ludzi. Masz wyrazy mojej wdzięczności.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_5_2">
+		<text>Cóż - on też chciał mnie zabić, więc nie miałem innego wyboru...</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_5_3">
+		<text>Być może *śmieje się*...\n \nW każdym razie - nadal zasługujesz na nagrodę. Moi koledzy pomagali wojsku w pobliżu anomalii, które Prometeusz odwiedził osobiście. Po jego śmierci w Greckim Ogniu narodził się wyjątkowy artefakt. Chciałbym, abyś go wziął. Wygląda na to, że ma on zły wpływ na moich kolegów i wolałbym, aby nie pojawił się kolejny oszalały na punkcie mocy człowiek.\n \nPrzeżyłeś wiele spotkań z Prometeuszem, więc coś w tobie widział... Wierzę, że to coś ochroni cię przed wpływem tego artefaktu.</text>
+	</string>
+	<string id="yan_stalker_sakharov_the_living_fire_5_4">
+		<text>Dziękuję, profesorze. Mam nadzieję, że nie stracę zdrowego rozsądku!</text>
+	</string>
+</string_table>

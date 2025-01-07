@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="st_wpn_mossberg590a1_rail">
+		<text>Mossberg 590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_rail_s">
+		<text>M590</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_rail_descr">
+		<text>
+		Mossberg 590A1 to bezkolbowa strzelba pump-action zaprojektowana przez Carla Bensona.\n
+		Zmodyfikowany na prośbę marynarki wojennej, ten ulepszony model ma aluminiową osłonę spustu i zabezpieczenie, cięższą lufę i zaczep na bagnet.\n
+		Przeznaczona do użytku w ekstremalnych warunkach, broń ta stała się standardową strzelbą w wojsku Stanów Zjednoczonych.\n
+		Ten konkretny model zawiera szynę Picatinny do montażu różnych akcesoriów taktycznych.\n \n
+		%c[ui_gray_3]PASUJĄCE AKCESORIA:\n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: ACOG, Aimpoint T1, Barska ES AC10632, C-More, Docter III, ELCAN SpecterDr, EOTech, EOTech XPS3-0\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mossberg590a1_wood">
+		<text>Mossberg 590A1 "Retrograde"</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_wood_s">
+		<text>Wooden M590</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_wood_descr">
+		<text>
+		Mossberg 590A1 to bezkolbowa strzelba pump-action zaprojektowana przez Carla Bensona.\n
+		Zmodyfikowany na prośbę marynarki wojennej, ten ulepszony model ma aluminiową osłonę spustu i zabezpieczenie, cięższą lufę i zaczep na bagnet.\n
+		Przeznaczona do użytku w ekstremalnych warunkach, broń ta stała się standardową strzelbą w wojsku Stanów Zjednoczonych.\n
+		Modele Retrograde wyposażone są w orzechową kolbę z chwytem ze wzorem w kratkę, wentylowaną podkładkę odrzutową i dopasowany chwyt przedni.\n \n
+		</text>
+	</string>
+	
+	<string id="st_wpn_mossberg590a1">
+		<text>Mossberg 590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_s">
+		<text>M590</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_descr">
+		<text>
+		Mossberg 590A1 to bezkolbowa strzelba pump-action zaprojektowana przez Carla Bensona.\n
+		Zmodyfikowany na prośbę marynarki wojennej, ten ulepszony model ma aluminiową osłonę spustu i zabezpieczenie, cięższą lufę i zaczep na bagnet.\n
+		Przeznaczona do użytku w ekstremalnych warunkach, broń ta stała się standardową strzelbą w wojsku Stanów Zjednoczonych.\n
+		Ten konkretny model zawiera pierścień widmowy ułatwiający celowanie.\n \n
+		</text>
+	</string>
+	
+</string_table>

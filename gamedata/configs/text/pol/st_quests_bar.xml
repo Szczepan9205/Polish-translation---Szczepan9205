@@ -22,7 +22,7 @@
 		<text>WeŸ kolejne zdanie</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_text">
-		<text>Otrzymaj kolejne zadanie.</text>
+		<text>Wróæ do Pietrenki po kolejne zadanie.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_about">
 		<text>Mój, powiedzmy, znajomy potrzebuje pomocy. Prawdziwa z niego szuja, ale przyda³ by siê ktoœ, kto móg³by mu asystowaæ. Zajrzyj do niego i zobacz, czego chce.</text>
@@ -102,7 +102,7 @@
 		<text>WeŸ kolejne zadanie</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_text">
-		<text>Otrzymaj kolejne zadanie.</text>
+		<text>Wróæ do Majstra po kolejne zadanie.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_about">
 		<text>Mojemu przyjacielowi przyda³a by siê twoja pomoc. IdŸ siê z nim zobaczyæ.</text>
@@ -124,7 +124,7 @@
 		<text>Brachu, potrzebna mi pomoc. Jeden z naszych przyniós³ mi do posk³adania swoj¹ lufê, ale coœ spieprzy³em i nie chce dzia³aæ. Muszê znaleŸæ zamiennik, zanim zg³osi siê po odbiór.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_about">
-		<text>Je¿eli znajdziesz %s, to przynieœ mi tê broñ. Nie posiadam za du¿o pieniêdzy, ale byæ mo¿e mam coœ, co móg³bym za ni¹ wymieniæ.</text>
+		<text>Je¿eli znajdziesz %s, to przynieœ mi tê broñ. Nie mam za du¿o pieniêdzy, ale byæ mo¿e mam coœ, co móg³bym za ni¹ wymieniæ.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_finish">
 		<text>Hej, œwietnie! Uda³o ci siê j¹ znaleŸæ. Dziêki brachu, uratowa³eœ mi ty³ek.</text>
@@ -140,7 +140,7 @@
 		<text>Majster potrzebuje kogoœ do oczyszczenia z mutantów drogi z Baru.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_about">
-		<text>Hej brachu, móg³byœ coœ dla mnie zrobiæ? Muszê dostaæ siê w pewne miejsce, ale s³ysza³em, ¿e na drodze z Baru zagnieŸdzi³y siê mutanty. Kiepski ze mnie strzelec - jak tylko mam nacisn¹æ spusty, rêce zaczynaj¹ mi lataæ, jak w febrze. Móg³byœ siê ich dla mnie pozbyæ? Mam karabin, po który klient nigdy siê nie zg³osi³, wiêc w nagrodê podarujê ci go.</text>
+		<text>Hej brachu, móg³byœ coœ dla mnie zrobiæ? Muszê dostaæ siê w pewne miejsce, ale s³ysza³em, ¿e na drodze z Baru zagnieŸdzi³y siê mutanty. Kiepski ze mnie strzelec - jak tylko mam nacisn¹æ spust, rêce zaczynaj¹ mi lataæ, jak w febrze. Móg³byœ siê ich dla mnie pozbyæ? Mam karabin, po który klient nigdy siê nie zg³osi³, wiêc w nagrodê podarujê ci go.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_finish">
 		<text>Dziêki brachu. Oto obiecany karabin. Mam nadziejê, ¿e bêdziesz mia³ wiêcej szczêœcia, ni¿ jego poprzedni w³aœciciel... biedny facet. Dobrze, ¿e zanim zmar³ zd¹¿y³ mi zap³aciæ, he he.</text>
@@ -159,7 +159,7 @@
 		<text>Miêdzy m³otem a kowad³em</text>
 	</string>	
 	<string id="bar_dolg_leader_task_1_text">
-		<text>Genera³ Woronin planuje rozprawienie siê z wrogami Powinnoœci. WeŸ %s jako dowód wykonania zadania.</text>
+		<text>Genera³ Woronin planuje rozprawienie siê z wrogami Powinnoœci. Mam zebraæ %s jako dowód wykonania zadania.</text>
 	</string>		
 	<string id="bar_dolg_leader_task_1_about">
 		<text>Pos³uchaj, stalkerze. Staramy pozbyæ siê wszelkiej zarazy Zony, ale nie mo¿emy ignorowaæ naszych obowi¹zków wobec niewinnych, ¿yj¹cych tu ludzi. Praktycznie wszêdzie przeciêtny stalker jest nêkany i manipulowany przez hordy wyrzutków, anarchistów i ekstremistów napêdzanych chciwoœci¹, przes¹dami i z³udzeniami! \n \nOczywiœcie, naszym najwiêkszym zagro¿eniem s¹ obecne w Zonie monstra, ale musimy te¿ mieæ pewnoœæ, ¿e wolni stalkerzy nie bêd¹ wprowadzani w b³¹d, czy mylnie nagabywani, przez co potem ucierpi¹! Zajmij siê pata³achami, którzy zaczepiaj¹ Bogu ducha winnych ch³opaków raz, a porz¹dnie.</text>
@@ -178,7 +178,7 @@
 		<text>Duch zemsty</text>
 	</string>
 	<string id="bar_dolg_leader_task_2_text">
-		<text>Woronin chce wyeliminowaæ niebezpiecznego mutanta grasuj¹cego na Cmentarzysku Pojazdów.</text>
+		<text>Woronin chce by wyeliminowaæ niebezpiecznego mutanta grasuj¹cego na Cmentarzysku Pojazdów.</text>
 	</string>
 	<string id="bar_dolg_leader_task_2_about">
 		<text>Nasze patrole meldowa³y ostatnio o wyj¹tkowo niebezpiecznym mutancie grasuj¹cym na Cmentarzysku Pojazdów. Potwór zd¹¿y³ ju¿ odebraæ ¿ycie kilku dobrym ludziom, ale nie mamy szans na wytropienie go w ci¹gu dnia. Bestia musi zostaæ natychmiast powstrzymana. Zaczekaj do zmroku, gdy bêdzie bardziej nieuwa¿na. Wytrop to paskudztwo i zabij je.</text>
@@ -200,10 +200,10 @@
 		<text>Sam na placu boju</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_text">
-		<text>Agent dzia³aj¹cy pod przykrywk¹ potrzebuje pomocy. Zabij cz³onków oddzia³u, z którym siê przemieszcza i eskortuj go w drodze powrotnej do bazy. Szpieg u¿ywa SWD.</text>
+		<text>Agent Powinnoœci dzia³aj¹cy pod przykrywk¹ potrzebuje pomocy. Zabij cz³onków oddzia³u wrogiej frakcji, z którym siê przemieszcza i eskortuj go w drodze powrotnej do bazy. Szpieg u¿ywa SWD.</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_about">
-		<text>Mamy w szeregach wroga wielu agentów operacyjnych dzia³aj¹cych pod przykrywk¹, ale obawiamy siê, ¿e wróg zacz¹³ coœ podejrzewaæ wobec jednego z nich. Agent przegapi³ kilka ostatnich prób kontaktu, nie zostawi³ nam ¿adnych informacji. Zapewne jest obserwowany, wiêc nie mo¿e sobie pozwoliæ na ¿aden podejrzany ruch. Musimy go stamt¹d wyci¹gn¹æ.\n \nUda³o nam siê zlokalizowaæ jego sygna³ w okolicy, ale przebywa w towarzystwie innych stalkerów. W pierwszej kolejnoœci musisz siê ich pozbyæ, a nastêpnie eskortowaæ tego agenta do naszej bazy. Rozpoznasz go po karabinie, którego u¿ywa - SWD. Aby zachowaæ przykrywkê, otworzy w twoim kierunku ogieñ, wiêc zaplanuj wszystko odpowiednio.</text>
+		<text>Mamy w szeregach wroga wielu agentów operacyjnych dzia³aj¹cych pod przykrywk¹, ale obawiamy siê, ¿e wróg zacz¹³ coœ podejrzewaæ wobec jednego z nich. Agent przegapi³ kilka ostatnich prób kontaktu, nie zostawi³ nam ¿adnych informacji. Zapewne jest obserwowany, wiêc nie mo¿e sobie pozwoliæ na ¿aden podejrzany ruch. Musimy go stamt¹d wyci¹gn¹æ.\n \nUda³o nam siê zlokalizowaæ jego sygna³ w okolicy, ale przebywa w towarzystwie innych stalkerów. W pierwszej kolejnoœci musisz siê ich pozbyæ, a nastêpnie eskortowaæ tego agenta do naszej bazy. Rozpoznasz go po karabinie, którego u¿ywa - SWD. Aby zachowaæ przykrywkê, otworzy w twoim kierunku ogieñ, wiêc odpowiednio wszystko zaplanuj.</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_finish">
 		<text>Œwietnie, natychmiast ka¿ê go powiadomiæ.</text>
@@ -225,7 +225,8 @@
 		<text>ZgromadŸ 12.000 RU i zanieœ je Pu³kownikowi Pietrence jako znak twojego zaanga¿owania w sprawê Powinnoœci.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_about">
-		<text>Domyœlam siê, ¿e chcia³byœ do³¹czyæ do Powinnoœci, co? Prosisz o nie byle jakie wyró¿nienie stalkerze. Wydaje ci siê, ¿e masz wszystko, czego potrzeba, by chroniæ œwiat przed horrorami Zony? By skonfrontowaæ siê z kryminalistami i anarchistami, gdziekolwiek ich spotkasz, niezale¿nie od tego, czy s¹ sami, czy przebywaj¹ w grupie? By postawiæ wartoœci, którymi jest bezpieczeñstwo niewinnych oraz Powinnoœci, nad swoimi w³asnymi?\n \nPamiêtaj, ¿e bierzemy na swoje barki ciê¿ar, którego nikt inny nie poniesie. Je¿eli mówisz powa¿nie, przynieœ dwanaœcie tysiêcy rubli na znak twojego oddania naszej sprawie, a zarekomendujê ciê naszemu Genera³owi.</text>
+		<text>Domyœlam siê, ¿e chcia³byœ do³¹czyæ do Powinnoœci, co? Prosisz o nie byle jakie wyró¿nienie stalkerze. Wydaje ci siê, ¿e masz wszystko, czego potrzeba, by chroniæ œwiat przed horrorami Zony? By skonfrontowaæ siê z kryminalistami i anarchistami, gdziekolwiek ich spotkasz, niezale¿nie od tego, czy s¹ sami, czy przebywaj¹ w grupie? By postawiæ wartoœci, którymi jest bezpieczeñstwo niewinnych oraz Powinnoœci, nad swoimi w³asnymi?\n \n
+		Pamiêtaj, ¿e bierzemy na swoje barki ciê¿ar, którego nikt inny nie poniesie. Je¿eli mówisz powa¿nie, przynieœ dwanaœcie tysiêcy rubli na znak twojego oddania naszej sprawie, a zarekomendujê ciê naszemu Genera³owi.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_finish">
 		<text>Od teraz jesteœ oficjalnie cz³onkiem Powinnoœci. Mam nadziejê, ¿e spe³nisz nasze oczekiwania.</text>
@@ -251,10 +252,10 @@
 		<text>Ogieñ zwalczaj ogniem</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
-		<text>Dosta³eœ rozkaz przeprowadzeniu szturmu na terytorium wroga dla Powinnoœci. Po wykonaniu rozkazu zamelduj siê Pu³kownikowi Pietrence.</text>
+		<text>PrzeprowadŸ szturm na terytorium wroga dla Powinnoœci.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
-		<text>Mam dla Ciebie wa¿ne zadanie. Anarchiœci i rebelianci zbyt d³ugo okupuj¹ by³e terytorium Specnazu. Jeœli mo¿esz to zaplanuj, przygotuj, i przeprowadŸ atak na wyznaczone pozycje by os³abiæ morale wroga. Zostaniesz dobrze wynagrodzony.</text>
+		<text>Mam dla ciebie wa¿ne zadanie. Anarchiœci i rebelianci zbyt d³ugo okupuj¹ by³e terytorium Specnazu. Jeœli mo¿esz to zaplanuj, przygotuj, i przeprowadŸ atak na wyznaczone pozycje by os³abiæ morale wroga. Zostaniesz dobrze wynagrodzony.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
 		<text>Dziêkujê, stalkerze. Powinnoœæ jest ci wdziêczna.</text>
@@ -264,7 +265,7 @@
 		<text>Rozkaz eliminacji</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
-		<text>Genera³ Pietrenko wyda³ ci rozkaz znalezienia i wyeliminowania celu.</text>
+		<text>Pu³kownik Pietrenko wyda³ ci rozkaz znalezienia i wyeliminowania celu.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
 		<text>Mam kilku osobników, których trzeba siê pozbyæ. Cele to najczêœciej mordercy, gwa³ciciele, dezerterzy, szpiedzy wroga lub jego stratedzy. Ten konkretny cel jest aktualnie najbardziej natarczywy.\n \nPozbywaj¹c siê go pomo¿esz nie tylko Powinnoœci, ale równie¿ ludziom myœl¹cym podobnie do nas, którzy przebywaj¹ w Zonie.</text>
@@ -277,7 +278,7 @@
 		<text>Wiedza to potêga</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
-		<text>Pietrenko chce, abym znalaz³ dla Powinnoœci %s do badañ.</text>
+		<text>Pu³kownik Pietrenko chce, abym znalaz³ %s dla Powinnoœci do badañ.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_about">
 		<text>Genera³ chce, aby rekruci Powinnoœci byli bardziej wyedukowani w zakresie rzeczy, z którymi przyjdzie im siê zmierzyæ w Zonie. Aby tego dokonaæ, bêd¹ nam potrzebne œwie¿e próbki do badañ. By³byœ zainteresowany zdobyciem dla nas kilku z nich?</text>
@@ -295,46 +296,46 @@
 		<text>ZnajdŸ %s dla Majstra</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_text">
-		<text>%s s¹ potrzebne Majstrowi, aby móg³ instalowaæ podstawowe ulepszenia broni i pancerzy. Przynieœ mu je, jeœli uda ci siê jakieœ znaleŸæ.</text>
+		<text>Majstrowi przyda³yby siê %s, aby móg³ instalowaæ podstawowe ulepszenia broni i kombinezonów. Przynieœ mu je, jeœli uda ci siê jakieœ znaleŸæ.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_about">
-		<text>Przyda³by mi siê dobry zestaw narzêdzi, stalkerze... i mo¿e trochê kasy. Je¿eli chcia³byœ mi pomóc, to powiem ci czego mi potrzeba.</text>
+		<text>Taa... Mamy Wolnoœæ na pó³nocy, bandytów na po³udniowym wschodzie i najemników na zachodzie. To wielu wrogów dlatego muszê siê upewniæ, ¿e Powinnoœæ ma przewagê, której potrzebuje pod wzglêdem wyposa¿enia. Przyda³yby mi siê nowe narzêdzia, nawet te podstawowe. Jeœli przyniesiesz mi takie, poka¿ê ci, na czym polega ten ca³y biznes z ulepszaniem sprzêtu. Taka inwestycja dobrze ci siê zwróci, nie martw siê.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
-		<text>Potrzebujê zestawu narzêdzi podstawowych. Zestaw powinien zawieraæ to czego mi potrzeba. Jeœli bêdziesz w stanie mi jakieœ przynieœæ, to bêdê ci wdziêczny, a nawet zaoferujê ci jak¹œ zni¿kê.</text>
+		<text>Zrobisz to? W sensie... oczywiœcie, ¿e to zrobisz! Wracaj najszybciej jak siê da, Powinnoœæ ich potrzebuje!</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
-		<text>To œwietna wiadomoœæ, stary! Dziêki tobie mogê wracaæ do pracy.</text>
+		<text>Nareszcie! W koñcu bêdê mia³ coœ do roboty, co nie jest tylko prac¹ konserwacyjn¹ lub piciem na umór.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_name">
 		<text>ZnajdŸ %s dla Majstra</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_text">
-		<text>%s s¹ potrzebne Majstrowi, aby móg³ instalowaæ zaawansowane ulepszenia broni i pancerzy. Przynieœ mu je, jeœli uda ci siê jakieœ znaleŸæ.</text>
+		<text>Majstrowi przyda³yby siê %s, aby móg³ instalowaæ zaawansowane ulepszenia broni i kombinezonów. Przynieœ mu je, jeœli uda ci siê jakieœ znaleŸæ.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_about">
-		<text>Hej, stary, je¿eli znalaz³byœ dla mnie zestaw narzêdzi zaawansowanych to dam ci wiêksz¹ zni¿kê. Poszuka³byœ jakiœ dla mnie?</text>
+		<text>Po tym, co przynios³eœ mi ostatnim razem zaczynaj¹ ponosiæ mnie ambicje. Narzêdzia, które przynios³eœ ostatnio, wystarcz¹ mi na wieki, ale w tej chwili potrzebowa³bym czegoœ bardziej zaawansowanego. Co ty na to?</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
-		<text>Potrzebny mi zestaw narzêdzi zaawansowanych. Powinien zawieraæ to, co bêdzie mi potrzebne. Je¿eli bêdziesz w stanie mi jakieœ przynieœæ, to bêdê ci wdziêczny, a nawet zaoferujê ci wiêksz¹ zni¿kê.</text>
+		<text>Ach, zrobisz to? Genialne! Ju¿ prawie czujê zimny, twardy metal w d³oniach.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
-		<text>Œwietnie! Teraz ludzie siê o mnie dowiedz¹, stalkerze... O ile uda mi siê zdobyæ wiêksz¹ iloœæ klientów.</text>
+		<text>Wow, uda³o ci siê! Ha ha ha! Czy ja siê trzêsê? Trzêsê siê! To pewnie z zachwytu!</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_name">
 		<text>ZnajdŸ %s dla Majstra</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_text">
-		<text>%s s¹ potrzebne Majstrowi, aby móg³ instalowaæ najlepsze ulepszenia broni i pancerzy. Przynieœ mu je, je¿eli uda ci siê jakieœ znaleŸæ.</text>
+		<text>Majstrowi przyda³yby siê %s, aby móg³ instalowaæ najlepsze ulepszenia broni i kombinezonów. Przynieœ mu je, je¿eli uda ci siê jakieœ znaleŸæ.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_about">
-		<text>Hej, stary, jeœli znalaz³byœ dla mnie jeszcze zestaw narzêdzi precyzyjnych, to dam ci bardzo du¿¹ zni¿kê. Poszuka³byœ jakichœ dla mnie?</text>
+		<text>Nadal nie mogê uwierzyæ, co ostatnio dla mnie zrobi³eœ, stalkerze! Nawet niektórzy neutralni stalkerzy przychodz¹ ju¿ do mnie po ulepszenia! Ale w g³êbi serca wiem, ¿e nie radzê sobie tak dobrze, jak bym móg³. Gdybym tylko mia³ lepsze narzêdzia... S³uchaj, stalkerze. Przynieœ mi narzêdzia precyzyjne, a bêdê twoim d³u¿nikiem. Móg³bym wtedy zrobiæ z twojej broni arcydzie³o! Oczywiœcie nie mogê ulepszyæ twojego sprzêtu za darmo, ale pomyœlê, jak móg³bym siê odwdziêczyæ.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
-		<text>Potrzebny mi zestaw narzêdzi precyzyjnych. Powinien zawieraæ to czego aktualnie potrzebujê. Jeœli bêdziesz w stanie mi jakieœ przynieœæ, to bêdê ci dozgonnie wdziêczny, a nawet zaoferujê ci jeszcze wiêksz¹ zni¿kê.</text>
+		<text>Dziêki, stalkerze. Jeœli ci siê uda, na pewno poinformujê o tym genera³a.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
-		<text>Œwietnie! Teraz bêdê najlepszym technikiem w okolicy, stalkerze... O ile uda mi siê zdobyæ jeszcze wiêksz¹ iloœæ klientów.</text>
+		<text>S³owo powinnoœciowca jest jego powinnoœci¹. Jesteœ doœwiadczonym technikiem? Jeœli nie, to mo¿e uda mi siê pokazaæ ci kilka sztuczek dotycz¹cych konserwacji sprzêtu w terenie.</text>
 	</string>
 	
 	
@@ -394,7 +395,7 @@
 		<text>Jeden z moich klientów chcia³by mieæ trofeum przedstawiaj¹ce konkretny gatunek mutanta. Zainteresowany?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_4_fetch_about">
-		<text>Wiedzia³eœ, ¿e Zona jest tak¿e domem dla jubilerów i taksydermistów (osoby zajmuj¹ce siê preparowaniem i wypychaniem zwierzêcych zw³ok) Z czêœci mutantów wytwarza siê prawdziwie wyj¹tkowe skóry, bi¿uteriê i ca³¹ masê wszelkiej maœci pierdó³. Klienci z Du¿ej Ziemi zamawiaj¹ te¿ czasem kopyta, a nawet mózgi konkretnych mutantów. Tak, s¹ takie œwiry!\n \nJeœli chcia³byœ pomóc, przynieœ mi %s, a ja zadbam, ¿eby pieni¹dze wyl¹dowa³y w twojej kieszeni.</text>
+		<text>Wiedzia³eœ, ¿e Zona jest tak¿e domem dla jubilerów i taksydermistów - s¹ to osoby zajmuj¹ce siê preparowaniem i wypychaniem zwierzêcych zw³ok. Z czêœci mutantów wytwarza siê prawdziwie wyj¹tkowe skóry, bi¿uteriê i ca³¹ masê wszelkiej maœci pierdó³. Klienci z Du¿ej Ziemi zamawiaj¹ te¿ czasem kopyta, a nawet mózgi konkretnych mutantów. Tak, s¹ takie œwiry!\n \nJeœli chcia³byœ pomóc, przynieœ mi %s, a ja zadbam, ¿eby pieni¹dze wyl¹dowa³y w twojej kieszeni.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_4_fetch_finish">
 		<text>Zuch ch³opak. Oto twoja zap³ata.</text>
@@ -407,7 +408,7 @@
 		<text>Przechwyæ zaszyfrowane dokumenty i dostarcz je do Barmana.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_5_about">
-		<text>Niedawno pewien stalker wygada³ siê na temat schowka zawieraj¹cego doœæ intryguj¹ce dokumenty. Dam ci namiary na skrytkê, zdobêdziesz dla mnie te kwity. Nie bój ¿aby, zostaniesz odpowiednio wynagrodzony. Reszta gratów, które znajdziesz, kompletnie mnie nie interesuje. Bêdziesz móg³ je zatrzymaæ dla siebie.</text>
+		<text>Niedawno pewien stalker wygada³ siê na temat schowka zawieraj¹cego doœæ intryguj¹ce dokumenty. Dam ci namiary na schowek, zdobêdziesz dla mnie te kwity. Nie bój ¿aby, zostaniesz odpowiednio wynagrodzony. Reszta gratów, które znajdziesz, kompletnie mnie nie interesuje. Bêdziesz móg³ je zatrzymaæ dla siebie.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_5_finish">
 		<text>Œwietna robota, stalkerze.</text>
@@ -418,16 +419,16 @@
 		<text>Wielka Orkiestra Stalkerskiej Pomocy</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_text">
-		<text>%s jest potrzeby Apapowi do pracy nad medykamentami. Powinieneœ dostarczyæ mu wszystko, co uda ci siê znaleŸæ.</text>
+		<text>Apap potrzebuje %s do pracy nad medykamentami. Powinieneœ dostarczyæ mu wszystko, co uda ci siê znaleŸæ.</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_about">
 		<text>Bior¹c pod uwagê to, co zosta³o z naszych zapasów medycznych i to, jak¹ liczb¹ urazów muszê siê dziennie zajmowaæ, zaczynam siê powa¿nie martwiæ, stalkerze. Prêdzej czy póŸniej zabraknie mi banda¿y i apteczek. Chcia³bym, ¿ebyœ znalaz³ mi jeden z tych starych zestawów do produkcji leków. Jestem pewien, ¿e siê przyda.</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_fetch_about">
-		<text>%s jest mi absolutnie niezbêdny do dalszej pracy. Powinien zawieraæ jakieœ tabletki i ampu³ki, dziêki którym bêdê w stanie przygotowaæ medykamenty. Zap³acê ci za jeden z takich zestawów, jeœli znajdziesz go w nienaruszonym stanie.</text>
+		<text>Tak, jest. Idea³y Powinnoœci zmuszaj¹ j¹ do zapewnienia Rostokowi niedrogiej opieki medycznej. Bior¹c pod uwagê stan, w jakim znajduje siê Zona, uwierz mi, kiedy mówiê, ¿e ka¿da drobnostka siê przyda. Wiêc jeœli znajdziesz %s, przynieœ go do mnie. Nie tylko otrzymasz rekompensatê, ale bêdê móg³ poszerzyæ asortyment leków, które mogê skutecznie syntetyzowaæ, co przyniesie korzyœci nam wszystkim.</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_fetch_finish">
-		<text>Dobra robota! Jestem ci naprawdê wdziêczny.</text>
+		<text>Heh, najwy¿szy czas! Rostok ci za to podziêkuje, zapamiêtaj moje s³owa.</text>
 	</string>
 	
 <!-- Snitch (100 Rads) -->
@@ -435,16 +436,16 @@
 		<text>Top 10: #$num. $name</text>
 	</string>
 	<string id="top_10_task_description">
-		<text>Szpicel: Twoim aktualnym celem jest $comm, znany jako: $name. Widziano go ostatnio w tym miejscu: $map. Powodzenia.</text>
+		<text>Kabel: Twoim aktualnym celem jest $comm, znany jako: $name. Widziano go ostatnio w tym miejscu: $map. Powodzenia.</text>
 	</string>
 	<string id="top_10_task_name_finish">
-		<text>Top 10: Wróæ do Szpicla po nagrodê.</text>
+		<text>Top 10: Wróæ do Kabla po nagrodê.</text>
 	</string>
 	<string id="top_10_task_description_finish">
-		<text>Szpicel: Wiêc uda³o ci siê, co? Brawo! Zajrzyj do baru Sto Radów, kasa ju¿ na ciebie czeka.</text>
+		<text>Kabel: Wiêc uda³o ci siê, co? Brawo! Zajrzyj do baru 100 Radów, kasa ju¿ na ciebie czeka.</text>
 	</string>
 	<string id="st_task_info_awaiting">
-		<text>Oczekiwanie na informacje.</text>
+		<text>Oczekiwanie na informacje...</text>
 	</string>
 
 </string_table>

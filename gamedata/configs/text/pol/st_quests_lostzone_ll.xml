@@ -63,10 +63,10 @@
 		<text>¯ywa Legenda: Podziemna kryjówka</text>
 	</string>
 	<string id="lttz_ll_visit_agro_ug_text">
-		<text>Doktor zasugerowa³, ¿ebyœ odwiedzi³ kryjówkê Strie³oka w podziemiach Agropromu. Mo¿e tam znajdziesz jakieœ poszlaki.</text>
+		<text>Doktor zasugerowa³, ¿eby odwiedziæ kryjówkê Strie³oka w podziemiach Agropromu w poszukiwaniu wskazówek na temat jego miejsca pobytu.</text>
 	</string>
 	<string id="lttz_ll_visit_agro_ug_text_2">
-		<text>Z notatek Doktora wynika, ¿e Strie³ok ma kryjówkê w podziemiach Agropromu. Mo¿e tam znajdziesz jakieœ poszlaki.</text>
+		<text>Z notatek Doktora wynika, ¿e Strie³ok ma kryjówkê w podziemiach Agropromu. Trzeba j¹ odwiedziæ, aby uzyskaæ wskazówki na temat jego miejsca pobytu.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -84,7 +84,7 @@
 		<text>¯ywa Legenda: Pod¹¿aj¹c œladem</text>
 	</string>
 	<string id="lttz_ll_visit_aslan_task_descr">
-		<text>Aslan wie sporo o pó³nocnych czêœciach Zony. IdŸ siê z nim spotkaæ.</text>
+		<text>Aslan wie sporo o pó³nocnych czêœciach Zony. Trzeba z³o¿yæ mu wizytê.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -156,8 +156,8 @@
 	<string id="lttz_ll_wpn_gauss_quest_descr">
 		<text>Niesamowicie celny i potê¿ny prototyp broni opartej na zasadzie przyspieszania za pomoc¹ elektromagnesów. Korzysta z energii artefaktów elektrycznych. Potrafi przebiæ nawet najgrubszy pancerz.\n \nWygl¹da na to, ¿e ktoœ porzuci³ ten zminiaturyzowany do rozmiarów zwyk³ej broni egzemplarz w hali testów pe³nowymiarowego prototypu.\n \n
 		%c[0,255,255,255]CHARAKTERYSTYKI:\n
-		%c[d_cyan] • %c[0,255,255,255] kraj pochodzenia: %c[ui_gray_1]Rosja\n
-		%c[d_cyan] • %c[0,255,255,255] producent: %c[ui_gray_1]nieznany\n
+		%c[d_cyan] • %c[0,255,255,255] Kraj pochodzenia: %c[ui_gray_1]Rosja\n
+		%c[d_cyan] • %c[0,255,255,255] Producent: %c[ui_gray_1]Nieznany\n
 		</text>
 	</string>
 	
@@ -182,7 +182,7 @@
 		<text>¯ywa Legenda: Zaopatrzenie medyczne</text>
 	</string>
 	<string id="lttz_ll_medical_supplies_text">
-		<text>Ig³a, medyk grupy Strie³oka, poprosi³ ciê o: %s.</text>
+		<text>Ig³a, medyk grupy Strie³oka, poprosi³ o %s.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -194,7 +194,7 @@
 		<text>Niezwykle niebezpieczny nibyolbrzym ¿eruje w Prypeci. Zabij go, by nie przeszkodzi³ wam w dalszych dzia³aniach.</text>
 	</string>
 	<string id="lttz_ll_return_rogue_attack_on_titan_task_descr">
-		<text>Pokona³eœ nibyolbrzyma. Wróæ do £otrzyka i poinformuj go o tym fakcie.</text>
+		<text>Nibyolbrzym pokonany. Wróæ do £otrzyka i poinformuj go o tym fakcie.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -203,7 +203,7 @@
 		<text>¯ywa Legenda: Tajne przez poufne</text>
 	</string>
 	<string id="lttz_ll_find_documents_text">
-		<text>W laboratorium X-8 wci¹¿ mog¹ znajdowaæ siê tajne dokumenty na temat Zony. ZnajdŸ je i dostarcz Strie³okowi.</text>
+		<text>W laboratorium X-8 wci¹¿ mog¹ znajdowaæ siê tajne dokumenty na temat Zony. ZnajdŸ je i dostarcz do Strie³oka.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -212,7 +212,7 @@
 		<text>¯ywa Legenda: Pierwsza ofensywa</text>
 	</string>
 	<string id="lttz_ll_eidolon_start_task_descr">
-		<text>Zbierz oddzia³ do pokonania Eidolona. Wyeliminujcie zwiadowców Monolitu.</text>
+		<text>Zbierz oddzia³ do pokonania Eidolona.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -221,7 +221,7 @@
 		<text>¯ywa Legenda: Czempion Monolitu</text>
 	</string>
 	<string id="lttz_ll_eidolon_task_descr">
-		<text>PrzeprowadŸ szturm na Dom Kultury, by zwabiæ i pokonaæ Eidolona.</text>
+		<text>PrzeprowadŸ szturm na Pa³ac Kultury, by zwabiæ i pokonaæ Eidolona.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -239,7 +239,7 @@
 		<text>¯ywa Legenda: Szturm na Elektrowniê</text>
 	</string>
 	<string id="lttz_ll_chernobyl_raid_task_descr">
-		<text>Dotrzyj do Elektrowni.</text>
+		<text>Dotrzyj do CzEJ i pokonaj broni¹ce tego miejsca si³y Monolitu.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -248,7 +248,7 @@
 		<text>¯ywa Legenda: Czyœciec</text>
 	</string>
 	<string id="lttz_ll_crucible_task_descr">
-		<text>Utoruj sobie drogê do Sterowni Monolitu, pokonaj Projekcje i znajdŸ Od³amek Monolitu.</text>
+		<text>Utoruj sobie drogê do Sterowni Monolitu, pokonaj Fantomowych Stra¿ników i znajdŸ Od³amek Monolitu.</text>
 	</string>
 	
 	<string id="item_monolith_shard_name">

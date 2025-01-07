@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<string_table>
+
+	<string id="st_friend_companion_ask_join_individually">
+		<text>Hej kolego, chcesz opuścić swój oddział i pójść ze mną?</text>
+	</string>
+
+	<string id="st_paid_companion_dialog_text_individually">
+		<text>Mogę ci zapłacić za opuszczenie oddziału i pracę jako moja eskorta, zainteresowany?</text>
+	</string>
+
+</string_table>

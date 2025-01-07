@@ -3,7 +3,7 @@
 <!--                                                                                                                 -->
 <!--    Original Author(s) : NLTP_ASHES                                                                              -->
 <!--    Edited : N/A                                                                                                 -->
-<!--    Date : 05/12/2023                                                                                            -->
+<!--    Date : 06/12/2023                                                                                            -->
 <!--    License : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)          -->
 <!--                                                                                                                 -->
 <!--    Translation file for the radial quickslots labels.                                                           -->
@@ -58,6 +58,26 @@
         <text>Obrotowe szybkie sloty</text>
     </string>
 
+    <string id="ui_mcm_radial_quickslots_general_title">
+        <text>Ogólne</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion">
+        <text>W³¹cz spowolnienie czasu</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_desc">
+        <text>W³¹czenie tej opcji spowalnia czas, gdy otwarte jest menu obrotowe.</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_factor">
+        <text>Wspó³czynnik spowolnienia</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_factor_desc">
+        <text>Jeœli opcja „W³¹cz spowolnienie czasu” jest w³¹czona, opcja ta okreœla wspó³czynnik czasu u¿ywany, gdy otwarte jest menu obrotowe.</text>
+    </string>
+
     <string id="ui_mcm_radial_quickslots_keybindings_title">
         <text>Klawiszologia</text>
     </string>
@@ -74,7 +94,6 @@
         <text>Ustawienia techniczne</text>
     </string>
 
-    <!-- Debug mode -->
     <string id="ui_mcm_radial_quickslots_debug_mode">
         <text>Tryb debugowania</text>
     </string>

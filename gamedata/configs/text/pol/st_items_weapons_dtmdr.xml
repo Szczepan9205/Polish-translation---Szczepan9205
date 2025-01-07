@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="MDR_black">
+		<text>Desert Tech MDR 7.62x51</text>
+	</string>
+
+	<string id="MDR_black_descr">
+		<text>Karabin MDR to modułowa, wielokalibrowa broń o kompaktowym układzie bullpup, zaprojektowana przez amerykańską firmę Desert Tech LLC. Długość lufy i kaliber mogą zostać zmienione przez użytkownika końcowego w ciągu kilku minut przy użyciu minimalnej ilości narzędzi. Ta wersja karabinu korzysta z amunicji kalibru 7,62x51 mm i czarną polimerową obudowę.\n \n
+		%c[ui_gray_2]PASUJĄCE ULEPSZENIA: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Ta broń może zostać trwale ulepszona za pomocą Special Upgrade Pack\n</text>
+
+	</string>
+
+	<string id="MDR">
+		<text>Desert Tech MDR 5.56x45</text>
+	</string>
+
+	<string id="MDR_descr">
+		<text>Karabin MDR, opracowany przez amerykańską firmę Desert Tech LLC, to modułowa, wielokalibrowa broń o kompaktowym układzie bullpup. Długość lufy i kaliber mogą zostać zmienione przez użytkownika końcowego w ciągu kilku minut przy użyciu minimalnej ilości narzędzi. Ta wersja karabinu jest przystosowana do naboju kalibru 5.56x45 mm i ma polimerowy korpus w kolorze brązowym.\n \n
+		%c[ui_gray_2]PASUJĄCE ULEPSZENIA: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Ta broń może zostać trwale ulepszona za pomocą Special Upgrade Pack\n</text>
+
+	</string>
+	
+	<string id="MDR_up_descr">
+		<text>Karabin MDR to modułowa, wielokalibrowa broń o kompaktowym układzie bullpup, zaprojektowana przez amerykańską firmę Desert Tech LLC. Długość lufy i kaliber mogą zostać zmienione przez użytkownika końcowego w ciągu kilku minut przy użyciu minimalnej ilości narzędzi. Ta wersja karabinu korzysta z amunicji 5.56x45 mm i ma polimerową obudowę w kolorze brązowym. Broń została również trwale ulepszona za pomocą specjalnego pakietu ulepszeń.\n \n
+		%c[ui_gray_2]PASUJĄCE ULEPSZENIA: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Celownik Spectre 1-4x z niskoprofilowym celownikiem Deltapoint z montażem kątowym 45 stopni i 60-nabojowym magazynkiem bębnowym PMAG\n</text>
+	</string>
+	
+	<string id="MDR_black_up_descr">
+		<text>Karabin MDR, opracowany przez amerykańską firmę Desert Tech LLC, to modułowa, wielokalibrowa broń o kompaktowym układzie bullpup. Długość lufy i kaliber mogą zostać zmienione przez użytkownika końcowego w ciągu kilku minut przy użyciu minimalnej ilości narzędzi. Ta wersja karabinu jest przystosowana do naboju kalibru 7,62x51 mm i ma czarny polimerowy korpus. Broń została również trwale ulepszona za pomocą specjalnego pakietu ulepszeń.\n \n
+		%c[ui_gray_2]PASUJĄCE ULEPSZENIA: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Celownik Spectre 1-4x z niskoprofilowym celownikiem Deltapoint na stożkowej szynie o kącie 45 stopni i przedłużonym 30-nabojowym magazynkiem\n</text>
+
+	</string>
+	
+</string_table>

@@ -28,7 +28,7 @@
 		<text>Na PDA zaznaczy³em wam lokalizacjê oficera. IdŸcie do niego i zameldujcie swoj¹ obecnoœæ.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_default_task_finish">
-		<text>Powodzenia, stalker.</text>
+		<text>Powodzenia, stalkerze.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -38,10 +38,10 @@
 		<text>Byæ jak Simo Häyhä</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_text">
-		<text>Major KuŸniecow wyda³ rozkaz eliminacji celu z dystansu.</text>
+		<text>Pu³kownik Kuzniecow wyda³ rozkaz eliminacji celu z dystansu.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_about">
-		<text>Zwiad potwierdzi³ obecnoœæ wa¿nego celu. Nie maj¹ jak do niego podejœæ, jest z obstaw¹. Nale¿y go wyeliminowaæ jednym, precyzyjnym strza³em z dystansu.</text>
+		<text>Zosta³ zlokalizowany bardzo cenny cel. Nie³atwo siê do niego dostaæ, wiêc potrzebujê kogoœ, kto jest niezwykle precyzyjnym strzelcem jeœli chodzi o strzelanie na dalekim dystansie.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_finish">
 		<text>Doskona³a robota, ¿o³nierzu. Z takimi kwalifikacjami powinniœcie szkoliæ innych.</text>
@@ -57,7 +57,7 @@
 		<text>PoprowadŸ swój oddzia³ do ataku na obóz wroga.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_about">
-		<text>Przygotowujemy atak na obóz wroga. Dowódca kaza³ wydaæ ¿o³nierzom now¹ broñ, wszystko zosta³o sprawdzone i musi pójœæ zgodnie z planem. Wy, ¿o³nierzu, poprowadzicie oddzia³ szturmowy.</text>
+		<text>Przygotowujemy atak na obóz wroga. Z tej okazji upewni³em siê, ¿e wszyscy otrzymaj¹ now¹ broñ - wszystko zosta³o sprawdzone i musi pójœæ zgodnie z planem. Wy, ¿o³nierzu, poprowadzicie oddzia³ szturmowy.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
 		<text>Œwietna robota, ¿o³nierzu. Ale ich za³atwiliœcie!</text>
@@ -73,7 +73,7 @@
 		<text>Obroñ bazê wojskow¹ przed atakiem wroga.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_about">
-		<text>W pobli¿u odnotowano zagêszczenie jednostek wroga. Zdaniem dowódcy podejm¹ oni próbê ataku na bazê. Zbierzcie oddzia³ i zneutralizujcie zagro¿enie.</text>
+		<text>W pobli¿u odnotowano zagêszczenie jednostek wroga. Mam powody podejrzewaæ, ¿e planuj¹ atak na nasz¹ bazê. Zbierzcie oddzia³ i zneutralizujcie zagro¿enie.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_finish">
 		<text>Œwietnie przeprowadzona akcja, gratulujê.</text>
@@ -86,7 +86,7 @@
 		<text>Koñ trojañski</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_text">
-		<text>Nasz szpieg w si³ach wroga musi zostaæ odbity. Zaatakuj i zniszcz si³y wroga oraz odeskortuj naszego agenta bezpiecznie do bazy. Wskazówka: agent wyposa¿ony jest w SWD.</text>
+		<text>Nasz szpieg w si³ach wroga musi zostaæ odbity. Zaatakuj i wyeliminuj si³y wroga oraz odeskortuj naszego agenta bezpiecznie do bazy. Agent wyposa¿ony jest w karabin SWD.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_about">
 		<text>Jeden z naszych agentów dzia³a pod przykrywk¹ jako cz³onek organizacji nieprzyjaciela. Wszystko sz³o dobrze, ale jakiœ czas temu utraciliœmy z nim kontakt i przypuszczamy, ¿e wróg zacz¹³ domyœlaæ siê, ¿e ma szpiega.\n \nPrzypuszczamy, ¿e trzymaj¹ go gdzieœ pod kluczem, co t³umaczy³oby nasze problemy w komunikacji. Jest du¿e prawdopodobieñstwo, ¿e nasz agent gra na czas i udaje lojalnego cz³onka grupy - nie mo¿emy jednak ryzykowaæ jego likwidacji i jesteœmy zmuszeni go odbiæ. Namierzyliœmy jego lokalizacjê. Jest niedaleko st¹d, ale w towarzystwie innych stalkerów. Bêdziecie musieli ich unieszkodliwiæ, a jego samego bezpiecznie odeskortowaæ do bazy. Rozpoznacie go po karabinie, wyposa¿ony jest w SWD. Pamiêtajcie, ¿e w czasie ataku nasz agent mo¿e byæ zmuszony do otwarcia ognia w waszym kierunku, wiêc zachowajcie ostro¿noœæ!</text>
@@ -127,7 +127,7 @@
 		<text>Porucznik Kiry³ow otrzyma³ informacje o planach wroga. Zdob¹dŸ je.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
-		<text>Nasz informator doniós³ o miejscu przechowywania wrogich planów ataku. Wasze zadanie: przenikn¹æ na teren wroga i przechwyciæ dokumenty.</text>
+		<text>Nasz informator doniós³ o miejscu przechowywania wrogich planów ataku. Wasze zadanie to przenikn¹æ na teren wroga i przechwyciæ dokumenty.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_1_finish">
 		<text>Dziêki wam wielu ¿o³nierzy wróci ca³o do domu. Ojczyzna jest z was dumna!</text>
@@ -162,7 +162,7 @@
 		<text>Przysiêga</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_text">
-		<text>Przynieœ 8.000 RU, aby major KuŸniecow uzna³ twoje kwalifikacje.</text>
+		<text>Przynieœ Pu³kownikowi Kuzniecowowi 8.000 RU, aby uzna³ twoje kwalifikacje.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_about">
 		<text>W dzisiejszych czasach nieczêsto trafia siê na tak oddanych sprawie m³odzieñców! Ta... Ojojoj... ale testów to wy nie przejdziecie, promieniowanie u was, jak u likwidatorów, ¿o³nierzu. Ale wam chyba i tak nie po drodze z regularn¹ armi¹ i wojenstalkerki siê zachcia³o, co? To elita, najlepsi z najlepszych. Nie ma tak, ¿e pstryk i ju¿. To nie miejsce dla miêsa armatniego!\n \n
@@ -185,10 +185,10 @@
 		<text>Nieupowa¿nionym wstêp wzbroniony</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_text">
-		<text>PrzeprowadŸ z oddzia³em akcjê oczyszczania terenu z intruzów.</text>
+		<text>PrzeprowadŸ akcjê oczyszczania oznaczonego terenu z intruzów.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_about">
-		<text>Dowództwo jest zaniepokojone wci¹¿ rosn¹c¹ liczb¹ intruzów w Zonie. Wasze zadanie: obj¹æ dowództwo nad oddzia³em i oczyœciæ przyleg³y teren z personelu przebywaj¹cego tu nielegalnie. Zwracajcie uwagê, czy nie otwieracie ognia do kogoœ z naszych wspó³pracowników - poza tym strzelaæ bez ostrze¿enia.</text>
+		<text>Jest jedna delikatna sprawa. Obecnoœæ nielegalnych w pobli¿u naszej bazy nie jest korzystna dla naszych przysz³ych operacji. Zadanie jest nastêpuj¹ce: ka¿dy upowa¿niony personel lub si³y dy¿urne, które znajdziesz w oznaczonym miejscu, mog¹ odejœæ, ale w przeciwnym razie wszyscy obecni musz¹ zostaæ zlikwidowani. Bez wzglêdu na to, jakie umowy z nami zawarli, musz¹ zostaæ zlikwidowani. Zrozumiano? </text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_finish">
 		<text>Wykazaliœcie siê. Przy najbli¿szej okazji zostaniecie przedstawieni do odznaczenia.</text>
@@ -204,23 +204,23 @@
 		<text>Przejmij kontrolê nad wyznaczonym obszarem na terenie Zony.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_about">
-		<text>Nasz¹ jednostkê wyznaczono jako odpowiedzialn¹ za zaznaczenie wiêkszej obecnoœci wojska w Zonie. Dowódca szuka ochotników do operacji przejêcia niekontrolowanego dot¹d terenu. Czy mogê go poinformowaæ o waszym zg³oszeniu, ¿o³nierzu?</text>
+		<text>Ostatnio w Zonie nasili³y siê nielegalne dzia³ania zwi¹zane ze stalkerstwem. Jedna z takich grup przestêpczych zaatakowa³a kilku naszych naukowców. Osoby, które dopuœci³y siê tego nikczemnego czynu, mog³y znikn¹æ, ale mimo to spotka je kara. Udaj siê na miejsce ataku i wyperswaduj wszystkim obozuj¹cym tam stalkerów, ¿e sami zgotowali sobie ten stan wojenny.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
-		<text>Rozkaz wykonany? Udzielam pochwa³y. Poinformujê zaraz dowództwo o sukcesie waszej misji.</text>
+		<text>Rozkaz wykonany? Udzielam pochwa³y. Mo¿e teraz zastanowi¹ siê dwa razy, zanim zaczn¹ ingerowaæ w sprawy naszych cywilów.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
 
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_name">
-		<text>Przechwyæ wrogiego bojownika</text>
+		<text>Wymiar sprawiedliwoœci</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_text">
-		<text>Pochwyæ przeciwnika ¿ywcem lub wyeliminuj cel.</text>
+		<text>Wyeliminuj cel dla majora Kuzniecowa.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_about">
-		<text>Naczelne dowództwo sporz¹dzi³o listê najbardziej poszukiwanych ludzi, przebywaj¹cych w Zonie. Jeœli uda siê wam kogoœ z tej listy przechwyciæ lub zlikwidowaæ, bêdzie mia³o to wp³yw na wysokoœæ premii przy kolejnym ¿o³dzie. Jesteœcie zainteresowani takim zadaniem?</text>
+		<text>SBU dostarczy³o mi listê najbardziej poszukiwanych celów. Niektórzy z nich to znani szpiedzy lub taktycy wroga. Inni, wstyd powiedzieæ, to dezerterzy i niehonorowe insekty, które porzuci³y swoich towarzyszy broni. A jeszcze inni to zwyk³e szumowiny, przestêpcy ze œwiata zewnêtrznego, którzy uciekli do Zony, by unikn¹æ sprawiedliwoœci. Dok³adne pope³nione przestêpstwo nie ma znaczenia. Liczy siê to, ¿e jeden z takich celów sta³ siê bezbronny. Jeœli chcesz byæ jego katem, mo¿esz spodziewaæ siê premii w nastêpnej wyp³acie.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_finish">
 		<text>Doskonale! Dowódca bêdzie z was dumny.</text>
@@ -232,13 +232,13 @@
 		<text>Œcis³a kontrola</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_text">
-		<text>KuŸniecow wymaga zdobycia: %s.</text>
+		<text>Zbierz: %s i oddaj w zamian za nagrodê.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_about">
-		<text>S³uchajcie, ¿o³nierzu, jest pewna sprawa. Sztab chce siê upewniæ, czy aby na pewno w pe³ni kontrolujemy przydzielony nam teren. Sami wiecie, ¿e przy tym nap³ywie przestêpców, jaki tu mamy, bywa to problematyczne.\n \nNa nasze szczêœcie - komisja nie zamierza przybywaæ tu osobiœcie. W tej sytuacji chcê, byœcie zdobyli trochê naszywek wrogich frakcji. Poka¿emy je jako dowód, ¿e skutecznie zabezpieczamy obszar. Zrozumieliœcie mnie?</text>
+		<text>Kilku moich przyjació³ z najwy¿szego szczebla uruchomi³o nieoficjalny program, chcia³byœ wzi¹æ w nim udzia³? Wi¹¿e siê to z uœmierceniem pewnych szumowin.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_fetch_about">
-		<text>S³uchajcie, ¿o³nierzu, jest pewna sprawa. Sztab chce  siê upewniæ, czy aby na pewno w pe³ni kontrolujemy przydzielony nam teren. Sami wiecie, ¿e przy tym nap³ywie przestêpców, jaki tu mamy, bywa to problematyczne.\n \nNa nasze szczêœcie - komisja nie zamierza przybywaæ tu osobiœcie. W tej sytuacji chcê, byœcie zdobyli trochê naszywek wrogich frakcji. Poka¿emy je jako dowód, ¿e skutecznie zabezpieczamy obszar. Zrozumieliœcie mnie? Umiem doceniæ i wynagrodziæ solidn¹ ¿o³niersk¹ pracê, wiêc mnie nie zawiedŸcie.</text>
+		<text>Kilku z moich przyjació³ z najwy¿szego szczebla uruchomili nieoficjalny program. S³u¿ba wartownicza staje siê nudna, gdy miesi¹ce zamieniaj¹ siê w lata. Tak wiêc, aby utrzymaæ wszystkich w dobrej kondycji, ludzie bêd¹ czêœciej wysy³ani na patrole, a pierwszy oddzia³ z ka¿dego plutonu, który wróci z wystarczaj¹c¹ liczb¹ %s, bêdzie mia³ prawo do nagrody. Jeœli jesteœ zainteresowany, mo¿esz sam wzi¹æ udzia³.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_fetch_finish">
 		<text>Poradziliœcie sobie, ¿o³nierzu. Oto ponad regulaminowa premia.</text>
@@ -248,13 +248,13 @@
 		<text>Œciœle tajne</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_text">
-		<text>Odzyskaj wa¿ne dokumenty i zwróæ je majorowi.</text>
+		<text>Odzyskaj wa¿ne dokumenty i zwróæ je Pu³kownikowi.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_about">
-		<text>S³uchajcie, ¿o³nierzu. Z jednego z naszych posterunków stalkerzy ukradli pewne wa¿ne dokumenty. Waszym zadaniem jest je jak najszybciej odzyskaæ.</text>
+		<text>Nasz kontakt w Kordonie przes³a³ nam wa¿ne informacje dotycz¹ce aktywnoœci stalkerów w okolicy. Musisz udaæ siê do lokalizacji, któr¹ zaznaczê na twoim PDA. Zabierz ze sob¹ dokumenty, które tam znajdziesz, a nastêpnie natychmiast zg³oœ siê z powrotem. Nie jest to chwalebna praca, ale to przyzwoita prowizja za minimalne ryzyko.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_finish">
-		<text>Doskonale siê spisaliœcie, ¿o³nierzu. Cywile nie powinni wiedzieæ zbyt wiele.</text>
+		<text>Œwietna robota, ¿o³nierzu. Jeœli rzuci³eœ okiem na zawartoœæ, mam nadziejê, ¿e dla w³asnego dobra nie bêdziesz o niej opowiada³ nikomu innemu?</text>
 	</string>
 
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
@@ -267,73 +267,73 @@
 	<!-- Kirilov (Military Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
-		<text>Zlecenie Kiry³owa - znajdŸ %s</text>
+		<text>ZnajdŸ %s dla porucznika Kiry³owa</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_text">
-		<text>%s - tego potrzebuje Kiry³ow do przeprowadzenia podstawowych modyfikacji sprzêtu. Dostarcz mu je, jeœli tylko znajdziesz.</text>
+		<text>Porucznikowi Kiry³owowi bez dwóch zdañ potrzebne s¹  %s. Dziêki nim móg³by instalowaæ podstawowe modyfikacje sprzêtu. Dostarcz mu je, jeœli tylko jakieœ znajdziesz.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
-		<text>Mogê ciê prosiæ o przys³ugê? Jeœli chcia³byœ trochê pomóc, to powiem, czego mi trzeba.</text>
+		<text>SBU niedawno zarekwirowa³o narzêdzia z naszej bazy do w³asnych celów, a my potrzebujemy zamienników. Podczas gdy czekamy na logistykê, Pu³kownik zaczyna siê niecierpliwiæ. Wiêc podczas gdy on trzyma ich za mordê, ja jestem upowa¿niony do nagrodzenia ka¿dego, kto znajdzie podstawowe narzêdzia podczas patrolu. Rozejrzysz siê za nimi?</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_about">
-		<text>Potrzebujê zestawu podstawowych narzêdzi, powinien zawieraæ to, czego potrzebujê. Jeœli mi taki dostarczysz - bêdê wdziêczny. Za pomoc oferujê ci rabat na moje us³ugi</text>
+		<text>Œwietnie. Potrzebujê teraz prostego zestawu narzêdzi. Tych podstawowych, rozumiesz? Bardziej zaawansowane zestawy nie s¹ teraz priorytetem. Udanych ³owów.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_finish">
-		<text>Œwietnie! Przynios³eœ dok³adnie to, o co prosi³em. Dziêki.</text>
+		<text>Dobra, niech no spojrzê... Tak, w porz¹dku! W zupe³noœci wystarcz¹. Oto twoja nagroda. Mo¿esz równie¿ ubiegaæ siê teraz o podstawowe ulepszenia swojego ekwipunku.</text>
 	</string>
 
 
 
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name">
-		<text>Zlecenie Kiry³owa - znajdŸ %s</text>
+		<text>ZnajdŸ %s dla porucznika Kiry³owa</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text">
-		<text>%s - tego potrzebuje Kiry³ow do przeprowadzenia zaawansowanych modyfikacji sprzêtu. Dostarcz mu takie coœ, jeœli tylko znajdziesz.</text>
+		<text>Porucznikowi Kiry³owowi bez dwóch zdañ potrzebne s¹  %s. Dziêki nim móg³by instalowaæ zaawansowane modyfikacje sprzêtu. Dostarcz mu takie, jeœli tylko jakieœ znajdziesz.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about">
-		<text>Jeœli jesteœ zainteresowany, to mam coœ dla ciebie. Potrzebujê wiêcej narzêdzi. Nie³atwo bêdzie je znaleŸæ, ale zrobi³byœ to dla mnie?</text>
+		<text>Mam wystarczaj¹co du¿o narzêdzi, by daæ naszym poborowym przewagê, której potrzebuj¹, ale Specnaz jest nieco bardziej wymagaj¹cy... Dlatego nadal potrzebujê narzêdzi. Tym razem potrzebny mi zestaw narzêdzi zaawansowanych, rozumiesz? Tak jak poprzednio, ka¿dy, kto bêdzie w stanie zdobêdzie dla mnie taki zestaw narzêdzi i przyniesie go do bazy, otrzyma uczciw¹ rekompensatê.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about">
-		<text>Potrzebujê zaawansowanego zestawu narzêdzi, powinien zawieraæ to, czego mi brak. Jeœli dostarczysz mi coœ takiego - bêdê móg³ ci zaoferowaæ wiêksz¹ zni¿kê.</text>
+		<text>To w³aœnie lubiê s³yszeæ, ¿o³nierzu. Chcesz siê upewniæ, ¿e twój sprzêt jest w przyzwoitym stanie, zanim wyruszysz?</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_finish">
-		<text>Œwietnie! Zajrzyj do mnie, gdy tylko bêdziesz potrzebowaæ serwisu sprzêtu.</text>
+		<text>Ju¿? Dobrze, niech no rzucê okiem. W porz¹dku, w zupe³noœci siê nadadz¹! Zas³u¿y³eœ na premiê. Proszê!</text>
 	</string>
 
 
 
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_name">
-		<text>Zlecenie Kiry³owa - znajdŸ %s</text>
+		<text>ZnajdŸ %s dla porucznika Kiry³owa</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_text">
-		<text>%s - tego potrzebuje Kiry³ow do przeprowadzenia precyzyjnych modyfikacji sprzêtu. Dostarcz mu takie coœ, jeœli tylko znajdziesz..</text>
+		<text>Porucznikowi Kiry³owowi bez dwóch zdañ potrzebne s¹  %s. Dziêki nim móg³by instalowaæ precyzyjne modyfikacje sprzêtu. Dostarcz mu takie, jeœli tylko jakieœ znajdziesz.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_about">
-		<text>Jeœli jesteœ zainteresowany, to mam coœ dla ciebie. Potrzebujê wiêcej narzêdzi. Nie³atwo bêdzie je znaleŸæ, ale zrobi³byœ to dla mnie?</text>
+		<text>Kwatera g³ówna ma ju¿ prawie pe³ny zestaw narzêdzi. Jednak niektóre z mniej ortodoksyjnych urz¹dzeñ, takich jak te u¿ywane przez naszych wojskowych stalkerów, bêd¹ wymaga³y jeszcze bardziej zaawansowanych narzêdzi ni¿ te które przynios³eœ ostatnio, aby w pe³ni je wykorzystaæ. Aktualnie potrzebujê specjalistycznych narzêdzi precyzyjnych. Do tej pory by³eœ niezawodny, wiêc wiem, ¿e mogê ci zaufaæ w ich poszukiwaniu. Zajmiesz siê tym?</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_about">
-		<text>Potrzebujê zestawu narzêdzi precyzyjnych, powinien zawieraæ to, czego mi tu jeszcze brak. Jeœli mi taki dostarczysz - jestem w stanie zaoferowaæ ci zni¿kê na us³ugi.</text>
+		<text>Dobrze, wiedzia³em, ¿e mnie nie zawiedziesz. Wróæ z narzêdziami to dorzucê ci do nagrody kilka podstawowych lekcji konserwacji sprzêtu w terenie, zak³adaj¹c, ¿e inny technik jeszcze ci tego nie pokaza³. Udanych ³owów, towarzyszu.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_finish">
-		<text>Œwietnie! Zajrzyj do mnie, gdy tylko bêdziesz potrzebowaæ serwisu sprzêtu.</text>
+		<text>Mo¿e kiedy poka¿ê to Pu³kownikowi, w koñcu siê uœmiechnie. Stalkerzy nie bêd¹ wiedzieli, co ich uderzy³o, gdy nadejdzie czas. Jeœli znajdziesz wiêcej narzêdzi, koniecznie odwiedŸ nasz posterunek w Kordonie lub mobilne laboratorium nad Jantarem. Z tego co s³ysza³em, tamtejsi technicy te¿ potrzebuj¹ narzêdzi.</text>
 	</string>
 
 
 <!-- (Military Medic) -->
 	<string id="agr_1_6_medic_army_mlr_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla porucznika Rogowca</text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_task_1_text">
-		<text>%s - tego potrzebuje Rogowiec aby uzupe³niæ zapasy medyczne. Jeœli to znajdziesz - zaopatrz go.</text>
+		<text>Porucznik Rogowiec potrzebuje %s, aby rozszerzyæ swój asortyment œrodków medycznych. </text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_task_1_about">
-		<text>Przy tej liczbie rannych zarz¹dzanie zapasami zaczyna byæ naprawdê trudne. W tym tempie za parê tygodni zejdê do zera. Dobrze by³oby mieæ pod rêk¹ jakieœ narzêdzia do samodzielnej produkcji - zapas materia³ów opatrunkowych i zestaw do przygotowywania leków na pewno siê przyda.</text>
+		<text>Brakuje nam œrodków medycznych, a nastêpny helikopter z dostaw¹ w najbli¿szym czasie nie przyleci. S³ysza³em jednak, ¿e niektórzy stalkerzy i handlarze zaczêli przemycaæ te zestawy do produkcji leków do Zony. Na pewno by siê nam przyda³y. Pomo¿esz?</text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_task_1_fetch_about">
-		<text>Jest. O ile mogê dobrze leczyæ ludzi w bazie, o tyle moje mo¿liwoœci zaopatrywania ich, gdy s¹ w terenie, s¹ ograniczone. Próbowa³em wiêc zdobyæ %s. Pozwoli mi przygotowaæ lekarstwa na niemal ka¿de potencjalne zagro¿enie lub uraz, jaki ¿o³nierz mo¿e napotkaæ podczas patrolu.\n \n
-		A przynajmniej pozwoli³oby, ale moja proœba jest ci¹gle olewana. Ka¿da sekunda mo¿e uratowaæ ¿ycie, wiêc moja propozycja jest nastêpuj¹ca: jeœli znajdziesz przyzwoity zestaw, zap³acê ci za niego z w³asnego portfela, bez ¿adnych ceregieli. Po prostu przynieœ mi go jak najszybciej.</text>
+		<text>A oto i one! O ile bêdê móg³ teraz leczyæ ludzi w bazie jak nale¿y, o tyle moje mo¿liwoœci zaopatrywania ich, gdy wyruszaj¹ w teren, s¹ ograniczone. Próbowa³em wiêc zarekwirowaæ %s. Pozwoli mi przygotowaæ lekarstwa na niemal ka¿de potencjalne zagro¿enie lub uraz, jaki ¿o³nierz mo¿e napotkaæ podczas patrolu.\n \n
+		A przynajmniej pozwoli³oby, ale moja proœba jest ci¹gle odk³adana. Ka¿da sekunda mo¿e uratowaæ ¿ycie, wiêc moja propozycja jest nastêpuj¹ca: jeœli znajdziesz przyzwoity zestaw, zap³acê ci za niego z w³asnego portfela, bez ¿adnych ceregieli. Po prostu przynieœ mi go jak najszybciej.</text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_task_1_fetch_finish">
-		<text>Œwietna robota! Ca³a jednostka jest ci wdziêczna.</text>
+		<text>Uda³o ci siê znaleŸæ przyzwoity zestaw? Niech pomyœlê. Och, wow, nadadz¹ siê! Spodziewam siê, ¿e od dzisiaj wskaŸnik prze¿ywalnoœci naszych patroli znacznie wzroœnie.</text>
 	</string>
 </string_table>

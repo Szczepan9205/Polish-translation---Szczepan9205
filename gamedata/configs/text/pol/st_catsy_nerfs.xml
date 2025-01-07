@@ -37,7 +37,7 @@
 				2. Ca³kowicie wyjœæ z gry.\n
 				3. W³¹czyæ ponownie grê i odtworzyæ problem BEZ innych dodatków, jeœli to mo¿liwe.\n
 				4. Wyjœæ z gry.\n
-				4. Spakowaæ dziennik gry z [anomaly_folder]/appdata/logs i umieœciæ go gdzieœ w sieci.</text>
+				Spakowaæ dziennik gry z [anomaly_folder]/appdata/logs i umieœciæ go gdzieœ w sieci.</text>
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfmain_max_freq">
@@ -71,13 +71,16 @@
 	<string id="ui_mcm_nerfs_nerfwidget_header1">
 		<text>Wid¿et dostêpnoœci to prosty wizualny wskaŸnik si³y sygna³u radiowego. Jest przeznaczony dla osób nies³ysz¹cych i niedos³ysz¹cych, ale mo¿e byæ u¿ywany przez ka¿dego, kto ma trudnoœci z odró¿nieniem sygna³ów dŸwiêkowych od szumu t³a. Po³o¿enie i kolory wskaŸnika mo¿na dostosowaæ do preferencji lub œlepoty barw. Wid¿et pojawi siê TYLKO wtedy, gdy gracz ma wyjêty detektor RF.\n</text>
 	</string>
-
 	<string id="ui_mcm_nerfs_scrolldown">
 		<text>** Przewiñ w dó³, aby zobaczyæ wiêcej ustawieñ **</text>
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfwidget_show">
 		<text>Poka¿ wid¿et dostêpnoœci</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfwidget_show_desc">
+		<text>Wid¿et dostêpnoœci zapewnia wizualny wskaŸnik HUD si³y sygna³u RF, który pojawia siê tylko wtedy, gdy odbiornik RF jest aktywny. Jest przeznaczony dla osób nies³ysz¹cych i niedos³ysz¹cych, ale mo¿e byæ u¿ywany przez ka¿dego, kto ma trudnoœci z identyfikacj¹ sygna³ów dŸwiêkowych. Pozycja wskaŸnika i kolory mog¹ byæ dostosowane do preferencji lub œlepoty barw.</text>
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfwidget_lo_header">
@@ -120,7 +123,7 @@
 		<text>Koordynat X (Poziomo, od lewej do prawej)</text>
 	</string>
 	<string id="ui_mcm_nerfs_nerfwidget_pos_y">
-		<text>Koordynat (Pionowo, od góry do do³u)</text>
+		<text>Koordynat Y (Pionowo, od góry do do³u)</text>
 	</string>
 
 <!-- Added in 1.2 -->
@@ -135,7 +138,7 @@
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfmain_binaries">
-		<text>Zmodyfikowane .exe by demonized: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/
+		<text>Modded exes by demonized: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/
 		</text>
 	</string>
 
@@ -161,11 +164,19 @@
 		<text>Preset klawiszologii 1</text>
 	</string>
 
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset1">
+		<text>Preset klawiszologii 1</text>
+	</string>
+
 	<string id="ui_mcm_nerfs_nerfpresets_preset2_freq">
 		<text>Preset czêstotliwoœci 2</text>
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfpresets_kb_preset2">
+		<text>Preset klawiszologii 2</text>
+	</string>
+
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset2">
 		<text>Preset klawiszologii 2</text>
 	</string>
 
@@ -177,11 +188,19 @@
 		<text>Preset klawiszologii 3</text>
 	</string>
 
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset3">
+		<text>Preset klawiszologii 3</text>
+	</string>
+
 	<string id="ui_mcm_nerfs_nerfpresets_preset4_freq">
 		<text>Preset czêstotliwoœci 4</text>
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfpresets_kb_preset4">
+		<text>Preset klawiszologii 4</text>
+	</string>
+
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset4">
 		<text>Preset klawiszologii 4</text>
 	</string>
 
@@ -193,11 +212,19 @@
 		<text>Preset klawiszologii 5</text>
 	</string>
 
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset5">
+		<text>Preset klawiszologii 5</text>
+	</string>
+
 	<string id="ui_mcm_nerfs_nerfpresets_preset6_freq">
 		<text>Preset czêstotliwoœci 6</text>
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfpresets_kb_preset6">
+		<text>Preset klawiszologii 6</text>
+	</string>
+
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset6">
 		<text>Preset klawiszologii 6</text>
 	</string>
 
@@ -209,11 +236,19 @@
 		<text>Preset klawiszologii 7</text>
 	</string>
 
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset7">
+		<text>Preset klawiszologii 7</text>
+	</string>
+
 	<string id="ui_mcm_nerfs_nerfpresets_preset8_freq">
 		<text>Preset czêstotliwoœci 8</text>
 	</string>
 
 	<string id="ui_mcm_nerfs_nerfpresets_kb_preset8">
+		<text>Preset klawiszologii 8</text>
+	</string>
+
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset8">
 		<text>Preset klawiszologii 8</text>
 	</string>
 
@@ -225,8 +260,117 @@
 		<text>Preset klawiszologii 9</text>
 	</string>
 
+	<string id="ui_mcm_nerfs/nerfpresets_kb_preset9">
+		<text>Preset klawiszologii 9</text>
+	</string>
+
 	<string id="st_nerfs_freq_preset">
 		<text>Preset czêstotliwoœci %s: %s MHz</text>
 	</string>
+
+<!-- Added in 1.5 -->
+
+	<string id="ui_mcm_nerfs_nerfmain_loadfailed1">
+		<text>B£¥D: item_radio.script jest nieprawid³owy, NERFS nie zosta³ poprawnie zainstalowany!\n</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_loadfailed2">
+		<text>
+			\nNew Extensible RF Sources wykry³o nieprawid³ow¹ kopiê pliku item_radio.script. Jest to prawie na pewno spowodowane za³adowaniem innego dodatku po NERFS, który modyfikuje ten plik.\n
+
+			\nMUSISZ zainstalowaæ NERFS po ka¿dym innym dodatku, który modyfikuje item_radio.script. Jeœli u¿ywasz dodatków Reworked RF Receiver, RF Tasks, Remote Controlled Explosives, or Bizarre Interference, NERFS ma opcje zgodnoœci, które pozwol¹ tym dodatkom dzia³aæ normalnie.
+
+			\nJeœli u¿ywasz Devices of Anomaly Redone, za³aduj go przed NERFS - powinieneœ nadpisaæ okrojon¹, wbudowan¹ wersjê NERFS, która jest do³¹czona do niego.
+		</text>
+	</string>
+
+<!-- Added in 1.6 -->
+
+	<string id="ui_mcm_nerfs_nerfwidget_preview_aspect">
+		<text>Wspó³czynnik proporcji dla powy¿szego podgl¹du ekranu</text>
+	</string>
+
+	<string id="ui_mcm_lst_preview_aspect_4_3">
+		<text>4:3 (Standardowy)</text>
+	</string>
+
+	<string id="ui_mcm_lst_preview_aspect_16_10">
+		<text>16:10 (1920x1200, 2560x1600)</text>
+	</string>
+
+	<string id="ui_mcm_lst_preview_aspect_16_9">
+		<text>16:9 (1080p, 1440p, 2160p)</text>
+	</string>
+
+	<string id="ui_mcm_lst_preview_aspect_21_9">
+		<text>21:9 (Ultrawide)</text>
+	</string>
 	
+	<string id="ui_mcm_nerfs_nerfmain_header_complex1">
+		<text>$clr_def
+			$clr_prpNew Extensible RF Sources$clr_def poprawia dzia³anie odbiornika RF na wiele sposobów:\n
+				 • $clr_gldRozszerza maksymalny zakres czêstotliwoœci$clr_def z $clr_lbl300$clr_def do $clr_lbl999$clr_def (konfigurowalny poni¿ej)\n
+				 • Dodaje $clr_gldnowe i interesuj¹ce Ÿród³a$clr_def szumu RF\n
+				 • Przenosi wszystkie Ÿród³a RF do $clr_gldrozszerzalnej struktury opartej na LTX$clr_def zaprojektowanej, aby by³a $clr_gldmodyfikowalna i bezkonfliktowa\n
+				 $clr_def• Dodaje $clr_glddo ³upów notatki$clr_def (z towarzysz¹cymi im artyku³ami do encyklopedii), które mo¿na losowo znaleŸæ przy martwych stalkerach, umo¿liwiaj¹c graczom $clr_gldpoznanie przydatnych czêstotliwoœci$clr_def w czasie gry\n
+				 • Dodaje $clr_gldopcjonalny wskaŸnik na HUD-zie$clr_def pokazuj¹cy si³ê sygna³u, dostêpnoœæ lub preferencje\n
+				 • Zawiera wsparcie dla dodatków $clr_gldReworked RF Receiver$clr_def i $clr_gldTB's RF Tasks
+		</text>
+	</string>
+
+	<string id="ui_mcm_nerfs_nerfmain_header_complex2">
+		<text>$clr_def
+			Wiêcej informacji mo¿na znaleŸæ na stronie Moddb:\n$clr_lblhttps://www.moddb.com/mods/stalker-anomaly/addons/new-extensible-rf-sources
+		</text>
+	</string>
+
+<!-- Added in 1.7 -->
+
+	<string id="encyclopedia_addons">
+		<text>Dodatki</text>
+	</string>
+
+    <string id="encyclopedia_addons_nerfs">
+        <text>New Extensible RF Sources</text>
+    </string>
+
+    <string id="encyclopedia_addons_nerfs_text">
+        <text>
+            \n%c[255,137,48,225]New Extensible RF Sources%c[ui_gray_1] poprawia dzia³anie odbiornika RF na wiele sposobów:\n \n
+				 • %c[pda_yellow]Rozszerza maksymalny zakres czêstotliwoœci%c[ui_gray_1] z %c[255,0,200,220]300%c[ui_gray_1] do %c[255,0,200,220]999%c[ui_gray_1] (konfigurowalny w MCM)\n
+				 • Dodaje %c[pda_yellow]nowe i interesuj¹ce Ÿród³a%c[ui_gray_1] szumu RF, jak zak³ócenia komórkowe z PDA stalkerów\n
+				 • Przenosi wszystkie Ÿród³a RF do %c[pda_yellow]rozszerzalnej struktury opartej na LTX%c[ui_gray_1] zaprojektowanej, aby by³a %c[pda_yellow]modyfikowalna i bezkonfliktowa\n
+				 %c[ui_gray_1]• Dodaje %c[pda_yellow]do ³upów notatki%c[ui_gray_1] (z towarzysz¹cymi im artyku³ami do encyklopedii), które mo¿na losowo znaleŸæ przy martwych stalkerach, umo¿liwiaj¹c graczom %c[pda_yellow]poznanie przydatnych czêstotliwoœci%c[ui_gray_1] w czasie gry\n
+				 • Dodaje an %c[pda_yellow]opcjonalny wskaŸnik na HUD-zie%c[ui_gray_1] pokazuj¹cy si³ê sygna³u, dostêpnoœæ lub preferencje\n
+				 • Zawiera wsparcie dla dodatków %c[pda_yellow]Reworked RF Receiver%c[ui_gray_1], %c[pda_yellow]Remote Controlled Explosives%c[ui_gray_1], and %c[pda_yellow]TB's RF Tasks%c[ui_gray_1] \n
+
+			\n%c[pda_white]Wideo pokazowe: %c[ui_gray_1]https://www.youtube.com/watch?v=7sdVkImQS_Q
+
+            \n%c[pda_white]Moddb: %c[ui_gray_1]https://www.moddb.com/mods/stalker-anomaly/addons/new-extensible-rf-sources\n 
+
+			\n%c[pda_white]Aby dostosowaæ ustawienia, przejdŸ do %c[pda_yellow]MCM > NERF%c[pda_white]:\n
+			%c[pda_yellow]Ustawienia g³ówne%c[pda_white]: Flagi funkcji, debugowanie, kompatybilnoœæ.\n 
+			%c[pda_yellow]Presety%c[pda_white]: Konfiguracja wstêpnych ustawieñ czêstotliwoœci i ich skrótów klawiszowych.\n 
+			%c[pda_yellow]Dostêpnoœæ%c[pda_white]: Ustawienia dla wid¿etu dostêpnoœci.\n 
+
+	        \n%c[ui_gray_1]--------------------------------------------------------------------------------\n 
+            \n%c[pda_red]ROZWI¥ZYWANIE PROBLEMÓW\n \n
+
+            %c[pda_white]Jeœli w ogóle widzisz ten wpis w encyklopedii, twoje pliki binarne obs³uguj¹ DLTX. %c[ui_gray_1]Dobra robota: posiadanie Modded Exes to po³owa sukcesu. Posiadanie zaktualizowanych plików dodatków i zainstalowanych odpowiednich opcji to wiêkszoœæ reszty.\n \n
+
+            Jeœli otrzyma³eœ tê kopiê NERFS wraz z %c[pda_white]Devices of Anomaly Redone%c[ui_gray_1], powinieneœ pobraæ i zainstalowaæ pe³n¹ wersjê NERFS. Nie wszystkie jego funkcje mog¹ byæ dostêpne we wbudowanej wersji.\n 
+
+            \n%c[pda_red]WA¯NE: Aby zg³osiæ b³¹d, nale¿y wykonaæ nastêpuj¹ce czynnoœci:\n \n
+            %c[pda_white]1. Wejœæ w %c[pda_yellow]MCM > NERF > Ustawienia g³ówne\n
+            %c[pda_white]2. W³¹czyæ opcjê %c[pda_yellow]Debugowanie logowania\n
+            %c[pda_white]3. Wyjœæ z gry i j¹ zrestartowaæ\n
+            %c[pda_white]4. Odtworzyæ problem w najprostszy mo¿liwy sposób\n
+            %c[pda_white]5. Pozyskaæ plik logu gry z %c[pda_yellow](Twój folder z Anomaly)\appdata\logs%c[pda_white] i opublikowaæ go gdzieœ w sieci\n \n
+            
+            %c[ui_gray_1]Jeœli tego nie zrobisz, jest ma³o prawdopodobne, ¿e twój dziennik bêdzie zawiera³ informacje, których potrzebujê.\n
+
+            \nNie otrzymujê powiadomieñ o komentarzach na Moddb, wiêc generalnie najszybsz¹ odpowiedŸ otrzymasz na serwerze Discord GAMMY, na kanale dyskusyjnym Anomalous RF Signals / New Extensible RF Sources. Wiadomoœci nie zwi¹zane z tematem bêd¹ ignorowane.\n
+        </text>
+    </string>
+
 </string_table>

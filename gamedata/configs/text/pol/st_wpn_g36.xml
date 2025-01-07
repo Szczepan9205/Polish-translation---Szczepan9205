@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
 	<string id="st_wpn_g36new">
 		<text>HK G36</text>
@@ -50,8 +51,7 @@
 		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]Niemcy\n
 		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Heckler und Koch\n
 		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]1996\n \n
-		%c[0,255,255,255]UNIKAT: %c[0,250,250,0]Broń jest podobna do G36K, ale znacznie lżejsza, a mimo to nie zmniejsza celności ani nie zwiększa odrzutu. Śruba została osobiście zmodyfikowana, aby strzelać jeszcze szybciej niż przeciętnie. Broń jest również wyposażona w celowniki elektroniczne KAC ze zintegrowanymi celownikami trytowymi, z których przedni ma znacznie wyższy kontrast niż tylny, co zapewnia lepszą widoczność. Sam KAC zawiera szynę Picatinny do mocowania granatnika M203. Cudowny, choć nieco osobliwy wariant pistoletu G36.\n
 		</text>
 	</string>
+
 </string_table>
- 

@@ -86,7 +86,7 @@
 		<text>Hej, dlaczego tak tu stoisz?</text>
 	</string>
 	<string id="meet_guid_marsh_csky_1">
-		<text>A co, masz z tym jakiœ problem? Nie no, ¿artujê, spokojnie. Muszê byæ ca³y czas na widoku, poniewa¿ jestem lokalnym przewodnikiem. Nie oceniaj mojego szpeju, stary, nie ma sensu. I dla mnie, i dla ciebie tak bêdzie ³atwiej, zaufaj mi.\n \nJeœli chcesz, mogê zaprowadziæ ciê w kilka miejsc, g³ównie do okolicznych posterunków obserwacyjnych na Bagnach, a tak¿e na Stacjê Pomp, do Starej Cerkwi i Parku Maszynowego. Oprócz tego oferujê równie¿ wyprawy do Wioski Nowicjuszy w Kordonie, na Agroprom i do Baru. Oczywiœcie, wszystko za odpowiedni¹ op³at¹.</text>
+		<text>A co, masz z tym jakiœ problem? Nie no, ¿artujê, spokojnie. Muszê byæ ca³y czas na widoku, poniewa¿ jestem lokalnym przewodnikiem. Nie oceniaj mojego szpeju, stary, nie ma sensu. I dla mnie, i dla ciebie tak bêdzie ³atwiej, zaufaj mi.\n \nJeœli chcesz, mogê zaprowadziæ ciê w kilka miejsc, g³ównie do okolicznych posterunków obserwacyjnych na Bagnach, a tak¿e na Stacjê Pomp, do Starej Cerkwi i Parku Maszynowego. Oprócz tego oferujê równie¿ wyprawy do Wioski kotów w Kordonie, na Agroprom i do Baru. Oczywiœcie, wszystko za odpowiedni¹ op³at¹.</text>
 	</string>
 
 	<string id="meet_guid_marsh_csky_list_0">
@@ -160,25 +160,25 @@
         <text>S³ysza³em, ¿e posiadasz du¿¹ wiedzê na temat Zony.</text>
     </string>
     <string id="cit_doctor_main_dialog_1">
-        <text>Och... Byæ mo¿e tak jest, byæ mo¿e posiadam informacje, których poszukujesz, ale chcia³bym, abyœ zrobi³ coœ dla mnie w zamian.</text>
+        <text>Och... Chcesz zg³êbiaæ siê w tajemnice Zony, jak widzê? Mogê mieæ informacje, których poszukujesz, ale chcia³bym siê najpierw upewniæ, ¿e rozumiesz ich wagê.</text>
     </string>
     <string id="cit_doctor_main_dialog_11">
-        <text>Oczywiœcie. Czego oczekujesz?</text>
+        <text>Mów dalej.</text>
     </string>
     <string id="cit_doctor_main_dialog_2">
-        <text>Zona przez te wszystkie lata odcisnê³a na moim zdrowiu swoje piêtno, wiêc spêdzam ostatnie dni w tej pustelni, ale ucieszy³oby mnie spotkanie ze starymi przyjació³mi.\n \nObawiam siê, ¿e Strie³ok i Przewodnik nie ¿yj¹, ale chcia³bym porozmawiaæ z K³em i Duchem, póki jeszcze mam czas. Jeœli by³byœ w stanie ich odnaleŸæ i sprowadziæ tutaj, nie zapomnê ci twoich wysi³ków do koñca ¿ycia.</text>
+        <text>Ta misja doprowadzi³a wielu do zguby, w tym moich drogich przyjació³...\nStrie³ok mia³ kiedyœ grupê sk³adaj¹c¹ siê z samych elitarnych stalkerów, z których z pewnoœci¹ to on jest jedynym cz³onkiem, który wci¹¿ ¿yje. Badali oni jak¹œ tajemnicê lub spisek w Zonie. Wróci³ z tej przygody, a ostatnim razem, gdy go widzia³em, mój przyjaciel wyraŸnie siê zmieni³, coœ lub ktoœ wyraŸnie go zmieni³o... Tak...\nS¹ tam rzeczy, które nie chc¹ byæ znalezione, a sama Zona wydaje siê je ukrywaæ. Rozumiesz?</text>
     </string>
     <string id="cit_doctor_main_dialog_21">
-        <text>Jak d³ugo ¿yjesz na tym odludziu? Obaj stali siê legendami, ale ju¿ od dawna nie ¿yj¹. Kie³ zgin¹³ z r¹k najemnika Szramy na Magazynach Wojskowych, a cia³o Ducha znaleziono w podziemiach laboratorium X-16 rok póŸniej. Naprawdê nie wiedzia³eœ?</text>
+        <text>Mimo tego, chcia³bym siê dowiedzieæ wiêcej, staruszku.</text>
     </string>
     <string id="cit_doctor_main_dialog_3">
-        <text>Obaj nie ¿yj¹? Jesteœ pewny? Ja tylko... Och, w porz¹dku... Wiêc czego chcia³eœ siê dowiedzieæ?</text>
+        <text>Godne podziwu. G³upie, ale godne podziwu...</text>
     </string>
     <string id="cit_doctor_main_dialog_31">
-        <text>Serio, teraz tak po prostu podzielisz siê ze mn¹ swoj¹ wiedz¹? Mam wra¿enie, ¿e tylko tracê swój czas, starcze.</text>
+        <text>To jak bêdzie, opowiesz mi wiêcej?</text>
     </string>
     <string id="cit_doctor_main_dialog_4">
-        <text>Czekaj! Nie odchodŸ... ja po prostu nie spodziewa³em siê, ¿e skoñcz¹ w taki sposób. Kiedy ostatnio odwiedzi³ mnie Strie³ok, to da³ mi klucz i koordynaty schowka znajduj¹cego siê w Prypeci.\n \nNie widzia³em go od lat, wiêc nie s¹dzê, ¿e posz³o mu lepiej. Mówi³ coœ o Monolicie, nie zrozumia³em z tego za du¿o i wydaje mi siê, ¿e on równie¿ nie do koñca to rozumia³. Masz, weŸ to.\n \nI jeszcze jedno... On spêdzi³ mnóstwo czasu poszukuj¹c œladów spisku i tuszowania dowodów dotycz¹cych podziemnych laboratoriów. Byæ mo¿e tam uda ci siê znaleŸæ jakieœ odpowiedzi.</text>
+        <text>Dobrze, m³ody cz³owieku, s³uchaj wiêc... Kiedy ostatnio odwiedzi³ mnie Strie³ok, to da³ mi klucz i koordynaty schowka znajduj¹cego siê w Prypeci.\n \nNie widzia³em go od lat, wiêc nie s¹dzê, ¿e posz³o mu lepiej. Mówi³ coœ o Monolicie, nie zrozumia³em z tego za du¿o i wydaje mi siê, ¿e on równie¿ nie do koñca to rozumia³. Masz, weŸ to.\n \nI jeszcze jedno... On spêdzi³ mnóstwo czasu poszukuj¹c œladów spisku i tuszowania dowodów dotycz¹cych podziemnych laboratoriów. Byæ mo¿e tam uda ci siê znaleŸæ jakieœ odpowiedzi.</text>
     </string>
     <string id="cit_doctor_main_dialog_41">
         <text>Rozumiem. Dziêkujê, naprawdê doceniam twoj¹ pomoc.</text>
@@ -271,7 +271,7 @@
 		<text>Jaki jest wasz aktualny cel?</text>
 	</string>
 	<string id="marsh_csky_history_goal2">
-		<text>Rzecz w tym, ¿e nie mamy jednego celu. Biedny Lebiediew by³ cz³owiekiem niezwykle ambitnym. Myœla³, ¿e mo¿emy odkryæ wszystkie brudne sekrety Zony i wykorzystaæ tê wiedzê do jej oswojenia lub powstrzymania. To mu siê jednak nie uda³o.\n \nObecnie robimy w zasadzie te same rzeczy, co kiedyœ: polujemy na mutanty, zbieramy artefakty i przeprowadzamy na nich badania. Co jakiœ czas odzyskujemy ciekawe dokumenty ze starych podziemnych laboratoriów.\n \nNie anga¿ujemy siê w wojny o teren z innymi frakcjami i zdecydowanie nie planujemy w najbli¿szym czasie kolejnej odwa¿nej kampanii w centrum Zony. W przeciwieñstwie do Powinnoœci, nie próbujemy jej zniszczyæ ani nie chcemy tutaj otwieraæ parku rozrywki, jak ludzie z Wolnoœci. Na razie wspó³istniejemy z Zon¹. Lepiej trzymaæ g³owê nisko, jak za starych dobrych czasów przed szturmem na Elektrowniê.</text>
+		<text>Rzecz w tym, ¿e nie mamy jednego celu. Biedny Lebiediew by³ cz³owiekiem niezwykle ambitnym. Myœla³, ¿e mo¿emy odkryæ wszystkie brudne sekrety Zony i wykorzystaæ tê wiedzê do jej oswojenia lub powstrzymania. To mu siê jednak nie uda³o.\n \nObecnie robimy w zasadzie te same rzeczy, co kiedyœ: polujemy na mutanty, zbieramy artefakty i przeprowadzamy na nich badania. Otrzymaliœmy nawet wsparcie od ONZ, aby przeprowadziæ w³asne badania podczas "Z³otych czasów" Zony. Otrzymaliœmy broñ, sprzêt badawczy, a nawet wskazówki od ich naukowców i lokalnych naukowców, aby pomóc nam w naszym d¹¿eniu do odkrycia tajemnic Zony. Dziêki temu od czasu do czasu udaje nam siê nawet odzyskaæ interesuj¹ce dokumenty ze starych podziemnych laboratoriów. Nie anga¿ujemy siê jednak w wojny z innymi frakcjami i zdecydowanie nie planujemy w najbli¿szym czasie kolejnej œmia³ej kampanii w sercu Zony. W przeciwieñstwie do Powinnoœci nie próbujemy jej zniszczyæ, ale nie chcemy te¿ otwieraæ tu parku rozrywki jak ludzie z Wolnoœci. Na razie koegzystujemy bo wed³ug mnie lepiej siê nie wychylaæ, tak jak za starych dobrych czasów przed ostatecznym rajdem do serca Zony... zw³aszcza w tych trudnych czasach, gdy Monolit znów daje o sobie znaæ... To ju¿ nie s¹ "Z³ote czasy", nasi ludzie w ONZ powoli odchodz¹ na emeryturê, a lokalne prywatne firmy wojskowe s¹ poddawani wyzwaniu jakim jest jakieœ nowe zagro¿enie. Kr¹¿¹ nawet pog³oski o nowym kulcie, który jest jeszcze bardziej szalony ni¿ Monolit. Ale szczerze mówi¹c, chcemy pozostaæ daleko od tych wszystkich k³opotów. Jak ju¿ mówi³em, lepiej siê nie wychylaæ...</text>
 	</string>
 	<string id="marsh_csky_history_goal3">
 		<text>Wiêc cz³onkowie Czystego Nieba w zasadzie robi¹ teraz to, na co maj¹ ochotê?</text>

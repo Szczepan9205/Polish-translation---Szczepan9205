@@ -6,10 +6,6 @@
 
 <string_table>
 
-	<string id="encyclopedia_addons">
-		<text>Dodatkowe</text>
-	</string>
-
 	<string id="st_itm_exo_psu_name">
 		<text>Prowizoryczny zasilacz do egzoszkieletu</text>
 	</string>
@@ -87,7 +83,7 @@
 	<string id="st_batteries_ccell_descr">
 		<text>Ciê¿ka bateria wojskowa do zasilania egzoszkieletów. Opracowane przez ukraiñskie oœrodki badawcze w oparciu o badania Zony, te wysokiej gêstoœci zestawy zasilaj¹ce mog¹ zast¹piæ zu¿yte ogniwa w elektrowniach egzoszkieletów lub przenieœæ energiê do pok³adowego magazynu. Przeci¹gnij na egzoszkielet, aby na³adowaæ jego moc.\n \n
 		%c[ui_gray_3]W£AŒCIWOŒCI:\n
-		%c[d_blue] • %c[ui_gray_2] Bateria do egzoszkieletu\n
+		%c[d_blue] • %c[ui_gray_2] Przedmiot technologiczny\n
 		%c[d_blue] • %c[ui_gray_2] Zasila egzoszkielety\n
 		</text>
 	</string>
@@ -142,7 +138,7 @@
 		<text>Zainstaluj</text>
 	</string>
 	<string id="st_remove_psu">
-		<text>Zdemontuj zasilacz</text>
+		<text>Wymontuj zasilacz</text>
 	</string>
 	<string id="kb_power">
 		<text>Aktywuj moce</text>
@@ -152,11 +148,11 @@
 		<text>•</text>
 	</string>
 	<string id="article_exo">
-		<text>Zasilane egzoszkielety</text>
+		<text>Zasilanie egzoszkieletów</text>
 	</string>
 	<string id="article_exo_text">
 		<text>
-			%c[pda_white]Zasilane egzoszkielety \n \n %c[ui_gray_1] 
+			%c[pda_white]Zasilanie egzoszkieletów \n \n %c[ui_gray_1] 
 			Egzoszkielety maj¹ teraz w³asne, unikalne Ÿród³o zasilania. Poziom mocy musi byæ utrzymywany, aby egzoszkielet móg³ skutecznie siê poruszaæ.
 			\n \n%c[pda_blue]Baterie egzoszkieletów%c[ui_gray_1]
 			\n Rezerwy mocy egzoszkieletu mo¿na na³adowaæ za pomoc¹ baterii zakupionych u handlarzy lub znalezionych w œwiecie. Baterie posiadaj¹ domyœlnie 100% energii, co wystarcza do pe³nego na³adowania nieulepszonego egzoszkieletu.

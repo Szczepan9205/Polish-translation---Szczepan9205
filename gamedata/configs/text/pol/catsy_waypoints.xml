@@ -97,12 +97,28 @@
 		<text>Wyczyœæ WSZYSTKIE pinezki - nie mo¿na cofn¹æ</text>
 	</string>
 
+	<string id = "ui_mcm_pawsys/pawbinds_bind_wptoggle">
+		<text>Naciœnij, aby prze³¹czyæ bie¿¹cy aktywny punkt trasy</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys/pawbinds_bind_wptoggle_desc">
+		<text>Po naciœniêciu ten klawisz wy³¹czy bie¿¹cy punkt trasy (jeœli jest aktywny) lub ponownie aktywuje ostatni punkt trasy, jeœli ¿aden nie jest obecnie aktywny. Nie ma ¿adnego efektu, jeœli nie ustawi³eœ punktu trasy.</text>
+	</string>
+
 	<string id = "ui_mcm_pawsys_pawbinds_bind_wptoggle">
 		<text>Naciœnij, aby prze³¹czyæ bie¿¹cy aktywny punkt trasy</text>
 	</string>
 
 	<string id = "ui_mcm_pawsys_pawbinds_bind_wptoggle_desc">
 		<text>Po naciœniêciu ten klawisz wy³¹czy bie¿¹cy punkt trasy (jeœli jest aktywny) lub ponownie aktywuje ostatni punkt trasy, jeœli ¿aden nie jest obecnie aktywny. Nie ma ¿adnego efektu, jeœli nie ustawi³eœ punktu trasy.</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys/pawbinds_bind_quickpin">
+		<text>Naciœnij klawisz, aby upuœciæ Szybk¹ Pinezkê</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys/pawbinds_bind_quickpin_desc">
+		<text>Po naciœniêciu tego klawisza Szybka Pinezka zostanie umieszczona w najbli¿szym prawid³owym smart_terrainie w stosunku do bie¿¹cej lokalizacji gracza.</text>
 	</string>
 
 	<string id = "ui_mcm_pawsys_pawbinds_bind_quickpin">
@@ -118,6 +134,14 @@
 	</string>
 
 	<string id = "ui_mcm_pawsys_pawbinds_bind_cartmode_desc">
+		<text>Podczas przytrzymania ten klawisz w³¹cza tryb kartografii, który wyœwietla wszystkie prawid³owe inteligentne punkty terenowe i inne narzêdzia pozwalaj¹ce graczowi ustawiaæ i zarz¹dzaæ swoimi pinami. Domyœlne przytrzymanie mo¿na zmieniæ na prze³¹cznik.</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys/pawbinds_bind_cartmode">
+		<text>Powi¹zanie klawiszy dla trybu kartografii</text>
+	</string>
+
+	<string id = "ui_mcm_pawsys/pawbinds_bind_cartmode_desc">
 		<text>Podczas przytrzymania ten klawisz w³¹cza tryb kartografii, który wyœwietla wszystkie prawid³owe inteligentne punkty terenowe i inne narzêdzia pozwalaj¹ce graczowi ustawiaæ i zarz¹dzaæ swoimi pinami. Domyœlne przytrzymanie mo¿na zmieniæ na prze³¹cznik.</text>
 	</string>
 
@@ -653,12 +677,28 @@
 		<text>Aktywna ikona to teraz</text>
 	</string>
 
+	<string id="ui_mcm_pawsys/pawbinds_bind_set_next">
+		<text>Cykl do nastêpnego zestawu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_set_next_desc">
+		<text>Opcjonalne powi¹zanie klawiszy, aby przejœæ do nastêpnego zestawu</text>
+	</string>
+
 	<string id="ui_mcm_pawsys_pawbinds_bind_set_next">
 		<text>Cykl do nastêpnego zestawu</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_set_next_desc">
 		<text>Opcjonalne powi¹zanie klawiszy, aby przejœæ do nastêpnego zestawu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_set_prev">
+		<text>Cykl do poprzedniego zestawu</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_set_prev_desc">
+		<text>Opcjonalne powi¹zanie klawiszy, aby przejœæ do poprzedniego zestawu</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_set_prev">
@@ -669,12 +709,28 @@
 		<text>Opcjonalne powi¹zanie klawiszy, aby przejœæ do poprzedniego zestawu</text>
 	</string>
 
+	<string id="ui_mcm_pawsys/pawbinds_bind_ico_next">
+		<text>Przejœcie do nastêpnej ikony w aktywnym zestawie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_ico_next_desc">
+		<text>Opcjonalne powi¹zanie klawiszy umo¿liwiaj¹ce przejœcie do nastêpnej ikony w aktywnym zestawie</text>
+	</string>
+
 	<string id="ui_mcm_pawsys_pawbinds_bind_ico_next">
 		<text>Przejœcie do nastêpnej ikony w aktywnym zestawie</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_ico_next_desc">
 		<text>Opcjonalne powi¹zanie klawiszy umo¿liwiaj¹ce przejœcie do nastêpnej ikony w aktywnym zestawie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_ico_prev">
+		<text>Przejœcie do poprzedniej ikony w aktywnym zestawie</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_ico_prev_desc">
+		<text>Opcjonalne powi¹zanie klawiszy umo¿liwiaj¹ce przejœcie do poprzedniej ikony w aktywnym zestawie</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_ico_prev">
@@ -685,12 +741,28 @@
 		<text>Opcjonalne powi¹zanie klawiszy umo¿liwiaj¹ce przejœcie do poprzedniej ikony w aktywnym zestawie</text>
 	</string>
 
+	<string id="ui_mcm_pawsys/pawbinds_bind_set_scroll">
+		<text>Przytrzymaj, aby zmieniaæ zestawy za pomoc¹ kó³ka myszy</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_set_scroll_desc">
+		<text>Gdy ten klawisz jest przytrzymany, przewijanie kó³kiem myszy bêdzie cyklicznie prze³¹czaæ listê zestawów, jeœli przewijanie mysz¹ jest w³¹czone.</text>
+	</string>
+
 	<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll">
 		<text>Przytrzymaj, aby zmieniaæ zestawy za pomoc¹ kó³ka myszy</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll_desc">
 		<text>Gdy ten klawisz jest przytrzymany, przewijanie kó³kiem myszy bêdzie cyklicznie prze³¹czaæ listê zestawów, jeœli przewijanie mysz¹ jest w³¹czone.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_ico_scroll">
+		<text>Przytrzymaj, aby zmieniæ ikony za pomoc¹ kó³ka myszy</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_ico_scroll_desc">
+		<text>Gdy ten klawisz jest przytrzymany, przewijanie kó³kiem myszy bêdzie cyklicznie zmieniaæ ikony w aktywnym zestawie, jeœli tryb przewijania jest ustawiony na Przytrzymaj dla obu. </text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll">
@@ -948,12 +1020,12 @@
 
 	<string id="st_pawsys_welcome_msg">
 		<text>$clr_prp[ Zainicjowano system osobistych punktów trasy ]$clr_wht \n \n
-• Kliknij PPM na dowoln¹ widoczn¹ ikonê na mapie, aby ustawiæ niestandardowy znacznik zadania. ($clr_lblwaypoint$clr_wht) lub umieœciæ i opisaæ znaczniki na mapie o nazwie $clr_lblpins$clr_wht.\n
+• Kliknij PPM na dowoln¹ widoczn¹ ikonê na mapie, aby ustawiæ niestandardowy znacznik ($clr_lblpunkt$clr_wht) lub umieœciæ i opisaæ znaczniki na mapie $clr_lblpinezkami$clr_wht.\n
 • Kliknij $clr_yel%s$clr_wht ,aby w³¹czyæ lub wy³¹czyæ punkt trasy w dowolnym momencie. Jeœli nie chcesz, aby znacznik HUD by³ widoczny, mo¿esz go wy³¹czyæ w MCM.\n
-• Kliknij $clr_yel%s$clr_wht ,aby oznaczyæ mapê za pomoc¹ $clr_lblQuick Pin$clr_wht w bie¿¹cej lokalizacji.\n
-• Przytrzymaj $clr_yel%s$clr_wht by wejœæ w $clr_lblTryb kartografa$clr_wht dla wiêkszej liczby funkcji mapy, takich jak $clr_lblpinging$clr_wht mapy, aby wyœwietliæ tymczasowe znaczniki do precyzyjnego umieszczania pinezek i punktów trasy.\n
+• Kliknij $clr_yel%s$clr_wht ,aby oznaczyæ mapê za pomoc¹ $clr_lblSzybka pinezka$clr_wht w bie¿¹cej lokalizacji.\n
+• Przytrzymaj $clr_yel%s$clr_wht by wejœæ w $clr_lblTryb kartografa$clr_wht dla wiêkszej liczby funkcji mapy, takich jak $clr_lblpingowanie$clr_wht mapy, aby wyœwietliæ tymczasowe znaczniki do precyzyjnego umieszczania pinezek i punktów trasy.\n
 \n
-Wszystko to i wiele wiêcej znajdziesz w MCM pod zak³adk¹ $clr_lblRegulowany punkt trasy$clr_wht.\n
+Wszystko to i wiele wiêcej znajdziesz w MCM w zak³adce $clr_lblPAW$clr_wht.\n
 \n
 Ta wiadomoœæ nie bêdzie ciê wiêcej niepokoiæ. Udanych ³owów, %s.</text>
 	</string>
@@ -1150,12 +1222,28 @@ Ta wiadomoœæ nie bêdzie ciê wiêcej niepokoiæ. Udanych ³owów, %s.</text>
 		<text>Punkty trasy i pinezki - Ogólne skróty klawiszowe</text>
 	</string>
 
+	<string id="ui_mcm_pawsys/pawbinds_bind_wp_target_obj">
+		<text>Naciœniêcie klawisza ustawia punkt trasy na obiekcie docel.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_wp_target_obj_desc">
+		<text>Po naciœniêciu tego klawisza punkt trasy zostanie ustawiony - lub przeniesiony - na obiekt znajduj¹cy siê pod celownikiem gracza. Jeœli zosta³ ju¿ ustawiony na obiekt docelowy, zostanie wy³¹czony.</text>
+	</string>
+
 	<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj">
 		<text>Naciœniêcie klawisza ustawia punkt trasy na obiekcie docelowym</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj_desc">
 		<text>Po naciœniêciu tego klawisza punkt trasy zostanie ustawiony - lub przeniesiony - na obiekt znajduj¹cy siê pod celownikiem gracza. Jeœli zosta³ ju¿ ustawiony na obiekt docelowy, zostanie wy³¹czony.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_pin_target_obj">
+		<text>Naciœnij klawisz, aby ustawiæ pinezkê na obiekcie docel.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys/pawbinds_bind_pin_target_obj_desc">
+		<text>Po naciœniêciu tego klawisza pinezka zostanie umieszczona na obiekcie pod celownikiem gracza, jeœli jeszcze jej nie ma, przy u¿yciu bie¿¹cej aktywnej ikony. Jeœli dla celu istnieje ju¿ pinezka, zostanie ona usuniêta.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj">
@@ -1307,7 +1395,7 @@ Ta wiadomoœæ nie bêdzie ciê wiêcej niepokoiæ. Udanych ³owów, %s.</text>
 	<string id="ui_mcm_paw_resolutions_21_9">
 		<text>\n2560x1080\n3440x1440\n3840x1600</text>
 	</string>
-	
+
 <!-- Added in 1.16 -->
 
 	<string id="ui_mcm_menu_pawret">
@@ -1435,7 +1523,7 @@ Ta wiadomoœæ nie bêdzie ciê wiêcej niepokoiæ. Udanych ³owów, %s.</text>
 	<string id="ui_mcm_lst_paw_crosshair_gradient">
 		<text>Celowniki gradientowe</text>
 	</string>
-	
+
 <!-- Added in 1.16.3 -->
 
 	<string id="st_paw_texture_load_error_tip">
@@ -1672,7 +1760,6 @@ Ta wiadomoœæ nie bêdzie ciê wiêcej niepokoiæ. Udanych ³owów, %s.</text>
 		<text>Jeœli gracz znajdzie siê w odleg³oœci wiêkszej ni¿ ta, od której zaczyna siê wygaszanie, punkt trasy zniknie ca³kowicie.</text>
 	</string>
 
-
 <!-- Added in 2.1.2 -->
 
 	<string id="ui_paw_mapspot_tooltip_mode">
@@ -1748,6 +1835,44 @@ Ta wiadomoœæ nie bêdzie ciê wiêcej niepokoiæ. Udanych ³owów, %s.</text>
 
 	<string id="ui_paw_hide_intro_header">
 		<text>$clr_tgrNie pokazuj ponownie tej wiadomoœci wprowadzaj¹cej</text>
+	</string>
+
+
+
+<!-- Added in 2.3 -->
+
+
+	<string id="encyclopedia_addons">
+		<text>Dodatki</text>
+	</string>
+
+	<string id="encyclopedia_addons_addon_name">
+		<text>PAW</text>
+	</string>
+
+	<string id="encyclopedia_addons_addon_name_text">
+		<text>
+
+			Potrzebna zawartoœæ
+
+
+			%c[ui_gray_1]
+			\n%c[pda_yellow]Nazwa dodatku%c[ui_gray_1], a opis idzie tu.\n 
+
+			\nDrugi akapit opisu.\n
+
+			\n%c[pda_white]Z MCM przejdŸ do %c[pda_yellow]MCM > PAW%c[pda_white]:\n
+			%c[pda_yellow]Ogólne%c[pda_white]: Ustawienia ogólne\n \n
+
+			\n%c[pda_green]LISTA FUNKCJI\n
+			%c[pda_yellow]• Pierwsza funkcja%c[ui_gray_1]
+			\nOpis funkcji\n \n
+
+			%c[pda_yellow]• Druga funkcja%c[ui_gray_1]
+			\nOpis funkcji\n \n
+
+			Wszystko, co dalej...
+		</text>
 	</string>
 
 </string_table>

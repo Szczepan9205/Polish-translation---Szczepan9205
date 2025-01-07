@@ -147,7 +147,7 @@
 		<text>¯o³nierz Fortuny</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_text">
-		<text>Duszman chce 12.000 RU jako zabezpieczenie w zamian za mianowanie ciê Najemnikiem.</text>
+		<text>Daj Duszmanowi 12.000 RU jako zabezpieczenie w zamian za mianowanie ciê Najemnikiem.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_about">
 		<text>Ten biznes bêdzie ciê kosztowaæ dwanaœcie tysiêcy. Ze wzglêdu na pobyt w Zonie, nie mo¿emy sobie aktualnie pozwoliæ na nasze standardowe procedury rekrutacyjne. Niech to bêdzie forma zastawu, w razie gdybyœ póŸniej zdecydowa³ siê zrezygnowaæ z bycia jednym z nas.\n \nKierujemy siê tu profesjonalizmem i gotowoœci¹. Mo¿esz trzymaæ tu swoj¹ broñ. Jak siê napijesz z ch³opakami, to nie zarzygaj pod³ogi Tu ka¿dy sam sprz¹ta swoje brudy. Pasuje? </text>
@@ -170,7 +170,7 @@
 		<text>Nic osobistego</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_task_1_text">
-		<text>Dosta³eœ zlecenie na znalezienie i wyeliminowanie celu. Wróæ po zap³atê, kiedy ukoñczysz zadanie.</text>
+		<text>ZnajdŸ i wyeliminuj cel.</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_task_1_about">
 		<text>Nasz zleceniodawca posiada listê pe³n¹ zleceñ. Potrzebujemy chêtnych, którzy zajm¹ siê dyskretn¹ eliminacj¹ celów, co pozwoli nam wywi¹zaæ siê ze zobowi¹zañ wobec klienta. Zainteresowany?</text>
@@ -191,7 +191,7 @@
 		<text>Chcia³bym, abyœ poprowadzi³ atak, który planujemy. Oczyœæ oznaczony obszar ze wszelkich jednostek wroga, na które siê natkniesz.</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_task_2_finish">
-		<text>Wyœmienita robota. Dobry z ciebie wojownik.</text>
+		<text>Wyœmienita robota. A oto twoja wyp³ata.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -204,7 +204,7 @@
 		<text>Przechwyæ wrogie dokumenty i zwróæ je Duszmanowi.</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_task_3_about">
-		<text>Zleceniodawca poinformowa³ nas o dokumentach, które obecnie znajduj¹ siê w rêkach wrogach. Zdob¹dŸ je i dostarcz mi, a dostaniesz zap³atê.</text>
+		<text>Nasz zleceniodawca poinformowa³ nas o dokumentach, które obecnie znajduj¹ siê w rêkach wrogach. Zdob¹dŸ je i dostarcz mi, a dostaniesz zap³atê.</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_task_3_finish">
 		<text>Dobra robota.</text>
@@ -220,34 +220,34 @@
 	<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ dla Wieprza %s</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
-		<text>%s s¹ potrzebne Wieprzowi do instalacji podstawowych ulepszeñ pancerzy i broni. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Wieprz z pewnoœci¹ widzia³by w swoim nowe %s. Przyda³yby mu siê do instalacji podstawowych ulepszeñ kombinezonów i broni. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_1_about">
 		<text>Mam dla ciebie propozycjê. Jeœli przyniesiesz mi nowe narzêdzia, to dostaniesz zap³atê. Piszesz siê na taki uk³ad?</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
-		<text>Jest. %s, szukam ich wszêdzie. Zestaw powinien zawieraæ trochê narzêdzi i olej, których potrzebujê do pracy przy broni palnej. Zap³acê ci za jeden z tych zestawów, jeœli przyniesiesz mi takowy.</text>
+		<text>%s - szukam ich wszêdzie i nie mogê ¿adnych znaleŸæ. Zestaw powinien zawieraæ trochê narzêdzi i olej, których potrzebujê do pracy przy broni palnej. Zap³acê ci za jeden z tych zestawów, jeœli przyniesiesz mi takowy.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
-		<text>Wyœmienicie! Dok³adnie takie, jakich szuka³em. Dziêki!</text>
+		<text>Wyœmienicie! To dok³adnie takie, jakich szuka³em. Dziêki!</text>
 	</string>
 
 
 
 	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ dla Wieprza %s</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
-		<text>%s s¹ potrzebne Wieprzowi do instalacji zaawansowanych ulepszeñ pancerzy i broni. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Wieprz z pewnoœci¹ widzia³by w swoim nowe %s. Przyda³yby mu siê do instalacji zaawansowanych ulepszeñ kombinezonów i broni. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
 		<text>Mam dla ciebie kolejn¹ propozycjê. Narzêdzia które przynios³eœ dobrze mi s³u¿¹, ale ten zestaw nie zawiera wszystkiego, czego potrzebujê. Myœlisz, ¿e jesteœ w stanie znaleŸæ mi lepszy?</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
-		<text>. Nie jestem pewny, gdzie móg³byœ takie znaleŸæ, ale jeœli ju¿ wpadn¹ ci w rêce, to przynieœ je do mnie.</text>
+		<text>Potrzebne mi %s. Nie jestem pewny, gdzie móg³byœ takie znaleŸæ, ale jeœli ju¿ wpadn¹ ci w rêce, to przynieœ je do mnie.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
 		<text>Teraz mam wszystko, czego potrzebujê. Dziêkujê.</text>
@@ -256,16 +256,16 @@
 
 
 	<string id="cit_killers_merc_mechanic_stalker_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ dla Wieprza %s</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_3_text">
-		<text>%s s¹ potrzebne Wieprzowi do instalacji precyzyjnych ulepszeñ pancerzy i broni. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
+		<text>Wieprz z pewnoœci¹ widzia³by w swoim nowe %s. Przyda³yby mu siê do instalacji precyzyjnych ulepszeñ kombinezonów i broni. Powinieneœ mu je dostarczyæ, jeœli zdo³asz jakieœ znaleŸæ.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_3_about">
 		<text>Mam dla ciebie jeszcze jedn¹ propozycjê. Narzêdzia, które mi ostatnio dostarczy³eœ sprawdzaj¹ siê, ale nie zawieraj¹ wszystkiego, czego potrzebujê. Myœlisz, ¿e jesteœ w stanie znaleŸæ mi jeszcze lepszy zestaw?</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
-		<text>%s s¹ mi potrzebne. Nie mam pojêcia gdzie takowe znajdziesz, ale jeœli uda ci siê je znaleŸæ, to przynieœ je do mnie.</text>
+		<text>Potrzebne mi %s. Nie mam pojêcia gdzie takowe znajdziesz, ale jeœli uda ci siê je znaleŸæ, to przynieœ je do mnie.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
 		<text>Mam ju¿ wszystko, czego potrzebowa³em. Dziêkujê.</text>
@@ -280,23 +280,23 @@
 		<text>Pozb¹dŸ siê celu wskazanego przez Aslana.</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_1_about">
-		<text>Tak, zawsze znajdzie siê coœ do roboty. Ja dajê ci koordynaty, a ty pozbywasz siê celu.</text>
+		<text>Tak, zawsze znajdzie siê coœ do roboty. Ja dajê ci koordynaty, a ty pozbywasz siê celu. £atwizna!</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_1_finish">
 		<text>Dobra robota, oto twoja zap³ata.</text>
 	</string>
 	
 	<string id="cit_killers_merc_barman_mlr_task_2_name">
-		<text>Zdob¹dŸ %s</text>
+		<text>Cele motywacyjne</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_2_text">
-		<text>Aslan poprosi³ ciê o zdobycie: %s.</text>
+		<text>Przynieœ Aslanowi %s.</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_2_about">
 		<text>Czujesz siê na si³ach, ¿eby pozbyæ siê kilku osób? Powiem ci ile naszywek musisz zdobyæ, a ty przyniesiesz mi je i dostaniesz nagrodê.</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_2_fetch_about">
-		<text>Czujesz siê na si³ach, ¿eby pozbyæ siê kilku osób? Przynieœ mi %s, a zostaniesz hojnie wynagrodzony.</text>
+		<text>Niektórzy z naszych konkurentów staj¹ siê nieco aroganccy. Staj¹ siê zbyt zuchwali, wtykaj¹c nos tam, gdzie nie powinni. Dajmy im wiêc ostrze¿enie. Przynieœ mi wystarczaj¹c¹ iloœæ %s, a zostaniesz sowicie wynagrodzony.</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_2_fetch_finish">
 		<text>Dobra robota. Trzymaj kasê.</text>
@@ -306,7 +306,7 @@
 		<text>£owca mutantów</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_3_text">
-		<text>Aslan poprosi³ ciê o zdobycie: %s.</text>
+		<text>Aslan poprosi³ o zdobycie %s.</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_3_about">
 		<text>Tak, zawsze znajdzie siê dla ciebie jakaœ robota. Mamy bogatego klienta zainteresowanego czêœciami rzadkich mutantów. Przynieœ je do mnie, a sprawiê, aby ci siê to op³aci³o.</text>
@@ -322,13 +322,13 @@
 		<text>£owca przeciw ³owcy</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_4_text">
-		<text>Aslan chce wyeliminowaæ mutanta grasuj¹cego w Czerwonym Lesie.</text>
+		<text>Aslan chce by wyeliminowaæ mutanta grasuj¹cego w Czerwonym Lesie.</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_4_about">
 		<text>S³uchaj. Ponoæ po Czerwonym Lesie panoszy siê paskudne chimerzysko. W Zonie maj¹ takiego pietra, ¿e ju¿ nawet ca³e oddzia³y odmawiaj¹ patroli w tej g³uszy. W sumie im siê nie dziwiê - ta pokraka jest ponoæ ca³a czarna! Wyobra¿asz sobie? Nie doœæ, ¿e chimera w puszczy, to jeszcze, kurwa, czarna jak smo³a.\n \nTo mo¿e byæ ta sama sucz, która kiedyœ za³atwi³a naszych zwiadowców. Skoro znów siê pojawi³a, to chcê, ¿ebyœ j¹ wytropi³ i zat³uk³ raz na zawsze. Przygotuj sobie szpej i do roboty.</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_task_4_finish">
-		<text>Œwietna robota, stalkerze. A wiêc, oto twoja nagroda. Zas³u¿y³eœ na ni¹.</text>
+		<text>Œwietna robota, stalkerze. A wiêc, oto twoja nagroda, zas³u¿y³eœ na ni¹! Dokona³eœ te¿ czegoœ, do czego musia³bym zatrudniæ ca³y oddzia³. Jeœli kiedykolwiek opuœcisz Zonê, pozostañ w kontakcie ze mn¹. Znam kilku pracodawców, którym przyda³by siê ktoœ taki jak ty.</text>
 	</string>
 
 	<string id="cit_killers_merc_barman_mlr_task_5_name">
@@ -346,19 +346,19 @@
 	
 <!-- Surgeon (Mercenary Medic) -->
 	<string id="cit_killers_merc_medic_stalker_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ Zszywaczowi %s</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_text">
-		<text>%s jest potrzebny Zszywaczowi do produkcji medykamentów. Przynieœ mu takowy jeœli wpadnie ci taki w rêce.</text>
+		<text>Zszywacz potrzebuje %s do produkcji medykamentów. Przynieœ mu takowy jeœli wpadnie ci taki w rêce.</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_about">
-		<text>Bior¹c pod uwagê to, co zosta³o z naszych zapasów medycznych, to z tak¹ liczb¹ urazów jak¹ muszê siê dziennie zajmowaæ, zaczynam siê powa¿nie martwiæ, stalkerze. Prêdzej czy póŸniej zabraknie mi banda¿y i apteczek. Chcia³bym, ¿ebyœ znalaz³ mi jeden z tych starych zestawów do produkcji leków. Jestem pewien, ¿e siê przyda.</text>
+		<text>Tak, jest coœ, czym trzeba by siê zaj¹æ. Wprawdzie mobilne laboratorium nad Jantarem nie jest zbyt daleko, ale nie chcê, by nasze oddzia³y sta³y siê zale¿ne od ich zaopatrzenia medycznego. Przynieœ mi %s, a bêdê móg³ zacz¹æ produkowaæ wystarczaj¹c¹ iloœæ leków dla wszystkich naszych ludzi. Nie martw siê, od³o¿y³em ju¿ na to trochê rubli, wiêc mogê ci odpowiednio zap³aciæ, gdy wrócisz z towarem.</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_fetch_about">
-		<text>¯ebyœ wiedzia³ ¿e jest. %s, wszêdzie tego szukam. Powinien zawieraæ odpowiedni koktajl sk³adników potrzebny mi do produkcji leków ka¿dego typu. Oczywiœcie dla u¿ytku medycznego. Wiem, co niektórzy ludzie mówi¹ na mój temat. Nie s³uchaj tego pierdolenia. Wszystko, co mi potrzebne to przyzwoity zestaw i znów bêdê w stanie doprowadziæ moj¹ ma³¹ klinikê do przyzwoitego stanu.</text>
+		<text>Tak, jest coœ, czym trzeba by siê zaj¹æ. Wprawdzie mobilne laboratorium nad Jantarem nie jest zbyt daleko, ale nie chcê, by nasze oddzia³y sta³y siê zale¿ne od ich zaopatrzenia medycznego. Przynieœ mi %s, a bêdê móg³ zacz¹æ produkowaæ wystarczaj¹c¹ iloœæ leków dla wszystkich naszych ludzi. Nie martw siê, od³o¿y³em ju¿ na to trochê rubli, wiêc mogê ci odpowiednio zap³aciæ, gdy wrócisz z towarem.</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_fetch_finish">
-		<text>Œwietna robota! Mam u ciebie d³ug.</text>
+		<text>Niech no spojrzê... dobrze, to powinno wystarczyæ! Dziêkujê ci bardzo za twoje us³ugi. A oto twoje wynagrodzenie.</text>
 	</string>
 
 </string_table>

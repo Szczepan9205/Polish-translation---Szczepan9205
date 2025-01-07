@@ -9,6 +9,9 @@
 	<string id="ui_mcm_grok_casings_sounds_enabled">
 		<text>W³¹cz</text>
 	</string>
+	<string id="ui_mcm_grok_casings_sounds_ubgl_enabled">
+		<text>DŸwiêki ³uski pocisku do granatnika podlufowego</text>
+	</string>
 	<string id="ui_mcm_grok_casings_sounds_volume">
 		<text>G³oœnoœæ</text>
 	</string>
@@ -17,5 +20,32 @@
 	</string>
 	<string id="ui_mcm_grok_casings_sounds_ice_patch_desc">
 		<text>Poprawia dŸwiêki spadania ³usek podczas strzelania na lodzie</text>
+	</string>
+
+	<string id="ui_mcm_grok_casings_sounds_enabled_aim_rattle">
+		<text>W³¹cz grzechotanie broni przy celowaniu/po zakoñczeniu celowania</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_enabled_lower_raise_rattle">
+		<text>W³¹cz grzechotanie przy opuszczaniu/podnoszeniu broni</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_volume_aim_rattle">
+		<text>G³oœnoœæ grzechotania przy celowaniu/po zakoñczeniu celowania</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_volume_lower_raise_rattle">
+		<text>G³oœnoœæ grzechotania przy opuszczaniu/podnoszeniu broni</text>
+	</string>
+
+	<string id="ui_mcm_grok_casings_sounds_enabled_sprint_rattle">
+		<text>W³¹cz grzechotanie podczas sprintowania</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_volume_sprint_rattle">
+		<text>G³oœnoœæ grzechotania podczas sprintowania</text>
+	</string>
+
+	<string id="ui_mcm_grok_casings_sounds_enabled_reload_hint">
+		<text>W³¹cz dŸwiêk niskiego poziomu amunicji</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_volume_reload_hint">
+		<text>DŸwiêk niskiego poziomu amunicji</text>
 	</string>
 </string_table>

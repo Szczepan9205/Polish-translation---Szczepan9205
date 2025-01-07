@@ -26,8 +26,8 @@
 		<text>Dziwne i zaawansowane technologicznie urz¹dzenie stworzone przez Profesora Sacharowa. Przetapiacz Artefaktów (PA) umo¿liwia manipulowanie materia³ami artefaktów. Narzêdzie to jest zasilane energi¹ utrzymywan¹ przez artefakty, któr¹ mo¿na pozyskaæ i przechowywaæ do dalszych zastosowañ poprzez ich stopienie. Przetapiacz Artefaktów mo¿e równie¿ wzmacniaæ artefakty tego samego rodzaju, a nawet ³¹czyæ artefakty ró¿nego rodzaju w celu wygenerowania nowych. Procesy chemiczne i fizyczne nie s¹ jeszcze w pe³ni zrozumia³e. Ostatnie badania wskazuj¹ na zdolnoœæ narzêdzia do wykorzystania mocy Noosfery. Inne eksperymenty wykaza³y, ¿e PA dzia³a tylko w Zonie. Odkrycia te szybko sk³oni³y wiêkszoœæ wysoko postawionych stalkerów do zdobycia takiego narzêdzia w celu stworzenia silniejszych i dro¿szych artefaktów na czarny rynek lub na w³asny u¿ytek.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_cyan] • %c[0,255,255,255] Przetapianie artefaktów: Przytrzymaj klawisz (lewy alt) i przesuñ urz¹dzenie do nad dowolny artefakt, aby go przetopiæ i nape³niæ zbiornik PA. Im bardziej unikalny artefakt, tym wiêcej mocy zostanie odzyskane.\n
-		%c[d_cyan] • %c[0,255,255,255] Wzmacnianie artefaktów: Wybierz opcjê "wzmocnij artefakty" w menu g³ównym PA, aby po³¹czyæ artefakty tego samego rodzaju i wzmocniæ je.\n
-		%c[d_cyan] • %c[0,255,255,255] £¹czenie artefaktów: Wybierz "fuzja artefaktów" w menu g³ównym PA i otwórz podmenu receptury, aby wygenerowaæ nowy artefakt z 2 lub wiêcej artefaktów. Wynikowy artefakt ma œredni stan u¿ytych artefaktów. PA zawiera ju¿ znane i "bezpieczne" kombinacje artefaktów.\n
+		%c[d_cyan] • %c[0,255,255,255] Wzmacnianie artefaktów: Wybierz opcjê "Wzmocnij artefakt" w menu g³ównym PA, aby po³¹czyæ artefakty tego samego rodzaju i wzmocniæ je.\n
+		%c[d_cyan] • %c[0,255,255,255] £¹czenie artefaktów: Wybierz "Fuzja artefaktów" w menu g³ównym PA i otwórz podmenu receptury, aby wygenerowaæ nowy artefakt z 2 lub wiêcej artefaktów. Wynikowy artefakt ma œredni stan u¿ytych artefaktów. PA zawiera ju¿ znane i "bezpieczne" kombinacje artefaktów.\n
 		%c[d_cyan] • %c[0,255,255,255] Uwaga: %c[ui_gray_2]PA ma wbudowane protoko³y bezpieczeñstwa, aby unikn¹æ jakichkolwiek awarii. Jeœli narzêdzie odmówi dzia³ania, upewnij siê, ¿e zbiornik PA zawiera wiêcej ni¿ 10% (1 u¿ycie) jego ca³kowitej pojemnoœci.\n \n
 		</text>
 	</string>
@@ -40,5 +40,21 @@
 		%c[d_orange] • %c[ui_gray_2] Zdolny do zlokalizowania wszystkich artefaktów znanych nauce\n
 		</text>
 	</string>
+
+	<string id="ui_mcm_menu_grok_artefacts_bip">
+		<text>Pasyw. wykryw. artef.</text>
+	</string>
 	
+	<string id="ui_mcm_menu_grok_artefacts_bip_title">
+		<text>Pasywne wykrywanie artefaktów</text>
+	</string>
+
+	<string id="ui_mcm_grok_artefacts_bip_title">
+		<text>Pasywne wykrywanie artefaktów</text>
+	</string>
+	
+	<string id="ui_mcm_grok_artefacts_bip_enabled">
+		<text>WskaŸnik ikony artefaktu</text>
+	</string>
+		
 </string_table>

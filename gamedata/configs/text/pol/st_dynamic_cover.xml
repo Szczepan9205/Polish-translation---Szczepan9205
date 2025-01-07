@@ -1,0 +1,62 @@
+<string_table>
+    <string id="ui_mcm_dynamic_cover_title">
+        <text>Konfiguracja dynamicznych kryjówek przed emisj¹</text>
+    </string>
+     <string id="ui_mcm_menu_dynamic_cover">
+        <text>Dyn. kryjówki</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_distance_factor">
+        <text>Wymagany wspó³czynnik kryjówek</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_distance_factor_desc">
+        <text>Wy¿sza wartoœæ utrudnia znalezienie kryjówki</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_north_cover_bonus">
+        <text>Bonus za kryjówkê skierowan¹ na pó³noc</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_north_cover_bonus_desc">
+        <text>Kryjówka skierowana na pó³noc jest bardziej skuteczna podczas emisji</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_show_cover_bar">
+        <text>Poka¿ wskaŸnik os³ony</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_show_cover_bar_desc">
+        <text>Pokazuje pasek wskazuj¹cy, ile masz kryjówek podczas emisji\nChowa siê, gdy siê ukryjesz.</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_cover_range">
+        <text>Zakres kryjówek dynamicznych</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_cover_range_desc">
+        <text>Zakres, w którym mod sprawdza prawid³owe kryjówki wokó³ ciebie.</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_rays_per_update">
+        <text>Promienie sprawdzaj¹ce kryjówki na klatkê</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_rays_per_update_desc">
+        <text>Zmniejsz, jeœli wystêpuj¹ problemy z liczb¹ klatek na sekundê\nZwiêksz, aby uzyskaæ szybsze i bardziej spójne sprawdzanie kryjówek.</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_debug_mode">
+        <text>Tryb debugowania</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_debug_mode_desc">
+        <text>Do celów testowych! Umo¿liwi to sprawdzanie kryjówek przed emisj¹ (w tym premii do kryjówki skierowanej na pó³noc) i tworzenie cz¹stek w punktach koñcowych promieni u¿ywanych do sprawdzania kryjówek.</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_protect_companions">
+        <text>Zasiêg ochrony towarzyszy w kryjówce</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_protect_companions_desc">
+        <text>Podczas korzystania z dynamicznej kryjówki towarzysze znajduj¹cy siê w tym zakresie (w metrach) s¹ równie¿ chronieni.\nUstaw na 0, aby wy³¹czyæ.</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_grace_period">
+        <text>Okres ochrony</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_grace_period_desc">
+        <text>Iloœæ sekund ochrony po opuszczeniu dynamicznej kryjówki</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_hud_show_delay">
+        <text>OpóŸnienie paska wskaŸnika</text>
+    </string>
+    <string id="ui_mcm_dynamic_cover_hud_show_delay_desc">
+        <text>OpóŸnienie wyœwietlenia paska wskaŸnika</text>
+    </string>
+</string_table>

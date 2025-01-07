@@ -6,10 +6,10 @@
 		<text>Sezon ³owiecki</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_text">
-		<text>Oczyœæ legowisko mutantów.</text>
+		<text>RzeŸnik namierzy³ kryjówkê mutantów, któr¹ trzeba oczyœciæ.</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_about">
-		<text>Hmm. Namierzy³em legowisko mutantów, któr¹ przyda³oby siê oczyœciæ. Mutanty zaczynaj¹ sprawiaæ k³opoty miejscowym stalkerom, ale dobrze przygotowany ³owca nie powinien mieæ z nimi wiêkszego problemu. Masz dziœ ochotê na polowanie? Zap³acê ci za twoje umiejêtnoœci, a po powrocie mo¿esz sprzedaæ mi miêso lub trofea.</text>
+		<text>Hmm... Namierzy³em legowisko mutantów, któr¹ przyda³oby siê oczyœciæ. Mutanty zaczynaj¹ sprawiaæ k³opoty miejscowym stalkerom, ale dobrze przygotowany ³owca nie powinien mieæ z nimi wiêkszego problemu. Masz dziœ ochotê na polowanie? Zap³acê ci za twoje umiejêtnoœci, a po powrocie mo¿esz sprzedaæ mi miêso lub trofea.</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_finish">
 		<text>Po raz kolejny lokalny ekosystem odzyska³ równowagê... he he. Oto nagroda za dobrze wykonan¹ pracê.</text>
@@ -19,7 +19,7 @@
 		<text>Ka¿de polowanie jest inne</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_text">
-		<text>Zlecenie RzeŸnika - dostarcz mu %s.</text>
+		<text>RzeŸnik poprosi³, aby przynieœæ mu %s.</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_about">
 		<text>Niektórzy nieŸle p³ac¹ za miêso mutantów.</text>
@@ -37,13 +37,13 @@
 		<text>Pola Cudów</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_text">
-		<text>Handlarz z Pchlego Targu poszukuje artefaktu %s.</text>
+		<text>Handlarz z Pchlego Targu poszukuje %s.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_about">
 		<text>Ty! Chcesz przytuliæ trochê kasy i chabaru? Potrzebujê paru rzadkich artów. Mia³bym w zamian trochê niez³ego sprzêtu dla ciebie.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_fetch_about">
-		<text>Ty! Chcesz przytuliæ trochê kasy i chabaru? Potrzebujê paru rzadkich artów. Chyba móg³bym zaoferowaæ ci w zamian za "%s" coœ ciekawego.</text>
+		<text>Masz ochotê zdobyæ trochê ³upów podczas poszukiwania rzadkich artefaktów? W zamian za %s mogê zaoferowaæ ci coœ ciekawego.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_fetch_finish">
 		<text>NieŸle, stalkerze... naprawdê nieŸle. Proszê, to dla ciebie, zgodnie z umow¹.</text>

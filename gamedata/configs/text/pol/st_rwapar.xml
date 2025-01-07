@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--
+	Weapons
+-->
+<string_table>
+  <string id="st_wpn_bcm">
+    <text>BCM CQB MCMR-10</text>
+  </string>
+  <string id="st_wpn_bcm_descr">
+    <text>M4A1 jest w pełni automatycznym wariantem karabinka M4. Ta niestandardowa wersja M4A1 wyprodukowana przez Bravo Company jest przeznaczona do użytku w sytuacjach CQB (walka na bliskim dystansie).\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]BCM\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2017\n
+		</text>
+  </string>
+  <string id="st_wpn_urgi">
+    <text>M4A1 URG-I</text>
+  </string>
+  <string id="st_wpn_urgi_descr">
+    <text>„Urgie” to kompletny górny zespół M4A1 dostępny za pośrednictwem Geissele Automatics i jest to również najnowsza ewolucja M4. URG-I (Upper Receiver Group, Improved) powstał w wyniku projektu kontraktowego USASOC (Dowództwo Operacji Specjalnych Armii Stanów Zjednoczonych; koniec z „SOCOM”), mającego na celu opracowanie ulepszonej wersji M4.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Geissele Automatics\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2018\n
+		</text>
+  </string>
+  <string id="st_wpn_gen12">
+    <text>TTI JW4 Dracarys Gen-12</text>
+  </string>
+  <string id="st_wpn_gen12_descr">
+    <text>Jeśli kiedykolwiek znajdziesz się w sytuacji, w której będziesz miał całkowitą przewagę liczebną i będziesz potrzebował ostatecznej broni do walki w zwarciu, strzelba TTI JW4 Dracarys Gen-12 będzie najlepszym wyborem. Żadna strzelba z magazynkiem w historii nie była tak niezawodna, solidnie zbudowana i wszechstronna jak TTI Dracarys Gen-12. Ostatnim miejscem, w którym chcesz się znaleźć, jest cień tej ziejącej ogniem bestii, która pozostawia po sobie jedynie spaloną ziemię.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Genesis Arms\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2022\n
+		</text>
+  </string>
+  <string id="st_wpn_cr7">
+    <text>Crom CR-7</text>
+  </string>
+  <string id="st_wpn_cr7_descr">
+    <text>CR-7 z komorą nabojową .338 Lapua Magnum posiada unikalną 7-stronną poligonalną konstrukcję lufy, która zapewnia doskonałą celność i zmniejszoną wagę. Lekka kolba z kompozytu włókna węglowego została zaprojektowana z myślą o maksymalnej trwałości i komforcie, a zintegrowany chwyt przedni zapewnia lepszą manewrowość.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]CROM USA\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2019\n
+		</text>
+  </string>
+  <string id="st_wpn_n4">
+    <text>Noveske Gen4 Shorty</text>
+  </string>
+  <string id="st_wpn_n4_descr">
+    <text>Noveske Gen 4 5.56 Shorty to szczyt wydajności karabinków AR15, wykonany skrupulatnie przez wykwalifikowanych mechaników. Ten karabin z krótką lufą posiada w pełni wyposażony dolny odbiornik wojskowy i własną lufę, zapewniając jakość i precyzję w każdym elemencie.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Noveske Rifleworks\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2019\n
+		</text>
+  </string>
+  <string id="st_wpn_ks1">
+    <text>KS-1 L403A1</text>
+  </string>
+  <string id="st_wpn_ks1_descr">
+    <text>KS-1 (Knight's Stoner 1), oznaczony jako L403A1, to karabin szturmowy zaprojektowany przez Knight's Armament Company. Został on przyjęty przez Royal Marines i Ranger Regiment w celu zastąpienia SA80 w Siłach Operacji Specjalnych, w szczególności w Wojskowej Brygadzie Operacji Specjalnych i Future Commando Force.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Knight's Armament Company\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2023\n
+		</text>
+  </string>
+  <string id="st_wpn_mpx">
+    <text>SIG MPX</text>
+  </string>
+  <string id="st_wpn_mpx_descr">
+    <text>Pistolet maszynowy SIG Sauer MPX może pochwalić się niespotykaną szybkością działania w znanej formie platformy AR. Tłok gazowy o krótkim skoku pozwala SIG MPX na użycie pełnej gamy amunicji 9 mm bez konieczności regulacji zaworu gazowego. Pełnowymiarowy montaż umożliwia instalację szerokiej gamy celowników i przyrządów celowniczych.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]SIG Sauer\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2015\n
+		</text>
+  </string>
+  <string id="wpn_m110k1">
+    <text>KAC M110K1</text>
+  </string>
+  <string id="wpn_m110k1_descr">
+    <text>M110K1 Semi Automatic Sniper System (M110 SASS) to amerykański półautomatyczny karabin snajperski z komorą na nabój 7,62x51 mm NATO. Jest produkowany przez Knight's Armament Company.\n \n
+		%c[0,255,255,255]CHARAKTERYSTYKI:\n
+		%c[d_cyan] • %c[0,255,255,255]Kraj pochodzenia: %c[ui_gray_1]USA\n
+		%c[d_cyan] • %c[0,255,255,255]Producent: %c[ui_gray_1]Knight's Armament Company\n
+		%c[d_cyan] • %c[0,255,255,255]Rok produkcji: %c[ui_gray_1]2008\n
+		</text>
+  </string>
+</string_table>

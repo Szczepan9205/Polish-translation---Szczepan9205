@@ -137,10 +137,10 @@
 		<text>Prypeci</text>
 	</string>
 	<string id="tb_loc_aes1">
-		<text>CEA-1</text>
+		<text>CzEJ-1</text>
 	</string>
 	<string id="tb_loc_aes2">
-		<text>CEA-2</text>
+		<text>CzEJ-2</text>
 	</string>
 	<string id="tb_loc_gen">
 		<text>Generatorów</text>
@@ -161,7 +161,7 @@
 		<text>£¹ki</text>
 	</string>
 	<string id="tb_loc_dbg">
-		<text>lokacji do debuggingu</text>
+		<text>Lokacji do debuggingu</text>
 	</string>
 
 </string_table>

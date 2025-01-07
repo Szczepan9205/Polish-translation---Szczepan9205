@@ -3,10 +3,10 @@
 
 <!-- Mechanic -->
 	<string id="dasc_tech_mlr_task_1_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Samotników z Mrocznego W¹wozu</text>
 	</string>
 	<string id="dasc_tech_mlr_task_1_text">
-		<text>Zlecenie od technika z tartaku - przynieœ mu %s.</text>
+		<text>Technik z tartaku poprosi³, ¿ebym znaleŸæ mu %s.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_1_about">
 		<text>Jak ju¿ pewnie zd¹¿y³eœ zauwa¿yæ, ta okolica to totalne pustkowie. Choæby tutaj - niby by³ tu tartak, a nie zosta³o nic oprócz suchych pni i belek. \n \nPrzyda³by mi siê jakiœ zestaw do pracy... Jeœli znalaz³byœ jakieœ narzêdzia, nawet najprostsze - proszê, dostarcz mi je.</text>
@@ -19,10 +19,10 @@
 	</string>
 
 	<string id="dasc_tech_mlr_task_2_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Samotników z Mrocznego W¹wozu</text>
 	</string>
 	<string id="dasc_tech_mlr_task_2_text">
-		<text>Zlecenie od technika z tartaku - przynieœ mu %s.</text>
+		<text>Technik z tartaku poprosi³, ¿ebym znaleŸæ mu %s.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_2_about">
 		<text>Skoro znalaz³eœ jeden zestaw narzêdzi, to mo¿e wiesz, gdzie szukaæ takiego bardziej zaawansowanego? U³atwi³by mi ¿ycie.</text>
@@ -35,10 +35,10 @@
 	</string>
 
 	<string id="dasc_tech_mlr_task_3_name">
-		<text>ZnajdŸ %s</text>
+		<text>ZnajdŸ %s dla technika Samotników z Mrocznego W¹wozu</text>
 	</string>
 	<string id="dasc_tech_mlr_task_3_text">
-		<text>Zlecenie od technika z tartaku - przynieœ mu %s.</text>
+		<text>Technik z tartaku poprosi³, ¿ebym znaleŸæ mu %s.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_3_about">
 		<text>Zdajê sobie sprawê, ¿e trochê przesadzam, prosz¹c o coœ jeszcze w tym zapomnianym przez Boga i ludzi miejscu... Ale mo¿e móg³byœ mi zdobyæ trzeci, najbardziej z³o¿ony zestaw? Zestaw narzêdzi precyzyjnych by³by idealny.</text>

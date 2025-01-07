@@ -253,7 +253,7 @@
 		<text>Hip</text>
 	</string>
 	<string id="encyclopedia_characters_hip_text">
-		<text>%c[pda_white]Hip%c[ui_gray_1] jest by³ym cz³onkiem Wolnoœci. Teraz mieszka w Wiosce Kotów.\n \n
+		<text>%c[pda_white]Hip%c[ui_gray_1] jest by³ym cz³onkiem Wolnoœci. Teraz mieszka w Wiosce kotów.\n \n
 		%c[pda_green]Informacje:\n
 		%c[ui_gray_1]¯yje w Zonie niemal od jej pocz¹tków. Do tej pory ceni³a sobie stalkerskie ¿ycie ze wzglêdu na to, ¿e jest ciche i nie trzeba za du¿o gadaæ. Rzadko wybiera siê g³êboko w Zonê, nawet po tylu latach. Przeciêtny stalker postrzega j¹ jako niewiele lepsz¹ od byle nowicjusza. Od niedawna stara siê zdobyæ odpowiednie kontakty, by zaistnieæ w œwiecie.
 		</text>
@@ -476,7 +476,7 @@
 		<text>%c[pda_white]Sokó³%c[ui_gray_1] to tymczasowy technik przy mobilnym laboratorium w Jantarze.\n \n
 		%c[pda_green]Informacje:\n
 		%c[ui_gray_1]To doœwiadczony ¿o³nierz armii ukraiñskiej. Trzy lata temu uzyska³ bardzo dobr¹ opiniê po tym, jak uratowa³ ¿ycie naukowcom zaatakowanym przez snorki w trakcie obserwacji anomalii Skalne Szpony w Agropromie.\n \n
-		Dziêki jego du¿ej wiedzy z zakresu technologii wyposa¿enia i detektorów anomalii, Major KuŸniecow oddelegowa³ go na proœbê prof. Sacharowa do mobilnego laboratorium w Jantarze, by asystowa³ Naukowcom i zapewnia³ im ochronê.
+		Dziêki jego du¿ej wiedzy z zakresu technologii wyposa¿enia i detektorów anomalii, Pu³kownik Kuzniecow oddelegowa³ go na proœbê prof. Sacharowa do mobilnego laboratorium w Jantarze, by asystowa³ Naukowcom i zapewnia³ im ochronê.
 		</text>
 	</string>
 

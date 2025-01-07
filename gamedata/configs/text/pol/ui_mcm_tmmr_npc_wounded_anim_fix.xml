@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_mcm_menu_tmmr">
+		<text>Mini repoz. Tosox'a</text>
+	</string>
+
+    <string id="ui_mcm_menu_npc_wounded_anim_fix">
+        <text>Fiks anim. rann. NPC</text>
+    </string>
+	<string id="ui_mcm_tmmr_npc_wounded_anim_fix_title">
+		<text>Fiks animacji rannego NPC</text>
+	</string>
+	<string id="ui_mcm_tmmr_npc_wounded_anim_fix_handle_weapon">
+		<text>Obsługa broni NPC</text>
+	</string>
+    <string id="ui_mcm_tmmr_npc_wounded_anim_fix_handle_weapon_desc">
+		<text>Ekwipunek - przeniesienie do ekwipunku NPC'a.\nWyrzuć - wyrzuć na ziemię \nAdaptacja - przeniesienie broni do ekwipunku NPC, jeśli zainstalowano dodatek „Weapons Drop on Bodies”.</text>
+	</string>
+	
+    <string id="ui_mcm_lst_tmmr_inv_weapon">
+		<text>Ekwipunek</text>
+	</string>
+	<string id="ui_mcm_lst_tmmr_drop_weapon">
+		<text>Wyrzuć</text>
+	</string>
+    <string id="ui_mcm_lst_tmmr_adapt_weapon">
+		<text>Adaptacja</text>
+	</string>
+</string_table>

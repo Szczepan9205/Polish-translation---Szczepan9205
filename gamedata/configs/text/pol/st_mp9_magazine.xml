@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	Strings for "Dead Air Knives"
+-->
+
+
+<string_table>
+
+	<string id="st_mag_mp9iwp">
+		<text>40 nabojowy magazynek 9x19 mm</text>
+	</string>
+	<string id="st_mag_mp9iwp_descr">
+		<text>40 nabojowy magazynek na amunicję kalibru 9x19 mm.</text>
+	</string>
+	
+</string_table>

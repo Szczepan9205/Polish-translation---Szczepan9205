@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+    <!-- Main -->
+
+    <string id="ui_mcm_menu_tactic_compass">
+        <text>Kompas taktyczny</text>
+    </string>
+
+    <string id="ui_mcm_compass_title">
+        <text>Kompas taktycz.</text>
+    </string>
+
+    <string id="ui_mcm_menu_tc_main">
+        <text>Ustawienia główne</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_main_t_c_show">
+        <text>Włącz dołączony kompas</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_main_d_t_show">
+        <text>Dystans do celu (tylko w zadaniach)</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_main_compass_sc_pos">
+        <text>Pozycja kompasu na ekranie</text>
+    </string>
+
+    <string id="ui_mcm_compass_state_up">
+        <text>Góra</text>
+    </string>
+
+    <string id="ui_mcm_compass_state_down">
+        <text>Dół</text>
+    </string>
+
+    <!-- Key binding -->
+
+    <string id="ui_mcm_menu_tc_keybinds">
+        <text>Klawiszologia</text>
+    </string>
+
+    <string id="ui_mcm_keybinds_title">
+        <text>Klawisz.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_keybinds_hotkey">
+        <text>Klawisz</text>
+    </string>
+
+    <!-- Markers -->
+
+    <string id="ui_mcm_menu_tc_markers">
+        <text>Znaczniki opcji</text>
+    </string>
+
+    <string id="ui_mcm_markers_title">
+        <text>Znaczniki</text>
+    </string>
+  
+    <string id="ui_mcm_tc_markers_marker_m_desc">
+        <text>Dostosowywanie wyświetlania znaczników. Można włączyć/wyłączyć wyświetlanie określonej kategorii znaczników, a także zmienić odległość ich wyświetlania.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_quest">
+        <text>Znacznik zadania: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_quest_dist">
+        <text>Znacznik zadania: wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_unique">
+        <text>Znaczniki unikalnych NPC: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_unique_dist">
+        <text>Znaczniki unikalnych NPC: wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_sleep">
+        <text>Znacznik miejsc do spania: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_sleep_dist">
+        <text>Znacznik miejsc do spania: wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_stashes">
+        <text>Znaczniki schowków: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_stashes_dist">
+        <text>Znaczniki schowków: wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_transitions">
+        <text>Znaczniki przejść: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_transitions_dist">
+        <text>Znaczniki przejść: wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_squads">
+        <text>Znaczniki oddziałów: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_squads_dist">
+        <text>Znaczniki oddziałów: wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_corpses">
+        <text>Znaczniki zwłok: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_corpses_dist">
+        <text>Znaczniki zwłok: wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_campf">
+        <text>Znaczniki ognisk (PRZECZYTAJ OPIS): wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_campf_desc">
+        <text>Ze względu na dużą liczbę ognisk w danej lokalizacji, wyświetlanie ich może powodować problemy z wydajnością. Włącz tą opcję tylko wtedy, gdy masz wystarczająco wydajny system lub wyświetlaj tylko odwiedzone ogniska.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_campf_dist">
+        <text>Znaczniki ognisk (PRZECZYTAJ OPIS): wyświetlaj dystans</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_campf_dist_desc">
+        <text>Ze względu na dużą liczbę ognisk w danej lokalizacji, wyświetlanie ich może powodować problemy z wydajnością. Włącz tą opcję wtedy, gdy masz wystarczająco wydajny system lub wyświetlaj tylko odwiedzone ogniska.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_pump">
+        <text>Znacznik źródła wody: wyświetlaj</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_pump_dist">
+        <text>Znacznik źródła wody: wyświetlaj dystans</text>
+    </string>
+</string_table>

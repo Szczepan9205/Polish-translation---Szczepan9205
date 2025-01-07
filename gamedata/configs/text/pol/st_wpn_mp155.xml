@@ -1,0 +1,12 @@
+<string_table>
+	<string id="st_wpn_mp155">
+		<text>Baikal MP-155</text>
+	</string>
+	<string id="st_wpn_mp155_descr">
+		<text>Baikal MP-155 to pó³automatyczna strzelba kalibru 12, z luf¹ o d³ugoœci 750 mm i g³adkim otworem. W produkcji od 2011 roku i jest najpopularniejszym modelem wœród rosyjskich myœliwych. Wersja przemycona do Zony zosta³a fabrycznie zmodyfikowana o 8-nabojowy magazynek.
+		\n \n
+		%c[ui_gray_2]PASUJ¥CE AKCESORIA: \n
+		%c[d_purple] • %c[ui_gray_2] Celowniki: wiêkszoœæ celowników na szyny Picatinny/Weaver\n
+		%c[d_purple] • %c[ui_gray_2] T³umiki: t³umik NATO kompatybilny z wieloma kalibrami \n</text>
+	</string>
+</string_table>

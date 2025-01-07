@@ -17,7 +17,7 @@
     </string>
 
     <string id="st_wpn_bm16_ohotnik">
-        <text>Strzelba BM-16 ³owcy.</text>
+        <text>Strzelba BM-16 ³owcy</text>
     </string>
     <string id="st_wpn_bm16_ohotnik_descr">
         <text>Stara strzelba z kilkoma oznaczeniami.\n \n
@@ -157,7 +157,7 @@
         <text>Badacze: znajdŸ profesora Skabiñskiego</text>
     </string>
     <string id="ah_redirect_to_skabinsky_quest_desc">
-        <text>Profesor Worobuszkin powiedzia³ mi, ¿e szef operacji, profesor Skabiñski, wyruszy³ ju¿ dalej i obecnie znajduje siê gdzieœ w pó³nocnej czêœci CEA. Nie wiem, jak uda³o mu siê tam dostaæ, ale muszê go szybko znaleŸæ.</text>
+        <text>Profesor Worobuszkin powiedzia³ mi, ¿e szef operacji, profesor Skabiñski, wyruszy³ ju¿ dalej i obecnie znajduje siê gdzieœ w pó³nocnej czêœci CzEJ. Nie wiem, jak uda³o mu siê tam dostaæ, ale muszê go szybko znaleŸæ.</text>
     </string>       
 
     <string id="ah_fail_skabinsky_quest_title">
@@ -237,7 +237,7 @@
     </string>   
 
     <string id="ah_markov_quest1_title">
-        <text>Badacze: przynieœ profesorowi Markowowi trzy anomalne próbki.</text>
+        <text>Badacze: przynieœ profesorowi Markowowi trzy anomalne próbki</text>
     </string>
     <string id="ah_markov_quest1_desc">
         <text>Profesor Markow znajduj¹cy siê na Jantarze poprosi³ mnie o przeskanowanie trzech anomalii moim skanerem i zwrócenie uwagi na wszelkie nietypowe artefakty, które mogê znaleŸæ.</text>
@@ -255,7 +255,7 @@
         <text>Jedna z próbek znajduje siê w anomalii Kwaœnica.</text>
     </string>       
     <string id="ah_yan_h2_title">
-        <text>Badacze: znajdŸ próbkê w anomalii Gruzowisko</text>.
+        <text>Badacze: znajdŸ próbkê w anomalii Gruzowisko</text>
     </string>
     <string id="ah_yan_h2_desc">
         <text>Jedna z próbek znajduje siê w anomalii Gruzowisko. Bêdê potrzebowa³ ochrony przed polem psionicznym, aby j¹ zdobyæ.</text>
@@ -468,7 +468,7 @@
         <text>Powinienem przeszukaæ okolicê w poszukiwaniu czegokolwiek, co mog³oby mnie nakierowaæ na te "farmy artefaktów". Wydaje mi siê, ¿e gdzieœ przy wejœciu widzia³em plik dokumentów.</text>
     </string>       
     <string id="ah_rad_r_title">
-        <text>Badacze: znajdŸ trzy sztuczne próbki w Martwym Lesie, na po³udnie od kompleksu X-19.</text>
+        <text>Badacze: znajdŸ trzy sztuczne próbki w Martwym Lesie, na po³udnie od kompleksu X-19</text>
     </string>
     <string id="ah_rad_r_desc">
         <text>Wed³ug znalezionych przeze mnie dokumentów, artefakty zosta³y wyhodowane w lesie na po³udnie od kompleksu. To bêd¹ szeroko zakrojone poszukiwania, ale muszê przeskanowaæ ca³y las w poszukiwaniu tych próbek.</text>
@@ -487,7 +487,7 @@
         <text>Mój skaner powinien pomóc mi znaleŸæ próbkê.</text>
     </string>
     <string id="ah_mg_g1_title">
-        <text>Badacze: znajdŸ próbkê w Domu Kultury.</text>
+        <text>Badacze: znajdŸ próbkê w Domu Kultury</text>
     </string>
     <string id="ah_mg_g1_desc">
         <text>Mój skaner powinien pomóc mi znaleŸæ próbkê.</text>
@@ -562,7 +562,7 @@
         <text>W œrodku starej szko³y znajduje siê gigantyczna anomalia grawitacyjna. Siêga ona wielu piêter, wiêc byæ mo¿e bêdê musia³ sprawdziæ wnêtrze budynku.</text>
     </string>       
     <string id="ah_p_g2_title">
-        <text>Badacze: znajdŸ próbkê w anomalii Awangarda.</text>
+        <text>Badacze: znajdŸ próbkê w anomalii Awangarda</text>
     </string>
     <string id="ah_p_g2_desc">
         <text>Odczyty dla tego miejsca wykraczaj¹ poza skalê. Nawet z odleg³oœci kilku kilometrów naukowcy mogli wykryæ tu wiele rodzajów anomalii. Muszê przeskanowaæ obszar w poszukiwaniu próbki.</text>
@@ -584,7 +584,7 @@
         <text>Badacze: znajdŸ modu³ pamiêci w budynku Stacji antenowej "Krug"</text>
     </string>
     <string id="ah_zat_pda_desc">
-        <text>Profesor. Worobuszkin zostawi³ modu³ w podziemiach kompleksu, kiedy stamt¹d odchodzi³. Muszê go znaleŸæ, jeœli chcê wiedzieæ, które anomalie muszê przeskanowaæ.</text>
+        <text>Profesor Worobuszkin zostawi³ modu³ w podziemiach kompleksu, kiedy stamt¹d odchodzi³. Muszê go znaleŸæ, jeœli chcê wiedzieæ, które anomalie muszê przeskanowaæ.</text>
     </string>       
     <string id="ah_zat_h1_title">
         <text>ZnajdŸ próbkê w anomalii Bagno</text>
@@ -676,10 +676,10 @@
         <text>Skaner znajduje siê w Archianomalii, na pó³nocny zachód od bazy Czystego Nieba.</text>
     </string>
     <string id="cs_story_task2_name">
-        <text>Ostatni œwit: zabierz PDA do Zarodnika.</text>
+        <text>Ostatni œwit: zabierz PDA do Zarodnika</text>
     </string>
     <string id="cs_story_task2_descr">
-        <text>Kula nie prze¿y³, krwiopijcy go dopadli, ale uda³o mi siê pomœciæ jego œmieræ i zdobyæ jego PDA.</text>
+        <text>Kula nie prze¿y³, pijawki go dopad³y, ale uda³o mi siê pomœciæ jego œmieræ i zdobyæ jego PDA.</text>
     </string>
     <string id="cs_story_task1_name">
         <text>Ostatni œwit: poszukaj zaginionego zwiadowcy</text>
@@ -790,7 +790,7 @@
     </string>
 
     <string id="cs_task0_ambush_renegade_story_name6">
-        <text>Ostatni œwit: zniszcz wojsko i przejmij Park maszynowy.</text>
+        <text>Ostatni œwit: zniszcz wojsko i przejmij Park maszynowy</text>
     </string>
 
 
@@ -831,10 +831,10 @@
         <text>Nale¿y przenikn¹æ do tajnego obiektu Prypeæ-1, zwanego przez stalkerów Podziemiami Prypeci, aby odnaleŸæ dokumenty z przeprowadzonych tam badañ.</text>
     </string>
     <string id="kuznecov_find_document_7">
-        <text>Zniszcz Centrum Sterowania Monolitem na CEA i zabierz stamt¹d ca³¹ znalezion¹ tam dokumentacjê</text>
+        <text>Zniszcz Centrum Sterowania Monolitem na CzEJ i zabierz stamt¹d ca³¹ znalezion¹ tam dokumentacjê</text>
     </string>
     <string id="kuznecov_find_document_7_descr">
-        <text>Wybieram siê na ostatni¹ wyprawê po ostatni¹ czêœæ dokumentacji, na CEA, Centrum Sterowania Monolitem, które wyjaœni prawdopodobnie najwiêksz¹ tajemnicê Zony: sk¹d pochodzi Spe³niacz ¯yczeñ. Rozkazano mi równie¿ zniszczyæ to stanowisko dowodzenia, jeœli to mo¿liwe. Zanim jednak wyruszê, pu³kownik poradzi³ mi, bym odnalaz³ na bagnach pewnego pustelnika, zwanego przez miejscowych Bagiennym Doktorem, który powinien wiedzieæ, gdzie znajduje siê dekoder otwieraj¹cy drzwi do Centrum Sterowania...</text>
+        <text>Wybieram siê na ostatni¹ wyprawê po ostatni¹ czêœæ dokumentacji, na CzEJ, Centrum Sterowania Monolitem, które wyjaœni prawdopodobnie najwiêksz¹ tajemnicê Zony: sk¹d pochodzi Spe³niacz ¯yczeñ. Rozkazano mi równie¿ zniszczyæ to stanowisko dowodzenia, jeœli to mo¿liwe. Zanim jednak wyruszê, pu³kownik poradzi³ mi, bym odnalaz³ na bagnach pewnego pustelnika, zwanego przez miejscowych Bagiennym Doktorem, który powinien wiedzieæ, gdzie znajduje siê dekoder otwieraj¹cy drzwi do Centrum Sterowania...</text>
     </string>
     <string id="kuznec_stry_doc">
         <text>Wróæ do pu³kownika Kuzniecowa</text>
@@ -842,10 +842,10 @@
 
 <!-- Caaaaei ?a?o yoe oaiaoeeai! -->
     <string id="assault_gen_name">
-        <text>Operacja Zemsta Monolitu: dostañ siê do Generatorów CEA</text>
+        <text>Operacja "Zemsta Monolitu": dostañ siê do Generatorów CzEJ</text>
     </string>
     <string id="assault_gen_descr">
-        <text>Nadszed³ czas na szturm na Generatory CEA. Spotkaj siê z oddzia³em wojskowym na Generatorach, który zaj¹³ pozycjê w starej wiosce.</text>
+        <text>Nadszed³ czas na szturm na Generatory CzEJ. Spotkaj siê z oddzia³em wojskowym na Generatorach, który zaj¹³ pozycjê w starej wiosce.</text>
     </string>
     <string id="assault_gen_1_name">
         <text>Przejmij bazê</text>
@@ -857,25 +857,25 @@
         <text>Kapitan Szkrabenko</text>
     </string>
     <string id="come_to_aes_name">
-        <text>Operacja Zemsta Monolitu: szturm na CEA</text>
+        <text>Operacja "Zemsta Monolitu": szturm na CzEJ</text>
     </string>
     <string id="come_to_aes_descr">
-        <text>Wszystkie jednostki dzia³aj¹ce w Zonie otrzyma³y rozkaz przemieszczenia siê w kierunku CEA. Dowódca operacji "Kwartet" rozmieœci³ kwaterê polow¹ w pobli¿u bramy prowadz¹cej na Zaton.</text>
+        <text>Wszystkie jednostki dzia³aj¹ce w Zonie otrzyma³y rozkaz przemieszczenia siê w kierunku CzEJ. Dowódca operacji "Kwartet" rozmieœci³ kwaterê polow¹ w pobli¿u bramy prowadz¹cej na Zaton.</text>
     </string>
     <string id="army_assault_1_name">
-        <text>Operacja Zemsta Monolitu: zniszcz pierwszy posterunek</text>
+        <text>Operacja "Zemsta Monolitu": zniszcz pierwszy posterunek</text>
     </string>
     <string id="army_assault_1_descr">
         <text>Pomó¿ dru¿ynom Specnazu zniszczyæ pierwszy posterunek.</text>
     </string>
     <string id="army_assault_2_name">
-        <text>Operacja Zemsta Monolitu: zniszcz drugi posterunek</text>
+        <text>Operacja "Zemsta Monolitu": zniszcz drugi posterunek</text>
     </string>
     <string id="army_assault_2_descr">
         <text>Pomó¿ dru¿ynom Specnazu zniszczyæ drugi posterunek.</text>
     </string>
     <string id="army_assault_3_name">
-        <text>Operacja Zemsta Monolitu: zniszcz trzeci posterunek</text>
+        <text>Operacja "Zemsta Monolitu": zniszcz trzeci posterunek</text>
     </string>
     <string id="army_assault_3_descr">
         <text>Pomó¿ dru¿ynom Specnazu zniszczyæ trzeci posterunek.</text>

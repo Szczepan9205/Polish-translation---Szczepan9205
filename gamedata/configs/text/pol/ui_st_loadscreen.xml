@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 	<string id="ls_header">
-		<text>S.T.A.L.K.E.R. GAMMA 0.92 PL</text>
+		<text>S.T.A.L.K.E.R. GAMMA 0.93 PL</text>
 	</string>
 	<string id="ls_tip_number">
-		<text>Opowieści z Zony nr.</text>
+		<text>Opowieść z Zony nr.</text>
 	</string>
 	<string id="ls_tip_1">
 		<text>Kiedyś podróżowałem po Zatonie z grupą stalkerów. Broniliśmy Szewczenki przed bandytami i okazjonalnymi watahami bezpańskich psów. Pewnego dnia podjąłem się zlecenia w Żelaznym Lesie. Podekscytowany, by opowiedzieć im o tym, jak prawie zginąłem, przybyłem do Szewczenki, by zobaczyć, jak tamtejsi stalkerzy są mordowani przez żołnierzy Powinności. Jakiś powinnościowiec nagle zaczął strzelać do moich kumpli, gdy zostali złapani w krzyżowy ogień podczas wymiany ognia z najemnikami... Moi przyjaciele tylko się bronili, do cholery! Od tamtej pory poluję na żołnierzy Powinności, używając broni moich poległych braci.</text>
@@ -19,7 +19,7 @@
 		<text>Wszystko co pamiętam to ciemność i zimno wkradające się we mnie, gdy to zobaczyłem... Jasne światło, które wypełniło mnie ciepłem i przemówiło do mnie. "Chodź do mnie, dostaniesz to, na co zasługujesz". Czasami widzę obraz starszego mężczyzny ze łzami spływającymi po jego twarzy, mówiącego: "Nie odchodź, wszystko będzie dobrze". Czy to był mój ojciec? Tak czy inaczej, nie ma to znaczenia, Monolit musi być broniony przed heretykami...</text>
 	</string>
 	<string id="ls_tip_5">
-		<text>"Tu generał Taczenko, gdzie jesteście! Jakie są wasze współrzędne, wyciągniemy was, potrzebujemy tylko jakichś odpowiedzi, do cholery!" Generał Taczenko ze złością uderzył pięścią w biurko. "Właśnie straciliśmy całą jednostkę, więc teraz Wolność ma pełną kontrolę nad Janowem!</text>
+		<text>"Tu generał Taczenko, gdzie jesteście?! Jakie są wasze współrzędne? Wyciągniemy was, potrzebujemy tylko jakichś odpowiedzi, do cholery!" Generał Taczenko ze złością uderzył pięścią w biurko. "Właśnie straciliśmy całą jednostkę, więc teraz Wolność ma pełną kontrolę nad Janowem!</text>
 	</string>
 	<string id="ls_tip_6">
 		<text>Traper to legenda! Ten gość przetrwał nocny atak dwóch chimer jednocześnie. Nigdy nie zapomnę widoku, jak kulejąc, ledwo trzymał się przy życiu. Doktor dobrze go opatrzył, ale nie da się naprawić wspomnień o tym, jak jego partner "Lis" został zmasakrowany. Po tym zdarzeniu przeszedł na emeryturę i prawdę mówiąc nie dziwię mu się. </text>
@@ -76,7 +76,7 @@
 		<text>Sir, widziałem to na własne oczy. Oni dosłownie mają tam armię i rekrutują więcej z dnia na dzień. Są zorganizowani, ustrukturyzowani, a cokolwiek do nich przemawia, jest jak najbardziej realne, ponieważ do mnie też wołało. "Co co to coś wam powiedziało, kapralu?". "Nie mam pojęcia, nie mówię po rosyjsku, ale prawdę mówiąc, myślę, że wiedzieli, że tam jestem."</text>
 	</string>
 	<string id="ls_tip_24">
-		<text>"Zabezpieczyłeś budynek Dimitri?". "Tak, ustawiłem nawet minę potykową na klatce schodowej i drugim na piętrze pod nami, żeby ich zmylić.". "Dobrze, możemy trochę odsapnąć... A potem dorwijmy tego snajpera!"</text>
+		<text>"Zabezpieczyłeś budynek Dimitrij?". "Tak, ustawiłem nawet minę potykową na klatce schodowej i drugim na piętrze pod nami, żeby ich zmylić.". "Dobrze, możemy trochę odsapnąć... A potem dorwijmy tego snajpera!"</text>
 	</string>
 	<string id="ls_tip_25">
 		<text>Operacje Specnazu wewnątrz Zony nie są żartem. Każdy członek jest na równi, jeśli nie lepszy, od najbardziej doświadczonego stalkera. Raz widziałem, jak pojedynczy żołnierz zlikwidował cały oddział najemników. Dzięki Bogu widziałem to wszystko przez lornetkę. </text>
@@ -310,7 +310,7 @@
 		<text>Nie tylko Rosja czy ONZ przeprowadzają specjalne operacje w Zonie. SAS, GIGN, czort tam, widziałem nawet agentów Blackwater przechodzących przez Martwe Miasto w poszukiwaniu informacji, amunicji lub potrzebujących medyka. Pociągnąłem za kilka poważnych sznurków, by ściągnąć tu sobie ID, ale za wszystko, czego potrzebują, zawsze są skłonni zapłacić dobrą cenę, a my zbudowaliśmy solidną reputację wśród tych organizacji.</text>
 	</string>
 	<string id="ls_tip_102">
-		<text>Nie każdego dnia stalker otrzymuje przydomek "Red", ale kiedy już to zrobi, wiadomo, że jego los będzie zły. Pamiętam, jak Red przybył do Zony. Był tu, by zarobić pieniądze na chemioterapię córki i być może znaleźć lekarstwo. Sacharow powiedział mu, że jest nadzieja, ale będzie to niebezpieczne i wiąże się z podróżą na północ w pobliże CEA. Minęły trzy miesiące, podczas których zaginął w akcji, aż do ostatniej nocy, kiedy zobaczyłem go w Limańsku w kombinezonie Monolitu...</text>
+		<text>Nie każdego dnia stalker otrzymuje przydomek "Red", ale kiedy już to zrobi, wiadomo, że jego los będzie zły. Pamiętam, jak Red przybył do Zony. Był tu, by zarobić pieniądze na chemioterapię córki i być może znaleźć lekarstwo. Sacharow powiedział mu, że jest nadzieja, ale będzie to niebezpieczne i wiąże się z podróżą na północ w pobliże CzEJ. Minęły trzy miesiące, podczas których zaginął w akcji, aż do ostatniej nocy, kiedy zobaczyłem go w Limańsku w kombinezonie Monolitu...</text>
 	</string>
 	<string id="ls_tip_103">
 		<text>Nazywaliśmy go maślane palce, ponieważ nigdy nie potrafił się niczego trzymać. Jeśli chciałeś coś stracić, wystarczyło mu to oddać. Pamiętam, jak pewnego razu wrócił do magazynu z pistoletem, który Śruba właśnie naprawił przed rajdem. Broń była dosłownie stopiona i tak mocno uszkodzona, że nie chciała wystrzelić. Najwyraźniej udało mu się wrzucić ją do "Galarety" i wyciągnąć to, co z niej zostało.</text>

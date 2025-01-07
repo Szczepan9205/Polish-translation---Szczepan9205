@@ -77,4 +77,19 @@
         <text>Klawisz do przytrzymania, aby rzuciæ glowstick.</text>
     </string>
 	
+    <string id="ui_mcm_glowsticks_equip_next">
+        <text>Wyposa¿ nastêpny glowstick po rzucie</text>
+    </string>
+	<string id="ui_mcm_glowsticks_sort_worst">
+        <text>Najpierw u¿ywaj u¿ywanych glowstick'ów</text>
+    </string>
+    <string id="ui_mcm_glowsticks_sort_worst_desc">
+        <text>Gdy opcja ta jest w³¹czona, postaæ najpierw u¿yje glowstick'ów o ni¿szym stanie, a niewykorzystane zachowa na póŸniej.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_keybind">
+        <text>Klawisz rzutu</text>
+    </string>
+	<string id="ui_mcm_glowsticks_keybind_desc">
+        <text>Klawisz przypisany do rzucania glowstick'iem.</text>
+    </string>
 </string_table>
