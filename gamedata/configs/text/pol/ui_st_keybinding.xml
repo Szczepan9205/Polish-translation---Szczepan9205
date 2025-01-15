@@ -31,7 +31,7 @@
 		<text>Konsola</text>
 	</string>
 	<string id="kb_debugger">
-		<text>Debuger</text>
+		<text>Spawner / Tryb debugowania</text>
 	</string>
 	<string id="kb_contacts">
 		<text>Lista kontaktów w PDA </text>
@@ -83,7 +83,7 @@
 		<text>Do przodu</text>
 	</string>
 	<string id="kb_func">
-		<text>Granatnik podlufowy</text>
+		<text>Granatnik podlufowy / Celownik alter.</text>
 	</string>
 	<string id="kb_grp_common">
 		<text>Ogólne</text>
@@ -319,7 +319,7 @@
 		<text>Wytrzyj maskê</text> <!--text>Camera zoom in</text-->
 	</string>
 	<string id="kb_cam_zoom_out">
-		<text>Prze³¹cz animacje przedmiotów</text> <!--text>Camera zoom out</text-->
+		<text>W³./wy³. animacje przedmiotów</text> <!--text>Camera zoom out</text-->
 	</string>
 
 	<string id="kb_custom1">

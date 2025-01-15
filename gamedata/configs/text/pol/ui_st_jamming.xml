@@ -6,7 +6,7 @@
 	JAMMING
 -->
 	<string id="kb_unjam">
-		<text>Odblokuj zaciêt¹ broñ</text>
+		<text>Prze³aduj / Odblokuj zaciêt¹ broñ</text>
 	</string>
 	<string id="ui_st_misfire">
 		<text>Broñ nie wystrzeli³a!</text>
