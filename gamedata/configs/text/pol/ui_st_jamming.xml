@@ -39,17 +39,17 @@
 		<text>Ta czêœæ nie wymaga wymiany.</text>
 	</string>
 	<string id="ui_st_heat1">
-		<text>, ale ciep³a.</text>
+		<text>, ale jest ciep³a.</text>
 	</string>
 	<string id="ui_st_heat2">
-		<text>, ale gor¹ca!</text>
+		<text>, ale jest gor¹ca!</text>
 	</string>
 	<string id="ui_st_heat3">
-		<text>, ale bardzo gor¹ca!</text>
+		<text>, ale jest bardzo gor¹ca!</text>
 	</string>
 	
 	<string id="st_unjam">
-		<text>odblokuj broñ</text>
+		<text>Odblokuj broñ</text>
 	</string>
 
 <!--
@@ -60,7 +60,7 @@
 		<text>Pomyœlnie wymieniono czêœæ: </text>
 	</string>
 	<string id="st_news_parts_fail">
-		<text>%c[d_red]Broñ ma ju¿ t¹ sam¹ czêœæ o wy¿szym stanie.</text>
+		<text>%c[d_red]Broñ ma ju¿ zainstalowan¹ t¹ sam¹ czêœæ o wy¿szym stanie.</text>
 	</string>
 	<string id="st_news_parts_incompatible">
 		<text>%c[d_red]Ta czêœæ nie jest kompatybilna z broni¹.</text>
@@ -72,7 +72,7 @@
 		<text>%c[d_red]Broñ jest zbyt zardzewia³a, by roz³o¿yæ j¹ na czêœci w terenie.</text>
 	</string>
 	<string id="st_news_dis_items">
-		<text>%c[d_red]Wymagane jest odpowiednie narzêdzie do demonta¿u.</text>
+		<text>%c[d_red]Potrzebujesz odpowiedniego narzêdzia, aby dokonaæ demonta¿u.</text>
 	</string>
 	<string id="st_news_fieldstrip">
 		<text>Zdemontowane czêœci:</text>
@@ -363,7 +363,7 @@
 		<text>Wysoce zaawansowany zestaw narzêdzi, w tym mikropi³ek, ¿ywice epoksydowe do spawania na zimno, konfiguracja k¹pieli elektrolizy oraz tony smarów, destylatów benzyny i innych rozpuszczalników. Narzêdzia te mog¹ przywróciæ silnik £ady do stanu Ferrari, nie mówi¹c ju¿ o tym, co mog¹ zrobiæ z komponentami broni. Tylko najbardziej zniszczony z³om nie bêdzie w stanie zostaæ odnowiony przez ten zestaw. Jednak zestaw ten jest niezwykle trudny do z³o¿enia i dlatego jest sprzedawany w bardzo ma³ych iloœciach przez techników Zony.\n \n
 		%c[0,255,255,255]W£AŒCIWOŒCI:\n
 		%c[d_cyan] • %c[ui_gray_1] zestaw narzêdzi\n
-		%c[d_orange] • %c[ui_gray_1] zdolnoœæ do naprawy czêœci broni powy¿ej 10%, ale poni¿ej 60 stanu%\n
+		%c[d_orange] • %c[ui_gray_1] zdolnoœæ do naprawy czêœci broni powy¿ej 10%, ale poni¿ej 60% stanu\n
 		</text>
 	</string>
 

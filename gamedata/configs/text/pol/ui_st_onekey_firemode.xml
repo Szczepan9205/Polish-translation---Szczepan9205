@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+    <string id="ui_mcm_menu_onekey">
+        <text>Jeden klawisz</text>
+    </string>
+    <string id="ui_mcm_menu_firemode">
+        <text>Tryb ostrzału</text>
+    </string>
+    <string id="ui_mcm_title_onekey">
+        <text>Jeden klawisz</text>
+    </string>
+    <string id="ui_mcm_title_onekey_firemode">
+        <text>Jeden klawisz trybu ostrzału</text>
+    </string>
+    <string id="ui_mcm_onekey_key_firemode">
+        <text>Klawisz trybu ostrzału</text>
+    </string>
+    <string id="ui_mcm_onekey_key_firemode_desc">
+        <text>Naciśnij klawisz, aby wybrać następny tryb. Modyfikator + naciśnięcie klawisza, aby wybrać poprzedni tryb lub przytrzymaj, aby sprawdzić bieżący tryb. Upewnij się, że w Opcje->Sterowanie->Klawiszologia: akcje „Następny tryb ostrzału” i „Poprzedni tryb ostrzału” są powiązane z innymi klawiszami (np. „0” i „9”).</text>
+    </string>
+    <string id="ui_mcm_onekey_modifier_prev_firemode">
+        <text>Poprzedni modyfikator trybu ostrzału</text>
+    </string>
+    <string id="ui_mcm_onekey_modifier_prev_firemode_desc">
+        <text>Modyfikator + klawisz zmiany trybu ostrzału, aby wybrać poprzedni tryb.</text>
+    </string>
+    <string id="ui_mcm_onekey_hide_fire_mode">
+        <text>Ukryj tryb ostrzału</text>
+    </string>
+    <string id="ui_mcm_onekey_hide_fire_mode_desc">
+        <text>Włącz, aby ukryć wyświetlanie wybranego trybu ostrzału w interfejsie HUD gry.</text>
+    </string>
+</string_table>

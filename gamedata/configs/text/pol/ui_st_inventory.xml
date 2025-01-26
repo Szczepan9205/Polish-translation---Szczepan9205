@@ -530,13 +530,13 @@
 	</string>
 
 	<string id="st_ui_armor_static">
-		<text>Stan pancerza</text>
+		<text>%c[0,255,255,255]Stan pancerza</text>
 	</string>
 	<string id="st_weight">
 		<text>Waga</text>
 	</string>
 	<string id="st_weight_full">
-		<text>Waga</text>
+		<text>%c[0,255,255,255]Waga</text>
 	</string>
 	<string id="ui_ammo_count">
 		<text>%c[0,255,255,255]Poj. magazynka:</text>
@@ -590,19 +590,25 @@
 		<text>%c[0,255,255,255]Ochr. przed uderz.:</text>
 	</string>
 	<string id="ui_inv_outfit_hit_fraction_actor">
-		<text>Redukcja uderzenia</text>
+		<text>Si³a uderzenia</text>
 	</string>
 	<string id="ui_inv_satiety">
-		<text>Zaspokoj. g³odu:</text>
+		<text>%c[0,255,255,255]Zaspokoj. g³odu:</text>
+	</string>
+	<string id="ui_inv_sleep">
+		<text>%c[0,255,255,255]Sennoœæ:</text>
+	</string>
+	<string id="ui_inv_thirst">
+		<text>%c[0,255,255,255]Pragnienie:</text>
 	</string>
 	<string id="ui_inv_outfit_power_restore">
-		<text>Odzyskiwanie energii</text>
+		<text>%c[0,255,255,255]Odzyskiwanie energii</text>
 	</string>
 	<string id="ui_inv_weight">
-		<text>Maksymalna waga</text>
+		<text>%c[0,255,255,255]Maksymalna waga</text>
 	</string>
 	<string id="ui_inv_af_condition">
-		<text>Efektywnoœæ</text>
+		<text>%c[0,255,255,255]Efektywnoœæ</text>
 	</string>
 
 	<string id="ui_total_weight">
@@ -613,7 +619,7 @@
 	</string>
 	
 	<string id="ui_ammo_types">
-		<text>Amunicja</text>
+		<text>U¿ywana amunicja:</text>
 	</string>
 	<string id="ui_inv_effect_time">
 		<text>%c[0,255,255,255]Czas dzia³ania</text>
@@ -725,7 +731,7 @@
 		<text>U¿yteczny w warsztatach do wymiany czêœci i ulepszeñ</text>
 	</string>
 	<string id="st_itm_desc_repair_min_con">
-		<text>Nieprzydatny poni¿ej stanu</text>
+		<text>%c[0,255,255,255]Nieprzydatny poni¿ej stanu</text>
 	</string>
 	<string id="st_itm_desc_repair_base_con">
 		<text>%c[0,255,255,255]Poprawa stanu o</text>
@@ -748,10 +754,10 @@
 	</string>
 	
 	<string id="st_itm_desc_upgr_w">
-		<text>Ulepszenie broni</text>
+		<text>Zestaw ulepszeñ do broni</text>
 	</string>
 	<string id="st_itm_desc_upgr_o">
-		<text>Ulepszenie kombinezonu</text>
+		<text>Zestaw ulepszeñ do kombinezonu</text>
 	</string>
 	<string id="st_itm_desc_upgr_usable">
 		<text>U¿yteczny w warsztatach do instalowania odpowiednich ulepszeñ</text>

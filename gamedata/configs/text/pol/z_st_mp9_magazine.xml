@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	Strings for "Dead Air Knives"
+-->
+
+
+<string_table>
+
+	<string id="st_mag_mp9iwp">
+		<text>30 nabojowy magazynek kalibru 9x19 mm</text>
+	</string>
+	<string id="st_mag_mp9iwp_descr">
+		<text>30 nabojowy magazynek na amunicję kalibru 9x19 mm do MP9.</text>
+	</string>
+
+	<string id="st_mag_mp9iwp_ext">
+		<text>Powiększony 40 nabojowy magazynek kalibru 9x19 mm</text>
+	</string>
+	<string id="st_mag_mp9iwp_ext_descr">
+		<text>Powiększony, 40 nabojowy magazynek na amunicję kalibru 9x19 mm do MP9.</text>
+	</string>
+
+	<string id="st_mag_mp9iwp_9x18">
+		<text>30 nabojowy magazynek kalibru 9x18 mm</text>
+	</string>
+	<string id="st_mag_mp9iwp_9x18_descr">
+		<text>30 nabojowy magazynek na amunicję kalibru 9x18 mm do MP9.</text>
+	</string>
+
+	<string id="st_mag_mp9iwp_9x18_ext">
+		<text>Powiększony 40 nabojowy magazynek kalibru 9x18 mm</text>
+	</string>
+	<string id="st_mag_mp9iwp_9x18_ext_descr">
+		<text>Powiększony, 40 nabojowy magazynek na amunicję kalibru 9x18 mm do MP9.</text>
+	</string>
+	
+</string_table>

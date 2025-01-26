@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+    <string id="mag_kriss45">
+		<text>Standardowy magazynek .45 ACP do KRISS Vector</text>
+	</string>
+	<string id="mag_kriss45_descr">
+		<text>
+		Standardowy magazynek kalibru .45 ACP do KRISS Vector o pojemności 30 nabojów.
+		</text>
+	</string>
+	
+	<string id="mag_kriss9">
+		<text>Powiększony magazynek 9x19 mm do Glocka</text>
+	</string>
+	<string id="mag_kriss9_descr">
+		<text>
+		Rozszerzony magazynek do Glocka na amunicję kalibru 9x19 mm Parabellum o pojemności 33 nabojów.
+		</text>
+	</string>
+	
+	<string id="ext_mag_kriss_drum">
+		<text>Magazynek bębnowy .45 ACP do KRISS Vector</text>
+	</string>
+	<string id="ext_mag_kriss_drum_descr">
+		<text>
+		Magazynek bębnowy na amunicję kalibru .45 ACP do KRISS Vector o pojemności 45 nabojów.
+		</text>
+	</string>
+	
+	<string id="ext_mag_kriss9_drum">
+		<text>Standardowy magazynek bębnowy 9x19 mm do Glocka</text>
+	</string>
+	<string id="ext_mag_kriss9_drum_descr">
+		<text>
+		Magazynek bębnowy do Glocka na amunicję kalibru 9x19 mm Parabellum o pojemności 50 nabojów.
+		</text>
+	</string>	
+</string_table>

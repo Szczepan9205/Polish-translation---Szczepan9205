@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_mag_groza_9x39_pab9">
+		<text>30 nabojowy magazynek 9x39 mm do OC-14 Groza</text>
+	</string>
+	<string id="st_mag_groza_9x39_pab9_descr">
+		<text>
+			30-nabojowy magazynek na amunicję kalibru 9x39 mm dołączany standardowo do karabinu szturmowego OC-14 Groza. Jego konstrukcja jest podobna do magazynków w stylu AK.
+		</text>
+	</string>
+	
+</string_table>	

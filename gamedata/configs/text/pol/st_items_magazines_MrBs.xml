@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+    	
+		<!--
+Aug x10 5,56
+-->
+
+	<string id="st_mag_aug_5.56x45_short">
+		<text>10 nabojowy magazynek do STEYR AUG</text>
+	</string>
+	<string id="st_mag_aug_5.56x45_short_descr">
+		<text>
+            Opatentowany magazynek na 10 nabojów (lub 9+1) do karabinów AUG. Wykonany z półprzezroczystego polimeru. Wyprodukowano w Austrii. \n
+			\nNie wiadomo, kto był zainteresowany importem magazynków „California legal” do Zony, ale jak wszystko związane z bronią, z pewnością znajdą tu zastosowanie. Plusem jest to, że mieszczą się w małych kieszeniach.
+		</text>
+	</string>
+	
+		<!--
+Aug x42 5,56
+-->
+
+	<string id="st_mag_aug_5.56x45_ext">
+		<text>Powiększony magazynek 5.56x45 mm do AUG</text>
+	</string>
+	<string id="st_mag_aug_5.56x45_ext_descr">
+		<text>
+            Oryginalne, produkowane przez producenta 42-nabojowe magazynki przeznaczone dla wariantów AUG LMG, jednak nic nie stoi na przeszkodzie, aby używać ich we wszystkich innych wariantach AUG kompatybilnych z zastrzeżonymi magazynkami typu „waffle”. Wykonany z półprzezroczystego polimeru. Wyprodukowany w Austrii.
+		</text>
+	</string>	
+
+
+<!--
+MP5 x40 9mm
+-->
+
+	<string id="st_mag_mp5_9x19_fmjext">
+		<text>Powiększony magazynek 9x19 mm do HK MP5</text>
+	</string>
+	<string id="st_mag_mp5_9x19_fmjext_descr">
+		<text>
+            Lekki, odporny na uderzenia i wysoce niezawodny magazynek kompatybilny ze wszystkimi odmianami HK MP5 kalibru 9x19 mm (i klonami), do których pasują standardowe magazynki MP5. Oferuje zwiększoną 40-nabojową pojemność w stosunku do standardowych 30-nabojowych magazynków HK. Wykonany z zaawansowanego polimeru/żywicy/granulatu z przezroczystymi okienkami po obu stronach pozwalającymi zobaczyć pozostałe naboje. Wyprodukowany w Bośni.
+		</text>
+	</string>
+	
+<!--
+MP5 x50 9mm
+-->
+	<string id="st_mag_mp5_9x19_fmjext50">
+		<text>Magazynek bębnowy 9x19 mm do HK MP5</text>
+	</string>
+	<string id="st_mag_mp5_9x19_fmjext50_descr">
+		<text>
+            Lekki, odporny na uderzenia i wysoce niezawodny magazynek bębnowy kompatybilny ze wszystkimi odmianami HK MP5 kalibru 9x19 mm (i klonami) wykorzystującymi standardowe magazynki MP5. Oferuje zwiększoną pojemność 50-nabojową w stosunku do standardowych 30-nabojowych magazynków HK. Wykonany z zaawansowanego polimeru z przezroczystym okienkiem na tylnej ściance, pozwalającym zobaczyć liczbę pozostałych nabojów. Wyprodukowany w USA.
+		</text>
+	</string>
+	
+	
+<!--
+Glock x33 9mm
+-->
+
+	<string id="st_mag_glock_9x19_fmjext">
+		<text>Powiększony magazynek 9x19 mm do Glocka</text>
+	</string>
+	<string id="st_mag_glock_9x19_fmjext_descr">
+		<text>
+            Rozszerzony magazynek Glock kompatybilny ze wszystkimi standardowymi wariantami Glocka kalibru 9x19mm. Oferuje zwiększoną pojemność 33 nabojów w stosunku do standardowych magazynków Glock, pierwotnie przeznaczonych do pistoletów maszynowych Glock 18. Wyprodukowany w Austrii.
+		</text>
+	</string>
+		
+<!--
+Glock x50 9mm
+-->
+
+	<string id="st_mag_glock_9x19_fmjext50">
+		<text>Magazynek bębnowy 9x19 mm do Glocka</text>
+	</string>
+	<string id="st_mag_glock_9x19_fmjext50_descr">
+		<text>
+            Lekki, odporny na uderzenia i wysoce niezawodny magazynek bębnowy kompatybilny ze wszystkimi wersjami Glocka kalibru 9x19 mm. Oferuje zwiększoną pojemność 50 nabojów w porównaniu do standardowych magazynków. Wykonany z zaawansowanego polimeru z przezroczystym okienkiem na tylnej ściance, pozwalającym zobaczyć liczbę pozostałych nabojów. Wyprodukowany w USA.
+		</text>
+	</string>
+	
+<!--
+MP5 x40 9mm alt
+-->
+
+	<string id="st_mag_mp5_9x18_fmjext">
+		<text>Zmodyfikowany i powiększony magazynek 9x18 mm do HK MP5</text>
+	</string>
+	<string id="st_mag_mp5_9x18_fmjext_descr">
+		<text>
+            Lekki, odporny na uderzenia i wysoce niezawodny magazynek kompatybilny ze wszystkimi zmodyfikowanymi HK MP5 kalibru 9x18 mm Zone (i klonami) wykorzystującymi standardowe magazynki MP5. Oferuje zwiększoną 40-nabojową pojemność w stosunku do standardowych 30-nabojowych magazynków HK. Wykonany z zaawansowanego polimeru/żywicy/granulatu z przezroczystymi okienkami po obu stronach pozwalającymi zobaczyć pozostałe naboje. Wyprodukowany w Bośni.
+		</text>
+	</string>
+	
+<!--
+MP5 x50 9mm alt
+-->
+	<string id="st_mag_mp5_9x18_fmjext50">
+		<text>Zmodyfikowany magazynek bębnowy 9x18 mm do HK MP5</text>
+	</string>
+	<string id="st_mag_mp5_9x18_fmjext50_descr">
+		<text>
+            Lekki, odporny na uderzenia i wysoce niezawodny magazynek bębnowy kompatybilny ze wszystkimi zmodyfikowanymi HK MP5 kalibru 9x18 mm Zone (i klonami) wykorzystującymi standardowe magazynki MP5. Oferuje zwiększoną pojemność 50-nabojową w porównaniu do standardowych 30-nabojowych magazynków HK. Wykonany z zaawansowanego polimeru z przezroczystym okienkiem na tylnej ściance, pozwalającym zobaczyć liczbę pozostałych nabojów. Wyprodukowany w USA.
+		</text>
+	</string>
+	
+	
+<!--
+Glock x33 9mm alt
+-->
+
+	<string id="st_mag_glock_9x18_fmjext">
+		<text>Zmodyfikowany i powiększony magazynek 9x18 mm do Glocka</text>
+	</string>
+	<string id="st_mag_glock_9x18_fmjext_descr">
+		<text>
+            Rozszerzony magazynek Glock kompatybilny ze wszystkimi zmodyfikowanymi wariantami Glocka kalibru 9x18mm. Oferuje zwiększoną pojemność 33 nabojów w stosunku do standardowych magazynków Glock, pierwotnie przeznaczonych do pistoletów maszynowych Glock 18. Wyprodukowany w Austrii.
+		</text>
+	</string>
+		
+<!--
+Glock x50 9mm alt
+-->
+
+	<string id="st_mag_glock_9x18_fmjext50">
+		<text>Zmodyfikowany magazynek bębnowy 9x18 mm do Glocka</text>
+	</string>
+	<string id="st_mag_glock_9x18_fmjext50_descr">
+		<text>
+            Lekki, odporny na uderzenia i wysoce niezawodny magazynek bębnowy kompatybilny ze wszystkimi zmodyfikowanymi wersjami Glocka kalibru 9x18 mm. Oferuje zwiększoną pojemność 50 nabojów w porównaniu do standardowych magazynków. Wykonany z zaawansowanego polimeru z przezroczystym okienkiem na tylnej ściance, pozwalającym zobaczyć liczbę pozostałych nabojów. Wyprodukowany w USA.
+		</text>
+	</string>
+		
+</string_table>

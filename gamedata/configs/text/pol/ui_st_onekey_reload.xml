@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+    <string id="ui_mcm_menu_onekey">
+        <text>Jeden klawisz</text>
+    </string>
+    <string id="ui_mcm_menu_reload">
+        <text>Przeładuj</text>
+    </string>
+    <string id="ui_mcm_title_onekey">
+        <text>Jeden klawisz</text>
+    </string>
+    <string id="ui_mcm_title_onekey_reload">
+        <text>Przeładowanie jednym klawiszem</text>
+    </string>
+    <string id="ui_mcm_onekey_key_reload">
+        <text>Klawisz przeładowania</text>
+    </string>
+    <string id="ui_mcm_onekey_key_reload_desc">
+        <text>Naciśnij, aby przeładować. Przytrzymaj, aby sprawdzić amunicję. Naciśnij dwukrotnie, aby wybrać typ amunicji. Modyfikator + Naciśnięcie, aby odblokować/sprawdzić. Uwaga: oryginalne powiązanie klawisza „Przeładuj” z jego akcją jest nadal brane pod uwagę przez ten mod (może być powiązane z tym samym klawiszem).</text>
+    </string>
+    <string id="ui_mcm_onekey_unjam_modifier">
+        <text>Modyfikator Odblokowania/Inspekcji</text>
+    </string>
+    <string id="ui_mcm_onekey_unjam_modifier_desc">
+        <text>Modyfikator + klawisz przeładowania, aby odblokować lub sprawdzić broń.</text>
+    </string>
+    <string id="ui_mcm_onekey_doubletap_behavior">
+        <text>Zachowanie po dwukrotnym kliknięciu</text>
+    </string>
+    <string id="ui_mcm_onekey_doubletap_behavior_desc">
+        <text>„Przeładuj": wykonuje zwykłe przeładowanie. „Następny typ": załaduj następny typ amunicji. „Koło amunicji": otwiera vaniliowy interfejs wyboru amunicji. „Sytuacyjne": decyduje automatycznie w zależności od tego, ile rodzajów amunicji masz przy sobie.</text>
+    </string>
+    <string id="ui_mcm_onekey_check_ammo_after_reload">
+        <text>Sprawdź amunicję po przeładowaniu</text>
+    </string>
+    <string id="ui_mcm_onekey_check_ammo_after_reload_desc">
+        <text>Włącz, aby sprawdzać amunicję podczas przeładowywania.</text>
+    </string>
+    <string id="ui_mcm_lst_dt_reload">
+        <text>Przeładuj</text>
+    </string>
+    <string id="ui_mcm_lst_dt_next_ammo_type">
+        <text>Następny typ</text>
+    </string>
+    <string id="ui_mcm_lst_dt_ammo_wheel">
+        <text>Koło amunicji</text>
+    </string>
+    <string id="ui_mcm_lst_dt_situational">
+        <text>Sytuacyjne</text>
+    </string>
+</string_table>

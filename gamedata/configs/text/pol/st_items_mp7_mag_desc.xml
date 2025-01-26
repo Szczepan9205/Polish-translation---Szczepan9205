@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="st_mag_mp7_5.7x28_ss190">
+		<text>Zmodyfikowany magazynek 5.7x28 mm do MP7</text>
+	</string>
+	<string id="st_mag_mp7_5.7x28_ss190_descr">
+		<text>
+            Powiększony, 40-nabojowy magazynek do MP7 zmodyfikowany do obsługi nabojów kalibru 5.7x28 mm. Ze względu na rzadkość nabojów kalibru 4.6x30 mm w Zonie, niektórzy oszczędni technicy byli w stanie zmodernizować MP7 tak, aby strzelał bardziej powszechnymi nabojami pistoletowymi 5.7x28 mm.
+		</text>
+	</string>	
+</string_table>
