@@ -49,7 +49,7 @@
 		<text>Piêæ tysiêcy? Postrada³eœ zmys³y? Mog³em tam zgin¹æ!</text>
 	</string>
 	<string id="bar_informator_mlr_the_living_fire_2_3">
-		<text>Cii... zamknij siê! Tu siê dzieje coœ grubszego... Popracuj dla mnie jeszcze trochê, a dostaniesz wiêcej. Póki co trzeba pozyskaæ wiêcej informacji bo ludzie nie zap³ac¹ du¿o za sam¹ informacjê, ¿e ten stalker istnieje. Hmm... mo¿e Pietrenko zap³aci, bior¹c pod uwagê, ¿e straci³ przez niego dwóch ludzi.</text>
+		<text>Cii... zamknij siê! Tu siê dzieje coœ grubszego... Popracuj dla mnie jeszcze trochê, a dostaniesz wiêcej. Póki co trzeba pozyskaæ wiêcej informacji bo ludzie nie zap³ac¹ du¿o za sam¹ informacjê, ¿e ten stalker istnieje. Hmm... mo¿e Petrenko zap³aci, bior¹c pod uwagê, ¿e straci³ przez niego dwóch ludzi.</text>
 	</string>
 	<string id="bar_informator_mlr_the_living_fire_2_4">
 		<text>Wiêc jaki masz teraz plan? Nie wiemy, dok¹d poszed³ ani jaki jest jego cel. Nie mamy ¿adnych tropów.</text>
@@ -166,7 +166,7 @@
 		<text>Mo¿e masz racjê... W ka¿dym razie - naukowcy nie zaobserwowali jeszcze ¿adnych innych skoków aktywnoœci anomalnej, wiêc mo¿emy byæ teraz w œlepym zau³ku.</text>
 	</string>
 	<string id="bar_informator_mlr_the_living_fire_3_9">
-		<text>Nie do koñca - zapomnia³eœ o mnie. Stary, dobry Pietrenko wpad³ tu ostatnio ze swoj¹ krótkofalówk¹ i tak siê z³o¿y³o, ¿e by³em w pobli¿u, by us³yszeæ kilka interesuj¹cych rzeczy. Rozmawia³ z jakimiœ urzêdnikami. Oddzia³ wojskowy pilnuj¹cy laboratorium X-18 mia³ niespodziewanego goœcia. Ostatni ocala³y zdo³a³ wys³aæ sygna³ S.O.S., wspominaj¹c równie¿, ¿e jego towarzysze zostali zamienieni w popió³, zanim on równie¿ zerwa³ po³¹czenie. Jestem prawie pewien, ¿e by³ to facet, którego szukamy.</text>
+		<text>Nie do koñca - zapomnia³eœ o mnie. Stary, dobry Petrenko wpad³ tu ostatnio ze swoj¹ krótkofalówk¹ i tak siê z³o¿y³o, ¿e by³em w pobli¿u, by us³yszeæ kilka interesuj¹cych rzeczy. Rozmawia³ z jakimiœ urzêdnikami. Oddzia³ wojskowy pilnuj¹cy laboratorium X-18 mia³ niespodziewanego goœcia. Ostatni ocala³y zdo³a³ wys³aæ sygna³ S.O.S., wspominaj¹c równie¿, ¿e jego towarzysze zostali zamienieni w popió³, zanim on równie¿ zerwa³ po³¹czenie. Jestem prawie pewien, ¿e by³ to facet, którego szukamy.</text>
 	</string>
 	<string id="bar_informator_mlr_the_living_fire_3_10">
 		<text>Taa... I oczekujesz, ¿e bêdê go œciga³?</text>
@@ -457,5 +457,307 @@
 	</string>
 	<string id="yan_stalker_sakharov_the_living_fire_5_4">
 		<text>Dziêkujê, profesorze. Mam nadziejê, ¿e nie stracê zdrowego rozs¹dku!</text>
+	</string>
+
+	<!-- Mystery of the Swamps -->
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_1_0">
+		<text>Hej Barman. Po co mnie wzywa³eœ?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_1_1">
+		<text>Nie szukasz przypadkiem jakiejœ roboty? Niedawno skontaktowa³ siê ze mn¹ Sacharow. Wynajmuje najemników do ochrony swoich ekip naukowych, gdy te przeprowadzaj¹ jakieœ pomiary. Myœlê, ¿e powie ci wiêcej, kiedy tam dotrzesz.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_1_2_0">
+		<text>W sumie przyda³oby mi siê trochê gotówki... Dziêki za informacjê - z³o¿ê mu wizytê.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_1_2_1">
+		<text>Wybacz, ale w tej chwili jestem zajêty.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_1_3">
+		<text>To niedobrze. Jeœli zmienisz zdanie, i tak mo¿esz spróbowaæ z nim porozmawiaæ.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_1_0">
+		<text>Witam, profesorze. Wygl¹da pan na zmartwionego. Potrzebuje pan pomocy?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_1_1">
+		<text>W gruncie rzeczy - tak. Szukamy najemników do ochrony naszych za³óg naukowych. Wojsko jest w tej chwili kiepsko przêdzie, wiêc jesteœmy zmuszeni wynajmowaæ pojedynczych stalkerów.\nWidzicie, m³ody cz³owieku - ostatnimi czasy coœ dziwnego zaczê³o siê dziaæ na bagnistych obszarach Zony. Otrzymujemy dane o zwiêkszonej aktywnoœci anomalnej, nawet w pozornie spokojnych miejscach. Niektórzy stalkerzy zg³osili równie¿, ¿e przyci¹gaj¹ one niezwyk³e iloœci karlików. Chcielibyœmy zebraæ dane na temat wszystkich tych miejsc. Czy by³byœ zainteresowany podjêciem siê tego zadania?</text>	
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_1_2_0">
+		<text>Brzmi interesuj¹co. Zg³aszam siê.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_1_2_1">
+		<text>Bieganie po bagnach i œciganie krasnoludów? To wydaje siê strat¹ czasu...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_1_3">
+		<text>Œwietnie! Zebraliœmy ju¿ kilka dru¿yn, które s¹ aktualnie w terenie. Zobaczmy... Mroczny W¹wóz, Agroprom i Wysypisko s¹ ju¿ obstawione, a Czyste Niebo zgodzi³o siê zg³osiæ nam swoje odkrycia na Wielkich Bagnach... O! Mam - zostaniecie wys³ani do Magazynów Wojskowych. Nasz naukowiec i drugi ochroniarz czekaj¹ na was na zewn¹trz.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_1_4">
+		<text>Wspaniale. Wkrótce wrócimy.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_1_5">
+		<text>Wasza strata, m³ody cz³owieku. Jeœli zmienisz zdanie, nadal tu bêdê... o ile nie obsadzimy wszystkich miejsc.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_2_0">
+		<text>Co do tej misji dotycz¹cej eskortowania...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_2_1">
+		<text>Tak? </text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_2_2_0">
+		<text>Zmieni³em zdanie. Zg³aszam siê.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_2_2_1">
+		<text>Niewa¿ne...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_2_3">
+		<text>Œwietnie! Zebraliœmy ju¿ kilka dru¿yn, które s¹ aktualnie w terenie. Zobaczmy... Mroczny W¹wóz, Agroprom i Wysypisko s¹ ju¿ obstawione, a Czyste Niebo zgodzi³o siê zg³osiæ nam swoje odkrycia na Wielkich Bagnach... O! Mam - zostaniecie wys³ani do Magazynów Wojskowych. Nasz naukowiec i drugi ochroniarz czekaj¹ na was na zewn¹trz.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_2_4">
+		<text>Œwietnie. Wkrótce wrócimy.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_2_5">
+		<text>Przestañcie wiêc marnowaæ mój czas, m³ody cz³owieku.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_0">
+		<text>Wróciliœmy, profesorze. Wierzê, ¿e wasz przyjaciel zebra³ dane, których potrzebowaliœcie.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_1">
+		<text>Doskonale! Niech no spojrzê... co? To nie ma ¿adnego sensu. Sama anomalia nie doœwiadczy³a ¿adnych zmian w aktywnoœci. Nasze skanery równie¿ przesta³y rejestrowaæ jakiekolwiek anomalie po tym, jak siê tam uda³eœ. Powiedz mi, czy znalaz³eœ coœ dziwnego w pobli¿u anomalii?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_2">
+		<text>Nie bardzo... mo¿e z wyj¹tkiem ponadprzeciêtnej iloœci karlików wokó³ niej, choæ pewnie ju¿ siê tego domyœliliœcie, bior¹c pod uwagê, ¿e mnie o tym ostrzegaliœcie.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_3">
+		<text>Tak...to rzeczywiœcie dziwne...\n \nMo¿e to karliki spowodowa³y te dziwne odczyty na naszych skanerach... Potrzebujemy wiêcej danych na ten temat.\n \nZespó³ wys³any do Agropromu i stalkerzy Czystego Nieba na Wielkich Bagnach równie¿ natknêli siê na karliki w pobli¿u obszarów pomiarowych i wszystko wróci³o do normy jakiœ czas po tym, jak siê ich pozbyli, choæ na pocz¹tku nieprawid³owoœci nie by³y a¿ tak spektakularne...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_4">
+		<text>Ekhem... Przepraszam, ¿e przeszkadzam, profesorze, ale nie s¹dzê, by ta sprawa mnie dotyczy³a, prawda? Poza tym - nie zapomnia³ pan o czymœ?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_5">
+		<text>Ach, tak... wy m³odzi, niecierpliwi ludzie... Oto twoja nagroda. Czy zechcielibyœcie mnie teraz wys³uchaæ? Mo¿esz zarobiæ trochê wiêcej...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_6">
+		<text>Hmm... Zamieniam siê w s³uch.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_7">
+		<text>Œwietnie. Wiêc na czym skoñczy³em? Racja - dane z Agropromu i Wielkich Bagien nie na wiele nam siê przydadz¹, ale chcia³bym ciê wynaj¹æ do innego zadania. Widzisz - jeden z naszych najemników nie wywi¹za³ siê ze swoich obowi¹zków ochroniarza. Wróci³ tutaj i za¿¹da³ zap³aty, poniewa¿ twierdzi³, ¿e ok³amaliœmy go w sprawie zadania. Powiedzia³, ¿e zlikwidowa³ karliki, a nasz naukowiec zdo³a³ zebraæ dane, ale kiedy ju¿ mia³ wstaæ, jakaœ upiorna zjawa skrêci³a biedakowi kark. Czy mo¿esz w to uwierzyæ? Twierdzenie, ¿e duch zabi³ naszego kolegê... Moim zdaniem ten najemnik by³ pod wp³ywem mocy psionicznych karlików lub nawdycha³ siê za du¿o oparów z anomalii...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_8">
+		<text>Có¿... Widzia³em ju¿ w Zonie wiele dziwnych rzeczy, w które trudno uwierzyæ... Mo¿e ten cz³owiek nie k³ama³.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_9">
+		<text>Dobrze siê czujecie, m³ody cz³owieku? Myœlê, ¿e ty równie¿ mo¿esz potrzebowaæ pomocy medycznej...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_10">
+		<text>Przestañcie siê ze mnie nabijaæ. Mówiê powa¿nie, profesorze.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_11">
+		<text>Twoje dziwne doœwiadczenia sprawiaj¹, ¿e idealnie pasujesz do misji, o której wspomnia³em. Musimy odzyskaæ dane zebrane przez naszego naukowca. Mroczny W¹wóz, Agroprom i Wysypisko s¹ ju¿ obstawione, a Czyste Niebo zgodzi³o siê zg³osiæ nam swoje odkrycia na Wielkich Bagnach... O! Mam - zostaniecie wys³ani do Magazynów Wojskowych. Nasz naukowiec i drugi ochroniarz czekaj¹ na was na zewn¹trz.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_12">
+		<text>Dobrze. Pomogê wam. To wszystko staje siê... interesuj¹ce.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_3_13">
+		<text>Wspaniale! Twój towarzysz z ostatniej misji równie¿ pójdzie z tob¹. Proszê, pilnujcie siê nawzajem i pospieszcie siê!</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_0">
+		<text>Profesorze, ja...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_1">
+		<text>Dobry Bo¿e! Ty ¿yjesz! Nasza maszyneria wykry³a niezwykle siln¹ aktywnoœæ psioniczn¹, która pochodzi z Mrocznego W¹wozu. Co siê tam sta³o? Gdzie s¹ nasi pozostali najemnicy?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_2">
+		<text>Nie uwierzycie mi... Ochroniarz waszego kolegi, który zosta³ wys³any na Wysypisko, nie k³ama³. Natknêliœmy siê tam na ducha. Dlatego mój pierwszy partner zdecydowa³ siê rozwi¹zaæ kontrakt.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_3">
+		<text>A co z Mrocznym W¹wozem? Czym by³a ta ogromna aktywnoœæ psioniczna?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_4">
+		<text>Spotkaliœmy tam kilka duchów, ale nie s¹dzê, by to one to spowodowa³y.\nKiedy mieliœmy siê wycofaæ, wasi ludzie zostali rozerwani na kawa³ki przez... Babê Jagê.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_5">
+		<text>S³ucham? ... Przez co?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_6">
+		<text>Babê...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_7">
+		<text>S³ysza³em, co powiedzieliœcie! Po prostu czujê, ¿e próbujecie zrobiæ ze mnie g³upca! Baba Jaga? Mam uwierzyæ, ¿e jakaœ stara wiedŸma ze s³owiañskich bajek dla dzieci zabi³a moich ludzi?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_8">
+		<text>Czy ja wygl¹dam, jakbym ¿artowa³?! Mówiê powa¿nie, profesorze. Barman poprosi³ mnie jakiœ czas temu o zbadanie sprawy mutanta, który zyska³ przydomek Baba Jaga. Myœla³em, ¿e ju¿ j¹ zabi³em, ale najwyraŸniej nie jest to takie proste...</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_9">
+		<text>Ja... wybacz mi, m³ody cz³owieku. Zrozum, ¿e jako cz³owiekowi nauki trudno mi wierzyæ w duchy. Zona to dziwne miejsce, ale... duchy?</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_10">
+		<text>Tak... Teraz ju¿ nic mnie nie zdziwi. W ca³ej Zonie jest pe³no bagien i jeœli ta wiedŸma jest w jakiœ sposób z nimi zwi¹zana to trzeba siê ni¹ zaj¹æ, zanim zginie wiêcej ludzi.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_11">
+		<text>Nie s¹dzê, by nauka mog³a wam w tym pomóc, m³ody cz³owieku.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_12">
+		<text>Nie martwcie siê, profesorze. Lubiê odkrywaæ tajemnice Zony i chyba wiem, kto móg³by mi pomóc.</text>
+	</string>
+	<string id="yan_stalker_sakharov_mystery_of_the_swamps_4_13">
+		<text>Powodzenia w realizacji zadania. I nie zapomnij o nagrodzie za zebrane dane.</text>
+	</string>
+
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_0">
+		<text>Witaj, RzeŸniku! Musimy porozmawiaæ.</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_1">
+		<text>Co tam? Potrzebujesz œwie¿ego miêsa? A mo¿e porady dotycz¹cej polowania?</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_2">
+		<text>Hah - z tym ostatnim zgad³eœ prawid³owo, choæ nie bêdzie to zwyk³e pytanie. Powiedz mi, czy mia³eœ ju¿ kiedyœ do czynienia z duchami?</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_3">
+		<text>Duchy? Nie... ale s³ysza³em kilka starych ludowych opowieœci o wypêdzaniu mœciwych duchów, jeœli jesteœ tym zainteresowany. Kogo wkurzy³eœ?</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_4">
+		<text>Przynajmniej ty siê ze mnie nie nabijasz...\nW ka¿dym razie - pamiêtasz Babê Jagê? Spotka³em j¹ ponownie. Okazuje siê, ¿e nie jest zwyk³¹ mutantk¹. Posiada potê¿ne moce psychiczne, które przyci¹gaj¹ do niej karliki. Wygl¹da na to, ¿e potrafi te¿ w jakiœ sposób wyczarowywaæ inne duchy...</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_5">
+		<text>Interesuj¹ce... Wygl¹da na to, ¿e mamy tu wiedŸmê. Bior¹c pod uwagê, ¿e za pierwszym razem nie by³eœ w stanie pozbyæ siê jej za pomoc¹ broni to przypuszczam, ¿e teraz jest jeszcze gorzej - mamy tu ducha wiedŸmy.</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_6">.
+		<text>Wspaniale... jak mo¿na zabiæ ducha? </text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_7">
+		<text>Nie mo¿na. Ale mo¿esz go wygnaæ, pal¹c jego koœci lub pomagaj¹c mu wype³niæ jego niedokoñczone sprawy. Przynajmniej tak mówi¹ stare opowieœci...</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_8">
+		<text>Nie wygl¹da na to, by by³a chêtna do rozmowy, wiêc mo¿e byæ trudno dowiedzieæ siê, co j¹ wi¹¿e z Zon¹. W takim razie chyba muszê znaleŸæ jej cia³o. Masz dla mnie jakieœ wskazówki? Jedno wiem na pewno - jest w jakiœ sposób zwi¹zana z bagnami...</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_9">
+		<text>Nie s¹dzê, by uda³o ci siê j¹ tak po prostu znaleŸæ. W Zonie jest zbyt wiele bagien. Przekopanie siê przez wszystkie z nich zajê³oby wieki. Powinieneœ raczej popytaæ ludzi w okolicy, czy znaj¹ jakieœ historie, które da³yby ci jakieœ wskazówki... Najlepiej tych, którzy s¹ tu od d³u¿szego czasu.</text>
+	</string>
+	<string id="hunter_gar_trader_mystery_of_the_swamps_1_10">
+		<text>Dziêki za wszystkie wskazówki! W takim razie ruszam w drogê.</text>
+	</string>
+
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_2_0">
+		<text>Hej Barman! Spêdzi³eœ du¿o czasu w Zonie i z pewnoœci¹ s³ysza³eœ tu wiele historii. Pozwolisz, ¿e zadam ci kilka pytañ?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_2_1">
+		<text>Hah! Interesuj¹ ciê jakieœ historie pijaków? Jasne, pytaj.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_2_2">
+		<text>Czy znasz jak¹œ historiê o kobiecie, która mieszka³a w okolicy i by³a pewnego rodzaju wiedŸm¹?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_2_3">
+		<text>Có¿ - wielu ludzi ¿y³o tu wczeœniej, zw³aszcza w Prypeci, ale nie s³ysza³em niczego podobnego... poza histori¹ o Babie Jadze, z któr¹ mia³eœ do czynienia.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_mystery_of_the_swamps_2_4">
+		<text>Hmm, tak... niewa¿ne. Dziêki.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_mystery_of_the_swamps_1_0">
+		<text>Hej Sidorowicz. Muszê ciê o coœ zapytaæ.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_mystery_of_the_swamps_1_1">
+		<text>O co chodzi?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_mystery_of_the_swamps_1_2">
+		<text>Siedzisz w tym bunkrze od d³u¿szego czasu, prawda? S³ysza³eœ o jakiejœ kobiecie, która mieszka³a w pobli¿u i mia³a jakieœ zdolnoœci parapsychiczne?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_mystery_of_the_swamps_1_3">
+		<text>Moce? O czym ty mówisz?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_mystery_of_the_swamps_1_4">
+		<text> No wiesz... telepatia i takie tam...</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_mystery_of_the_swamps_1_5">
+		<text>Mamy tu kontrolerów, którzy wed³ug opowieœci s¹ ca³kiem ¿ywi. Móg³byœ siê przydaæ i zapolowaæ na niektórych z nich, zamiast zadawaæ mi g³upie pytania.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_mystery_of_the_swamps_1_6">
+		<text>Dziêki za nic...</text>
+	</string>
+
+	<string id="red_forester_tech_mystery_of_the_swamps_1_0">
+		<text>Hej Leœniku. Spêdzi³eœ tu sporo czasu, prawda? Mogê zadaæ ci kilka pytañ?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_1">
+		<text>Nie mam zbyt czêsto goœci... nie mówi¹c ju¿ o takich, którzy byliby chêtni na d³u¿sz¹ pogawêdkê. Co chcia³byœ wiedzieæ, m³ody cz³owieku?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_2">
+		<text>Próbujê znaleŸæ informacje o pewnej kobiecie, która zmar³a tu w Zonie, dawno temu. Mo¿esz mi nie wierzyæ, ale wygl¹da na to, ¿e jej duch sta³ siê niespokojny i szuka sprawiedliwoœci.</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_3">
+		<text>Wierzê ci, przyjacielu. Widzia³em w ¿yciu wiele rzeczy, które trudno wyjaœniæ. Co do twojego pytania - znaj¹ca siê na rzeczy kobieta... Masz na myœli jak¹œ zaklinaczkê... czy mo¿e wiedŸmê?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_4">
+		<text>Tak! W³aœnie tak! Zna³eœ tak¹ osobê?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_5">
+		<text>Tak... Bardzo dawno temu, kiedy by³em ma³ym ch³opcem, w pobliskiej wiosce ¿y³a taka kobieta. Byæ mo¿e o niej s³ysza³eœ, to wioska Kopaczi na pó³noc st¹d. W czasach, gdy te ziemie dopiero zaczyna³y siê odbudowywaæ po wojnie, w tak odleg³ych miejscach trudno by³o uzyskaæ odpowiedni¹ pomoc medyczn¹, a ludzie czêsto oddawali swój los w rêce lokalnych wiedŸm, starszyzny czy znachorów. Kobieta, o któr¹ pytasz, by³a w³aœnie tak¹ uzdrowicielk¹. Nie zrozum mnie Ÿle - jej wiedza by³a przekazywana z pokolenia na pokolenie i faktycznie by³a w stanie pomóc wielu ludziom za pomoc¹ naturalnych œrodków. By³a tu dobrze znana.\n\nNiestety, zaufanie prostodusznych ludzi odchodzi tak szybko, jak przychodzi... ilekroæ wioskê nawiedza³a zaraza lub g³ód, ludzie byli podejrzliwi wobec kobiety, która pozostawa³a w dobrym zdrowiu... niektórzy nawet twierdzili, ¿e to wszystko jej sprawka.\n\nLudzie, którzy karmi¹ siê podobnymi k³amstwami, prêdzej czy póŸniej siê za³ami¹... i tak sta³o siê z jednym z mê¿czyzn, którego m³ody syn zagin¹³ pewnego dnia i nigdy nie zosta³ odnaleziony. Ojciec zacz¹³ opowiadaæ bzdury o wiedŸmie, która zjada³a dzieci i ucztowa³a na smutku s¹siadów, gdy tylko jakaœ tragedia dotknê³a wioskê. Czy... nie zanudzam ciê t¹ opowieœci¹?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_6">
+		<text>Nie! Oczywiœcie, ¿e nie! Proszê, kontynuuj.</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_7">
+		<text>Bardzo dobrze. Zbli¿amy siê powoli do koñca historii. Trudno mi to zrozumieæ, ale ludzie wokó³ wkrótce zaczêli wierzyæ w s³owa tego szaleñca i zaczêli odwracaæ siê do niej plecami. Ka¿da iteracja historii opowiadanych wœród ludzi stawa³a siê coraz mroczniejsza. Z biegiem czasu, niegdyœ szanowana uzdrowicielka, przez wielu uwa¿ana by³a za diab³a wcielonego.\n \nWystarczy³a jeszcze jedna tragedia, by przypieczêtowaæ los tej kobiety. Kolejne dziecko zniknê³o gdzieœ w lesie, gdy jego rodzice pracowali, a ludzie byli bardziej sk³onni uwierzyæ, ¿e to ona, a nie jakaœ wataha wilków czy niedŸwiedŸ. Wœciek³y t³um przyszed³ w nocy do chaty kobiety i choæ nie znaleŸli ¿adnych dowodów na morderstwo, to i tak uznali j¹ za winn¹. Na nic zda³y siê jej b³agania. Dwaj ojcowie zaginionych dzieci zaci¹gnêli j¹ na pobliskie bagna i tam utopili. Wed³ug ich s³ów by³a to "odpowiednia kara dla wiedŸmy"...\n \nTo by³a straszna, niepotrzebna œmieræ... Pomyœleæ, ¿e ludzie mog¹ odwróciæ siê od osoby, która zawsze s³u¿y³a pomoc¹... Przez takie sytuacjê coraz czêœciej czujê, ¿e jesteœmy gorsi od zwierz¹t! W ka¿dym razie - jeœli to jej duch, z którym próbujesz sobie poradziæ, wyraŸnie widaæ, ¿e ma powód, by nienawidziæ ludzi.</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_8">
+		<text>To bardzo smutna historia... Ja równie¿ jej wspó³czujê.\n \nRzeŸnik wspomnia³, ¿e istniej¹ dwa sposoby na wypêdzenie ducha - spalenie koœci jego cia³a lub pomoc w dokoñczeniu spraw, które wi¹za³y go z tym œwiatem. Bior¹c pod uwagê, ¿e wydaje siê byæ ofiar¹, czy masz jakiœ pomys³, co mo¿e byæ jej niedokoñczon¹ spraw¹?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_9">
+		<text>Wszyscy ludzie odpowiedzialni za jej œmieræ - bezpoœrednio lub poœrednio - od dawna nie ¿yj¹. Zona wci¹¿ jest pe³na ludzi gotowych wbiæ nó¿ w plecy swoim przyjacio³om z jakiegokolwiek powodu. Byæ mo¿e jej celem jest karanie takich ludzi, a w takim przypadku w¹tpiê, byœ kiedykolwiek pomóg³ jej go spe³niæ.</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_10">
+		<text>Hmm... jej duchowi towarzyszy³o kilka innych duchów, kiedy ostatnio j¹ spotka³em. Mo¿e drêczy te dusze nawet po œmierci?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_11">
+		<text>Zwa¿ywszy na to, jak Ÿle zosta³a potraktowana przez ludzi, którym pomog³a, nie zdziwi³bym siê, gdyby to zrobi³a. Mo¿e powinieneœ pozwoliæ jej siê zemœciæ?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_12">
+		<text>Chêtnie bym to zrobi³, gdyby nie fakt, ¿e ona próbowa³a zabiæ równie¿ i mnie. Nie jestem z³ym cz³owiekiem... a przynajmniej tak mi siê wydaje. Zabi³a te¿ kilku naukowców i moich towarzyszy. Jak prawdopodobne jest, ¿e wszyscy na to zas³u¿yliœmy?</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_13">
+		<text>Hmm... coœ w tym jest. Wed³ug starych opowieœci, które s³ysza³em jako dziecko, jeœli dusze wêdruj¹ po tym œwiecie zbyt d³ugo, ulegaj¹ zepsuciu. Myœla³em, ¿e wróci³a dopiero niedawno, ale bior¹c pod uwagê to, ¿e atakuje dos³ownie ka¿dego to jestem pewien, ¿e jej dusza jest nie do odratowania.\n \nNie ma innego sposobu. Bêdziesz musia³ spaliæ jej koœci...</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_14">
+		<text>Ale jak je znajdê? Powiedzia³eœ, ¿e zosta³a utopiona na bagnach bardzo dawno temu.</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_15">
+		<text>Mówi³eœ, ¿e jej moce psychiczne przetrwa³y nawet po œmierci? Powinieneœ wiêc porozmawiaæ z naukowcami. Jestem prawie pewien, ¿e bêd¹ w stanie pomóc ci zlokalizowaæ te koœci. Jest to równie¿ w ich najlepszym interesie, bior¹c pod uwagê, ¿e jeden z ich bunkrów stoi obok Kopaczi, a drugi graniczy z ogromnym bagnem...</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_16">
+		<text>Dziêkujê, Leœniku. Bardzo mi pomog³eœ!</text>
+	</string>
+	<string id="red_forester_tech_mystery_of_the_swamps_1_17">
+		<text>To ja dziêkujê tobie, m³ody cz³owieku. Wpadnij czasem do staruszka, ¿eby porozmawiaæ. Powodzenia... i nie zapomnij o zapa³kach!</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_0">
+		<text>Witam, profesorze. Czy móg³by mi pan poœwiêciæ trochê swojego czasu?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_1">
+		<text>Tylko streszczajcie siê, proszê. Mamy problem z ogromn¹ plag¹ karlików nawiedzaj¹cych pobliskie ruiny wioski.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_2">
+		<text>W³aœciwie jest to zwi¹zane z rzecz¹, któr¹ muszê z wami omówiæ. Czy wasze przyrz¹dy wykrywaj¹ jakieœ nietypowe pole psioniczne wokó³ wioski?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_3">
+		<text>Co? Sk¹d o tym wiesz?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_4">
+		<text>To nieistotne, ale powiedzmy, ¿e wiem, jak rozwi¹zaæ wasz problem. Czy mo¿ecie podaæ mi wiêcej szczegó³ów?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_5">
+		<text>Oczywiœcie! Wykrywaliœmy to s³abe, anormalne pole psioniczne, które powoli narasta³o przez ostatnie kilka tygodni. Przez wiêkszoœæ czasu by³o ono rozproszone po ca³ym regionie wioski, ale niedawno uda³o nam siê namierzyæ jego centrum. Znajduje siê ono wewn¹trz du¿ego budynku, który najlepiej zachowa³ swoj¹ strukturê. Próbowaliœmy wys³aæ kilka oddzia³ów, aby zbada³y to miejsce, ale gdy tylko ktoœ zbli¿y siê do wioski, karliki wype³zaj¹ z ziemi i gruzu. Niektórzy z naszych kolegów zg³aszali równie¿ halucynacje. Mo¿esz mi powiedzieæ, co wiesz na ten temat?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_6">
+		<text>Wybaczcie profesorze, ale nie ma czasu na wyjaœnienia. Jeœli nie zaczniemy dzia³aæ szybko, bêdziemy w powa¿nych tarapatach. Czy ma pan jakichœ ludzi zdolnych do walki?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_7">
+		<text>Obawiam siê, ¿e nie mogê pomóc. Mamy bardzo ma³o ludzi... A jeœli twierdzisz, ¿e jesteœmy w niebezpieczeñstwie to nie mo¿emy pozostawiæ bunkra bez ochrony!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_mystery_of_the_swamps_1_8">
+		<text>Zrozumia³em. W takim razie bêdê ju¿ lecia³.</text>
 	</string>
 </string_table>

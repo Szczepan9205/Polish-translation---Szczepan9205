@@ -52,7 +52,7 @@
 		<text>Utrzymanie pozycji</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_text">
-		<text>Bandyci przygotowuj¹ siê do szturmu na Wysypisko i przejêcia nad nimi pe³nej kontroli. Pietrenko poprosi³ mnie o zabunkrowanie siê na Pchlim Targu i odparcie ich.</text>
+		<text>Bandyci przygotowuj¹ siê do szturmu na Wysypisko i przejêcia nad nimi pe³nej kontroli. Petrenko poprosi³ mnie o zabunkrowanie siê na Pchlim Targu i odparcie ich.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_about">
 		<text>Nasi zwiadowcy donieœli o ogromnym zgromadzeniu bandytów w pobli¿u przejœcia miêdzy Dolin¹ Mroku, a Wysypiskiem. Pozwolenie im na przejêcie kontroli nad Wysypiskiem jest niedopuszczalne. Mamy jednak problemy z ludŸmi z powodu tych cholernych hipisów na pó³nocy... Dlatego wyœlê ciê na tê misjê samego. Wiem - brzmi to jak szaleñstwo, ale powinieneœ otrzymaæ pomoc od Samotników, którzy czêsto odwiedzaj¹ to miejsce, pod warunkiem, ¿e nie wpadli ju¿ w zasadzkê jakiegoœ mniejszego oddzia³u bandytów.</text>
@@ -329,6 +329,45 @@
 		<text>Dobrze siê dzisiaj spisa³eœ, stalkerze. Nasz przyjaciel opuœci³ ju¿ Zonê, ale upewniê siê, ¿e ta paczka do niego dotrze.</text>
 	</string>
 
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_name">
+		<text>Dokumenty wywiadowcze Wolnoœci</text>
+	</string>
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_text">
+		<text>Loki poprosi³ mnie o odzyskanie dokumentów wywiadowczych ukrytych przez jedn¹ z grup zwiadowczych Wolnoœci.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_about">
+		<text>Jak zapewne wiecie, jesteœmy najbardziej wysuniêt¹ na pó³noc placówk¹ Wolnoœci w Zonie. Wi¹¿e siê to z du¿¹ niedogodnoœci¹ w postaci czêstych staræ z Monolitem i Grzechem. Mamy tam kilka grup zwiadowczych, które u³atwiaj¹ nam ¿ycie, zbieraj¹c informacje o ruchach wroga i zastawiaj¹c zasadzki na mniejsze oddzia³y.\n \nJedna z tych grup zaginê³a niedawno, ale mia³a schowek, w którym przechowywa³a swoje ³upy. Ten schowek powinien równie¿ zawieraæ dane, które mieli dostarczyæ. Zadanie jest proste - potrzebujê tych dokumentów. Mo¿esz natomiast zatrzymaæ wszystko, co znajdziesz w schowku.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_finish">
+		<text>Zuch ch³opak. Oto twoja nagroda.</text>
+	</string>
+
+	<string id="guid_zan_stalker_locman_task_pilots_pda_name">
+		<text>PDA Pilota</text>
+	</string>
+	<string id="guid_zan_stalker_locman_task_pilots_pda_text">
+		<text>Pilot zgubi³ swój PDA, gdy wpad³ w zasadzkê, prowadz¹c innego stalkera na pó³noc. Poprosi³ mnie o jego odzyskanie.</text>
+	</string>
+	<string id="guid_zan_stalker_locman_task_pilots_pda_about">
+		<text>Masz ochotê na œmierteln¹ "przygodê", stalkerze? Mam dla ciebie zadanie, które jest banalne, ale jednoczeœnie bardzo niebezpieczne.\n \nNie bêdê wdawa³ siê w szczegó³y, ale mój klient i ja wpadliœmy jakiœ czas temu w zasadzkê Monolitu, kiedy próbowa³em poprowadziæ go na pó³noc. Uda³o nam siê prze¿yæ, ale w ferworze walki straci³em swoje PDA. Skrywa ono wiele tajemnic i chcê je odzyskaæ. Zawsze mam w³¹czony GPS, wiêc Brodacz pomóg³ mi zlokalizowaæ jego ostatni¹ pozycjê, zanim bateria siê wyczerpa³a.\n \nDobra wiadomoœæ jest taka, ¿e PDA od d³u¿szego czasu nie zmieni³o swojej pozycji, wiêc jestem prawie pewien, ¿e zosta³o gdzieœ schowane. Z³a wiadomoœæ jest taka, ¿e sygna³ PDA dobiega gdzieœ ze Sarkofagu. Wiêc... co ty na to?</text>
+	</string>
+	<string id="guid_zan_stalker_locman_task_pilots_pda_finish">
+		<text>To imponuj¹cy wyczyn. Nie myœla³eœ o zostaniu przewodnikiem? Wygl¹da na to, ¿e wiesz, jak zejœæ z niebezpiecznej drogi.</text>
+	</string>
+
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_name">
+		<text>Plany Monolitu</text>
+	</string>
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_text">
+		<text>Ludzie Gryfa zdobyli informacje o skrytce nale¿¹cej do wysoko postawionego cz³onka Monolitu, która podobno zawiera plany ich ataków. Muszê mu je dostarczyæ.</text>
+	</string>
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_about">
+		<text>Mam coœ dla ciebie. Niedawno starliœmy siê z grup¹ zwiadowcz¹ Monolitu i uda³o nam siê pojmaæ jednego z nich ¿ywcem. Okaza³o siê, ¿e badali okolicê, aby dokoñczyæ przygotowywanie swoich planów ataku. Ocala³y zna³ lokalizacjê schowka swojego przywódcy, która zawiera³a te plany. Musisz mi je przynieœæ. Mo¿esz zatrzymaæ wszystko, co znajdziesz w œrodku.</text>
+	</string>
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_finish">
+		<text>Dobra robota. Ci fanatycy nie pozbêd¹ siê nas tak ³atwo.</text>
+	</string>
+
 	<!-- The Living Fire -->
 	<string id="bar_informator_mlr_task_the_living_fire_name">
 		<text>¯ywy ogieñ</text>
@@ -337,7 +376,7 @@
 		<text>Kabel chce, ¿ebym dowiedzia³ siê wiêcej o ostatnich plotkach na temat tajemniczego stalkera, który najwyraŸniej potrafi kontrolowaæ ogieñ.</text>
 	</string>
 	<string id="bar_informator_mlr_task_the_living_fire_about">
-		<text>Wiesz mój przyjacielu - wiedza to potêga... a ja jestem tym, który lubi du¿o wiedzieæ i zamieniaæ tê potêgê w coœ bardziej u¿ytecznego - pieni¹dze. Jest jedna rzecz, której jeszcze nie wiem, a która doprowadzi³aby mnie do zarobienia ma³ej fortuny. Kr¹¿y plotka o stalkerze, który pojawi³ siê niedawno w Zonie... Podobno - ma jak¹œ moc manipulowania ogniem. Na pocz¹tku myœla³em, ¿e to tylko plotka, jakich wiele, ale kiedy kilka wa¿nych osób zaczê³o mnie pytaæ, czy wiem na ten temat coœ wiêcej, zda³em sobie sprawê, ¿e coœ w tym jest. Nawet pu³kownik Pietrenko ostatnio wpad³ i zada³ mi kilka pytañ, poniewa¿ znaleŸli dwóch swoich ¿o³nierzy spalonych na wiór na Cmentarzysku pojazdów, gdzie nie ma ¿adnych anomalii termicznych! Nie muszê chyba mówiæ, ¿e odpowiedŸ "Nie wiem" na wiêkszoœæ jego pytañ nie przynios³a mi ¿adnego zysku, prawda? Umowa jest taka - ty dowiesz siê wiêcej o tym goœciu, a ja zap³acê ci niez³¹ kasê. Wchodzisz w to?\n \nMój znajomy z Pchlego targu doniós³, ¿e ostatnio na Wysypisku dzia³y siê jakieœ dziwne rzeczy. Rozpocz¹³bym poszukiwania od rozmowy z nim.</text>
+		<text>Wiesz mój przyjacielu - wiedza to potêga... a ja jestem tym, który lubi du¿o wiedzieæ i zamieniaæ tê potêgê w coœ bardziej u¿ytecznego - pieni¹dze. Jest jedna rzecz, której jeszcze nie wiem, a która doprowadzi³aby mnie do zarobienia ma³ej fortuny. Kr¹¿y plotka o stalkerze, który pojawi³ siê niedawno w Zonie... Podobno - ma jak¹œ moc manipulowania ogniem. Na pocz¹tku myœla³em, ¿e to tylko plotka, jakich wiele, ale kiedy kilka wa¿nych osób zaczê³o mnie pytaæ, czy wiem na ten temat coœ wiêcej, zda³em sobie sprawê, ¿e coœ w tym jest. Nawet pu³kownik Petrenko ostatnio wpad³ i zada³ mi kilka pytañ, poniewa¿ znaleŸli dwóch swoich ¿o³nierzy spalonych na wiór na Cmentarzysku pojazdów, gdzie nie ma ¿adnych anomalii termicznych! Nie muszê chyba mówiæ, ¿e odpowiedŸ "Nie wiem" na wiêkszoœæ jego pytañ nie przynios³a mi ¿adnego zysku, prawda? Umowa jest taka - ty dowiesz siê wiêcej o tym goœciu, a ja zap³acê ci niez³¹ kasê. Wchodzisz w to?\n \nMój znajomy z Pchlego targu doniós³, ¿e ostatnio na Wysypisku dzia³y siê jakieœ dziwne rzeczy. Rozpocz¹³bym poszukiwania od rozmowy z nim.</text>
 	</string>
 	<string id="bar_informator_mlr_task_the_living_fire_finish">
 		<text>Przyjemnie robiæ z tob¹ interesy, partnerze! Skontaktujê siê teraz ze wszystkimi moimi klientami. Jestem pewien, ¿e chêtnie zap³ac¹, aby dowiedzieæ siê wiêcej o naszym przyjacielu. Wpadnij kiedyœ póŸniej. Czujê, ¿e wpadliœmy na trop czegoœ wielkiego i mo¿na na tym zarobiæ jeszcze wiêcej pieniêdzy.</text>
@@ -449,10 +488,126 @@
 	<string id="st_af_tlf_prometheus_descr">
 		<text>Unikalny artefakt, który narodzi³ siê w anomalii Grecki ogieñ po zabiciu stalkera z legendy o tej samej nazwie. Daje u¿ytkownikowi ogromn¹ odpornoœæ na ciep³o i sprawia, ¿e rany goj¹ siê szybciej.</text>
 	</string>
-	
 	<!-- The Living Fire end -->
+	
+	<!-- Mystery of the Swamps -->
+	<string id="task_mystery_of_the_swamps_name">
+		<text>Tajemnica Wielkich Bagien</text>
+	</string>
+	<string id="task_mystery_of_the_swamps_text">
+		<text>Profesor Sacharow poprosi³ mnie o pomoc w zbadaniu ostatnich nieprawid³owoœci w bagnistych regionach Zony.</text>
+	</string>
+
+	<string id="mystery_of_the_swamps_barman_msg_1">
+		<text>Hej stary! PodejdŸ tutaj - musimy porozmawiaæ.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_1">
+		<text>Zbli¿amy siê. B¹dŸ czujny.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_2">
+		<text>Myœlê, ¿e to ostatni z nich. Sacharow mia³ racjê... liczba karlików by³a bardzo nienormalna. W ka¿dym razie - zajmij siê tymi swoimi naukowymi sprawami. Nie powinniœmy zostawaæ tu zbyt d³ugo.</text>
+	</string>
+	<string id="mystery_of_the_swamps_ecolog_msg_1">
+		<text>Robi siê!</text>
+	</string>
+	<string id="mystery_of_the_swamps_ecolog_msg_2">
+		<text>Mam wszystkie dane. Wracajmy do bunkra.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_fail_1">
+		<text>Rozczarowa³eœ mnie, stalkerze... zatrudnienie ciê jako ochroniarza by³o b³êdem.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_1">
+		<text>Myœlê, ¿e powinniœmy trzymaæ siê blisko, kolego. Nie wiemy, co zabi³o tego naukowca.</text>
+	</string>
+	<string id="mystery_of_the_swamps_data_collected_1">
+		<text>Dane zebrane.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_2">
+		<text>O KURWA! Uwa¿aj!</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_3">
+		<text>Co to by³o do cholery?!</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_3">
+		<text>To wygl¹da³o jak... duch... Mam z³e przeczucia...</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_4">
+		<text>Duch? Znowu? Mam co do tego z³e przeczucia...</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_1">
+		<text>Stalkerze! S³yszysz mnie? Zmiana planów! Kieruj siê w stronê opuszczonej farmy w Dolinie Mroku. Jeden z naszych naukowców pilnie potrzebuje pomocy medycznej! Wysy³am ci wspó³rzêdne. Na razie pomiñmy kwestiê pieniêdzy - zajmiemy siê tym póŸniej.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_5">
+		<text>Za póŸno, profesorze. Pañski cz³owiek nie ¿yje. Nie widzê jednak ¿adnych ran na jego ciele... Co tu siê dzieje?</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_2">
+		<text>Kolejna tragedia...\n \nTen cz³owiek zosta³ wys³any z dwoma ochroniarzami, aby zebraæ odczyty z bagien w Dolinie Mroku. Powiedzia³, ¿e zostali zaatakowani przez jak¹œ bestiê i ledwo uszed³ z ¿yciem. Kilka minut póŸniej poinformowa³, ¿e traci zmys³y i odczuwa rozdzieraj¹cy ból na ca³ym ciele. Straciliœmy z nim kontakt, ale uda³o nam siê przechwyciæ jego ostatnie wspó³rzêdne. Nastêpnie skontaktowaliœmy siê z tob¹.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_6">
+		<text>No nic, ten cz³owiek prawdopodobnie by³ martwy na d³ugo zanim tu dotar³em. Teraz ju¿ nic z tym nie zrobiê. Wkrótce wracam do bunkra.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_3">
+		<text>Chwileczkê, ch³opcze. Skoro ju¿ tam jesteœ, czy by³byœ sk³onny zaj¹æ siê tym mutantem zanim wrócisz? Oczywiœcie za odpowiedni¹ cenê.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_7">
+		<text>Prawdopodobnie to samo stworzenie zabi³o waszego drugiego cz³owieka. Zajmê siê tym.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_4">
+		<text>Chwilunia! Nie pisa³em siê na to ca³e gówno! Dzieje siê tu coœ szalonego i nie chcê mieæ z tym nic wspólnego! Odchodzê!</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_4_1">
+		<text>Bez obaw. Skontaktowa³em siê z innym zespo³em, który prowadzi³ œledztwo wokó³ bagien Doliny Mroku. Dwóch ich ochroniarzy zgodzi³o siê, ¿eby ci pomóc. S¹ w drodze do twojej pozycji.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_4_2">
+		<text>Dlatego w³aœnie skontaktowa³em siê z innym zespo³em, który prowadzi³ œledztwo wokó³ bagien Doliny Mroku. Dwóch ich ochroniarzy zgodzi³o siê, ¿eby ci pomóc. S¹ w drodze do twojej pozycji.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_8">
+		<text>Zbli¿amy siê. Zajmijcie pozycje obronne i zabezpieczcie teren. Ja poszukam cia³ i mutanta, który zabi³ naukowców.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_fail_2">
+		<text>Przerwij misjê, stalkerze. Wygl¹da na to, ¿e siê do niej nie nadajesz...</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_9">
+		<text>To powinno byæ wszystko. Przygotujcie siê do wymarszu. Bêdê tam za minutê.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_10">
+		<text>Gotowi? Ruszamy...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_5">
+		<text>Chwila! Moje radio coœ odbiera.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_5">
+		<text>Od...aæ m...sjê! ... powt..., od...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_6">
+		<text>To Sacharow. Powinniœmy wydostaæ siê z tego przeklêtego kanionu, ¿eby z³apaæ sygna³...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_7">
+		<text>Co to kurwa by³o!?</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_11">
+		<text>W nogi!</text>
+	</string>
+
+	<string id="st_af_tlf_lost_soul">
+		<text>Zagubiona dusza</text>
+	</string>
+	<string id="st_af_tlf_lost_soul_descr">
+		<text>Chocia¿ artefakt ten przypomina zwyk³y artefakt Dusza to posiada on niezwyk³e w³aœciwoœci. Zapewnia wiêksz¹ ochronê telepatyczn¹ i nie oddzia³uje negatywnie na w³aœciciela.</text>
+	</string>
+	<!-- Mystery of the Swamps end -->
 
 	<string id="nta_intercept_item">
 		<text>Przechwyæ przedmiot:</text>
+	</string>
+	<string id="nta_search_the_stash">
+		<text>Przeszukaj schowek</text>
+	</string>
+
+	<string id="nta_quest_documents_name">
+		<text>Zaszyfrowane dokumenty</text>
+	</string>
+	<string id="nta_quest_documents_desc">
+		<text>Silnie zaszyfrowane dokumenty, niemo¿liwe do odczytania bez odpowiedniego szyfru.</text>
 	</string>
 </string_table>

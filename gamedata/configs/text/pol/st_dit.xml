@@ -2,6 +2,7 @@
 
 <string_table>
 	<string id="dit_no_consume_ctrl">
-		<text>%sAby zapobiec niezamierzonemu zu¿yciu narzêdzi,\nprocedurê mo¿na wykonaæ tylko wtedy, gdy wciœniêty jest lewy klawisz Shift%s</text>
+		<text>%sZabezpieczenie przed zniszczeniem narzêdzia do demonta¿u,\n
+		"LEWY CTRL" musi byæ przytrzymany, aby je omin¹æ%s</text>
 	</string>
 </string_table>

@@ -6,6 +6,7 @@
 
 
 <string_table>
+
 	<string id="st_mag_overlylarge_95_545_drum">
 		<text>95 nabojowy magazynek do RPK-16 5.45x39 mm</text>
 	</string>
@@ -68,7 +69,29 @@
 	<string id="st_mag_overlylarge_100_556x45_drum2_descr">
 		<text>100-nabojowy metalowy magazynek o du¿ej pojemnoœci na amunicjê 5.56x45 mm, zmodyfikowany tak, aby pasowa³ do karabinów AUG.</text>
 	</string>
+
+	<string id="st_mag_saiga12_drum">
+		<text>20 nabojowy magazynek bêbnowy do Saigi-12</text>
+	</string>
+	<string id="st_mag_saiga12_drum_descr">
+		<text>20-nabojowy magazynek bêbnowy o du¿ej pojemnoœci na naboje œrutowe kalibru 12x70 mm.</text>
+	</string>
 	
+	<string id="st_mag_nato_5.56x45_drum">
+		<text>MAGPUL PMAG D-60</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_drum_descr">
+		<text>MAGPUL PMAG D-60 to 60-nabojowy magazynek bêbnowy do wszystkich karabinów kompatybilnych z systemem STANAG.
+		</text>
+	</string>
 	
+	 <string id="st_mag_nato_5.56x45_drum_ext">
+		<text>100-nabojowy magazynek bêbnowy KCI Gen 2</text>
+	</string>
+	
+	<string id="st_mag_nato_5.56x45_drum_ext_descr">
+		<text>Magazynek bêbnowy KCI 100 Gen2 to 100-nabojowy magazynek bêbnowy do wszystkich karabinów kompatybilnych z systemem STANAG.
+		</text>
+	</string>
 
 </string_table>

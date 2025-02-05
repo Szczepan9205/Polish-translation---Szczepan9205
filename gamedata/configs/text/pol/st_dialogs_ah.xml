@@ -23,10 +23,10 @@
  <text>Doskonale</text>
  </string>
  <string id = "test_dialog_end_2">
- <text>Gdzie jest moja nagroda </text>
+ <text>Gdzie jest moja nagroda</text>
  </string>
  <string id = "test_dialog_end_3">
- <text>Tam jest </text>
+ <text>Tam jest</text>
  </string>
   <string id = "test_dialog_end_4">
  <text>Dziêkujê.</text>
@@ -36,7 +36,7 @@
  </string>  
     
  <string id = "sarik_dialog_0">
- <text> Czy wiesz gdzie mogê dostaæ jak¹œ robotê pracê? </text>
+ <text> Czy wiesz gdzie mogê dostaæ jak¹œ robotê pracê?</text>
  </string>
  <string id = "sarik_dialog_1">
 <text> Tak. A dok³adnie ja jak¹œ mam, dowiedzia³em siê o niej dziœ rano. Do Zony przyby³a nowa grupa badaczy, zbieraj¹ca dziwne artefakty. Có¿, nie s¹ to do koñca artefakty, bardziej napromieniowane œmieci, ale z jakiegoœ powodu s¹ nimi zainteresowani. Mog¹ potrzebowaæ pomocy.</text>
@@ -62,7 +62,7 @@
  <text>Jasne, mam trochê czasu. Czego potrzebujecie?</text>
  </string>
  <string id = "meet_ah_no">
- <text>Przykro mi, ale nie mam na to czasu. </text>
+ <text>Przykro mi, ale nie mam na to czasu.</text>
  </string>  
  <string id = "meet_ah_4">
 <text> Do mojego nastêpnego eksperymentu potrzebujê próbek z lokalnych pól anomalnych. Musisz udaæ siê do tych anomalii i znaleŸæ te prawie uformowane artefakty. Twój detektor powinien byæ w stanie je wychwyciæ, by pomóc ci w poszukiwaniach.</text>
@@ -81,7 +81,7 @@
  </string>
 
  <string id = "cancel_ah_0">
- <text>Co do waszego zadania, profesorze... </text>
+ <text>Co do waszego zadania, profesorze...</text>
  </string>  
  <string id = "cancel_ah_1">
  <text>Jak postêpuj¹ poszukiwania? Znalaz³eœ je?</text>
@@ -102,385 +102,385 @@
 <text>W porz¹dku. Bêdê szuka³ dalej.</text>
  </string>      
  <string id = "cancel_ah_7">
-<text> Cholera, to nie dobrze. Cofnie mnie to o co najmniej dwa miesi¹ce... Wybaczcie, muszê iœæ do laboratorium. ¯egnajcie, stalkerze. </text>
+<text> Cholera, to nie dobrze. Cofnie mnie to o co najmniej dwa miesi¹ce... Wybaczcie, muszê iœæ do laboratorium. ¯egnajcie, stalkerze.</text>
  </string>
  
 
  <string id = "kovalev_1_quest_0">
- <text> Witam profesorze, czy mogê zapytaæ jak id¹ pañskie badania? </text>
+ <text> Witam profesorze, czy mogê zapytaæ jak id¹ pañskie badania?</text>
  </string>
  <string id = "kovalev_1_quest_3">
- <text> Nie zapomnij u¿yæ detektora, który ci da³em, powinien wydaæ dŸwiêk, gdy zbli¿ysz siê do artefaktu. </text>
+ <text> Nie zapomnij u¿yæ detektora, który ci da³em, powinien wydaæ dŸwiêk, gdy zbli¿ysz siê do artefaktu.</text>
  </string>  
  <string id = "kovalev_1_quest_end_0">
- <text> Przynios³em wam wasze œwiec¹ce œmieci, wiêc co teraz? </text>
+ <text> Przynios³em wam wasze œwiec¹ce œmieci, wiêc co teraz?</text>
  </string>
  <string id = "kovalev_1_quest_end_1">
- <text> Och, oczywiœcie, oto twoja nagroda. Z ma³ym bonusem. </text>
+ <text> Och, oczywiœcie, oto twoja nagroda. Z ma³ym bonusem.</text>
  </string>
     
  <string id = "kovalev_2_quest_0">
- <text> Coœ jeszcze, profesorze? </text>
+ <text> Coœ jeszcze, profesorze?</text>
  </string>
  <string id = "kovalev_2_quest_3">
 <text> Widzi pan, wczeœniej zmierzy³em anomalie na Agropromie i znalaz³em szereg dziwnych nieprawid³owoœci. Artefakty, które tworz¹ siê w tych anomaliach, maj¹ unikaln¹ charakterystykê modulacji w noosferze. Jednak podczas moich badañ zostaliœmy zaatakowani - sytuacja sta³a siê doœæ napiêta i musieliœmy uciekaæ. W zamieszaniu zostawi³em laptopa z danymi skanowania w jednym z miejsc anomalii. Jeœli mo¿esz, znajdŸ mój laptop, poka¿e wspó³rzêdne anomalii, które zeskanowa³em. Poszukaj wszelkich próbek, które mo¿esz w nich znaleŸæ.</text>
  </string> 
     
  <string id = "kovalev_2_quest_end_0">
-<text> Hej profesorze, znalaz³em waszego laptopa i próbki. </text>
+<text> Hej profesorze, znalaz³em waszego laptopa i próbki.</text>
  </string>
  <string id = "kovalev_2_quest_end_1">
- <text> Dziêkujê, to bardzo pomo¿e w moich badaniach! Mam nadziejê, ¿e ta premia pokryje twoje wydatki na tê misjê. </text>
+ <text> Dziêkujê, to bardzo pomo¿e w moich badaniach! Mam nadziejê, ¿e ta premia pokryje twoje wydatki na tê misjê.</text>
  </string>  
     
     <string id = "markov_1_quest_0">
- <text> S³ucham. </text>
+ <text> S³ucham.</text>
  </string>
     <string id = "markov_1_quest_2">
- <text> Dlaczego nie zasiêgniesz informacji u jednego ze swoich kolegów z Jantaru? </text>
+ <text> Dlaczego nie zasiêgniesz informacji u jednego ze swoich kolegów z Jantaru?</text>
  </string>
  <string id = "markov_1_quest_3">
-<text> Pracujê oddzielnie od grupy naukowej w Jantarze. Ci mierni amatorzy nawet nie podjêli siê zbadania najbli¿szych im anomalii. S³uchaj, jeœli uda ci siê znaleŸæ te artefakty, dobrze ci zap³acê. Im szybciej, tym lepiej. </text>
+<text> Pracujê oddzielnie od grupy naukowej w Jantarze. Ci mierni amatorzy nawet nie podjêli siê zbadania najbli¿szych im anomalii. S³uchaj, jeœli uda ci siê znaleŸæ te artefakty, dobrze ci zap³acê. Im szybciej, tym lepiej.</text>
  </string> 
 
  <string id = "markov_1_quest_end_0">
- <text> Oto wasze próbki. </text>
+ <text> Oto wasze próbki.</text>
  </string>
  <string id = "markov_1_quest_end_1">
- <text> Œwietna robota, m³ody cz³owieku. Gdzie ja je teraz umieszczê... </text>
+ <text> Œwietna robota, m³ody cz³owieku. Gdzie ja je teraz umieszczê...</text>
  </string>      
     
 <string id = "markov_2_quest_0">
- <text> Potrzebuje pan jeszcze pomocy, profesorze? </text>
+ <text> Potrzebuje pan jeszcze pomocy, profesorze?</text>
  </string>  
  <string id = "markov_2_quest_3">
 <text> Ach, tak! Podczas badañ terenowych odkry³em dziwne fluktuacje w noosferze na s¹siednim obszarze zwanym Dzicz¹. Wydaje siê, ¿e maj¹ one jakiœ wp³yw na artefakty, które tam powstaj¹, wiêc chcê, ¿ebyœ siê tam uda³ i to zbada³. Podam ci wspó³rzêdne interesuj¹cych mnie miejsc.</text>
  </string>
 
  <string id = "markov_2_quest_end_0">
- <text> Wci¹¿ czujê siê niewyraŸnie po anomaliach elektrycznych, w które wdepn¹³em. W ka¿dym razie, proszê profesorze, oto kolejna partia artefaktów.  </text>
+ <text> Wci¹¿ czujê siê niewyraŸnie po anomaliach elektrycznych, w które wdepn¹³em. W ka¿dym razie, proszê profesorze, oto kolejna partia artefaktów.</text>
  </string>
  <string id = "markov_2_quest_end_1">
- <text> Wspaniale! Oto twoja nagroda. </text>
+ <text> Wspaniale! Oto twoja nagroda.</text>
  </string>      
     
     <string id = "markov_3_quest_0">
- <text> Coœ jeszcze? Mia³em nadziejê na coœ bardziej... ekscytuj¹cego. </text>
+ <text> Coœ jeszcze? Mia³em nadziejê na coœ bardziej... ekscytuj¹cego.</text>
  </string>
     <string id = "markov_3_quest_3">
-<text> Hmm, niech pomyœlê... Ach tak! Jest jeszcze jedno badanie terenowe, którego nie uda³o mi siê jeszcze przeprowadziæ. Na pó³noc st¹d, na Jantarze, znajduje siê stare laboratorium, które emituje niebezpiecznie wysoki poziom emisji psi. Mam powody, by s¹dziæ, ¿e emisje te wp³ywaj¹ na powstawanie artefaktów w okolicy. Nie chcia³em powierzaæ ci tego zadania, ale nie mogê siê doczekaæ wyników! Powinieneœ porozmawiaæ z profesorem Sacharowem, jeœli potrzebujesz jakiejœ ochrony psionicznej. </text>
+<text> Hmm, niech pomyœlê... Ach tak! Jest jeszcze jedno badanie terenowe, którego nie uda³o mi siê jeszcze przeprowadziæ. Na pó³noc st¹d, na Jantarze, znajduje siê stare laboratorium, które emituje niebezpiecznie wysoki poziom emisji psi. Mam powody, by s¹dziæ, ¿e emisje te wp³ywaj¹ na powstawanie artefaktów w okolicy. Nie chcia³em powierzaæ ci tego zadania, ale nie mogê siê doczekaæ wyników! Powinieneœ porozmawiaæ z profesorem Sacharowem, jeœli potrzebujesz jakiejœ ochrony psionicznej.</text>
  </string>
     
  <string id = "markov_3_quest_end_0">
- <text> Profesorze, to naprawdê nie by³o ³atwe, ale chyba znalaz³em je wszystkie. </text>
+ <text> Profesorze, to naprawdê nie by³o ³atwe, ale chyba znalaz³em je wszystkie.</text>
  </string>
  <string id = "markov_3_quest_end_1">
- <text> Niesamowite, dziêkujê! Bardzo mi pomog³eœ. </text>
+ <text> Niesamowite, dziêkujê! Bardzo mi pomog³eœ.</text>
  </string>      
     
     <string id = "pirogov_1_quest_0">
- <text> Wygl¹dacie na zmartwionego. </text>
+ <text> Wygl¹dacie na zmartwionego.</text>
  </string>
     <string id = "pirogov_1_quest_1">
-<text> Tak, ta dziura roi siê od mutantów i bandytów, a ci idioci wys³ali mnie tu samego! Czy oni naprawdê myœleli, ¿e bêdê w stanie zignorowaæ wszystko i po prostu têdy przejœæ? Kurwa maæ! </text>
+<text> Tak, ta dziura roi siê od mutantów i bandytów, a ci idioci wys³ali mnie tu samego! Czy oni naprawdê myœleli, ¿e bêdê w stanie zignorowaæ wszystko i po prostu têdy przejœæ? Kurwa maæ!</text>
  </string>
  <string id = "pirogov_1_quest_2">
- <text> Wow, uspokójcie siê. Mo¿e móg³bym pomóc? Czego potrzebujecie? </text>
+ <text> Wow, uspokójcie siê. Mo¿e móg³bym pomóc? Czego potrzebujecie?</text>
  </string> 
  <string id = "pirogov_1_quest_5">
-<text> Dobra, s³uchaj. Jest tu kilka rzadkich anomalii i s¹ one praktycznie nietkniête przez tych têpych bandytów. Jeœli móg³byœ pozyskaæ próbkê z ka¿dej z nich, by³bym bardzo wdziêczny. Oto wspó³rzêdne. </text>
+<text> Dobra, s³uchaj. Jest tu kilka rzadkich anomalii i s¹ one praktycznie nietkniête przez tych têpych bandytów. Jeœli móg³byœ pozyskaæ próbkê z ka¿dej z nich, by³bym bardzo wdziêczny. Oto wspó³rzêdne.</text>
  </string>  
 
  <string id = "pirogov_1_quest_end_0">
- <text> To by³a piekielnie d³uga podró¿, ale uda³o mi siê zdobyæ twoje próbki. </text>
+ <text> To by³a piekielnie d³uga podró¿, ale uda³o mi siê zdobyæ twoje próbki.</text>
  </string>
  <string id = "pirogov_1_quest_end_1">
- <text> Œwietnie, natychmiast powiadomiê profesora Sacharowa. Dziêkujê stalkerze, naprawdê wyci¹gn¹³eœ mnie dzisiaj z niez³ego szajsu. </text>
+ <text> Œwietnie, natychmiast powiadomiê profesora Sacharowa. Dziêkujê stalkerze, naprawdê wyci¹gn¹³eœ mnie dzisiaj z niez³ego szajsu.</text>
  </string>  
  
     <string id = "pirogov_2_quest_0">
- <text> Coœ jeszcze? </text>
+ <text> Coœ jeszcze?</text>
  </string>
  <string id = "pirogov_2_quest_3">
 <text> Niestety tak. Sacharow w³aœnie powiedzia³ mi, ¿e chce, abym sprawdzi³ Cmentarzysko Pojazdów. Widzisz, Cmentarzysko jest s³abo zbadanym obszarem i wielu unika go nie bez powodu, chocia¿ najwyraŸniej jest tam wiele interesuj¹cych anomalii. Jeœli zdobêdziesz dla mnie próbki z tych anomalii, dam ci 50% wynagrodzenia za tê pracê. Obszar znajduje siê na pó³noc st¹d, ale uwa¿aj na przesiaduj¹cych tam bandytów.</text>
  </string> 
 
  <string id = "pirogov_2_quest_end_0">
- <text> Co to by³o za odludne miejsce... W ka¿dym razie, oto nastêpna partia, profesorze. </text>
+ <text> Co to by³o za odludne miejsce... W ka¿dym razie, oto nastêpna partia, profesorze.</text>
  </string>
  <string id = "pirogov_2_quest_end_1">
- <text> Dziêkujê, to powinno wystarczyæ. Zgodnie z umow¹, oto twoja nagroda. </text>
+ <text> Dziêkujê, to powinno wystarczyæ. Zgodnie z umow¹, oto twoja nagroda.</text>
  </string>  
     
     <string id = "pirogov_3_quest_0">
- <text> Wiêc, macie coœ jeszcze czy to wszystko? </text>
+ <text> Wiêc, macie coœ jeszcze czy to wszystko?</text>
  </string>
  <string id = "pirogov_3_quest_3">
-<text> Có¿, jest jeszcze jedna sprawa. Wys³a³em mojego ostatniego asystenta na Wysypisko, by umieœci³ prototypy w niektórych anomaliach. Ale przegapi³ dwa ostatnie kontakty radiowe i obawiam siê, ¿e coœ mu siê sta³o. </text>
+<text> Có¿, jest jeszcze jedna sprawa. Wys³a³em mojego ostatniego asystenta na Wysypisko, by umieœci³ prototypy w niektórych anomaliach. Ale przegapi³ dwa ostatnie kontakty radiowe i obawiam siê, ¿e coœ mu siê sta³o.</text>
  </string> 
     <string id = "pirogov_3_quest_4">
- <text> To nic dziwnego na tym napromieniowanym zadupiu. </text>
+ <text> To nic dziwnego na tym napromieniowanym zadupiu.</text>
  </string>
         <string id = "pirogov_3_quest_5">
-<text> Ostatnim razem, gdy siê kontaktowa³, chcia³ zaopatrzyæ siê na Pchlim Targu, wiêc dobrym pomys³em jest rozpoczêcie poszukiwañ w³aœnie tam. ZnajdŸ mojego asystenta i jego PDA, powinno zawieraæ lokalizacje pozosta³ych anomalii, którymi jestem zainteresowany. Przynieœ mi próbki, abym móg³ opuœciæ to przeklête miejsce. </text>
+<text> Ostatnim razem, gdy siê kontaktowa³, chcia³ zaopatrzyæ siê na Pchlim Targu, wiêc dobrym pomys³em jest rozpoczêcie poszukiwañ w³aœnie tam. ZnajdŸ mojego asystenta i jego PDA, powinno zawieraæ lokalizacje pozosta³ych anomalii, którymi jestem zainteresowany. Przynieœ mi próbki, abym móg³ opuœciæ to przeklête miejsce.</text>
  </string>
 
  <string id = "pirogov_3_quest_end_0">
- <text> Znalaz³em waszego asystenta. Wygl¹da na to, ¿e zosta³ zaatakowany przez bandytów i zamieni³ siê w szwajcarski ser, ale uda³o mi siê odzyskaæ jego PDA i dokoñczyæ robotê. Proszê bardzo, profesorze. </text>
+ <text> Znalaz³em waszego asystenta. Wygl¹da na to, ¿e zosta³ zaatakowany przez bandytów i zamieni³ siê w szwajcarski ser, ale uda³o mi siê odzyskaæ jego PDA i dokoñczyæ robotê. Proszê bardzo, profesorze.</text>
  </string>
  <string id = "pirogov_3_quest_end_1">
  <text> Co za szkoda, by³ dobrym cz³owiekiem. Co za parszywy sposób na œmieræ... W ka¿dym razie, oto twoja nagroda. Wreszcie mogê wróciæ do bunkra i wzi¹æ mi³y prysznic.</text>
  </string>      
     
     <string id = "chernov_1_quest_0">
- <text> Hej, s³ysza³em, ¿e mo¿ecie potrzebowaæ pomocy w waszych badaniach. </text>
+ <text> Hej, s³ysza³em, ¿e mo¿ecie potrzebowaæ pomocy w waszych badaniach.</text>
  </string>
     <string id = "chernov_1_quest_1">
- <text> Gorliwy jesteœ, co? Mam nadziejê, ¿e nie próbujesz splagiatowaæ mojej pracy. </text>
+ <text> Gorliwy jesteœ, co? Mam nadziejê, ¿e nie próbujesz splagiatowaæ mojej pracy.</text>
  </string>
  <string id = "chernov_1_quest_2">
- <text> Nie nie, profesorze. Na razie interesuj¹ mnie tylko pieni¹dze. </text>
+ <text> Nie nie, profesorze. Na razie interesuj¹ mnie tylko pieni¹dze.</text>
  </string> 
  <string id = "chernov_1_quest_5">
-<text> Bardzo dobrze. Przekonajmy siê wiêc, czy masz to, czego potrzeba, dobrze? W obszarze, który miejscowi nazywaj¹ Magazynami Wojskowymi, znajduje siê wiele interesuj¹cych anomalii, których wiêkszoœæ stalkerów po prostu stara siê unikaæ. Przynieœ mi próbki z tych, które zaznaczy³em na twoim PDA, a potem mo¿emy rozmawiaæ dalej. </text>
+<text> Bardzo dobrze. Przekonajmy siê wiêc, czy masz to, czego potrzeba, dobrze? W obszarze, który miejscowi nazywaj¹ Magazynami Wojskowymi, znajduje siê wiele interesuj¹cych anomalii, których wiêkszoœæ stalkerów po prostu stara siê unikaæ. Przynieœ mi próbki z tych, które zaznaczy³em na twoim PDA, a potem mo¿emy rozmawiaæ dalej.</text>
  </string>  
 
  <string id = "chernov_1_quest_end_0">
- <text> Proszê, oto jedna partia b³yszcz¹cych œmieci. </text>
+ <text> Proszê, oto jedna partia b³yszcz¹cych œmieci.</text>
  </string>
  <string id = "chernov_1_quest_end_1">
- <text> Œwietnie. Zgodnie z obietnic¹, oto twoja zap³ata. Czy jest coœ, co chcia³byœ wiedzieæ w szczególnoœci?  </text>
+ <text> Œwietnie. Zgodnie z obietnic¹, oto twoja zap³ata. Czy jest coœ, co chcia³byœ wiedzieæ w szczególnoœci?</text>
  </string>          
  
     <string id = "chernov_3_quest_0">
- <text> Zastanawia³em siê, sk¹d w ogóle wiecie, gdzie pojawi¹ siê te dziwne artefakty. </text>
+ <text> Zastanawia³em siê, sk¹d w ogóle wiecie, gdzie pojawi¹ siê te dziwne artefakty.</text>
  </string>
     <string id = "chernov_3_quest_1">
-<text> Có¿, nasza grupa badawcza jest w rzeczywistoœci czêœci¹ NIBAOC czyli Naukowego Instytutu Badañ Anomalnego Obszaru Czarnobyla. Nieustannie badamy Zonê, aby znaleŸæ sposób na jej zniszczenie lub przynajmniej kontrolowanie. Wiele siê nauczyliœmy dziêki informacjom dostarczanym przez lokalnych ³owców i naszym w³asnym wyprawom. Mamy nawet wstêpne mapy anomalii dla niektórych obszarów. Korzystaj¹c z tych informacji i danych z naszych skanerów, mo¿emy wydedukowaæ prawdopodobieñstwo powstania artefaktów. </text>
+<text> Có¿, nasza grupa badawcza jest w rzeczywistoœci czêœci¹ NIBAOC czyli Naukowego Instytutu Badañ Anomalnego Obszaru Czarnobyla. Nieustannie badamy Zonê, aby znaleŸæ sposób na jej zniszczenie lub przynajmniej kontrolowanie. Wiele siê nauczyliœmy dziêki informacjom dostarczanym przez lokalnych ³owców i naszym w³asnym wyprawom. Mamy nawet wstêpne mapy anomalii dla niektórych obszarów. Korzystaj¹c z tych informacji i danych z naszych skanerów, mo¿emy wydedukowaæ prawdopodobieñstwo powstania artefaktów.</text>
  </string>      
     <string id = "chernov_3_quest_2">
- <text> Interesuj¹ce. Wiêc to st¹d wiecie, gdzie mnie ca³y czas wysy³aæ. </text>
+ <text> Interesuj¹ce. Wiêc to st¹d wiecie, gdzie mnie ca³y czas wysy³aæ.</text>
  </string>
         <string id = "chernov_3_quest_3">
-<text> Dok³adnie. Nastêpne zadanie bêdzie jednak wymaga³o ostro¿noœci. Nie chcê, ¿ebyœ zgin¹³, w koñcu jak dot¹d wydajesz siê byæ dobrym asystentem. Zleci³em pewnemu stalkerowi zbadanie pewnych anomalnych pól w Czerwonym Lesie. Niestety, wygl¹da na to, ¿e zagin¹³. Ostatnim miejscem, z którego siê kontaktowa³, by³ zawalony tunel przy moœcie do Limañska. IdŸ i znajdŸ jego PDA, które zawiera dane skanowania, które mu da³em, i znajdŸ pozosta³e próbki. Muszê ciê jednak ostrzec, straci³em wielu przyjació³ i wspó³pracowników w Czerwonym Lesie, wiêc b¹dŸ ostro¿ny. </text>
+<text> Dok³adnie. Nastêpne zadanie bêdzie jednak wymaga³o ostro¿noœci. Nie chcê, ¿ebyœ zgin¹³, w koñcu jak dot¹d wydajesz siê byæ dobrym asystentem. Zleci³em pewnemu stalkerowi zbadanie pewnych anomalnych pól w Czerwonym Lesie. Niestety, wygl¹da na to, ¿e zagin¹³. Ostatnim miejscem, z którego siê kontaktowa³, by³ zawalony tunel przy moœcie do Limañska. IdŸ i znajdŸ jego PDA, które zawiera dane skanowania, które mu da³em, i znajdŸ pozosta³e próbki. Muszê ciê jednak ostrzec, straci³em wielu przyjació³ i wspó³pracowników w Czerwonym Lesie, wiêc b¹dŸ ostro¿ny.</text>
  </string>
     
  <string id = "chernov_3_quest_end_0">
- <text> Có¿ to by³a za podró¿! Mimo ¿e musia³em trochê postrzelaæ to uda³o mi siê zdobyæ wszystkie próbki. Oby by³o warto, profesorze! </text>
+ <text> Có¿ to by³a za podró¿! Mimo ¿e musia³em trochê postrzelaæ to uda³o mi siê zdobyæ wszystkie próbki. Oby by³o warto, profesorze!</text>
  </string>
  <string id = "chernov_3_quest_end_1">
- <text> Cudownie, ju¿ siê martwi³em. Mam nadziejê, ¿e ta premia pokryje koszty leczenia. </text>
+ <text> Cudownie, ju¿ siê martwi³em. Mam nadziejê, ¿e ta premia pokryje koszty leczenia.</text>
  </string>  
     
     <string id = "chernov_4_quest_0">
- <text> Wiêc, czy kiedykolwiek uda³o wam siê stworzyæ artefakty w laboratorium? To znaczy, badacie je ju¿ od d³u¿szego czasu i czy zapotrzebowanie na Zonê nie spad³oby drastycznie, gdyby artefakty mog³y byæ tworzone poza ni¹? </text>
+ <text> Wiêc, czy kiedykolwiek uda³o wam siê stworzyæ artefakty w laboratorium? To znaczy, badacie je ju¿ od d³u¿szego czasu i czy zapotrzebowanie na Zonê nie spad³oby drastycznie, gdyby artefakty mog³y byæ tworzone poza ni¹?</text>
  </string>
     <string id = "chernov_4_quest_1">
-<text> Prace nad tworzeniem sztucznych artefaktów by³y prowadzone jeszcze przed katastrof¹ i utworzeniem Zony. Mój prze³o¿ony mieszka³ i pracowa³ w Limañsku. Spêdziliœmy u niego wiele nocy, dyskutuj¹c o mo¿liwym pochodzeniu artefaktów. Po kradzie¿y z laboratorium sprzêtu potrzebnego do tego , uda³o nam siê nawet stworzyæ proto-artefakt, taki jak te, które mi przynios³eœ. </text>
+<text> Prace nad tworzeniem sztucznych artefaktów by³y prowadzone jeszcze przed katastrof¹ i utworzeniem Zony. Mój prze³o¿ony mieszka³ i pracowa³ w Limañsku. Spêdziliœmy u niego wiele nocy, dyskutuj¹c o mo¿liwym pochodzeniu artefaktów. Po kradzie¿y z laboratorium sprzêtu potrzebnego do tego, uda³o nam siê nawet stworzyæ proto-artefakt, taki jak te, które mi przynios³eœ.</text>
  </string>      
     <string id = "chernov_4_quest_2">
- <text> Interesuj¹ce. Co siê sta³o z waszym przyjacielem? </text>
+ <text> Interesuj¹ce. Co siê sta³o z waszym przyjacielem?</text>
  </string>
         <string id = "chernov_4_quest_3">
-<text> Nie wiem, nie by³o ewakuacji z Limañska w czasie katastrofy. Gdzie zniknêli wszyscy jego mieszkañcy, jest dla mnie zagadk¹. To mi przypomina, ¿e wci¹¿ mam adres jego domu. Móg³byœ tam pojechaæ i sprawdziæ, czy artefakt wci¹¿ tam jest? Kto wie, mo¿e to klucz do zrozumienia tego wszystkiego. </text>
+<text> Nie wiem. W czasie katastrofy Limañsk nie zosta³ ewakuowany. Gdzie zniknêli wszyscy jego mieszkañcy, jest dla mnie zagadk¹... Ale przypomnia³o mi siê dziêki temu, ¿e wci¹¿ mam adres jego domu. Móg³byœ siê tam wybraæ i sprawdziæ, czy artefakt wci¹¿ tam jest? Kto wie, mo¿e to klucz do zrozumienia tego wszystkiego.</text>
  </string>  
 
  <string id = "chernov_4_quest_end_0">
-<text> Limañsk jest w strasznym stanie. Nie znalaz³em ¿adnych ocala³ych, poza band¹ szalonych fanatyków. Uda³o mi siê jednak znaleŸæ artefakt. Oto on. </text>
+<text> Limañsk jest w strasznym stanie. Nie znalaz³em ¿adnych ocala³ych, poza band¹ szalonych fanatyków. Uda³o mi siê jednak znaleŸæ artefakt. Oto on.</text>
  </string>
  <string id = "chernov_4_quest_end_1">
- <text> Spodziewa³em siê tego. Nie powinienem jednak nie têskniæ za moim starym przyjacielem... W ka¿dym razie, uhonorujmy jego poœwiêcenie i spróbujmy dowiedzieæ siê, jak powstrzymaæ to wszystko zanim siê powtórzy. </text>
+ <text> Spodziewa³em siê tego. Nie powinienem jednak nie têskniæ za moim starym przyjacielem... W ka¿dym razie, uhonorujmy jego poœwiêcenie i spróbujmy dowiedzieæ siê, jak powstrzymaæ to wszystko zanim siê powtórzy.</text>
  </string>      
     
     <string id = "chernov_5_quest_0">
- <text> Jak leci, profesorze? Jakieœ wieœci na temat pochodzenia artefaktów? </text>
+ <text> Jak leci, profesorze? Jakieœ wieœci na temat pochodzenia artefaktów?</text>
  </string>
     <string id = "chernov_5_quest_1">
-<text> Tak, spójrz tutaj. Widzisz to? Ten artefakt ma ca³kowicie unikalny wzór emisji. Mój przyjacielu, w³aœnie tutaj mamy niepodwa¿alny dowód na to, ¿e artefakty mo¿na uzyskaæ sztucznymi metodami. </text>
+<text> Tak, spójrz tutaj. Widzisz to? Ten artefakt ma ca³kowicie unikalny wzór emisji. Mój przyjacielu, w³aœnie tutaj mamy niepodwa¿alny dowód na to, ¿e artefakty mo¿na uzyskaæ sztucznymi metodami.</text>
  </string>      
     <string id = "chernov_5_quest_2">
- <text> To szaleñstwo! Czekaj, myœlicie, ¿e to mo¿liwe, ¿e artefakty pojawi³y siê przed powstaniem Zony? </text>
+ <text> To szaleñstwo! Czekaj, myœlicie, ¿e to mo¿liwe, ¿e artefakty pojawi³y siê przed powstaniem Zony?</text>
  </string>
         <string id = "chernov_5_quest_3">
-<text> Có¿, chyba mogê ci powiedzieæ, skoro i tak w koñcu siê dowiesz. S³ysza³eœ kiedyœ o farmach artefaktów? Badania w tym kierunku trwaj¹ ju¿ od d³u¿szego czasu, a obecnie opuszczone laboratorium X-19 by³o w nie mocno zaanga¿owane. Stworzyli oni kapsu³y, które nazwali "³ó¿kami", w których artefakty mog³y formowaæ siê w kontrolowanych warunkach. Obecnie obszar ten jest opanowany przez fanatyków, którzy nazywaj¹ siebie Monolitem i jest niezwykle niebezpieczny. Jeœli jednak w jakiœ sposób uda ci siê tam dostaæ i znaleŸæ jakiekolwiek pozosta³oœci artefaktów lub dokumentacji, bêdê twoim d³u¿nikiem.  </text>
+<text> Có¿, chyba mogê ci powiedzieæ, skoro i tak w koñcu siê dowiesz. S³ysza³eœ kiedyœ o farmach artefaktów? Badania w tym kierunku trwaj¹ ju¿ od d³u¿szego czasu, a obecnie opuszczone laboratorium X-19 by³o w nie mocno zaanga¿owane. Stworzyli oni kapsu³y, które nazwali "³ó¿kami", w których artefakty mog³y formowaæ siê w kontrolowanych warunkach. Obecnie obszar ten jest opanowany przez fanatyków, którzy nazywaj¹ siebie Monolitem i jest niezwykle niebezpieczny. Jeœli jednak w jakiœ sposób uda ci siê tam dostaæ i znaleŸæ jakiekolwiek pozosta³oœci artefaktów lub dokumentacji, bêdê twoim d³u¿nikiem.</text>
  </string>
 
  <string id = "chernov_5_quest_end_0">
-<text> Wow, naprawdê nie k³amaliœcie profesorze, w okolicy roi³o siê od Monolitu, jednak uda³o mi siê dostaæ do laboratorium. Wierzcie lub nie, ale mieliœcie racjê. Znalaz³em trzy sztuczne artefakty i kilka papierów, które wygl¹da³y na wa¿ne. Proszê bardzo.  </text>
+<text> Wow, naprawdê nie k³amaliœcie profesorze, w okolicy roi³o siê od Monolitu, jednak uda³o mi siê dostaæ do laboratorium. Wierzcie lub nie, ale mieliœcie racjê. Znalaz³em trzy sztuczne artefakty i kilka papierów, które wygl¹da³y na wa¿ne. Proszê bardzo.</text>
  </string>
  <string id = "chernov_5_quest_end_1">
-<text> Œwietnie. Nie pytaj, sk¹d wiedzia³em, ¿e tam bêdzie, nie spodoba³aby ci siê odpowiedŸ. Bior¹c pod uwagê naturê naszych badañ, muszê prosiæ ciê o dyskrecjê. W koñcu ujawniê œwiatu, co siê tutaj wydarzy³o. Ale zanim to zrobiê, muszê dokoñczyæ moj¹ teoriê na temat tych artefaktów. </text>
+<text> Œwietnie. Nie pytaj, sk¹d wiedzia³em, ¿e tam bêdzie, nie spodoba³aby ci siê odpowiedŸ. Bior¹c pod uwagê naturê naszych badañ, muszê prosiæ ciê o dyskrecjê. W koñcu ujawniê œwiatu, co siê tutaj wydarzy³o. Ale zanim to zrobiê, muszê dokoñczyæ moj¹ teoriê na temat tych artefaktów.</text>
  </string>  
     
     <string id = "chernov_6_quest_0">
- <text> Rozumiem. Czy coœ jeszcze, profesorze? </text>
+ <text> Rozumiem. Czy coœ jeszcze, profesorze?</text>
  </string>
     <string id = "chernov_6_quest_3">
-<text> Tak, po ostatnich skanach okolicy znaleŸliœmy coœ interesuj¹cego. Du¿a grupa najemników kontroluje obszar, który nazywaj¹ Martwym Miastem. Uzyska³em bardzo stabilne odczyty z tego obszaru, wiêc bêdzie on œwietny do wykorzystania jako baza. Jeœli mo¿esz przynieœæ mi próbki z tych miejsc, bêdê w stanie stworzyæ z nich odczyt bazowy. </text>
+<text> Tak, po ostatnich skanach okolicy znaleŸliœmy coœ interesuj¹cego. Du¿a grupa najemników kontroluje obszar, który nazywaj¹ Martwym Miastem. Uzyska³em bardzo stabilne odczyty z tego obszaru, wiêc bêdzie on œwietny do wykorzystania jako baza. Jeœli mo¿esz przynieœæ mi próbki z tych miejsc, bêdê w stanie stworzyæ z nich odczyt bazowy.</text>
  </string>  
 
  <string id = "chernov_6_quest_end_0">
- <text> Hmm, miasto nie okaza³o siê a¿ tak "Martwe" jak o nim mówi¹. Oto próbki, profesorze. </text>
+ <text> Hmm, miasto nie okaza³o siê a¿ tak "Martwe" jak o nim mówi¹. Oto próbki, profesorze.</text>
  </string>
  <string id = "chernov_6_quest_end_1">
- <text> Œwietna robota, oto twoja premia. Bior¹c pod uwagê, jak bardzo mi pomog³eœ, równie dobrze móg³bym wspomnieæ o tobie we wstêpie mojej pracy chocia¿ nie wygl¹dasz, jakby ci na tym zale¿a³o - jeszcze. Jeœli potrzebujesz wiêcej pracy, mo¿esz poszukaæ moich pozosta³ych kolegów w Zonie. Mo¿e bêd¹ mieli coœ dla ciebie. Wyœlê ciê do nich. </text>
+ <text> Œwietna robota, oto twoja premia. Bior¹c pod uwagê, jak bardzo mi pomog³eœ, równie dobrze móg³bym wspomnieæ o tobie we wstêpie mojej pracy chocia¿ nie wygl¹dasz, jakby ci na tym zale¿a³o - jeszcze. Jeœli potrzebujesz wiêcej pracy, mo¿esz poszukaæ moich pozosta³ych kolegów w Zonie. Mo¿e bêd¹ mieli coœ dla ciebie. Wyœlê ciê do nich.</text>
  </string>  
             
 
     <string id = "juk_1_quest_0">
- <text> Witaj, powiedziano mi, ¿e mo¿esz mieæ dla mnie jak¹œ pracê. </text>
+ <text> Witaj, powiedziano mi, ¿e mo¿esz mieæ dla mnie jak¹œ pracê.</text>
  </string>
     <string id = "juk_1_quest_3">
-<text> W rzeczywistoœci mam. Jest kilka anomalii, które chcê zbadaæ, ale na razie utkn¹³em tutaj i nie mogê opuœciæ tego obszaru. Zaznaczê interesuj¹ce mnie anomalie na twoim PDA. Mam nadziejê, ¿e wiesz, co robiæ? Sacharow bêdzie wkurzony, jeœli niczego nie znajdê. </text>
+<text> W rzeczywistoœci mam. Jest kilka anomalii, które chcê zbadaæ, ale na razie utkn¹³em tutaj i nie mogê opuœciæ tego obszaru. Zaznaczê interesuj¹ce mnie anomalie na twoim PDA. Mam nadziejê, ¿e wiesz, co robiæ? Sacharow bêdzie wkurzony, jeœli niczego nie znajdê.</text>
  </string>
 
  <string id = "juk_1_quest_end_0">
- <text> Proszê bardzo. Oto artefakty, które uda³o mi siê znaleŸæ. </text>
+ <text> Proszê bardzo. Oto artefakty, które uda³o mi siê znaleŸæ.</text>
  </string>
  <string id = "juk_1_quest_end_1">
- <text> Heh, nie s¹dzi³em, ¿e ci siê uda. Dobra robota, oto twoja nagroda. </text>
+ <text> Heh, nie s¹dzi³em, ¿e ci siê uda. Dobra robota, oto twoja nagroda.</text>
  </string>
     
     <string id = "juk_2_quest_0">
- <text> Czy jest coœ jeszcze, w czym mogê ci pomóc? </text>
+ <text> Czy jest coœ jeszcze, w czym mogê ci pomóc?</text>
  </string>
     <string id = "juk_2_quest_3">
-<text> Tak, kiedy by³eœ w terenie, otrzyma³em now¹ partiê danych skanowania. Jak zapewne wiesz, Zona skrywa przed nami wiele tajemnic i wiele anomalii nie zosta³o jeszcze zmapowanych. Przeœlê ci te wstêpne dane skanowania, poniewa¿ zawieraj¹ one przybli¿on¹ lokalizacjê niektórych niezmapowanych anomalii. Proszê o potwierdzenie, czy dane s¹ prawid³owe i wypatrywanie artefaktów. Proszê ciê jednak o ostro¿noœæ - dane lokalizacyjne mog¹ zawieraæ b³êdy. </text>
+<text> Tak, kiedy by³eœ w terenie, otrzyma³em now¹ partiê danych skanowania. Jak zapewne wiesz, Zona skrywa przed nami wiele tajemnic i wiele anomalii nie zosta³o jeszcze zmapowanych. Przeœlê ci te wstêpne dane skanowania, poniewa¿ zawieraj¹ one przybli¿on¹ lokalizacjê niektórych niezmapowanych anomalii. Proszê o potwierdzenie, czy dane s¹ prawid³owe i wypatrywanie artefaktów. Proszê ciê jednak o ostro¿noœæ - dane lokalizacyjne mog¹ zawieraæ b³êdy.</text>
  </string>  
     
  <string id = "juk_2_quest_end_0">
- <text> Ech, prawie skoñczy³y mi siê œruby, ale wasze dane wydawa³y siê poprawne, profesorze. Uda³o mi siê te¿ znaleŸæ kilka artefaktów, którym moglibyœcie siê przyjrzeæ. </text>
+ <text> Ech, prawie skoñczy³y mi siê œruby, ale wasze dane wydawa³y siê poprawne, profesorze. Uda³o mi siê te¿ znaleŸæ kilka artefaktów, którym moglibyœcie siê przyjrzeæ.</text>
  </string>
  <string id = "juk_2_quest_end_1">
- <text> Œwietnie, przynajmniej nasze skanery dzia³aj¹ dobrze... Dziêkujê za raport, pieni¹dze powinny wkrótce do ciebie dotrzeæ. </text>
+ <text> Œwietnie, przynajmniej nasze skanery dzia³aj¹ dobrze... Dziêkujê za raport, pieni¹dze powinny wkrótce do ciebie dotrzeæ.</text>
  </string>
     
  <string id = "juk_3_quest_0">
- <text> Wygl¹da na to, ¿e coœ was trapi. </text>
+ <text> Wygl¹da na to, ¿e coœ was trapi.</text>
  </string>
     <string id = "juk_3_quest_3">
-<text> Tak, jest coœ takiego... Widzisz, w Prypeci wystêpuj¹ niezwykle interesuj¹ce wzory emisji. Jednak, jak zapewne wiesz, miasto jest równie niebezpieczne, co interesuj¹ce i nie s¹dzê, bym mia³ jakiekolwiek nadzieje na dostanie siê do niego i wydostanie siê z niego ¿ywym. Jeœli mo¿esz, przyjrzyj siê tym lokalizacjom i przynieœ mi wszelkie artefakty, które znajdziesz. Nie martw siê, nagroda z nawi¹zk¹ pokryje koszty amunicji i banda¿y. </text>
+<text> Tak, jest coœ takiego... Widzisz, w Prypeci wystêpuj¹ niezwykle interesuj¹ce wzory emisji. Jednak, jak zapewne wiesz, miasto jest równie niebezpieczne, co interesuj¹ce i nie s¹dzê, bym mia³ jakiekolwiek nadzieje na dostanie siê do niego i wydostanie siê z niego ¿ywym. Jeœli mo¿esz, przyjrzyj siê tym lokalizacjom i przynieœ mi wszelkie artefakty, które znajdziesz. Nie martw siê, nagroda z nawi¹zk¹ pokryje koszty amunicji i banda¿y.</text>
  </string>      
     
  <string id = "juk_3_quest_end_0">
- <text> Myœlê, ¿e wci¹¿ mam gdzieœ w kombinezonie dziurê po tych cholernych fanatykach, ale uda³o mi siê sprawdziæ anomalie, o których wspomnia³eœ. Znalaz³em nawet kilka próbek dla ciebie. </text>
+ <text> Myœlê, ¿e wci¹¿ mam gdzieœ w kombinezonie dziurê po tych cholernych fanatykach, ale uda³o mi siê sprawdziæ anomalie, o których wspomnia³eœ. Znalaz³em nawet kilka próbek dla ciebie.</text>
  </string>
  <string id = "juk_3_quest_end_1">
- <text> Fenomenalnie! Proszê, weŸ to, zas³u¿y³eœ na to. To powinno byæ na razie wszystko. Jeœli chcesz zarobiæ wiêcej pieniêdzy na zbieraniu artefaktów, mo¿esz poszukaæ kilku moich kolegów w Zonie. Dam im znaæ, ¿e nadchodzisz. </text>
+ <text> Fenomenalnie! Proszê, weŸ to, zas³u¿y³eœ na to. To powinno byæ na razie wszystko. Jeœli chcesz zarobiæ wiêcej pieniêdzy na zbieraniu artefaktów, mo¿esz poszukaæ kilku moich kolegów w Zonie. Dam im znaæ, ¿e nadchodzisz.</text>
  </string>  
     
     <string id = "vorobushkin_1_quest_0">
- <text> Co tam profesorze, potrzebujecie z czymœ pomocy? </text>
+ <text> Co tam profesorze, potrzebujecie z czymœ pomocy?</text>
  </string>
     <string id = "vorobushkin_1_quest_3">
-<text> Zgadza siê. S³uchaj stalkerze, ten obszar jest s³abo zbadany, wiêc nie wiem do koñca, czego siê spodziewaæ. Z moich obliczeñ wynika jednak, ¿e powinienem byæ w stanie znaleŸæ tu artefakty, których potrzebujê. Wczoraj, aby wskazaæ anomalie, które nale¿y zbadaæ, naprawi³em czêœæ sprzêtu w kompleksie antenowym Krug. Skanowanie trwa³o jednak doœæ d³ugo, a im d³u¿ej tam przebywa³em, tym robi³o siê niebezpieczniej, wiêc musia³em tu wróciæ w poœpiechu. Musisz dostaæ siê do budynku stacji i zabraæ modu³ pamiêci, który tam zostawi³em. Wszystkie niezbêdne dane powinny siê na nim znajdowaæ. Nawiasem mówi¹c, w pobli¿u jest kilka anomalii, byæ mo¿e zawieraj¹ próbki, których potrzebujê, ale nie da siê tego stwierdziæ przed pobraniem danych skanowania. </text>
+<text> Zgadza siê. S³uchaj stalkerze, ten obszar jest s³abo zbadany, wiêc nie wiem do koñca, czego siê spodziewaæ. Z moich obliczeñ wynika jednak, ¿e powinienem byæ w stanie znaleŸæ tu artefakty, których potrzebujê. Wczoraj, aby wskazaæ anomalie, które nale¿y zbadaæ, naprawi³em czêœæ sprzêtu w kompleksie antenowym Krug. Skanowanie trwa³o jednak doœæ d³ugo, a im d³u¿ej tam przebywa³em, tym robi³o siê niebezpieczniej, wiêc musia³em tu wróciæ w poœpiechu. Musisz dostaæ siê do budynku stacji i zabraæ modu³ pamiêci, który tam zostawi³em. Wszystkie niezbêdne dane powinny siê na nim znajdowaæ. Nawiasem mówi¹c, w pobli¿u jest kilka anomalii, byæ mo¿e zawieraj¹ próbki, których potrzebujê, ale nie da siê tego stwierdziæ przed pobraniem danych skanowania.</text>
  </string>      
 
  <string id = "vorobushkin_1_quest_end_0">
-<text> To by³a ³atwizna, profesorze. Wasz sprzêt wci¹¿ tam by³, razem z danymi i uda³o mi siê te¿ zdobyæ wasze próbki. </text>
+<text> To by³a ³atwizna, profesorze. Wasz sprzêt wci¹¿ tam by³, razem z danymi i uda³o mi siê te¿ zdobyæ wasze próbki.</text>
  </string>
  <string id = "vorobushkin_1_quest_end_1">
- <text> Wreszcie jakieœ dobre wieœci. Te dane skanowania wydaj¹ siê interesuj¹ce... </text>
+ <text> Wreszcie jakieœ dobre wieœci. Te dane skanowania wydaj¹ siê interesuj¹ce...</text>
  </string>
     
     <string id = "vorobushkin_2_quest_0">
- <text> O co chodzi, profesorze? </text>
+ <text> O co chodzi, profesorze?</text>
  </string>
     <string id = "vorobushkin_2_quest_3">
-<text> Hmm, niektóre z tych odczytów nie maj¹ sensu. Czy by³byœ sk³onny sprawdziæ je dla mnie? Jeœli znajdziesz jakieœ artefakty i przyniesiesz mi je, mogê ci dobrze zap³aciæ. </text>
+<text> Hmm, niektóre z tych odczytów nie maj¹ sensu. Czy by³byœ sk³onny sprawdziæ je dla mnie? Jeœli znajdziesz jakieœ artefakty i przyniesiesz mi je, mogê ci dobrze zap³aciæ.</text>
  </string>  
     
  <string id = "vorobushkin_2_quest_end_0">
- <text> Sprawdzi³em miejsca, o których wspomnia³eœ i znalaz³em te artefakty. Czy to te, których potrzebujecie? </text>
+ <text> Sprawdzi³em miejsca, o których wspomnia³eœ i znalaz³em te artefakty. Czy to te, których potrzebujecie?</text>
  </string>
  <string id = "vorobushkin_2_quest_end_1">
- <text> Tak, niesamowite! Robimy wielkie postêpy, przyjacielu. Oto twoja nagroda. </text>
+ <text> Tak, niesamowite! Robimy wielkie postêpy, przyjacielu. Oto twoja nagroda.</text>
  </string>
 
     
  <string id = "vorobushkin_redirect_dialog_0">
- <text> Jest coœ jeszcze, w czym mogê ci pomóc? </text>
+ <text> Jest coœ jeszcze, w czym mogê ci pomóc?</text>
  </string>
  <string id = "vorobushkin_redirect_dialog_1">
-<text> To na razie wszystko. Jeœli chcesz pomóc nam dalej, wyœlê ciê do mojego kolegi, który na pewno doceni twoj¹ pomoc. Wyœlê ci jego lokalizacjê i poinformujê go o twoim przybyciu. ¯egnaj stalkerze! </text>
+<text> To na razie wszystko. Jeœli chcesz pomóc nam dalej, wyœlê ciê do mojego kolegi, który na pewno doceni twoj¹ pomoc. Wyœlê ci jego lokalizacjê i poinformujê go o twoim przybyciu. ¯egnaj stalkerze!</text>
  </string>  
  <string id = "vorobushkin_redirect_dialog_2">
-<text> Dziêki za nieocenion¹ pomoc. Muszê jeszcze wykonaæ kilka obliczeñ. A ty przenieœ siê na pó³noc od CzEJ. Szef naszej grupy, profesor Skabiñski, ju¿ tam jest. Nie mam pojêcia, jak siê tam dosta³, ale proszê, pospiesz siê! Prawdopodobnie potrzebuje twojej pomocy. </text>
+<text> Dziêki za nieocenion¹ pomoc. Muszê jeszcze wykonaæ kilka obliczeñ. A ty przenieœ siê na pó³noc od CzEJ. Szef naszej grupy, profesor Skabiñski, ju¿ tam jest. Nie mam pojêcia, jak siê tam dosta³, ale proszê, pospiesz siê! Prawdopodobnie potrzebuje twojej pomocy.</text>
  </string>  
  <string id = "vorobushkin_redirect_dialog_3">
-<text> Nasze obliczenia s¹ pe³ne dziur z powodu braku wystarczaj¹cych informacji, ale uda³o nam siê w przybli¿eniu okreœliæ lokalizacjê anomalii, której wczeœniej nie uda³o nam siê przewidzieæ. Teraz szef naszej operacji, profesor Skabiñski, poszed³ j¹ zbadaæ. Prawdopodobnie potrzebuje twojej pomocy, wiêc pospiesz siê i znajdŸ go. To miejsce jest niebezpieczne i nie powinien udawaæ siê tam sam. </text>
+<text> Nasze obliczenia s¹ pe³ne dziur z powodu braku wystarczaj¹cych informacji, ale uda³o nam siê w przybli¿eniu okreœliæ lokalizacjê anomalii, której wczeœniej nie uda³o nam siê przewidzieæ. Teraz szef naszej operacji, profesor Skabiñski, poszed³ j¹ zbadaæ. Prawdopodobnie potrzebuje twojej pomocy, wiêc pospiesz siê i znajdŸ go. To miejsce jest niebezpieczne i nie powinien udawaæ siê tam sam.</text>
  </string>      
 
  <string id = "ah_start_dialog_0">
- <text> Witaj, stalkerze. </text>
+ <text> Witaj, stalkerze.</text>
  </string>
     <string id = "ah_start_dialog_1">
- <text> Witaj. </text>
+ <text> Witaj.</text>
  </string>  
  <string id = "ah_start_dialog_2">
- <text> Witaj, bracie. </text>
+ <text> Witaj, bracie.</text>
  </string>      
 
     <string id = "skabinsky_1_quest_0">
- <text> Jezu, w koñcu was znalaz³em, profesorze! Jak w ogóle siê tu dostaliœcie, skoro wokó³ tylu fanatyków? </text>
+ <text> Jezu, w koñcu was znalaz³em, profesorze! Jak w ogóle siê tu dostaliœcie, skoro wokó³ tylu fanatyków?</text>
  </string>
     <string id = "skabinsky_1_quest_1">
-<text> Och, musisz byæ tym pomocnym stalkerem, o którym wspomina³ Worobuszkin. Dobrze, ¿e znalaz³eœ mnie na czas. Sytuacja wygl¹da tak: mia³em jako eskortê grupê najemników, którzy mnie tu przyprowadzili, ale wiêkszoœæ z nich zosta³a ju¿ zastrzelona, wiêc musimy to zrobiæ szybko. Niedaleko nas znajduje siê niebezpieczna anomalia, niepodobna do ¿adnej, któr¹ widzia³em wczeœniej. Niektóre z naszych obliczeñ przewiduj¹, ¿e mniej wiêcej w tym czasie powinien powstaæ bardzo rzadki i potê¿ny artefakt. Masz zdecydowanie najwiêksze doœwiadczenie z anomaliami z nas wszystkich, wiêc musisz siê tam udaæ i sprawdziæ, czy nasze przewidywania s¹ prawid³owe. Muszê ciê jednak ostrzec, ¿e bêdzie to bardzo niebezpieczne. Jesteœ na to gotowy? </text>
+<text> Och, musisz byæ tym pomocnym stalkerem, o którym wspomina³ Worobuszkin. Dobrze, ¿e znalaz³eœ mnie na czas. Sytuacja wygl¹da tak: mia³em jako eskortê grupê najemników, którzy mnie tu przyprowadzili, ale wiêkszoœæ z nich zosta³a ju¿ zastrzelona, wiêc musimy to zrobiæ szybko. Niedaleko nas znajduje siê niebezpieczna anomalia, niepodobna do ¿adnej, któr¹ widzia³em wczeœniej. Niektóre z naszych obliczeñ przewiduj¹, ¿e mniej wiêcej w tym czasie powinien powstaæ bardzo rzadki i potê¿ny artefakt. Masz zdecydowanie najwiêksze doœwiadczenie z anomaliami z nas wszystkich, wiêc musisz siê tam udaæ i sprawdziæ, czy nasze przewidywania s¹ prawid³owe. Muszê ciê jednak ostrzec, ¿e bêdzie to bardzo niebezpieczne. Jesteœ na to gotowy?</text>
  </string>      
     <string id = "skabinsky_1_quest_2">
- <text> Heh, nie przyby³em tu po to, ¿eby teraz zrezygnowaæ. Do dzie³a! </text>
+ <text> Heh, nie przyby³em tu po to, ¿eby teraz zrezygnowaæ. Do dzie³a!</text>
  </string>      
     <string id = "skabinsky_1_quest_3">
- <text> Nie s¹dzê. </text>
+ <text> Nie s¹dzê.</text>
  </string>      
     <string id = "skabinsky_1_quest_4">
-<text> Dobrze, podoba mi siê wasze podejœcie, stalkerze. Dostanie siê tam bêdzie jednak niezwykle trudne. Mam nadziejê, ¿e masz dobry detektor, aby znaleŸæ próbki i zobaczyæ anomalie bok ten obszar jest doœæ niebezpieczny. A teraz ruszaj, koñczy nam siê czas! </text>
+<text> Dobrze, podoba mi siê wasze podejœcie, stalkerze. Dostanie siê tam bêdzie jednak niezwykle trudne. Mam nadziejê, ¿e masz dobry detektor, aby znaleŸæ próbki i zobaczyæ anomalie bok ten obszar jest doœæ niebezpieczny. A teraz ruszaj, koñczy nam siê czas!</text>
  </string>      
     <string id = "skabinsky_1_quest_5">
- <text> Dziêkujê. Do zobaczenia wkrótce, profesorze. </text>
+ <text> Dziêkujê. Do zobaczenia wkrótce, profesorze.</text>
  </string>      
     <string id = "skabinsky_1_quest_6">
-<text> Czekaj, s³yszysz to? Zona nas wo³a, czujê to... IdŸ i weŸ jej prezent. Bêdê czeka³ na Zatonie na twój powrót. </text>
+<text> Czekaj, s³yszysz to? Zona nas wo³a, czujê to... IdŸ i weŸ jej prezent. Bêdê czeka³ na Zatonie na twój powrót.</text>
  </string>      
  <string id = "skabinsky_1_quest_end_0">
- <text> Profesorze... Spójrzcie na to. Nigdy wczeœniej nie widzia³em takiego artefaktu. Nawet trzymaj¹c go w rêku, czujê siê dziwnie. </text>
+ <text> Profesorze... Spójrzcie na to. Nigdy wczeœniej nie widzia³em takiego artefaktu. Nawet trzymaj¹c go w rêku, czujê siê dziwnie.</text>
  </string>  
  <string id = "skabinsky_1_quest_end_1">
-<text> Wiêc to prawda... A myœla³em, ¿e to tylko b³¹d w naszych obliczeniach. Dziêkujê, stalkerze. Nasz zespó³ i ca³a spo³ecznoœæ naukowa ma wobec ciebie nieoceniony d³ug. Szybko, daj mi ten artefakt, ¿ebym móg³ go bezpiecznie przechowaæ. Potem mo¿emy porozmawiaæ o nagrodzie. </text>
+<text> Wiêc to prawda... A myœla³em, ¿e to tylko b³¹d w naszych obliczeniach. Dziêkujê, stalkerze. Nasz zespó³ i ca³a spo³ecznoœæ naukowa ma wobec ciebie nieoceniony d³ug. Szybko, daj mi ten artefakt, ¿ebym móg³ go bezpiecznie przechowaæ. Potem mo¿emy porozmawiaæ o nagrodzie.</text>
  </string>
     <string id = "skabinsky_1_quest_end_2">
- <text> Mi³o mi, profesorze. Cieszê siê, ¿e mogê pomóc w odkrywaniu sekretów Zony. Proszê bardzo. Mam nadziejê, ¿e by³o warto. </text>
+ <text> Mi³o mi, profesorze. Cieszê siê, ¿e mogê pomóc w odkrywaniu sekretów Zony. Proszê bardzo. Mam nadziejê, ¿e by³o warto.</text>
  </string>  
  <string id = "skabinsky_1_quest_end_3">
-<text> Uch, nie. Teraz, gdy siê nad tym d³u¿ej zastanowi³em, myœlê, ¿e chcê tê moc tylko dla siebie. </text>
+<text> Uch, nie. Teraz, gdy siê nad tym d³u¿ej zastanowi³em, myœlê, ¿e chcê tê moc tylko dla siebie.</text>
  </string>  
  <string id = "skabinsky_1_quest_end_4">
-<text> Nie rób mi tego teraz, stalkerze! Zapomnia³eœ, ¿e mieliœmy umowê?! Nie bêdê tolerowa³ jej ³amania! </text>
+<text> Nie rób mi tego teraz, stalkerze! Zapomnia³eœ, ¿e mieliœmy umowê?! Nie bêdê tolerowa³ jej ³amania!</text>
  </string>
     <string id = "skabinsky_1_quest_end_5">
- <text> Dobra, dobra, ¿artowa³em, profesorze. Oto twój artefakt, he he... </text>
+ <text> Dobra, dobra, ¿artowa³em, profesorze. Oto twój artefakt, he he...</text>
  </string>  
  <string id = "skabinsky_1_quest_end_6">
-<text> Hmm, spójrz na mnie. Z tym artefaktem jestem praktycznie niewra¿liwy. Nie mo¿esz mi nic zrobiæ! A teraz zejdŸ mi z drogi. </text>
+<text> Hmm, spójrz na mnie. Z tym artefaktem jestem praktycznie niewra¿liwy. Nie mo¿esz mi nic zrobiæ! A teraz zejdŸ mi z drogi.</text>
  </string>  
  <string id = "skabinsky_1_quest_end_7">
- <text> To dzie³o mojego ¿ycia! Nie pozwolê ci z nim odejœæ, nie po moim trupie! </text>
+ <text> To dzie³o mojego ¿ycia! Nie pozwolê ci z nim odejœæ, nie po moim trupie!</text>
  </string>  
  <string id = "skabinsky_1_quest_end_8">
-<text> Dziêkujê. Moja praca tutaj dobieg³a koñca i muszê wróciæ do domu, aby oceniæ wszystko, co znaleŸliœmy. Nawet jeœli nasze drogi siê tutaj rozesz³y, nasz zespó³ zawsze bêdzie o tobie pamiêta³. ¯adna suma pieniêdzy nie zrekompensuje twojego wk³adu w naukê, ale to wszystko, co mam w tej chwili przy sobie. Proszê, weŸ to. Jeœli kiedykolwiek bêdziemy potrzebowaæ pomocy w naszych badaniach, na pewno damy ci znaæ. Mam nadziejê, ¿e nasze drogi jeszcze siê skrzy¿uj¹, stalkerze. Jeszcze raz dziêkujê i ¿egnam. </text>
+<text> Dziêkujê. Moja praca tutaj dobieg³a koñca i muszê wróciæ do domu, aby oceniæ wszystko, co znaleŸliœmy. Nawet jeœli nasze drogi siê tutaj rozesz³y, nasz zespó³ zawsze bêdzie o tobie pamiêta³. ¯adna suma pieniêdzy nie zrekompensuje twojego wk³adu w naukê, ale to wszystko, co mam w tej chwili przy sobie. Proszê, weŸ to. Jeœli kiedykolwiek bêdziemy potrzebowaæ pomocy w naszych badaniach, na pewno damy ci znaæ. Mam nadziejê, ¿e nasze drogi jeszcze siê skrzy¿uj¹, stalkerze. Jeszcze raz dziêkujê i ¿egnam.</text>
  </string>      
     
  <string id = "skabinsky_fail_quest_0">
- <text> Znalaz³em was, jak id¹ poszukiwania? </text>
+ <text> Znalaz³em was, jak id¹ poszukiwania?</text>
  </string>  
  <string id = "skabinsky_fail_quest_1">
-<text> Witam. Czy to ty jesteœ tym stalkerem, który pomóg³ naszej grupie w badaniach? Wygl¹da na to, ¿e na pró¿no liczyliœmy na twoj¹ pomoc, obliczenia s¹ b³êdne, to cholerne miejsce nie jest centrum Zony. Wszystko posz³o na marne. </text>
+<text> Witam. Czy to ty jesteœ tym stalkerem, który pomóg³ naszej grupie w badaniach? Wygl¹da na to, ¿e na pró¿no liczyliœmy na twoj¹ pomoc, obliczenia s¹ b³êdne, to cholerne miejsce nie jest centrum Zony. Wszystko posz³o na marne.</text>
  </string>      
  <string id = "skabinsky_fail_quest_2">
- <text> Czy nic wiêcej nie mo¿na zrobiæ? </text>
+ <text> Czy nic wiêcej nie mo¿na zrobiæ?</text>
  </string>      
  <string id = "skabinsky_fail_quest_3">
-<text> Wszystko, co mog³eœ, ju¿ zrobi³eœ. A teraz uciekaj. Niepowodzenie naszej operacji jest twoj¹ zas³ug¹. </text>
+<text> Wszystko, co mog³eœ, ju¿ zrobi³eœ. A teraz uciekaj. Niepowodzenie naszej operacji jest twoj¹ zas³ug¹.</text>
  </string>  
  
  <string id="est_work_kuznecov_0">
@@ -637,7 +637,7 @@
         <text>Przyj¹³em! Wchodzê.</text>
     </string>
     <string id="inform_ab_toolkits_0">
-        <text>Wiesz, gdzie w okolicy mo¿na znaleŸæ jakieœ narzêdzia? </text>
+        <text>Wiesz, gdzie w okolicy mo¿na znaleŸæ jakieœ narzêdzia?</text>
     </string>
     <string id="inform_ab_toolkits_1">
         <text>S³ysza³em coœ, ale trochê pieniêdzy odœwie¿y³o by mi pamiêæ... Jakieœ 2,000.</text>
@@ -718,7 +718,7 @@
         <text>Nie, wybacz stary, zapomnia³em o tym miejscu. Poszukaj w schowkach, popytaj dilerów.</text>
     </string>
     <string id="cs_task0_dialog_0">
-        <text>Masz dla mnie jakieœ specjalne zadania? </text>
+        <text>Masz dla mnie jakieœ specjalne zadania?</text>
     </string>
     <string id="cs_task0_dialog_1">
         <text>Na razie nic specjalnego - ale mam dla ciebie zadanie. Ustawiliœmy urz¹dzenie skanuj¹ce w archianomalii - tej na po³udnie od zachodniej wie¿y stra¿niczej. Do tej pory zebra³o ju¿ wszystkie pomiary anomalnej aktywnoœci, których szukaliœmy - teraz potrzebujê tylko kogoœ, kto je tu przyniesie. Jesteœ gotowy?</text>
@@ -736,7 +736,7 @@
         <text>Dziêkujê. Przy okazji, dziœ wieczorem, miêdzy ósm¹ a jedenast¹, do obozu wraca zwiadowca. Zostañ w pobli¿u - spotkamy siê z nim.</text>
     </string>
     <string id="cs_task0_ambush_renegade_0">
-        <text>Czy jest coœ, co mogê zrobiæ dla Czystego Nieba? </text>
+        <text>Czy jest coœ, co mogê zrobiæ dla Czystego Nieba?</text>
     </string>
     <string id="cs_task0_ambush_renegade_1">
         <text>Tak, jest. Odzyskaliœmy pewn¹ kontrolê nad naszym ma³ym zak¹tkiem Bagien, ale i tak nasze si³y pozostawiaj¹ wiele do ¿yczenia. Aktywnoœæ anomalii spad³a, co normalnie by³oby dobr¹ rzecz¹, ale zamiast tego Bagna roj¹ siê od Bandytów i Renegatów szukaj¹cych ³atwej roboty. Dziêki tym gówniarzom tracimy terytorium, oddaj¹c pozycjê za pozycj¹. Jesteœmy osaczeni, a nasi ludzie wyczerpani - zw³aszcza Renegaci nigdy nie odpuszczaj¹. Z tego, co s³ysza³em, ci dranie przygotowuj¹ siê do kolejnego ataku na nasz¹ placówkê w Stacji Pomp - czy mo¿esz pomóc naszym ludziom ich odeprzeæ?</text>
@@ -835,7 +835,7 @@
         <text>Hmm... Mamy kilku ludzi, którzy byli kiedyœ z Czystego Nieba - byli ¿o³nierzami Monolitu, tak jak my, dopóki Œwiadomoœæ-Z nie rozluŸni³a swojego uœcisku. Teraz walczymy razem przeciwko Monolitowi.</text>
     </string>
     <string id="brodyaga_cs_story_dialog1_2">
-        <text>Wiêc gdzie mogê ich spotkaæ? </text>
+        <text>Wiêc gdzie mogê ich spotkaæ?</text>
     </string>
     <string id="brodyaga_cs_story_dialog1_3">
         <text>Obawiam siê, ¿e jest ju¿ za póŸno. Ich oddzia³ wyruszy³ na misjê do wschodniej Prypeci i niestety jeszcze siê nie zg³osili. Jeœli siê pospieszysz, mo¿e uda ci siê ich dogoniæ. Nie mam zbyt wielu ludzi, wiêc nie mogê nikogo wys³aæ na misjê ratunkow¹.</text>
@@ -865,7 +865,7 @@
         <text>Dziêkujê. Lepiej zanieœ je W³óczêdze. Ja zostanê tutaj i wraz z moimi ch³opakami zabezpieczymy tê placówkê.</text>
     </string>
     <string id="gamajun_cs_story_dialog2_2">
-        <text>Wiêc nie idziesz ze mn¹ na Bagna? </text>
+        <text>Wiêc nie idziesz ze mn¹ na Bagna?</text>
     </string>
     <string id="gamajun_cs_story_dialog2_3">
         <text>Nie. Przykro mi, ale jestem Wyrzutkiem. Nie mogê zostawiæ moich braci. Obieca³em ci, ¿e opowiem ci moj¹ historiê, prawda? Pos³uchaj. W 2011 roku by³em z Lebiediewem w grupie szturmowej, której zadaniem by³o przebicie siê przez Limañsk. Z pomoc¹ kilku najemników przedarliœmy siê dalej na pó³noc i uda³o nam siê zdobyæ przyczó³ek na granicach miasta - wtedy nast¹pi³a ta ogromna emisja. A potem? Nic nie pamiêtam - W³óczêga mówi, ¿e s³u¿y³em Monolitowi jak wszyscy inni, których z³apa³a emisja. Nastêpn¹ rzecz¹, jak¹ pamiêtam, by³o obudzenie siê na Jupiterze w 2012 roku jako ja. Prze¿y³em tylko dziêki W³óczêdze i od tamtej pory z nim wspó³pracujê.</text>
@@ -874,7 +874,7 @@
         <text>Dziêkujê za opowiedzenie mi swojej historii. Przeka¿ê urz¹dzenie W³óczêdze i upewniê siê, ¿e pozdrowiê od ciebie Zimnego.</text>
     </string>
     <string id="dolg_story_task_1_dialog_start_0">
-        <text>Jest jakieœ specjalne zadanie? </text>
+        <text>Jest jakieœ specjalne zadanie?</text>
     </string>
     <string id="dolg_story_task_1_dialog_start_1">
         <text>O ile dobrze pamiêtam, to tak. Trwa wojna z Wolnoœci¹ i bandytami, a z pó³nocy nadci¹gaj¹ fanatycy. Wszystkie nasze si³y s¹ w stanie wojny, a my potrzebujemy ³owców do naszego g³ównego zadania - zniszczenia Zony. Oferujê ci pracê jako szaman. To proste: ja oferujê ci "wiedŸmiñski" kontrakt, a ty go wype³niasz i otrzymujesz za to nagrodê. Co ty na to?</text>
@@ -883,7 +883,7 @@
         <text>Brzmi nieŸle. Jeœli p³aca bêdzie przyzwoita, wezmê to. Jaki bêdzie mój pierwszy kontrakt?</text>
     </string>
     <string id="dolg_story_task_1_dialog_start_3">
-        <text>Nie martw siê o wynagrodzenie, zap³acimy ci pieniêdzmi i dobrym sprzêtem, jeœli siê sprawdzisz. Twoim pierwszym zadaniem bêdzie zniszczenie le¿a pijawek, które wyemigrowa³y na po³udnie. To doœæ upierdliwe zadanie, pijawki ominê³y wszystkie nasze posterunki i patrole. Zniszcz te stworzenia i wróæ po nagrodê. Sugerujê rozpocz¹æ poszukiwania legowiska z RzeŸnikiem, który jest przywódc¹ lokalnych ³owców. </text>
+        <text>Nie martw siê o wynagrodzenie, zap³acimy ci pieniêdzmi i dobrym sprzêtem, jeœli siê sprawdzisz. Twoim pierwszym zadaniem bêdzie zniszczenie le¿a pijawek, które wyemigrowa³y na po³udnie. To doœæ upierdliwe zadanie, pijawki ominê³y wszystkie nasze posterunki i patrole. Zniszcz te stworzenia i wróæ po nagrodê. Sugerujê rozpocz¹æ poszukiwania legowiska z RzeŸnikiem, który jest przywódc¹ lokalnych ³owców.</text>
     </string>
     <string id="dolg_story_task_1_dialog_start_4">
         <text>Przyjmê ten kontrakt. Uznaj te pijawki za martwe.</text>
@@ -895,7 +895,7 @@
         <text>Dobra robota, oto twoja nagroda.</text>
     </string>
     <string id="prinesi_military_docs_start_0">
-        <text>Co muszê zrobiæ, aby uzyskaæ informacje o Szramie? </text>
+        <text>Co muszê zrobiæ, aby uzyskaæ informacje o Szramie?</text>
     </string>
     <string id="prinesi_military_docs_start_1">
         <text>Có¿, sprawa wygl¹da tak... Walizka z raportem z jednej z ekspedycji, która uda³a siê na pó³noc, zosta³a przekazane pewnemu posterunkowi w g³êbi Zony. W ci¹gu dnia strzeg¹ jej, jakby by³a wype³niona czystym plutonem, ale w nocy z jakiegoœ powodu nie zostawiaj¹ wiêcej ni¿ dwóch stra¿ników. Zakradnij siê na ten posterunek i zdob¹dŸ dla mnie tê walizkê. Nie bêdê szczêdzi³ na nagrodê... w granicach rozs¹dku. Zrobisz to, co?</text>
@@ -913,13 +913,13 @@
         <text>Znalaz³em j¹, trzymaj.</text>
     </string>
     <string id="prinesi_military_docs_done_1">
-        <text>Dobrze, bardzo dobrze przyjacielu. Oto ma³a zap³ata na pokrycie kosztów podró¿y i kul, heh heh. Porozmawiajmy teraz o interesach, a dok³adnie o informacjach, których szukasz... </text>
+        <text>Dobrze, bardzo dobrze przyjacielu. Oto ma³a zap³ata na pokrycie kosztów podró¿y i kul, heh heh. Porozmawiajmy teraz o interesach, a dok³adnie o informacjach, których szukasz...</text>
     </string>
     <string id="cs_task3_sidor_dialog_0">
         <text>Szukam pewnego najemnika o imieniu Szrama. Znasz go?</text>
     </string>
     <string id="cs_task3_sidor_dialog_1">
-        <text>Mo¿e znam. Dlaczego potrzebujesz tych informacji? </text>
+        <text>Mo¿e znam. Dlaczego potrzebujesz tych informacji?</text>
     </string>
     <string id="cs_task3_sidor_dialog_3">
         <text>Zna informacje, które s¹ wa¿ne dla Czystego Nieba.</text>

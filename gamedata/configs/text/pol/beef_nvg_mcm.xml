@@ -165,4 +165,12 @@
 		<text>Zasadniczo, ze wzglêdu na magiê cieniowania, jeœli masz Shader Based 2D Scopes, musisz zaznaczyæ to pole. W przeciwnym razie nie zaznaczaj tego pola.</text>
 	</string>
 	
+	<string id="ui_mcm_menu_nvm_keys">
+        <text>Celown. noktowiz.</text>
+    </string>
+
+    <string id="ui_mcm_nvm_keys_ui_keybind">
+        <text>Klawisz alternatywnego celownika noktowizyjnego</text>
+    </string>
+	
 </string_table>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="ui_mcm_menu_remember_outfit_belt">
+		<text>Remember Outfit Belt</text>
+	</string>
+
+	<string id="ui_mcm_remember_outfit_belt_title">
+		<text>Remember Outfit Belt</text>
+	</string>
+
+	<string id="ui_mcm_remember_outfit_belt_title_desc">
+		<text>Tworzy trwały w zapisie rejestr wyposażonych przedmiotów na pasie kombinezonu i wyposaża je automatycznie przy każdym ponownym założeniu tego kombinezonu.</text>
+	</string>
+
+	<string id="ui_mcm_remember_outfit_belt_memory_limit">
+		<text>Limit pamięci</text>
+	</string>
+	<string id="ui_mcm_remember_outfit_belt_memory_limit_desc">
+		<text>Maksymalna liczba kombinezonów, których konfiguracja pasa zostanie ponownie zapamiętana.\nPo przekroczeniu tej liczby pamięć pasa kombinezonu z najwcześniejszym czasem ostatniego noszenia zostanie usunięta.</text>
+	</string>
+
+</string_table>

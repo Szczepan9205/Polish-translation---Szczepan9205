@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
+
 <string_table>
+
 	<!-- Sorter -->
 	<string id="ui_st_tab_all">
 		<text>Wszystkie przedmioty (1)</text>
@@ -253,13 +255,13 @@
 	</string>
 
 	<string id="st_plant_explosive_prox">
-		<text>Podłóż z wyzwalaczem zbliżeniowym</text>
+		<text>Podłóż [wyzwalacz zbliżeniowy]</text>
 	</string>
 	<string id="st_plant_explosive_timer_10">
-		<text>Podłóż z 10 sek. opóźnieniem</text>
+		<text>Podłóż [z 10 sek. opóźnieniem]</text>
 	</string>
 	<string id="st_plant_explosive_timer_30">
-		<text>Podłóż z 30 sek. opóźnieniem</text>
+		<text>Podłóż [z 30 sek. opóźnieniem]</text>
 	</string>
 
 	<!-- Units -->
@@ -276,22 +278,22 @@
 		<text>kcal</text>
 	</string>
 	<string id="st_kcal_sec">
-		<text>kcal / s</text>
+		<text>kcal/s</text>
 	</string>
 	<string id="st_msv">
 		<text>mSv</text>
 	</string>
 	<string id="st_msv_sec">
-		<text>mSv / s</text>
+		<text>mSv/s</text>
 	</string>
 	<string id="st_microg">
 		<text>µg adrenaliny</text>
 	</string>
 	<string id="st_microg_sec">
-		<text>µg adrenaliny / s</text>
+		<text>µg adrenaliny/s</text>
 	</string>
 	<string id="st_ml_min">
-		<text>ml / min</text>
+		<text>ml/min</text>
 	</string>
 	<string id="st_kw_m2">
 		<text>kW/m2</text>
@@ -347,22 +349,36 @@
 		<text>%c[0,255,255,255]ZDROWIE:\n \n
 		%c[ui_gray_2]Zdrowie to ogólna witalność gracza.\n
 		Śmierć nastąpi, jeśli wartość ta osiągnie zero.\n
-		W GAMMA jest to odpowiednik ogólnego stanu zdrowia ciała dla Body Health System.\n \n
-		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Apteczek\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Stimpacków
+		Jest to równoważne z ogólnym stanem zdrowia organizmu.\n
+		Każda kończyna ma swoje oddzielne punkty zdrowia, które można odzyskać za pomocą przedmiotów pierwszej pomocy (Bandaże, Apteczki...), a następnie przedmiotów po uleczeniu (Jadulin, Ibuprofen, Antidotum, Fentanyl...).\n \n
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Apteczki\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Stimpacki\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne i ulepszenia masek oraz hełmów
 		</text>
 	</string>
 
 	<string id="ui_inv_power_restore">
 		<text>%c[0,255,255,255]REGENERACJA WYTRZYMAŁOŚCI:\n \n
-		%c[ui_gray_2]Poziom wytrzymałości reprezentuje dostępną energię fizyczną przechowywaną w ciele gracza. 
-		Energia ta jest wykorzystywana do różnych celów, w szczególności do biegania. Poważna utrata wytrzymałości może spowodować utratę możliwości poruszania się. Dlatego ważne jest, aby jeść, pić i spać, aby odzyskać energię, a także sprawdzać wagę plecaka, ponieważ jego ilość wpływa na szybkość wyczerpania.\n \n
-		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Tabletek kofeinowych\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Zastrzyku epinefryny\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Zastrzyku glukozy\n
-		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2] Herkulesa
+		%c[ui_gray_2]Reprezentuje dostępną energię fizyczną.\n
+		Energia ta jest wykorzystywana do różnych celów, takich jak bieganie, skakanie i wspinaczka.\n \n
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Tabletki kofeinowe\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Zastrzyk epinefryny\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Zastrzyk glukozy\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Kokaina\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Kawa\n	
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Napoje energetyzujące\n
+		%c[d_blue] • %c[0,255,255,255]%c[ui_gray_2]Herkules\n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne i ulepszenia masek oraz hełmów
 		</text>
 	</string>
 	
@@ -371,110 +387,186 @@
 		%c[ui_gray_2]Ta statystyka określa, ile promieniowania obecnie przyjęło ciało gracza.\n
 		Narażenie na promieniowanie jonizujące stanowi ekstremalne, być może nawet śmiertelne, ryzyko. Z tego powodu umiejętność odpowiedniego pomiaru poziomu promieniowania jest niezwykle istotna.\n
 		Podstawową jednostką jest milisiwert (mSv).\n \n
-		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Leków przeciwpromiennych\n
-		%c[d_cyan] • %c[0,255,255,255] Cystaminy\n
-		%c[d_cyan] • %c[0,255,255,255] Jodku potasu\n
-		%c[d_cyan] • %c[0,255,255,255] Radioprotektora\n \n
-		%c[0,255,255,255]Przydatny sprzęt: %c[ui_gray_2](nie ogranicza się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Leki przeciwpromienne\n
+		%c[d_cyan] • %c[0,255,255,255]Cystamina\n
+		%c[d_cyan] • %c[0,255,255,255]Jodek potasu\n
+		%c[d_cyan] • %c[0,255,255,255]Radioprotektor\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n
+		%c[d_cyan] • %c[0,255,255,255]Maski lub aparaty oddechowe
 		</text>
 	</string>
 
 	<string id="ui_inv_radiation_protection">
 		<text>%c[0,255,255,255]ODPORNOŚĆ NA PROMIENIOWANIE:\n \n
-		%c[ui_gray_2]Ta statystyka określa odporność gracza na promieniowanie:\n
-		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Leków przeciwpromiennych\n
-		%c[d_cyan] • %c[0,255,255,255] Cystaminy\n
-		%c[d_cyan] • %c[0,255,255,255] Jodku potasu\n
-		%c[d_cyan] • %c[0,255,255,255] Radioprotektora\n \n
-		%c[0,255,255,255]Przydatny sprzęt: %c[ui_gray_2](nie ogranicza się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
+		%c[ui_gray_2]Określa aktywną redukcję promieniowania przychodzącego.\n
+		NIE określa jednak tego, jak szybko promieniowanie będzie usuwane z ciała.\n
+		Wystarczająco wysoka odporność pozwoli całkowicie uniknąć gromadzenia się promieniowania z niektórych obszarów (z wody lub powietrza):\n \n
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Leki przeciwpromienne\n
+		%c[d_cyan] • %c[0,255,255,255]Cystamina\n
+		%c[d_cyan] • %c[0,255,255,255]Jodek potasu\n
+		%c[d_cyan] • %c[0,255,255,255]Radioprotektor\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n
+		%c[d_cyan] • %c[0,255,255,255]Maski lub aparaty oddechowe
 		</text>
 	</string>
 
 	<string id="ui_inv_burn_protection">
 		<text>%c[0,255,255,255]ODPORNOŚĆ NA OPARZENIA:\n \n
 		%c[ui_gray_2]Ta statystyka określa odporność gracza na typową anomalię termiczną w Czarnobylskiej Strefie Wykluczenia.\n \n
-		%c[0,255,255,255]Przydatny sprzęt: %c[ui_gray_2](nie ogranicza się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n
+		%c[d_cyan] • %c[0,255,255,255]Maski lub aparaty oddechowe
 		</text> 
 	</string>
 
 	<string id="ui_inv_chemical_burn_protection">
 		<text>%c[0,255,255,255]ODPORNOŚĆ NA CHEMIKALIA:\n \n
 		%c[ui_gray_2]Ta statystyka określa odporność gracza na typowe anomalie chemiczne w Czarnobylskiej Strefie Wykluczenia.\n \n
-		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Chlortetracykliny\n
-		%c[d_cyan] • %c[0,255,255,255] Sulfadimetoksyny\n
-		%c[d_cyan] • %c[0,255,255,255] Antidotum\n \n
-		%c[0,255,255,255]Przydatny sprzęt: %c[ui_gray_2](nie ogranicza się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Chlortetracyklina\n
+		%c[d_cyan] • %c[0,255,255,255]Sulfadimetoksyna\n
+		%c[d_cyan] • %c[0,255,255,255]Antidotum\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n
+		%c[d_cyan] • %c[0,255,255,255]Maski lub aparaty oddechowe
 		</text>
 	</string>
 
 	<string id="ui_inv_shock_protection">
 		<text>%c[0,255,255,255]ODPORNOŚĆ NA PORAŻENIE ELEKTRYCZNE:\n \n
 		%c[ui_gray_2]Ta statystyka określa odporność gracza na typową anomalię elektryczną w Czarnobylskiej Strefie Wykluczenia.\n \n
-		%c[0,255,255,255]Przydatny sprzęt: %c[ui_gray_2](nie ogranicza się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
-		%c[d_cyan] • %c[0,255,255,255] Masek lub aparatów oddechowych
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n
+		%c[d_cyan] • %c[0,255,255,255]Maski lub aparaty oddechowe
 		</text>
 	</string>
 
 	<string id="ui_inv_telepatic_protection">
 		<text>%c[0,255,255,255]ODPORNOŚĆ PSIONICZNA:\n \n
 		%c[ui_gray_2]Ta statystyka określa odporność gracza na pola psioniczne w Czarnobylskiej Strefie Wykluczenia.\n \n
-		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Jointa\n
-		%c[d_cyan] • %c[0,255,255,255] Etaperyzyny\n
-		%c[d_cyan] • %c[0,255,255,255] Marihuany\n
-		%c[d_cyan] • %c[0,255,255,255] Blokera psionicznego\n
-		%c[d_cyan] • %c[0,255,255,255] Tabletek nasennych
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Joint\n
+		%c[d_cyan] • %c[0,255,255,255]Etaperyzyna\n
+		%c[d_cyan] • %c[0,255,255,255]Marihuana\n
+		%c[d_cyan] • %c[0,255,255,255]Bloker psioniczny\n 
+		%c[d_cyan] • %c[0,255,255,255]Tabletki nasenne\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n
+		%c[d_cyan] • %c[0,255,255,255]Maski lub aparaty oddechowe
 		</text>
 	</string>
 
 	<string id="ui_inv_fire_wound_protection">
 		<text>%c[0,255,255,255]ODPORNOŚĆ BALISTYCZNA:\n \n
-		%c[ui_gray_2]Odporność balistyczna oznacza właściwości antybalistyczne kamizelki kuloodpornej (zdolność do bezpiecznego pochłaniania energii kinetycznej małych obiektów o dużej prędkości, takich jak pociski lub odłamki).\n
-		Do celów oceny stosuje się uznany na całym świecie system amerykańskiego Narodowego Instytutu Sprawiedliwości (NIS): \n \n
-		%c[d_cyan] • %c[0,255,255,255] TABELA GRADACJI PANCERZA:\n
-		%c[d_cyan] • %c[0,255,255,255] BRAK: %c[ui_gray_2]9x18mm, .45 ACP, 12x70 kulowe\n
-		%c[d_cyan] • %c[0,255,255,255] KLASA I: %c[ui_gray_2]9x18mm +P+, 9x19mm FMJ, 9x19mm JHP, odłamki granatu\n
-		%c[d_cyan] • %c[0,255,255,255] KLASA IIA i II: %c[ui_gray_2]9x18mm RG028, .45 HS, 5.7x28mm SS195, .357 HP, 12x76 śrut\n
-		%c[d_cyan] • %c[0,255,255,255] KLASA IIIA: %c[ui_gray_2]9x19mm AP, 5.45x39mm FMJ/EP, 5.56x45mm FMJ, 7.62x51mm NATO, 9x39mm SP-5, 12x76 Strzałkowe\n
-		%c[d_cyan] • %c[0,255,255,255] KLASA III: %c[ui_gray_2]5.56x45mm EP/AP, 7.62x39mm FMJ/AP, 7.62x54mm ZN1/PP, 7.92x57mm Mauser, 9x39mm SP-6, 12.7x55mm STs-130\n
-		%c[d_cyan] • %c[0,255,255,255] KLASA IV: %c[ui_gray_2]5.45x39mm AP, 7.62x51mm NATO AP, 7.62x54mm AP/7H14, 7.92x57mm SA, .338 Lapua Magnum, 12.7x55mm STs-130 WPS\n
-		%c[d_cyan] • %c[0,255,255,255] KLASA V (Egzoszkielet):%c[d_red] Tajne\n
-		%c[0,255,255,255]UWAGA:\n
-		%c[ui_gray_2]Powyższe poziomy ochrony odnoszą się wyłącznie do właściwości przeciwprzenikaniowych pancerza.\n
-		Uderzenie pocisku nadal jest w stanie zadać obrażenia poprzez tępy uraz spowodowany czystą energią kinetyczną.\n
+		%c[ui_gray_2]Określa odporność na nadlatujące pociski.\n 
+		Działa ona jako płaska redukcja otrzymywanych obrażeń (jak każda inna odporność), ale jest rozdzielona między głowę i resztę ciała.\n  
+		Odporności balistyczne artefaktów i skór odnoszą się zarówno do głowy, jak i ciała, podczas gdy hełmy, pancerze osobiste i pancerze płytowe chronią tylko odpowiednie obszary (głowę lub resztę ciała).\n \nWybierz:
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Diklofenak\n
+		%c[d_cyan] • %c[0,255,255,255]Metamizol\n		
+		%c[d_cyan] • %c[0,255,255,255]Morfina\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Przedmioty technologiczne umieszczane na pasie\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n
+		%c[d_cyan] • %c[0,255,255,255]Maski lub aparaty oddechowe
 		</text>
 	</string>
 
 	<string id="ui_inv_wound_protection">
 		<text>%c[0,255,255,255]ODPORNOŚĆ NA ZADRAPANIA:\n \n
-		%c[ui_gray_2]Odporność na zadrapania reprezentuje zdolność pancerza do pochłaniania i przemieszczania urazów spowodowanych wszelkiego rodzaju fizycznymi ciosami i uderzeniami.\n
-		Obejmują one - ale nie ograniczają się do - prób ciosów, kopnięć, pchnięć, cięć, ugryzień i telekinetycznie rzucanych odłamków.\n \n
-		%c[0,255,255,255]Przydatny sprzęt: %c[ui_gray_2](nie ogranicza się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Kombinezonów ochronnych\n
+		%c[ui_gray_2]Reprezentuje zdolność pancerza do pochłaniania i wypierania urazów spowodowanych przez pazury i zęby mutantów.\n
+		Odporność jest ogólna i taka sama zarówno dla głowy, jak i ciała. \n \n
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Diklofenak\n
+		%c[d_cyan] • %c[0,255,255,255]Metamizol\n		
+		%c[d_cyan] • %c[0,255,255,255]Morfina\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n		
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne
+		</text>
+	</string>
+
+	<string id="ui_inv_explosion_protection">
+		<text>%c[0,255,255,255]ODPORNOŚĆ NA EKSPLOZJĘ:\n \n
+		%c[ui_gray_2]Określa odporność na eksplozje granatów lub materiałów wybuchowych.\n
+		Odporność jest ogólna i taka sama zarówno dla głowy, jak i ciała.\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n		
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne
+		</text>
+	</string>
+
+	<string id="ui_inv_strike_protection">
+		<text>%c[0,255,255,255]ODPORNOŚĆ NA UDERZENIE:\n \n
+		%c[ui_gray_2]Określa odporność na obrażenia oparte na grawitacji i falach uderzeniowych.\n
+		Odporność jest ogólna i taka sama dla głowy i ciała.\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n		
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne
+		</text>
+	</string>
+
+	<string id="ui_inv_br_protection">
+		<text>%c[0,255,255,255]KLASA BR:\n \n
+		%c[ui_gray_2]Reprezentuje odporność pancerza lub hełmu na przebicie pociskiem.\n
+		Wartość ta jest bezpośrednio porównywana z wartością penetracji pancerza (AP) przez nadlatujący pocisk. Pociski zadają obrażenia wstrząsowe tylko wtedy, gdy zostaną zatrzymane przez pancerz.\n
+		Jeśli klasa BR jest wyższa od wartości AP pocisku, obrażenia od pocisku są redukowane według następującego wzoru: \n 
+		Redukcja obrażeń = (Klasa BR pancerza x1.3 + Odporność balistyczna pancerza x0.2) + przedmioty na pasku + leki \n \n
+
+		Jeśli klasa BR jest niższa od wartości AP pocisku, pocisk przebija pancerz i zadawane są normalne obrażenia, takie jak:\n
+		Redukcja obrażeń = współczynnik balistyczny pancerza x1.0 + przedmioty na pasie + leki\n \n
+
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Diklofenak\n
+		%c[d_cyan] • %c[0,255,255,255]Metamizol\n		
+		%c[d_cyan] • %c[0,255,255,255]Morfina\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n		
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne\n	
+		%c[d_cyan] • %c[0,255,255,255]Hełmy ochronne
 		</text>
 	</string>
 
 	<string id="st_ui_bleeding_sensor">
 		<text>%c[0,255,255,255]KRWAWIENIE:\n \n
-		%c[ui_gray_2]Krwawienie może wyczerpywać siły witalne w bardzo szybkim tempie, jeśli nie jest szybko leczone. Krwawiące rany są najczęściej wynikiem działania zewnętrznej siły fizycznej, która przebiła pancerz i rozerwała skórę, a czasami towarzyszą im uszkodzenia narządów wewnętrznych. Krwawienie może być również efektem otwartych złamań kości spowodowanych tępym urazem.\n
-		%c[0,255,255,255]Przydatne przedmioty: %c[ui_gray_2](nie ograniczają się do)%c[0,255,255,255]:\n
-		%c[d_cyan] • %c[0,255,255,255] Bandaży\n
-		%c[d_cyan] • %c[0,255,255,255] Opaski uciskowej\n
-		%c[d_cyan] • %c[0,255,255,255] Barwinka
+		%c[ui_gray_2]Krwawienie może wyczerpywać siły witalne w bardzo szybkim tempie, jeśli nie jest szybko leczone.\n \n
+		%c[0,255,255,255]Przydatne przedmioty%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Bandaże\n
+		%c[d_cyan] • %c[0,255,255,255]Opaska uciskowa\n
+		%c[d_cyan] • %c[0,255,255,255]Barwinek\n \n
+		%c[0,255,255,255]Przydatny sprzęt%c[ui_gray_2]%c[0,255,255,255]:\n
+		%c[d_cyan] • %c[0,255,255,255]Artefakty\n
+		%c[d_cyan] • %c[0,255,255,255]Skóry mutantów\n
+		%c[d_cyan] • %c[0,255,255,255]Kombinezony ochronne i ich ulepszenia\n
 		</text>
 	</string>
+
+
 	
 	<!-- Item description-->
 	<string id="st_cap_old">

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_mm_desc_master_volume">
+		<text>Ustawienie głośności SFX działa jako modyfikator atrybutu głośności bazowej dźwięku, co oznacza, że na dźwięki o maksymalnej głośności bazowej (takie jak wystrzały) nie będą miały wpływu wartości wyższe niż 0,5.</text>
+	</string>
+	<string id="ui_mm_desc_zcp_settings_hint">
+		<text>Ustawienia populacji stalkerów i mutantów są dostępne w Mod Configuration Menu/ZCP.</text>
+	</string>
+	<string id="ui_mm_desc_ssfx_settings_hint">
+		<text>Więcej ustawień wizualnych dostępnych jest w Mod Configuration Menu/Ustawienia SSS.</text>
+	</string>
+	<string id="ui_mm_desc_fft_settings_hint">
+		<text>Więcej ustawień szybkiej podróży dostępnych jest w Mod Configuration Menu/Sprawiedliwa Szybka podróż.</text>
+	</string>
+	<string id="ui_mm_desc_aa_3dss_settings_hint">
+		<text>Ustawienia antyaliasingu i SMAA w grze są niekompatybilne z Shaderami celowników 3D.\nUżyj antyaliasingu w panelu sterowania swojej karty graficznej lub dostosuj rozdzielczość celowników w Mod Configuration Menu/Celowniki 3D.</text>
+	</string>
+</string_table>

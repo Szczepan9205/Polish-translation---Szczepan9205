@@ -21,23 +21,23 @@
     %c[0,209,172,56]Atut: %c[d_orange]Dezintegrator\n
     %c[0,81,63,22] • %c[0,209,172,56]Zmniejsza obra¿enia od pocisków o 15%\n
     %c[0,81,63,22] • %c[0,209,172,56]Zmniejszona iloœæ obra¿eñ jest konwertowana na promieniowanie\n
-	%c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]TAK\n
+    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]TAK\n
     %c[0,81,63,22] • %c[0,209,172,56]Zyski malej¹ce wraz ze stanem?: %c[ui_red]TAK
 	</text>
   </string>
   <string id="st_pba_af_fountain_perk">
     <text>
     %c[0,209,172,56]Atut: %c[d_orange]Zakupoholik\n
-    %c[0,81,63,22]  • %c[0,209,172,56]Otrzymujesz 4% zwrotu gotówki przy ka¿dym zakupie\n
+    %c[0,81,63,22] • %c[0,209,172,56]Otrzymujesz 4% zwrotu gotówki przy ka¿dym zakupie\n
     %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]TAK\n
     %c[0,81,63,22] • %c[0,209,172,56]Zyski malej¹ce wraz ze stanem?: %c[ui_green]NIE
 	</text>
   </string>
   <string id="st_pba_af_spaika_perk">
     <text>
-    %c[0,209,172,56]Atut: %c[d_orange]Krytyczne Wzniesienie\n
+    %c[0,209,172,56]Atut: %c[d_orange]Krytyczne wzniesienie\n
     %c[0,81,63,22] • %c[0,209,172,56]Pasywne +10% premii do obra¿eñ od trafieñ krytycznych\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kolejne trafienia zapewniaj¹ kumulacjê "Krytycznego Wzniesienia" \n
+    %c[0,81,63,22] • %c[0,209,172,56]Kolejne trafienia zapewniaj¹ kumulacjê "Krytycznego wzniesienia" \n
     %c[0,81,63,22] • %c[0,209,172,56]Ka¿dy poziom kumulacji "Krytyczne Wzniesienie" zapewnia +5% obra¿eñ do nastêpnego strza³u\n
     %c[0,81,63,22] • %c[0,209,172,56]Chybienie strza³u usuwa wszystkie kumulacje i zadaje obra¿enia psioniczne proporcjonalne do iloœci usuniêtych kumulacji\n
     %c[0,81,63,22] • %c[0,209,172,56]Bonus mo¿na kumulowaæ w nieskoñczonoœæ, o ile nie chybisz\n
@@ -48,7 +48,7 @@
   </string>
   <string id="st_pba_af_signet_perk">
     <text>
-    %c[0,209,172,56]Atut: %c[d_orange]ŒWIAT£O SPOKOJU\n
+    %c[0,209,172,56]Atut: %c[d_orange]Œwiat³o spokoju\n
     %c[0,81,63,22] • %c[0,209,172,56]Przywraca zdrowie i zdrowie psychiczne w pobli¿u ognisk\n
     %c[0,81,63,22] • %c[0,209,172,56]Wzmacnia artefakty przywracaj¹ce zdrowie psioniczne w pobli¿u ognisk\n
     %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]TAK\n
@@ -58,9 +58,9 @@
   <string id="st_pba_af_repei_perk">
     <text>
     %c[0,209,172,56]Atut: %c[d_orange]Drobne zranienie\n
-    %c[0,81,63,22]  • %c[0,209,172,56]Broñ traci 50% surowej mocy, ale zyskuje zdolnoœæ zadawania obra¿eñ od krwawienia\n
-    %c[0,81,63,22]  • %c[0,209,172,56]Kumulacja do krwawienia jest proporcjonalna do obra¿eñ zadawanych przez broñ\n
-    %c[0,81,63,22]  • %c[0,209,172,56]Daje wiêksz¹ szansê na popadniêcie NPC w stan zranienia, w którym bêd¹ b³agaæ o litoœæ i mog¹ udzieliæ ci cennych informacji, jeœli dotrzesz do nich, zanim umr¹\n
+    %c[0,81,63,22] • %c[0,209,172,56]Broñ traci 50% obra¿eñ, ale zyskuje zdolnoœæ zadawania %c[ui_red]obra¿eñ od krwawienia%c[0,209,172,56]\n
+    %c[0,81,63,22] • %c[0,209,172,56]Obra¿enia od krwawienia s¹ proporcjonalne do obra¿eñ zadawanych przez broñ\n
+    %c[0,81,63,22] • %c[0,209,172,56]Zwiêksza szansê na popadniêcie NPC w stan zranienia, w którym bêd¹ b³agaæ o litoœæ i mog¹ udzieliæ ci cennych informacji, jeœli dotrzesz do nich, zanim umr¹\n
     %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]TAK\n
     %c[0,81,63,22] • %c[0,209,172,56]Zyski malej¹ce wraz ze stanem?: %c[ui_green]NIE
   </text>
@@ -69,7 +69,7 @@
     <text>
     %c[0,209,172,56]Atut: %c[d_orange]Alchemia Zony\n
     %c[0,81,63,22] • %c[0,209,172,56]Umo¿liwia transmutacjê artefaktów.\n
-    %c[0,81,63,22] • %c[0,209,172,56]Artefakty mog¹ zostaæ "ulepszone", tj. zmienione na lepszy poziom (Gwiazda Wieczorna -> Grawi -> Z³ota Rybka), lub mog¹ zostaæ "zmutowane", tj. zmienione na inny typ zachowuj¹cy ten sam poziom (Gwiazda Wieczorna -> Kamienna Krew -> Meduza)\n
+    %c[0,81,63,22] • %c[0,209,172,56]Artefakty mog¹ zostaæ "ulepszone", tj. zmienione na lepszy poziom (Gwiazda wieczorna -> Grawi -> Z³ota rybka), lub mog¹ zostaæ "zmutowane", tj. zmienione na inny typ zachowuj¹cy ten sam poziom (Gwiazda wieczorna -> Kamienna krew -> Meduza)\n
     %c[0,81,63,22] • %c[0,209,172,56]Tylko artefakty i perki najwy¿szego poziomu mog¹ zostaæ zmutowane\n
     %c[0,81,63,22] • %c[0,209,172,56]Ka¿da transmutacja bêdzie kosztowaæ jeden artefakt "Nietoperz"\n
     %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]NIE
@@ -101,7 +101,7 @@
     %c[0,81,63,22] • %c[0,209,172,56]Zapewnia niewielk¹ regeneracjê zdrowia i wytrzyma³oœci\n
     %c[0,81,63,22] • %c[0,209,172,56]Cz³onkowie Grzechu potrajaj¹ efekt dzia³ania artefaktu i otrzymuj¹ regeneracjê zdrowia psionicznego\n
     %c[0,81,63,22] • %c[0,209,172,56]Towarzysze z frakcji Grzech otrzymuj¹ regeneracjê zdrowia\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE\n
+    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
   <string id="st_pba_af_atom_perk">
@@ -133,8 +133,8 @@
 	%c[0,81,63,22] • %c[0,209,172,56]Zapewnia du¿¹ pasywna odpornoœæ na obra¿enia psioniczne\n
     %c[0,81,63,22] • %c[0,209,172,56]Wysysa zdrowie psioniczne, aby przywróciæ zdrowie\n
     %c[0,81,63,22] • %c[0,209,172,56]Gdy zdrowie jest pe³ne, artefakt przywraca zdrowie psioniczne\n
-    %c[0,81,63,22] • %c[0,209,172,56]Istnieje szansa, ¿e wykonasz jedn¹ z szalonych, niekontrolowanych akcji\n
-    %c[0,81,63,22] • %c[0,209,172,56]Im ni¿szy stan zdrowia psionicznego, tym wiêksze prawdopodobieñstwo i dotkliwoœæ dzia³ania\n
+    %c[0,81,63,22] • %c[0,209,172,56]Istnieje szansa, ¿e zostaniesz opêtany i wykonasz jedn¹ z szalonych, niekontrolowanych akcji\n
+    %c[0,81,63,22] • %c[0,209,172,56]Im ni¿szy stan zdrowia psionicznego, tym wiêksze prawdopodobieñstwo wykonania akcji i tym wy¿sza jej dotkliwoœæ\n
     %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
@@ -145,7 +145,7 @@
     %c[0,81,63,22] • %c[0,209,172,56]Nasycona broñ traci 30% obra¿eñ, ale zyskuje 50% obra¿eñ od ¿ywio³ów zgodnie z typem anomalii\n
     %c[0,81,63,22] • %c[0,209,172,56]Tylko anomalie elektryczne, termiczne i chemiczne s¹ wa¿ne dla infuzji, w tym pola anomalii\n
     %c[0,81,63,22] • %c[0,209,172,56]Mo¿esz upuœciæ artefakt bezpoœrednio na broñ, aby zniszczyæ artefakt i nasyciæ broñ losowym efektem, który bêdzie trwa³ 10 minut\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE\n
+    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
   <string id="st_pba_af_kislushka_perk">
@@ -187,7 +187,7 @@
     %c[0,81,63,22] • %c[0,209,172,56]Czyni ciê kompletnie niewidzialnym\n
     %c[0,81,63,22] • %c[0,209,172,56]Efekt utrzymuje siê przez 1.5 minuty\n
     %c[0,81,63,22] • %c[0,209,172,56]Nie mo¿esz wyci¹gaæ broni, rozmawiaæ z nikim ani wchodziæ w interakcje z czymkolwiek\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE\n
+    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
   <string id="st_pba_af_medallion_perk">
@@ -202,7 +202,7 @@
   <string id="st_pba_af_peas_perk">
     <text>
     %c[0,209,172,56]Atut: %c[d_orange]Nocna sowa\n
-    %c[0,81,63,22] • %c[0,209,172,56]Leczy krwawienie i zwiêksza prêdkoœæ poruszania siê od zmierzchu do œwitu przy ka¿dej pogodzie\n
+    %c[0,81,63,22] • %c[0,209,172,56]Leczenie krwawienia i prêdkoœæ poruszania siê wzrastaj¹ od zmierzchu do œwitu\n
     %c[0,81,63,22] • %c[0,209,172,56]Zmniejsza sennoœæ w nocy, zwiêksza sennoœæ w ci¹gu dnia\n
     %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]TAK\n
     %c[0,81,63,22] • %c[0,209,172,56]Zyski malej¹ce wraz ze stanem?: %c[ui_red]NIE
@@ -218,25 +218,32 @@
 	</text>
   </string>
   <string id="st_pba_af_ball_perk">
-    <text>
-    %c[0,209,172,56]Atut: %c[d_orange]Dziadek do orzechów\n
-    %c[0,81,63,22] • %c[0,209,172,56]Pozwala kopaæ mutanty\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_green]TAK\n
-    %c[0,81,63,22] • %c[0,209,172,56]Zyski malej¹ce wraz ze stanem?: %c[ui_red]NIE
+	<text>
+	%c[0,209,172,56]Atut: %c[d_orange]Dziadek do orzechów\n
+	%c[0,81,63,22]  • %c[0,209,172,56]Wzmacnia potê¿n¹ stopê gracza i pozwala mu kopn¹æ wiêcej mutantów, powoduj¹c ich natychmiastow¹ œmieræ\n
+	%c[0,81,63,22]  • %c[0,209,172,56]Ka¿dy kolejny artefakt tego typu umieszczony na pasie pozwala kopaæ wiêcej mutantów\n
+	%c[0,81,63,22]  • %c[0,209,172,56]Czas odnowienia wynosi 2 sekundy z 1 artefaktem i wyd³u¿a siê o 1 sekundê z ka¿dym artefaktem umieszczonym na pasie\n
+	%c[0,81,63,22]  • %c[0,209,172,56]Naciœnij klawisz przypisany do akcji "U¿yj" w pobli¿u mutanta i w zasiêgu jego wzroku, aby wykonaæ kopniêcie\n \n 
+	%c[d_orange]Poziomy mutantów: \n
+		%c[0,192,71,221] -   1 artefakt: %c[ui_gray_3]koty, œlepe psy, tuszkany, szczury, zombie\n
+		%c[0,192,71,221] -   2 artefakty: %c[ui_gray_3]dziki, miêsacze, nibypsy, snorki, lurkery, po³amañce\n
+		%c[0,192,71,221] -   3 artefakty: %c[ui_gray_3]karliki, pijawki, pijawki psioniczne, nibypsy psioniczne, poltergeisty\n
+		%c[0,192,71,221] -   4 artefakty: %c[ui_gray_3]burery, kontrolerzy\n
+		%c[0,192,71,221] -   5 artefaktów: %c[ui_gray_3]chimery, nibyolbrzymy
 	</text>
   </string>
   <string id="st_pba_af_fonar_perk">
     <text>
     %c[0,209,172,56]Atut: %c[d_orange]Kleptomania\n
-    %c[0,81,63,22] • %c[0,209,172,56]Dziêki niemu schowki i przedmioty emituj¹ s³abe œwiat³o\n
-    %c[0,81,63,22] • %c[0,209,172,56]Dziêki niemu schowki i przedmioty emituj¹ sygna³ do odbiornika RF\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE\n
+    %c[0,81,63,22] • %c[0,209,172,56]Schowki i przedmioty emituj¹ dziêki niemu s³abe œwiat³o\n
+    %c[0,81,63,22] • %c[0,209,172,56]Schowki i przedmioty emituj¹ dziêki niemu sygna³ do odbiornika RF\n
+    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
   <string id="st_pba_af_tapeworm_perk">
     <text>
     %c[0,209,172,56]Atut: %c[d_orange]Og³uszacz\n
-    %c[0,81,63,22] • %c[0,209,172,56]Mo¿e mutanta, jeœli znajduje siê on w promieniu 2 metrów od artefaktu\n
+    %c[0,81,63,22] • %c[0,209,172,56]Szansa na og³uszenie mutanta, jeœli znajduje siê on w promieniu 2 metrów od artefaktu\n
     %c[0,81,63,22] • %c[0,209,172,56]Trafienie w walce wrêcz spowoduje og³uszenie atakuj¹cego na 3 sekundy\n
     %c[0,81,63,22] • %c[0,209,172,56]Podczas og³uszenia wróg jest wy³¹czony z walki i nie mo¿e atakowaæ\n
     %c[0,81,63,22] • %c[0,209,172,56]Samookaleczenie (np. zranienie siê w wyniku upadku) spowoduje roz³adowanie artefaktu\n
@@ -260,7 +267,7 @@
     %c[0,192,71,221] - Miêso z chimery: %c[ui_gray_3]regeneracja zdrowia 2%/s, regeneracja wytrzyma³oœci - 10%/s, redukcja obra¿eñ od promieniowania - 33%\n
     %c[0,192,71,221] - Miêso z lurkera: %c[ui_gray_3]redukcja obra¿eñ od anomalii chemicznych/ogniowych/elektrycznych o 33%, w tym od pól anomalnych\n
     %c[0,192,71,221] - Miêso z tuszkana: %c[ui_gray_3]zwiêkszenie prêdkoœci o 20%, zmniejszenie obra¿eñ w walce wrêcz o 20%
-	%c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE\n
+	%c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
   <string id="st_pba_af_serofim_perk">
@@ -269,7 +276,7 @@
     %c[0,81,63,22] • %c[0,209,172,56]Po otrzymaniu œmiertelnego ciosu artefakt zostaje zniszczony, a gracz odradza siê\n
     %c[0,81,63,22] • %c[0,209,172,56]Przywraca 50% zdrowia, leczy wszystkie negatywne efekty i zapewnia odpornoœæ na 5 sekund\n
     %c[0,81,63,22] • %c[0,209,172,56]Po odrodzeniu aktualna broñ zostaje upuszczona, a widzenie jest rozmyte\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE\n
+    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
   <string id="st_pba_af_elektron_perk">
@@ -277,7 +284,7 @@
     %c[0,209,172,56]Atut: %c[d_orange]Wysokie napiêcie\n
     %c[0,81,63,22] • %c[0,209,172,56]Wejœcie w "Elektrê" w pe³ni na³aduje baterie i aktywne urz¹dzenia\n
     %c[0,81,63,22] • %c[0,209,172,56]Wejœcie w "Elektrê" pozwoli na nieskoñczony sprint przez krótki okres czasu\n
-    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE\n
+    %c[0,81,63,22] • %c[0,209,172,56]Kumuluje siê z wieloma artefaktami?: %c[ui_red]NIE
 	</text>
   </string>
   <string id="st_pba_af_kogot_perk">
